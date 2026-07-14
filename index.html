@@ -2140,7 +2140,6 @@ async function ankiOpenBuf(buf){
     document.getElementById('anki-catwrap').style.display = res.decks.length>1 ? '' : 'none';
     ankiBuildOrder();
     document.getElementById('anki-viewer').style.display='block';
-    var ac=document.getElementById('anki-controls'); if(ac) ac.removeAttribute('open');
     ankiSetStatus('Loaded '+ankiCards.length+' cards'+(res.decks.length>1?' across '+res.decks.length+' categories':'')+'.');
   }catch(e){
     if(e.message==='NEW_FORMAT') ankiSetStatus('This deck uses Anki’s new export format. In Anki, re-export with "Support older Anki (2.0)" checked.',true);
