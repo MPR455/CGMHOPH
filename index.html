@@ -114,7 +114,7 @@ kbd{background:#eef1f5;border:1px solid #ccd4dd;border-bottom-width:2px;border-r
 .brand .burger{font-size:20px;color:#fff;line-height:1}
 .logo-chip{background:#fff;border-radius:7px;padding:3px 9px;display:flex;align-items:center}
 .logo-chip svg{height:40px;width:auto;display:block}
-.menu-dd{position:absolute;top:100%;left:0;margin-top:8px;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:0 12px 34px rgba(0,0,0,.28);min-width:230px;padding:6px;display:none;z-index:200}
+.menu-dd{position:fixed;top:64px;left:14px;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:0 12px 34px rgba(0,0,0,.28);min-width:230px;max-height:calc(100vh - 78px);overflow:auto;padding:6px;display:none;z-index:200}
 .menu-dd.open{display:block}
 .menu-item{display:block;width:100%;text-align:left;background:transparent;border:none;padding:9px 12px;font-size:14px;color:var(--ink);border-radius:7px;cursor:pointer}
 .menu-item:hover{background:var(--chip)}
