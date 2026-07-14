@@ -164,14 +164,41 @@ body.theme-black .rosennum{color:#fff}
 body.theme-black .chip{background:#1a1a1a;color:#ffd21f;border-color:#444}
 body.theme-black details.subguide{background:#0b0b0b}
 body.theme-black details.subguide>summary{color:#ffd21f}
+
+/* mobile */
+html,body{max-width:100%;overflow-x:hidden}
+.brand-hint{display:none;color:#fff;font-size:13px;font-weight:600;white-space:nowrap}
+@media(max-width:860px){
+  header nav{display:none}
+  .brand-hint{display:inline}
+  header{padding:8px 12px;gap:10px}
+  main{padding:12px 10px}
+  .logo-chip svg{height:32px}
+  details.guide>.gbody, details.subguide>.sgbody, .card{overflow-x:auto}
+  .menu-dd{max-height:75vh;overflow:auto}
+}
 </style>
 </head>
 <body>
 <header>
   <div id="menu-wrap" style="position:relative">
     <div class="brand" onclick="toggleMenu(event)" title="Menu">
+      <span class="brand-hint">Menu ▾</span>
       <span class="logo-chip"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 428" role="img" aria-label="Chang Gung Memorial Hospital Department of Ophthalmology">
-<style>.cgmh-eye{fill:var(--logo-eye,#009EE0)}.cgmh-pupil{fill:var(--logo-pupil,#10233F)}.cgmh-orange{fill:var(--logo-orange,#F58220)}.cgmh-green{fill:var(--logo-green,#39B54A)}</style>
+<style>.cgmh-eye{fill:var(--logo-eye,#009EE0)}.cgmh-pupil{fill:var(--logo-pupil,#10233F)}.cgmh-orange{fill:var(--logo-orange,#F58220)}.cgmh-green{fill:var(--logo-green,#39B54A)}
+/* mobile */
+html,body{max-width:100%;overflow-x:hidden}
+.brand-hint{display:none;color:#fff;font-size:13px;font-weight:600;white-space:nowrap}
+@media(max-width:860px){
+  header nav{display:none}
+  .brand-hint{display:inline}
+  header{padding:8px 12px;gap:10px}
+  main{padding:12px 10px}
+  .logo-chip svg{height:32px}
+  details.guide>.gbody, details.subguide>.sgbody, .card{overflow-x:auto}
+  .menu-dd{max-height:75vh;overflow:auto}
+}
+</style>
 <path class="cgmh-eye" transform="translate(279.375,54.625)" d="M0 0 C1.21172 -0.0116 2.42344 -0.0232 3.67188 -0.03516 C12.32351 -0.00749 20.254 1.22746 28.625 3.375 C29.36105 3.56304 30.09711 3.75108 30.85547 3.94482 C51.00269 9.48423 67.59639 21.18983 82.625 35.375 C82.96273 35.68631 82.96273 35.68631 84.67188 37.26172 C94.70758 46.83579 102.24951 58.14331 108.625 70.375 C109.23215 71.52355 109.8393 72.67211 110.46484 73.85547 C124.11283 100.7335 129.08246 135.89384 119.79443 164.97559 C114.82205 179.12994 108.26478 190.87558 98.625 202.375 C98.09391 203.05305 97.56281 203.73109 97.01562 204.42969 C83.42147 221.18684 60.95924 231.88115 39.69678 234.21167 C7.74538 236.73058 -22.666 226.49514 -47.1875 206 C-65.77162 189.91133 -81.01976 168.96727 -88.375 145.375 C-88.54258 144.87484 -88.54258 144.87484 -89.39062 142.34375 C-93.7389 128.97443 -95.94606 116.2405 -95.875 102.1875 C-95.87291 101.51691 -95.87081 100.84631 -95.86865 100.1554 C-95.79279 88.29789 -94.40043 77.54209 -90.375 66.375 C-90.08029 65.55048 -89.78558 64.72597 -89.48193 63.87646 C-85.74648 53.72295 -81.45654 44.66592 -74.375 36.375 C-73.66473 35.52809 -72.95445 34.68117 -72.22266 33.80859 C-59.47454 19.1337 -45.15 8.79581 -26.375 3.375 C-25.52003 3.11606 -24.66506 2.85712 -23.78418 2.59033 C-15.78213 0.343 -8.28318 -0.0788 0 0 Z M5.625 26.375 C4.75 29.25 4.75 29.25 5.625 32.375 C7.77549 35.72923 10.03484 37.64439 13.625 39.375 C16.49458 39.7975 19.00778 40.045 21.875 40.0625 C22.22369 40.06596 22.22369 40.06596 23.98828 40.0835 C27.39287 39.96296 29.33927 39.59191 32.07422 37.51562 C33.625 35.375 33.625 35.375 34.1875 32.4375 C33.42257 28.27289 31.92833 26.9755 28.625 24.375 C20.63589 19.83217 11.78383 18.91957 5.625 26.375 Z M42.625 36.375 C41.965 37.035 41.305 37.695 40.625 38.375 C40.625 39.695 40.625 41.015 40.625 42.375 C43.5 43 43.5 43 46.625 43.375 C47.285 42.715 47.945 42.055 48.625 41.375 C48.25 39.25 48.25 39.25 47.625 37.375 C45.25 36.75 45.25 36.75 42.625 36.375 Z M19.625 61.1875 C16.68918 65.86647 16.77161 69.99393 17.625 75.375 C19.76472 79.81294 22.05548 82.46218 26.625 84.375 C30.89449 84.90869 32.86681 84.86947 36.5 82.5 C39.28471 79.71529 39.82612 78.08871 40 74.25 C39.94946 69.03624 38.1245 65.21524 34.625 61.375 C29.58385 58.24601 24.60306 58.17992 19.625 61.1875 Z "/>
 <path class="cgmh-pupil" transform="translate(320,110)" d="M0 0 C0.83273 0.36352 1.66547 0.72703 2.52344 1.10156 C14.70103 6.76981 23.27727 16.35253 28.25781 28.91406 C32.31515 40.31732 32.7345 52.92986 28.32031 64.32031 C23.52685 74.04905 15.48444 81.76373 5.21069 85.39355 C-6.04575 88.48146 -17.73636 86.8578 -27.81421 81.26392 C-39.6882 74.20275 -48.1495 63.67939 -52.08594 50.3125 C-54.81167 38.92834 -54.37201 25.28669 -48.30078 15.16797 C-37.28108 -1.00436 -18.67239 -8.48745 0 0 Z M-21 5.8125 C-23.93582 10.49147 -23.85339 14.61893 -23 20 C-20.86028 24.43794 -18.56952 27.08718 -14 29 C-9.73051 29.53369 -7.75819 29.49447 -4.125 27.125 C-1.34029 24.34029 -0.79888 22.71371 -0.625 18.875 C-0.67554 13.66124 -2.5005 9.84024 -6 6 C-11.04115 2.87101 -16.02194 2.80492 -21 5.8125 Z "/>
 <path class="cgmh-orange" transform="translate(425,244)" d="M0 0 C2.53372 2.0095 3.83801 3.21045 4.49609 6.41797 C3.78149 40.19507 -11.29572 71.40879 -34 96 C-44.33445 105.49918 -56.41982 114.72982 -69 121 C-70.14469 121.60199 -71.28938 122.20398 -72.46875 122.82422 C-86.27553 130.01815 -100.17149 135.53919 -115.3125 139.25 C-115.78555 139.36706 -115.78555 139.36706 -118.17944 139.95947 C-135.36903 143.9504 -152.37417 145.5007 -169.99341 145.39111 C-173.06441 145.37499 -176.13411 145.3911 -179.20508 145.41016 C-215.44353 145.45038 -246.6862 134.71498 -279.13525 119.45532 C-310.04225 104.946 -339.37028 98.25838 -372.52734 109.5625 C-383.8849 113.35252 -383.8849 113.35252 -389 112.5 C-391 111 -391 111 -392.1875 108.3125 C-391.96938 104.45909 -390.89144 102.61379 -388.22656 99.85156 C-380.65623 93.55623 -371.6953 89.63909 -362.5625 86.1875 C-361.83716 85.90971 -361.11182 85.63191 -360.3645 85.3457 C-346.47863 80.35971 -332.89465 79.45767 -318.3125 79.5625 C-317.42948 79.56521 -316.54646 79.56792 -315.63669 79.57071 C-302.67846 79.63105 -290.49724 80.33931 -278 84 C-276.64135 84.35692 -275.28197 84.71109 -273.92188 85.0625 C-266.55491 87.03879 -259.42545 89.5551 -252.27759 92.20776 C-230.61959 100.22657 -209.00892 105.79683 -186 108 C-185.63922 108.03988 -185.63922 108.03988 -183.81348 108.2417 C-171.73499 109.57307 -160.01862 108.41719 -148 107 C-146.74574 106.85434 -145.49148 106.70867 -144.19922 106.55859 C-114.58699 102.54521 -85.50822 88.49931 -63 69 C-62.59781 68.6526 -62.59781 68.6526 -60.5625 66.89453 C-42.03215 50.5357 -26.65947 32.04961 -15.52368 9.93921 C-12.17648 3.54021 -7.85654 -1.36636 0 0 Z "/>
@@ -231,6 +258,7 @@ body.theme-black details.subguide>summary{color:#ffd21f}
     <button data-tab="bank" onclick="showTab('bank')">📚 Template Bank</button>
     <button data-tab="ophmed" onclick="showTab('ophmed')">💊 OPH Med</button>
     <button data-tab="anki" onclick="showTab('anki')">🃏 OPH Study</button>
+    <button data-tab="info" onclick="showTab('info')" title="Information" style="font-size:17px">&#9432;</button>
   </nav>
 </header>
 <main>
@@ -1899,6 +1927,36 @@ Admit overnight new patients.</div>
   <div class="card" style="text-align:center;padding:40px 20px">
     <h2 style="margin:0 0 6px">📈 Progress Note</h2>
     <p class="small" style="margin:0">Coming soon.</p>
+  </div>
+</div>
+</div>
+
+<div class="tab" id="tab-info">
+<div style="max-width:760px;margin:0 auto">
+  <div class="card">
+    <h2>About This Website</h2>
+    <p>This website was created by <b>Victor Lin</b> as a personal clinical reference and educational tool for ophthalmology related workflow and studies.</p>
+
+    <h3>Intended Use</h3>
+    <p>The content is intended for personal and educational use only. This website is not an official hospital system, institutional protocol, clinical guideline, or medical publication, and it is not affiliated with or endorsed by Chang Gung Memorial Hospital or any other institution.</p>
+
+    <h3>Medical Disclaimer</h3>
+    <p>The information provided on this website is for reference only and does not replace:</p>
+    <ul>
+      <li>Clinical judgment and direct patient assessment</li>
+      <li>Supervision or consultation with senior physicians</li>
+      <li>Current institutional protocols</li>
+      <li>Updated professional guidelines and primary references</li>
+    </ul>
+    <p>Medical knowledge, hospital workflows, and documentation requirements may change over time. Users should independently verify important information before applying it in clinical practice.</p>
+    <div class="note"><b>Do not enter identifiable patient information or other confidential data into this website.</b></div>
+
+    <h3>Feedback and Contact</h3>
+    <p>Although efforts are made to maintain accurate and updated content, errors, outdated information, or software bugs may still occur. For bug reports, content corrections, information updates, or suggestions for new features, please contact:</p>
+    <p><b>Victor Lin, MD, MS</b><br>Email: <a href="mailto:mpr455.cgmh@gmail.com">mpr455.cgmh@gmail.com</a></p>
+
+    <h3>Copyright</h3>
+    <p>&copy; <b>Victor Lin</b>. For personal and educational use only.</p>
   </div>
 </div>
 </div>
