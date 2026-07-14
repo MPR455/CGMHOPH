@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>OPH Consult Assistant</title>
+<title>CGMH OPH</title>
 <style>
 :root{
   --bg:#f4f6f9; --card:#ffffff; --ink:#1c2733; --sub:#5b6b7c; --line:#dde4ec;
@@ -109,7 +109,7 @@ kbd{background:#eef1f5;border:1px solid #ccd4dd;border-bottom-width:2px;border-r
     <button data-tab="pgy" onclick="showTab('pgy')">🩺 PGY Guide</button>
     <button data-tab="builder" onclick="showTab('builder')">📝 Consult Note</button>
     <button data-tab="bank" onclick="showTab('bank')">📚 Template Bank</button>
-    <button data-tab="anki" onclick="showTab('anki')">🃏 Flashcards</button>
+    <button data-tab="anki" onclick="showTab('anki')">🃏 OPH Study</button>
   </nav>
 </header>
 <main>
@@ -263,13 +263,14 @@ kbd{background:#eef1f5;border:1px solid #ccd4dd;border-bottom-width:2px;border-r
 <div class="tab" id="tab-anki">
 <div style="max-width:820px;margin:0 auto">
   <div class="card">
-    <h2>🃏 Flashcards <span class="small" style="font-weight:400">— Anki .apkg viewer</span></h2>
+    <h2>🃏 OPH Study <span class="small" style="font-weight:400">— Anki .apkg viewer</span></h2>
     <div class="row" style="align-items:flex-end">
       <div style="flex:2"><label>Bundled deck</label><select id="anki-deck"></select></div>
       <button class="btn sm" onclick="ankiLoadSelected()">Load</button>
       <button class="btn sm sec" onclick="document.getElementById('anki-file').click()">Open .apkg…</button>
       <input type="file" id="anki-file" accept=".apkg" style="display:none" onchange="ankiOpenFile(this)">
     </div>
+    <div class="row" id="anki-catwrap" style="margin-top:10px;display:none"><div style="flex:2"><label>Category</label><select id="anki-cat" onchange="ankiApplyCategory()"></select></div></div>
     <label style="display:flex;align-items:center;gap:6px;margin-top:10px"><input type="checkbox" id="anki-shuffle" onchange="ankiReshuffle()"> Shuffle</label>
     <div class="small" id="anki-status" style="margin-top:6px">Loads reference flashcards. Needs internet the first time (fetches the reader libraries).</div>
   </div>
@@ -465,12 +466,9 @@ function ankiRender(tmpl, fmap, frontSide, ord, showAnswer){
   var s = String(tmpl==null?'':tmpl);
   s = s.replace(/\{\{FrontSide\}\}/g, frontSide||'');
   s = s.replace(/\{\{cloze:([^}]+)\}\}/g, function(m,f){ return ankiCloze(fmap[f.trim()]||'', (ord||0)+1, showAnswer); });
-  // conditional sections
   s = s.replace(/\{\{#([^}]+)\}\}([\s\S]*?)\{\{\/[^}]+\}\}/g, function(m,f,inner){ return fmap[f.trim()] ? inner : ''; });
   s = s.replace(/\{\{\^([^}]+)\}\}([\s\S]*?)\{\{\/[^}]+\}\}/g, function(m,f,inner){ return fmap[f.trim()] ? '' : inner; });
-  // [sound:x] -> audio placeholder
   s = s.replace(/\[sound:([^\]]+)\]/g, function(m,f){ return '<audio controls data-file="'+f+'"></audio>'; });
-  // plain fields (with optional filter like hint:, type:, text:)
   s = s.replace(/\{\{([^}#\/^][^}]*)\}\}/g, function(m,expr){
     expr=expr.trim();
     var name = expr.indexOf(':')>=0 ? expr.split(':').pop().trim() : expr;
@@ -478,18 +476,20 @@ function ankiRender(tmpl, fmap, frontSide, ord, showAnswer){
   });
   return s;
 }
-// zip: JSZip instance; SQL: initialised sql.js module
 async function ankiLoad(zip, SQL){
   var dbEntry = zip.file('collection.anki21') || zip.file('collection.anki2');
   if(!dbEntry) throw new Error('NEW_FORMAT');
   var dbBuf = await dbEntry.async('uint8array');
   var db = new SQL.Database(dbBuf);
-  var models = JSON.parse(db.exec('SELECT models FROM col')[0].values[0][0]);
+  var colRow = db.exec('SELECT models, decks FROM col')[0].values[0];
+  var models = JSON.parse(colRow[0]);
+  var deckMap = {};
+  try{ var dj = JSON.parse(colRow[1]||'{}'); for(var dk in dj){ deckMap[String(dj[dk].id)] = dj[dk].name; } }catch(e){}
   var nR = db.exec('SELECT id, mid, flds FROM notes')[0];
   var notes = {};
   (nR ? nR.values : []).forEach(function(r){ notes[r[0]] = { mid:String(r[1]), flds:String(r[2]).split('\x1f') }; });
-  var cR = db.exec('SELECT nid, ord FROM cards')[0];
-  var raw = (cR ? cR.values : []).map(function(r){ return { nid:r[0], ord:(r[1]|0) }; });
+  var cR = db.exec('SELECT nid, ord, did FROM cards')[0];
+  var raw = (cR ? cR.values : []).map(function(r){ return { nid:r[0], ord:(r[1]|0), did:String(r[2]) }; });
   db.close();
   var media = {};
   var mE = zip.file('media');
@@ -505,11 +505,13 @@ async function ankiLoad(zip, SQL){
     if(!tmpl) return;
     var front = ankiRender(tmpl.qfmt, fmap, '', c.ord, false);
     var back  = ankiRender(tmpl.afmt, fmap, front, c.ord, true);
-    cards.push({ front:front, back:back, model:model.name });
+    cards.push({ front:front, back:back, model:model.name, deck:(deckMap[c.did]||'Default') });
   });
-  return { cards:cards, media:media };
+  var decks = [];
+  cards.forEach(function(c){ if(decks.indexOf(c.deck)<0) decks.push(c.deck); });
+  decks.sort();
+  return { cards:cards, media:media, decks:decks };
 }
-
 /* ---- Anki viewer glue ---- */
 var ankiZip=null, ankiCards=[], ankiMedia={}, ankiOrder=[], ankiPos=0, ankiShow=false, ankiLibsP=null;
 function ankiSetStatus(msg,err){ var e=document.getElementById('anki-status'); if(e){ e.textContent=msg; e.style.color=err?'#c0392b':''; } }
@@ -540,9 +542,12 @@ async function ankiOpenBuf(buf){
     var res=await ankiLoad(zip,SQL);
     if(!res.cards.length){ ankiSetStatus('No cards found in this deck.',true); return; }
     ankiZip=zip; ankiCards=res.cards; ankiMedia=res.media;
-    ankiReshuffle();
+    var catSel=document.getElementById('anki-cat');
+    catSel.innerHTML='<option value="">All categories ('+ankiCards.length+')</option>'+res.decks.map(function(dn){ var n=ankiCards.filter(function(c){return c.deck===dn;}).length; return '<option value="'+dn.replace(/"/g,'&quot;')+'">'+dn+' ('+n+')</option>'; }).join('');
+    document.getElementById('anki-catwrap').style.display = res.decks.length>1 ? '' : 'none';
+    ankiBuildOrder();
     document.getElementById('anki-viewer').style.display='block';
-    ankiSetStatus('Loaded '+ankiCards.length+' cards.');
+    ankiSetStatus('Loaded '+ankiCards.length+' cards'+(res.decks.length>1?' across '+res.decks.length+' categories':'')+'.');
   }catch(e){
     if(e.message==='NEW_FORMAT') ankiSetStatus('This deck uses Anki’s new export format. In Anki, re-export with "Support older Anki (2.0)" checked.',true);
     else ankiSetStatus('Could not open deck: '+e.message,true);
@@ -555,11 +560,17 @@ function ankiLoadSelected(){
   fetch(f).then(function(r){ if(!r.ok) throw new Error('HTTP '+r.status); return r.arrayBuffer(); }).then(ankiOpenBuf).catch(function(e){ ankiSetStatus('Could not fetch '+f+': '+e.message,true); });
 }
 function ankiOpenFile(inp){ var f=inp.files[0]; if(!f) return; f.arrayBuffer().then(ankiOpenBuf); inp.value=''; }
-function ankiReshuffle(){
-  ankiOrder=ankiCards.map(function(_,i){ return i; });
+function ankiBuildOrder(){
+  var cat=(document.getElementById('anki-cat')||{}).value||'';
+  ankiOrder=[];
+  for(var i=0;i<ankiCards.length;i++){ if(!cat||ankiCards[i].deck===cat) ankiOrder.push(i); }
   if(document.getElementById('anki-shuffle').checked){ for(var i=ankiOrder.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=ankiOrder[i]; ankiOrder[i]=ankiOrder[j]; ankiOrder[j]=t; } }
-  ankiPos=0; ankiShow=false; if(ankiCards.length) ankiRenderCard();
+  ankiPos=0; ankiShow=false;
+  if(ankiOrder.length){ ankiRenderCard(); }
+  else { document.getElementById('anki-card').innerHTML='<div class="small">No cards in this category.</div>'; document.getElementById('anki-count').textContent=''; document.getElementById('anki-reveal').disabled=true; }
 }
+function ankiReshuffle(){ if(ankiCards.length) ankiBuildOrder(); }
+function ankiApplyCategory(){ if(ankiCards.length) ankiBuildOrder(); }
 function ankiRenderCard(){
   var cont=document.getElementById('anki-card'); if(!cont||!ankiCards.length) return;
   var card=ankiCards[ankiOrder[ankiPos]];
