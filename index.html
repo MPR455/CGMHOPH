@@ -96,6 +96,15 @@ dialog::backdrop{background:rgba(20,30,40,.45)}
 .gatebox .sub{font-size:12.5px;color:var(--sub);margin-bottom:14px}
 .gatebox input{margin-bottom:4px}
 .cloze{color:var(--acc);font-weight:700}
+.btn.on{background:var(--acc);color:#fff}
+.ebrowse-tb{display:flex;gap:6px;margin:8px 0}
+.ecard{border:1px solid var(--line);border-radius:8px;padding:8px 10px;font-size:12px;width:160px;max-height:78px;overflow:hidden;cursor:pointer;background:#fff;line-height:1.35}
+.ecard:hover{background:var(--chip)}
+.ecard.cur{border-color:var(--acc);box-shadow:0 0 0 2px #bcd8ef}
+.erow{padding:6px 8px;border-bottom:1px solid var(--line);font-size:12.5px;cursor:pointer;display:flex;gap:8px}
+.erow:hover{background:var(--chip)}
+.erow.cur{background:#eaf2fa}
+.erow .n{color:var(--sub);min-width:26px;text-align:right}
 #anki-card img{max-width:100%;height:auto;border-radius:6px}
 #anki-card hr{border:none;border-top:1px solid var(--line);margin:12px 0}
 kbd{background:#eef1f5;border:1px solid #ccd4dd;border-bottom-width:2px;border-radius:4px;padding:0 5px;font-size:11.5px;font-family:var(--mono)}
@@ -283,6 +292,14 @@ kbd{background:#eef1f5;border:1px solid #ccd4dd;border-bottom-width:2px;border-r
       <button class="btn sm sec" onclick="ankiNext()">Next ▶</button>
     </div>
     <div class="small" style="text-align:center;margin-top:8px">Keys: <kbd>A</kbd> prev &nbsp;·&nbsp; <kbd>S</kbd> show answer &nbsp;·&nbsp; <kbd>D</kbd> next</div>
+    <details style="margin-top:12px">
+      <summary style="cursor:pointer;font-size:13px;color:var(--acc2);font-weight:600">Browse cards in this category</summary>
+      <div class="ebrowse-tb">
+        <button class="btn sm sec on" id="ev-card" onclick="ankiSetView('card')">🃏 Cards</button>
+        <button class="btn sm sec" id="ev-list" onclick="ankiSetView('list')">☰ List</button>
+      </div>
+      <div id="anki-browse" style="max-height:340px;overflow:auto"></div>
+    </details>
   </div>
 </div>
 </div>
@@ -567,7 +584,7 @@ function ankiBuildOrder(){
   for(var i=0;i<ankiCards.length;i++){ if(!cat||ankiCards[i].deck===cat) ankiOrder.push(i); }
   if(document.getElementById('anki-shuffle').checked){ for(var i=ankiOrder.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=ankiOrder[i]; ankiOrder[i]=ankiOrder[j]; ankiOrder[j]=t; } }
   ankiPos=0; ankiShow=false;
-  if(ankiOrder.length){ ankiRenderCard(); }
+  if(ankiOrder.length){ ankiRenderCard(); ankiRenderBrowse(); }
   else { document.getElementById('anki-card').innerHTML='<div class="small">No cards in this category.</div>'; document.getElementById('anki-count').textContent=''; document.getElementById('anki-reveal').disabled=true; }
 }
 function ankiReshuffle(){ if(ankiCards.length) ankiBuildOrder(); }
@@ -579,6 +596,7 @@ function ankiRenderCard(){
   var rv=document.getElementById('anki-reveal'); rv.textContent= ankiShow?'Answer shown':'Show answer'; rv.disabled=ankiShow;
   document.getElementById('anki-count').textContent='Card '+(ankiPos+1)+' of '+ankiOrder.length+(card.model?'  ·  '+card.model:'');
   ankiResolveMedia(cont);
+  ankiHighlightBrowse();
 }
 function ankiResolveMedia(cont){
   if(!ankiZip) return;
@@ -594,6 +612,26 @@ function ankiResolveMedia(cont){
 function ankiReveal(){ ankiShow=true; ankiRenderCard(); }
 function ankiNext(){ if(!ankiCards.length) return; ankiPos=(ankiPos+1)%ankiOrder.length; ankiShow=false; ankiRenderCard(); }
 function ankiPrev(){ if(!ankiCards.length) return; ankiPos=(ankiPos-1+ankiOrder.length)%ankiOrder.length; ankiShow=false; ankiRenderCard(); }
+var ankiView="card";
+function ankiText(h){ var dv=document.createElement("div"); dv.innerHTML=h; return (dv.textContent||"").replace(/\s+/g," ").trim(); }
+function ankiSetView(v){ ankiView=v; var a=document.getElementById("ev-card"),b=document.getElementById("ev-list"); if(a)a.classList.toggle("on",v==="card"); if(b)b.classList.toggle("on",v==="list"); ankiRenderBrowse(); }
+function ankiRenderBrowse(){
+  var box=document.getElementById("anki-browse"); if(!box) return;
+  if(!ankiOrder.length){ box.innerHTML='<div class="small">No cards.</div>'; return; }
+  var html;
+  if(ankiView==="list"){
+    html=ankiOrder.map(function(idx,pos){ var t=ankiText(ankiCards[idx].front)||"(no text)"; return '<div class="erow'+(pos===ankiPos?" cur":"")+'" data-pos="'+pos+'" onclick="ankiJump('+pos+')"><span class="n">'+(pos+1)+'</span><span>'+esc(t)+'</span></div>'; }).join("");
+  } else {
+    html='<div style="display:flex;flex-wrap:wrap;gap:8px">'+ankiOrder.map(function(idx,pos){ var t=ankiText(ankiCards[idx].front)||"(no text)"; return '<div class="ecard'+(pos===ankiPos?" cur":"")+'" data-pos="'+pos+'" onclick="ankiJump('+pos+')"><b>'+(pos+1)+'.</b> '+esc(t)+'</div>'; }).join("")+'</div>';
+  }
+  box.innerHTML=html;
+}
+function ankiHighlightBrowse(){
+  var box=document.getElementById("anki-browse"); if(!box) return;
+  var els=box.querySelectorAll("[data-pos]"); for(var i=0;i<els.length;i++){ els[i].classList.toggle("cur",(+els[i].getAttribute("data-pos"))===ankiPos); }
+  var cur=box.querySelector("[data-pos].cur"); if(cur&&cur.scrollIntoView) cur.scrollIntoView({block:"nearest"});
+}
+function ankiJump(pos){ ankiPos=pos; ankiShow=false; ankiRenderCard(); }
 document.addEventListener("keydown", function(e){
   var at=document.getElementById("tab-anki"); if(!at||!at.classList.contains("active")) return;
   var tag=(e.target&&e.target.tagName||"").toLowerCase();
