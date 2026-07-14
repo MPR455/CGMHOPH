@@ -282,6 +282,7 @@ kbd{background:#eef1f5;border:1px solid #ccd4dd;border-bottom-width:2px;border-r
       <button class="btn sm" id="anki-reveal" onclick="ankiReveal()">Show answer</button>
       <button class="btn sm sec" onclick="ankiNext()">Next ▶</button>
     </div>
+    <div class="small" style="text-align:center;margin-top:8px">Keys: <kbd>A</kbd> prev &nbsp;·&nbsp; <kbd>S</kbd> show answer &nbsp;·&nbsp; <kbd>D</kbd> next</div>
   </div>
 </div>
 </div>
@@ -593,6 +594,17 @@ function ankiResolveMedia(cont){
 function ankiReveal(){ ankiShow=true; ankiRenderCard(); }
 function ankiNext(){ if(!ankiCards.length) return; ankiPos=(ankiPos+1)%ankiOrder.length; ankiShow=false; ankiRenderCard(); }
 function ankiPrev(){ if(!ankiCards.length) return; ankiPos=(ankiPos-1+ankiOrder.length)%ankiOrder.length; ankiShow=false; ankiRenderCard(); }
+document.addEventListener("keydown", function(e){
+  var at=document.getElementById("tab-anki"); if(!at||!at.classList.contains("active")) return;
+  var tag=(e.target&&e.target.tagName||"").toLowerCase();
+  if(tag==="input"||tag==="textarea"||tag==="select") return;
+  if(e.ctrlKey||e.metaKey||e.altKey) return;
+  if(!ankiCards.length) return;
+  var k=(e.key||"").toLowerCase();
+  if(k==="a"){ ankiPrev(); e.preventDefault(); }
+  else if(k==="s"){ ankiReveal(); e.preventDefault(); }
+  else if(k==="d"){ ankiNext(); e.preventDefault(); }
+});
 
 /* ================= tabs ================= */
 function showTab(id){
