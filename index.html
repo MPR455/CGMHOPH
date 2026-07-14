@@ -1934,15 +1934,34 @@ if(!Array.isArray(BANK) || !BANK.length) BANK = JSON.parse(JSON.stringify(BUILTI
 function saveBank(){ localStorage.setItem('oph_bank_v2', JSON.stringify(BANK)); }
 function cats(){ return [...new Set(BANK.map(t=>t.category))].sort((a,b)=>a.localeCompare(b)); }
 
-var GATES={builder:{p:"cgmhoph"},bank:{p:"mpr455"},anki:{p:"mpr455"}};
+var TAB_LABELS={builder:"Consult Note",bank:"Template Bank",anki:"OPH Study"};
+function accessFor(pw){
+  pw=(pw||"").trim().toLowerCase();
+  if(pw==="mpr455") return ["builder","bank","anki"];   // master key
+  if(pw==="cgmhoph") return ["builder"];                // consult note only
+  return [];
+}
+function applyUnlock(pw){
+  var tabs=accessFor(pw);
+  tabs.forEach(function(id){ var t=document.getElementById("tab-"+id); if(t) t.classList.remove("locked"); });
+  return tabs;
+}
 function tryLogin(id){
-  var g=GATES[id];
-  var p=document.getElementById("gp-"+id).value||"";
-  if(p===g.p){
-    document.getElementById("tab-"+id).classList.remove("locked");
-    document.getElementById("ge-"+id).textContent="";
+  var pw=document.getElementById("gp-"+id).value||"";
+  var g=applyUnlock(pw);
+  var msg=document.getElementById("ge-"+id);
+  if(g.length){
     document.getElementById("gp-"+id).value="";
-  } else { document.getElementById("ge-"+id).textContent="Incorrect password."; }
+    if(g.indexOf(id)>=0){ msg.textContent=""; }
+    else { msg.style.color="var(--ok)"; msg.textContent="Unlocked "+g.map(function(x){return TAB_LABELS[x];}).join(", ")+" (not this tab)."; }
+  } else { msg.style.color="#c0392b"; msg.textContent="Incorrect password."; }
+}
+function menuLogin(){
+  var pw=document.getElementById("menu-pw").value||"";
+  var g=applyUnlock(pw);
+  var msg=document.getElementById("menu-pw-msg");
+  if(g.length){ msg.style.color="var(--ok)"; msg.textContent="Unlocked: "+g.map(function(x){return TAB_LABELS[x];}).join(", "); document.getElementById("menu-pw").value=""; }
+  else { msg.style.color="#c0392b"; msg.textContent="Incorrect password."; }
 }
 function gateKey(e,id){ if(e.key==="Enter") tryLogin(id); }
 var QTPL=[];
@@ -2162,7 +2181,11 @@ function buildMenu(){
   document.querySelectorAll("nav button").forEach(function(b){
     h+='<button class="menu-item" data-tab="'+b.dataset.tab+'" onclick="menuGo(\''+b.dataset.tab+'\')">'+b.textContent.trim()+'</button>';
   });
-  h+='<div class="menu-sep"></div><div class="menu-label">Color theme</div><div class="theme-row">'
+  h+='<div class="menu-sep"></div><div class="menu-label">Access</div>'
+   +'<div style="padding:2px 12px 8px"><input id="menu-pw" type="password" placeholder="Password" onkeydown="if(event.key===\'Enter\')menuLogin()" style="width:100%">'
+   +'<button class="btn sm" style="margin-top:6px;width:100%" onclick="menuLogin()">Unlock tabs</button>'
+   +'<div class="small" id="menu-pw-msg" style="margin-top:5px"></div></div>'
+   +'<div class="menu-sep"></div><div class="menu-label">Color theme</div><div class="theme-row">'
    +'<div class="theme-dot" title="Default" data-theme="default" style="background:#0f6bb2" onclick="setTheme(\'default\')"></div>'
    +'<div class="theme-dot" title="Macaroon" data-theme="macaroon" style="background:#e0873a" onclick="setTheme(\'macaroon\')"></div>'
    +'<div class="theme-dot" title="Dark" data-theme="dark" style="background:#1a2632" onclick="setTheme(\'dark\')"></div>'
