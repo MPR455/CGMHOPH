@@ -188,6 +188,10 @@ html,body{max-width:100%;overflow-x:hidden}
   .exam-grid .lbl{font-size:11.5px}
   .btnrow{gap:6px}
 }
+html{overflow-y:scroll}
+body.banner-hidden header{display:none}
+body.banner-hidden main{padding-top:64px}
+#float-logo{position:fixed;top:12px;left:12px;z-index:210;width:46px;height:46px;border-radius:50%;background:var(--acc2);color:#fff;border:none;font-size:20px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.3);align-items:center;justify-content:center;display:none}
 </style>
 </head>
 <body>
@@ -220,6 +224,10 @@ html,body{max-width:100%;overflow-x:hidden}
   .exam-grid .lbl{font-size:11.5px}
   .btnrow{gap:6px}
 }
+html{overflow-y:scroll}
+body.banner-hidden header{display:none}
+body.banner-hidden main{padding-top:64px}
+#float-logo{position:fixed;top:12px;left:12px;z-index:210;width:46px;height:46px;border-radius:50%;background:var(--acc2);color:#fff;border:none;font-size:20px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.3);align-items:center;justify-content:center;display:none}
 </style>
 <path class="cgmh-eye" transform="translate(279.375,54.625)" d="M0 0 C1.21172 -0.0116 2.42344 -0.0232 3.67188 -0.03516 C12.32351 -0.00749 20.254 1.22746 28.625 3.375 C29.36105 3.56304 30.09711 3.75108 30.85547 3.94482 C51.00269 9.48423 67.59639 21.18983 82.625 35.375 C82.96273 35.68631 82.96273 35.68631 84.67188 37.26172 C94.70758 46.83579 102.24951 58.14331 108.625 70.375 C109.23215 71.52355 109.8393 72.67211 110.46484 73.85547 C124.11283 100.7335 129.08246 135.89384 119.79443 164.97559 C114.82205 179.12994 108.26478 190.87558 98.625 202.375 C98.09391 203.05305 97.56281 203.73109 97.01562 204.42969 C83.42147 221.18684 60.95924 231.88115 39.69678 234.21167 C7.74538 236.73058 -22.666 226.49514 -47.1875 206 C-65.77162 189.91133 -81.01976 168.96727 -88.375 145.375 C-88.54258 144.87484 -88.54258 144.87484 -89.39062 142.34375 C-93.7389 128.97443 -95.94606 116.2405 -95.875 102.1875 C-95.87291 101.51691 -95.87081 100.84631 -95.86865 100.1554 C-95.79279 88.29789 -94.40043 77.54209 -90.375 66.375 C-90.08029 65.55048 -89.78558 64.72597 -89.48193 63.87646 C-85.74648 53.72295 -81.45654 44.66592 -74.375 36.375 C-73.66473 35.52809 -72.95445 34.68117 -72.22266 33.80859 C-59.47454 19.1337 -45.15 8.79581 -26.375 3.375 C-25.52003 3.11606 -24.66506 2.85712 -23.78418 2.59033 C-15.78213 0.343 -8.28318 -0.0788 0 0 Z M5.625 26.375 C4.75 29.25 4.75 29.25 5.625 32.375 C7.77549 35.72923 10.03484 37.64439 13.625 39.375 C16.49458 39.7975 19.00778 40.045 21.875 40.0625 C22.22369 40.06596 22.22369 40.06596 23.98828 40.0835 C27.39287 39.96296 29.33927 39.59191 32.07422 37.51562 C33.625 35.375 33.625 35.375 34.1875 32.4375 C33.42257 28.27289 31.92833 26.9755 28.625 24.375 C20.63589 19.83217 11.78383 18.91957 5.625 26.375 Z M42.625 36.375 C41.965 37.035 41.305 37.695 40.625 38.375 C40.625 39.695 40.625 41.015 40.625 42.375 C43.5 43 43.5 43 46.625 43.375 C47.285 42.715 47.945 42.055 48.625 41.375 C48.25 39.25 48.25 39.25 47.625 37.375 C45.25 36.75 45.25 36.75 42.625 36.375 Z M19.625 61.1875 C16.68918 65.86647 16.77161 69.99393 17.625 75.375 C19.76472 79.81294 22.05548 82.46218 26.625 84.375 C30.89449 84.90869 32.86681 84.86947 36.5 82.5 C39.28471 79.71529 39.82612 78.08871 40 74.25 C39.94946 69.03624 38.1245 65.21524 34.625 61.375 C29.58385 58.24601 24.60306 58.17992 19.625 61.1875 Z "/>
 <path class="cgmh-pupil" transform="translate(320,110)" d="M0 0 C0.83273 0.36352 1.66547 0.72703 2.52344 1.10156 C14.70103 6.76981 23.27727 16.35253 28.25781 28.91406 C32.31515 40.31732 32.7345 52.92986 28.32031 64.32031 C23.52685 74.04905 15.48444 81.76373 5.21069 85.39355 C-6.04575 88.48146 -17.73636 86.8578 -27.81421 81.26392 C-39.6882 74.20275 -48.1495 63.67939 -52.08594 50.3125 C-54.81167 38.92834 -54.37201 25.28669 -48.30078 15.16797 C-37.28108 -1.00436 -18.67239 -8.48745 0 0 Z M-21 5.8125 C-23.93582 10.49147 -23.85339 14.61893 -23 20 C-20.86028 24.43794 -18.56952 27.08718 -14 29 C-9.73051 29.53369 -7.75819 29.49447 -4.125 27.125 C-1.34029 24.34029 -0.79888 22.71371 -0.625 18.875 C-0.67554 13.66124 -2.5005 9.84024 -6 6 C-11.04115 2.87101 -16.02194 2.80492 -21 5.8125 Z "/>
@@ -269,7 +277,7 @@ html,body{max-width:100%;overflow-x:hidden}
 <path class="cgmh-green" transform="translate(310,111)" d="M0 0 C4.95521 2.5729 8.49117 5.98234 11 11 C12.30184 21.71056 12.30184 21.71056 9.75391 26.19141 C6.62744 29.18791 3.7501 30.36917 -0.5625 30.625 C-6.255 30.20871 -9.55076 27.60591 -13.3125 23.4375 C-16.48109 18.86065 -16.52244 14.38589 -16 9 C-13.00788 1.91339 -7.68615 -1.49495 0 0 Z M-11 4.8125 C-13.93582 9.49147 -13.85339 13.61893 -13 19 C-10.86028 23.43794 -8.56952 26.08718 -4 28 C0.26949 28.53369 2.24181 28.49447 5.875 26.125 C8.65971 23.34029 9.20112 21.71371 9.375 17.875 C9.32446 12.66124 7.4995 8.84024 4 5 C-1.04115 1.87101 -6.02194 1.80492 -11 4.8125 Z "/>
 </svg></span>
     </div>
-    <div id="menu-dd" class="menu-dd"></div>
+    
   </div>
   <nav>
     <button class="active" data-tab="guides" onclick="showTab('guides')">🔍 Quick Guides</button>
@@ -283,6 +291,8 @@ html,body{max-width:100%;overflow-x:hidden}
     <button data-tab="info" onclick="showTab('info')" title="Information" style="font-size:17px">&#9432;</button>
   </nav>
 </header>
+<div id="menu-dd" class="menu-dd"></div>
+<button id="float-logo" onclick="toggleMenu(event)" title="Menu">☰</button>
 <main>
 
 <!-- ============ BUILDER TAB ============ -->
@@ -1987,8 +1997,7 @@ Admit overnight new patients.</div>
     <p><b>Victor Lin, MD, MS</b><br>Email: <a href="mailto:mpr455.cgmh@gmail.com">mpr455.cgmh@gmail.com</a></p>
 
     <h3>Copyright</h3>
-    <p>&copy; <b>Victor Lin</b>. For personal and educational use only.</p>
-    <div class="small" style="margin-top:16px;padding-top:10px;border-top:1px solid var(--line);color:var(--sub)">Site visits: <b id="visit-count">…</b></div>
+    <p>&copy; 2026 <b>Victor Lin</b>. For personal and educational use only.</p>
   </div>
 </div>
 </div>
@@ -2270,6 +2279,7 @@ function buildMenu(){
   document.querySelectorAll("nav button").forEach(function(b){
     h+='<button class="menu-item" data-tab="'+b.dataset.tab+'" onclick="menuGo(\''+b.dataset.tab+'\')">'+b.textContent.trim()+'</button>';
   });
+  h+='<div class="menu-sep"></div><button class="menu-item" onclick="toggleBanner()">'+(document.body.classList.contains("banner-hidden")?"\u2913 Show top banner":"\u2912 Hide top banner")+'</button>';
   h+='<div class="menu-sep"></div><div class="menu-label">Access</div>'
    +'<div style="padding:2px 12px 8px"><input id="menu-pw" type="password" placeholder="Password" onkeydown="if(event.key===\'Enter\')menuLogin()" style="width:100%">'
    +'<button class="btn sm" style="margin-top:6px;width:100%" onclick="menuLogin()">Unlock tabs</button>'
@@ -2296,19 +2306,16 @@ function markThemeDot(){
   document.querySelectorAll("#menu-dd .theme-dot").forEach(function(d){ d.classList.toggle("sel", d.dataset.theme===cur); });
 }
 function applySavedTheme(){ var t="default"; try{ t=localStorage.getItem("cgmh_theme")||"default"; }catch(e){} setTheme(t); }
-document.addEventListener("click", function(e){ if(!e.target.closest("#menu-wrap")) closeMenu(); });
-function countVisit(){
-  var el=document.getElementById("visit-count"); if(!el) return;
-  function show(v){ el.textContent=(v==null||v==="")?"—":Number(v).toLocaleString(); }
-  var cached=null, counted=false;
-  try{ cached=localStorage.getItem("cgmh_visits"); }catch(e){}
-  try{ counted=sessionStorage.getItem("cgmh_visited")==="1"; }catch(e){}
-  if(counted){ show(cached); return; }
-  if(typeof fetch!=="function"){ show(cached); return; }
-  fetch("https://api.counterapi.dev/v1/cgmh-oph-web/visits/up")
-    .then(function(r){ return r.json(); })
-    .then(function(d){ var c=d&&d.count; if(c!=null){ show(c); try{localStorage.setItem("cgmh_visits",c); sessionStorage.setItem("cgmh_visited","1");}catch(e){} } else show(cached); })
-    .catch(function(){ show(cached); });
+document.addEventListener("click", function(e){ if(!e.target.closest("#menu-wrap") && !e.target.closest("#menu-dd") && !e.target.closest("#float-logo")) closeMenu(); });
+function toggleBanner(){
+  var hidden=document.body.classList.toggle("banner-hidden");
+  var f=document.getElementById("float-logo"); if(f) f.style.display=hidden?"flex":"none";
+  try{ localStorage.setItem("cgmh_banner_hidden", hidden?"1":"0"); }catch(e){}
+  buildMenu();
+}
+function applyBanner(){
+  var h=false; try{ h=localStorage.getItem("cgmh_banner_hidden")==="1"; }catch(e){}
+  if(h){ document.body.classList.add("banner-hidden"); var f=document.getElementById("float-logo"); if(f) f.style.display="flex"; }
 }
 /* ================= tabs ================= */
 function showTab(id){
@@ -3019,7 +3026,7 @@ function buildVF(){
 }
 
 /* ================= init ================= */
-applySavedTheme(); buildMenu(); countVisit(); buildQuickTpl(); ankiInitManifest(); document.getElementById("tab-builder").classList.add("locked"); document.getElementById("tab-bank").classList.add("locked"); document.getElementById("tab-anki").classList.add("locked");
+applySavedTheme(); applyBanner(); buildMenu(); buildQuickTpl(); ankiInitManifest(); document.getElementById("tab-builder").classList.add("locked"); document.getElementById("tab-bank").classList.add("locked"); document.getElementById("tab-anki").classList.add("locked");
 buildExamGrid(); buildFundSelects(); buildDenyChips(); buildPlanChips(); fillCatSelect(); renderBank(); setAllNormal(); buildGuides();
 document.getElementById('o-eom').addEventListener('change', function(){ document.getElementById('eombox').style.display = document.getElementById('o-eom').checked ? 'block':'none'; renderPreview(); });
 document.getElementById('o-fundus').addEventListener('change', function(){ document.getElementById('fundusbox').style.display = document.getElementById('o-fundus').checked ? 'block':'none'; renderPreview(); });
