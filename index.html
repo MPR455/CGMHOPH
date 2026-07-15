@@ -169,11 +169,14 @@ body.theme-black details.subguide>summary{color:#ffd21f}
 html,body{max-width:100%;overflow-x:hidden}
 .brand-hint{display:none;color:#fff;font-size:13px;font-weight:600;white-space:nowrap}
 @media(max-width:860px){
-  header nav{display:none}
-  .brand-hint{display:inline}
-  header{padding:8px 12px;gap:10px}
+  header{padding:8px 10px;gap:8px}
+  .brand{flex:0 0 auto}
+  .brand-hint{display:none}
+  header nav{display:flex;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;gap:3px;flex:1 1 auto;min-width:0;scrollbar-width:none}
+  header nav::-webkit-scrollbar{display:none}
+  header nav button{flex:0 0 auto;white-space:nowrap;padding:8px 10px}
   main{padding:12px 10px}
-  .logo-chip svg{height:32px}
+  .logo-chip svg{height:30px}
   details.guide>.gbody, details.subguide>.sgbody, .card{overflow-x:auto}
   .menu-dd{position:fixed;top:52px;left:8px;right:8px;min-width:0;max-height:calc(100vh - 64px);overflow:auto}
 }
@@ -190,11 +193,14 @@ html,body{max-width:100%;overflow-x:hidden}
 html,body{max-width:100%;overflow-x:hidden}
 .brand-hint{display:none;color:#fff;font-size:13px;font-weight:600;white-space:nowrap}
 @media(max-width:860px){
-  header nav{display:none}
-  .brand-hint{display:inline}
-  header{padding:8px 12px;gap:10px}
+  header{padding:8px 10px;gap:8px}
+  .brand{flex:0 0 auto}
+  .brand-hint{display:none}
+  header nav{display:flex;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;gap:3px;flex:1 1 auto;min-width:0;scrollbar-width:none}
+  header nav::-webkit-scrollbar{display:none}
+  header nav button{flex:0 0 auto;white-space:nowrap;padding:8px 10px}
   main{padding:12px 10px}
-  .logo-chip svg{height:32px}
+  .logo-chip svg{height:30px}
   details.guide>.gbody, details.subguide>.sgbody, .card{overflow-x:auto}
   .menu-dd{position:fixed;top:52px;left:8px;right:8px;min-width:0;max-height:calc(100vh - 64px);overflow:auto}
 }
@@ -2983,7 +2989,7 @@ function buildVF(){
 }
 
 /* ================= init ================= */
-applySavedTheme(); buildMenu(); if(window.matchMedia&&window.matchMedia("(max-width:860px)").matches){var _m=document.getElementById("menu-dd"); if(_m)_m.classList.add("open");} buildQuickTpl(); ankiInitManifest(); document.getElementById("tab-builder").classList.add("locked"); document.getElementById("tab-bank").classList.add("locked"); document.getElementById("tab-anki").classList.add("locked");
+applySavedTheme(); buildMenu(); buildQuickTpl(); ankiInitManifest(); document.getElementById("tab-builder").classList.add("locked"); document.getElementById("tab-bank").classList.add("locked"); document.getElementById("tab-anki").classList.add("locked");
 buildExamGrid(); buildFundSelects(); buildDenyChips(); buildPlanChips(); fillCatSelect(); renderBank(); setAllNormal(); buildGuides();
 document.getElementById('o-eom').addEventListener('change', function(){ document.getElementById('eombox').style.display = document.getElementById('o-eom').checked ? 'block':'none'; renderPreview(); });
 document.getElementById('o-fundus').addEventListener('change', function(){ document.getElementById('fundusbox').style.display = document.getElementById('o-fundus').checked ? 'block':'none'; renderPreview(); });
