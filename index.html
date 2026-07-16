@@ -68,6 +68,8 @@ details.guide>summary{padding:12px 16px;font-size:15px;font-weight:600;color:var
 details.guide>summary::before{content:"▸";transition:transform .15s}
 details.guide[open]>summary::before{transform:rotate(90deg)}
 details.guide>.gbody{padding:4px 18px 16px}
+a.guide-link{display:block;background:var(--card);border:1px solid var(--line);border-radius:10px;margin-bottom:10px;padding:12px 16px;font-size:15px;font-weight:600;color:var(--acc2);text-decoration:none;cursor:pointer}
+a.guide-link:hover{background:var(--chip)}
 details.subguide{border:1px solid var(--line);border-radius:8px;margin:8px 0;overflow:hidden;background:#fbfcfe}
 details.subguide>summary{padding:9px 13px;font-size:13.5px;font-weight:600;color:var(--acc);cursor:pointer;list-style:none;display:flex;align-items:center;gap:7px}
 details.subguide>summary::before{content:"\25B8";font-size:11px;transition:transform .15s}
@@ -2799,9 +2801,7 @@ One pupil is fixed and cannot move
 </table>
 <div class="note"><b>Grading:</b> 1+ (mild, slight initial dilation) → 4+ (amaurotic; pupil dilates immediately and fully to light). Bigger grade = larger difference between the eyes, roughly tracking severity of the afferent lesion.</div>`},
 
-{title:'🧠 Visual Pathway & Ocular Reflexes', html:`
-<p>Interactive diagrams and reference for the visual pathway, ocular reflex arcs, blood supply, and pupillary responses — on a dedicated page.</p>
-<a class="btn" href="visual-pathway.html" target="_blank" rel="noopener" style="text-decoration:none;display:inline-block">Open Visual Pathway &amp; Ocular Reflexes ↗</a>`},
+{title:'🧠 Visual Pathway & Ocular Reflexes', link:'visual-pathway.html'},
 
 {title:'🧠 Visual Field Defect → Lesion Map', html:`
 <div class="small">Match the field pattern to the lesion along the visual pathway. Fields drawn as L | R eye (patient's view).</div>
@@ -3019,7 +3019,8 @@ function collapseGuides(){
 }
 function buildGuides(){
   document.getElementById('guides').innerHTML = GUIDES.map((g,i)=>
-    `<details class="guide" ${i===0?'open':''}><summary>${g.title}</summary><div class="gbody">${g.html}</div></details>`).join('');
+    g.link ? `<a class="guide-link" href="${g.link}" target="_blank" rel="noopener">${g.title} <span style="font-weight:400;opacity:.7">↗ opens in new tab</span></a>`
+    : `<details class="guide" ${i===0?'open':''}><summary>${g.title}</summary><div class="gbody">${g.html}</div></details>`).join('');
   buildRosen(); buildPupil(); calRosen(); buildVF(); ishRender();
 }
 // Rosenbaum near card: uses the actual uploaded card image with a size scaler.
