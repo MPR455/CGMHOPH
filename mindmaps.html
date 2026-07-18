@@ -99,14 +99,18 @@
   #list .lcount{color:var(--muted);font-size:12px;margin-left:6px}
 
   /* clinical image panel */
-  #imgpanel{position:fixed;right:16px;bottom:16px;z-index:22;width:220px;background:var(--panel);
+  #imgpanel{position:fixed;right:16px;bottom:16px;z-index:22;width:210px;background:var(--panel);
             border:1px solid var(--line);border-radius:12px;padding:8px;box-shadow:0 8px 26px rgba(0,0,0,.3);cursor:zoom-in;display:none}
+  #imgpanel .imgs{max-height:calc(100vh - 120px);overflow-y:auto;overflow-x:hidden}
   #imgpanel .imgs figure{margin:0 0 8px} #imgpanel .imgs figure:last-child{margin-bottom:0}
   #imgpanel .imgs img{width:100%;display:block;border-radius:7px}
   #imgpanel .imgs figcaption{font-size:10.5px;color:var(--muted);margin-top:4px;line-height:1.3}
-  #imgpanel .lbl{position:absolute;top:-9px;left:10px;background:var(--accent);color:#04101f;font-size:10px;font-weight:700;
+  #imgpanel .lbl{position:absolute;top:-9px;left:10px;z-index:1;background:var(--accent);color:var(--on-accent);font-size:10px;font-weight:700;
             padding:1px 7px;border-radius:8px}
-  #imgpanel.big{width:min(86vw,760px);cursor:zoom-out;right:50%;bottom:50%;transform:translate(50%,50%)}
+  /* enlarged: a lightbox that stays BELOW the top bar, with dimmed backdrop and internal scroll */
+  #imgpanel.big{width:min(92vw,660px);left:50%;right:auto;top:66px;bottom:16px;transform:translateX(-50%);cursor:zoom-out;
+            box-shadow:0 0 0 100vmax rgba(0,0,0,.6), 0 12px 40px rgba(0,0,0,.5)}
+  #imgpanel.big .imgs{max-height:calc(100vh - 104px)}
   #imgpanel.big .imgs figcaption{font-size:13px}
   .cat .cbody{display:block}
   .cbody-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:6px;margin:0 0 8px}
