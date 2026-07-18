@@ -115,6 +115,15 @@
   .cat .cbody{display:block}
   .cbody-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:6px;margin:0 0 8px}
   .subhead{font-size:11px;color:var(--muted);font-weight:700;letter-spacing:.3px;margin:8px 2px 3px;opacity:.9}
+  /* view toggles (independent hide/show for banner and images) */
+  #viewtoggles{position:fixed;left:calc(var(--side) + 14px);bottom:14px;z-index:50;display:flex;gap:6px;transition:left .2s}
+  body.side-hidden #viewtoggles{left:14px}
+  #viewtoggles button{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:6px 11px;font-size:12px;cursor:pointer;box-shadow:0 3px 12px rgba(0,0,0,.35)}
+  #viewtoggles button:hover{border-color:var(--accent)}
+  #viewtoggles button.off{opacity:.5}
+  body.bar-hidden #bar{display:none}
+  body.bar-hidden #sidebar,body.bar-hidden #stage,body.bar-hidden #list,body.bar-hidden #sideResize{top:0}
+  body.imgs-off #imgpanel{display:none !important}
 </style>
 </head>
 <body>
@@ -134,6 +143,10 @@
 <div id="stage"><div id="viewport"><svg id="links"></svg></div></div>
 <div id="list"><ul id="listRoot"></ul></div>
 <div id="imgpanel"><span class="lbl">Image</span><div class="imgs"></div></div>
+<div id="viewtoggles">
+  <button id="tgBar" title="Hide / show the top banner">Banner</button>
+  <button id="tgImg" title="Hide / show the image panel">Images</button>
+</div>
 
 <script>
 /* data comes from mindmaps/manifest.json + mindmaps/data/<id>.json (lazy-loaded) */
@@ -225,9 +238,10 @@ function fit(){
   vis.forEach(n=>{ a=Math.min(a,n._x-n._w/2); c=Math.max(c,n._x+n._w/2); b=Math.min(b,n._y-n._h/2); d=Math.max(d,n._y+n._h/2); });
   const pad=70; a-=pad;b-=pad;c+=pad;d+=pad;
   const sideW = document.body.classList.contains('side-hidden') ? 0 : parseInt(getComputedStyle(document.documentElement).getPropertyValue('--side'));
-  const w=window.innerWidth-sideW, h=window.innerHeight-56;
+  const barH=document.body.classList.contains("bar-hidden")?0:56;
+  const w=window.innerWidth-sideW, h=window.innerHeight-barH;
   scale=Math.min(1.1, Math.min(w/(c-a), h/(d-b)));
-  tx=sideW+(w-(c+a)*scale)/2; ty=56+(h-(d+b)*scale)/2; applyView();
+  tx=sideW+(w-(c+a)*scale)/2; ty=barH+(h-(d+b)*scale)/2; applyView();
 }
 
 function attachDrag(el,n){
@@ -346,6 +360,8 @@ async function loadMap(map){
   if(mode==="map"){ layout(); fit(); } else buildList();
 }
 document.getElementById('imgpanel').addEventListener('click',()=>document.getElementById('imgpanel').classList.toggle('big'));
+document.getElementById('tgBar').onclick=e=>{ document.body.classList.toggle('bar-hidden'); e.currentTarget.classList.toggle('off'); if(mode==='map') setTimeout(fit,210); };
+document.getElementById('tgImg').onclick=e=>{ document.body.classList.toggle('imgs-off'); e.currentTarget.classList.toggle('off'); };
 
 function buildSidebar(){
   const sb=document.getElementById("sidebar"); sb.innerHTML="";
