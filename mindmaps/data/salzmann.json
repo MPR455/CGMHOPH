@@ -1,0 +1,129 @@
+{
+  "label": "Salzmann Nodular Degeneration",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "60-year-old asymptomatic woman" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "round gray-white elevated paracentral corneal nodules" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "eye symptoms", "children": [
+          { "label": "recurrent foreign body sensation" },
+          { "label": "blurred vision" },
+          { "label": "Salzmann nodular degeneration is usually asymptomatic" }
+        ]},
+        { "label": "chronic inflammatory ocular conditions" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "chronic inflammatory ocular conditions", "children": [
+          { "label": "phlyctenulosis" },
+          { "label": "trachoma", "children": [
+            { "label": "upper tarsal follicular reaction" },
+            { "label": "Arlt's line" },
+            { "label": "Herbert pits" }
+          ]},
+          { "label": "interstitial keratitis" },
+          { "label": "VKC (vernal keratoconjunctivitis)", "children": [
+            { "label": "upper tarsal papillary hypertrophy" },
+            { "label": "Horner-Trantas dots" },
+            { "label": "shield ulcer" }
+          ]},
+          { "label": "chronic dry eye" },
+          { "label": "chronic blepharitis" }
+        ]}
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "Salzmann nodular degeneration" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "Salzmann nodular degeneration", "children": [
+        { "label": "middle aged – older women" },
+        { "label": "± bilateral" },
+        { "label": "usually asymptomatic unless …", "children": [
+          { "label": "central location" },
+          { "label": "irregular astigmatism" },
+          { "label": "corneal epithelial erosion" }
+        ]},
+        { "label": "etiology", "children": [
+          { "label": "idiopathic" },
+          { "label": "late sequela to old long-term keratitis (may not appear until years after the active keratitis)", "children": [
+            { "label": "phlyctenulosis" },
+            { "label": "trachoma" },
+            { "label": "interstitial keratitis" }
+          ]}
+        ]},
+        { "label": "gray-white or blue-white nodules", "children": [
+          { "label": "elevated" },
+          { "label": "roughly circular configuration" },
+          { "label": "central or paracentral cornea" },
+          { "label": "at the ends of vessels of a pannus" },
+          { "label": "recurrent erosion" }
+        ]},
+        { "label": "treatment", "children": [
+          { "label": "lubrication" },
+          { "label": "manual superficial keratectomy — decreased vision secondary to irregular astigmatism" }
+        ]}
+      ]},
+      { "label": "spheroidal degeneration", "children": [
+        { "label": "translucent, golden brown, spheroidlike deposits", "children": [
+          { "label": "cornea ± conjunctiva" },
+          { "label": "subepithelium, Bowman layer, or superficial stroma" }
+        ]},
+        { "label": "types", "children": [
+          { "label": "primary spheroidal degeneration", "children": [
+            { "label": "unrelated to the coexistence of other ocular disease" },
+            { "label": "bilateral" },
+            { "label": "nasal and temporal cornea", "children": [
+              { "label": "with age, can extend onto the conjunctiva in the interpalpebral zone" },
+              { "label": "rarely extends across the interpalpebral zone of the cornea" }
+            ]}
+          ]},
+          { "label": "secondary spheroidal degeneration", "children": [
+            { "label": "ocular injury or inflammation" },
+            { "label": "near corneal scarring or vascularization" }
+          ]}
+        ]},
+        { "label": "management", "children": [
+          { "label": "no medical therapy is of much value" },
+          { "label": "lubrication" },
+          { "label": "central involvement", "children": [
+            { "label": "superficial keratectomy" },
+            { "label": "phototherapeutic keratectomy (excimer laser)" }
+          ]},
+          { "label": "recurrence after conjunctival resection is common" }
+        ]}
+      ]}
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "eye lubrication" },
+        { "label": "RGP (rigid gas permeable) contact lens — for irregular astigmatism" }
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "superficial keratectomy" },
+        { "label": "PTK (phototherapeutic keratectomy)" },
+        { "label": "lamellar keratoplasty" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Prognosis", "children": [
+        { "label": "good prognosis" }
+      ]},
+      { "label": "Course", "children": [
+        { "label": "can recur after excision" }
+      ]},
+      { "label": "Complications", "children": [
+        { "label": "recurrent corneal erosion" },
+        { "label": "irregular astigmatism" },
+        { "label": "decreased vision if central cornea involved" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "routine if no complications" }
+      ]}
+    ]}
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "label": "Recurrent Corneal Erosion",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "40-year-old woman complains of recurrent episodes of eye pain, foreign body sensation, and tearing upon opening her eyes in the morning" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "anterior segment photography using sclerotic scatter demonstrates characteristic geographic maps" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "anterior corneal dystrophy", "children": [
+        { "label": "epithelial basement membrane dystrophy (map-dot-fingerprint corneal dystrophy)" },
+        { "label": "others", "children": [
+          { "label": "Meesman (subepithelial dystrophy)" },
+          { "label": "Reis-Bucklers → Bowman membrane dystrophies" },
+          { "label": "Thiel-Behnke → Bowman membrane dystrophies" }
+        ]}
+      ]},
+      { "label": "stromal corneal dystrophy", "children": [
+        { "label": "lattice" },
+        { "label": "granular" },
+        { "label": "macular" }
+      ]},
+      { "label": "trauma / surgery → may have happened years before" },
+      { "label": "diabetes" },
+      { "label": "corneal degeneration", "children": [
+        { "label": "band keratopathy" },
+        { "label": "Salzmann nodular degeneration" }
+      ]}
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "medical history → diabetes" },
+        { "label": "ocular history", "children": [
+          { "label": "previous similar episodes" },
+          { "label": "eye trauma / surgery or corneal abrasion" }
+        ]},
+        { "label": "family history → family history of corneal dystrophy" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "slit lamp examination", "children": [
+          { "label": "signs of corneal dystrophy → examine both eyes" },
+          { "label": "corneal fluorescein staining", "children": [
+            { "label": "abrasion → negative or positive abrasion" },
+            { "label": "heaped up epithelium" }
+          ]}
+        ]}
+      ]}
+    ]},
+    { "label": "Additional Testing" },
+    { "label": "Assessment", "children": [
+      { "label": "recurrent corneal erosion secondary to epithelial basement membrane dystrophy" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "acute", "children": [
+          { "label": "artificial tear ointment at bedtime" },
+          { "label": "artificial tear drops" },
+          { "label": "antibiotic ointment" },
+          { "label": "for larger defects", "children": [
+            { "label": "cycloplegic eyedrop" },
+            { "label": "pressure patch" },
+            { "label": "bandage contact lens" }
+          ]},
+          { "label": "until epithelium heals" }
+        ]},
+        { "label": "chronic", "children": [
+          { "label": "sodium-chloride ointment at bedtime" },
+          { "label": "sodium-chloride drops" },
+          { "label": "low-dose oral doxycycline" },
+          { "label": "short-term topical steroid" },
+          { "label": "treat × 3-6 months" }
+        ]}
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "anterior stromal puncture", "children": [
+          { "label": "bent 30-gauge needle" },
+          { "label": "Nd:YAG (neodymium-doped yttrium aluminum garnet) laser" },
+          { "label": "traumatic cases outside visual axis" }
+        ]},
+        { "label": "epithelial debridement", "children": [
+          { "label": "cellulose sponge or diamond burr" },
+          { "label": "large abnormal areas in visual axis" }
+        ]},
+        { "label": "PTK (phototherapeutic keratectomy) → hyperopic shift" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "General", "children": [
+        { "label": "explain pathophysiology" }
+      ]},
+      { "label": "Prognosis", "children": [
+        { "label": "good" }
+      ]},
+      { "label": "Course", "children": [
+        { "label": "complete healing may take a few months" },
+        { "label": "may recur" },
+        { "label": "use ointment for 3-6 months after healing" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "q 1-2 days until epithelium heals" },
+        { "label": "then 1-3 months" }
+      ]}
+    ]}
+  ]
+}

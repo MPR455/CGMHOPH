@@ -1,0 +1,171 @@
+{
+  "label": "Traumatic Hyphema",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "15-year-old male was struck in the eye with a paint ball" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "anterior segment photo shows hyphema" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "traumatic hyphema" },
+      { "label": "recent ocular surgery" },
+      { "label": "iris neovascularization → diabetes" },
+      { "label": "iris microhemangiomatosis" },
+      { "label": "iris tumors (melanoma)" },
+      { "label": "Fuchs heterochromic iridocyclitis" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "medical history", "children": [
+          { "label": "sickle cell disease" },
+          { "label": "bleeding tendency" },
+          { "label": "diabetes" },
+          { "label": "medication use", "children": [
+            { "label": "ASA (acetylsalicylic acid / aspirin)" },
+            { "label": "NSAID (nonsteroidal anti-inflammatory drug)" },
+            { "label": "warfarin" }
+          ]}
+        ]},
+        { "label": "trauma", "children": [
+          { "label": "time of onset of visual loss relative to trauma" },
+          { "label": "mechanism", "children": [
+            { "label": "type of object" },
+            { "label": "force / velocity" }
+          ]},
+          { "label": "protective eyewear" }
+        ]}
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "BCVA (best-corrected visual acuity)" },
+        { "label": "APD (afferent pupillary defect) → rule out traumatic optic neuropathy" },
+        { "label": "IOP (intraocular pressure) — if intact globe" },
+        { "label": "ocular motility" },
+        { "label": "orbital palpation → orbital fracture" },
+        { "label": "signs of ruptured globe" },
+        { "label": "measure hyphema height" },
+        { "label": "avoid gonioscopy — unless intractable high IOP (intraocular pressure)" },
+        { "label": "dilated fundus exam (avoid scleral depression)", "children": [
+          { "label": "open globe / globe rupture" },
+          { "label": "IOFB (intraocular foreign body)" },
+          { "label": "retinal tear / dialysis" },
+          { "label": "vitreous base avulsion" },
+          { "label": "commotio" },
+          { "label": "retinal hemorrhage" },
+          { "label": "vitreous hemorrhage" },
+          { "label": "RD (retinal detachment)" }
+        ]}
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "B-scan → if poor fundus view with intact globe" },
+      { "label": "CT (computed tomography) scan", "children": [
+        { "label": "indications", "children": [
+          { "label": "orbital fracture" },
+          { "label": "IOFB (intraocular foreign body)" },
+          { "label": "loss of consciousness" }
+        ]},
+        { "label": "1-mm sections" }
+      ]},
+      { "label": "± UBM (ultrasound biomicroscopy)" },
+      { "label": "screen for SS (sickle cell) disease / trait → Sickledex screen" }
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "traumatic hyphema" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "bed rest → or limited activity" },
+        { "label": "elevate head of bed" },
+        { "label": "eye shield → avoid eye patch" },
+        { "label": "cycloplegia" },
+        { "label": "topical steroid", "children": [
+          { "label": "indications", "children": [
+            { "label": "deep pain" },
+            { "label": "photophobia" },
+            { "label": "ciliary flush" },
+            { "label": "protein in AC (anterior chamber)" },
+            { "label": "WBC (white blood cell) in AC (anterior chamber)" },
+            { "label": "lens capsular rupture" }
+          ]},
+          { "label": "taper quickly" }
+        ]},
+        { "label": "tylenol for pain", "children": [
+          { "label": "avoid sedatives / narcotics" },
+          { "label": "avoid aspirin / NSAID (nonsteroidal anti-inflammatory drug)" },
+          { "label": "do not abruptly stop ASA (acetylsalicylic acid / aspirin) without consulting patient's PCP (primary care physician)" }
+        ]},
+        { "label": "glaucoma medication", "children": [
+          { "label": "no SS (sickle cell) — if IOP >30 mm Hg", "children": [
+            { "label": "start with beta-blockers" },
+            { "label": "add: topical CAI (carbonic anhydrase inhibitor), alpha-agonists" },
+            { "label": "oral acetazolamide (not < age 2 years)" },
+            { "label": "IV mannitol" }
+          ]},
+          { "label": "SS (sickle cell) — if IOP >24 mm Hg", "children": [
+            { "label": "avoid systemic diuretics", "children": [
+              { "label": "methazolamide safer than acetazolamide" },
+              { "label": "only beta blockers are safe" }
+            ]},
+            { "label": "SS disease → avoid CAI (carbonic anhydrase inhibitor) if", "children": [
+              { "label": "african-american" },
+              { "label": "mediterranean" },
+              { "label": "sulfa allergy" }
+            ]},
+            { "label": "PG (prostaglandin) analogs → do not use (increase inflammation)" },
+            { "label": "miotics → do not use (decrease uveoscleral outflow; avoid miotics for angle recession glaucoma)" }
+          ]}
+        ]}
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "AC (anterior chamber) washout", "children": [
+          { "label": "corneal blood staining → total hyphema with IOP ≥25 × ≥5 days" },
+          { "label": "uncontrolled high IOP → IOP >60 × ≥48 hours; SS disease with IOP ≥24 × ≥24 hours or ≥30 (optic nerve damage)" },
+          { "label": ">50% hyphema by day 8 (risk of PAS, peripheral anterior synechiae)" },
+          { "label": "children at risk of amblyopia" }
+        ]},
+        { "label": "indications for hospitalization", "children": [
+          { "label": "child abuse" },
+          { "label": "children <7-10 years" },
+          { "label": "non-compliant patient" },
+          { "label": "SS (sickle cell) disease" },
+          { "label": "bleeding tendency" },
+          { "label": "severe high IOP (intraocular pressure)" },
+          { "label": "severe orbital / ocular injury" }
+        ]}
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "General", "children": [
+        { "label": "explain eyedrop regimen" }
+      ]},
+      { "label": "Do's", "children": [
+        { "label": "bed rest" },
+        { "label": "eye protection" }
+      ]},
+      { "label": "Don'ts", "children": [
+        { "label": "avoid strenuous activity × ≥1 week" }
+      ]},
+      { "label": "Prognosis & Complications", "children": [
+        { "label": "rebleeding" },
+        { "label": "glaucoma" },
+        { "label": "amblyopia in children" },
+        { "label": "corneal blood staining" },
+        { "label": "RD (retinal detachment)" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "daily × 5 days" },
+        { "label": "return immediately if", "children": [
+          { "label": "decreased vision" },
+          { "label": "increased eye pain" }
+        ]},
+        { "label": "4-week follow-up", "children": [
+          { "label": "gonioscopy" },
+          { "label": "scleral depression" }
+        ]},
+        { "label": "annual exam for angle recession glaucoma" }
+      ]}
+    ]}
+  ]
+}

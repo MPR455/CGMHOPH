@@ -1,0 +1,501 @@
+{
+ "label": "Acute Angle Closure Glaucoma (AACG)",
+ "root": true,
+ "children": [
+  {
+   "label": "Patient Description",
+   "children": [
+    {
+     "label": "55-year-old Asian female: unilateral eye pain, blurred vision, rainbow-colored halos around light"
+    },
+    {
+     "label": "conjunctival injection, diffuse corneal edema, non-reactive mid-dilated pupil"
+    }
+   ]
+  },
+  {
+   "label": "History",
+   "children": [
+    {
+     "label": "precipitating events",
+     "children": [
+      {
+       "label": "dim light"
+      },
+      {
+       "label": "mydriatic eyedrops"
+      },
+      {
+       "label": "flu medicine"
+      },
+      {
+       "label": "scleral buckle"
+      },
+      {
+       "label": "retinal laser"
+      }
+     ]
+    },
+    {
+     "label": "previous episodes"
+    },
+    {
+     "label": "glasses / hyperopia"
+    },
+    {
+     "label": "eye surgery / trauma"
+    },
+    {
+     "label": "topiramate / sulfonamides"
+    },
+    {
+     "label": "family history of AACG (acute angle closure glaucoma)"
+    }
+   ]
+  },
+  {
+   "label": "Assessment",
+   "children": [
+    {
+     "label": "acute angle closure glaucoma",
+     "children": [
+      {
+       "label": "primary",
+       "children": [
+        {
+         "label": "pupillary block"
+        },
+        {
+         "label": "plateau iris"
+        },
+        {
+         "label": "complications",
+         "children": [
+          {
+           "label": "glaucomatous optic nerve damage"
+          },
+          {
+           "label": "ischemic optic nerve damage"
+          },
+          {
+           "label": "retinal vascular occlusion"
+          },
+          {
+           "label": "PAS (peripheral anterior synechiae) formation"
+          },
+          {
+           "label": "IOP (intraocular pressure)–induced iris ischemia",
+           "children": [
+            {
+             "label": "sector atrophy of the iris"
+            },
+            {
+             "label": "pigment release from the iris"
+            },
+            {
+             "label": "iris sphincter muscle ischemia → permanently fixed and dilated pupil"
+            }
+           ]
+          },
+          {
+           "label": "Glaukomflecken"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Differential Diagnosis",
+   "children": [
+    {
+     "label": "acute angle closure glaucoma",
+     "children": [
+      {
+       "label": "primary"
+      },
+      {
+       "label": "secondary",
+       "children": [
+        {
+         "label": "neovascular"
+        },
+        {
+         "label": "PAS (peripheral anterior synechiae)",
+         "children": [
+          {
+           "label": "uveitis"
+          },
+          {
+           "label": "ICE (iridocorneal endothelial) syndrome membrane"
+          },
+          {
+           "label": "epithelial downgrowth"
+          }
+         ]
+        },
+        {
+         "label": "lens induced",
+         "children": [
+          {
+           "label": "phacomorphic glaucoma"
+          },
+          {
+           "label": "zonular weakness",
+           "children": [
+            {
+             "label": "trauma"
+            },
+            {
+             "label": "PXF (pseudoexfoliation)"
+            },
+            {
+             "label": "Marfan"
+            }
+           ]
+          },
+          {
+           "label": "small eye",
+           "children": [
+            {
+             "label": "nanophthalmos"
+            },
+            {
+             "label": "short axial length (15–20 mm)"
+            },
+            {
+             "label": "high hyperopia (7–15 diopters)"
+            }
+           ]
+          },
+          {
+           "label": "microspherophakia → small lens with anterior prolapse"
+          }
+         ]
+        },
+        {
+         "label": "aphakic / pseudophakic pupillary block"
+        },
+        {
+         "label": "aqueous misdirection"
+        },
+        {
+         "label": "posterior segment mass",
+         "children": [
+          {
+           "label": "tumor"
+          },
+          {
+           "label": "choroidal effusion"
+          },
+          {
+           "label": "hemorrhagic choroidal detachment"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "acute open angle glaucoma",
+     "children": [
+      {
+       "label": "inflammatory"
+      },
+      {
+       "label": "traumatic → hyphema"
+      },
+      {
+       "label": "pigmentary"
+      },
+      {
+       "label": "PXF (pseudoexfoliation)"
+      },
+      {
+       "label": "glaucomatocyclitic crisis"
+      },
+      {
+       "label": "retrobulbar hemorrhage / inflammation"
+      },
+      {
+       "label": "C-C (carotid–cavernous) fistula"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Physical Exam",
+   "children": [
+    {
+     "label": "IOP (intraocular pressure) → wide mire = false high; narrow mire = false low"
+    },
+    {
+     "label": "microcystic epithelial edema"
+    },
+    {
+     "label": "shallow anterior chamber"
+    },
+    {
+     "label": "iris bombe"
+    },
+    {
+     "label": "mid-dilated pupil (poorly reactive)"
+    },
+    {
+     "label": "AC (anterior chamber) reaction, hyphema"
+    },
+    {
+     "label": "iris atrophy"
+    },
+    {
+     "label": "glaucomflecken"
+    },
+    {
+     "label": "KPs (keratic precipitates)"
+    },
+    {
+     "label": "PAS / PS (peripheral anterior synechiae / posterior synechiae)"
+    },
+    {
+     "label": "NVI (neovascularization of the iris)"
+    },
+    {
+     "label": "intumescent / subluxated lens, microspherophakia"
+    },
+    {
+     "label": "gonioscopy of both eyes",
+     "children": [
+      {
+       "label": "angle morphology"
+      },
+      {
+       "label": "PAS (peripheral anterior synechiae) → compression gonioscopy"
+      },
+      {
+       "label": "NVA (neovascularization of the angle)"
+      },
+      {
+       "label": "examine other eye for occludable angle"
+      }
+     ]
+    },
+    {
+     "label": "funduscopy",
+     "children": [
+      {
+       "label": "CB (ciliary body) or choroidal tumor"
+      },
+      {
+       "label": "choroidal effusion"
+      },
+      {
+       "label": "spontaneous arterial pulsation"
+      },
+      {
+       "label": "CRAO (central retinal artery occlusion), CRVO (central retinal vein occlusion)"
+      },
+      {
+       "label": "optic disc swelling / atrophy / cupping"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Additional Testing",
+   "children": [
+    {
+     "label": "anterior segment OCT (optical coherence tomography)"
+    },
+    {
+     "label": "B-scan / UBM (ultrasound biomicroscopy) if no fundus view"
+    }
+   ]
+  },
+  {
+   "label": "Treatment",
+   "children": [
+    {
+     "label": "Medical",
+     "children": [
+      {
+       "label": "topical",
+       "children": [
+        {
+         "label": "timolol (beta-blocker) — caution: asthma / COPD (chronic obstructive pulmonary disease), heart failure"
+        },
+        {
+         "label": "brimonidine (alpha-2 agonist)"
+        },
+        {
+         "label": "avoid",
+         "children": [
+          {
+           "label": "nonselective adrenergic agonists (epinephrine) — cause pupillary dilation & iris ischemia"
+          },
+          {
+           "label": "significant α1 (alpha-1) adrenergic activity (apraclonidine)"
+          }
+         ]
+        },
+        {
+         "label": "latanoprost (prostaglandin analog, PG)"
+        },
+        {
+         "label": "dorzolamide (carbonic anhydrase inhibitor, CAI)"
+        },
+        {
+         "label": "pilocarpine 1-2% (every 15 min ×2)",
+         "children": [
+          {
+           "label": "fallen out of favor for phakic primary AACG (acute angle closure glaucoma)"
+          },
+          {
+           "label": "do not use for aphakic / pseudophakic AACG (acute angle closure glaucoma) — increases iris congestion or rotates lens–iris interface anteriorly"
+          },
+          {
+           "label": "do not use for secondary ACG (angle closure glaucoma)"
+          },
+          {
+           "label": "stronger miotics should be avoided"
+          },
+          {
+           "label": "don't use for topiramate / sulfonamide-induced ACG (angle closure glaucoma)"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "label": "systemic CAI (carbonic anhydrase inhibitor), IV (intravenous) or oral — check renal function / electrolytes"
+      },
+      {
+       "label": "IV (intravenous) mannitol (osmotic agent) — contraindicated in CHF (congestive heart failure), renal disease, intracranial bleed; check renal function / electrolytes"
+      },
+      {
+       "label": "topical steroid"
+      },
+      {
+       "label": "recheck in 1 hour; admit if IOP (intraocular pressure) not controlled"
+      }
+     ]
+    },
+    {
+     "label": "Surgical",
+     "children": [
+      {
+       "label": "laser PI (peripheral iridotomy) — when IOP (intraocular pressure) controlled & cornea clear",
+       "children": [
+        {
+         "label": "laser PI (peripheral iridotomy) other eye if occludable angle"
+        }
+       ]
+      },
+      {
+       "label": "laser iridoplasty (if not responsive to LPI, laser peripheral iridotomy)"
+      },
+      {
+       "label": "surgical PI (peripheral iridotomy)"
+      },
+      {
+       "label": "aqueous misdirection",
+       "children": [
+        {
+         "label": "IOP (intraocular pressure)-lowering agents"
+        },
+        {
+         "label": "mydriatics"
+        },
+        {
+         "label": "open posterior capsule (pseudophakic)"
+        },
+        {
+         "label": "YAG (yttrium-aluminum-garnet) anterior hyaloidotomy"
+        },
+        {
+         "label": "PPV (pars plana vitrectomy)"
+        }
+       ]
+      },
+      {
+       "label": "NVI (neovascularization of the iris)",
+       "children": [
+        {
+         "label": "lower eye pressure"
+        },
+        {
+         "label": "anti-VEGF (anti–vascular endothelial growth factor)"
+        },
+        {
+         "label": "PRP (panretinal photocoagulation)"
+        }
+       ]
+      },
+      {
+       "label": "choroidal effusion",
+       "children": [
+        {
+         "label": "lower eye pressure"
+        },
+        {
+         "label": "mydriatics"
+        },
+        {
+         "label": "steroids"
+        }
+       ]
+      },
+      {
+       "label": "phacomorphic",
+       "children": [
+        {
+         "label": "lower eye pressure"
+        },
+        {
+         "label": "cataract surgery"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Prognosis",
+   "children": [
+    {
+     "label": "good prognosis if diagnosed & treated early"
+    }
+   ]
+  },
+  {
+   "label": "Patient Education",
+   "children": [
+    {
+     "label": "Do's",
+     "children": [
+      {
+       "label": "suggest eye examination of relatives"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Follow-up",
+   "children": [
+    {
+     "label": "initially follow daily"
+    },
+    {
+     "label": "after LPI (laser peripheral iridotomy), discharge on IOP (intraocular pressure)-lowering drops and oral medications"
+    }
+   ]
+  }
+ ]
+}

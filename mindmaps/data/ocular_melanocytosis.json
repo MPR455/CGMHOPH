@@ -1,0 +1,84 @@
+{
+  "label": "Ocular Melanocytosis",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "15-year-old boy with increased pigmentation of his right eye present since birth" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "diffuse episcleral pigmentation with dark brown iris" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "ocular melanocytosis", "children": [
+        { "label": "from birth" },
+        { "label": "increased pigmentation at puberty" },
+        { "label": "5% bilateral" }
+      ]},
+      { "label": "pigment spot of the sclera", "children": [
+        { "label": "collection of melanocytes associated with an intrascleral nerve loop or perforating anterior ciliary vessel" }
+      ]},
+      { "label": "conjunctival nevus / melanoma → move with conjunctiva" },
+      { "label": "PAM (primary acquired melanosis)" },
+      { "label": "CAM (complexion-associated melanosis)" },
+      { "label": "uveal melanoma with extraocular extension" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "time of onset → review old photos" },
+        { "label": "change in pigmentation" },
+        { "label": "race → CAM (complexion-associated melanosis)" },
+        { "label": "other family members → CAM (complexion-associated melanosis)" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "temple pigmentation" },
+        { "label": "lid pigmentation" },
+        { "label": "palate pigmentation" },
+        { "label": "pigmentation", "children": [
+          { "label": "flat or raised" },
+          { "label": "movement with conjunctiva → conjunctival vs. episcleral (melanocytosis does not move with the conjunctiva)" }
+        ]},
+        { "label": "dilated (sentinel) episcleral vessels → ciliary body melanoma with extraocular extension" },
+        { "label": "IOP (intraocular pressure) — 10% of patients with ocular melanocytosis can develop secondary glaucoma" },
+        { "label": "slit lamp exam", "children": [
+          { "label": "iris pigmentation (melanocytosis)" },
+          { "label": "iris melanoma" }
+        ]},
+        { "label": "dilated fundus exam", "children": [
+          { "label": "C/D (cup-to-disc) ratio" },
+          { "label": "choroidal pigmentation (melanocytosis)" },
+          { "label": "posterior uveal melanoma" }
+        ]},
+        { "label": "examine both eyes → CAM (complexion-associated melanosis) and pigment spots of sclera are more likely to be bilateral" }
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "B-scan if fundus view not adequate" }
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "ocular melanocytosis" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "observation", "children": [
+        { "label": "baseline photos" },
+        { "label": "monitor for change" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Prognosis & Complications", "children": [
+        { "label": "glaucoma — 10%" },
+        { "label": "risk of developing uveal melanoma — 1/400 lifetime risk" },
+        { "label": "risk of developing extraocular melanoma", "children": [
+          { "label": "orbit" },
+          { "label": "brain" }
+        ]}
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "q1 year" },
+        { "label": "complete eye exam every visit", "children": [
+          { "label": "monitor for glaucoma" },
+          { "label": "monitor for melanoma" }
+        ]}
+      ]}
+    ]}
+  ]
+}

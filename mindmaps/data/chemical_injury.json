@@ -1,0 +1,95 @@
+{
+  "label": "Chemical Injury",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "young lab technician was splashed in the eye with an alkaline solution" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "diffuse conjunctival injection with corneal edema and haze" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "chemical burn" },
+      { "label": "AACG (acute angle closure glaucoma)" },
+      { "label": "traumatic iritis" },
+      { "label": "globe trauma" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "time of injury" },
+        { "label": "type of chemical" },
+        { "label": "eye protection" },
+        { "label": "time to irrigation" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "VA (visual acuity)" },
+        { "label": "IOP (intraocular pressure)" },
+        { "label": "facial & lid burns" },
+        { "label": "inspect fornices for debris" },
+        { "label": "eyelid eversion → Desmarres eyelid retractor" },
+        { "label": "chemosis" },
+        { "label": "conjunctival or corneal ulcer" },
+        { "label": "limbal blanching" },
+        { "label": "fluorescein staining" },
+        { "label": "corneal stromal edema & opacity" },
+        { "label": "AC (anterior chamber) reaction" },
+        { "label": "retinal necrosis → severe alkali burns" }
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "chemical injury", "children": [
+        { "label": "mild-moderate" },
+        { "label": "severe", "children": [
+          { "label": "2nd-3rd degree skin burn" },
+          { "label": "high IOP (intraocular pressure)" },
+          { "label": "severe chemosis" },
+          { "label": "conjunctival / limbal blanching" },
+          { "label": "corneal edema / opacification" },
+          { "label": "moderate / severe AC (anterior chamber) reaction" },
+          { "label": "local necrotic retinopathy" }
+        ]}
+      ]}
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "copious irrigation", "children": [
+          { "label": "start treatment at the scene" },
+          { "label": "lactated ringer" },
+          { "label": "saline" },
+          { "label": "tap water" },
+          { "label": "until pH is 7.0 (check pH 10 min after irrigation ends)" }
+        ]},
+        { "label": "sweep & irrigate fornices" },
+        { "label": "cycloplegia" },
+        { "label": "topical antibiotic (q1h for severe burns)" },
+        { "label": "preservative-free artificial tears (q1h)" },
+        { "label": "oral pain medication" },
+        { "label": "oral acetazolamide → lower eye pressure (start if IOP elevated or cannot be measured)" },
+        { "label": "topical timolol" },
+        { "label": "topical steroids (× 7 days; taper after 7 days; even in presence of CED, corneal epithelial defect)" },
+        { "label": "oral doxycycline (MMP, matrix metalloproteinase, inhibitor)" },
+        { "label": "oral ascorbate & citrate → promote collagen synthesis (for alkali burns)" },
+        { "label": "avoid phenylephrine (if limbal ischemia)" },
+        { "label": "avoid alpha-agonist (if limbal ischemia)" },
+        { "label": "lysis of conjunctival adhesions (bid, twice daily)" }
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "amniotic membrane graft" },
+        { "label": "tarsorrhaphy" },
+        { "label": "PK (penetrating keratoplasty) — 12-18 months after injury" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Prognosis & Complications", "children": [
+        { "label": "conjunctival scarring / symblepharon" },
+        { "label": "entropion / trichiasis" },
+        { "label": "dry eye" },
+        { "label": "corneal melting" },
+        { "label": "corneal scarring" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "daily, then every few days until CED (corneal epithelial defect) heals" }
+      ]}
+    ]}
+  ]
+}

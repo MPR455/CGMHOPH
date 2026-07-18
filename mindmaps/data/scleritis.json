@@ -1,0 +1,186 @@
+{
+  "label": "Scleritis",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "40-year-old woman complains of diffuse redness and severe boring pain of her right eye that radiates to her right forehead" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "diffuse redness of right eye with congested scleral vessels that have a crisscross pattern" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "scleritis → associated diseases", "children": [
+        { "label": "gout" },
+        { "label": "infectious", "children": [
+          { "label": "syphilis" },
+          { "label": "tuberculosis" },
+          { "label": "herpes zoster" },
+          { "label": "lyme disease" },
+          { "label": "\"cat-scratch\" disease" },
+          { "label": "leprosy" }
+        ]},
+        { "label": "autoimmune connective tissue diseases", "children": [
+          { "label": "rheumatoid arthritis" },
+          { "label": "systemic lupus erythematosus" },
+          { "label": "seronegative spondyloarthropathies (eg, ankylosing spondylitis)" },
+          { "label": "wegener granulomatosis" },
+          { "label": "polyarteritis nodosa" },
+          { "label": "giant cell arteritis" },
+          { "label": "relapsing polychondritis" }
+        ]}
+      ]},
+      { "label": "episcleritis", "children": [
+        { "label": "younger" },
+        { "label": "milder" },
+        { "label": "more acute" },
+        { "label": "vessels blanch with topical phenylephrine (2.5%)" }
+      ]},
+      { "label": "conjunctivitis" },
+      { "label": "orbital cellulitis / orbital pseudotumor" },
+      { "label": "ciliary body tumors" },
+      { "label": "VKH (Vogt-Koyanagi-Harada) → resembles posterior scleritis" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "medical history", "children": [
+          { "label": "systemic immune-mediated diseases" },
+          { "label": "foreign travel → TB (tuberculosis)" },
+          { "label": "STD (sexually transmitted disease) → syphilis" }
+        ]},
+        { "label": "ocular history", "children": [
+          { "label": "onset / course of symptoms", "children": [
+            { "label": "eye pain", "children": [
+              { "label": "boring" },
+              { "label": "awakens patient from sleep" },
+              { "label": "increases with eye movement" },
+              { "label": "increases with touch" },
+              { "label": "radiates to forehead & jaw" }
+            ]},
+            { "label": "decreased vision" }
+          ]},
+          { "label": "prior episodes" },
+          { "label": "ocular trauma / surgery" }
+        ]}
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "VA (visual acuity)" },
+        { "label": "IOP (intraocular pressure)" },
+        { "label": "scleral vascular congestion", "children": [
+          { "label": "bluish hue in natural light → examine under natural light or adequate room light" },
+          { "label": "slit lamp exam with red-free filter" },
+          { "label": "does not move with cotton swab" },
+          { "label": "does not blanch with 2.5% phenylephrine" }
+        ]},
+        { "label": "nodules" },
+        { "label": "scleral thinning" },
+        { "label": "peripheral keratitis" },
+        { "label": "AC (anterior chamber) reaction" },
+        { "label": "cataract" },
+        { "label": "ciliary body tumor" },
+        { "label": "posterior scleritis", "children": [
+          { "label": "subretinal granulomas" },
+          { "label": "choroidal folds" },
+          { "label": "exudative RD (retinal detachment)" },
+          { "label": "optic disc swelling" },
+          { "label": "hyperopia" }
+        ]}
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "systemic workup", "children": [
+        { "label": "CBC, diff, ESR, CRP (complete blood count, differential, erythrocyte sedimentation rate, C-reactive protein)" },
+        { "label": "RF (rheumatoid factor) → RA (rheumatoid arthritis)" },
+        { "label": "Wegener's", "children": [
+          { "label": "ANCA (antineutrophil cytoplasmic antibody)" },
+          { "label": "U/A (urinalysis)" },
+          { "label": "creatinine" }
+        ]},
+        { "label": "ANCA (antineutrophil cytoplasmic antibody) → PAN (polyarteritis nodosa)" },
+        { "label": "ANA (antinuclear antibody) → SLE (systemic lupus erythematosus)" },
+        { "label": "ankylosing spondylitis", "children": [
+          { "label": "sacroiliac x-ray" },
+          { "label": "HLA-B27" }
+        ]},
+        { "label": "gout → uric acid" },
+        { "label": "infections", "children": [
+          { "label": "herpes zoster" },
+          { "label": "syphilis → RPR or VDRL / FTA-ABS or MHA-TP (rapid plasma reagin or venereal disease research laboratory / fluorescent treponemal antibody-absorption or microhemagglutination assay for Treponema pallidum)" },
+          { "label": "lyme → lyme antibody" },
+          { "label": "TB (tuberculosis) → PPD (purified protein derivative), CXR (chest x-ray)" },
+          { "label": "atypical mycobacteria" },
+          { "label": "fungi" },
+          { "label": "nocardia" },
+          { "label": "pseudomonas" },
+          { "label": "culture / staining for infectious agents" }
+        ]}
+      ]},
+      { "label": "B-scan", "children": [
+        { "label": "ciliary body tumor" },
+        { "label": "posterior scleritis" }
+      ]},
+      { "label": "IVFA (intravenous fluorescein angiography)", "children": [
+        { "label": "posterior scleritis" }
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "scleritis, diffuse" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "artificial tears" },
+        { "label": "difluprednate eyedrop" },
+        { "label": "oral NSAIDs (nonsteroidal anti-inflammatory drugs) — only one NSAID should be prescribed at a time", "children": [
+          { "label": "gastroprotective medication" }
+        ]},
+        { "label": "oral steroid", "children": [
+          { "label": "indications", "children": [
+            { "label": "not responsive to NSAID (decreased pain is first sign of response to treatment)" },
+            { "label": "severe disease", "children": [
+              { "label": "severe nodular scleritis" },
+              { "label": "necrotizing scleritis" },
+              { "label": "sclerokeratitis" }
+            ]}
+          ]},
+          { "label": "start at 1 mg/kg daily and then taper within the first 2 weeks of treatment" },
+          { "label": "taper slowly" },
+          { "label": "calcium (600 mg) with vitamin D (400 IU, international units)" },
+          { "label": "gastroprotective medication" },
+          { "label": "NSAIDs and steroids should not be used simultaneously" }
+        ]},
+        { "label": "immunosuppressive therapy (if)", "children": [
+          { "label": "unresponsive to oral steroid" },
+          { "label": "requires >7.5-10 mg prednisone/day for long-term control" },
+          { "label": "MTX (methotrexate), cyclophosphamide, etc" }
+        ]}
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "subconjunctival steroid (for patients who cannot tolerate systemic treatment; not for necrotizing scleritis)" },
+        { "label": "scleral patch graft (for scleral thinning; after inflammation subsides)" }
+      ]},
+      { "label": "Referrals", "children": [
+        { "label": "refer to internist or rheumatologist for systemic work-up (up to 50% have systemic disease)" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "General", "children": [
+        { "label": "association with systemic disease" }
+      ]},
+      { "label": "Course", "children": [
+        { "label": "recurrent episodes common" }
+      ]},
+      { "label": "Prognosis", "children": [
+        { "label": "generally responds to treatment" },
+        { "label": "necrotizing scleritis associated with high mortality", "children": [
+          { "label": "coronary arteritis" },
+          { "label": "cerebral angiitis" }
+        ]}
+      ]},
+      { "label": "Complications", "children": [
+        { "label": "scleral thinning" }
+      ]},
+      { "label": "Do's", "children": [
+        { "label": "protective eyeglasses for scleral thinning" }
+      ]}
+    ]}
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "label": "Fuchs Endothelial Dystrophy",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "70-year-old woman with bilateral blurred vision that is worse upon awakening in the morning" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "\"beaten metal\" appearance of the corneal endothelium with mild stromal edema" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "Fuchs ED (endothelial dystrophy)", "children": [
+        { "label": "non-hereditary — most common" },
+        { "label": "AD (autosomal dominant)" },
+        { "label": "predictors of corneal decompensation following intraocular surgery", "children": [
+          { "label": "endothelial cell density <1000" },
+          { "label": "coefficient of variation >0.4" },
+          { "label": "hexagonality <50%" },
+          { "label": "CCT (central corneal thickness) >640" },
+          { "label": "morning increase in corneal thickness" },
+          { "label": "presence of epithelial edema" }
+        ]}
+      ]},
+      { "label": "ICE (iridocorneal endothelial) syndrome", "children": [
+        { "label": "unilateral" },
+        { "label": "beaten-metal appearance" },
+        { "label": "iris thinning" },
+        { "label": "corectopia" },
+        { "label": "polycoria" },
+        { "label": "high IOP (intraocular pressure)" }
+      ]},
+      { "label": "pseudophakic bullous keratopathy" },
+      { "label": "PPMD (posterior polymorphous membrane dystrophy)", "children": [
+        { "label": "AD (autosomal dominant)" },
+        { "label": "grouped vesicles, broad bands" },
+        { "label": "corectopia" },
+        { "label": "iridocorneal adhesions" },
+        { "label": "high IOP (intraocular pressure)" }
+      ]},
+      { "label": "pigment dispersion syndrome → pigment mimics guttae" },
+      { "label": "CHED (congenital hereditary endothelial dystrophy) → bilateral corneal edema at birth" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "onset & course of symptoms", "children": [
+          { "label": "decreased vision → variation during the day (worse in the morning)" },
+          { "label": "pain → bullous keratopathy" }
+        ]},
+        { "label": "previous cataract surgery" },
+        { "label": "family history of similar condition or corneal graft" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "BCVA (best-corrected visual acuity)" },
+        { "label": "IOP (intraocular pressure)" },
+        { "label": "microcystic epithelial edema" },
+        { "label": "stromal corneal edema" },
+        { "label": "endothelial changes", "children": [
+          { "label": "corneal guttae → best seen with retroillumination" },
+          { "label": "grouped vesicles, broad bands on retroillumination → PPMD (posterior polymorphous membrane dystrophy)" }
+        ]},
+        { "label": "fluorescein staining → intact / ruptured bullae" },
+        { "label": "Krukenberg spindle → pigment dispersion syndrome" },
+        { "label": "examine other eye → unilateral vs bilateral" }
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "pachymetry (corneal thickness)" },
+      { "label": "specular microscopy → normal endothelial cell count", "children": [
+        { "label": "after birth = 4000" },
+        { "label": "young adult = 3000" },
+        { "label": "60 years = 2500" }
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "Fuchs ED (endothelial dystrophy)" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "warm air from a hair dryer at arm's length every morning" },
+        { "label": "sodium-chloride 5%" },
+        { "label": "if high IOP (intraocular pressure) → glaucoma drops" }
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "endothelial transplant", "children": [
+          { "label": "DSAEK (Descemet stripping automated endothelial keratoplasty) — 100-200 micron thickness" },
+          { "label": "DMEK (Descemet membrane endothelial keratoplasty) — 10-15 micron thickness", "children": [
+            { "label": "DMEK is very similar to DSAEK, except that the donor tissue implanted does not include any stromal tissue" }
+          ]}
+        ]},
+        { "label": "descemetorhexis", "children": [
+          { "label": "removal of a relatively small area of abnormal Descemet" },
+          { "label": "results in mitosis of normal endothelial cells from the periphery causing resolution of corneal edema" },
+          { "label": "± topical and/or intracameral Rho kinase (ROCK) inhibitor" }
+        ]},
+        { "label": "PK (penetrating keratoplasty) — if anterior corneal scarring" },
+        { "label": "triple procedure (if stromal edema)", "children": [
+          { "label": "evaluate corneal health before cataract surgery" },
+          { "label": "high pachymetry readings or low endothelial cell count are not indications for triple procedure" }
+        ]}
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "General", "children": [
+        { "label": "AD (autosomal dominant) inheritance in some cases" }
+      ]},
+      { "label": "Course", "children": [
+        { "label": "slowly progressive" }
+      ]},
+      { "label": "Complications", "children": [
+        { "label": "corneal edema → worsening corneal edema after cataract surgery" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "every 3-12 months" }
+      ]}
+    ]}
+  ]
+}

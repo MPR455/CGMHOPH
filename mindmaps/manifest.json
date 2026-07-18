@@ -1,0 +1,217 @@
+{
+  "categories": [
+    "Case examples",
+    "External Diseases",
+    "Glaucoma",
+    "Lens",
+    "Neuroophthalmology",
+    "Orbit & Eyelids",
+    "Pathology & Tumors",
+    "Pediatric Ophthalmology",
+    "Retina",
+    "Uveitis"
+  ],
+  "maps": [
+    {
+      "id": "aacg",
+      "title": "Acute Angle Closure Glaucoma",
+      "short": "AACG",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "aacg.png",
+          "caption": "Anterior-segment image of the angle (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "corneal_ulcer",
+      "title": "Corneal Ulcer",
+      "short": "Corneal Ulcer",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "corneal_ulcer_eye.png",
+          "caption": "Large corneal ulcer with surrounding corneal edema and hypopyon (© 2020 American Academy of Ophthalmology)"
+        },
+        {
+          "file": "corneal_ulcer_gram.png",
+          "caption": "Gram stain: slender gram-negative rods, original magnification ×1000 (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "salzmann",
+      "title": "Salzmann Nodular Degeneration",
+      "short": "Salzmann Nodular Degeneration",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "salzmann_nodules.png",
+          "caption": "Round gray-white elevated paracentral corneal nodules (© 2020 American Academy of Ophthalmology)"
+        },
+        {
+          "file": "salzmann_spheroidal.png",
+          "caption": "Spheroidal degeneration: translucent, golden-brown spheroidlike deposits (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "pigment_dispersion",
+      "title": "Pigment Dispersion Syndrome",
+      "short": "Pigment Dispersion Syndrome",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "pigment_dispersion_1.png",
+          "caption": "Mid-peripheral iris transillumination defects (© 2020 American Academy of Ophthalmology)"
+        },
+        {
+          "file": "pigment_dispersion_2.png",
+          "caption": "Krukenberg spindle (© 2020 American Academy of Ophthalmology)"
+        },
+        {
+          "file": "pigment_dispersion_3.png",
+          "caption": "Pigment on the lens capsule (© 2020 American Academy of Ophthalmology)"
+        },
+        {
+          "file": "pigment_dispersion_4.png",
+          "caption": "Trabecular meshwork pigmentation on gonioscopy (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "vernal_atopic",
+      "title": "Vernal / Atopic Conjunctivitis",
+      "short": "Vernal/Atopic Conjunctivitis",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "vernal_atopic_1.png",
+          "caption": "Giant papillae of the upper tarsal conjunctiva (© 2020 American Academy of Ophthalmology)"
+        },
+        {
+          "file": "vernal_atopic_2.png",
+          "caption": "Atopic keratoconjunctivitis — small-to-medium papillae with milky conjunctival edema (© 2020 American Academy of Ophthalmology)"
+        },
+        {
+          "file": "vernal_atopic_3.png",
+          "caption": "Atopic keratoconjunctivitis — corneal vascularization / limbal stem cell dysfunction (© 2020 American Academy of Ophthalmology)"
+        },
+        {
+          "file": "vernal_atopic_4.png",
+          "caption": "Floppy eyelid syndrome — papillae on everted upper eyelid (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "vortex_keratopathy",
+      "title": "Vortex Keratopathy (cornea verticillata)",
+      "short": "Vortex Keratopathy",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "vortex_keratopathy_1.png",
+          "caption": "Bilateral whorl-like pattern of golden-brown deposits (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "chemical_injury",
+      "title": "Chemical Injury",
+      "short": "Chemical Injury",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "chemical_injury_1.png",
+          "caption": "Diffuse conjunctival injection with corneal edema and haze (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "recurrent_corneal_erosion",
+      "title": "Recurrent Corneal Erosion",
+      "short": "Recurrent Corneal Erosion",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "recurrent_corneal_erosion_1.png",
+          "caption": "Sclerotic-scatter photograph showing characteristic geographic maps (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "fuchs_endothelial",
+      "title": "Fuchs Endothelial Dystrophy",
+      "short": "Fuchs Endothelial Dystrophy",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "fuchs_endothelial_1.png",
+          "caption": "\"Beaten metal\" appearance of the corneal endothelium with mild stromal edema (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "filamentary_keratopathy",
+      "title": "Filamentary Keratopathy",
+      "short": "Filamentary Keratopathy",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "filamentary_keratopathy_1.png",
+          "caption": "Corneal filaments with corneal vascularization (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "ocular_melanocytosis",
+      "title": "Ocular Melanocytosis",
+      "short": "Ocular Melanocytosis",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "ocular_melanocytosis_1.png",
+          "caption": "Diffuse episcleral pigmentation with a dark brown iris (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "traumatic_hyphema",
+      "title": "Traumatic Hyphema",
+      "short": "Traumatic Hyphema",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "traumatic_hyphema_1.png",
+          "caption": "Anterior segment photo showing hyphema (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    },
+    {
+      "id": "scleritis",
+      "title": "Scleritis",
+      "short": "Scleritis",
+      "category": "Case examples",
+      "subcategory": "Anterior segment",
+      "images": [
+        {
+          "file": "scleritis_1.png",
+          "caption": "Diffuse redness with congested scleral vessels in a crisscross pattern (© 2020 American Academy of Ophthalmology)"
+        }
+      ]
+    }
+  ]
+}

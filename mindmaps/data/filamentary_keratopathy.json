@@ -1,0 +1,134 @@
+{
+  "label": "Filamentary Keratopathy",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "70-year-old woman complains of burning, light sensitivity, and dry sensation of both eyes" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "corneal filaments and corneal vascularization" }
+    ]},
+    { "label": "Differential Diagnosis (of filamentary keratopathy)", "children": [
+      { "label": "dry eye syndrome (DES) — most common cause" },
+      { "label": "prolonged patching" },
+      { "label": "topical drug toxicity" },
+      { "label": "SLK (superior limbic keratoconjunctivitis) → superior cornea", "children": [
+        { "label": "pannus" },
+        { "label": "punctate epithelial erosions" },
+        { "label": "filaments" }
+      ]},
+      { "label": "recurrent corneal erosion" },
+      { "label": "exposure keratopathy" },
+      { "label": "neurotrophic keratopathy" },
+      { "label": "irregular corneal surface → surgical wound" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "medical history", "children": [
+          { "label": "autoimmune disorders → DES (dry eye syndrome)" },
+          { "label": "diabetes" },
+          { "label": "cigarette smoking" }
+        ]},
+        { "label": "ocular history", "children": [
+          { "label": "onset & course of symptoms", "children": [
+            { "label": "worse toward the end of the day" },
+            { "label": "worse with prolonged use of the eyes" }
+          ]},
+          { "label": "symptoms", "children": [
+            { "label": "FB (foreign body) sensation" },
+            { "label": "pain" },
+            { "label": "red eye" },
+            { "label": "tearing" },
+            { "label": "photophobia" },
+            { "label": "eye pain / FB (foreign body) sensation upon waking → recurrent corneal erosion" }
+          ]},
+          { "label": "dry eye → treatment for dry eye" },
+          { "label": "dry mouth" },
+          { "label": "eye patching" },
+          { "label": "topical medication" }
+        ]},
+        { "label": "consider neurotrophic keratopathy, if asymptomatic" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "blepharitis" },
+        { "label": "lagophthalmos" },
+        { "label": "conjunctival papillary (or follicular) hypertrophy" },
+        { "label": "tear film height → <0.3 mm is abnormal" },
+        { "label": "location of corneal filaments", "children": [
+          { "label": "superior → SLK (superior limbic keratoconjunctivitis)" },
+          { "label": "inferior → exposure keratopathy" }
+        ]},
+        { "label": "fluorescein staining → look for punctate / gross epithelial erosions" },
+        { "label": "corneal sensation → neurotrophic keratopathy" }
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "stare test", "children": [
+        { "label": "after a few blinks, patient is asked to look at a visual acuity chart" },
+        { "label": "normally the time until the image blurs should be > 8 seconds" }
+      ]},
+      { "label": "tear break-up time → appearance of dry spots in <10 seconds is considered abnormal" },
+      { "label": "basal tear secretion", "children": [
+        { "label": "topical anesthetic" },
+        { "label": "inferior cul-de-sac is dried" },
+        { "label": "Schirmer strip is bent at the notch and placed with the short end resting on the conjunctiva and the fold crease on the eyelid margin" },
+        { "label": "at the lateral one-third of the lower eyelid" },
+        { "label": "strip is left in place for 5 minutes" },
+        { "label": "≈10–15 mm → normal" }
+      ]},
+      { "label": "Schirmer I and Schirmer II tests", "children": [
+        { "label": "Schirmer I test", "children": [
+          { "label": "like basal tear secretion test, but no topical anesthetic is used" },
+          { "label": "to evaluate both basic and reflex tearing" }
+        ]},
+        { "label": "Schirmer II test", "children": [
+          { "label": "no anesthetic" },
+          { "label": "tear strip in place" },
+          { "label": "cotton-tipped applicator is placed in the nostril and moved back and forth for 2 minutes" },
+          { "label": "to distinguish between fatigue block (when reflex secretion is suppressed because of chronic irritation) and a lack of function of the reflex secretors" }
+        ]}
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "filamentary keratitis secondary to dry eye" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "artificial tear drops", "children": [
+          { "label": "preservative-free" },
+          { "label": "6-8×/day" }
+        ]},
+        { "label": "artificial tear ointment (qhs, every night at bedtime)" },
+        { "label": "punctal plug" },
+        { "label": "restasis" },
+        { "label": "autologous serum" },
+        { "label": "oral fish oil" },
+        { "label": "moisture chamber goggles" },
+        { "label": "therapeutic contact lens", "children": [
+          { "label": "monitor closely" },
+          { "label": "± topical antibiotic" },
+          { "label": "not for patients with severe dry eye" }
+        ]},
+        { "label": "topical mucomyst (acetylcysteine) 10% (qid, four times daily)" }
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "mechanical removal of filaments", "children": [
+          { "label": "jeweler forceps" },
+          { "label": "cotton-tipped applicator" }
+        ]},
+        { "label": "tarsorrhaphy" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Prognosis", "children": [
+        { "label": "good" }
+      ]},
+      { "label": "Course", "children": [
+        { "label": "chronic disease → may need treatment for life" }
+      ]},
+      { "label": "Complications", "children": [
+        { "label": "corneal infection" }
+      ]}
+    ]}
+  ]
+}

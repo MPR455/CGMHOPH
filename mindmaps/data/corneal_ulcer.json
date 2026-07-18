@@ -1,0 +1,204 @@
+{
+  "label": "Corneal Ulcer",
+  "root": true,
+  "children": [
+    { "label": "Case description", "children": [
+      { "label": "college student with history of contact lens wear complains of rapid onset of pain, redness, and decreased vision of his left eye over the past day" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "large corneal ulcer with surrounding corneal edema and hypopyon" }
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "pseudomonas corneal ulcer" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "bacterial", "children": [
+        { "label": "risk factors", "children": [
+          { "label": "corticosteroid use" },
+          { "label": "contact lens wear" },
+          { "label": "previous corneal surgery" },
+          { "label": "penetrating keratoplasty" }
+        ]},
+        { "label": "pseudomonas" },
+        { "label": "infectious crystalline keratopathy" },
+        { "label": "causative agents", "children": [
+          { "label": "α-hemolytic Streptococcus species (Streptococcus viridans)" }
+        ]}
+      ]},
+      { "label": "fungal", "children": [
+        { "label": "septate filamentous fungi", "children": [
+          { "label": "Fusarium" },
+          { "label": "Aspergillus" }
+        ]},
+        { "label": "nonseptate filamentous fungi", "children": [
+          { "label": "Zygomycetes", "children": [
+            { "label": "Mucor" },{ "label": "Rhizopus" },{ "label": "Absidia" }
+          ]},
+          { "label": "Pneumocystis jiroveci (previously Pneumocystis carinii)" }
+        ]},
+        { "label": "yeast", "children": [ { "label": "Candida" } ]},
+        { "label": "smear", "children": [
+          { "label": "Gomori methenamine silver (GMS) — not Gram stain, except Candida" }
+        ]},
+        { "label": "treatment", "children": [
+          { "label": "topical natamycin 5% suspension — for most filamentous fungi, particularly Fusarium" },
+          { "label": "topical voriconazole 1% — inferior to natamycin" },
+          { "label": "topical amphotericin B (0.15%–0.30%) — for Aspergillus; for yeast keratitis" }
+        ]}
+      ]},
+      { "label": "acanthamoeba", "children": [
+        { "label": "pain" },
+        { "label": "perineural invasion" },
+        { "label": "satellite lesions" },
+        { "label": "ring-shaped infiltrate" },
+        { "label": "culture", "children": [
+          { "label": "nonnutrient agar with E. coli or Enterobacter aerogenes overlay" },
+          { "label": "characteristic trails" }
+        ]},
+        { "label": "smears", "children": [
+          { "label": "Giemsa (also for Chlamydia)" },
+          { "label": "periodic acid–Schiff (PAS)" },
+          { "label": "calcofluor white" },
+          { "label": "acridine orange" }
+        ]},
+        { "label": "in vivo confocal microscopy shows the cyst forms" },
+        { "label": "topical administration", "children": [
+          { "label": "biguanides: chlorhexidine — efficacy against both cysts and trophozoites → mainstay of pharmacologic treatment" },
+          { "label": "diamidines: propamidine, hexamidine" },
+          { "label": "aminoglycosides: neomycin, paromomycin" },
+          { "label": "imidazoles / triazoles: voriconazole, miconazole, clotrimazole, ketoconazole, itraconazole" }
+        ]}
+      ]},
+      { "label": "herpes virus", "children": [
+        { "label": "lid vesicles" },
+        { "label": "corneal dendrite" }
+      ]},
+      { "label": "atypical mycobacteria", "children": [
+        { "label": "vegetable injury" },
+        { "label": "post-surgery (after refractive surgery)" },
+        { "label": "indolent course" },
+        { "label": "keep culture plates × 8 weeks" }
+      ]},
+      { "label": "topical anesthetic abuse", "children": [
+        { "label": "large ring opacity" }
+      ]}
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "CL (contact lens) wear", "children": [
+          { "label": "overnight CL (contact lens) wear" },
+          { "label": "expired CL (contact lens) wear" },
+          { "label": "continuous CL (contact lens) wear" },
+          { "label": "CL (contact lens) wear in hot tub / sauna / lake / ocean" }
+        ]},
+        { "label": "care / cleaning", "children": [
+          { "label": "home-made saline solution", "children": [
+            { "label": "tap water" },{ "label": "distilled water" }
+          ]},
+          { "label": "expired solutions" },
+          { "label": "particular brand of solution" }
+        ]},
+        { "label": "prior episodes of eye redness → herpes" },
+        { "label": "topical anesthetic use" },
+        { "label": "recent trauma / surgery" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "corneal epithelial defect → size" },
+        { "label": "corneal infiltrate", "children": [
+          { "label": "size" },{ "label": "depth" },{ "label": "ring infiltrate" }
+        ]},
+        { "label": "corneal perineuritis → acanthamoeba" },
+        { "label": "endothelial plaque" },
+        { "label": "AC (anterior chamber) reaction → hypopyon" }
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "stain", "children": [
+        { "label": "gram stain — slender gram-negative rods (Gram stain, original magnification ×1000)" },
+        { "label": "giemsa stain → acanthamoeba" }
+      ]},
+      { "label": "culture", "children": [
+        { "label": "specimens", "children": [
+          { "label": "corneal ulcer" },
+          { "label": "contact lens & contact lens case — use calcium alginate swab" }
+        ]},
+        { "label": "culture agar", "children": [
+          { "label": "blood agar" },{ "label": "chocolate agar" },{ "label": "thioglycolate agar" },{ "label": "Sabouraud agar" }
+        ]},
+        { "label": "indications for culture", "children": [
+          { "label": "infiltrates that extend to the middle of the cornea, into deep stroma, or across a large area (>2 mm)" },
+          { "label": "history or clinical features suggest fungal, amebic, mycobacterial, or drug-resistant organisms" },
+          { "label": "cases unresponsive to initial empiric therapy (after discontinuation of antibiotics for 12–24 hours)" }
+        ]}
+      ]}
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "broad spectrum fortified topical antibiotics (q1h, every hour)", "children": [
+          { "label": "vancomycin" },{ "label": "ceftazidime" }
+        ]},
+        { "label": "cycloplegia" },
+        { "label": "steroids worsen keratitis, especially", "children": [
+          { "label": "fungus" },{ "label": "atypical mycobacteria" },{ "label": "pseudomonas" }
+        ]},
+        { "label": "systemic antibiotics", "children": [
+          { "label": "oral fluoroquinolone — for scleral extension, impending / frank perforation" },
+          { "label": "neisseria gonorrhoea", "children": [
+            { "label": "IM (intramuscular) ceftriaxone 1 g single — conjunctivitis" },
+            { "label": "IV (intravenous) ceftriaxone 1 g q12–24 hr × 3 days, admit — keratitis" }
+          ]},
+          { "label": "haemophilus — oral amoxicillin / clavulanate" }
+        ]},
+        { "label": "types", "children": [
+          { "label": "low-risk", "children": [
+            { "label": "criteria: small, nonstaining peripheral infiltrate with no more than minimal anterior chamber reaction" },
+            { "label": "non-CL (contact lens) wearer: fluoroquinolone or polymyxin B / trimethoprim, q1–2 hr while awake" },
+            { "label": "CL (contact lens) wearer: fluoroquinolone + polymyxin B / trimethoprim, q1 hr while awake" }
+          ]},
+          { "label": "borderline vision threatening", "children": [
+            { "label": "fluoroquinolone ± polymyxin B / trimethoprim, q1h around the clock" },
+            { "label": "loading dose: 1 drop q5 min × 5" }
+          ]},
+          { "label": "vision threatening", "children": [
+            { "label": "criteria: size >1.5–2 mm; involves visual axis; unresponsive to treatment" },
+            { "label": "Gram (−): fortified tobramycin (gentamicin) or ceftazidime" },
+            { "label": "Gram (+): fortified cefazolin or vancomycin" },
+            { "label": "alternating between the two fortified regimens" },
+            { "label": "loading dose: 1 drop q5 min × 5" }
+          ]}
+        ]}
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "corneal transplant", "children": [
+          { "label": "indications", "children": [
+            { "label": "keratitis is unresponsive to antimicrobial therapy" },
+            { "label": "descemetocele formation or perforation occurs" }
+          ]}
+        ]}
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Do's", "children": [
+        { "label": "discontinue CL (contact lens) wear" },
+        { "label": "throw out all open CLs (contact lenses), cases, solutions" },
+        { "label": "protective eyewear" }
+      ]},
+      { "label": "Prognosis", "children": [
+        { "label": "guarded prognosis" }
+      ]},
+      { "label": "Complications", "children": [
+        { "label": "corneal perforation" },
+        { "label": "dense central scar → corneal transplant" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "daily until improvement" },
+        { "label": "criteria for monitoring", "children": [
+          { "label": "pain" },
+          { "label": "size of corneal epithelial defect" },
+          { "label": "size & depth of infiltrate" },
+          { "label": "AC (anterior chamber) reaction" }
+        ]}
+      ]}
+    ]}
+  ]
+}

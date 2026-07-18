@@ -1,0 +1,113 @@
+{
+  "label": "Pigment Dispersion Syndrome",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "young myopic man with no ocular complaints" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "mid-peripheral iris transillumination defects (in both eyes)" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "pigment dispersion syndrome / glaucoma" },
+      { "label": "trauma / surgery", "children": [
+        { "label": "iris chafe with sulcus IOL (intraocular lens)" },
+        { "label": "accidental or surgical trauma to iris" },
+        { "label": "siderosis" }
+      ]},
+      { "label": "HSV / VZV (herpes simplex virus / varicella zoster virus) uveitis" },
+      { "label": "PXF (pseudoexfoliation)", "children": [
+        { "label": "iris TIDs (transillumination defects) are near the pupillary margin" }
+      ]},
+      { "label": "albinism", "children": [
+        { "label": "Waardenburg syndrome", "children": [
+          { "label": "partial albinism" },
+          { "label": "white forelock" },
+          { "label": "deafness" },
+          { "label": "dystopia canthorum" },
+          { "label": "iris hypochromia", "children": [
+            { "label": "pale blue eyes" },
+            { "label": "heterochromia irides" }
+          ]}
+        ]}
+      ]},
+      { "label": "radiation" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "blurred vision, halos, eye pain after exercise or pupil dilation" },
+        { "label": "refractive error → myopia" },
+        { "label": "trauma / surgery" },
+        { "label": "herpes infection" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "IOP (intraocular pressure)" },
+        { "label": "slit lamp", "children": [
+          { "label": "Krukenberg spindle" },
+          { "label": "pigment on lens capsule" },
+          { "label": "pigment on lens zonules" },
+          { "label": "PXF (pseudoexfoliation) material" }
+        ]},
+        { "label": "gonioscopy → TM (trabecular meshwork) pigmentation" },
+        { "label": "funduscopy", "children": [
+          { "label": "glaucomatous optic nerve damage" },
+          { "label": "lattice degeneration" },
+          { "label": "retinal detachment" },
+          { "label": "examine other eye" }
+        ]}
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "PDS / PDG (pigment dispersion syndrome / pigmentary dispersion glaucoma)" }
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "visual field exam" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "argon laser trabeculoplasty", "children": [
+          { "label": "greater risk of post-laser IOP (intraocular pressure) spikes", "children": [
+            { "label": "lower energy should be used" },
+            { "label": "only 180 degrees of treatment is advised initially" }
+          ]}
+        ]},
+        { "label": "selective laser trabeculoplasty" },
+        { "label": "IOP (intraocular pressure) lowering medication" },
+        { "label": "miotic agents", "children": [
+          { "label": "reduce iris-zonule contact" },
+          { "label": "cause fluctuating myopia" }
+        ]}
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "laser PI (peripheral iridotomy)", "children": [
+          { "label": "for early disease" },
+          { "label": "controversial" }
+        ]},
+        { "label": "guarded filtering surgery", "children": [
+          { "label": "higher risk of hypotony", "children": [
+            { "label": "avoid early overinfiltration" }
+          ]}
+        ]},
+        { "label": "tube shunt" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "General", "children": [
+        { "label": "explain pathophysiology" }
+      ]},
+      { "label": "Course", "children": [
+        { "label": "with age, the signs and symptoms of pigment dispersion may decrease" }
+      ]},
+      { "label": "Complications", "children": [
+        { "label": "PDG (pigmentary dispersion glaucoma) — risk of glaucoma is ≈25%–50%" },
+        { "label": "RD (retinal detachment) — review RD (retinal detachment) symptoms" },
+        { "label": "myopia" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "IOP (intraocular pressure)" },
+        { "label": "optic nerve appearance — as a glaucoma suspect" },
+        { "label": "VF (visual field)" }
+      ]}
+    ]}
+  ]
+}

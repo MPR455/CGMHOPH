@@ -1,0 +1,161 @@
+{
+  "label": "Vernal / Atopic Conjunctivitis",
+  "root": true,
+  "children": [
+    { "label": "Case description", "children": [
+      { "label": "10-year-old boy with bilateral eye itching and redness worse in spring and summer" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "giant papillae of upper tarsal conjunctiva" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "symptoms: ocular itching, irritation, redness, discharge" },
+        { "label": "age" },
+        { "label": "onset & course", "children": [
+          { "label": "seasonal variation → vernal KC (keratoconjunctivitis)" }
+        ]},
+        { "label": "dermatitis → atopic KC (keratoconjunctivitis)" },
+        { "label": "asthma → atopic KC (keratoconjunctivitis)" },
+        { "label": "contact lens wear → giant papillary conjunctivitis" },
+        { "label": "trauma / surgery" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "thick ropy discharge" },
+        { "label": "Horner-Trantas dots" },
+        { "label": "SPK (superficial punctate keratitis)" },
+        { "label": "filamentary keratopathy" },
+        { "label": "shield ulcer" },
+        { "label": "foreign body" }
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "VKC (vernal keratoconjunctivitis)", "children": [
+        { "label": "young boy" },
+        { "label": "itching" },
+        { "label": "seasonal variation" },
+        { "label": "giant papillary conjunctivitis" }
+      ]}
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "vernal keratoconjunctivitis", "children": [
+        { "label": "children" },
+        { "label": "M>F (males more than females)" },
+        { "label": "symptoms", "children": [
+          { "label": "itching" },{ "label": "blepharospasm" },{ "label": "photophobia" },
+          { "label": "blurred vision" },{ "label": "copious mucoid discharge" }
+        ]},
+        { "label": "seasonal variation → year-round in tropical climates" },
+        { "label": "giant papillae resembling cobblestones" },
+        { "label": "complications", "children": [
+          { "label": "punctate epithelial erosions → superior and central cornea" },
+          { "label": "noninfectious epithelial ulcers → oval or shieldlike" },
+          { "label": "stem cell deficiency → pannus" },
+          { "label": "keratoconus" }
+        ]}
+      ]},
+      { "label": "atopic keratoconjunctivitis (similar to vernal keratoconjunctivitis with the following differences)", "children": [
+        { "label": "older" },
+        { "label": "minimal seasonal exacerbation" },
+        { "label": "papillae occur in upper and lower palpebral conjunctiva" },
+        { "label": "papillae are small or medium-sized" },
+        { "label": "milky conjunctival edema + variable subepithelial fibrosis" },
+        { "label": "extensive corneal vascularization and opacification (limbal stem cell dysfunction)" },
+        { "label": "conjunctival scarring / symblepharon formation" },
+        { "label": "posterior subcapsular and/or anterior subcapsular cataract" },
+        { "label": "corneal findings", "children": [
+          { "label": "punctate erosions" },
+          { "label": "persistent epithelial defects" },
+          { "label": "increased incidence of ectatic corneal diseases" },
+          { "label": "increased incidence of staphylococcal and herpes simplex infections → depressed systemic cell-mediated immunity" }
+        ]}
+      ]},
+      { "label": "giant papillary conjunctivitis", "children": [
+        { "label": "contact lens" },
+        { "label": "prosthetic eye" },
+        { "label": "foreign body" }
+      ]},
+      { "label": "superior limbic keratoconjunctivitis", "children": [
+        { "label": "women 20–70 years of age" },
+        { "label": "ocular findings", "children": [
+          { "label": "often bilateral" },
+          { "label": "chronic, recurrent" },
+          { "label": "superior corneal filamentary keratopathy" },
+          { "label": "fine punctate fluorescein and rose bengal staining of superior cornea and superior bulbar conjunctiva" },
+          { "label": "hypertrophy of superior limbus" },
+          { "label": "injection and thickening of superior bulbar conjunctiva" },
+          { "label": "fine papillary reaction of superior tarsal conjunctiva" }
+        ]}
+      ]},
+      { "label": "floppy eyelid syndrome", "children": [
+        { "label": "obese" },
+        { "label": "obstructive sleep apnea" },
+        { "label": "clinical findings", "children": [
+          { "label": "small to large papillae on upper palpebral conjunctiva" },
+          { "label": "mucus discharge" },
+          { "label": "corneal involvement", "children": [
+            { "label": "mild punctate epitheliopathy" },
+            { "label": "superior corneal filamentary keratopathy" }
+          ]},
+          { "label": "± unilateral" }
+        ]},
+        { "label": "treatment", "children": [
+          { "label": "covering the affected eyes with a metal shield" },
+          { "label": "taping the eyelids closed at night" },
+          { "label": "surgical eyelid-tightening procedures" }
+        ]}
+      ]}
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "mild", "children": [
+        { "label": "cold compress" },
+        { "label": "artificial tear" },
+        { "label": "topical antihistamine" },
+        { "label": "home air conditioning" },
+        { "label": "relocate to cool environment if above treatment not effective" }
+      ]},
+      { "label": "mild-moderate", "children": [
+        { "label": "topical mast cell stabilizers", "children": [
+          { "label": "e.g. cromolyn" },
+          { "label": "start at least 2 weeks before symptoms usually begin" },
+          { "label": "continue treatment for whole season" }
+        ]}
+      ]},
+      { "label": "severe", "children": [
+        { "label": "steroid eye drops", "children": [
+          { "label": "for exacerbations with moderate to severe discomfort and/or decreased vision" }
+        ]},
+        { "label": "topical cyclosporin", "children": [
+          { "label": "maximal effect takes several weeks" }
+        ]},
+        { "label": "supratarsal injection of corticosteroid" },
+        { "label": "oral cyclosporine for very severe cases" }
+      ]},
+      { "label": "shield ulcer", "children": [
+        { "label": "topical steroid" },
+        { "label": "topical antibiotic" },
+        { "label": "topical cycloplegic" }
+      ]},
+      { "label": "for atopic KC (keratoconjunctivitis)", "children": [
+        { "label": "oral antihistamine" },
+        { "label": "systemic immune suppression (for severe cases)" },
+        { "label": "tacrolimus ointment for dermatitis" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Don'ts", "children": [
+        { "label": "avoid excessive eye rubbing" },
+        { "label": "avoid contact lens wear when active" }
+      ]},
+      { "label": "Course", "children": [
+        { "label": "seasonal variation" },
+        { "label": "improvement with aging" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "1 week" },
+        { "label": "daily for shield ulcer" },
+        { "label": "monitor IOP (intraocular pressure) if steroid use" }
+      ]}
+    ]}
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "label": "Vortex Keratopathy (cornea verticillata)",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "asymptomatic middle-aged man with history of systemic hypertension and ventricular arrhythmia comes for routine eye examination" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "bilateral whorl-like pattern of golden brown or gray deposits" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "vortex keratopathy", "children": [
+        { "label": "etiology", "children": [
+          { "label": "medications", "children": [
+            { "label": "indomethacin — most common cause" },
+            { "label": "amiodarone — anti-arrhythmic drug", "children": [
+              { "label": "reduced vision with amiodarone or tamoxifen → rule out optic neuropathy" }
+            ]},
+            { "label": "chloroquine", "children": [
+              { "label": "hydroxychloroquine (> 6.5 mg/kg/day)" },
+              { "label": "chloroquine (> 3 mg/kg/day)" }
+            ]},
+            { "label": "phenothiazines", "children": [
+              { "label": "reduced vision with chloroquine family or tilorone hydrochloride → rule out retinal toxicity" }
+            ]}
+          ]},
+          { "label": "Fabry disease / carrier state", "children": [
+            { "label": "XLR (X-linked recessive)" },
+            { "label": "lysosomal storage disease" },
+            { "label": "alpha galactosidase-A deficiency" },
+            { "label": "conjunctival telangiectasia & vascular tortuosity" },
+            { "label": "posterior spoke-like lens opacities" },
+            { "label": "retinal telangiectasis & vascular tortuosity" },
+            { "label": "neuropathic pain" },
+            { "label": "kidney disease → refer to internist" },
+            { "label": "angiokeratoma" }
+          ]}
+        ]},
+        { "label": "clinical", "children": [
+          { "label": "inferior interpalpebral portion of the cornea" },
+          { "label": "rarely result in reduction of vision or ocular symptoms" },
+          { "label": "resolve with discontinuation of the responsible agents" }
+        ]}
+      ]},
+      { "label": "healed corneal epithelial defect" },
+      { "label": "dendritic keratopathy" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "medical history → medication use" },
+        { "label": "ocular history", "children": [
+          { "label": "ocular symptoms → vortex keratopathy is asymptomatic" },
+          { "label": "corneal abrasion" },
+          { "label": "herpetic eye disease" }
+        ]}
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "VA (visual acuity)" },
+        { "label": "laterality → vortex keratopathy is bilateral" },
+        { "label": "herpetic eye disease" },
+        { "label": "corneal abrasion" },
+        { "label": "conjunctival telangiectasia & tortuosity" },
+        { "label": "posterior spoke-like lens opacities (Fabry disease)" },
+        { "label": "retinal telangiectasis & tortuosity (Fabry disease)" },
+        { "label": "bull's eye maculopathy (chloroquine)" }
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "baseline and follow-up exams (if on chloroquine / hydroxychloroquine)", "children": [
+        { "label": "baseline", "children": [
+          { "label": "rule out preexisting maculopathy" },
+          { "label": "fundus examination → within 1 year" },
+          { "label": "SD-OCT (spectral-domain optical coherence tomography)" },
+          { "label": "VF (visual field)", "children": [
+            { "label": "white target" },
+            { "label": "10-2" }
+          ]}
+        ]},
+        { "label": "follow-up", "children": [
+          { "label": "annually (after 5 years of medication use)" },
+          { "label": "SD-OCT (spectral-domain optical coherence tomography)", "children": [
+            { "label": "loss of IS-OS (inner segment / outer segment) junction" },
+            { "label": "flying saucer sign" }
+          ]},
+          { "label": "VF (visual field)", "children": [
+            { "label": "white target" },
+            { "label": "threshold VF (Humphrey 10-2)" }
+          ]},
+          { "label": "fundus autofluorescence" },
+          { "label": "multifocal ERG (electroretinogram) — as needed or available" }
+        ]}
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "vortex keratopathy — patient on amiodarone for arrhythmia" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "do not stop medication — unless develops maculopathy (chloroquine)" }
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "prognosis", "children": [
+        { "label": "benign" }
+      ]},
+      { "label": "Complications", "children": [
+        { "label": "maculopathy" },
+        { "label": "review medication dosage → toxic dosage", "children": [
+          { "label": "hydroxychloroquine > 6.5 mg/kg/day" },
+          { "label": "chloroquine > 3 mg/kg/day" }
+        ]}
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "monitor for maculopathy → 1 year" }
+      ]}
+    ]}
+  ]
+}
