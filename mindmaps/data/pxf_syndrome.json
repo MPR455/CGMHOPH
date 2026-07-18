@@ -1,0 +1,112 @@
+{
+  "label": "Pseudoexfoliation Syndrome (PXF)",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "middle-aged woman comes for routine eye examination" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "deposition of white fibrillar material in a concentric \"bull's-eye\" pattern on the anterior lens capsule" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "PXF (pseudoexfoliation) syndrome", "children": [
+        { "label": "bilateral asymmetric" },
+        { "label": "multifactorial", "children": [
+          { "label": "LOXL1 mutation" },
+          { "label": "UV (ultraviolet) light exposure" }
+        ]},
+        { "label": "family history of glaucoma" }
+      ]},
+      { "label": "true exfoliation" },
+      { "label": "amyloid", "children": [
+        { "label": "over lens capsule" },
+        { "label": "at pupillary margin" }
+      ]},
+      { "label": "uveitis", "children": [
+        { "label": "photophobia" },
+        { "label": "KP (keratic precipitates)" },
+        { "label": "PAS / PS (peripheral anterior synechiae / posterior synechiae)" },
+        { "label": "fluctuating IOP (intraocular pressure)" }
+      ]},
+      { "label": "pigment dispersion syndrome (PDS)", "children": [
+        { "label": "myopia → retinal detachment" },
+        { "label": "deep AC (anterior chamber)" },
+        { "label": "midperipheral TIDs (transillumination defects)" }
+      ]},
+      { "label": "UGH (uveitis-glaucoma-hyphema) syndrome → prior surgery" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "European (Scandinavian) origin" },
+        { "label": "occupation → exposure to heat", "children": [
+          { "label": "glass blower" },
+          { "label": "welder → true exfoliation" }
+        ]},
+        { "label": "family history of glaucoma" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "IOP (intraocular pressure) → unstable" },
+        { "label": "slit lamp", "children": [
+          { "label": "fibrillary / flaky material", "children": [
+            { "label": "endothelium" },
+            { "label": "anterior lens capsule → dilate pupil" }
+          ]},
+          { "label": "zonular laxity", "children": [
+            { "label": "phacodonesis" },
+            { "label": "iridodonesis" }
+          ]},
+          { "label": "K spindle (Krukenberg spindle)" },
+          { "label": "AC (anterior chamber) cells → uveitis" },
+          { "label": "TIDs (transillumination defects)", "children": [
+            { "label": "peripupillary → PXF (pseudoexfoliation)" },
+            { "label": "mid-peripheral → PDS (pigment dispersion syndrome)" }
+          ]},
+          { "label": "degree of pupil dilation → poor pupil dilation in eyes with PXF" },
+          { "label": "gonioscopy → TM (trabecular meshwork) pigmentation, Sampolesi line", "children": [
+            { "label": "PXF (pseudoexfoliation)" },
+            { "label": "PDS (pigment dispersion syndrome)" }
+          ]},
+          { "label": "funduscopy → optic disc cupping" }
+        ]}
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "VFs (visual fields)" }
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "PXF (pseudoexfoliation) syndrome" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "glaucoma eye drops" }
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "SLT (selective laser trabeculoplasty) → response is short-lived" },
+        { "label": "ALT (argon laser trabeculoplasty)" },
+        { "label": "filtering surgery" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Prognosis & Complications", "children": [
+        { "label": "6× higher risk of glaucoma", "children": [
+          { "label": "wide IOP (intraocular pressure) fluctuations" },
+          { "label": "can progress rapidly (PXF glaucoma has worse prognosis than POAG, primary open-angle glaucoma)" }
+        ]},
+        { "label": "cataract surgery is risky", "children": [
+          { "label": "poor dilation" },
+          { "label": "weak zonules", "children": [
+            { "label": "zonular dehiscence → phacodonesis, lens subluxation" },
+            { "label": "vitreous loss" },
+            { "label": "retained lens material" }
+          ]}
+        ]}
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "glaucoma monitoring", "children": [
+          { "label": "no glaucoma → q 6-12 mo (months)" },
+          { "label": "glaucoma → q 1-3 months" }
+        ]}
+      ]}
+    ]}
+  ]
+}

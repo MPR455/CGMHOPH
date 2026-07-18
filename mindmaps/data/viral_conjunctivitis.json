@@ -1,0 +1,139 @@
+{
+  "label": "Viral Conjunctivitis",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "young man complains of redness and watery discharge of both eyes for the past 2 days" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "follicular conjunctival hypertrophy of the right eye" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "viral conjunctivitis", "children": [
+        { "label": "adenovirus", "children": [
+          { "label": "most common" },
+          { "label": "EKC (epidemic keratoconjunctivitis) → adenovirus 8, 19, 37" },
+          { "label": "pharyngoconjunctival fever → adenovirus 3, 7" }
+        ]},
+        { "label": "herpes" },
+        { "label": "acute hemorrhagic conjunctivitis", "children": [
+          { "label": "enterovirus 70" },
+          { "label": "coxsackievirus A24" },
+          { "label": "adenovirus 11" }
+        ]},
+        { "label": "other viral syndromes", "children": [
+          { "label": "measles" },
+          { "label": "mumps" },
+          { "label": "influenza" }
+        ]}
+      ]},
+      { "label": "chlamydia" },
+      { "label": "molluscum contagiosum" },
+      { "label": "toxic (medicamentosa) → no lymphadenopathy" },
+      { "label": "pediculosis" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "medical history", "children": [
+          { "label": "upper respiratory infection" },
+          { "label": "sick contacts" },
+          { "label": "STD (sexually transmitted disease) → chlamydia" }
+        ]},
+        { "label": "ocular history", "children": [
+          { "label": "onset & course" },
+          { "label": "unilateral vs bilateral → unilateral then bilateral suggests adenovirus" },
+          { "label": "make-up sharing" },
+          { "label": "excessive eyedrop use" }
+        ]}
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "systemic", "children": [
+          { "label": "skin rash" },
+          { "label": "preauricular adenopathy → cause acute follicular conjunctivitis", "children": [
+            { "label": "herpes" },
+            { "label": "adenovirus" },
+            { "label": "chlamydia" },
+            { "label": "gonococcus" },
+            { "label": "B. henselae (Bartonella henselae)" }
+          ]}
+        ]},
+        { "label": "eyelid", "children": [
+          { "label": "umbilical lid lesions → molluscum contagiosum" },
+          { "label": "lid vesicles" }
+        ]},
+        { "label": "cornea", "children": [
+          { "label": "SPK (superficial punctate keratitis)" },
+          { "label": "subepithelial infiltrates" },
+          { "label": "corneal dendrites" }
+        ]}
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "culture for chlamydia if persists >14 days" }
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "viral conjunctivitis" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "cool artificial tears", "children": [
+          { "label": "4-8×/day" },
+          { "label": "single use vial" },
+          { "label": "preservative-free" }
+        ]},
+        { "label": "cool compress" },
+        { "label": "antihistamine drops → for itching" },
+        { "label": "steroid drops", "children": [
+          { "label": "indications", "children": [
+            { "label": "membranous / pseudomembranous conjunctivitis", "children": [
+              { "label": "herpes → true membrane" },
+              { "label": "adenovirus → pseudomembrane" },
+              { "label": "true membrane causes: Pneumococcus, Streptococcus, Corynebacterium diphtheriae, Herpes, Ligneous conjunctivitis, Chemical burn" }
+            ]},
+            { "label": "severe subepithelial infiltrates" }
+          ]},
+          { "label": "prolong infectious period (caution)" }
+        ]},
+        { "label": "no antibiotic, unless", "children": [
+          { "label": "mucopurulent discharge" },
+          { "label": "corneal abrasion" }
+        ]}
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "remove membrane / pseudomembrane" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Do's", "children": [
+        { "label": "frequent hand washing" },
+        { "label": "restrict work / school" },
+        { "label": "avoid", "children": [
+          { "label": "touching eye" },
+          { "label": "shaking hands" },
+          { "label": "sharing towels / pillows / linens" }
+        ]}
+      ]},
+      { "label": "Course", "children": [
+        { "label": "self-limited course", "children": [
+          { "label": "× 2-3 weeks" },
+          { "label": "gets worse × first 4-7 days" }
+        ]},
+        { "label": "contagious as long as", "children": [
+          { "label": "red eye" },
+          { "label": "discharge / tearing (10-12 days)" }
+        ]}
+      ]},
+      { "label": "Complications", "children": [
+        { "label": "SPK (superficial punctate keratitis)" },
+        { "label": "corneal erosion" },
+        { "label": "subepithelial infiltrates" },
+        { "label": "membrane / pseudomembrane" },
+        { "label": "symblepharon" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "2-3 weeks" },
+        { "label": "sooner if symptoms worsen on topical steroids" }
+      ]}
+    ]}
+  ]
+}

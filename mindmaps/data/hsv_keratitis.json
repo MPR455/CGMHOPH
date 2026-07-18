@@ -1,0 +1,127 @@
+{
+  "label": "HSV Keratitis",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "young woman with unilateral eye redness and foreign-body sensation and no history of eye trauma" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "rose bengal staining of arborizing dendritic epithelial ulcer with terminal bulbs" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "HSV (herpes simplex virus)" },
+      { "label": "VZV (varicella zoster virus)" },
+      { "label": "acanthamoeba keratitis pseudodendrites", "children": [
+        { "label": "CL (contact lens) wear" },
+        { "label": "severe pain" }
+      ]},
+      { "label": "healing corneal epithelial defect / recurrent corneal erosion" },
+      { "label": "tyrosinemia type II", "children": [
+        { "label": "AR (autosomal recessive)" },
+        { "label": "tyrosine aminotransferase deficiency → increased serum tyrosine levels" },
+        { "label": "skin lesions on palms and soles" },
+        { "label": "intellectual disability" },
+        { "label": "avoid phenylalanine and tyrosine" }
+      ]}
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "medical history", "children": [
+          { "label": "precipitating factors → fever, stress, sunlight exposure, trauma / surgery" },
+          { "label": "immune deficiency → recent systemic steroid" },
+          { "label": "recent sexual contacts" }
+        ]},
+        { "label": "ocular history", "children": [
+          { "label": "onset & course of symptoms", "children": [
+            { "label": "pain" },
+            { "label": "redness" },
+            { "label": "photophobia" },
+            { "label": "tearing" },
+            { "label": "FB (foreign body) sensation" },
+            { "label": "FB (foreign body) sensation upon awakening" }
+          ]},
+          { "label": "previous episodes" },
+          { "label": "periocular vesicles" },
+          { "label": "CL (contact lens) wear" },
+          { "label": "recent eye trauma / corneal abrasion" }
+        ]}
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "periocular vesicles", "children": [
+          { "label": "dermatomal in VZV → moderate to severe pain" },
+          { "label": "not dermatomal in HSV → concentrated around the eye; both upper and lower lids" }
+        ]},
+        { "label": "follicular conjunctivitis" },
+        { "label": "fluorescein and rose bengal staining", "children": [
+          { "label": "shape: macropunctate, dendritic, geographic" },
+          { "label": "HSV dendrites stain with both" },
+          { "label": "VZV dendrites stain best with rose bengal" },
+          { "label": "look for terminal bulbs → VZV has no terminal bulbs" }
+        ]},
+        { "label": "ghost dendrites" },
+        { "label": "corneal sensation → decreases in HSV keratitis" },
+        { "label": "stromal keratitis" },
+        { "label": "AC (anterior chamber) reaction → measure IOP (intraocular pressure)" },
+        { "label": "retinitis" }
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "corneal scraping (if diagnosis in doubt)", "children": [
+        { "label": "Giemsa stain", "children": [
+          { "label": "multinucleated giant cells" },
+          { "label": "intranuclear inclusion bodies" }
+        ]},
+        { "label": "viral culture" },
+        { "label": "PCR (polymerase chain reaction)" }
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "HSV keratitis" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "topical antivirals", "children": [
+          { "label": "trifluridine eyedrop 1% (× 7-14 days)" },
+          { "label": "ganciclovir gel 0.15%" }
+        ]},
+        { "label": "oral acyclovir (400 mg, 5×/day)", "children": [
+          { "label": "noncompliant patients / children" },
+          { "label": "effective alternative to topical treatment" }
+        ]},
+        { "label": "cycloplegia → for photophobia" },
+        { "label": "antibiotic ointment" },
+        { "label": "acyclovir ointment → skin lesions" },
+        { "label": "cool compress" },
+        { "label": "prophylactic therapy with antivirals (if multiple recurrences of epithelial disease or stromal disease)", "children": [
+          { "label": "oral acyclovir (famciclovir, valacyclovir) → 400 mg, 2×/day" },
+          { "label": "trifluridine eyedrop 1% → 3-4×/day" },
+          { "label": "ganciclovir gel 0.15% → 3-5×/day" }
+        ]},
+        { "label": "topical steroid + oral antiviral → stromal keratitis (taper topical steroids rapidly)" }
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "debridement of infected corneal epithelium" }
+      ]},
+      { "label": "Consultation / Referrals", "children": [
+        { "label": "internist if immunodeficiency suspected" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Prognosis & Complications", "children": [
+        { "label": "good prognosis" },
+        { "label": "most cases of HSV epithelial keratitis resolve spontaneously" }
+      ]},
+      { "label": "course", "children": [
+        { "label": "recurrences are common" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "reexamine in 2-7 days" },
+        { "label": "if no improvement in 2 weeks, consider", "children": [
+          { "label": "non-compliance" },
+          { "label": "topical drug toxicity" },
+          { "label": "acanthamoeba → culture (non-nutrient agar with E-coli overlay; calcofluor white stain)" }
+        ]}
+      ]}
+    ]}
+  ]
+}

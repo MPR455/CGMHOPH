@@ -1,0 +1,144 @@
+{
+  "label": "Keratoconus (KCN)",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "30-year-old man complains of gradual worsening vision in both eyes" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "angulation of inferior eyelid margin in downgaze (Munson sign)" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "keratoconus", "children": [
+        { "label": "onset during puberty → progression during 2nd, 3rd (and 4th) decades of life" },
+        { "label": "positive family history in 6%-8%" }
+      ]},
+      { "label": "pellucid marginal degeneration", "children": [
+        { "label": "diagnosis between 20-40 years of age" },
+        { "label": "non-hereditary" },
+        { "label": "inferior peripheral corneal thinning" }
+      ]},
+      { "label": "keratoglobus", "children": [
+        { "label": "congenital" },
+        { "label": "non-hereditary" },
+        { "label": "non-progressive" },
+        { "label": "diffuse corneal thinning" },
+        { "label": "Ehlers-Danlos syndrome" }
+      ]},
+      { "label": "keratectasia after LASIK (laser-assisted in situ keratomileusis) → worsening vision weeks or years after LASIK" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "onset & course of decreased vision" },
+        { "label": "conditions associated with KCN", "children": [
+          { "label": "ocular", "children": [
+            { "label": "atopic / vernal keratoconjunctivitis → eye rubbing" },
+            { "label": "floppy eyelid syndrome" },
+            { "label": "contact lens wear" },
+            { "label": "RP (retinitis pigmentosa)" },
+            { "label": "LCA (Leber congenital amaurosis)" }
+          ]},
+          { "label": "systemic", "children": [
+            { "label": "Marfan syndrome" },
+            { "label": "Down syndrome" },
+            { "label": "mitral valve prolapse" },
+            { "label": "Ehlers-Danlos syndrome" },
+            { "label": "osteogenesis imperfecta" },
+            { "label": "sleep apnea" }
+          ]}
+        ]},
+        { "label": "previous LASIK (laser-assisted in situ keratomileusis)" },
+        { "label": "current refractive correction" },
+        { "label": "family hx (history) of KCN" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "BCVA (best-corrected visual acuity)" },
+        { "label": "streak retinoscopy", "children": [
+          { "label": "scissoring → early sign" },
+          { "label": "irregular astigmatism" }
+        ]},
+        { "label": "Rizzutti sign → conical reflection on the nasal cornea when a penlight is shone from the temporal side" },
+        { "label": "Munson sign" },
+        { "label": "SLE (slit lamp examination)", "children": [
+          { "label": "vertical tension lines → Vogt striae" },
+          { "label": "Fleischer ring" },
+          { "label": "TM (trabecular meshwork) visible without gonioscopy → keratoglobus" }
+        ]}
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "keratoscopy", "children": [
+        { "label": "steep irregular egg-shaped mires (KCN)" },
+        { "label": "inability to superimpose the circular mires" }
+      ]},
+      { "label": "keratometry", "children": [
+        { "label": "irregular astigmatism" },
+        { "label": "inferior steepening → comparing measurements obtained with the patient in primary gaze to those in upgaze" }
+      ]},
+      { "label": "corneal topography", "children": [
+        { "label": "inferior steepening (KCN)" },
+        { "label": "inferior steepening with lobster claw pattern (PMD, pellucid marginal degeneration) — inferior keratoconus has a similar appearance!" },
+        { "label": "central steepening (KGB, keratoglobus)" }
+      ]},
+      { "label": "pachymetry", "children": [
+        { "label": "paracentral thinning (KCN) — in KCN, the cornea protrudes at the point of maximal thinning, typically just below the center" },
+        { "label": "diffuse thinning (KGB, keratoglobus)" },
+        { "label": "peripheral thinning (PMD) — PMD is associated with peripheral thinning and exhibits protrusion central to the area of maximum thinning" },
+        { "label": "normal corneal thickness = 540-560 micron" }
+      ]},
+      { "label": "protrusion notes", "children": [
+        { "label": "keratoconus → protrusion is at the point of maximal thinning" },
+        { "label": "pellucid marginal degeneration → protrusion is above area of maximum thinning" },
+        { "label": "at times, a clear distinction between pellucid marginal degeneration and keratoconus is not possible" }
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "KCN (keratoconus)" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "treat underlying conditions", "children": [
+          { "label": "treat atopic / vernal keratoconjunctivitis" },
+          { "label": "treat dry eye" }
+        ]},
+        { "label": "optical correction", "children": [
+          { "label": "glasses" },
+          { "label": "RGPCL (rigid gas permeable contact lens)" }
+        ]},
+        { "label": "muro 128 drop & ointment" },
+        { "label": "hydrops", "children": [
+          { "label": "cycloplegia" },
+          { "label": "aqueous suppressants" },
+          { "label": "protective glasses / eye-shield" },
+          { "label": "intracameral gas" },
+          { "label": "fu (follow-up) q 1-4 weeks" }
+        ]}
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "corneal cross-linking" },
+        { "label": "intracorneal ring segment → CL (contact lens) wear" },
+        { "label": "partial corneal transplantation → for apical scarring" },
+        { "label": "full-thickness corneal transplantation" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Avoid", "children": [
+        { "label": "avoid eye rubbing" }
+      ]},
+      { "label": "Course", "children": [
+        { "label": "slow progression" }
+      ]},
+      { "label": "Prognosis", "children": [
+        { "label": "vision correctable initially with CL (contact lens)" },
+        { "label": "excellent prognosis with PK (penetrating keratoplasty)" }
+      ]},
+      { "label": "Complications", "children": [
+        { "label": "hydrops" },
+        { "label": "corneal scarring" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "serial topography → q 6 mo (months)" }
+      ]}
+    ]}
+  ]
+}

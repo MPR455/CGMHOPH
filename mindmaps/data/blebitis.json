@@ -1,0 +1,108 @@
+{
+  "label": "Blebitis",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "60-year-old man S/P (status post) trabeculectomy several years ago has been experiencing eye pain for the past 2 days" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "mucopurulent infiltrate within a superior conjunctival bleb with localized conjunctival hyperemia" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "blebitis", "children": [
+        { "label": "days to years after trabeculectomy", "children": [
+          { "label": "staph aureus" },
+          { "label": "staph epidermidis" }
+        ]},
+        { "label": "classification", "children": [
+          { "label": "grade 1 → bleb reaction" },
+          { "label": "grade 2 → AC (anterior chamber) reaction" },
+          { "label": "grade 3 → vitreous reaction" }
+        ]}
+      ]},
+      { "label": "ischemic bleb", "children": [
+        { "label": "immediate postoperative period" },
+        { "label": "after antimetabolite use" }
+      ]},
+      { "label": "nodular scleritis / episcleritis" },
+      { "label": "conjunctivitis", "children": [
+        { "label": "no pain / photophobia" },
+        { "label": "discharge" }
+      ]},
+      { "label": "anterior uveitis" },
+      { "label": "endophthalmitis → more severe findings without blebitis" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "systemic diseases", "children": [
+          { "label": "RA (rheumatoid arthritis)" },
+          { "label": "SLE (systemic lupus erythematosus)" },
+          { "label": "Wegener's" },
+          { "label": "PAN (polyarteritis nodosa)" },
+          { "label": "syphilis" },
+          { "label": "lyme" }
+        ]},
+        { "label": "ocular history", "children": [
+          { "label": "onset & course" },
+          { "label": "symptoms", "children": [
+            { "label": "decreased vision" },
+            { "label": "pain" },
+            { "label": "photophobia" },
+            { "label": "discharge" }
+          ]},
+          { "label": "previous similar episodes → prior scleritis" },
+          { "label": "glaucoma surgery", "children": [
+            { "label": "date" },
+            { "label": "antimetabolite use" }
+          ]}
+        ]}
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "BCVA (best-corrected visual acuity)" },
+        { "label": "reaction in bleb" },
+        { "label": "hole in bleb → Seidel test" },
+        { "label": "AC (anterior chamber) reaction", "children": [
+          { "label": "grade 2 blebitis → ± hypopyon" }
+        ]},
+        { "label": "vitritis → grade 3 blebitis" }
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "bleb culture" }
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "blebitis" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "± admit" },
+      { "label": "grade 1", "children": [
+        { "label": "fortified antibiotics (vancomycin [cefazolin] + gentamicin [tobramycin])", "children": [
+          { "label": "loading dose q5min × 4" },
+          { "label": "q1hr" }
+        ]},
+        { "label": "OR topical fluoroquinolones" },
+        { "label": "steroids after 24 hr" }
+      ]},
+      { "label": "grade 2", "children": [
+        { "label": "as blebitis + oral fluoroquinolones" },
+        { "label": "cycloplegia" }
+      ]},
+      { "label": "grade 3", "children": [
+        { "label": "treat as endophthalmitis", "children": [
+          { "label": "vitreous tap + culture" },
+          { "label": "intravitreal antibiotics (ceftazidime + vancomycin)" }
+        ]}
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "General" },
+      { "label": "Prognosis", "children": [
+        { "label": "depends on grade" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "observe closely over first 24 hours" },
+        { "label": "follow daily until resolution" }
+      ]}
+    ]}
+  ]
+}
