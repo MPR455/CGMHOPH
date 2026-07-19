@@ -1,0 +1,123 @@
+{
+  "label": "Floppy Eyelid Syndrome",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "60-year-old obese man presents with bilateral eye redness, foreign-body sensation, and mild mucous discharge, worse upon awakening" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "external photograph of the left eye shows lax, everted upper eyelid with diffuse papillary hypertrophy of the upper tarsal conjunctiva" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "floppy eyelid syndrome", "children": [
+        { "label": "clinical presentation", "children": [
+          { "label": "obese male" },
+          { "label": "bilateral" },
+          { "label": "superior tarsal plate is soft, rubbery, flaccid, and easily everted when pulled up toward the forehead" },
+          { "label": "ocular irritation → worse on awakening" },
+          { "label": "mild mucus discharge" },
+          { "label": "ptosis" },
+          { "label": "superior tarsal chronic papillary conjunctivitis" },
+          { "label": "SPK (superficial punctate keratitis)" }
+        ]},
+        { "label": "associations", "children": [
+          { "label": "obesity" },
+          { "label": "hyperglycemia" },
+          { "label": "sleep apnea" },
+          { "label": "keratoconus" },
+          { "label": "eyelid rubbing" }
+        ]}
+      ]},
+      { "label": "vernal conjunctivitis", "children": [
+        { "label": "seasonal" },
+        { "label": "itching" },
+        { "label": "giant papillary reaction" }
+      ]},
+      { "label": "atopic keratoconjunctivitis" },
+      { "label": "giant papillary conjunctivitis", "children": [
+        { "label": "contact lens wear" },
+        { "label": "exposed suture / foreign body" }
+      ]},
+      { "label": "superior limbic keratoconjunctivitis → hyperemia / thickening of superior bulbar conjunctiva" },
+      { "label": "toxic keratoconjunctivitis", "children": [
+        { "label": "eyedrops → long-term use of certain topical ophthalmic medications", "children": [
+          { "label": "pilocarpine" },
+          { "label": "echothiophate iodide" },
+          { "label": "demecarium bromide (acetylcholinesterase inhibitor)" },
+          { "label": "epinephrine" },
+          { "label": "timolol" },
+          { "label": "idoxuridine" }
+        ]},
+        { "label": "inferior tarsal > superior tarsal" }
+      ]}
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "medical history", "children": [
+          { "label": "weight gain / obesity" },
+          { "label": "diabetes" },
+          { "label": "hypertension" },
+          { "label": "obstructive sleep apnea", "children": [
+            { "label": "daytime fatigue" },
+            { "label": "heavy snoring" },
+            { "label": "hypertension" }
+          ]},
+          { "label": "seasonal allergies, asthma, eczema → vernal / atopic" },
+          { "label": "thyroid disease → SLK (superior limbic keratoconjunctivitis)" }
+        ]},
+        { "label": "ocular history", "children": [
+          { "label": "onset & course of symptoms" },
+          { "label": "contact lens wear" },
+          { "label": "ocular trauma / surgery", "children": [
+            { "label": "exposed suture" },
+            { "label": "foreign body" }
+          ]},
+          { "label": "current topical medication" }
+        ]}
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "laxity → apply upward pressure on eyelids" },
+        { "label": "spontaneous eversion" },
+        { "label": "conjunctival papillary reaction → upper tarsal" },
+        { "label": "slit lamp exam", "children": [
+          { "label": "fluorescein staining of cornea" },
+          { "label": "corneal pannus, filaments, scarring" },
+          { "label": "signs of atopic / vernal keratoconjunctivitis" },
+          { "label": "signs of infectious keratoconjunctivitis" },
+          { "label": "keratoconus" }
+        ]}
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "check blood glucose" }
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "floppy eyelid syndrome" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "artificial tears / ointment" },
+        { "label": "taping (bedtime)" },
+        { "label": "patching (bedtime)" },
+        { "label": "wearing shield" },
+        { "label": "moisture chamber goggles" },
+        { "label": "antibiotic ointment → if corneal abrasion or severe corneal erosion" }
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "horizontal lid tightening" }
+      ]},
+      { "label": "Referrals", "children": [
+        { "label": "refer for obstructive sleep apnea" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "General", "children": [
+        { "label": "do not sleep face down" },
+        { "label": "explain relationship between FES (floppy eyelid syndrome) and obstructive sleep apnea", "children": [
+          { "label": "hypertension" },
+          { "label": "cardiac disease" }
+        ]}
+      ]}
+    ]}
+  ]
+}

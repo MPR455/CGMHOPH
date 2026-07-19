@@ -1,0 +1,100 @@
+{
+  "label": "Conjunctival Primary Acquired Melanosis (PAM)",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "65-year-old Caucasian woman has noted pigmentation of her left eye that has slowly increased over the past 2 years" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "flat, diffuse, brown pigmentation of the bulbar conjunctiva with focal involvement of peripheral cornea" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "PAM (primary acquired melanosis)", "children": [
+        { "label": "middle-aged" },
+        { "label": "Caucasian" },
+        { "label": "unilateral" },
+        { "label": "flat" },
+        { "label": "worse prognosis", "children": [
+          { "label": "larger size (≥3 clock-hours)" },
+          { "label": "caruncular, forniceal, or palpebral location" },
+          { "label": "thickening" },
+          { "label": "feeder vessels" },
+          { "label": "nodular component" },
+          { "label": "progressive enlargement" }
+        ]}
+      ]},
+      { "label": "complexion-related melanosis", "children": [
+        { "label": "darkly pigmented individual" },
+        { "label": "bilateral" },
+        { "label": "most apparent at limbus and less prominent as it extends into the fornix" }
+      ]},
+      { "label": "nevus → ± cysts" },
+      { "label": "ocular melanocytosis → pigment is at the level of episclera" },
+      { "label": "extraocular extension of uveal melanoma" },
+      { "label": "melanoma → elevated" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "onset & course → change in size & color" },
+        { "label": "cutaneous melanoma" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "slit lamp exam", "children": [
+          { "label": "size" },
+          { "label": "location → check palpebral / tarsal conjunctiva, caruncle" },
+          { "label": "mobility → ocular melanocytosis does not move with the conjunctiva" },
+          { "label": "thickness → PAM is flat" },
+          { "label": "corneal extension" },
+          { "label": "intralesional cyst → nevus" },
+          { "label": "examine other eye → PAM is unilateral (complexion-related melanosis is bilateral)" }
+        ]},
+        { "label": "funduscopy → rule out uveal melanoma with extraocular extension" },
+        { "label": "lymphadenopathy" }
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "ultrasound → if uveal melanoma suspected" }
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "PAM (primary acquired melanosis)" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Surgical", "children": [
+        { "label": "observation → ≤1-2 clock hours" },
+        { "label": "excisional biopsy (2-4 clock hours)", "children": [
+          { "label": "no-touch technique" },
+          { "label": "wide margins" },
+          { "label": "double freeze-thaw cryotherapy" },
+          { "label": "± alcohol epitheliectomy for corneal involvement" },
+          { "label": "map conjunctival biopsies" },
+          { "label": "sent for histology and immunohistochemistry", "children": [
+            { "label": "most important finding in predicting progression is the presence of cellular atypia" },
+            { "label": "PAM without atypia → minimal risk of malignant transformation" },
+            { "label": "PAM with mild atypia" },
+            { "label": "PAM with moderate to severe atypia → significant risk of progression to melanoma" }
+          ]}
+        ]},
+        { "label": "incisional biopsy + cryotherapy (>4 clock hours)", "children": [
+          { "label": "± topical MMC (mitomycin C) — for diffuse disease not amenable to complete excision" }
+        ]}
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "General", "children": [
+        { "label": "inform patient of importance of periodic follow-up" }
+      ]},
+      { "label": "Course", "children": [
+        { "label": "can grow" },
+        { "label": "can transform to melanoma" },
+        { "label": "can recur after excision" }
+      ]},
+      { "label": "Prognosis & Complications", "children": [
+        { "label": "good prognosis with complete excision / treatment" }
+      ]},
+      { "label": "Follow-up → depends on degree of atypia", "children": [
+        { "label": "no atypia → 6-12 mo (months)" },
+        { "label": "moderate-severe atypia → 3-4 mo (months)" }
+      ]}
+    ]}
+  ]
+}

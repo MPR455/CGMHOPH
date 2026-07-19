@@ -1,0 +1,95 @@
+{
+  "label": "Chalazion",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "middle-aged man has noted a tender eyelid lump for the past 2 days" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "focal redness and swelling of right lower eyelid" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "chalazion", "children": [
+        { "label": "focal inflammation of eyelid from an obstruction of meibomian glands" },
+        { "label": "chronic lipogranulomatous inflammation" },
+        { "label": "internal posterior hordeolum" }
+      ]},
+      { "label": "hordeolum", "children": [
+        { "label": "acute infection (usually staphylococcal)" },
+        { "label": "external hordeolum (stye) → glands of Zeis" },
+        { "label": "internal hordeolum → meibomian glands" }
+      ]},
+      { "label": "preseptal cellulitis" },
+      { "label": "pyogenic granuloma" },
+      { "label": "sebaceous cell carcinoma" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "onset & course" },
+        { "label": "similar prior lesions → chalazion" },
+        { "label": "rosacea" },
+        { "label": "blepharitis" },
+        { "label": "trauma / surgery" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "external exam", "children": [
+          { "label": "facial telangiectasia → rosacea" },
+          { "label": "rhinophyma → rosacea" }
+        ]},
+        { "label": "blepharitis" },
+        { "label": "palpate lid for nodularity" },
+        { "label": "evert eyelid → rule out pyogenic granuloma" },
+        { "label": "meibomian glands for inspissation" },
+        { "label": "look for signs of sebaceous cell carcinoma", "children": [
+          { "label": "older patient" },
+          { "label": "unilateral" },
+          { "label": "eyelid thickening" },
+          { "label": "lash loss" },
+          { "label": "preauricular LAP (lymphadenopathy)" }
+        ]}
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "chalazion" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "warm compress → × 10 min qid (four times daily)" },
+        { "label": "wash / scrub eyelid margin (bid, twice daily) → mild shampoo" },
+        { "label": "topical antibiotics → if lesion draining, associated blepharitis / conjunctivitis" },
+        { "label": "oral doxycycline (azithromycin)", "children": [
+          { "label": "indications", "children": [
+            { "label": "blepharitis" },
+            { "label": "meibomian gland dysfunction" },
+            { "label": "multiple chalazia / hordeola" }
+          ]},
+          { "label": "inhibits MMP (matrix metalloproteinase)" },
+          { "label": "× 1-2 weeks → taper to 1/4 full dose → continue × 3-6 months" },
+          { "label": "do not prescribe tetracycline for", "children": [
+            { "label": "children ≤8 years" },
+            { "label": "pregnant women" },
+            { "label": "nursing women" }
+          ]}
+        ]},
+        { "label": "intralesional steroid → can cause", "children": [
+          { "label": "hypopigmentation" },
+          { "label": "atrophy" },
+          { "label": "retinal artery occlusion" }
+        ]}
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "incision / curettage → if no response to 3-4 weeks of medical treatment" },
+        { "label": "send to pathology in recurrent / atypical cases" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Prognosis & Complications", "children": [
+        { "label": "good prognosis" },
+        { "label": "treatment of underlying blepharitis, meibomian gland dysfunction, rosacea will reduce future recurrences" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "reexamine if lesion persists >3-4 weeks" }
+      ]}
+    ]}
+  ]
+}

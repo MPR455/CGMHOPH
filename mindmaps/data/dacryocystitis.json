@@ -1,0 +1,110 @@
+{
+  "label": "Dacryocystitis",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "middle-aged woman with history of a red painful mass at the inner corner of her right eye" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "erythematous swelling over the innermost aspect of lower eyelid (over lacrimal sac) with surrounding cutaneous erythema" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "acute dacryocystitis", "children": [
+        { "label": "pain, redness, swelling, tearing, discharge, fever" },
+        { "label": "mass below medial canthal tendon" },
+        { "label": "punctal discharge with pressure over lacrimal sac" }
+      ]},
+      { "label": "dacryocystocele", "children": [
+        { "label": "lacrimal sac not inflamed" },
+        { "label": "present at birth / infancy" }
+      ]},
+      { "label": "preseptal / facial cellulitis → no punctal discharge" },
+      { "label": "acute ethmoid sinusitis → over nasal bone medial to inner canthus" },
+      { "label": "lacrimal sac tumors → bleeding" },
+      { "label": "encephalocele → above the medial canthal tendon" },
+      { "label": "frontal sinus mucocele / mucopyocele → above the medial canthal tendon" }
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "onset & course" },
+        { "label": "symptoms", "children": [
+          { "label": "epiphora" },
+          { "label": "tenderness / pain" },
+          { "label": "fever" }
+        ]},
+        { "label": "previous similar episodes → recurrent dacryocystitis" },
+        { "label": "ear, nose, throat infection → sinusitis" },
+        { "label": "prior nasal / facial trauma / surgery" },
+        { "label": "treatment with oral antibiotics" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "appearance", "children": [
+          { "label": "punctal discharge with sac pressure → submit for culture / sensitivity" },
+          { "label": "color" },
+          { "label": "location → below vs above medial canthal tendon" },
+          { "label": "pointed abscess" },
+          { "label": "fluctuance" }
+        ]},
+        { "label": "BCVA (best-corrected visual acuity)" },
+        { "label": "orbital signs → orbital cellulitis", "children": [
+          { "label": "limitation of EOM (extraocular movement)" },
+          { "label": "proptosis" },
+          { "label": "IOP (intraocular pressure)" },
+          { "label": "APD (afferent pupillary defect)" }
+        ]}
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "gram stain / blood agar culture → if punctal discharge" },
+      { "label": "CT (computed tomography) scan / MRI (magnetic resonance imaging)", "children": [
+        { "label": "atypical location" },
+        { "label": "severe" },
+        { "label": "unresponsive to appropriate antibiotic treatment" },
+        { "label": "orbital signs", "children": [
+          { "label": "proptosis" },
+          { "label": "limitation of EOM (extraocular movement)" },
+          { "label": "abnormal pupil reaction" },
+          { "label": "increased IOP (intraocular pressure)" }
+        ]}
+      ]},
+      { "label": "nasal endoscopy", "children": [
+        { "label": "polyps, masses, inverted papilloma" },
+        { "label": "septal deviation" },
+        { "label": "secondary to nasolacrimal duct obstruction" }
+      ]}
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "acute dacryocystitis" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Medical", "children": [
+        { "label": "systemic antibiotics", "children": [
+          { "label": "children → amoxicillin-clavulanate" },
+          { "label": "adults → cephalexin, amoxicillin / clavulanate" },
+          { "label": "admit severe cases for IV (intravenous) antibiotics" }
+        ]},
+        { "label": "± topical antibiotics" },
+        { "label": "warm compress & gentle massage" },
+        { "label": "pain medication" }
+      ]},
+      { "label": "Surgical", "children": [
+        { "label": "incision & drainage of pointing abscess" },
+        { "label": "DCR (dacryocystorhinostomy) with silicone intubation", "children": [
+          { "label": "only after the acute episode has resolved" },
+          { "label": "7-10 days after starting antibiotics" }
+        ]}
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Course", "children": [
+        { "label": "recurrent infection if DCR (dacryocystorhinostomy) not performed" }
+      ]},
+      { "label": "Prognosis & Complications", "children": [
+        { "label": "good prognosis with appropriate treatment" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "daily until improvement" }
+      ]}
+    ]}
+  ]
+}

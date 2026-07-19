@@ -1,0 +1,98 @@
+{
+  "label": "Sebaceous Carcinoma",
+  "root": true,
+  "children": [
+    { "label": "Case Description", "children": [
+      { "label": "elderly woman complains of unilateral lid redness and irritation of 2 years duration" }
+    ]},
+    { "label": "Image Description", "children": [
+      { "label": "diffuse eyelid erythema and eyelid thickening with loss of eyelashes" }
+    ]},
+    { "label": "Differential Diagnosis", "children": [
+      { "label": "sebaceous carcinoma", "children": [
+        { "label": "middle-aged or elderly" },
+        { "label": "F>M (female > male)" },
+        { "label": "prior radiation exposure" },
+        { "label": "unilateral" },
+        { "label": "upper eyelid" },
+        { "label": "lash loss" },
+        { "label": "regional lymph node or distant metastasis" },
+        { "label": "± orbital extension" },
+        { "label": "masquerades as recurrent chalazia or chronic blepharoconjunctivitis" }
+      ]},
+      { "label": "Muir-Torre syndrome", "children": [
+        { "label": "autosomal dominant" },
+        { "label": "multiple acquired", "children": [
+          { "label": "sebaceous adenomas" },
+          { "label": "sebaceous hyperplasia" },
+          { "label": "basal cell carcinomas with sebaceous differentiation" }
+        ]},
+        { "label": "increased incidence of visceral malignancy", "children": [
+          { "label": "especially colorectal" },
+          { "label": "genitourinary" }
+        ]},
+        { "label": "± lid sebaceous carcinoma → rare" }
+      ]},
+      { "label": "BCC (basal cell carcinoma)" },
+      { "label": "SCC (squamous cell carcinoma)" },
+      { "label": "unilateral blepharoconjunctivitis", "children": [
+        { "label": "infectious" },
+        { "label": "toxic" }
+      ]}
+    ]},
+    { "label": "Data acquisition", "children": [
+      { "label": "History", "children": [
+        { "label": "onset & course" },
+        { "label": "prior conjunctivitis" },
+        { "label": "chronic use of topical medications" },
+        { "label": "previous treatments" },
+        { "label": "prior radiation exposure" }
+      ]},
+      { "label": "Physical Exam", "children": [
+        { "label": "complete eye exam", "children": [
+          { "label": "loss of eyelashes" },
+          { "label": "destruction of meibomian gland orifices" },
+          { "label": "orbital signs" }
+        ]},
+        { "label": "regional lymphadenopathy" }
+      ]}
+    ]},
+    { "label": "Additional Testing", "children": [
+      { "label": "lid biopsy", "children": [
+        { "label": "send specimen fresh" },
+        { "label": "coordinate with ocular pathologist" }
+      ]},
+      { "label": "orbital imaging → if orbital signs" },
+      { "label": "consider sentinel lymph node biopsy" }
+    ]},
+    { "label": "Assessment", "children": [
+      { "label": "sebaceous carcinoma" }
+    ]},
+    { "label": "Treatment", "children": [
+      { "label": "Surgical", "children": [
+        { "label": "map biopsy" },
+        { "label": "stage 1 → excision + cryotherapy" },
+        { "label": "subsequent lid reconstruction (if negative margins; especially if no metastatic disease)" },
+        { "label": "stage 2 → exenteration", "children": [
+          { "label": "for orbital invasion" },
+          { "label": "for extensive disease" }
+        ]}
+      ]},
+      { "label": "Referrals", "children": [
+        { "label": "refer to oncologist for metastatic work-up (lymph nodes, brain, lung, liver, bone)" }
+      ]}
+    ]},
+    { "label": "Patient Education", "children": [
+      { "label": "Prognosis & Complications → discuss risk of", "children": [
+        { "label": "local recurrence" },
+        { "label": "orbital extension" },
+        { "label": "lymph node metastasis" },
+        { "label": "distant metastasis" }
+      ]},
+      { "label": "Follow-up", "children": [
+        { "label": "q 1 week after surgery" },
+        { "label": "monitor closely for recurrence → q 3-4 months" }
+      ]}
+    ]}
+  ]
+}
