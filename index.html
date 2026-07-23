@@ -195,8 +195,10 @@ html{overflow-y:scroll}
 body.banner-hidden header{display:none}
 body.banner-hidden main{padding-top:64px}
 #float-logo{position:fixed;top:12px;left:12px;z-index:210;width:46px;height:46px;border-radius:50%;background:var(--acc2);color:#fff;border:none;font-size:20px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.3);align-items:center;justify-content:center;display:none}
-#np-btn{position:fixed;left:16px;bottom:16px;z-index:120;width:46px;height:46px;border-radius:50%;background:var(--acc);color:#fff;border:none;font-size:19px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.28)}
-#np-panel{position:fixed;left:16px;bottom:70px;z-index:120;width:min(340px,92vw);background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 12px 34px rgba(0,0,0,.30);display:none;flex-direction:column;overflow:hidden}
+#fab{position:fixed;left:16px;bottom:16px;z-index:120;display:flex;flex-direction:column;gap:10px;align-items:center}
+.fab-btn{width:46px;height:46px;border-radius:50%;background:var(--acc);color:#fff;border:none;font-size:19px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.28);display:flex;align-items:center;justify-content:center;text-decoration:none}
+.fab-tog{width:30px;height:30px;border-radius:50%;background:var(--acc2);color:#fff;border:none;font-size:12px;cursor:pointer;box-shadow:0 3px 10px rgba(0,0,0,.25);display:flex;align-items:center;justify-content:center}
+#np-panel{position:fixed;left:16px;bottom:70px;z-index:130;width:min(340px,92vw);background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 12px 34px rgba(0,0,0,.30);display:none;flex-direction:column;overflow:hidden}
 #np-panel.open{display:flex}
 #np-head{display:flex;align-items:center;justify-content:space-between;padding:8px 12px;background:var(--acc2);color:#fff}
 #np-head b{font-size:14px}
@@ -1994,7 +1996,11 @@ Admit overnight new patients.</div>
 
 </main>
 <button id="float-collapse" class="btn" onclick="floatCollapse()" style="position:fixed;right:20px;bottom:20px;z-index:60;box-shadow:0 4px 14px rgba(0,0,0,.22);border-radius:22px;padding:9px 16px">▾ Collapse all</button>
-<button id="np-btn" onclick="npToggle()" title="Notepad">📝</button>
+<div id="fab">
+  <button id="fab-toggle" class="fab-tog" onclick="fabToggle()" title="Hide buttons">▼</button>
+  <a id="mm-btn" class="fab-btn" href="https://mpr455.github.io/CGMHOPH/mindmaps" target="_blank" rel="noopener" title="Mindmaps">🗺</a>
+  <button id="np-btn" class="fab-btn" onclick="npToggle()" title="Notepad">📝</button>
+</div>
 <div id="np-panel">
   <div id="np-head"><b>Notepad</b><span onclick="npToggle()">✕</span></div>
   <textarea id="np-text" placeholder="Quick notes — saved on this device only, kept across tabs." oninput="npSave()"></textarea>
@@ -2277,7 +2283,6 @@ function buildMenu(){
     h+='<button class="menu-item" data-tab="'+b.dataset.tab+'" onclick="menuGo(\''+b.dataset.tab+'\')">'+b.textContent.trim()+'</button>';
   });
   h+='<div class="menu-sep"></div><button class="menu-item" onclick="toggleBanner()">'+(document.body.classList.contains("banner-hidden")?"\u2913 Show top banner":"\u2912 Hide top banner")+'</button>';
-  h+='<button class="menu-item" onclick="toggleNotepad()">'+(document.body.classList.contains("notepad-hidden")?"\u25CB Show notepad":"\u25CF Hide notepad")+'</button>';
   h+='<div class="menu-sep"></div><div class="menu-label">Access</div>'
    +'<div style="padding:2px 12px 8px"><input id="menu-pw" type="password" placeholder="Password" onkeydown="if(event.key===\'Enter\')menuLogin()" style="width:100%">'
    +'<button class="btn sm" style="margin-top:6px;width:100%" onclick="menuLogin()">Unlock tabs</button>'
@@ -2323,6 +2328,8 @@ function applyBanner(){
   if(h){ document.body.classList.add("banner-hidden"); var f=document.getElementById("float-logo"); if(f) f.style.display="flex"; }
 }
 function npToggle(){ document.getElementById("np-panel").classList.toggle("open"); }
+function fabToggle(){var mm=document.getElementById("mm-btn"),np=document.getElementById("np-btn"),tg=document.getElementById("fab-toggle");var hidden=mm.style.display==="none";mm.style.display=hidden?"":"none";np.style.display=hidden?"":"none";tg.textContent=hidden?"▼":"▲";tg.title=hidden?"Hide buttons":"Show buttons";if(!hidden){var p=document.getElementById("np-panel");if(p)p.classList.remove("open");}try{localStorage.setItem("cgmh_fab_hidden",hidden?"0":"1");}catch(e){}}
+function applyFab(){var h=false;try{h=localStorage.getItem("cgmh_fab_hidden")==="1";}catch(e){}if(h)fabToggle();}
 function npSave(){ try{ localStorage.setItem("cgmh_notepad", document.getElementById("np-text").value); }catch(e){} }
 function npLoad(){ try{ var v=localStorage.getItem("cgmh_notepad"); if(v!=null) document.getElementById("np-text").value=v; }catch(e){} }
 function npDownload(){
@@ -3062,7 +3069,7 @@ function buildVF(){
 }
 
 /* ================= init ================= */
-applySavedTheme(); applyBanner(); applyNotepadPref(); buildMenu(); npLoad(); buildQuickTpl(); ankiInitManifest(); document.getElementById("tab-builder").classList.add("locked"); document.getElementById("tab-bank").classList.add("locked"); document.getElementById("tab-anki").classList.add("locked");
+applySavedTheme(); applyBanner(); buildMenu(); npLoad(); applyFab(); buildQuickTpl(); ankiInitManifest(); document.getElementById("tab-builder").classList.add("locked"); document.getElementById("tab-bank").classList.add("locked"); document.getElementById("tab-anki").classList.add("locked");
 buildExamGrid(); buildFundSelects(); buildDenyChips(); buildPlanChips(); fillCatSelect(); renderBank(); setAllNormal(); buildGuides();
 document.getElementById('o-eom').addEventListener('change', function(){ document.getElementById('eombox').style.display = document.getElementById('o-eom').checked ? 'block':'none'; renderPreview(); });
 document.getElementById('o-fundus').addEventListener('change', function(){ document.getElementById('fundusbox').style.display = document.getElementById('o-fundus').checked ? 'block':'none'; renderPreview(); });
