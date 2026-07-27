@@ -1998,6 +1998,7 @@ Admit overnight new patients.</div>
 <button id="float-collapse" class="btn" onclick="floatCollapse()" style="position:fixed;right:20px;bottom:20px;z-index:60;box-shadow:0 4px 14px rgba(0,0,0,.22);border-radius:22px;padding:9px 16px">▾ Collapse all</button>
 <div id="fab">
   <button id="fab-toggle" class="fab-tog" onclick="fabToggle()" title="Hide buttons">▼</button>
+  <a id="qr-btn" class="fab-btn" href="https://mpr455.github.io/CGMHOPH/quick_reference" target="_blank" rel="noopener" title="Quick Reference">⚡</a>
   <a id="mm-btn" class="fab-btn" href="https://mpr455.github.io/CGMHOPH/mindmaps" target="_blank" rel="noopener" title="Mindmaps">🗺</a>
   <button id="np-btn" class="fab-btn" onclick="npToggle()" title="Notepad">📝</button>
 </div>
@@ -2328,7 +2329,7 @@ function applyBanner(){
   if(h){ document.body.classList.add("banner-hidden"); var f=document.getElementById("float-logo"); if(f) f.style.display="flex"; }
 }
 function npToggle(){ document.getElementById("np-panel").classList.toggle("open"); }
-function fabToggle(){var mm=document.getElementById("mm-btn"),np=document.getElementById("np-btn"),tg=document.getElementById("fab-toggle");var hidden=mm.style.display==="none";mm.style.display=hidden?"":"none";np.style.display=hidden?"":"none";tg.textContent=hidden?"▼":"▲";tg.title=hidden?"Hide buttons":"Show buttons";if(!hidden){var p=document.getElementById("np-panel");if(p)p.classList.remove("open");}try{localStorage.setItem("cgmh_fab_hidden",hidden?"0":"1");}catch(e){}}
+function fabToggle(){var mm=document.getElementById("mm-btn"),np=document.getElementById("np-btn"),qr=document.getElementById("qr-btn"),tg=document.getElementById("fab-toggle");var hidden=mm.style.display==="none";mm.style.display=hidden?"":"none";np.style.display=hidden?"":"none";if(qr)qr.style.display=hidden?"":"none";tg.textContent=hidden?"▼":"▲";tg.title=hidden?"Hide buttons":"Show buttons";if(!hidden){var p=document.getElementById("np-panel");if(p)p.classList.remove("open");}try{localStorage.setItem("cgmh_fab_hidden",hidden?"0":"1");}catch(e){}}
 function applyFab(){var h=false;try{h=localStorage.getItem("cgmh_fab_hidden")==="1";}catch(e){}if(h)fabToggle();}
 function npSave(){ try{ localStorage.setItem("cgmh_notepad", document.getElementById("np-text").value); }catch(e){} }
 function npLoad(){ try{ var v=localStorage.getItem("cgmh_notepad"); if(v!=null) document.getElementById("np-text").value=v; }catch(e){} }
