@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Quick Reference - CGMH OPH</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/CGMHOPH/style.css">
 <style>
 
 :root{--opd-fs:14.5px}
@@ -164,7 +164,7 @@ body.theme-black .hl-surg{background:#062615;color:#7ee39a}
     <span class="theme-dot" data-theme="macaroon" style="background:#e0873a" onclick="setTheme('macaroon')"></span>
     <span class="theme-dot" data-theme="dark" style="background:#1a2632" onclick="setTheme('dark')"></span>
     <span class="theme-dot" data-theme="black" style="background:#000" onclick="setTheme('black')"></span>
-    <a class="backlink" href="../index.html">← Main page</a>
+    <a class="backlink" href="/CGMHOPH/index.html">← Main page</a>
   </div>
 </header>
 
@@ -180,7 +180,7 @@ body.theme-black .hl-surg{background:#062615;color:#7ee39a}
   </div>
   <div id="opd-main"></div>
 </div>
-<p class="small" style="text-align:center;margin:16px 0;color:var(--sub)">&copy; 2026 Victor Lin. All rights reserved. &nbsp;&middot;&nbsp; <a href="../index.html">&larr; Back to CGMH OPH</a></p>
+<p class="small" style="text-align:center;margin:16px 0;color:var(--sub)">&copy; 2026 Victor Lin. All rights reserved. &nbsp;&middot;&nbsp; <a href="/CGMHOPH/index.html">&larr; Back to CGMH OPH</a></p>
 <script>
 function setTheme(t){document.body.classList.remove("theme-macaroon","theme-dark","theme-black");if(t==="macaroon"||t==="dark"||t==="black")document.body.classList.add("theme-"+t);try{localStorage.setItem("cgmh_theme",t);}catch(e){}markDots();}
 function markDots(){var m=document.body.className.match(/theme-(\w+)/);var cur=m?m[1]:"default";document.querySelectorAll(".theme-dot").forEach(function(d){d.classList.toggle("sel",d.dataset.theme===cur);});}
