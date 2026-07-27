@@ -96,6 +96,14 @@ body.theme-black .hl-med{background:#05253f;color:#7fc0ff}
 body.theme-black .hl-dur{background:#332400;color:#ffcb66}
 body.theme-black .hl-surg{background:#062615;color:#7ee39a}
 
+/* header: keep the logo and theme dots from being squeezed into ovals on
+   narrow screens -- let the header wrap onto a second line instead */
+header{flex-wrap:wrap;row-gap:6px}
+.logo-chip{flex-shrink:0}
+.theme-dot{flex-shrink:0}
+.hdr-actions{flex-wrap:wrap;justify-content:flex-end;row-gap:6px}
+.hdr-actions .backlink{white-space:nowrap;flex-shrink:0}
+
 @media(max-width:760px){
   .opd-wrap{padding:14px 16px 70px}
   .opd-nav-left{left:auto;right:10px;bottom:10px;top:auto;transform:none;flex-direction:row;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:8px;box-shadow:0 6px 18px rgba(0,0,0,.18)}
@@ -159,7 +167,7 @@ body.theme-black .hl-surg{background:#062615;color:#7ee39a}
 <path class="cgmh-green" transform="translate(1325,232)" d="M0 0 C0.99 0.66 1.98 1.32 3 2 C3.298 4.277 3.298 4.277 3.189 7.152 C3.155 8.227 3.121 9.301 3.086 10.408 C3.033 11.573 2.98 12.738 2.926 13.938 C2.882 15.129 2.838 16.32 2.793 17.547 C2.696 20.069 2.593 22.591 2.482 25.112 C2.313 28.983 2.171 32.854 2.033 36.727 C1.936 39.172 1.838 41.617 1.738 44.062 C1.695 45.227 1.653 46.392 1.608 47.592 C1.559 48.666 1.509 49.741 1.458 50.848 C1.418 51.796 1.378 52.745 1.337 53.723 C1 56 1 56 -1 58 C-3.348 58.23 -3.348 58.23 -6.062 58.188 C-6.961 58.181 -7.859 58.175 -8.785 58.168 C-11 58 -11 58 -12 57 C-12.03 54.553 -11.995 52.139 -11.914 49.695 C-11.893 48.948 -11.872 48.201 -11.851 47.431 C-11.782 44.995 -11.704 42.56 -11.625 40.125 C-11.573 38.47 -11.522 36.814 -11.47 35.159 C-11.367 31.908 -11.26 28.658 -11.148 25.408 C-11.024 21.757 -10.917 18.105 -10.812 14.453 C-10.752 12.76 -10.689 11.068 -10.625 9.375 C-10.606 8.626 -10.588 7.877 -10.569 7.106 C-10.477 5.086 -10.477 5.086 -10 2 C-6.313 -0.458 -4.357 -0.311 0 0 Z "/>
 </svg></a>
   <div style="flex:1;color:#fff;font-weight:600;font-size:15px">Quick Reference</div>
-  <div style="display:flex;gap:8px;align-items:center">
+  <div class="hdr-actions" style="display:flex;gap:8px;align-items:center">
     <span class="theme-dot" data-theme="default" style="background:#0f6bb2" onclick="setTheme('default')"></span>
     <span class="theme-dot" data-theme="macaroon" style="background:#e0873a" onclick="setTheme('macaroon')"></span>
     <span class="theme-dot" data-theme="dark" style="background:#1a2632" onclick="setTheme('dark')"></span>
