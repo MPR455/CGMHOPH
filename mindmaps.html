@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>CGMH OPH — Mind Maps</title>
 <style>
-  :root{ --bg:#0e1420; --ink:#e9eef7; --muted:#93a3c0; --line:#33425f; --panel:#141d2e; --accent:#5aa7ff; --side:250px; }
+  :root{ --bg:#0e1420; --ink:#e9eef7; --muted:#93a3c0; --line:#33425f; --panel:#141d2e; --accent:#5aa7ff; --side:218px; --bar-h:56px; }
   *{box-sizing:border-box}
   html,body{height:100%;margin:0}
   body{background:radial-gradient(1200px 800px at 60% 42%,#131b2c,#0e1420 70%);color:var(--ink);
@@ -13,8 +13,8 @@
 
   #bar{position:fixed;top:0;left:0;right:0;z-index:30;display:flex;gap:8px;align-items:center;flex-wrap:wrap;
        padding:10px 14px;background:var(--panel);border-bottom:1px solid var(--line)}
-  #sideToggle{font-size:15px;line-height:1;padding:6px 10px}
-  #crumb{font-size:14px;font-weight:700}#crumb small{color:var(--muted);font-weight:400}
+  #crumb{font-size:14px;font-weight:700;max-width:min(42vw,560px);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  #crumb small{color:var(--muted);font-weight:400}
   .seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
   .seg button{border:0;border-radius:0;background:var(--panel)}
   .seg button.on{background:var(--accent);color:var(--on-accent);font-weight:700}
@@ -31,36 +31,35 @@
   @media (max-width:900px){input[type=search]{margin-left:0}}
 
   /* sidebar */
-  #sidebar{position:fixed;top:56px;left:0;bottom:0;width:var(--side);z-index:25;overflow:auto;
-           background:var(--panel);border-right:1px solid var(--line);padding:10px 8px 40px}
+  #sidebar{position:fixed;top:var(--bar-h);left:0;bottom:0;width:var(--side);z-index:25;overflow:auto;
+           background:var(--panel);border-right:1px solid var(--line);padding:6px 5px 40px;box-shadow:4px 0 18px rgba(0,0,0,.08)}
   #sidebar.hidden{transform:translateX(calc(-1 * var(--side)));transition:transform .2s}
   #sidebar{transition:transform .2s}
-  .cat{margin-bottom:4px}
-  .cat>.chead{display:flex;align-items:center;gap:6px;padding:7px 9px;border-radius:8px;cursor:pointer;
-        font-size:12px;letter-spacing:.3px;text-transform:uppercase;color:var(--muted);font-weight:700;user-select:none}
+  .cat{margin-bottom:2px}
+  .cat>.chead{display:flex;align-items:center;gap:5px;padding:5px 7px;border-radius:7px;cursor:pointer;
+        font-size:11px;letter-spacing:.2px;text-transform:uppercase;color:var(--muted);font-weight:700;user-select:none}
   .cat>.chead:hover{background:rgba(255,255,255,.04);color:var(--ink)}
   .cat>.chead .car{transition:transform .15s;font-size:10px}
   .cat.collapsed>.chead .car{transform:rotate(-90deg)}
-  .cat>.chead .cn{margin-left:auto;font-size:11px;background:rgba(255,255,255,.08);border-radius:9px;padding:1px 7px;color:var(--muted)}
-  .cat .cbody{padding:2px 0 6px 6px;display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:6px}
+  .cat>.chead .cn{margin-left:auto;font-size:10px;background:rgba(255,255,255,.08);border-radius:9px;padding:1px 6px;color:var(--muted)}
+  .cat .cbody{padding:1px 0 5px 4px}
   .cat.collapsed .cbody{display:none}
-  .mapbtn{text-align:left;padding:7px 10px;border-radius:8px;font-size:13px;overflow:hidden;
-          background:rgba(255,255,255,.03);border:1px solid var(--line);color:var(--ink)}
+  .mapbtn{display:block;width:100%;text-align:left;padding:5px 7px;border-radius:6px;font-size:12px;line-height:1.2;
+          white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background:rgba(255,255,255,.025);border:1px solid transparent;color:var(--ink)}
   .mapbtn:hover{background:rgba(255,255,255,.07);border-color:var(--accent)}
   .mapbtn.active{background:var(--panel);border-color:var(--accent);color:var(--accent);font-weight:700;box-shadow:inset 3px 0 0 var(--accent)}
-  .mapbtn b{display:block;font-weight:600}
-  .mapbtn small{display:block;color:var(--muted);font-size:11px;font-weight:400;margin-top:1px;
-          white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .mapbtn b{display:inline;font-weight:550}
   .empty{padding:5px 10px;color:#5b6a86;font-size:12px;font-style:italic;grid-column:1/-1}
 
-  /* sidebar resize handle */
-  #sideResize{position:fixed;top:56px;bottom:0;left:calc(var(--side) - 3px);width:7px;z-index:26;cursor:col-resize}
-  #sideResize::after{content:"";position:absolute;left:3px;top:0;bottom:0;width:1px;background:var(--line)}
-  #sideResize:hover::after,#sideResize.drag::after{background:var(--accent);width:2px;left:2px}
-  body.side-hidden #sideResize{display:none}
+  /* floating sidebar drawer control */
+  #drawerToggle{position:fixed;top:calc(var(--bar-h) + 12px);left:calc(var(--side) - 1px);z-index:60;width:27px;height:44px;
+        padding:0;border-left:0;border-radius:0 10px 10px 0;background:var(--panel);color:var(--muted);
+        box-shadow:4px 2px 12px rgba(0,0,0,.18);font-size:12px;transition:left .2s,top .2s}
+  #drawerToggle:hover{color:var(--accent);border-color:var(--accent)}
+  body.side-hidden #drawerToggle{left:0}
 
   /* viewer areas shift right of sidebar */
-  #stage{position:fixed;top:56px;left:var(--side);right:0;bottom:0;cursor:grab;touch-action:none;transition:left .2s}
+  #stage{position:fixed;top:var(--bar-h);left:var(--side);right:0;bottom:0;cursor:grab;touch-action:none;transition:left .2s,top .15s}
   #stage.panning{cursor:grabbing}
   body.side-hidden #stage,body.side-hidden #list{left:0}
   #viewport{position:absolute;left:0;top:0;transform-origin:0 0;will-change:transform}
@@ -84,13 +83,13 @@
   .node.dim{opacity:.14}.node.hit{outline:2px solid #ffcf5a;outline-offset:2px}
   mark{background:#3a2a00;color:#ffe4a3;border:1px solid #e0a83a;border-radius:3px;padding:0 2px}
 
-  #list{position:fixed;top:56px;left:var(--side);right:0;bottom:0;overflow:auto;padding:18px 22px 80px;display:none;transition:left .2s}
+  #list{position:fixed;top:var(--bar-h);left:var(--side);right:0;bottom:0;overflow:auto;padding:18px 22px 80px;display:none;transition:left .2s,top .15s}
   #list ul{list-style:none;margin:0;padding-left:22px}
   #list #listRoot{padding-left:0;max-width:900px;margin:0 auto}
   #list li{position:relative;margin:2px 0}
-  #list li::before{content:"";position:absolute;left:-11px;top:0;bottom:0;border-left:1px solid var(--line)}
+  #list li::before{content:"";position:absolute;left:-11px;top:0;bottom:0;border-left:2px solid color-mix(in srgb,var(--accent) 42%,var(--line))}
   #list li:last-child::before{bottom:auto;height:15px}
-  #list li::after{content:"";position:absolute;left:-11px;top:14px;width:9px;border-top:1px solid var(--line)}
+  #list li::after{content:"";position:absolute;left:-11px;top:14px;width:10px;border-top:2px solid color-mix(in srgb,var(--accent) 42%,var(--line))}
   #list #listRoot>li::before,#list #listRoot>li::after{display:none}
   #list .lrow{display:flex;align-items:flex-start;gap:8px;padding:3px 6px;border-radius:6px}
   #list .lrow:hover{background:rgba(255,255,255,.03)}
@@ -111,13 +110,13 @@
   #imgpanel .lbl{position:absolute;top:-9px;left:10px;z-index:1;background:var(--accent);color:var(--on-accent);font-size:10px;font-weight:700;
             padding:1px 7px;border-radius:8px}
   /* enlarged: a lightbox that stays BELOW the top bar, with dimmed backdrop and internal scroll */
-  #imgpanel.big{width:min(92vw,660px);left:50%;right:auto;top:66px;bottom:16px;transform:translateX(-50%);cursor:zoom-out;
+  #imgpanel.big{width:min(92vw,660px);left:50%;right:auto;top:calc(var(--bar-h) + 10px);bottom:16px;transform:translateX(-50%);cursor:zoom-out;
             box-shadow:0 0 0 100vmax rgba(0,0,0,.6), 0 12px 40px rgba(0,0,0,.5)}
   #imgpanel.big .imgs{max-height:calc(100vh - 104px)}
   #imgpanel.big .imgs figcaption{font-size:13px}
   .cat .cbody{display:block}
-  .cbody-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:6px;margin:0 0 8px}
-  .subhead{font-size:11px;color:var(--muted);font-weight:700;letter-spacing:.3px;margin:8px 2px 3px;opacity:.9}
+  .cbody-grid{display:flex;flex-direction:column;gap:2px;margin:0 0 5px}
+  .subhead{font-size:10px;color:var(--muted);font-weight:700;letter-spacing:.2px;margin:6px 4px 2px;opacity:.9}
   /* view toggles (independent hide/show for banner and images) */
   #viewtoggles{position:fixed;left:calc(var(--side) + 14px);bottom:14px;z-index:50;display:flex;gap:6px;transition:left .2s}
   body.side-hidden #viewtoggles{left:14px}
@@ -125,14 +124,14 @@
   #viewtoggles button:hover{border-color:var(--accent)}
   #viewtoggles button.off{opacity:.5}
   body.bar-hidden #bar{display:none}
-  body.bar-hidden #sidebar,body.bar-hidden #stage,body.bar-hidden #list,body.bar-hidden #sideResize{top:0}
+  body.bar-hidden #sidebar,body.bar-hidden #stage,body.bar-hidden #list{top:0}
+  body.bar-hidden #drawerToggle{top:12px}
   body.imgs-off #imgpanel{display:none !important}
 </style>
 </head>
 <body>
 <div id="bar">
   <a href="https://mpr455.github.io/CGMHOPH/" title="Main page" style="display:flex;align-items:center;background:#fff;border-radius:6px;padding:2px 7px;text-decoration:none"><img src="logo.svg" alt="CGMH OPH" style="height:24px;width:auto;display:block"></a>
-  <button id="sideToggle" title="Toggle sidebar">☰</button>
   <span id="crumb"><small>—</small></span>
   <span class="seg"><button id="mList" class="on">List</button><button id="mMap">Map</button></span>
   <button id="expand">Expand all</button>
@@ -145,7 +144,7 @@
 </div>
 
 <div id="sidebar"></div>
-<div id="sideResize" title="Drag to resize"></div>
+<button id="drawerToggle" title="Hide map library" aria-label="Hide map library">◀</button>
 <div id="stage"><div id="viewport"><svg id="links"></svg></div></div>
 <div id="list"><ul id="listRoot"></ul></div>
 <div id="imgpanel"><span class="lbl">Image</span><div class="imgs"></div></div>
@@ -244,9 +243,7 @@ function fit(){
   let a=1e9,b=1e9,c=-1e9,d=-1e9;
   vis.forEach(n=>{ a=Math.min(a,n._x-n._w/2); c=Math.max(c,n._x+n._w/2); b=Math.min(b,n._y-n._h/2); d=Math.max(d,n._y+n._h/2); });
   const pad=70; a-=pad;b-=pad;c+=pad;d+=pad;
-  const sideW = document.body.classList.contains('side-hidden') ? 0 : parseInt(getComputedStyle(document.documentElement).getPropertyValue('--side'));
-  const barH=document.body.classList.contains("bar-hidden")?0:56;
-  const w=window.innerWidth-sideW, h=window.innerHeight-barH;
+  const w=stage.clientWidth, h=stage.clientHeight;
   scale=Math.min(1.1, Math.min(w/(c-a), h/(d-b)));
   tx=(w-(c+a)*scale)/2; ty=(h-(d+b)*scale)/2; applyView();
 }
@@ -370,7 +367,7 @@ async function loadMap(map){
   if(mode==="map"){ layout(); fit(); } else buildList();
 }
 document.getElementById('imgpanel').addEventListener('click',()=>document.getElementById('imgpanel').classList.toggle('big'));
-document.getElementById('tgBar').onclick=e=>{ document.body.classList.toggle('bar-hidden'); e.currentTarget.classList.toggle('off'); if(mode==='map') setTimeout(fit,210); };
+document.getElementById('tgBar').onclick=e=>{ document.body.classList.toggle('bar-hidden'); e.currentTarget.classList.toggle('off'); syncChrome(); };
 document.getElementById('tgImg').onclick=e=>{ document.body.classList.toggle('imgs-off'); e.currentTarget.classList.toggle('off'); };
 
 function buildSidebar(){
@@ -389,7 +386,7 @@ function buildSidebar(){
         const grid=document.createElement("div"); grid.className="cbody-grid";
         maps.filter(m=>(m.subcategory||"")===sub).forEach(m=>{
           const btn=document.createElement("button"); btn.className="mapbtn"; btn.dataset.id=m.id; btn.title=m.title;
-          btn.innerHTML="<b>"+escapeHtml(m.short||m.title)+"</b><small>"+escapeHtml(m.title)+"</small>";
+          btn.innerHTML="<b>"+escapeHtml(m.short||m.title)+"</b>";
           btn.onclick=()=>loadMap(m);
           grid.appendChild(btn);
         });
@@ -400,26 +397,23 @@ function buildSidebar(){
   });
 }
 
-document.getElementById('sideToggle').onclick=()=>{
-  document.body.classList.toggle('side-hidden');
-  document.getElementById('sidebar').classList.toggle('hidden');
+const drawerToggle=document.getElementById('drawerToggle');
+drawerToggle.onclick=()=>{
+  const hidden=document.body.classList.toggle('side-hidden');
+  document.getElementById('sidebar').classList.toggle('hidden',hidden);
+  drawerToggle.textContent=hidden?'▶':'◀';
+  drawerToggle.title=hidden?'Show map library':'Hide map library';
+  drawerToggle.setAttribute('aria-label',drawerToggle.title);
   if(mode==='map') setTimeout(fit,210);
 };
 
-/* sidebar resize (drag handle) */
-(function(){
-  const handle=document.getElementById('sideResize'); let dragging=false;
-  handle.addEventListener('pointerdown',e=>{ dragging=true; handle.classList.add('drag'); handle.setPointerCapture(e.pointerId);
-    document.getElementById('sidebar').style.transition='none'; stage.style.transition='none'; listPane.style.transition='none'; });
-  handle.addEventListener('pointermove',e=>{ if(!dragging)return;
-    const w=Math.max(190,Math.min(620,e.clientX));
-    document.documentElement.style.setProperty('--side', w+'px'); });
-  handle.addEventListener('pointerup',()=>{ dragging=false; handle.classList.remove('drag');
-    document.getElementById('sidebar').style.transition=''; stage.style.transition=''; listPane.style.transition='';
-    if(mode==='map') fit(); });
-})();
-
-window.addEventListener('resize',()=>{ if(mode==='map') applyView(); });
+function syncChrome(){
+  const h=document.body.classList.contains('bar-hidden')?0:Math.ceil(document.getElementById('bar').getBoundingClientRect().height);
+  document.documentElement.style.setProperty('--bar-h',h+'px');
+  if(mode==='map') fit();
+}
+new ResizeObserver(syncChrome).observe(document.getElementById('bar'));
+window.addEventListener('resize',syncChrome);
 
 /* =====================================================================
    THEMES  (accent + backgrounds; node chips keep their category hues)
@@ -467,7 +461,7 @@ async function init(){
     document.getElementById("list").innerHTML="<div style=\"max-width:640px;margin:70px auto;color:var(--muted);font-size:15px;line-height:1.6\">Couldn’t load <code>mindmaps/generated/manifest.json</code>.<br>Run <code>python tools/mindmap_converter.py</code>, then open this page via your GitHub Pages URL or a local web server (not by double-clicking the file).</div>";
     return;
   }
-  buildSidebar(); setMode("list"); if(MAPS.length) loadMap(MAPS[0]);
+  buildSidebar(); syncChrome(); setMode("list"); if(MAPS.length) loadMap(MAPS[0]);
 }
 init();
 </script>
