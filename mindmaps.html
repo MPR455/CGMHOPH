@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>CGMH OPH — Mind Maps</title>
 <style>
-  :root{ --bg:#0e1420; --ink:#e9eef7; --muted:#93a3c0; --line:#33425f; --panel:#141d2e; --accent:#5aa7ff; --side:218px; --bar-h:56px; }
+  :root{ --bg:#0e1420; --ink:#e9eef7; --muted:#93a3c0; --line:#33425f; --panel:#141d2e; --accent:#5aa7ff; --side:280px; --bar-h:56px; }
   *{box-sizing:border-box}
   html,body{height:100%;margin:0}
   body{background:radial-gradient(1200px 800px at 60% 42%,#131b2c,#0e1420 70%);color:var(--ink);
@@ -41,7 +41,7 @@
   .cat .cbody{padding:1px 0 5px 4px}
   .cat.collapsed .cbody{display:none}
   .mapbtn{display:block;width:100%;text-align:left;padding:5px 7px;border-radius:6px;font-size:12px;line-height:1.2;
-          white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background:rgba(255,255,255,.025);border:1px solid transparent;color:var(--ink)}
+          white-space:normal;overflow:visible;background:rgba(255,255,255,.025);border:1px solid transparent;color:var(--ink)}
   .mapbtn:hover{background:rgba(255,255,255,.07);border-color:var(--accent)}
   .mapbtn.active{background:var(--panel);border-color:var(--accent);color:var(--accent);font-weight:700;box-shadow:inset 3px 0 0 var(--accent)}
   .mapbtn b{display:inline;font-weight:550}
@@ -329,6 +329,7 @@ async function loadMap(map){
     map._prepped=true;
   }
   ROOT=map.data;
+  eachNode(n=>{ n.collapsed=false; });
   nodeEls.forEach(el=>el.remove()); nodeEls.clear(); svg.innerHTML="";
   const sub=map.subcategory?" / "+escapeHtml(map.subcategory):"";
   document.getElementById("crumb").innerHTML=escapeHtml(map.title)+" <small>· "+escapeHtml(map.category)+sub+"</small>";
@@ -351,7 +352,7 @@ function buildSidebar(){
   const sb=document.getElementById("sidebar"); sb.innerHTML="";
   CATEGORIES.forEach(cat=>{
     const maps=MAPS.filter(m=>m.category===cat);
-    const wrap=document.createElement("div"); wrap.className="cat"+(maps.length?"":" collapsed");
+    const wrap=document.createElement("div"); wrap.className="cat collapsed";
     const head=document.createElement("div"); head.className="chead";
     head.innerHTML="<span class=\"car\">▾</span><span>"+escapeHtml(cat)+"</span><span class=\"cn\">"+maps.length+"</span>";
     head.onclick=()=>wrap.classList.toggle("collapsed");
@@ -363,7 +364,7 @@ function buildSidebar(){
         const grid=document.createElement("div"); grid.className="cbody-grid";
         maps.filter(m=>(m.subcategory||"")===sub).forEach(m=>{
           const btn=document.createElement("button"); btn.className="mapbtn"; btn.dataset.id=m.id; btn.title=m.title;
-          btn.innerHTML="<b>"+escapeHtml(m.short||m.title)+"</b>";
+          btn.innerHTML="<b>"+escapeHtml(m.title)+"</b>";
           btn.onclick=()=>{ setToolboxExpanded(false); loadMap(m); };
           grid.appendChild(btn);
         });
@@ -377,6 +378,7 @@ function buildSidebar(){
 const drawerToggle=document.getElementById('drawerToggle');
 function setToolboxExpanded(expanded){
   document.body.classList.toggle('toolbox-expanded',expanded);
+  document.querySelectorAll('#sidebar .cat').forEach(cat=>cat.classList.toggle('collapsed',!expanded));
   drawerToggle.textContent=expanded?'◀':'▶';
   drawerToggle.title=expanded?'Return to compact map library':'Expand map library';
   drawerToggle.setAttribute('aria-label',drawerToggle.title);
@@ -438,7 +440,7 @@ async function init(){
     document.getElementById("list").innerHTML="<div style=\"max-width:640px;margin:70px auto;color:var(--muted);font-size:15px;line-height:1.6\">Couldn’t load <code>mindmaps/generated/manifest.json</code>.<br>Run <code>python tools/mindmap_converter.py</code>, then open this page via your GitHub Pages URL or a local web server (not by double-clicking the file).</div>";
     return;
   }
-  buildSidebar(); syncChrome(); setMode("list"); if(MAPS.length) loadMap(MAPS[0]);
+  buildSidebar(); syncChrome(); setMode("list"); setToolboxExpanded(true);
 }
 init();
 </script>
