@@ -27,14 +27,10 @@
   .tdot{width:20px;height:20px;border-radius:50%;cursor:pointer;border:2px solid rgba(128,128,128,.5);position:relative}
   .tdot:hover{transform:scale(1.12)}
   .tdot.sel{outline:2px solid var(--ink);outline-offset:2px}
-  input[type=search]{background:var(--panel);color:var(--ink);border:1px solid var(--line);padding:6px 11px;border-radius:7px;font-size:13px;min-width:150px;margin-left:auto}
-  @media (max-width:900px){input[type=search]{margin-left:0}}
-
   /* sidebar */
   #sidebar{position:fixed;top:var(--bar-h);left:0;bottom:0;width:var(--side);z-index:25;overflow:auto;
            background:var(--panel);border-right:1px solid var(--line);padding:6px 5px 40px;box-shadow:4px 0 18px rgba(0,0,0,.08)}
-  #sidebar.hidden{transform:translateX(calc(-1 * var(--side)));transition:transform .2s}
-  #sidebar{transition:transform .2s}
+  #sidebar{transition:width .22s,padding .22s}
   .cat{margin-bottom:2px}
   .cat>.chead{display:flex;align-items:center;gap:5px;padding:5px 7px;border-radius:7px;cursor:pointer;
         font-size:11px;letter-spacing:.2px;text-transform:uppercase;color:var(--muted);font-weight:700;user-select:none}
@@ -51,17 +47,26 @@
   .mapbtn b{display:inline;font-weight:550}
   .empty{padding:5px 10px;color:#5b6a86;font-size:12px;font-style:italic;grid-column:1/-1}
 
-  /* floating sidebar drawer control */
+  /* floating toolbox expand control */
   #drawerToggle{position:fixed;top:calc(var(--bar-h) + 12px);left:calc(var(--side) - 1px);z-index:60;width:27px;height:44px;
         padding:0;border-left:0;border-radius:0 10px 10px 0;background:var(--panel);color:var(--muted);
         box-shadow:4px 2px 12px rgba(0,0,0,.18);font-size:12px;transition:left .2s,top .2s}
   #drawerToggle:hover{color:var(--accent);border-color:var(--accent)}
-  body.side-hidden #drawerToggle{left:0}
+  body.toolbox-expanded #drawerToggle{left:auto;right:0;border-left:1px solid var(--line);border-right:0;border-radius:10px 0 0 10px}
+
+  /* full-page toolbox: categories stay grouped; individual maps become cards */
+  body.toolbox-expanded #sidebar{right:0;width:auto;z-index:55;padding:18px 42px 70px;border-right:0;box-shadow:none}
+  body.toolbox-expanded #sidebar .cat{margin:0 0 14px;border:1px solid var(--line);border-radius:12px;padding:6px;background:color-mix(in srgb,var(--panel) 92%,var(--accent))}
+  body.toolbox-expanded #sidebar .chead{padding:8px 10px;font-size:12px;color:var(--ink)}
+  body.toolbox-expanded #sidebar .cbody{padding:2px 6px 8px}
+  body.toolbox-expanded #sidebar .cbody-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:8px}
+  body.toolbox-expanded #sidebar .mapbtn{min-height:48px;padding:9px 11px;white-space:normal;background:var(--bg);border-color:var(--line);font-size:13px}
+  body.toolbox-expanded #sidebar .mapbtn:hover{border-color:var(--accent);transform:translateY(-1px)}
+  body.toolbox-expanded #viewtoggles{visibility:hidden}
 
   /* viewer areas shift right of sidebar */
   #stage{position:fixed;top:var(--bar-h);left:var(--side);right:0;bottom:0;cursor:grab;touch-action:none;transition:left .2s,top .15s}
   #stage.panning{cursor:grabbing}
-  body.side-hidden #stage,body.side-hidden #list{left:0}
   #viewport{position:absolute;left:0;top:0;transform-origin:0 0;will-change:transform}
   svg#links{position:absolute;left:0;top:0;overflow:visible;pointer-events:none}
   svg#links path{fill:none;stroke-width:2}
@@ -119,7 +124,6 @@
   .subhead{font-size:10px;color:var(--muted);font-weight:700;letter-spacing:.2px;margin:6px 4px 2px;opacity:.9}
   /* view toggles (independent hide/show for banner and images) */
   #viewtoggles{position:fixed;left:calc(var(--side) + 14px);bottom:14px;z-index:50;display:flex;gap:6px;transition:left .2s}
-  body.side-hidden #viewtoggles{left:14px}
   #viewtoggles button{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:6px 11px;font-size:12px;cursor:pointer;box-shadow:0 3px 12px rgba(0,0,0,.35)}
   #viewtoggles button:hover{border-color:var(--accent)}
   #viewtoggles button.off{opacity:.5}
@@ -138,13 +142,11 @@
   <button id="collapse">Collapse all</button>
   <button id="fit">Fit</button>
   <a id="sourcePdf" class="tool-link" target="_blank" rel="noopener">PDF</a>
-  <a id="sourceMd" class="tool-link" target="_blank" rel="noopener">Markdown</a>
   <span id="themeDots" class="theme-dots" title="Color theme"></span>
-  <input type="search" id="search" placeholder="Search…">
 </div>
 
 <div id="sidebar"></div>
-<button id="drawerToggle" title="Hide map library" aria-label="Hide map library">◀</button>
+<button id="drawerToggle" title="Expand map library" aria-label="Expand map library">▶</button>
 <div id="stage"><div id="viewport"><svg id="links"></svg></div></div>
 <div id="list"><ul id="listRoot"></ul></div>
 <div id="imgpanel"><span class="lbl">Image</span><div class="imgs"></div></div>
@@ -311,29 +313,6 @@ document.getElementById('expand').onclick=()=>{ eachNode(n=>{ if(!n.root&&hasKid
 document.getElementById('collapse').onclick=()=>{ eachNode(n=>{ if(!n.root&&hasKids(n)) n.collapsed=true; }); onChange(true); };
 document.getElementById('fit').onclick=()=>{ if(mode==='map') fit(); };
 
-/* search */
-const searchEl=document.getElementById('search');
-searchEl.addEventListener('input',()=>{
-  const q=searchEl.value.trim().toLowerCase();
-  if(q) eachNode(n=>{ if(n.label.toLowerCase().includes(q)){ let p=n._parent; while(p){ p.collapsed=false; p=p._parent; } } });
-  if(mode==='map'){
-    layout(); fit();
-    nodeEls.forEach(el=>{ const t=el.querySelector('.txt'); if(!t)return;
-      const hit=q&&t.textContent.toLowerCase().includes(q);
-      el.classList.toggle('hit',!!hit); el.classList.toggle('dim',!!q&&!hit);
-      t.innerHTML=(q&&hit)?highlight(t.textContent,q):escapeHtml(t.textContent); });
-  } else {
-    buildList();
-    if(q) listPane.querySelectorAll('.llbl').forEach(lbl=>{ const tn=[...lbl.childNodes].find(x=>x.nodeType===3); if(!tn)return;
-      const txt=tn.textContent,i=txt.toLowerCase().indexOf(q); if(i<0)return;
-      const f=document.createDocumentFragment(); f.appendChild(document.createTextNode(txt.slice(0,i)));
-      const mk=document.createElement('mark'); mk.textContent=txt.slice(i,i+q.length); f.appendChild(mk);
-      f.appendChild(document.createTextNode(txt.slice(i+q.length))); tn.replaceWith(f); });
-  }
-});
-function highlight(text,q){ const i=text.toLowerCase().indexOf(q); if(i<0)return escapeHtml(text);
-  return escapeHtml(text.slice(0,i))+'<mark>'+escapeHtml(text.slice(i,i+q.length))+'</mark>'+escapeHtml(text.slice(i+q.length)); }
-
 /* =====================================================================
    SIDEBAR + MAP LOADING
    ===================================================================== */
@@ -351,12 +330,10 @@ async function loadMap(map){
   }
   ROOT=map.data;
   nodeEls.forEach(el=>el.remove()); nodeEls.clear(); svg.innerHTML="";
-  searchEl.value="";
   const sub=map.subcategory?" / "+escapeHtml(map.subcategory):"";
   document.getElementById("crumb").innerHTML=escapeHtml(map.title)+" <small>· "+escapeHtml(map.category)+sub+"</small>";
-  const pdfLink=document.getElementById("sourcePdf"), mdLink=document.getElementById("sourceMd");
+  const pdfLink=document.getElementById("sourcePdf");
   pdfLink.style.display=(SOURCE_PDFS_AVAILABLE&&map.sourcePdf)?"inline-block":"none"; if(map.sourcePdf) pdfLink.href=map.sourcePdf;
-  mdLink.style.display=map.markdownFile?"inline-block":"none"; if(map.markdownFile) mdLink.href=map.markdownFile;
   document.querySelectorAll(".mapbtn").forEach(b=>b.classList.toggle("active", b.dataset.id===map.id));
   const ip=document.getElementById("imgpanel");
   const imgs=(map.images&&map.images.length)?map.images:(map.image?[{file:map.image,caption:map.imageCaption||""}]:[]);
@@ -387,7 +364,7 @@ function buildSidebar(){
         maps.filter(m=>(m.subcategory||"")===sub).forEach(m=>{
           const btn=document.createElement("button"); btn.className="mapbtn"; btn.dataset.id=m.id; btn.title=m.title;
           btn.innerHTML="<b>"+escapeHtml(m.short||m.title)+"</b>";
-          btn.onclick=()=>loadMap(m);
+          btn.onclick=()=>{ setToolboxExpanded(false); loadMap(m); };
           grid.appendChild(btn);
         });
         body.appendChild(grid);
@@ -398,14 +375,14 @@ function buildSidebar(){
 }
 
 const drawerToggle=document.getElementById('drawerToggle');
-drawerToggle.onclick=()=>{
-  const hidden=document.body.classList.toggle('side-hidden');
-  document.getElementById('sidebar').classList.toggle('hidden',hidden);
-  drawerToggle.textContent=hidden?'▶':'◀';
-  drawerToggle.title=hidden?'Show map library':'Hide map library';
+function setToolboxExpanded(expanded){
+  document.body.classList.toggle('toolbox-expanded',expanded);
+  drawerToggle.textContent=expanded?'◀':'▶';
+  drawerToggle.title=expanded?'Return to compact map library':'Expand map library';
   drawerToggle.setAttribute('aria-label',drawerToggle.title);
-  if(mode==='map') setTimeout(fit,210);
-};
+  if(!expanded&&mode==='map') setTimeout(fit,240);
+}
+drawerToggle.onclick=()=>setToolboxExpanded(!document.body.classList.contains('toolbox-expanded'));
 
 function syncChrome(){
   const h=document.body.classList.contains('bar-hidden')?0:Math.ceil(document.getElementById('bar').getBoundingClientRect().height);
