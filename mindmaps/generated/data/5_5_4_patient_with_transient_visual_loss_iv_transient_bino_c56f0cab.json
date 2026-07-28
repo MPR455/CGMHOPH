@@ -1,0 +1,290 @@
+{
+  "label": "5.5.4. Patient With Transient Visual Loss (IV): Transient Binocular Visual Loss (TBVL) (IV)",
+  "root": true,
+  "children": [
+    {
+      "label": "Common causes",
+      "children": [
+        {
+          "label": "migraine"
+        },
+        {
+          "label": "occipital mass lesions: tumor, arteriovenous malformation"
+        },
+        {
+          "label": "occipital ischemia: embolic, vasculitic, hypoperfusion"
+        },
+        {
+          "label": "occipital seizures"
+        }
+      ]
+    },
+    {
+      "label": "Occipital Ischemia",
+      "children": [
+        {
+          "label": "vertebrobasilar insufficiency",
+          "children": [
+            {
+              "label": "vertebrobasilar system supplies",
+              "children": [
+                {
+                  "label": "occipital cortex"
+                },
+                {
+                  "label": "brainstem"
+                },
+                {
+                  "label": "cerebellum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "transient recurrent bilateral visual blurring"
+            },
+            {
+              "label": "ocular motor symptoms"
+            },
+            {
+              "label": "nonophthalmic symptoms of vertebrobasilar insufficiency"
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "migraine",
+              "children": [
+                {
+                  "label": "intensity of migraine headaches diminish with age",
+                  "children": [
+                    {
+                      "label": "headaches may not occur at all after visual symptoms"
+                    }
+                  ]
+                },
+                {
+                  "label": "elderly patient who experiences a migraine- like aura for the first time but no headache",
+                  "children": [
+                    {
+                      "label": "order diagnostic workup"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "complete blood count",
+              "children": [
+                {
+                  "label": "treatable causes of cerebrovascular disease or a source of emboli should be excluded"
+                }
+              ]
+            },
+            {
+              "label": "erythrocyte sedimentation rate"
+            },
+            {
+              "label": "C-reactive protein"
+            },
+            {
+              "label": "MRI"
+            },
+            {
+              "label": "MRA"
+            },
+            {
+              "label": "if the results of these studies are negative, the prognosis is usually good",
+              "children": [
+                {
+                  "label": "treatment of a presumed migrainous syndrome may be warranted"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Migraine",
+      "children": [
+        {
+          "label": "most common cause of transient binocular visual loss"
+        },
+        {
+          "label": "homonymous hemianopic defect"
+        },
+        {
+          "label": "may progress to a fixed visual field defect",
+          "children": [
+            {
+              "label": "“complicated” migraine"
+            },
+            {
+              "label": "MRI is mandatory in such instances"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Occipital Mass Lesions",
+      "children": [
+        {
+          "label": "attacks always occur on the same side"
+        },
+        {
+          "label": "visual symptoms follow rather than precede the onset of headache"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "arteriovenous malformation"
+            },
+            {
+              "label": "tumor"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "contrast-enhanced cranial MRI"
+            },
+            {
+              "label": "cerebral angiography"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Occipital Seizures",
+      "children": [
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "unformed positive visual phenomena",
+              "children": [
+                {
+                  "label": "colored or swirling lights"
+                }
+              ]
+            },
+            {
+              "label": "purely negative visual symptoms",
+              "children": [
+                {
+                  "label": "blacking out of vision",
+                  "children": [
+                    {
+                      "label": "whiting out of vision",
+                      "children": [
+                        {
+                          "label": "“like a flashbulb going off”"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "last 1–2 minutes",
+              "children": [
+                {
+                  "label": "may persist for many hours",
+                  "children": [
+                    {
+                      "label": "status epilepticus amauroticus"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "adults",
+              "children": [
+                {
+                  "label": "most adults with occipital seizures have a structural lesion",
+                  "children": [
+                    {
+                      "label": "tumor"
+                    },
+                    {
+                      "label": "arteriovenous malformation"
+                    },
+                    {
+                      "label": "trauma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "children",
+              "children": [
+                {
+                  "label": "occipital seizures are more often benign"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "normal EEG does not rule out an underlying seizure disorder",
+          "children": [
+            {
+              "label": "prolonged EEG monitoring may be required!"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "anticonvulsant therapy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.5.4. Patient With Transient Visual Loss (IV) - Transient Binocular Visual Loss (TBVL) (IV).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 110,
+      "connector_rejected": 3,
+      "connector_edges": 77,
+      "connector_width": 1.274,
+      "text_labels": 69,
+      "tree_nodes": 69,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7,
+      "root_font_size": 4.459,
+      "warnings": []
+    }
+  }
+}

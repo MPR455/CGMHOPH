@@ -1,0 +1,513 @@
+{
+  "label": "Neovascular AMD (V): Other Causes of CNV",
+  "root": true,
+  "children": [
+    {
+      "label": "Conditions Associated with CNV",
+      "children": [
+        {
+          "label": "Degenerative",
+          "children": [
+            {
+              "label": "AMD"
+            },
+            {
+              "label": "myopic degeneration"
+            },
+            {
+              "label": "angioid streaks"
+            }
+          ]
+        },
+        {
+          "label": "Heredodegenerative",
+          "children": [
+            {
+              "label": "vitelliform maculpathy"
+            },
+            {
+              "label": "fundus flavimaculatus"
+            },
+            {
+              "label": "optic disc drusen"
+            }
+          ]
+        },
+        {
+          "label": "Inflammatory",
+          "children": [
+            {
+              "label": "ocular histoplasmosis syndrome"
+            },
+            {
+              "label": "multifocal choroiditis"
+            },
+            {
+              "label": "serpiginous-like choroiditis"
+            },
+            {
+              "label": "toxoplasmosis"
+            },
+            {
+              "label": "toxocariasis"
+            },
+            {
+              "label": "rubella"
+            },
+            {
+              "label": "VKH"
+            },
+            {
+              "label": "Behcet disease"
+            },
+            {
+              "label": "sympathetic ophthalmia"
+            }
+          ]
+        },
+        {
+          "label": "Tumor",
+          "children": [
+            {
+              "label": "choroidal nevus"
+            },
+            {
+              "label": "choroidal hemangioma"
+            },
+            {
+              "label": "choroidal metastasis"
+            },
+            {
+              "label": "RPE hamartoma"
+            }
+          ]
+        },
+        {
+          "label": "Trauma",
+          "children": [
+            {
+              "label": "choroidal rupture"
+            },
+            {
+              "label": "intense photocoagulation"
+            }
+          ]
+        },
+        {
+          "label": "Idiopathic"
+        }
+      ]
+    },
+    {
+      "label": "Angioid streaks",
+      "children": [
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "irregular dark red or brown lines radiating from a ring of peripapillary atrophy surrounding the optic disc"
+            }
+          ]
+        },
+        {
+          "label": "fluorescein angiography",
+          "children": [
+            {
+              "label": "hyperfluorescent window defects with late staining"
+            },
+            {
+              "label": "not necessary for diagnosis"
+            },
+            {
+              "label": "to rule out CNV"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "breaks in thickened calcified Bruch's membrane"
+            }
+          ]
+        },
+        {
+          "label": "predisposing conditions",
+          "children": [
+            {
+              "label": "pseudoxanthoma elasticum",
+              "children": [
+                {
+                  "label": "autosomal recessive",
+                  "children": [
+                    {
+                      "label": "ABCC6 gene mutation",
+                      "children": [
+                        {
+                          "label": "16p13.1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical",
+                  "children": [
+                    {
+                      "label": "angioid streaks"
+                    },
+                    {
+                      "label": "optic disc drusen"
+                    },
+                    {
+                      "label": "peripheral round atrophic scars with “comet” sign"
+                    },
+                    {
+                      "label": "lighter orange fundus"
+                    },
+                    {
+                      "label": "peau d'orange appearance",
+                      "children": [
+                        {
+                          "label": "mottled RPE appearance"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "calcific coronary arteriosclerosis"
+                    },
+                    {
+                      "label": "plucked chicken skin"
+                    },
+                    {
+                      "label": "GI & CNS bleeding"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Paget disease of bone"
+            },
+            {
+              "label": "beta thalassemia"
+            },
+            {
+              "label": "sickle cell anemia (SS)"
+            },
+            {
+              "label": "Ehlers-Danlos syndrome"
+            },
+            {
+              "label": "elderly patients"
+            }
+          ]
+        },
+        {
+          "label": "usually asymptomatic"
+        },
+        {
+          "label": "visual complications",
+          "children": [
+            {
+              "label": "submacular dhemorrhage without CNV",
+              "children": [
+                {
+                  "label": "resolve spontaneously"
+                }
+              ]
+            },
+            {
+              "label": "CNV",
+              "children": [
+                {
+                  "label": "exudative macular detachment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "anti-VEGF agents",
+              "children": [
+                {
+                  "label": "for CNV"
+                }
+              ]
+            },
+            {
+              "label": "safety glasses",
+              "children": [
+                {
+                  "label": "minor blunt injury can cause choroidal rupture"
+                }
+              ]
+            },
+            {
+              "label": "medical consultation",
+              "children": [
+                {
+                  "label": "refer patients with new diagnosis of angioid streaks and no known systemic diseases for systemic work-up"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ocular Histoplasmosis Syndrome",
+      "children": [
+        {
+          "label": "Histoplasma capsulatum fungus",
+          "children": [
+            {
+              "label": "endemic to the Mississippi and Ohio River valleys"
+            },
+            {
+              "label": "humans become infected by inhaling the yeast form",
+              "children": [
+                {
+                  "label": "carried on",
+                  "children": [
+                    {
+                      "label": "feathers of",
+                      "children": [
+                        {
+                          "label": "chickens"
+                        },
+                        {
+                          "label": "pigeons"
+                        },
+                        {
+                          "label": "blackbirds"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "bat droppings"
+                    }
+                  ]
+                },
+                {
+                  "label": "disseminates throughout the bloodstream"
+                }
+              ]
+            },
+            {
+              "label": "organism has been identified histologically in choroid of patients with OHS"
+            }
+          ]
+        },
+        {
+          "label": "Demographics",
+          "children": [
+            {
+              "label": "OHS more prevalent among populations with higher % of positive skin reactors"
+            },
+            {
+              "label": "> 90% of patients with OHS react positively to histoplasmin skin testing"
+            },
+            {
+              "label": "in 1 community with endemic histoplasmosis (60% positive skin test), the",
+              "children": [
+                {
+                  "label": "peripheral lesions of OHS in",
+                  "children": [
+                    {
+                      "label": "2.6% of total population"
+                    },
+                    {
+                      "label": "4.4% of positive skin test responders"
+                    }
+                  ]
+                },
+                {
+                  "label": "only 1 individual with peripheral lesions showed disciform macular disease"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Clinical",
+          "children": [
+            {
+              "label": "asymptomatic until development of CNV"
+            },
+            {
+              "label": "> 60% bilateral"
+            },
+            {
+              "label": "small, atrophic, “punched-out” chorioretinal scars in midperiphery and posterior pole (“histo spots”)"
+            },
+            {
+              "label": "linear peripheral atrophic tracks"
+            },
+            {
+              "label": "juxtapapillary chorioretinal scarring"
+            },
+            {
+              "label": "± macular CNV",
+              "children": [
+                {
+                  "label": "risk of visual loss in fellow eye if 1 eye has CNV/disciform scarring",
+                  "children": [
+                    {
+                      "label": "normal fellow eye",
+                      "children": [
+                        {
+                          "label": "1%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "peripapillary atrophy in fellow eye",
+                      "children": [
+                        {
+                          "label": "4%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "macular histo spots in felow eye",
+                      "children": [
+                        {
+                          "label": "25%"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "absence of vitreous inflammation"
+            }
+          ]
+        },
+        {
+          "label": "Differential diagnosis",
+          "children": [
+            {
+              "label": "multifocal choroiditis"
+            },
+            {
+              "label": "birdshot choroidopathy"
+            },
+            {
+              "label": "APMPPE"
+            },
+            {
+              "label": "diffuse unilateral subacute neuroretinopathy (DUSN)"
+            }
+          ]
+        },
+        {
+          "label": "Management",
+          "children": [
+            {
+              "label": "no medical treatment"
+            },
+            {
+              "label": "anti-VEGF therapy for CNVM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pathologic myopia",
+      "children": [
+        {
+          "label": "incidence of CNV develops 5-10% of eyes with axial length >26.5 mm",
+          "children": [
+            {
+              "label": "with or without",
+              "children": [
+                {
+                  "label": "widespread chorioretinal degeneration"
+                },
+                {
+                  "label": "lacquer cracks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Treatment",
+          "children": [
+            {
+              "label": "laser photocoagulation",
+              "children": [
+                {
+                  "label": "laser scar may expand through the foveal center over time",
+                  "children": [
+                    {
+                      "label": "atrophy creep"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "PDT",
+              "children": [
+                {
+                  "label": "has been shown to be beneficial"
+                },
+                {
+                  "label": "FDA approved"
+                },
+                {
+                  "label": "VIP Pathologic Myopia Trial",
+                  "children": [
+                    {
+                      "label": "PDT prevented (mild & moderate) visual loss up to 3 years"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "anti-VEGF agents",
+              "children": [
+                {
+                  "label": "mainstay of treatment"
+                },
+                {
+                  "label": "sustained regression of myopic CNV"
+                },
+                {
+                  "label": "stabilization or improvement of visual acuity after only 1 or 2 injections"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Neovascular AMD (V) - Other Causes of CNV.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 235,
+      "connector_rejected": 10,
+      "connector_edges": 170,
+      "connector_width": 0.867,
+      "text_labels": 132,
+      "tree_nodes": 132,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7234,
+      "root_font_size": 6.067,
+      "warnings": []
+    }
+  }
+}

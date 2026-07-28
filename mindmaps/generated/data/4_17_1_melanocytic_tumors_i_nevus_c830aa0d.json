@@ -1,0 +1,409 @@
+{
+  "label": "4.17.1. Melanocytic Tumors (I): Nevus",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "skin/mucosal melanocytic tumors",
+          "children": [
+            {
+              "label": "develop in ectodermal tissue"
+            },
+            {
+              "label": "lymphatic spread"
+            }
+          ]
+        },
+        {
+          "label": "uveal melanocytic tumors",
+          "children": [
+            {
+              "label": "develop in mesodermal tissue"
+            },
+            {
+              "label": "hematogenous spread"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Iris nevus",
+      "children": [
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "pigmented",
+              "children": [
+                {
+                  "label": "higher incidence in neurofibromatosis"
+                }
+              ]
+            },
+            {
+              "label": "slightly raised"
+            },
+            {
+              "label": "minimal distortion of iris structure"
+            },
+            {
+              "label": "+- slight ectropion irides"
+            },
+            {
+              "label": "+- sectoral cataract"
+            },
+            {
+              "label": "2 forms",
+              "children": [
+                {
+                  "label": "circumscribed"
+                },
+                {
+                  "label": "diffuse"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "examination",
+          "children": [
+            {
+              "label": "slit-lamp biomicroscopy"
+            },
+            {
+              "label": "gonioscopy",
+              "children": [
+                {
+                  "label": "angle involvement",
+                  "children": [
+                    {
+                      "label": "rule out ciliary body tumor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "evaluation of suspicious iris nevi",
+          "children": [
+            {
+              "label": "slit-lamp photography"
+            },
+            {
+              "label": "ultrasound biomicroscopy"
+            }
+          ]
+        },
+        {
+          "label": "management of suspicious iris nevi",
+          "children": [
+            {
+              "label": "serial follow-up examinations for growth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nevus of ciliary body or choroid",
+      "children": [
+        {
+          "label": "demographics",
+          "children": [
+            {
+              "label": "choroidal nevi may occur in ≤10% of population"
+            },
+            {
+              "label": "ocular/oculodermal melanocytosis (ODM) predisposes to uveal melanoma",
+              "children": [
+                {
+                  "label": "lifetime risk of uveal melanoma in ODM=1/400"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "usually asymptomatic",
+          "children": [
+            {
+              "label": "• visual field defect"
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "flat/minimally elevated"
+            },
+            {
+              "label": "variable pigmentation",
+              "children": [
+                {
+                  "label": "some amelanotic"
+                }
+              ]
+            },
+            {
+              "label": "indistinct margin"
+            },
+            {
+              "label": "overlying RPE disturbance",
+              "children": [
+                {
+                  "label": "drusen"
+                },
+                {
+                  "label": "serous retinal detachment"
+                },
+                {
+                  "label": "choroidal neovascular membrane"
+                },
+                {
+                  "label": "orange pigment"
+                }
+              ]
+            },
+            {
+              "label": "fluorescein angiography",
+              "children": [
+                {
+                  "label": "hypo- or hyper-fluorescence"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis of pigmented lesions of ocular fundus",
+          "children": [
+            {
+              "label": "choroidal nevus",
+              "children": [
+                {
+                  "label": "virtually all choroidal melanocytic tumors thinner than 1 mm are nevi"
+                },
+                {
+                  "label": "flat lesions with basal diameter of ≤10 mm are almost always benign"
+                }
+              ]
+            },
+            {
+              "label": "choroidal melanoma",
+              "children": [
+                {
+                  "label": "risk of malignancy increases with height",
+                  "children": [
+                    {
+                      "label": "1-2 mm in thickness",
+                      "children": [
+                        {
+                          "label": "difficult to classify with certainty",
+                          "children": [
+                            {
+                              "label": "many may be benign"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "virtually all choroidal melanocytic tumors thicker than 3 mm are melanomas"
+                    }
+                  ]
+                },
+                {
+                  "label": "risk of malignancy increases for lesions >10 mm in basal diameter"
+                }
+              ]
+            },
+            {
+              "label": "pigmented AMD disciform scar"
+            },
+            {
+              "label": "suprachoroidal hemorrhage"
+            },
+            {
+              "label": "RPE hyperplasia"
+            },
+            {
+              "label": "CHRPE"
+            },
+            {
+              "label": "choroidal hemangioma with RPE hyperpigmentation"
+            },
+            {
+              "label": "melanocytoma"
+            },
+            {
+              "label": "metastatic carcinoma with RPE hyperpigmentation"
+            },
+            {
+              "label": "choroidal osteoma"
+            }
+          ]
+        },
+        {
+          "label": "Clinical risk factors or enlargement of (small) choroidal melanomcytic lesions",
+          "children": [
+            {
+              "label": "symptoms"
+            },
+            {
+              "label": "orange pigment"
+            },
+            {
+              "label": "subretinal fluid"
+            },
+            {
+              "label": "larger tumor size"
+            },
+            {
+              "label": "juxtapapillary tumor location"
+            },
+            {
+              "label": "absence of drusen or RPE changes"
+            },
+            {
+              "label": "hot spots on fluorescein angiography"
+            },
+            {
+              "label": "homogeneity on ultrasonography"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "<1 mm thickness",
+              "children": [
+                {
+                  "label": "photography"
+                }
+              ]
+            },
+            {
+              "label": ".>1 mm thickness",
+              "children": [
+                {
+                  "label": "photography"
+                },
+                {
+                  "label": "ultrasonography"
+                }
+              ]
+            },
+            {
+              "label": "periodic reassessment for signs of growth",
+              "children": [
+                {
+                  "label": "definite enlargement",
+                  "children": [
+                    {
+                      "label": "suspect malignant change"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Melanocytoma of iris/ciliary body/choroid",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "large polyhedral cells",
+          "children": [
+            {
+              "label": "small nuclei"
+            },
+            {
+              "label": "filled with melanin granules"
+            }
+          ]
+        },
+        {
+          "label": "location",
+          "children": [
+            {
+              "label": "iris melanocytoma",
+              "children": [
+                {
+                  "label": "seeding to AC angle",
+                  "children": [
+                    {
+                      "label": "glaucoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ciliary body melanocytoma",
+              "children": [
+                {
+                  "label": "usually not seen clinically"
+                },
+                {
+                  "label": "extraocular extension",
+                  "children": [
+                    {
+                      "label": "darkly pigmented subconjunctival mass"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "simulate choroidal nevus or melanoma"
+            }
+          ]
+        },
+        {
+          "label": "may undergo malignant change",
+          "children": [
+            {
+              "label": "documented growth",
+              "children": [
+                {
+                  "label": "treat as a malignancy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.17.1. Melanocytic Tumors (I) - Nevus.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 200,
+      "connector_rejected": 6,
+      "connector_edges": 139,
+      "connector_width": 1.472,
+      "text_labels": 102,
+      "tree_nodes": 102,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.695,
+      "root_font_size": 4.905,
+      "warnings": []
+    }
+  }
+}

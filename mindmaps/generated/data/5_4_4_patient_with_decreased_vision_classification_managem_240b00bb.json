@@ -1,0 +1,581 @@
+{
+  "label": "5.4.4. Patient With Decreased Vision: Classification & Management (IV): Optic neuropathy (III): AION",
+  "root": true,
+  "children": [
+    {
+      "label": "Anterior ischemic optic neuropathy (AION)",
+      "children": [
+        {
+          "label": "See Table 4-4"
+        },
+        {
+          "label": "most common acute optic neuropathy in patients >50"
+        },
+        {
+          "label": "painless monocular vision loss",
+          "children": [
+            {
+              "label": "over hours to days"
+            },
+            {
+              "label": "± decreased visual acuity"
+            },
+            {
+              "label": "visual field loss always occurs",
+              "children": [
+                {
+                  "label": "altitudinal/arcuate defects are most common"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "RAPD is present"
+        },
+        {
+          "label": "optic disc edema develops at onset",
+          "children": [
+            {
+              "label": "may precede the vision loss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nonarteritic anterior ischemic optic neuropathy (NAION)",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "relatively younger patients",
+              "children": [
+                {
+                  "label": "90%–95% of AION cases"
+                },
+                {
+                  "label": "mean age, 60 years"
+                }
+              ]
+            },
+            {
+              "label": "annual incidence",
+              "children": [
+                {
+                  "label": "80/100,000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "area of infarction is located within the scleral canal alone",
+              "children": [
+                {
+                  "label": "compromised optic disc microcirculation in eyes with structural “crowding” of the disc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "visual impairment upon awakening",
+              "children": [
+                {
+                  "label": "course",
+                  "children": [
+                    {
+                      "label": "static",
+                      "children": [
+                        {
+                          "label": "vision loss is stable"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "progressive",
+                      "children": [
+                        {
+                          "label": "episodic, stepwise decrements"
+                        },
+                        {
+                          "label": "steady decline"
+                        },
+                        {
+                          "label": "over weeks to months"
+                        },
+                        {
+                          "label": "22%–37%"
+                        },
+                        {
+                          "label": "recurrent episodes of vision loss in the same eye after 3 months are unusual",
+                          "children": [
+                            {
+                              "label": "up to 6.4%"
+                            },
+                            {
+                              "label": "occurring most often in young patients"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "vision loss is usually less severe",
+                  "children": [
+                    {
+                      "label": "visual acuity >20/200 in >60%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "visual field loss",
+              "children": [
+                {
+                  "label": "most common pattern is altitudinal"
+                }
+              ]
+            },
+            {
+              "label": "optic disc edema",
+              "children": [
+                {
+                  "label": "diffuse or segmental"
+                },
+                {
+                  "label": "hyperemic or pale"
+                },
+                {
+                  "label": "optic disc in contralateral eye is typically small with small/absent physiologic cup (“disc at risk”)"
+                },
+                {
+                  "label": "optic disc atrophy",
+                  "children": [
+                    {
+                      "label": "within 6–8 weeks",
+                      "children": [
+                        {
+                          "label": "persistence of edema suggests an alternative diagnosis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "5-year risk of contralateral eye involvement",
+              "children": [
+                {
+                  "label": "15%"
+                },
+                {
+                  "label": "“pseudo–Foster Kennedy syndrome,”",
+                  "children": [
+                    {
+                      "label": "previously affected disc is atrophic and currently involved disc is edematous",
+                      "children": [
+                        {
+                          "label": "in contrast to true Foster Kennedy syndrome, both eyes show visual field loss"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "no systemic symptoms",
+              "children": [
+                {
+                  "label": "structural crowding of the disc (disc at risk)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "risk factors",
+          "children": [
+            {
+              "label": "systemic hypertension"
+            },
+            {
+              "label": "diabetes mellitus (particularly in young patients)"
+            },
+            {
+              "label": "hyperlipidemia"
+            },
+            {
+              "label": "± associated but currently unproven",
+              "children": [
+                {
+                  "label": "hypercoagulable/prothrombotic disorders"
+                },
+                {
+                  "label": "carotid occlusive disease"
+                },
+                {
+                  "label": "sleep apnea"
+                },
+                {
+                  "label": "nocturnal hypotension"
+                },
+                {
+                  "label": "phosphodiesterase inhibitors",
+                  "children": [
+                    {
+                      "label": "eg, sildenafil"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "optic neuritis",
+              "children": [
+                {
+                  "label": "contrast-enhanced MRI",
+                  "children": [
+                    {
+                      "label": "optic nerve appears normal in NAION (95%)"
+                    },
+                    {
+                      "label": "optic nerve enhances with use of gadolinium (90%) in optic neuritis"
+                    }
+                  ]
+                },
+                {
+                  "label": "See Table 4-5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "untreated NAION generally remains stable after reaching the low point of visual function",
+          "children": [
+            {
+              "label": "improvement of at least 3 lines of Snellen visual acuity was reported in 31% of patients after 2 years"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "no proven therapy"
+            },
+            {
+              "label": "optic nerve sheath fenestration",
+              "children": [
+                {
+                  "label": "not beneficial"
+                }
+              ]
+            },
+            {
+              "label": "neuroprotective drugs",
+              "children": [
+                {
+                  "label": "beneficial effects against secondary neuronal degeneration in animal models"
+                }
+              ]
+            },
+            {
+              "label": "oral prednisone",
+              "children": [
+                {
+                  "label": "80 mg daily for 2 weeks",
+                  "children": [
+                    {
+                      "label": "slow taper over several weeks"
+                    }
+                  ]
+                },
+                {
+                  "label": "remains controversial",
+                  "children": [
+                    {
+                      "label": "improvement in visual acuity and visual fields only among patients with visual acuity of ≤20/70"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "no proven prophylaxis for the fellow eye"
+            },
+            {
+              "label": "aspirin",
+              "children": [
+                {
+                  "label": "proven effect in reducing the risk of secondary stroke"
+                },
+                {
+                  "label": "unproven role in reducing the risk of fellow eye NAION"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Arteritic anterior ischemic optic neuropathy (AAION)",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "5%–10% of AION cases"
+            },
+            {
+              "label": "older patients",
+              "children": [
+                {
+                  "label": "mean age, 70 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "inflammatory and thrombotic occlusion of short posterior ciliary arteries"
+            }
+          ]
+        },
+        {
+          "label": "systemic symptoms of GCA",
+          "children": [
+            {
+              "label": "headache"
+            },
+            {
+              "label": "scalp tenderness"
+            },
+            {
+              "label": "malaise"
+            },
+            {
+              "label": "anorexia"
+            },
+            {
+              "label": "weight loss"
+            },
+            {
+              "label": "fever"
+            },
+            {
+              "label": "jaw claudication",
+              "children": [
+                {
+                  "label": "most specific symptom"
+                },
+                {
+                  "label": "masseter muscle pain or fatigue that occurs with prolonged chewing",
+                  "children": [
+                    {
+                      "label": "resolves over minutes after stopping chewing"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "usually present"
+            }
+          ]
+        },
+        {
+          "label": "occult GCA",
+          "children": [
+            {
+              "label": "20% of patients with AAION"
+            },
+            {
+              "label": "elevated ESR without systemic symptoms"
+            },
+            {
+              "label": "normal ESR in the presence of systemic symptoms"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "vision loss is typically severe",
+              "children": [
+                {
+                  "label": "visual acuity <20/200 in >60%"
+                },
+                {
+                  "label": "no light perception vision should prompt an aggressive evaluation for GCA"
+                },
+                {
+                  "label": "transient vision loss preceding AION may indicate GCA"
+                }
+              ]
+            },
+            {
+              "label": "funduscopic clues to a diagnosis of AAION over NAION",
+              "children": [
+                {
+                  "label": "chalky white optic disc edema",
+                  "children": [
+                    {
+                      "label": "in NAION the disc is often hyperemic"
+                    }
+                  ]
+                },
+                {
+                  "label": "cotton-wool spots away from the optic disc",
+                  "children": [
+                    {
+                      "label": "cotton-wool spots on or adjacent to the optic disc can be present in NAION"
+                    }
+                  ]
+                },
+                {
+                  "label": "delayed choroidal filling on fluorescein angiography",
+                  "children": [
+                    {
+                      "label": "normally, the choroid fills completely within 3– 5 seconds, before retinal arteries"
+                    }
+                  ]
+                },
+                {
+                  "label": "normal or large cup in the fellow eye",
+                  "children": [
+                    {
+                      "label": "in NAION, a small cup–disc ratio is common"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "high-dose corticosteroid therapy",
+              "children": [
+                {
+                  "label": "intravenous methylprednisolone",
+                  "children": [
+                    {
+                      "label": "1 g/day for the first 3–5 days"
+                    }
+                  ]
+                },
+                {
+                  "label": "oral prednisone",
+                  "children": [
+                    {
+                      "label": "1 mg/kg/d",
+                      "children": [
+                        {
+                          "label": "≤100 mg/day"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "taper slowly over ≥3–12 months",
+                      "children": [
+                        {
+                          "label": "risk of recurrent or contralateral optic nerve involvement during corticosteroid withdrawal",
+                          "children": [
+                            {
+                              "label": "7%"
+                            },
+                            {
+                              "label": "recurrent symptoms or elevation of ESR should prompt reevaluation"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "alternate-day corticosteroid therapy is inadequate for AAION"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "± adjunctive daily aspirin"
+            },
+            {
+              "label": "major goal of AAION therapy is to prevent contralateral vision loss",
+              "children": [
+                {
+                  "label": "confirmational temporal artery biopsy may be delayed for 7–10 days"
+                },
+                {
+                  "label": "untreated, the fellow eye becomes involved in ≤95% of cases",
+                  "children": [
+                    {
+                      "label": "within days to weeks"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prognosis",
+          "children": [
+            {
+              "label": "recovery does not generally occur"
+            },
+            {
+              "label": "initially affected eye may improve somewhat"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.4.4. Patient With Decreased Vision - Classification & Management (IV) - Optic neuropathy (III) - AION.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 265,
+      "connector_rejected": 0,
+      "connector_edges": 176,
+      "connector_width": 0.77,
+      "text_labels": 144,
+      "tree_nodes": 144,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6642,
+      "root_font_size": 2.697,
+      "warnings": []
+    }
+  }
+}

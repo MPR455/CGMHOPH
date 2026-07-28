@@ -1,0 +1,527 @@
+{
+  "label": "7.5.7. Orbital Neoplasms and Malformations (VII): Lacrimal Gland Tumors",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "classification",
+          "children": [
+            {
+              "label": "nonspecific inflammation (dacryoadenitis)",
+              "children": [
+                {
+                  "label": "majority"
+                },
+                {
+                  "label": "present with acute inflammatory signs"
+                },
+                {
+                  "label": "usually respond to anti-inflammatory medication"
+                }
+              ]
+            },
+            {
+              "label": "non-inflammatory",
+              "children": [
+                {
+                  "label": "lymphoproliferative disorders",
+                  "children": [
+                    {
+                      "label": "majority"
+                    },
+                    {
+                      "label": "≤50% of orbital lymphomas develop in the lacrimal fossa"
+                    }
+                  ]
+                },
+                {
+                  "label": "epithelial neoplasms",
+                  "children": [
+                    {
+                      "label": "minority"
+                    },
+                    {
+                      "label": "benign mixed tumors (pleomorphic adenomas)",
+                      "children": [
+                        {
+                          "label": "50%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "carcinomas",
+                      "children": [
+                        {
+                          "label": "50%",
+                          "children": [
+                            {
+                              "label": "adenoid cystic carcinomas",
+                              "children": [
+                                {
+                                  "label": "≈ 50%"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "malignant mixed tumors"
+                            },
+                            {
+                              "label": "primary adenocarcinomas"
+                            },
+                            {
+                              "label": "mucoepidermoid carcinomas",
+                              "children": [
+                                {
+                                  "label": "≈ %50"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "squamous carcinomas"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "orbital imaging",
+          "children": [
+            {
+              "label": "inflammatory and lymphoid proliferations",
+              "children": [
+                {
+                  "label": "elongated mass"
+                },
+                {
+                  "label": "mold around the globe"
+                },
+                {
+                  "label": "no bony change due to a lymphoproliferative lesion"
+                }
+              ]
+            },
+            {
+              "label": "epithelial neoplasms",
+              "children": [
+                {
+                  "label": "isolated globular mass"
+                },
+                {
+                  "label": "displace and indent the globe"
+                },
+                {
+                  "label": "bone of the lacrimal fossa is remodeled in response to a slowly growing benign epithelial lesion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Epithelial Tumors of the Lacrimal Gland",
+      "children": [
+        {
+          "label": "Pleomorphic adenoma",
+          "children": [
+            {
+              "label": "benign mixed tumor"
+            },
+            {
+              "label": "most common epithelial tumor of the lacrimal gland"
+            },
+            {
+              "label": "4th-5th decade of life"
+            },
+            {
+              "label": "slightly more common in men"
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "progressive, painless downward and inward displacement of the globe with axial proptosis"
+                },
+                {
+                  "label": "symptoms usually present for >12 months"
+                },
+                {
+                  "label": "firm, lobular mass",
+                  "children": [
+                    {
+                      "label": "palpated near the superolateral orbital rim"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "orbital imaging",
+              "children": [
+                {
+                  "label": "well circumscribed mass",
+                  "children": [
+                    {
+                      "label": "nodular configuration"
+                    }
+                  ]
+                },
+                {
+                  "label": "enlargement or expansion of the lacrimal fossa"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "benign epithelial cells"
+                },
+                {
+                  "label": "stroma composed of spindle-shaped cells"
+                },
+                {
+                  "label": "cartilaginous, mucinous, or even osteoid degeneration or metaplasia"
+                },
+                {
+                  "label": "pseudocapsule"
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "complete removal of the tumor with its pseudocapsule and a surrounding margin of orbital tissue"
+                },
+                {
+                  "label": "no preliminary biopsy !",
+                  "children": [
+                    {
+                      "label": "recurrence rate if capsule is incised for direct biopsy",
+                      "children": [
+                        {
+                          "label": "32%"
+                        },
+                        {
+                          "label": "risk of malignant degeneration in recurrences",
+                          "children": [
+                            {
+                              "label": "10% /decade"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Adenoid cystic carcinoma",
+          "children": [
+            {
+              "label": "most common malignant tumor of the lacrimal gland"
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "highly malignant"
+                },
+                {
+                  "label": "rapid course",
+                  "children": [
+                    {
+                      "label": "history of generally < 1 year"
+                    }
+                  ]
+                },
+                {
+                  "label": "pain",
+                  "children": [
+                    {
+                      "label": "perineural invasion"
+                    },
+                    {
+                      "label": "bone destruction"
+                    },
+                    {
+                      "label": "early onset of pain helps differentiate this malignant tumor from benign mixed tumor"
+                    }
+                  ]
+                },
+                {
+                  "label": "usually extends into the posterior orbit",
+                  "children": [
+                    {
+                      "label": "lack of true encapsulation"
+                    },
+                    {
+                      "label": "capacity to infiltrate"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "recurrence after resection is problematic"
+            },
+            {
+              "label": "pathology",
+              "children": [
+                {
+                  "label": "benign-appearing cells that grow in tubules, solid nests, or a Swiss-cheese pattern",
+                  "children": [
+                    {
+                      "label": "basaloid",
+                      "children": [
+                        {
+                          "label": "worse survival"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "cribriform"
+                    }
+                  ]
+                },
+                {
+                  "label": "infiltration of the orbital tissues"
+                },
+                {
+                  "label": "perineural invasion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Malignant mixed tumor",
+          "children": [
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "similar to benign mixed tumors"
+                },
+                {
+                  "label": "areas of malignant change",
+                  "children": [
+                    {
+                      "label": "poorly differentiated adenocarcinomas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "arise from",
+              "children": [
+                {
+                  "label": "long-standing primary benign mixed tumor",
+                  "children": [
+                    {
+                      "label": "change in growth rate is a hallmark of malignant degeneration"
+                    }
+                  ]
+                },
+                {
+                  "label": "benign mixed tumor that has recurred following initial incomplete excision or violation of the pseudocapsule"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Management of malignant lacrimal gland tumors",
+          "children": [
+            {
+              "label": "exenteration & radical orbitectomy",
+              "children": [
+                {
+                  "label": "removal of",
+                  "children": [
+                    {
+                      "label": "roof, lateral wall, and floor"
+                    },
+                    {
+                      "label": "overlying soft tissues and anterior portion of the temporalis muscle"
+                    }
+                  ]
+                },
+                {
+                  "label": "no improvement in long-term survival"
+                }
+              ]
+            },
+            {
+              "label": "high-dose radiation therapy + surgical debulking"
+            },
+            {
+              "label": "intracarotid chemotherapy + exenteration",
+              "children": [
+                {
+                  "label": "duration of follow-up is not yet adequate to prove efficacy"
+                }
+              ]
+            },
+            {
+              "label": "prognosis",
+              "children": [
+                {
+                  "label": "typical clinical course is that of multiple painful recurrences",
+                  "children": [
+                    {
+                      "label": "occurring a decade or more after the initial presentation"
+                    }
+                  ]
+                },
+                {
+                  "label": "perineural extension into the cavernous sinus often occurs"
+                },
+                {
+                  "label": "ultimate mortality from",
+                  "children": [
+                    {
+                      "label": "intracranial extension"
+                    },
+                    {
+                      "label": "systemic metastases",
+                      "children": [
+                        {
+                          "label": "less common"
+                        },
+                        {
+                          "label": "managed by local resection"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nonepithelial Tumors of the Lacrimal Gland",
+      "children": [
+        {
+          "label": "most of the nonepithelial lesions of the lacrimal gland represent lymphoid proliferation or inflammations"
+        },
+        {
+          "label": "lymphoproliferative conditions",
+          "children": [
+            {
+              "label": "≤50% develop in the lacrimal gland"
+            },
+            {
+              "label": "benign lymphocytic infiltrates",
+              "children": [
+                {
+                  "label": "F>M"
+                },
+                {
+                  "label": "bilateral swelling of the lacrimal gland",
+                  "children": [
+                    {
+                      "label": "insidiously or following a symptomatic episode of lacrimal gland inflammation"
+                    },
+                    {
+                      "label": "enlargement of the lacrimal glands may not be clinically apparent"
+                    }
+                  ]
+                },
+                {
+                  "label": "dry eye syndrome",
+                  "children": [
+                    {
+                      "label": "may improve with the use of topical cyclosporine"
+                    }
+                  ]
+                },
+                {
+                  "label": "pathology",
+                  "children": [
+                    {
+                      "label": "lymphocytic infiltration"
+                    },
+                    {
+                      "label": "proliferation of myoepithelial cells surrounding inner duct cells",
+                      "children": [
+                        {
+                          "label": "epimyoepithelial islands"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lymphoepithelial lesions"
+                    }
+                  ]
+                },
+                {
+                  "label": "Sjögren syndrome"
+                },
+                {
+                  "label": "localized lacrimal gland and salivary gland lesion",
+                  "children": [
+                    {
+                      "label": "Mikulicz syndrome"
+                    }
+                  ]
+                },
+                {
+                  "label": "may develop into low-grade B-cell lymphoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "inflammatory conditions",
+          "children": [
+            {
+              "label": "nonspecific orbital inflammation"
+            },
+            {
+              "label": "sarcoidosis"
+            }
+          ]
+        },
+        {
+          "label": "references"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.5.7. Orbital Neoplasms and Malformations (VII) - Lacrimal Gland Tumors.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 132,
+      "connector_rejected": 1,
+      "connector_edges": 131,
+      "connector_width": 0.82,
+      "text_labels": 132,
+      "tree_nodes": 132,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9924,
+      "root_font_size": 3.485,
+      "warnings": []
+    }
+  }
+}

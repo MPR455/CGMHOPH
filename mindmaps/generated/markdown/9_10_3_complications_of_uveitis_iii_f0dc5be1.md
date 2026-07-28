@@ -1,0 +1,119 @@
+---
+title: "9.10.3. Complications of Uveitis (III)"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.10.3. Complications of Uveitis (III).pdf"
+---
+
+# 9.10.3. Complications of Uveitis (III)
+
+## Hierarchy
+
+- Retinal and Choroidal Neovascularization
+  - retinal neovascularization
+    - most often associated with
+      - pars planitis
+      - sarcoid panuveitis
+    - pathogenesis
+      - chronic inflammation
+        - retinal vasculitis of various causes, including Eales disease
+      - capillary nonperfusion
+    - treatment
+      - reduction of inflammation
+      - scatter laser photocoagulation
+        - if ischemia is angiographically extensive
+        - uveitic retinal neovascularization does not always require panretinal photocoagulation
+      - VEGF inhibitor
+        - adjunct to IMT and scatter laser photocoagulation
+  - choroidal neovascularization (CNV)
+    - pathogenesis
+      - disruption of the Bruch membrane
+      - inflammatory cytokines
+    - 10% of patients with VKH syndrome
+    - treatment
+      - reduction of inflammation
+      - anatomical ablation of the CNV
+        - control of inflammation may reduce the risk of recurrence of CNV
+        - focal laser photocoagulation of peripapillary, extrafoveal, and juxtafoveal CNV
+      - VEGF inhibitors
+        - for subfoveal CNV
+      - photodynamic therapy with verteporfin
+- Cystoid Macular Edema
+  - pathogenesis
+    - active intraocular inflammation
+      - mediated by the proinflammatory cytokines
+        - VEGF
+        - interleukin-6
+        - cause retinal vascular leakage & retinal pigment endothelium dysfunction
+      - severity of CME does not necessarily correspond to the level of inflammatory activity
+      - often slow to respond and clear and frequently remains even after visible, active inflammation has resolved
+      - mechanical vitreomacular traction
+        - smoking appears to be associated with a greater prevalence of CME
+  - monitored by serial spectral-domain OCT and fluorescein angiography
+  - treatment
+    - control of intraocular inflammation
+    - if CME persists despite control of inflammation, therapy directed specifically toward the CME is required
+    - periocular injections of corticosteroid
+      - 20–40 mg of triamcinolone acetonide
+        - superotemporal posterior sub-Tenon injection
+          - delivers juxtascleral corticosteroid closest to the macula
+      - may be repeated monthly
+    - Intravitreal triamcinolone
+      - 2–4 mg of intravitreal preservative-free triamcinolone
+      - highly effective in reducing CME
+      - maximum visual improvement and reduction of CME occurs within 4 weeks
+        - eliminated more quickly from the vitreous cavity of vitrectomized eyes
+      - eyes with a longer duration of uveitic CME and worse vision on presentation tend to show the least amount of visual improvement
+      - corticosteroid-induced elevation of IOP
+        - up to 40% of patients
+        - especially <40 years
+    - implants
+      - fluocinolone acetonide implant
+      - intravitreal sustained-release drug-delivery system for dexamethasone (700 μg)
+        - risk of ocular hypertension is lower compared to fluocinolone implant
+    - anti-VEGF therapies
+      - short duration action
+      - repeat injections are required
+    - intravitreal methotrexate (400 μg/0.1 mL)
+      - effective in reducing uveitic CME in a limited number of patients
+    - topical NSAIDs
+      - beneficial in treating pseudophakic CME
+    - oral acetazolamide
+      - 500 mg once or twice daily
+        - effectiveness in the treatment of uveitic CME has not been well established
+      - effective in reducing uveitic CME
+        - particularly in patients whose inflammation is well controlled
+    - systemic interferon therapy
+      - effective in resolving recalcitrant CME
+      - complete control in 62.5% of patients
+      - causes flulike symptoms
+    - surgical therapy
+      - controversial
+      - pars plana vitrectomy in the presence of hyaloidal traction on the macula
+      - in the absence of vitreomacular traction the efficacy of pars plana vitrectomy in treating CME is not well understood
+- Rhegmatogenous Retinal Detachment
+  - 3%
+  - uveitis itself may be an independent risk factor for the condition
+    - panuveitis
+    - infectious uveitis
+    - pars planitis
+    - posterior uveitis
+    - are the entities most frequently associated with RRD
+  - uveitis is often still active in eyes that present with RRD
+  - repair is often complicated by
+    - proliferative vitreoretinopathy (PVR) at presentation
+      - 30%
+    - vitreous membranes
+    - poor visualization
+  - acute retinal necrosis/CMV retinitis
+    - prophylactic laser treatment
+      - the rate of detachment is still high
+    - difficult to repair because of multiple large posterior retinal breaks
+    - pars plana vitrectomy and endolaser treatment with internal silicone oil tamponade
+  - scleral buckling
+    - retinal detachment associated with pars planitis
+    - when PVR is present, combined scleral buckling and pars plana vitrectomy is often required
+- Vitreous Opacification and Vitritis
+  - vitrectomy may improve visual acuity
+    - 68%
+    - standard small (25- or 23-gauge) 3-port pars plana vitrectomy

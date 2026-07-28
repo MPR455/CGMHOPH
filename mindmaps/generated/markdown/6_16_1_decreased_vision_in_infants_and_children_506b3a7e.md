@@ -1,0 +1,223 @@
+---
+title: "6.16.1. Decreased Vision in Infants and Children"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.16.1. Decreased Vision in Infants and Children.pdf"
+---
+
+# 6.16.1. Decreased Vision in Infants and Children
+
+## Hierarchy
+
+- Introduction
+  - lack of ability to fixate on and follow objects by 3–4 months of age
+    - pregeniculate (ophthalmic) causes
+    - postgeniculate causes
+      - delayed visual maturation
+      - cerebral visual impairment
+- Pregeniculate Visual Impairment
+  - visual deficits resulting from pathology anterior to the lateral geniculate nucleus
+  - congenital sensory nystagmus may be a clinical indicator of bilateral pregeniculate visual impairment
+  - strabismus is common
+  - etiology
+    - corneal and other anterior segment abnormalities
+    - glaucoma
+    - optic nerve abnormalities
+      - optic nerve hypoplasia
+        - most common
+        - ± central nervous system anomalies
+          - septo-optic dysplasia
+          - schizencephaly
+      - optic atrophy
+        - hydrocephalus
+        - brain tumors
+        - hypoxic–ischemic injury
+        - metabolic storage diseases
+        - inherited optic neuropathies
+          - Behr optic atrophy
+      - morning glory disc anomaly
+      - optic disc coloboma/staphyloma
+    - inherited retinal disorders
+      - should be considered in infants with poor vision, nystagmus, and no obvious abnormality on ophthalmic examination
+      - common causes
+        - Leber congenital amaurosis
+        - achromatopsia
+        - blue-cone monochromatism
+        - congenital stationary night blindness
+        - foveal hypoplasia
+          - albinism
+          - aniridia
+          - isolated
+      - fundus examination in an infant with a retinal dystrophy is often normal
+        - associated retinal pigmentary changes may not appear until later
+        - ± subtle retinal vessel attenuation
+        - ± optic disc pallor
+        - abnormal ERG
+- Normal Visual Development
+  - normal vision develops as a result of both genetic coding and experience in a normal visual environment
+  - time table of visual development
+    - after 31 weeks’ gestation
+      - pupillary light reflex
+        - difficult to evaluate in early neonatal period because pupils are miotic
+    - within a few days of birth
+      - blink reflex to bright light
+    - 6–8 weeks of age
+      - make and maintain eye contact with other humans (and react with facial expressions)
+    - 2–3 months of age
+      - interested in bright objects
+    - 3–4 months of age
+      - smooth pursuit asymmetry should have resolved
+      - eyes should be orthotropic
+      - fix-and-follow visual responses to a small (2–4 inches in diameter) toy should be present
+  - Premature infants can be expected to reach these landmarks later
+  - eye movements that may be noted in healthy newborns but should not persist beyond 4 months of age
+    - disconjugate eye movements
+    - skew deviation
+    - sunsetting
+      - tonic downward deviation of both eyes
+  - Signs of poor visual development
+    - searching eye movements
+    - lack of response to familiar faces and objects
+    - nystagmus
+    - staring at bright lights
+      - suggest an ocular cause for the deficiency
+    - forceful rubbing or poking of the eyes (oculodigital reflex)
+      - suggest an ocular cause for the deficiency
+- Pediatric Low Vision Rehabilitation
+  - indication
+    - visual impairment that affects the child's ability to perform visual tasks
+      - best-corrected visual acuity <20/40 in better- seeing eye
+      - decreased visual field
+      - central field loss
+      - reduced contrast sensitivity
+  - Early referral is essential
+  - often involves
+    - pediatric ophthalmologists
+    - vision rehabilitation clinicians
+    - occupational therapists
+    - teachers
+    - orientation and mobility specialists
+    - technology experts
+    - state societies
+  - Individualized Education Plan (IEP)
+    - outlines the needs of an individual child in the school setting
+  - visual aids
+    - simple telescopes
+    - Braille literacy
+    - magnifiers may not be necessary for pediatric patients with low vision
+      - most children have large accommodative amplitudes
+    - e-readers
+    - audio books
+    - text-to-speech technology
+  - resources
+    - http://www.afb.org/directory.aspx
+    - SmartSight Patient Handout
+- Evaluation of the Infant With Decreased Vision
+  - history
+    - family history
+    - details of the pregnancy
+      - maternal infection
+      - maternal diabetes mellitus
+      - radiation exposure
+      - maternal drug or alcohol use
+      - trauma
+    - Perinatal problems
+      - prematurity
+      - intrauterine growth retardation
+      - fetal distress
+      - bradycardia
+      - meconium staining
+      - oxygen deprivation
+      - presence of systemic abnormalities
+      - delayed developmental milestones
+  - Comprehensive ophthalmologic examination
+    - assessment of visual behavior
+      - clinical appraisal
+      - optokinetic nystagmus (OKN) responses
+      - psychophysical tests
+        - visually evoked potential or response (VEP or VER)
+      - preferential looking tests
+        - Teller Acuity Cards II
+        - Cardiff Acuity Test
+    - Pupillary light responses
+      - Pupillary responses are normal in infants with cerebral visual impairment
+      - paradoxical pupils
+        - etiology
+          - retinal dystrophies
+            - most common
+          - optic neuropathies
+        - pupillary constriction in response to darkness
+      - sluggish with anterior visual pathway disease
+        - retinal dystrophies
+        - optic nerve abnormalities
+    - ocular alignment and motility
+      - Visual deficits in 1 or both eyes frequently cause abnormal ocular alignment
+      - nystagmus
+        - usually starts at 2–3 months of age
+        - etiology
+          - bilateral pregeniculate visual dysfunction
+          - pure motor anomaly
+      - roving eye movements
+    - anterior segment and fundus examinations
+    - cycloplegic refraction
+- periventricular leukomalacia
+  - prominent cause of visual impairment in premature children
+- Retrogeniculate Visual Impairment
+  - "cerebral Visual Impairment"
+  - visual deficits resulting from pathology posterior to the lateral geniculate nucleus
+    - may involve the optic radiations as well as the occipital cortex
+  - most frequent cause of childhood visual impairment in developed countries
+  - transient or permanent
+  - isolated finding or associated with multiple neurologic deficits
+  - types
+    - congenital
+      - Prenatal and perinatal causes
+        - intrauterine infection
+        - hypoxia
+        - intracranial hemorrhage
+        - structural central nervous system abnormalities
+        - seizures
+        - hydrocephalus
+    - acquired
+      - accidental trauma
+      - abusive head trauma
+      - meningitis
+      - encephalitis
+  - clinical presentation
+    - varying degrees of visual inattentiveness
+      - family and the ophthalmologist may be uncertain as to whether the baby can see
+    - normal ocular structures
+    - normal pupillary responses
+    - variable levels of visual fixation
+      - from mildly decreased to roving eye movements
+    - nystagmus is typically not present
+    - ± descending optic atrophy (from transsynaptic degeneration)
+      - optic disc cupping resembling that seen in glaucoma
+        - preterm infants
+        - most commonly secondary to periventricular leukomalacia
+  - diagnostic workup
+    - ERG results are normal
+    - VEP results may be normal or subnormal
+    - neuroimaging studies may be normal or abnormal
+      - cerebral atrophy
+      - porencephaly in the occipital (striate or parastriate) cortex
+      - damage to the optic radiations
+      - periventricular leukomalacia
+      - children with normal neuroimaging studies tend to have a more favorable prognosis
+- Delayed Visual Maturation
+  - delayed visual maturation (DVM)
+    - "cortical inattention"
+    - lack of normal visual fixation and tracking within the first 3 months of life
+  - 3 subgroups
+    - otherwise healthy infants
+      - findings suggesting good visual and neurologic prognosis
+        - some reaction to light
+        - normal pupillary responses
+        - no nystagmus
+        - normal ocular structures
+    - infants with systemic/neurologic abnormalities
+    - infants with structural eye anomalies
+    - ophthalmologic and systemic examination of infants with DVM usually reveals a cause
+  - if visual behavior does not progress toward normal by 4–6 months of age
+    - neuroimaging
+    - electrophysiologic testing

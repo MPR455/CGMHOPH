@@ -1,0 +1,305 @@
+{
+  "label": "8.3.8. Limbal Stem Cell Deficiency",
+  "root": true,
+  "children": [
+    {
+      "label": "PATHOGENESIS",
+      "children": [
+        {
+          "label": "stem cells",
+          "children": [
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "corneal stem cells",
+                  "children": [
+                    {
+                      "label": "basal cell layer of the limbus",
+                      "children": [
+                        {
+                          "label": "≈ 25%–33% of limbus must be intact to ensure normal ocular resurfacing"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "conjunctival stem cells",
+                  "children": [
+                    {
+                      "label": "uniformly distributed throughout bulbar surface or located in fornices"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "unlimited capacity for self-renewal"
+            },
+            {
+              "label": "slow cycling (low mitotic activity)"
+            },
+            {
+              "label": "once stem cell differentiation begins, it is irreversible",
+              "children": [
+                {
+                  "label": "transit amplification",
+                  "children": [
+                    {
+                      "label": "transit-amplifying cells",
+                      "children": [
+                        {
+                          "label": "limited capacity for self-renewal",
+                          "children": [
+                            {
+                              "label": "able to undergo a finite number of cell divisions"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "at limbus as well as basal layer of the corneal epithelium"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "absence of limbal stem cells",
+          "children": [
+            {
+              "label": "reduced effectiveness of epithelial wound healing"
+            },
+            {
+              "label": "compromised ocular surface integrity",
+              "children": [
+                {
+                  "label": "irregular ocular surface"
+                },
+                {
+                  "label": "recurrent epithelial breakdown"
+                }
+              ]
+            },
+            {
+              "label": "migration of conjunctival cells onto ocular surface",
+              "children": [
+                {
+                  "label": "often accompanied by superficial neovascularization"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "CLINICAL PRESENTATION",
+      "children": [
+        {
+          "label": "irregular corneal surface",
+          "children": [
+            {
+              "label": "decreased vision"
+            },
+            {
+              "label": "wavelike irregularity of the ocular surface emanating from the limbus",
+              "children": [
+                {
+                  "label": "more easily observed following the instillation of topical fluorescein"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "corneal neovascularization"
+        },
+        {
+          "label": "recurrent ulceration"
+        },
+        {
+          "label": "increased epithelial permeability",
+          "children": [
+            {
+              "label": "diffuse permeation of topical fluorescein into the anterior stroma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "MANAGEMENT",
+      "children": [
+        {
+          "label": "discontinue any possible inciting cause"
+        },
+        {
+          "label": "mild & focal/sectoral cases",
+          "children": [
+            {
+              "label": "topical steroids"
+            },
+            {
+              "label": "epithelial debridedment"
+            }
+          ]
+        },
+        {
+          "label": "extensive or severe cases",
+          "children": [
+            {
+              "label": "scleral contact lens"
+            },
+            {
+              "label": "limbal transplantation",
+              "children": [
+                {
+                  "label": "limbus focally affected in 1 eye",
+                  "children": [
+                    {
+                      "label": "autograft from ipsilateral eye"
+                    }
+                  ]
+                },
+                {
+                  "label": "unilateral, moderate or severe chemical injuries",
+                  "children": [
+                    {
+                      "label": "autograft from opposite eye"
+                    }
+                  ]
+                },
+                {
+                  "label": "bilateral limbal deficiency",
+                  "children": [
+                    {
+                      "label": "limbal allograft from a HLA– matched living related donor",
+                      "children": [
+                        {
+                          "label": "systemic immune suppression is required"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "etiology",
+      "children": [
+        {
+          "label": "See Table 3-11"
+        },
+        {
+          "label": "primary causes",
+          "children": [
+            {
+              "label": "PAX6 gene mutations (aniridia)"
+            },
+            {
+              "label": "ectrodactyly–ectodermal dysplasia–clefting syndrome"
+            },
+            {
+              "label": "sclerocornea"
+            },
+            {
+              "label": "keratitis-ichthyosis-deafness (KID) syndrome"
+            },
+            {
+              "label": "congenital erythrokeratodermia"
+            }
+          ]
+        },
+        {
+          "label": "secondary causes",
+          "children": [
+            {
+              "label": "chemical burns"
+            },
+            {
+              "label": "thermal burns"
+            },
+            {
+              "label": "radiation"
+            },
+            {
+              "label": "contact lens wear"
+            },
+            {
+              "label": "ocular surgery"
+            },
+            {
+              "label": "mucous membrane conjunctivitis",
+              "children": [
+                {
+                  "label": "mucous membrane pemphigoid"
+                },
+                {
+                  "label": "trachoma"
+                },
+                {
+                  "label": "Stevens-Johnson syndrome"
+                }
+              ]
+            },
+            {
+              "label": "pterygia"
+            },
+            {
+              "label": "use of topical medications",
+              "children": [
+                {
+                  "label": "pilocarpine",
+                  "children": [
+                    {
+                      "label": "also cause neurotrophic keratitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "β-blockers"
+                },
+                {
+                  "label": "antibiotics"
+                },
+                {
+                  "label": "antimetabolites"
+                }
+              ]
+            },
+            {
+              "label": "dysplastic or neoplastic lesions of the limbus"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.3.8. Limbal Stem Cell Deficiency.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 128,
+      "connector_rejected": 6,
+      "connector_edges": 85,
+      "connector_width": 1.539,
+      "text_labels": 74,
+      "tree_nodes": 74,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6641,
+      "root_font_size": 4.362,
+      "warnings": []
+    }
+  }
+}

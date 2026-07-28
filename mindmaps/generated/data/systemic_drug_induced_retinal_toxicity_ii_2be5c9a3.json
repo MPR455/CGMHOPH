@@ -1,0 +1,292 @@
+{
+  "label": "Systemic Drug-Induced Retinal Toxicity II",
+  "root": true,
+  "children": [
+    {
+      "label": "Phenothiazines",
+      "children": [
+        {
+          "label": "concentrated in uveal tissue and RPE by binding to melanin granules"
+        },
+        {
+          "label": "High-dose chlorpromazine",
+          "children": [
+            {
+              "label": "abnormal pigmentation of",
+              "children": [
+                {
+                  "label": "eyelids"
+                },
+                {
+                  "label": "interpalpebral conjunctiva"
+                },
+                {
+                  "label": "cornea"
+                },
+                {
+                  "label": "anterior lens capsule"
+                }
+              ]
+            },
+            {
+              "label": "anterior and posterior subcapsular cataracts"
+            },
+            {
+              "label": "pigmentary retinopathy is unusual"
+            }
+          ]
+        },
+        {
+          "label": "High-dose thioridazine",
+          "children": [
+            {
+              "label": "severe pigmentary retinopathy",
+              "children": [
+                {
+                  "label": "within a few weeks-months of initiation"
+                },
+                {
+                  "label": "rare at doses ≤800 mg/day"
+                },
+                {
+                  "label": "early",
+                  "children": [
+                    {
+                      "label": "blurred vision"
+                    },
+                    {
+                      "label": "RPE stippling in the posterior pole"
+                    }
+                  ]
+                },
+                {
+                  "label": "late",
+                  "children": [
+                    {
+                      "label": "visual field loss",
+                      "children": [
+                        {
+                          "label": "may be mistaken for choroideremia or Bietti crystalline dystrophy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "nyctalopia"
+                    },
+                    {
+                      "label": "patchy nummular atrophy of the RPE and choriocapillaris"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Screening",
+          "children": [
+            {
+              "label": "toxicity is rare at standard doses"
+            },
+            {
+              "label": "patients taking thioridazine are not monitored"
+            },
+            {
+              "label": "symptomatic patients should undergo a full retinal evaluation",
+              "children": [
+                {
+                  "label": "especially those who have taken high doses of the drug"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous Medications causing RPE/Photoreceptor Complex toxicity",
+      "children": [
+        {
+          "label": "Clofazimine",
+          "children": [
+            {
+              "label": "phenazine dye",
+              "children": [
+                {
+                  "label": "dapsone-resistant leprosy"
+                },
+                {
+                  "label": "autoimmune disorders",
+                  "children": [
+                    {
+                      "label": "systemic lupus erythematosus"
+                    },
+                    {
+                      "label": "psoriasis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "bull’s-eye maculopathy"
+            }
+          ]
+        },
+        {
+          "label": "Deferoxamine",
+          "children": [
+            {
+              "label": "iron-chelating agent"
+            },
+            {
+              "label": "reticular or vitelliform macular RPE changes"
+            },
+            {
+              "label": "macular edema caused by RPE pump failure"
+            }
+          ]
+        },
+        {
+          "label": "dideoxyinosine",
+          "children": [
+            {
+              "label": "nucleoside reverse transcriptase inhibitors (NRTIs)",
+              "children": [
+                {
+                  "label": "inhibits replication of HIV virus"
+                }
+              ]
+            },
+            {
+              "label": "mitochondrial toxicity",
+              "children": [
+                {
+                  "label": "damage to tissues with high oxygen requirements",
+                  "children": [
+                    {
+                      "label": "optic nerve"
+                    },
+                    {
+                      "label": "RPE"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "midperipheral concentric mottling and atrophy of RPE and choriocapillaris"
+            },
+            {
+              "label": "peripheral vision loss"
+            },
+            {
+              "label": "fundus autofluorescence"
+            }
+          ]
+        },
+        {
+          "label": "MEK inhibitors",
+          "children": [
+            {
+              "label": "chemotherapeutic agent",
+              "children": [
+                {
+                  "label": "treatment of metastatic cancers"
+                },
+                {
+                  "label": "condition similar to CSCR",
+                  "children": [
+                    {
+                      "label": "multifocal serous retinal detachments"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "sildenafil",
+          "children": [
+            {
+              "label": "serous macular detachment and central serous chorioretinopathy"
+            },
+            {
+              "label": "choroidal vascular dilation and choroidal congestion",
+              "children": [
+                {
+                  "label": "increased choroidal thickness on (EDI) SD-OCT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Corticosteroids",
+          "children": [
+            {
+              "label": "most common medications to be associated with the development of CSCR"
+            }
+          ]
+        },
+        {
+          "label": "alkyl nitrites (“poppers”)",
+          "children": [
+            {
+              "label": "inhaled to induce euphoria and relax smooth muscles,",
+              "children": [
+                {
+                  "label": "usually in preparation for sexual activity"
+                }
+              ]
+            },
+            {
+              "label": "toxic maculopathy",
+              "children": [
+                {
+                  "label": "rare"
+                },
+                {
+                  "label": "young patient"
+                },
+                {
+                  "label": "central scotoma or photopsia"
+                },
+                {
+                  "label": "yellow spot on the fovea"
+                },
+                {
+                  "label": "SD-OCT",
+                  "children": [
+                    {
+                      "label": "focal disruption of central inner segment ellipsoid band"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Systemic Drug-Induced Retinal Toxicity II.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 125,
+      "connector_rejected": 5,
+      "connector_edges": 90,
+      "connector_width": 0.643,
+      "text_labels": 71,
+      "tree_nodes": 71,
+      "component_roots": 2,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.72,
+      "root_font_size": 4.5,
+      "warnings": []
+    }
+  }
+}

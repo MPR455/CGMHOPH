@@ -1,0 +1,497 @@
+{
+  "label": "5.8.4. Diplopia (IV): Infranuclear Causes of Diplopia (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Third Nerve Palsy",
+      "children": [
+        {
+          "label": "complete third nerve palsy",
+          "children": [
+            {
+              "label": "complete ptosis"
+            },
+            {
+              "label": "eye positioned downward and outward"
+            },
+            {
+              "label": "unable to adduct, infraduct, or supraduct"
+            },
+            {
+              "label": "dilated pupil that responds poorly to light"
+            }
+          ]
+        },
+        {
+          "label": "partial third nerve palsy",
+          "children": [
+            {
+              "label": "more common"
+            },
+            {
+              "label": "variable limitation of upward, downward, or adducting movements; ptosis; or pupillary dysfunction"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "microvascular injury",
+              "children": [
+                {
+                  "label": "subarachnoid space or cavernous sinus",
+                  "children": [
+                    {
+                      "label": "most common cause of isolated unilateral third nerve palsy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "brain stem lesions",
+              "children": [
+                {
+                  "label": "e.g. microvascular infarct"
+                }
+              ]
+            },
+            {
+              "label": "Less common causes",
+              "children": [
+                {
+                  "label": "aneurysmal compression"
+                },
+                {
+                  "label": "tumor"
+                },
+                {
+                  "label": "inflammation (eg, sarcoidosis)"
+                },
+                {
+                  "label": "vasculitis"
+                },
+                {
+                  "label": "infection (eg, meningitis)"
+                },
+                {
+                  "label": "infiltration (eg, lymphoma, carcinoma)"
+                },
+                {
+                  "label": "trauma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "Intra-axial (fascicular)",
+          "children": [
+            {
+              "label": "lesion of the nerve distal to its nucleus but within the confines of the brainstem"
+            },
+            {
+              "label": "third cranial nerve",
+              "children": [
+                {
+                  "label": "4 syndromes"
+                }
+              ]
+            },
+            {
+              "label": "sixth cranial nerve",
+              "children": [
+                {
+                  "label": "Foville syndrome",
+                  "children": [
+                    {
+                      "label": "pons",
+                      "children": [
+                        {
+                          "label": "damage to",
+                          "children": [
+                            {
+                              "label": "sixth nerve fascicle",
+                              "children": [
+                                {
+                                  "label": "ipsilateral abduction palsy"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "seventh nerve fascicle",
+                              "children": [
+                                {
+                                  "label": "ipsilateral facial nerve palsy"
+                                },
+                                {
+                                  "label": "loss of taste over the anterior two-thirds of the tongue"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "tractus solitarius"
+                            },
+                            {
+                              "label": "descending tract of the trigeminal nerve",
+                              "children": [
+                                {
+                                  "label": "facial hypoesthesia"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Millard-Gubler syndrome",
+                  "children": [
+                    {
+                      "label": "ventral pons",
+                      "children": [
+                        {
+                          "label": "sixth nerve fascicle",
+                          "children": [
+                            {
+                              "label": "ipsilateral abduction palsy"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "seventh nerve fascicle",
+                          "children": [
+                            {
+                              "label": "ipsilateral facial nerve palsy"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "corticospinal tract",
+                          "children": [
+                            {
+                              "label": "contralateral hemiplegia"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fourth cranial nerve",
+              "children": [
+                {
+                  "label": "uncommon"
+                },
+                {
+                  "label": "pineal tumors",
+                  "children": [
+                    {
+                      "label": "compromise the proximal course of both fourth nerves by compressing the tectum of the midbrain"
+                    },
+                    {
+                      "label": "obstruct the Sylvian aqueduct, leading to elevated intracranial pressure and hydrocephalus"
+                    },
+                    {
+                      "label": "dorsal midbrain syndrome"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Subarachnoid",
+          "children": [
+            {
+              "label": "from the brainstem to the cavernous sinus",
+              "children": [
+                {
+                  "label": "nerves exit the dura"
+                }
+              ]
+            },
+            {
+              "label": "most ischemic cranial nerve palsies occur within this section"
+            },
+            {
+              "label": "ischemic cranial mononeuropathies",
+              "children": [
+                {
+                  "label": "occur in isolation"
+                },
+                {
+                  "label": "maximal deficit at presentation",
+                  "children": [
+                    {
+                      "label": "occasionally, progress over 7–10 days"
+                    }
+                  ]
+                },
+                {
+                  "label": "± pain",
+                  "children": [
+                    {
+                      "label": "may be quite severe"
+                    },
+                    {
+                      "label": "pain does not distinguish ischemia from more urgent causes"
+                    }
+                  ]
+                },
+                {
+                  "label": "ocular misalignment almost always improves",
+                  "children": [
+                    {
+                      "label": "diplopia usually resolves within 3 months"
+                    }
+                  ]
+                },
+                {
+                  "label": "warning signs prompting evaluation for another etiology",
+                  "children": [
+                    {
+                      "label": "progression of ocular misalignment beyond 2 weeks"
+                    },
+                    {
+                      "label": "failure to improve within 3 months"
+                    }
+                  ]
+                },
+                {
+                  "label": "diagnosis of ischemic ocular motor nerve palsy is one of exclusion"
+                },
+                {
+                  "label": "risk factors",
+                  "children": [
+                    {
+                      "label": "diabetes mellitus"
+                    },
+                    {
+                      "label": "hypertensive vascular disease,"
+                    },
+                    {
+                      "label": "elevated serum lipid"
+                    }
+                  ]
+                },
+                {
+                  "label": "differential diagnosis",
+                  "children": [
+                    {
+                      "label": "aneurysmal compression (posterior communicating artery)",
+                      "children": [
+                        {
+                          "label": "isolated cranial mononeuropathy of the oculomotor nerve"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "myasthenia gravis",
+                      "children": [
+                        {
+                          "label": "may mimic any pattern of painless, pupil- sparing extraocular motor dysfunction"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pupil-involving third nerve palsy",
+      "children": [
+        {
+          "label": "loss of parasympathetic input",
+          "children": [
+            {
+              "label": "mid-dilated pupil that responds poorly to light"
+            }
+          ]
+        },
+        {
+          "label": "variable dysfunction of the levator palpebrae or extraocular muscles"
+        },
+        {
+          "label": "uncommon < 20 years",
+          "children": [
+            {
+              "label": "as early as the first decade of life!"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "aneurysm at the junction of PCoA & ICA",
+              "children": [
+                {
+                  "label": "nontraumatic third nerve palsy with pupillary involvement must be assumed to be secondary to an aneurysm until proved otherwise",
+                  "children": [
+                    {
+                      "label": "emergent cerebrovascular imaging",
+                      "children": [
+                        {
+                          "label": "magnetic resonance angiography",
+                          "children": [
+                            {
+                              "label": "routine MRI acquired with the MRA is more likely to show nonaneurysmal lesions"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "computed tomography angiography",
+                          "children": [
+                            {
+                              "label": "faster"
+                            },
+                            {
+                              "label": "greater resolution"
+                            },
+                            {
+                              "label": "may show evidence of a subarachnoid hemorrhage"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "catheter angiography",
+                          "children": [
+                            {
+                              "label": "for diagnostic confirmation and definitive treatment"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "modern CTA and MRA can reliably detect aneurysms as small as 3 mm"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lumbar puncture",
+                      "children": [
+                        {
+                          "label": "evidence of a hemorrhage (xanthochromia of the spinal fluid)"
+                        },
+                        {
+                          "label": "to detect an inflammatory or neoplastic cause"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "pupillomotor fibers of the oculomotor nerve reside superficially in the medial aspect of the nerve",
+                  "children": [
+                    {
+                      "label": "adjacent to the PCoA"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "isolated pupillary involvement",
+          "children": [
+            {
+              "label": "normal eyelid and extraocular muscle function"
+            },
+            {
+              "label": "almost always benign",
+              "children": [
+                {
+                  "label": "tonic (Adie) pupil"
+                },
+                {
+                  "label": "pharmacologically dilated pupil"
+                },
+                {
+                  "label": "pupil that is mechanically damaged",
+                  "children": [
+                    {
+                      "label": "posterior synechiae"
+                    }
+                  ]
+                },
+                {
+                  "label": "exclude minor degrees of incomitant strabismus",
+                  "children": [
+                    {
+                      "label": "alternate cover or Maddox rod testing in all positions of gaze"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "not a form of third nerve palsy"
+            },
+            {
+              "label": "tentorial herniation"
+            }
+          ]
+        },
+        {
+          "label": "vasculopathic third nerve palsy may produce some efferent pupillary defect",
+          "children": [
+            {
+              "label": "generally mild",
+              "children": [
+                {
+                  "label": "≤ 20% of cases",
+                  "children": [
+                    {
+                      "label": "not a plausible explanation for isolated, fixed, and dilated pupil in the absence of altered mental status or other neurologic abnormalities"
+                    }
+                  ]
+                },
+                {
+                  "label": "≤1 mm anisocoria"
+                }
+              ]
+            },
+            {
+              "label": "pupillary dysfunction does not always indicate the presence of an aneurysm or other serious problem"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.8.4. Diplopia (IV) Infranuclear Causes of Diplopia (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 234,
+      "connector_rejected": 6,
+      "connector_edges": 159,
+      "connector_width": 0.82,
+      "text_labels": 122,
+      "tree_nodes": 122,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6795,
+      "root_font_size": 2.871,
+      "warnings": []
+    }
+  }
+}

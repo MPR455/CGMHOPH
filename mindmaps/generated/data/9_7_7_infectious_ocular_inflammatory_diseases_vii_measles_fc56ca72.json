@@ -1,0 +1,548 @@
+{
+  "label": "9.7.7. Infectious Ocular Inflammatory Diseases (VII): Measles SSPE",
+  "root": true,
+  "children": [
+    {
+      "label": "Similar to rubella and LCMV"
+    },
+    {
+      "label": "Measles (Rubeola)",
+      "children": [
+        {
+          "label": "single-stranded RNA virus",
+          "children": [
+            {
+              "label": "genus Morbillivirus",
+              "children": [
+                {
+                  "label": "Paramyxoviridae family"
+                }
+              ]
+            },
+            {
+              "label": "highly contagious",
+              "children": [
+                {
+                  "label": "transmission",
+                  "children": [
+                    {
+                      "label": "direct"
+                    },
+                    {
+                      "label": "aerosolization of nasopharyngeal secretions"
+                    },
+                    {
+                      "label": "transplacental"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "a leading cause of mortality worldwide among young children"
+            }
+          ]
+        },
+        {
+          "label": "ocular manifestations of congenital measles",
+          "children": [
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "optic nerve head drusen"
+            },
+            {
+              "label": "bilateral diffuse pigmentary retinopathy",
+              "children": [
+                {
+                  "label": "posterior pole and retinal periphery"
+                },
+                {
+                  "label": "normal or attenuated retinal vessels"
+                },
+                {
+                  "label": "retinal edema",
+                  "children": [
+                    {
+                      "label": "In contrast to acquired measles"
+                    }
+                  ]
+                },
+                {
+                  "label": "macular star"
+                },
+                {
+                  "label": "ERG and visual acuity are typically normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular manifestations of acquired measles",
+          "children": [
+            {
+              "label": "keratitis",
+              "children": [
+                {
+                  "label": "most common ocular manifestations",
+                  "children": [
+                    {
+                      "label": "both keratitis and conjunctivitis resolve without sequelae in the vast majority of cases in the United States",
+                      "children": [
+                        {
+                          "label": "similar to congenital rubella"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "postmeasles blindness, a consequence of keratitis, is a significant problem worldwide"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "papillary, nonpurulent conjunctivitis"
+            },
+            {
+              "label": "measles retinopathy",
+              "children": [
+                {
+                  "label": "severe vision loss",
+                  "children": [
+                    {
+                      "label": "more common in acquired than in congenital disease"
+                    },
+                    {
+                      "label": "in contrast to congenital measles and congenital & acquired rubella"
+                    }
+                  ]
+                },
+                {
+                  "label": "clear media",
+                  "children": [
+                    {
+                      "label": "6–12 days after the appearance of the characteristic exanthem"
+                    }
+                  ]
+                },
+                {
+                  "label": "diffuse retinal edema"
+                },
+                {
+                  "label": "macular star formation"
+                },
+                {
+                  "label": "attenuated arterioles",
+                  "children": [
+                    {
+                      "label": "in contrast to acquired rubella retinitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "scattered retinal hemorrhages"
+                },
+                {
+                  "label": "blurred disc margins"
+                },
+                {
+                  "label": "+- encephalitis"
+                },
+                {
+                  "label": "further sequelae may evolve",
+                  "children": [
+                    {
+                      "label": "arteriolar attenuation with or without perivascular sheathing"
+                    },
+                    {
+                      "label": "optic disc pallor"
+                    },
+                    {
+                      "label": "secondary pigmentary retinopathy with either a bone spicule or salt-and-pepper appearance"
+                    }
+                  ]
+                },
+                {
+                  "label": "ERG",
+                  "children": [
+                    {
+                      "label": "extinguished during the acute phase of measles retinopathy",
+                      "children": [
+                        {
+                          "label": "+- permanent visual field constriction"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "visual field testing may reveal",
+                  "children": [
+                    {
+                      "label": "severe constriction"
+                    },
+                    {
+                      "label": "ring scotomata"
+                    },
+                    {
+                      "label": "small peripheral islands of vision"
+                    }
+                  ]
+                },
+                {
+                  "label": "resolution of acquired measles retinopathy over weeks-months is generally associated with",
+                  "children": [
+                    {
+                      "label": "return of useful vision"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "congenital measles retinopathy",
+              "children": [
+                {
+                  "label": "TORCH syndrome"
+                },
+                {
+                  "label": "atypical retinitis pigmentosa"
+                },
+                {
+                  "label": "neuroretinitis"
+                }
+              ]
+            },
+            {
+              "label": "acquired measles retinopathy",
+              "children": [
+                {
+                  "label": "central serous chorioretinopathy"
+                },
+                {
+                  "label": "Vogt-Koyanagi-Harada (VKH) syndrome"
+                },
+                {
+                  "label": "retinitis pigmentosa"
+                },
+                {
+                  "label": "syphilis neuroretinitis"
+                },
+                {
+                  "label": "viral retinopathies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic tests",
+          "children": [
+            {
+              "label": "diagnosis of measles and its ocular sequelae is made clinically"
+            },
+            {
+              "label": "serologic testing",
+              "children": [
+                {
+                  "label": "complement fixation, ELISA, and immunofluorescent and hemagglutination inhibition assays"
+                }
+              ]
+            },
+            {
+              "label": "virus may be recovered from the nasopharynx, conjunctiva, lymphoid tissues, respiratory mucous membranes, urine, and blood",
+              "children": [
+                {
+                  "label": "for a few days before and several days after appearance of the rash"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "the disease is usually self-limiting"
+            },
+            {
+              "label": "supportive treatment"
+            },
+            {
+              "label": "prophylactic treatment with gamma globulin, 0.25 mL/kg, administered within 5 days of exposure",
+              "children": [
+                {
+                  "label": "pregnant women"
+                },
+                {
+                  "label": "children younger than age 1 year"
+                }
+              ]
+            },
+            {
+              "label": "ocular manifestations of measles are treated symptomatically",
+              "children": [
+                {
+                  "label": "keratitis or conjunctivitis",
+                  "children": [
+                    {
+                      "label": "immunocompromised individuals"
+                    },
+                    {
+                      "label": "topical antivirals or antibiotics"
+                    }
+                  ]
+                },
+                {
+                  "label": "acute measles retinopathy",
+                  "children": [
+                    {
+                      "label": "systemic corticosteroids should be considered"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "references"
+        }
+      ]
+    },
+    {
+      "label": "Subacute sclerosing panencephalitis (SSPE)",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "late complication of acquired measles",
+              "children": [
+                {
+                  "label": "unvaccinated children 6–8 years after the primary infection",
+                  "children": [
+                    {
+                      "label": "onset in late childhood or adolescence"
+                    }
+                  ]
+                },
+                {
+                  "label": "children infected with measles <1 year have 16 x greater risk than those infected ≥ 5 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "insidious appearance of",
+          "children": [
+            {
+              "label": "visual impairment"
+            },
+            {
+              "label": "behavioral disturbances"
+            },
+            {
+              "label": "memory impairment"
+            },
+            {
+              "label": "myoclonus"
+            },
+            {
+              "label": "spastic paresis"
+            },
+            {
+              "label": "dementia"
+            },
+            {
+              "label": "50%",
+              "children": [
+                {
+                  "label": "death within 1–3 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular findings",
+          "children": [
+            {
+              "label": "may precede the neurologic manifestations by several weeks to 2 years"
+            },
+            {
+              "label": "maculopathy",
+              "children": [
+                {
+                  "label": "36%"
+                },
+                {
+                  "label": "focal retinitis",
+                  "children": [
+                    {
+                      "label": "whitish retinal infiltrates"
+                    },
+                    {
+                      "label": "macular edema"
+                    },
+                    {
+                      "label": "serous macular detachment"
+                    },
+                    {
+                      "label": "small intraretinal hemorrhages"
+                    },
+                    {
+                      "label": "may progress within several days to involve the posterior pole and peripheral retina"
+                    }
+                  ]
+                },
+                {
+                  "label": "macular hole"
+                },
+                {
+                  "label": "macular pigment epithelial disturbances",
+                  "children": [
+                    {
+                      "label": "mottling and scarring of the RPE"
+                    }
+                  ]
+                },
+                {
+                  "label": "preretinal membranes"
+                }
+              ]
+            },
+            {
+              "label": "disc swelling and papilledema",
+              "children": [
+                {
+                  "label": "optic atrophy"
+                }
+              ]
+            },
+            {
+              "label": "drusen"
+            },
+            {
+              "label": "ptosis"
+            },
+            {
+              "label": "hemianopsia"
+            },
+            {
+              "label": "cortical blindness"
+            },
+            {
+              "label": "horizontal nystagmus",
+              "children": [
+                {
+                  "label": "little, if any, vitritis",
+                  "children": [
+                    {
+                      "label": "similar to CMV & histoplasmosis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic tests",
+          "children": [
+            {
+              "label": "diagnosis is on the basis of clinical manifestations"
+            },
+            {
+              "label": "characteristic, periodic EEG discharges"
+            },
+            {
+              "label": "raised IgG antibody titer against measles in the plasma and CSF"
+            },
+            {
+              "label": "histologic findings suggestive of panencephalitis on brain biopsy"
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "necrotizing viral retinitis caused by HSV, VZV, and CMV infection"
+            },
+            {
+              "label": "multiple sclerosis (MS)",
+              "children": [
+                {
+                  "label": "not a panencephalitis",
+                  "children": [
+                    {
+                      "label": "MRI shows focal periventricular white matter lesions"
+                    },
+                    {
+                      "label": "CME and retinal vasculitis are prominent features of MS"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "oral isoprinosine"
+            },
+            {
+              "label": "require lifelong therapy",
+              "children": [
+                {
+                  "label": "intraventricular interferon alpha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "return of ERG activity"
+    },
+    {
+      "label": "leukopenia",
+      "children": [
+        {
+          "label": "during the prodromal phase"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.7. Infectious Ocular Inflammatory Diseases (VII) - Measles SSPE.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 269,
+      "connector_rejected": 2,
+      "connector_edges": 190,
+      "connector_width": 0.905,
+      "text_labels": 141,
+      "tree_nodes": 141,
+      "component_roots": 4,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.7063,
+      "root_font_size": 3.169,
+      "warnings": []
+    }
+  }
+}

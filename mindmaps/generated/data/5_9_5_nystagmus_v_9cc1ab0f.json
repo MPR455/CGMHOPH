@@ -1,0 +1,543 @@
+{
+  "label": "5.9.5. Nystagmus (V)",
+  "root": true,
+  "children": [
+    {
+      "label": "Acquired Pendular Nystagmus",
+      "children": [
+        {
+          "label": "pendular, slow-phase eye movements",
+          "children": [
+            {
+              "label": "pendular nystagmus with both vertical and horizontal (and torsional) components",
+              "children": [
+                {
+                  "label": "oblique nystagmus",
+                  "children": [
+                    {
+                      "label": "if the components are in phase!"
+                    }
+                  ]
+                },
+                {
+                  "label": "circular or elliptical nystagmus",
+                  "children": [
+                    {
+                      "label": "if the components are out of phase!"
+                    }
+                  ]
+                },
+                {
+                  "label": "the much rarer congenital pendular nystagmus usually manifests with only horizontal movements"
+                }
+              ]
+            },
+            {
+              "label": "conjugate or disconjugate"
+            },
+            {
+              "label": "often dissociated"
+            }
+          ]
+        },
+        {
+          "label": "poor localizing value"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "multiple sclerosis",
+              "children": [
+                {
+                  "label": "± asymmetric or monocular",
+                  "children": [
+                    {
+                      "label": "most common etiology"
+                    },
+                    {
+                      "label": "nystagmus is typically larger in the eye with poorer vision"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "blindness secondary to optic nerve disease"
+            }
+          ]
+        },
+        {
+          "label": "Oculopalatal Myoclonus or Tremor",
+          "children": [
+            {
+              "label": "acquired pendular nystagmus + palatal myoclonus"
+            },
+            {
+              "label": "eye movements",
+              "children": [
+                {
+                  "label": "continuous and rhythmic"
+                },
+                {
+                  "label": "frequency ≈ 1 Hz"
+                },
+                {
+                  "label": "conjugate in the vertical plane"
+                },
+                {
+                  "label": "persist during sleep"
+                }
+              ]
+            },
+            {
+              "label": "± synchronous movements of the facial muscles, pharynx, tongue, larynx, diaphragm, trunk, and extremities"
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "lesion of Guillain-Mollaret triangle",
+                  "children": [
+                    {
+                      "label": "pathway from deep cerebellar nuclei through the superior cerebellar peduncle and the central tegmental tract to the contralateral inferior olive in the medulla"
+                    },
+                    {
+                      "label": "produces inferior olivary hypertrophy",
+                      "children": [
+                        {
+                          "label": "visualized with MRI as T2 hyperintensity within 1 or both inferior olives"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Saccadic Intrusions",
+      "children": [
+        {
+          "label": "Saccadic Intrusions With Normal Intersaccadic Intervals",
+          "children": [
+            {
+              "label": "Square-wave jerks",
+              "children": [
+                {
+                  "label": "normal intersaccadic interval (200 ms)"
+                },
+                {
+                  "label": "amplitude <2°"
+                },
+                {
+                  "label": "normal in older people"
+                }
+              ]
+            },
+            {
+              "label": "Macrosquare-wave jerks",
+              "children": [
+                {
+                  "label": "much less common"
+                },
+                {
+                  "label": "normal intersaccadic interval (70–150 ms)",
+                  "children": [
+                    {
+                      "label": "slightly higher frequency"
+                    }
+                  ]
+                },
+                {
+                  "label": "amplitude 5°–15°"
+                },
+                {
+                  "label": "pathogenesis",
+                  "children": [
+                    {
+                      "label": "lesions disrupting the fastigial nucleus of the cerebellum"
+                    },
+                    {
+                      "label": "lesions disrupting the superior colliculus"
+                    },
+                    {
+                      "label": "or their interconnecting fibers",
+                      "children": [
+                        {
+                          "label": "alteration of the omnipause neurons of the pons",
+                          "children": [
+                            {
+                              "label": "lowers the high threshold for initiation of saccadic eye movements during attempted fixation"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "always pathologic",
+                  "children": [
+                    {
+                      "label": "cerebellar disease"
+                    },
+                    {
+                      "label": "multiple sclerosis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Macrosaccadic oscillation",
+              "children": [
+                {
+                  "label": "oscillations extend equally to one side and then the other side of the fixation"
+                },
+                {
+                  "label": "pathogenesis",
+                  "children": [
+                    {
+                      "label": "hypermetria that produces repetitive inaccuracies in attempts to fixate on a target"
+                    }
+                  ]
+                },
+                {
+                  "label": "manifestation of cerebellar dysfunction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Saccadic Intrusions Without Normal Intersaccadic Intervals",
+          "children": [
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "Ocular flutter",
+                  "children": [
+                    {
+                      "label": "horizontal"
+                    },
+                    {
+                      "label": "small-amplitude"
+                    }
+                  ]
+                },
+                {
+                  "label": "Opsoclonus",
+                  "children": [
+                    {
+                      "label": "multidirectional",
+                      "children": [
+                        {
+                          "label": "very high frequency (10–15 Hz)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "larger amplitude"
+                    },
+                    {
+                      "label": "similarly high frequency"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "diagnosed with reasonable confidence through clinical examination alone"
+            },
+            {
+              "label": "a patient may have both ocular flutter and opsoclonus"
+            },
+            {
+              "label": "opsoclonus-myoclonus syndrome",
+              "children": [
+                {
+                  "label": "opsoclonus + myoclonus"
+                }
+              ]
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "dysfunction of the omnipause neurons of the pons (or connections with these cells)"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "paraneoplastic",
+                  "children": [
+                    {
+                      "label": "in children",
+                      "children": [
+                        {
+                          "label": "a paraneoplastic etiology must be excluded in patients with ocular flutter or opsoclonus"
+                        },
+                        {
+                          "label": "neuroblastoma (or other tumor of neural crest origin)",
+                          "children": [
+                            {
+                              "label": "IgG anti–neuronal nuclear antibody type 1 (ANNA-1, or anti-Hu)",
+                              "children": [
+                                {
+                                  "label": "antibodies directed against neuronal RNA"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "in adults",
+                      "children": [
+                        {
+                          "label": "cancer of the breast or ovaries",
+                          "children": [
+                            {
+                              "label": "IgG anti–neuronal nuclear antibody type 2 (ANNA-2, or anti-Ri)"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "small cell carcinoma of the lung"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "multiple sclerosis",
+                  "children": [
+                    {
+                      "label": "common cause of ocular flutter in young adults"
+                    }
+                  ]
+                },
+                {
+                  "label": "brainstem encephalitis"
+                },
+                {
+                  "label": "drug intoxication"
+                },
+                {
+                  "label": "environmental toxins"
+                },
+                {
+                  "label": "hyperosmolar coma"
+                },
+                {
+                  "label": "otherwise healthy infants",
+                  "children": [
+                    {
+                      "label": "transient"
+                    }
+                  ]
+                },
+                {
+                  "label": "without explanation in the absence of associated neurologic or systemic abnormalities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Voluntary Flutter (“Nystagmus”)",
+          "children": [
+            {
+              "label": "induced volitionally"
+            },
+            {
+              "label": "horizontal"
+            },
+            {
+              "label": "conjugate",
+              "children": [
+                {
+                  "label": "high-frequency"
+                }
+              ]
+            },
+            {
+              "label": "back-to-back saccades without an intersaccadic interval",
+              "children": [
+                {
+                  "label": "lack slow phases"
+                }
+              ]
+            },
+            {
+              "label": "associated with convergence"
+            },
+            {
+              "label": "rarely last longer than 10–12 seconds",
+              "children": [
+                {
+                  "label": "often with eyelid flutter and facial grimacing"
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "ocular flutter",
+                  "children": [
+                    {
+                      "label": "associated with other abnormal findings"
+                    },
+                    {
+                      "label": "no convergence or eyelid flutter"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "See-Saw Nystagmus",
+      "children": [
+        {
+          "label": "disconjugate",
+          "children": [
+            {
+              "label": "1 eye elevates and intorts"
+            },
+            {
+              "label": "the other eye depresses and extorts",
+              "children": [
+                {
+                  "label": "amplitude may be larger in the poorer-seeing eye"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pendular"
+        },
+        {
+          "label": "slow in frequency"
+        },
+        {
+          "label": "similar in amplitude between eyes"
+        },
+        {
+          "label": "± associated vision loss"
+        },
+        {
+          "label": "± bitemporal hemianopia"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "large tumors of parasellar region that impinge on third ventricle",
+              "children": [
+                {
+                  "label": "craniopharyngioma"
+                },
+                {
+                  "label": "other parasellar–diencephalic tumors"
+                },
+                {
+                  "label": "most common cause"
+                }
+              ]
+            },
+            {
+              "label": "congenital"
+            },
+            {
+              "label": "congenital achiasma",
+              "children": [
+                {
+                  "label": "rare"
+                }
+              ]
+            },
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "retinitis pigmentosa"
+            },
+            {
+              "label": "albinism"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "difference between the 2 eyes in the amplitude of the ocular oscillation",
+      "children": [
+        {
+          "label": "optic nerve hypoplasia"
+        }
+      ]
+    },
+    {
+      "label": "Dissociated Nystagmus",
+      "children": [
+        {
+          "label": "lesion of MLF",
+          "children": [
+            {
+              "label": "most common form of this disorder"
+            },
+            {
+              "label": "internuclear ophthalmoplegia",
+              "children": [
+                {
+                  "label": "slowing of adduction of the eye ipsilateral to an MLF lesion"
+                },
+                {
+                  "label": "nystagmus of the abducting eye",
+                  "children": [
+                    {
+                      "label": "caused by increased neural pulsing in an attempt to overcome the adduction weakness"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.9.5. Nystagmus (V).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 245,
+      "connector_rejected": 0,
+      "connector_edges": 167,
+      "connector_width": 0.832,
+      "text_labels": 136,
+      "tree_nodes": 136,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6816,
+      "root_font_size": 2.911,
+      "warnings": []
+    }
+  }
+}

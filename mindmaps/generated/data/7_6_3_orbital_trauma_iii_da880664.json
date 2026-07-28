@@ -1,0 +1,342 @@
+{
+  "label": "7.6.3. Orbital trauma (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Intraorbital Foreign Bodies",
+      "children": [
+        {
+          "label": "imaging",
+          "children": [
+            {
+              "label": "plain-film radiographs",
+              "children": [
+                {
+                  "label": "if radiopaque"
+                }
+              ]
+            },
+            {
+              "label": "CT",
+              "children": [
+                {
+                  "label": "wooden foreign bodies may be missed on CT!",
+                  "children": [
+                    {
+                      "label": "seen better on MRI"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "MRI",
+              "children": [
+                {
+                  "label": "should be avoided if there is a possibility that the foreign object is ferromagnetic"
+                },
+                {
+                  "label": "can be safely performed with a BB in the orbit"
+                }
+              ]
+            },
+            {
+              "label": "orbital ultrasonography",
+              "children": [
+                {
+                  "label": "for foreign bodies positioned more anteriorly"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "it is sometimes possible to locate the foreign body by surgically following the fistulous tract posteriorly"
+            },
+            {
+              "label": "culturing the wound (or the foreign body)"
+            },
+            {
+              "label": "antibiotics"
+            },
+            {
+              "label": "indications for foreign body removal",
+              "children": [
+                {
+                  "label": "vegetable matter"
+                },
+                {
+                  "label": "easily accessible in the anterior orbit"
+                }
+              ]
+            },
+            {
+              "label": "indications for observation",
+              "children": [
+                {
+                  "label": "inert",
+                  "children": [
+                    {
+                      "label": "BBS are usually best left in place"
+                    }
+                  ]
+                },
+                {
+                  "label": "smooth edges"
+                },
+                {
+                  "label": "located in the posterior orbit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Traumatic Vision Loss With Clear Media",
+      "children": [
+        {
+          "label": "true vision loss without evidence of globe injury",
+          "children": [
+            {
+              "label": "suggests traumatic dysfunction of the optic nerve",
+              "children": [
+                {
+                  "label": "traumatic optic neuropathy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "mechanisms",
+          "children": [
+            {
+              "label": "direct injury to the optic nerve from a penetrating wound"
+            },
+            {
+              "label": "disruption of the blood supply to the optic nerve due to a compartment syndrome",
+              "children": [
+                {
+                  "label": "posttraumatic orbital edema or hemorrhage causes orbital pressure to increase above arterial perfusion pressure"
+                }
+              ]
+            },
+            {
+              "label": "indirect injury caused by force from a frontal blow transmitted to the optic nerve in the orbital apex and optic canal",
+              "children": [
+                {
+                  "label": "usually have a history of",
+                  "children": [
+                    {
+                      "label": "blunt trauma to the frontal region"
+                    },
+                    {
+                      "label": "rapid deceleration of the cranium"
+                    },
+                    {
+                      "label": "loss of consciousness associated with frontal head trauma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "emergency decompression of the orbit",
+          "children": [
+            {
+              "label": "tight orbit, increased IOP, and decreased vision with afferent pupillary defect"
+            },
+            {
+              "label": "disinsertion of the eyelids from the lateral canthus",
+              "children": [
+                {
+                  "label": "lateral canthotomy and cantholysis"
+                }
+              ]
+            },
+            {
+              "label": "lateral canthotomy alone does not sufficiently decrease orbital pressure",
+              "children": [
+                {
+                  "label": "inferior cantholysis and sometimes superior cantholysis are also required"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "thin-section CT scans of the orbital apex and anterior clinoid process"
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "all patients with decreased vision following periorbital trauma should be urgently examined for evidence of direct globe injury",
+              "children": [
+                {
+                  "label": "Is an afferent pupillary defect (APD) present?",
+                  "children": [
+                    {
+                      "label": "APD with intact globe strongly suggests traumatic optic neuropathy"
+                    },
+                    {
+                      "label": "APD detection may be difficult if the patient has received narcotics that cause pupillary constriction"
+                    }
+                  ]
+                },
+                {
+                  "label": "Is there a “tight” orbit?",
+                  "children": [
+                    {
+                      "label": "retrobulbar hemorrhage or edema",
+                      "children": [
+                        {
+                          "label": "proptosis"
+                        },
+                        {
+                          "label": "ptosis"
+                        },
+                        {
+                          "label": "limitation of extraocular motility"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "portable applanation tonometer",
+                      "children": [
+                        {
+                          "label": "increased IOP reflects underlying increased orbital pressure"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "fundus examination may reveal a central retinal artery occlusion"
+                    },
+                    {
+                      "label": "vision loss is more often caused by occlusion of the posterior ciliary arteries",
+                      "children": [
+                        {
+                          "label": "have a lower perfusion pressure"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "high-dose corticosteroids",
+              "children": [
+                {
+                  "label": "may not provide any additional visual benefit over observation alone"
+                }
+              ]
+            },
+            {
+              "label": "surgical decompression of the optic canal",
+              "children": [
+                {
+                  "label": "decompression of the optic nerve provides no additional benefit over observation"
+                },
+                {
+                  "label": "could potentially be harmful in patients with traumatic optic neuropathy & concomitant head trauma"
+                }
+              ]
+            },
+            {
+              "label": "observation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Orbital Hemorrhage",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "surgery"
+            },
+            {
+              "label": "spontaneous",
+              "children": [
+                {
+                  "label": "vascular tumor of the orbit"
+                },
+                {
+                  "label": "blood dyscrasias"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "surgical management",
+          "children": [
+            {
+              "label": "urgent lateral canthotomy and cantholysis"
+            },
+            {
+              "label": "orbital decompression"
+            },
+            {
+              "label": "surgical drainage"
+            },
+            {
+              "label": "seldom necessary unless visual function is compromised by",
+              "children": [
+                {
+                  "label": "compression of the optic nerve"
+                },
+                {
+                  "label": "increased orbital pressure that impedes arterial perfusion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "hematic cyst",
+          "children": [
+            {
+              "label": "following accidental trauma"
+            },
+            {
+              "label": "usually beneath the periosteum"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.6.3. Orbital trauma (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 79,
+      "connector_rejected": 0,
+      "connector_edges": 79,
+      "connector_width": 1.047,
+      "text_labels": 83,
+      "tree_nodes": 83,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 1.0,
+      "root_font_size": 4.45,
+      "warnings": []
+    }
+  }
+}

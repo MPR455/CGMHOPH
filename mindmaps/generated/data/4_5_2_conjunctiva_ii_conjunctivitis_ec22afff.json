@@ -1,0 +1,567 @@
+{
+  "label": "4.5.2. Conjunctiva (II): Conjunctivitis",
+  "root": true,
+  "children": [
+    {
+      "label": "Non-Infectious Conjunctivitis",
+      "children": [
+        {
+          "label": "Types",
+          "children": [
+            {
+              "label": "Most cases of papillary conjunctivitis"
+            },
+            {
+              "label": "Some granulomatous conjunctivitis"
+            },
+            {
+              "label": "Toxic follicular conjunctivitis"
+            }
+          ]
+        },
+        {
+          "label": "Ocular cicatricial pemphigoid",
+          "children": [
+            {
+              "label": "Autoimmune"
+            },
+            {
+              "label": "Other mucous membranes"
+            },
+            {
+              "label": "± Skin involvement"
+            },
+            {
+              "label": "Conjunctival biopsy",
+              "children": [
+                {
+                  "label": "Submit half in formalin",
+                  "children": [
+                    {
+                      "label": "Routine histology",
+                      "children": [
+                        {
+                          "label": "Epithelial bullae"
+                        },
+                        {
+                          "label": "Subepithelial band of chronic inflammatory cells (plasma cells)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Submit half in Michel medium or saline",
+                  "children": [
+                    {
+                      "label": "Immunofluorescence analysis",
+                      "children": [
+                        {
+                          "label": "Epithelial basement membrane"
+                        },
+                        {
+                          "label": "Immunoglobulins",
+                          "children": [
+                            {
+                              "label": "IgG"
+                            },
+                            {
+                              "label": "IgM"
+                            },
+                            {
+                              "label": "IgA"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Complement",
+                          "children": [
+                            {
+                              "label": "C3"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Sensitivity = 50%",
+                          "children": [
+                            {
+                              "label": "Negative result does not rule out OCP!"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Inflammations",
+      "children": [
+        {
+          "label": "Papillary Conjunctivitis",
+          "children": [
+            {
+              "label": "Closely packed flat-topped projections",
+              "children": [
+                {
+                  "label": "Red on surface, pale at base"
+                },
+                {
+                  "label": "Upper tarsal conjunctiva",
+                  "children": [
+                    {
+                      "label": "Giant papillary conjunctivitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "Histology",
+                  "children": [
+                    {
+                      "label": "Epitheilum"
+                    },
+                    {
+                      "label": "Central vascular core"
+                    },
+                    {
+                      "label": "Stroma",
+                      "children": [
+                        {
+                          "label": "Eosinophils"
+                        },
+                        {
+                          "label": "Lymphocytes"
+                        },
+                        {
+                          "label": "Plasma cells"
+                        },
+                        {
+                          "label": "Mast cells"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Etiology",
+              "children": [
+                {
+                  "label": "Allergic immune response",
+                  "children": [
+                    {
+                      "label": "Vernal conjunctivitis",
+                      "children": [
+                        {
+                          "label": "Limbal papillae",
+                          "children": [
+                            {
+                              "label": "Horner-Trantas dots"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Atopic keratoconjunctivitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "Foreign body",
+                  "children": [
+                    {
+                      "label": "Contact lens"
+                    },
+                    {
+                      "label": "Prosthesis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follicular conjunctivitis",
+          "children": [
+            {
+              "label": "Small dome-shaped nodules",
+              "children": [
+                {
+                  "label": "Pale on surface, red at base"
+                },
+                {
+                  "label": "Lower forniceal and palpebral conjunctiva"
+                },
+                {
+                  "label": "Histology",
+                  "children": [
+                    {
+                      "label": "Lymphoid follicle",
+                      "children": [
+                        {
+                          "label": "Germinal center",
+                          "children": [
+                            {
+                              "label": "Immature proliferating lymphocytes"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Corona",
+                          "children": [
+                            {
+                              "label": "Mature lymphocytes and plasma cells"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Etiology",
+              "children": [
+                {
+                  "label": "Viruses"
+                },
+                {
+                  "label": "Atypical bacteria"
+                },
+                {
+                  "label": "Toxins",
+                  "children": [
+                    {
+                      "label": "Brimonidine"
+                    },
+                    {
+                      "label": "Ophthalmic decongestants"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Granulomatous conjunctivitis",
+          "children": [
+            {
+              "label": "Etiology",
+              "children": [
+                {
+                  "label": "Infectious",
+                  "children": [
+                    {
+                      "label": "Parinaud oculoglandular syndrome",
+                      "children": [
+                        {
+                          "label": "Granulomatous conjunctivitis + preauricular lymphadenopathy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Bacteria",
+                      "children": [
+                        {
+                          "label": "Bartonella henselae (cat-scratch disease)"
+                        },
+                        {
+                          "label": "Francisella tularensis (tularemia)"
+                        },
+                        {
+                          "label": "Mycobacteria (tuberculosis)"
+                        },
+                        {
+                          "label": "Treponemes (syphylis)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Diagnosis",
+                      "children": [
+                        {
+                          "label": "Serology"
+                        },
+                        {
+                          "label": "Culture"
+                        },
+                        {
+                          "label": "PCR"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Histology",
+                      "children": [
+                        {
+                          "label": "Central necrosis",
+                          "children": [
+                            {
+                              "label": "\"Caseation\""
+                            },
+                            {
+                              "label": "Infectious granulomatous conjunctivitis"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Bacteria"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Non-infectious",
+                  "children": [
+                    {
+                      "label": "Sarcoidosis",
+                      "children": [
+                        {
+                          "label": "Clinical",
+                          "children": [
+                            {
+                              "label": "Small tan nodules",
+                              "children": [
+                                {
+                                  "label": "Forniceal conjunctiva"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "Non-injected asymptomatic eye"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Histology",
+                          "children": [
+                            {
+                              "label": "Noncaseating granulomatous tubercles",
+                              "children": [
+                                {
+                                  "label": "No central necrosis"
+                                },
+                                {
+                                  "label": "Aggregates of epithelioid histiocytes"
+                                },
+                                {
+                                  "label": "+- Multinucleated giant cells"
+                                },
+                                {
+                                  "label": "Cuff of lymphocytes and plasma cells"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Foreign body granuloma",
+                      "children": [
+                        {
+                          "label": "Multinucleated giant cells"
+                        },
+                        {
+                          "label": "Polarized light"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Infectious Conjunctivitis",
+      "children": [
+        {
+          "label": "Most common pathogens",
+          "children": [
+            {
+              "label": "Children",
+              "children": [
+                {
+                  "label": "H. influenzae"
+                },
+                {
+                  "label": "S. pneumoniae"
+                }
+              ]
+            },
+            {
+              "label": "Adults",
+              "children": [
+                {
+                  "label": "Viral",
+                  "children": [
+                    {
+                      "label": "Adenovirus",
+                      "children": [
+                        {
+                          "label": "Corneal subepithelial infiltrates"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Herpes viruses",
+                      "children": [
+                        {
+                          "label": "Corneal ulcer"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pathogens",
+          "children": [
+            {
+              "label": "Chlamydiae",
+              "children": [
+                {
+                  "label": "Obligate intracellular pathogens"
+                },
+                {
+                  "label": "Follicular conjunctivitis"
+                },
+                {
+                  "label": "C. trachomatis",
+                  "children": [
+                    {
+                      "label": "Serotypes A, B, C",
+                      "children": [
+                        {
+                          "label": "Trachoma"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Serotypes D-K",
+                      "children": [
+                        {
+                          "label": "Adult & neonatal inclusion conjunctivitis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Diagnosis",
+                  "children": [
+                    {
+                      "label": "Exfoliative cytology"
+                    },
+                    {
+                      "label": "Tissue biopsy"
+                    },
+                    {
+                      "label": "Intracellular organisms"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Fungi",
+              "children": [
+                {
+                  "label": "Typically involve the cornea"
+                }
+              ]
+            },
+            {
+              "label": "Microsporidia",
+              "children": [
+                {
+                  "label": "Obligate intracellular parasites"
+                },
+                {
+                  "label": "Keratoconjunctivitis"
+                },
+                {
+                  "label": "AIDS"
+                }
+              ]
+            },
+            {
+              "label": "Rhinosporidium seeberi",
+              "children": [
+                {
+                  "label": "Protozoon"
+                },
+                {
+                  "label": "India, Southeast Asia"
+                },
+                {
+                  "label": "Exposure to stagnant water"
+                },
+                {
+                  "label": "Isolated conjunctivitis",
+                  "children": [
+                    {
+                      "label": "Palpebral/forniceal conjunctivitis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Acanthamoeba",
+              "children": [
+                {
+                  "label": "Protozoon"
+                },
+                {
+                  "label": "Keratoconjunctivitis"
+                },
+                {
+                  "label": "Isolated chronic unilateral conjunctivitis"
+                },
+                {
+                  "label": "Exfoliative cytology"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.5.2. Conjunctiva (II) - Conjunctivitis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 288,
+      "connector_rejected": 11,
+      "connector_edges": 186,
+      "connector_width": 1.335,
+      "text_labels": 140,
+      "tree_nodes": 140,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6458,
+      "root_font_size": 4.45,
+      "warnings": []
+    }
+  }
+}

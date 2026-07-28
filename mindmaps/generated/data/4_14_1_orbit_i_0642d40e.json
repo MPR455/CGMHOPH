@@ -1,0 +1,620 @@
+{
+  "label": "4.14.1. Orbit (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Nonspecific orbital inflammation (idiopathic orbital inflammation)",
+      "children": [
+        {
+          "label": "demographics",
+          "children": [
+            {
+              "label": "5% of orbital lesions"
+            },
+            {
+              "label": "adults and children"
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "abrupt onset"
+            },
+            {
+              "label": "pain"
+            },
+            {
+              "label": "diffuse"
+            },
+            {
+              "label": "compartmentalized",
+              "children": [
+                {
+                  "label": "extraocular muscles",
+                  "children": [
+                    {
+                      "label": "orbital myositis"
+                    }
+                  ]
+                },
+                {
+                  "label": "lacrimal gland",
+                  "children": [
+                    {
+                      "label": "dacryoadenitis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "may simulate a neoplasm",
+              "children": [
+                {
+                  "label": "\"orbital pseudotumor\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "early",
+              "children": [
+                {
+                  "label": "polymorphous inflammatory response",
+                  "children": [
+                    {
+                      "label": "polyclonal"
+                    },
+                    {
+                      "label": "perivascular"
+                    },
+                    {
+                      "label": "infiltrates muscle",
+                      "children": [
+                        {
+                          "label": "involves muscle tendons!"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "infiltrates fat",
+                      "children": [
+                        {
+                          "label": "fat necrosis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "CD20 and CD25 receptors"
+                    },
+                    {
+                      "label": "IgG4-positive plasmacytic infiltrate",
+                      "children": [
+                        {
+                          "label": "sclerosing variant of fibroinflammatory disease"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "late",
+              "children": [
+                {
+                  "label": "fibrosis",
+                  "children": [
+                    {
+                      "label": "may encase extraocular muscles and optic nerve",
+                      "children": [
+                        {
+                          "label": "fibrosing/sclerosing orbititis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "interspersed lymphoid follicles with germinal centers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Topography",
+      "children": [
+        {
+          "label": "7 bones",
+          "children": [
+            {
+              "label": "frontal"
+            },
+            {
+              "label": "zygomatic"
+            },
+            {
+              "label": "palatine"
+            },
+            {
+              "label": "lacrimal"
+            },
+            {
+              "label": "sphenoid"
+            },
+            {
+              "label": "ethmoid"
+            },
+            {
+              "label": "maxillary"
+            },
+            {
+              "label": "roof composed of",
+              "children": [
+                {
+                  "label": "orbital plate of the frontal bone"
+                },
+                {
+                  "label": "lesser wing of the sphenoid bone"
+                }
+              ]
+            },
+            {
+              "label": "lateral wall composed of",
+              "children": [
+                {
+                  "label": "zygomatic bone"
+                },
+                {
+                  "label": "maxillary bone",
+                  "children": [
+                    {
+                      "label": "greater wing of the sphenoid bone",
+                      "children": [
+                        {
+                          "label": "separated from the lesser wing by the superior orbital fissure"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "floor composed of",
+              "children": [
+                {
+                  "label": "palatine bone"
+                },
+                {
+                  "label": "zygomatic bone"
+                }
+              ]
+            },
+            {
+              "label": "medial wall composed of",
+              "children": [
+                {
+                  "label": "orbital plate of the ethmoid bone"
+                },
+                {
+                  "label": "lacrimal bone",
+                  "children": [
+                    {
+                      "label": "only the lacrimal bone exists wholly within the orbital confines"
+                    }
+                  ]
+                },
+                {
+                  "label": "frontal process of the maxillary bone"
+                },
+                {
+                  "label": "lesser wing of the sphenoid bone",
+                  "children": [
+                    {
+                      "label": "also part of orbital roof"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "30 ml"
+        },
+        {
+          "label": "proptosis vs. displacement"
+        },
+        {
+          "label": "lacrimal gland",
+          "children": [
+            {
+              "label": "acini",
+              "children": [
+                {
+                  "label": "divided into 2 lobes by aponeurosis of levator palpebrae superioris",
+                  "children": [
+                    {
+                      "label": "orbital"
+                    },
+                    {
+                      "label": "palpebral"
+                    }
+                  ]
+                },
+                {
+                  "label": "low cuboidal epithelium"
+                }
+              ]
+            },
+            {
+              "label": "ducts",
+              "children": [
+                {
+                  "label": "low cuboidal epithelium"
+                },
+                {
+                  "label": "low flat myoepithelial cells"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "mast cells",
+      "children": [
+        {
+          "label": "generally found on B-cells",
+          "children": [
+            {
+              "label": "attaches & activates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congential anomalies",
+      "children": [
+        {
+          "label": "Congenital cysts of surface epithelium",
+          "children": [
+            {
+              "label": "Dermoid cyst",
+              "children": [
+                {
+                  "label": "most common"
+                },
+                {
+                  "label": "from embryonic epithelial nests"
+                },
+                {
+                  "label": "manifests in childhood"
+                },
+                {
+                  "label": "orbital mass",
+                  "children": [
+                    {
+                      "label": "superotemporal orbit"
+                    },
+                    {
+                      "label": "cyst rupture --> granulomatous inflammation"
+                    },
+                    {
+                      "label": "protrusion through frontozygomatic or frontomaxillary sutures",
+                      "children": [
+                        {
+                          "label": "dumbbell shape"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "capsule"
+                    },
+                    {
+                      "label": "wall",
+                      "children": [
+                        {
+                          "label": "sebaceous glands"
+                        },
+                        {
+                          "label": "hair follicles"
+                        },
+                        {
+                          "label": "sweat glands"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lined by keratinized stratified squamous epithelium"
+                    },
+                    {
+                      "label": "contains",
+                      "children": [
+                        {
+                          "label": "keratin"
+                        },
+                        {
+                          "label": "hair"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Simple epithelial (epidermoid) cyst",
+              "children": [
+                {
+                  "label": "no adnexal structures"
+                },
+                {
+                  "label": "lined by",
+                  "children": [
+                    {
+                      "label": "respiratory epithelium"
+                    },
+                    {
+                      "label": "conjunctival epithelium"
+                    },
+                    {
+                      "label": "apocrine epithelium"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Thyroid eye disease",
+      "children": [
+        {
+          "label": "most common cause of unilateral or bilateral proptosis in adults"
+        },
+        {
+          "label": "terminology",
+          "children": [
+            {
+              "label": "Graves disease"
+            },
+            {
+              "label": "thyroid ophthalmopathy"
+            },
+            {
+              "label": "thyroid-associated orbitopathy"
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "inflammation of orbital connective tissue",
+              "children": [
+                {
+                  "label": "lymphocytes",
+                  "children": [
+                    {
+                      "label": "T-cell-bound CD154",
+                      "children": [
+                        {
+                          "label": "express CD40 receptors",
+                          "children": [
+                            {
+                              "label": "upregulate fibroblast inflammatory genes",
+                              "children": [
+                                {
+                                  "label": "IL-6"
+                                },
+                                {
+                                  "label": "IL-8"
+                                },
+                                {
+                                  "label": "PGE2",
+                                  "children": [
+                                    {
+                                      "label": "increased synthesis of hyaluronan & glycosaminoglycans"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "plasma cells"
+                },
+                {
+                  "label": "fibroblasts",
+                  "children": [
+                    {
+                      "label": "express TSH-R",
+                      "children": [
+                        {
+                          "label": "higher numbers in early disease",
+                          "children": [
+                            {
+                              "label": "decreases with disease duration"
+                            },
+                            {
+                              "label": "correlates with serum TSH-R antibody levels"
+                            },
+                            {
+                              "label": "up-regulates TSH-R mRNA"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "express IGF-I receptor",
+                      "children": [
+                        {
+                          "label": "activated by circulating IgG",
+                          "children": [
+                            {
+                              "label": "secrete",
+                              "children": [
+                                {
+                                  "label": "glycosaminoglycans",
+                                  "children": [
+                                    {
+                                      "label": "promotes adipocyte differentiation/ adipogenesis"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "label": "cytokines"
+                                },
+                                {
+                                  "label": "chemoattractants"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "insulin-like growth factor"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "inflammation and fibrosis of extraocular muscles",
+              "children": [
+                {
+                  "label": "firm white muscles"
+                },
+                {
+                  "label": "TED does not involve muscle tendons!",
+                  "children": [
+                    {
+                      "label": "fusiform enlargement"
+                    }
+                  ]
+                },
+                {
+                  "label": "inferior & medial rectus muscles"
+                }
+              ]
+            },
+            {
+              "label": "adipogenesis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Amyloid",
+      "children": [
+        {
+          "label": "primary systemic amyloidosis"
+        },
+        {
+          "label": "can involve extraocular muscles & nerves",
+          "children": [
+            {
+              "label": "ophthalmoplegia"
+            },
+            {
+              "label": "ptosis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Orbital inflammatory diseases",
+      "children": [
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "idiopathic"
+            },
+            {
+              "label": "secondary",
+              "children": [
+                {
+                  "label": "systemic inflammatory disease"
+                },
+                {
+                  "label": "foreign body"
+                },
+                {
+                  "label": "infections"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "congenital mass lesions"
+            },
+            {
+              "label": "neoplastic diseases",
+              "children": [
+                {
+                  "label": "lymphoma"
+                },
+                {
+                  "label": "rhabdomyoscarcoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.14.1. Orbit (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 300,
+      "connector_rejected": 7,
+      "connector_edges": 200,
+      "connector_width": 1.208,
+      "text_labels": 155,
+      "tree_nodes": 155,
+      "component_roots": 7,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6667,
+      "root_font_size": 4.025,
+      "warnings": []
+    }
+  }
+}

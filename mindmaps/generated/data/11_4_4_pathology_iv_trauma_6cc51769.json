@@ -1,0 +1,490 @@
+{
+  "label": "11.4.4. Pathology (IV): Trauma",
+  "root": true,
+  "children": [
+    {
+      "label": "Chemical Injuries",
+      "children": [
+        {
+          "label": "alkali penetrate the eye readily",
+          "children": [
+            {
+              "label": "increase in aqueous pH"
+            },
+            {
+              "label": "decrease in aqueous glucose and ascorbate"
+            },
+            {
+              "label": "often result in cataract",
+              "children": [
+                {
+                  "label": "acutely or as a delayed effect"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "acids penetrate the eye less easily than alkali",
+          "children": [
+            {
+              "label": "less likely to result in cataract"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Electrical Injury",
+      "children": [
+        {
+          "label": "protein coagulation",
+          "children": [
+            {
+              "label": "cataract formation"
+            }
+          ]
+        },
+        {
+          "label": "more likely when current involves the patient’s head"
+        },
+        {
+          "label": "lens vacuoles",
+          "children": [
+            {
+              "label": "followed by"
+            },
+            {
+              "label": "linear opacities in the anterior subcapsular cortex"
+            }
+          ]
+        },
+        {
+          "label": "may regress, remain stationary, or mature to complete cataract"
+        }
+      ]
+    },
+    {
+      "label": "Contusion",
+      "children": [
+        {
+          "label": "Vossius ring",
+          "children": [
+            {
+              "label": "ring of pigment from the pupillary ruff on the anterior lens surface"
+            },
+            {
+              "label": "visually insignificant"
+            },
+            {
+              "label": "gradually resolves"
+            },
+            {
+              "label": "indicator of prior blunt trauma"
+            }
+          ]
+        },
+        {
+          "label": "Traumatic cataract",
+          "children": [
+            {
+              "label": "acute or late"
+            },
+            {
+              "label": "portion of lens or entire lens"
+            },
+            {
+              "label": "initial manifestation",
+              "children": [
+                {
+                  "label": "stellate or rosette-shaped opacification (rosette cataract)",
+                  "children": [
+                    {
+                      "label": "axial"
+                    },
+                    {
+                      "label": "posterior lens capsule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "+- lens dislocation"
+            },
+            {
+              "label": "mild contusion cataracts can improve spontaneously in rare cases"
+            }
+          ]
+        },
+        {
+          "label": "Dislocation and subluxation",
+          "children": [
+            {
+              "label": "rapid equatorial expansion",
+              "children": [
+                {
+                  "label": "zonular fiber disruption"
+                }
+              ]
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "fluctuation of vision"
+                },
+                {
+                  "label": "impaired accommodation"
+                },
+                {
+                  "label": "monocular diplopia"
+                },
+                {
+                  "label": "high astigmatism"
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "dislocates in any direction",
+                  "children": [
+                    {
+                      "label": "anteriorly into the anterior chamber"
+                    },
+                    {
+                      "label": "posteriorly into the vitreous cavity"
+                    }
+                  ]
+                },
+                {
+                  "label": "iridodonesis"
+                },
+                {
+                  "label": "phacodonesis"
+                },
+                {
+                  "label": "retroillumination",
+                  "children": [
+                    {
+                      "label": "zonular disruption"
+                    }
+                  ]
+                },
+                {
+                  "label": "+- cataract formation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Metallosis",
+      "children": [
+        {
+          "label": "Siderosis bulbi",
+          "children": [
+            {
+              "label": "iron intraocular foreign bodies",
+              "children": [
+                {
+                  "label": "deposition of iron molecules in",
+                  "children": [
+                    {
+                      "label": "trabecular meshwork"
+                    },
+                    {
+                      "label": "lens epithelium",
+                      "children": [
+                        {
+                          "label": "lens involvement occurs more rapidly if the foreign body is embedded close to the lens"
+                        },
+                        {
+                          "label": "lens discoloration",
+                          "children": [
+                            {
+                              "label": "at first, yellowish tinge"
+                            },
+                            {
+                              "label": "later, rusty brown discoloration"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "complete cortical cataract"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "iris"
+                    },
+                    {
+                      "label": "retina",
+                      "children": [
+                        {
+                          "label": "retinal dysfunction",
+                          "children": [
+                            {
+                              "label": "iron deposits in lens epithelium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Chalcosis",
+          "children": [
+            {
+              "label": "copper intraocular foreign bodies",
+              "children": [
+                {
+                  "label": "copper deposition in",
+                  "children": [
+                    {
+                      "label": "Descemet membrane"
+                    },
+                    {
+                      "label": "anterior lens capsule"
+                    },
+                    {
+                      "label": "other intraocular basement membranes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "“sunflower” cataract",
+              "children": [
+                {
+                  "label": "petal-shaped yellow or brown pigment in lens capsule",
+                  "children": [
+                    {
+                      "label": "radiates from anterior axial pole to equator"
+                    }
+                  ]
+                },
+                {
+                  "label": "usually causes no significant loss of vision"
+                }
+              ]
+            },
+            {
+              "label": "pure copper (>90%) can cause severe inflammatory reaction and intraocular necrosis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Radiation",
+      "children": [
+        {
+          "label": "Ionizing radiation",
+          "children": [
+            {
+              "label": "lens is extremely sensitive to ionizing radiation",
+              "children": [
+                {
+                  "label": "≥2 Gy x-ray in one fraction"
+                }
+              ]
+            },
+            {
+              "label": "period of latency",
+              "children": [
+                {
+                  "label": "≤20 years between exposure and clinically apparent cataract"
+                },
+                {
+                  "label": "related to",
+                  "children": [
+                    {
+                      "label": "dose of radiation"
+                    },
+                    {
+                      "label": "patient’s age",
+                      "children": [
+                        {
+                          "label": "younger patients are more susceptible"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "first clinical signs",
+              "children": [
+                {
+                  "label": "punctate opacities within the posterior capsule"
+                },
+                {
+                  "label": "feathery anterior subcapsular opacities",
+                  "children": [
+                    {
+                      "label": "radiate toward the equator"
+                    }
+                  ]
+                },
+                {
+                  "label": "may progress to complete lens opacification"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Infrared radiation (glassblowers’ cataract)",
+          "children": [
+            {
+              "label": "infrared radiation + intense heat"
+            },
+            {
+              "label": "outer layers of the anterior lens capsule peel off",
+              "children": [
+                {
+                  "label": "true exfoliation of the lens capsule"
+                },
+                {
+                  "label": "exfoliated outer lamella tends to scroll up on itself"
+                }
+              ]
+            },
+            {
+              "label": "+- cortical cataract"
+            }
+          ]
+        },
+        {
+          "label": "Ultraviolet radiation",
+          "children": [
+            {
+              "label": "lens is susceptible to damage from ultraviolet (UV) radiation"
+            },
+            {
+              "label": "long-term exposure to sunlight --> increased risk of cortical cataracts",
+              "children": [
+                {
+                  "label": "only 10% of risk of cortical cataract in temperate climates is sunlight-related",
+                  "children": [
+                    {
+                      "label": "avoidable risk!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinicians should encourage their patients to avoid excessive sunlight exposure",
+              "children": [
+                {
+                  "label": "prescription corrective lenses & nonprescription sunglasses",
+                  "children": [
+                    {
+                      "label": "decrease UV transmission by >80%"
+                    }
+                  ]
+                },
+                {
+                  "label": "wearing a hat with a brim",
+                  "children": [
+                    {
+                      "label": "decreases ocular sun exposure by 30%–50%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lenses sold in the United States must conform to the American National Standards Institute (ANSI) requirements aimed at reducing UV transmission"
+            }
+          ]
+        },
+        {
+          "label": "Microwave radiation",
+          "children": [
+            {
+              "label": "causes cataract in lab animals"
+            },
+            {
+              "label": "human case reports/epidemiologic studies are more controversial"
+            },
+            {
+              "label": "anterior/posterior subcapsular opacities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Perforating and Penetrating Injury",
+      "children": [
+        {
+          "label": "opacification of cortex at site of rupture",
+          "children": [
+            {
+              "label": "progressing rapidly to complete opacification"
+            }
+          ]
+        },
+        {
+          "label": "a small perforating injury of lens capsule may heal",
+          "children": [
+            {
+              "label": "stationary focal cortical cataract"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Intralenticular Foreign Bodies",
+      "children": [
+        {
+          "label": "may cause cataract formation"
+        },
+        {
+          "label": "may be retained within the lens without significant complication if",
+          "children": [
+            {
+              "label": "foreign body is not ferric or cupric"
+            },
+            {
+              "label": "anterior lens capsule seals"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.4.4. Pathology (IV) - Trauma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 118,
+      "connector_rejected": 5,
+      "connector_edges": 111,
+      "connector_width": 0.477,
+      "text_labels": 121,
+      "tree_nodes": 121,
+      "component_roots": 7,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.9407,
+      "root_font_size": 4.53,
+      "warnings": []
+    }
+  }
+}

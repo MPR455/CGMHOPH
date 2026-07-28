@@ -1,0 +1,813 @@
+{
+  "label": "8.10.4. Corneal Dystrophies (IV): Non-TGFBI Stromal Corneal Dystrophies",
+  "root": true,
+  "children": [
+    {
+      "label": "Macular corneal dystrophy (MCD)",
+      "children": [
+        {
+          "label": "autosomal recessive",
+          "children": [
+            {
+              "label": "also gelatinous drop-like CD & CHED 2"
+            },
+            {
+              "label": "16q22",
+              "children": [
+                {
+                  "label": "carbohydrate sulfotransferase 6 (CHST6) gene"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "glycosaminoglycans (GAGs; acid mucopolysaccharide)",
+              "children": [
+                {
+                  "label": "stain",
+                  "children": [
+                    {
+                      "label": "Alcian blue"
+                    },
+                    {
+                      "label": "colloidal iron",
+                      "children": [
+                        {
+                          "label": "not in lysosomal vacuoles, as seen in systemic mucopolysaccharidoses"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "accumulate in the endoplasmic reticulum",
+                  "children": [
+                    {
+                      "label": "Granular>Lattice>Macular"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "least common of the 3 classic stromal dystrophies"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "corneal cloudiness begins between ages of 3 and 9",
+              "children": [
+                {
+                  "label": "earliest age of presentation",
+                  "children": [
+                    {
+                      "label": "Macular<Lattice<Granular"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "focal, gray-white, superficial stromal opacities",
+              "children": [
+                {
+                  "label": "progress to involve full stromal thickness and extend to the corneal periphery"
+                },
+                {
+                  "label": "indefinite edges"
+                },
+                {
+                  "label": "cornea guttae",
+                  "children": [
+                    {
+                      "label": "stroma between the opacities is diffusely cloudy"
+                    }
+                  ]
+                },
+                {
+                  "label": "± central corneal thinning and hypoesthesia"
+                }
+              ]
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "decrease in vision",
+                  "children": [
+                    {
+                      "label": "between 10-30 years"
+                    }
+                  ]
+                },
+                {
+                  "label": "± epithelial erosions"
+                }
+              ]
+            },
+            {
+              "label": "3 variants",
+              "children": [
+                {
+                  "label": "type I macular dystrophy",
+                  "children": [
+                    {
+                      "label": "most prevalent form"
+                    },
+                    {
+                      "label": "lack antigenic keratan sulfate (AgKS) in their cornea, serum, and cartilage"
+                    },
+                    {
+                      "label": "normal synthesis of dermatan sulfate– proteoglycan"
+                    }
+                  ]
+                },
+                {
+                  "label": "type IA macular dystrophy",
+                  "children": [
+                    {
+                      "label": "keratocytes manifest AgKS reactivity"
+                    },
+                    {
+                      "label": "no AgKS in extracellular material"
+                    },
+                    {
+                      "label": "no AgKS in serum"
+                    }
+                  ]
+                },
+                {
+                  "label": "type II macular dystrophy",
+                  "children": [
+                    {
+                      "label": "synthesize a normal ratio of keratan sulfate and dermatan sulfate–proteoglycans"
+                    },
+                    {
+                      "label": "total synthesis is 30% below normal"
+                    },
+                    {
+                      "label": "dermatan sulfate–proteoglycan chains are 40% shorter than normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ELISA measures sulfated keratan sulfate"
+            }
+          ]
+        },
+        {
+          "label": "differences with other corneal dystrophies",
+          "children": [
+            {
+              "label": "autosomal recessive inheritance"
+            },
+            {
+              "label": "involves the entire corneal stroma"
+            },
+            {
+              "label": "involves corneal periphery"
+            },
+            {
+              "label": "may involve corneal endothelium"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "treat recurrent erosions"
+            },
+            {
+              "label": "photophobia",
+              "children": [
+                {
+                  "label": "tinted contact lenses"
+                }
+              ]
+            },
+            {
+              "label": "symptomatic anterior macular dystrophy",
+              "children": [
+                {
+                  "label": "PTK",
+                  "children": [
+                    {
+                      "label": "risk of recurrence: Reis-Buckler>lattice>granular>macular"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "definitive treatment",
+              "children": [
+                {
+                  "label": "PK",
+                  "children": [
+                    {
+                      "label": "recurrences may be seen"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pre-Descemet corneal dystrophy (PDCD)",
+      "children": [
+        {
+          "label": "no definite pattern of inheritance",
+          "children": [
+            {
+              "label": "no identified gene"
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "large keratocytes in posterior stroma",
+              "children": [
+                {
+                  "label": "contain vacuoles and intracytoplasmic inclusions",
+                  "children": [
+                    {
+                      "label": "lipid-like material"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "electron microscopy",
+          "children": [
+            {
+              "label": "membrane-bound intracellular vacuoles containing electron-dense material"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "onset is usually after age 30",
+              "children": [
+                {
+                  "label": "reported in children as young as 3 years"
+                }
+              ]
+            },
+            {
+              "label": "focal, fine, gray opacities",
+              "children": [
+                {
+                  "label": "deep stroma anterior to Descemet membrane",
+                  "children": [
+                    {
+                      "label": "unlike diffuse, gray-white, sheetlike opacity of PACD"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "normal vision"
+            }
+          ]
+        },
+        {
+          "label": "similar opacities have been described in",
+          "children": [
+            {
+              "label": "pseudoxanthoma elasticum"
+            },
+            {
+              "label": "X-linked and recessive ichthyosis"
+            },
+            {
+              "label": "keratoconus"
+            },
+            {
+              "label": "PPCD"
+            },
+            {
+              "label": "EBMD"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "none is indicated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Posterior amorphous corneal dystrophy (PACD)",
+      "children": [
+        {
+          "label": "autosomal dominant",
+          "children": [
+            {
+              "label": "no identified gene"
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "irregular stromal architecture anterior to the Descemet membrane"
+            },
+            {
+              "label": "focal attenuation of endothelial cells"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "presents in first decade of life"
+            },
+            {
+              "label": "diffuse, gray-white, sheetlike opacity of the cornea",
+              "children": [
+                {
+                  "label": "usually posteriorly"
+                }
+              ]
+            },
+            {
+              "label": "flat cornea (<41 D)",
+              "children": [
+                {
+                  "label": "associated hyperopia"
+                }
+              ]
+            },
+            {
+              "label": "thin cornea (as low as 380 μm)"
+            },
+            {
+              "label": "focal endothelial abnormalities"
+            },
+            {
+              "label": "prominent Schwalbe line"
+            },
+            {
+              "label": "fine iris processes"
+            },
+            {
+              "label": "pupillary remnant"
+            },
+            {
+              "label": "iridocorneal adhesions"
+            },
+            {
+              "label": "corectopia"
+            },
+            {
+              "label": "pseudopolycoria",
+              "children": [
+                {
+                  "label": "unlike PPCD"
+                }
+              ]
+            },
+            {
+              "label": "no associated glaucoma"
+            },
+            {
+              "label": "vision is only mildly affected",
+              "children": [
+                {
+                  "label": "slowly progressive or nonprogressive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "usually no treatment required"
+            }
+          ]
+        },
+        {
+          "label": "references"
+        }
+      ]
+    },
+    {
+      "label": "Schnyder corneal dystrophy (SCD)",
+      "children": [
+        {
+          "label": "autosomal dominant",
+          "children": [
+            {
+              "label": "1p36",
+              "children": [
+                {
+                  "label": "UbiA prenyltransferase domain-containing protein 1 (UBIAD1) gene"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "unesterified and esterified cholesterol and phospholipids"
+            },
+            {
+              "label": "Oil red O stain"
+            },
+            {
+              "label": "normal process of embedding tissue in paraffin dissolves cholesterol and other fatty substances"
+            },
+            {
+              "label": "electron microscopy",
+              "children": [
+                {
+                  "label": "lipid and dissolved cholesterol in epithelium, Bowman layer, and throughout stroma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "decreased vision",
+                  "children": [
+                    {
+                      "label": "disproportionately reduces photopic vision",
+                      "children": [
+                        {
+                          "label": "central corneal opacification",
+                          "children": [
+                            {
+                              "label": "<23 years"
+                            },
+                            {
+                              "label": "can affect the entire corneal stromal thickness"
+                            },
+                            {
+                              "label": "dense corneal arcus lipoides",
+                              "children": [
+                                {
+                                  "label": "± subepithelial crystals",
+                                  "children": [
+                                    {
+                                      "label": "50%"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "label": "3rd decade"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "glare"
+                }
+              ]
+            },
+            {
+              "label": "apparent as early as the first year of life",
+              "children": [
+                {
+                  "label": "diagnosis is usually made by the second or third decade",
+                  "children": [
+                    {
+                      "label": "similar to macular corneal dystrophy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "slowly progressive changes on the basis of age",
+              "children": [
+                {
+                  "label": "midperipheral corneal opacification",
+                  "children": [
+                    {
+                      "label": "affects entire corneal stromal thickness"
+                    },
+                    {
+                      "label": "4th decade"
+                    }
+                  ]
+                },
+                {
+                  "label": "decreased corneal sensation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "corneal transplantation",
+              "children": [
+                {
+                  "label": "needed in most patients >50 years"
+                },
+                {
+                  "label": "can recur after PK"
+                }
+              ]
+            },
+            {
+              "label": "PTK",
+              "children": [
+                {
+                  "label": "to treat decreased vision from subepithelial crystal"
+                }
+              ]
+            },
+            {
+              "label": "fasting lipid profile",
+              "children": [
+                {
+                  "label": "most patients have elevated serum cholesterol levels",
+                  "children": [
+                    {
+                      "label": "management of abnormal serum lipids does not affect the progression of corneal dystrophy"
+                    }
+                  ]
+                },
+                {
+                  "label": "unaffected family members may also have an abnormal lipid profile"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "references"
+        }
+      ]
+    },
+    {
+      "label": "Fleck corneal dystrophy (FCD)",
+      "children": [
+        {
+          "label": "autosomal dominant",
+          "children": [
+            {
+              "label": "2q35",
+              "children": [
+                {
+                  "label": "phosphatidylinositol-3-phosphate/ phosphatidylinositol 5-kinase type III (PIP5K3) gene"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "affected keratocytes are vacuolated and contain 2 abnormal substances",
+              "children": [
+                {
+                  "label": "glycosaminoglycan",
+                  "children": [
+                    {
+                      "label": "Alcian blue"
+                    },
+                    {
+                      "label": "colloidal iron"
+                    }
+                  ]
+                },
+                {
+                  "label": "lipids",
+                  "children": [
+                    {
+                      "label": "Sudan black B"
+                    },
+                    {
+                      "label": "oil red O"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "discrete, flat, gray-white, dandruff-like opacities throughout stroma to its periphery"
+            },
+            {
+              "label": "asymmetric or unilateral",
+              "children": [
+                {
+                  "label": "epithelium, Bowman layer, Descemet membrane, and endothelium are not involved"
+                }
+              ]
+            },
+            {
+              "label": "symptoms are minimal",
+              "children": [
+                {
+                  "label": "vision is usually not reduced"
+                }
+              ]
+            },
+            {
+              "label": "decreased corneal sensation"
+            }
+          ]
+        },
+        {
+          "label": "associations",
+          "children": [
+            {
+              "label": "limbal dermoid"
+            },
+            {
+              "label": "keratoconus"
+            },
+            {
+              "label": "central cloudy dystrophy"
+            },
+            {
+              "label": "punctate cortical lens changes"
+            },
+            {
+              "label": "pseudoxanthoma elasticum"
+            },
+            {
+              "label": "atopy"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "none indicated"
+            }
+          ]
+        },
+        {
+          "label": "references"
+        }
+      ]
+    },
+    {
+      "label": "nonprogressive"
+    },
+    {
+      "label": "Congenital stromal corneal dystrophy (CSCD)",
+      "children": [
+        {
+          "label": "autosomal dominant",
+          "children": [
+            {
+              "label": "12q21.33",
+              "children": [
+                {
+                  "label": "decorin (DCN) gene"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "stromal lamellae are separated from each other in a regular manner",
+              "children": [
+                {
+                  "label": "sometimes with areas of amorphous deposition"
+                }
+              ]
+            },
+            {
+              "label": "electron microscopy",
+              "children": [
+                {
+                  "label": "collagen fibril diameter is about half the normal size"
+                },
+                {
+                  "label": "keratocytes and endothelium are normal"
+                },
+                {
+                  "label": "epithelial cells are normal"
+                },
+                {
+                  "label": "± absence of anterior banded zone of Descemet membrane"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "congenital diffuse, bilateral corneal clouding"
+            },
+            {
+              "label": "flakelike, whitish opacities is found throughout the stroma"
+            },
+            {
+              "label": "corneas are thickened"
+            },
+            {
+              "label": "nonprogressive or slowly progressive"
+            },
+            {
+              "label": "moderate to severe vision loss"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "PK",
+              "children": [
+                {
+                  "label": "in advanced cases"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "references"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.10.4. Corneal Dystrophies (IV) - Non-TGFBI Stromal Corneal Dystrophies.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 357,
+      "connector_rejected": 69,
+      "connector_edges": 226,
+      "connector_width": 1.029,
+      "text_labels": 204,
+      "tree_nodes": 204,
+      "component_roots": 7,
+      "spatially_recovered_labels": 7,
+      "connector_match_ratio": 0.6331,
+      "root_font_size": 2.917,
+      "warnings": []
+    }
+  }
+}

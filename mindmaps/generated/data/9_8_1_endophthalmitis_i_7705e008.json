@@ -1,0 +1,696 @@
+{
+  "label": "9.8.1. Endophthalmitis (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "General",
+      "children": [
+        {
+          "label": "definition",
+          "children": [
+            {
+              "label": "\"Endophthalmitis\"",
+              "children": [
+                {
+                  "label": "intraocular inflammation involving both the posterior and anterior chambers attributable to bacterial or fungal infection"
+                }
+              ]
+            },
+            {
+              "label": "“Sterile endophthalmitis”",
+              "children": [
+                {
+                  "label": "infection is suspected but culture results are negative"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "± retinal or choroidal involvement"
+        },
+        {
+          "label": "+- concomitant infective scleritis or keratitis"
+        }
+      ]
+    },
+    {
+      "label": "gram-positive pleomorphic rod"
+    },
+    {
+      "label": "acute onset"
+    },
+    {
+      "label": "Endogenous Bacterial Endophthalmitis",
+      "children": [
+        {
+          "label": "uncommon",
+          "children": [
+            {
+              "label": "<10% of all forms of endophthalmitis"
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "extraocular focus in 90% of cases",
+              "children": [
+                {
+                  "label": "pneumonia"
+                },
+                {
+                  "label": "urinary tract infection"
+                },
+                {
+                  "label": "bacterial meningitis"
+                },
+                {
+                  "label": "liver abscess"
+                },
+                {
+                  "label": "osteomyelitis"
+                },
+                {
+                  "label": "sinusitis"
+                },
+                {
+                  "label": "hematogenous dissemination of bacterial organisms"
+                }
+              ]
+            },
+            {
+              "label": "predisposing conditions",
+              "children": [
+                {
+                  "label": "compromised immune system"
+                },
+                {
+                  "label": "diabetes mellitus"
+                },
+                {
+                  "label": "systemic malignancy"
+                },
+                {
+                  "label": "sickle cell anemia"
+                },
+                {
+                  "label": "systemic lupus erythematosus"
+                },
+                {
+                  "label": "HIV infection"
+                },
+                {
+                  "label": "extensive gastrointestinal surgery"
+                },
+                {
+                  "label": "endoscopy"
+                },
+                {
+                  "label": "dental procedures"
+                },
+                {
+                  "label": "systemic immunomodulatory therapy and chemotherapy"
+                },
+                {
+                  "label": "also consider endogenous endophthalmitis in newborns and infants, especially <6 months"
+                }
+              ]
+            },
+            {
+              "label": "bacteria",
+              "children": [
+                {
+                  "label": "gram-positive organisms",
+                  "children": [
+                    {
+                      "label": "Streptococcus species (endocarditis)"
+                    },
+                    {
+                      "label": "Staphylococcus aureus (cutaneous infections)"
+                    }
+                  ]
+                },
+                {
+                  "label": "gram-negative organisms",
+                  "children": [
+                    {
+                      "label": "Neisseria meningitidis",
+                      "children": [
+                        {
+                          "label": "Bacillus species (from intravenous drug use)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Haemophilus influenzae"
+                    },
+                    {
+                      "label": "enteric organisms",
+                      "children": [
+                        {
+                          "label": "Escherichia coli"
+                        },
+                        {
+                          "label": "Klebsiella",
+                          "children": [
+                            {
+                              "label": "in Asia, Klebsiella in liver abscesses is the most common cause"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "systemic infection",
+              "children": [
+                {
+                  "label": "fever >101.5°F"
+                },
+                {
+                  "label": "elevated peripheral leukocyte count"
+                },
+                {
+                  "label": "positive bacterial cultures from extraocular sites (blood, urine, sputum)"
+                },
+                {
+                  "label": "patients are often ill and being treated for a primary underlying disease"
+                },
+                {
+                  "label": "extraocular infection may be very difficult to diagnose"
+                }
+              ]
+            },
+            {
+              "label": "ocular presentation",
+              "children": [
+                {
+                  "label": "sometimes both eyes are affected simultaneously"
+                },
+                {
+                  "label": "symptoms",
+                  "children": [
+                    {
+                      "label": "pain"
+                    },
+                    {
+                      "label": "photophobia"
+                    },
+                    {
+                      "label": "blurred vision"
+                    }
+                  ]
+                },
+                {
+                  "label": "periorbital and eyelid edema"
+                },
+                {
+                  "label": "fibrin in the anterior chamber"
+                },
+                {
+                  "label": "± hypopyon"
+                },
+                {
+                  "label": "vitreous inflammation"
+                },
+                {
+                  "label": "small microabscesses in the retina/subretinal space"
+                },
+                {
+                  "label": "white-centered retinal hemorrhages (Roth spots)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "vitreous and aqueous samples",
+              "children": [
+                {
+                  "label": "culture"
+                },
+                {
+                  "label": "Gram and Giemsa stains"
+                },
+                {
+                  "label": "PCR evaluation",
+                  "children": [
+                    {
+                      "label": "pan-bacterial or pan-fungal primers"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "blood and other body fluid cultures",
+          "children": [
+            {
+              "label": "should be used along with ocular culture"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "intravitreal antibiotics",
+              "children": [
+                {
+                  "label": "administered at the time of vitrectomy"
+                },
+                {
+                  "label": "if fungal infection is a possibility, treatment of both fungal and bacterial etiologies is indicated at the time of vitrectomy"
+                }
+              ]
+            },
+            {
+              "label": "± intravenous antibiotic",
+              "children": [
+                {
+                  "label": "sometimes required for several weeks, depending on the organism"
+                }
+              ]
+            },
+            {
+              "label": "recurrent or persistent intraocular infection may require numerous surgeries and repeat injections of intravitreal antibiotics"
+            }
+          ]
+        },
+        {
+          "label": "complications",
+          "children": [
+            {
+              "label": "sepsis"
+            },
+            {
+              "label": "death"
+            },
+            {
+              "label": "cataract development"
+            },
+            {
+              "label": "retinal detachment"
+            },
+            {
+              "label": "suprachoroidal hemorrhage"
+            },
+            {
+              "label": "vitreous hemorrhage"
+            },
+            {
+              "label": "hypotony"
+            },
+            {
+              "label": "phthisis bulbi"
+            }
+          ]
+        },
+        {
+          "label": "prognosis",
+          "children": [
+            {
+              "label": "offending organism"
+            },
+            {
+              "label": "systemic status of the patient."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chronic Postoperative Endophthalmitis",
+      "children": [
+        {
+          "label": "introduction",
+          "children": [
+            {
+              "label": "multiple recurrences of chronic indolent inflammation in an eye that had previously undergone surgery",
+              "children": [
+                {
+                  "label": "as early as 1–2 weeks after surgery"
+                }
+              ]
+            },
+            {
+              "label": "incidence",
+              "children": [
+                {
+                  "label": "acute postoperative endophthalmitis",
+                  "children": [
+                    {
+                      "label": "often weeks to months (or years) after surgery"
+                    },
+                    {
+                      "label": "0.07% - 0.1%"
+                    }
+                  ]
+                },
+                {
+                  "label": "chronic postoperative endophthalmitis",
+                  "children": [
+                    {
+                      "label": "not established"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "bacterial",
+              "children": [
+                {
+                  "label": "Propionibacterium acnes",
+                  "children": [
+                    {
+                      "label": "anaerobic",
+                      "children": [
+                        {
+                          "label": "may sequester between IOL and posterior capsule"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "commonly found on eyelid skin or conjunctiva"
+                    }
+                  ]
+                },
+                {
+                  "label": "Staphylococcus epidermidis"
+                }
+              ]
+            },
+            {
+              "label": "fungal",
+              "children": [
+                {
+                  "label": "Candida parapsilosis",
+                  "children": [
+                    {
+                      "label": "Corynebacterium species"
+                    }
+                  ]
+                },
+                {
+                  "label": "Aspergillus flavus"
+                },
+                {
+                  "label": "Torulopsis candida"
+                },
+                {
+                  "label": "Paecilomyces lilacinus"
+                },
+                {
+                  "label": "Verticillium species"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "chronic postoperative bacterial endophthalmitis",
+              "children": [
+                {
+                  "label": "slight blurring of vision",
+                  "children": [
+                    {
+                      "label": "begins 3–4 months after surgery"
+                    }
+                  ]
+                },
+                {
+                  "label": "persistent granulomatous inflammation"
+                },
+                {
+                  "label": "whitish plaques between the posterior capsule and the IOL implant"
+                },
+                {
+                  "label": "may respond initially to topical or regional corticosteroids"
+                },
+                {
+                  "label": "severe untreated cases",
+                  "children": [
+                    {
+                      "label": "± vitreous inflammation"
+                    },
+                    {
+                      "label": "± corneal decompensation"
+                    },
+                    {
+                      "label": "± iris neovascularization"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "chronic postoperative fungal endophthalmitis",
+              "children": [
+                {
+                  "label": "most occur after cataract surgery",
+                  "children": [
+                    {
+                      "label": "Nd:YAG capsulotomy can liberate the organism into the vitreous cavity",
+                      "children": [
+                        {
+                          "label": "more severe vitreous inflammation"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "delayed-onset, indolent, progressive inflammation",
+                  "children": [
+                    {
+                      "label": "not responsive to corticosteroids",
+                      "children": [
+                        {
+                          "label": "in contrast to chronic fungal endophthalmitis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical signs helpful in differentiating fungal from bacterial endophthalmitis",
+                  "children": [
+                    {
+                      "label": "corneal infiltrate or edema"
+                    },
+                    {
+                      "label": "mass in the iris or ciliary body"
+                    },
+                    {
+                      "label": "necrotizing scleritis"
+                    },
+                    {
+                      "label": "vitreous “snowballs”",
+                      "children": [
+                        {
+                          "label": "“string-of-pearls” appearance"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "intraocular inflammation worsening after topical, periocular, or intraocular steroid",
+                      "children": [
+                        {
+                          "label": "also seen in sarcoidosis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "aerobic, anaerobic, and fungal cultures",
+              "children": [
+                {
+                  "label": "aqueous"
+                },
+                {
+                  "label": "capsular plaques"
+                },
+                {
+                  "label": "undiluted vitreous"
+                }
+              ]
+            },
+            {
+              "label": "Gram and Giemsa stains of undiluted specimens",
+              "children": [
+                {
+                  "label": "capsular plaques",
+                  "children": [
+                    {
+                      "label": "cultures must be retained by the laboratory for ≥2 weeks"
+                    }
+                  ]
+                },
+                {
+                  "label": "vitreous snowballs"
+                }
+              ]
+            },
+            {
+              "label": "PCR evaluation",
+              "children": [
+                {
+                  "label": "aqueous"
+                },
+                {
+                  "label": "vitreous"
+                },
+                {
+                  "label": "capsular plaques"
+                },
+                {
+                  "label": "pan-fungal and pan-bacterial primers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "retained cortical material/retained intravitreal lens fragments"
+            },
+            {
+              "label": "iris chafing from IOL malposition"
+            },
+            {
+              "label": "uveitis-glaucoma-hyphema syndrome"
+            },
+            {
+              "label": "intraocular lymphoma"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "chronic postoperative bacterial endophthalmitis",
+              "children": [
+                {
+                  "label": "pars plana vitrectomy + injection of intravitreal and endocapsular vancomycin",
+                  "children": [
+                    {
+                      "label": "may not be successful especially if equatorial lens capsule sequestrae of bacteria are present"
+                    }
+                  ]
+                },
+                {
+                  "label": "treatment for resistant cases",
+                  "children": [
+                    {
+                      "label": "IOL explantation",
+                      "children": [
+                        {
+                          "label": "decision to explant the IOL must be based in part on",
+                          "children": [
+                            {
+                              "label": "clinical course"
+                            },
+                            {
+                              "label": "severity of the intraocular inflammation"
+                            },
+                            {
+                              "label": "level of vision loss"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "complete capsulectomy"
+                    },
+                    {
+                      "label": "intravitreal vancomycin injection"
+                    }
+                  ]
+                },
+                {
+                  "label": "multiple surgeries may be necessary"
+                }
+              ]
+            },
+            {
+              "label": "chronic postoperative fungal endophthalmitis",
+              "children": [
+                {
+                  "label": "more difficult to treat"
+                },
+                {
+                  "label": "intravitreal antifungal drugs (amphotericin & voriconazole)"
+                },
+                {
+                  "label": "systemic antifungal drugs",
+                  "children": [
+                    {
+                      "label": "in the most severe cases"
+                    }
+                  ]
+                },
+                {
+                  "label": "multiple surgeries may be necessary"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.8.1. Endophthalmitis (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 355,
+      "connector_rejected": 1,
+      "connector_edges": 251,
+      "connector_width": 0.768,
+      "text_labels": 181,
+      "tree_nodes": 181,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.707,
+      "root_font_size": 2.88,
+      "warnings": []
+    }
+  }
+}

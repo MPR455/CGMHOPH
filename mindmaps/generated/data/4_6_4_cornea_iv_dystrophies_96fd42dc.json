@@ -1,0 +1,465 @@
+{
+  "label": "4.6.4. Cornea (IV): Dystrophies",
+  "root": true,
+  "children": [
+    {
+      "label": "Epithelial dystrophy",
+      "children": [
+        {
+          "label": "primary, generally inherited, bilateral disorders"
+        },
+        {
+          "label": "other names",
+          "children": [
+            {
+              "label": "map-dot-fingerprint dystrophy"
+            },
+            {
+              "label": "Cogan microcystic dystrophy"
+            },
+            {
+              "label": "anterior basement membrane dystrophy"
+            }
+          ]
+        },
+        {
+          "label": "demographics",
+          "children": [
+            {
+              "label": "most common corneal dystrophy"
+            },
+            {
+              "label": "sporadic",
+              "children": [
+                {
+                  "label": "sometimes autosomal dominant"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "thick epithelial basement membrane",
+              "children": [
+                {
+                  "label": "extends into the epithelium",
+                  "children": [
+                    {
+                      "label": "map/fingerprint lines"
+                    }
+                  ]
+                },
+                {
+                  "label": "encircles foci of epithelial cells",
+                  "children": [
+                    {
+                      "label": "epithelial debris within cystoid spaces",
+                      "children": [
+                        {
+                          "label": "dots"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "recurrent corneal erosion"
+        }
+      ]
+    },
+    {
+      "label": "Stromal dystrophies",
+      "children": [
+        {
+          "label": "inherited"
+        },
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "decreased vision"
+            },
+            {
+              "label": "recurrent corneal erosion"
+            }
+          ]
+        },
+        {
+          "label": "recur in corneal grafts"
+        },
+        {
+          "label": "Macular dystrophy",
+          "children": [
+            {
+              "label": "autosomal recessive",
+              "children": [
+                {
+                  "label": "carbohydrate sulfotransferase 6 gene",
+                  "children": [
+                    {
+                      "label": "chromosome 16",
+                      "children": [
+                        {
+                          "label": "16q22"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "defect in sulfation of keratan sulfate"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "poorly defined focal opacities"
+                },
+                {
+                  "label": "hazy intervening stroma"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "mucopolysaccharide depostion",
+                  "children": [
+                    {
+                      "label": "interlamellar spaces"
+                    },
+                    {
+                      "label": "keratocytes"
+                    },
+                    {
+                      "label": "stains",
+                      "children": [
+                        {
+                          "label": "alcian blue",
+                          "children": [
+                            {
+                              "label": "acid mucopolysaccharides: blue"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "colloidal iron"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal thinning"
+                },
+                {
+                  "label": "decreased # of endothelial cells",
+                  "children": [
+                    {
+                      "label": "+- guttae"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Granular dystrophy (type 1)",
+          "children": [
+            {
+              "label": "autosomal dominant",
+              "children": [
+                {
+                  "label": "TGFß1 (ßig-h3 = BIGH3 = keratoepithelin)",
+                  "children": [
+                    {
+                      "label": "chromosome 5",
+                      "children": [
+                        {
+                          "label": "5q31"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "central cornea",
+                  "children": [
+                    {
+                      "label": "sharply defined opacities with intervening clear stroma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "hyaline material deposition"
+                },
+                {
+                  "label": "Masson trichrome stain",
+                  "children": [
+                    {
+                      "label": "bright red"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Lattice dystrophy (type 1)",
+          "children": [
+            {
+              "label": "autosomal dominant"
+            },
+            {
+              "label": "central cornea",
+              "children": [
+                {
+                  "label": "refractile lines"
+                },
+                {
+                  "label": "hazy intervening stroma"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "amyloid deposition",
+                  "children": [
+                    {
+                      "label": "anterior stroma"
+                    },
+                    {
+                      "label": "also",
+                      "children": [
+                        {
+                          "label": "subepithelial"
+                        },
+                        {
+                          "label": "deep stroma"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "form of primary localized amyloidosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "stains",
+                  "children": [
+                    {
+                      "label": "Congo red",
+                      "children": [
+                        {
+                          "label": "orange"
+                        },
+                        {
+                          "label": "polarized light",
+                          "children": [
+                            {
+                              "label": "birefringence"
+                            },
+                            {
+                              "label": "dichroism"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "crystal violet",
+                      "children": [
+                        {
+                          "label": "metachromasia"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "thioflavin T",
+                      "children": [
+                        {
+                          "label": "fluorescent stain"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Avellino dystrophy",
+          "children": [
+            {
+              "label": "autosomal dominant",
+              "children": [
+                {
+                  "label": "TGFß1 (ßig-h3 = BIGH3 = keratoepithelin)",
+                  "children": [
+                    {
+                      "label": "chromosome 5",
+                      "children": [
+                        {
+                          "label": "5q31"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "features of granular and lattice dystrophy"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "hyaline deposition"
+                },
+                {
+                  "label": "amyloid deposition"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Endothelial dystrophy",
+      "children": [
+        {
+          "label": "Fuchs dystrophy",
+          "children": [
+            {
+              "label": "inheritance",
+              "children": [
+                {
+                  "label": "sporadic"
+                },
+                {
+                  "label": "autosomal dominant"
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "guttae",
+                  "children": [
+                    {
+                      "label": "young adulthood"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal edema",
+                  "children": [
+                    {
+                      "label": "middle-aged/elderly"
+                    },
+                    {
+                      "label": "bullous keratopathy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "excrescences of Descemet membrane",
+                  "children": [
+                    {
+                      "label": "guttae"
+                    }
+                  ]
+                },
+                {
+                  "label": "thick Descemet membrane"
+                },
+                {
+                  "label": "endothelial cell loss"
+                },
+                {
+                  "label": "secondary epithelial basement membrane changes"
+                },
+                {
+                  "label": "subepithelial fibrosis"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "endokeratoplasty"
+                },
+                {
+                  "label": "penetrating keratoplasty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Congenital hereditary endothelial dystrophy",
+          "children": [
+            {
+              "label": "see under congenital anomalies"
+            }
+          ]
+        },
+        {
+          "label": "Posterior polymorphous dystrophy"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.6.4. Cornea (IV) - Dystrophies.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 230,
+      "connector_rejected": 8,
+      "connector_edges": 142,
+      "connector_width": 1.251,
+      "text_labels": 112,
+      "tree_nodes": 112,
+      "component_roots": 3,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6174,
+      "root_font_size": 5.005,
+      "warnings": []
+    }
+  }
+}

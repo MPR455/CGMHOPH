@@ -1,0 +1,146 @@
+---
+title: "5.9.5. Nystagmus (V)"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.9.5. Nystagmus (V).pdf"
+---
+
+# 5.9.5. Nystagmus (V)
+
+## Hierarchy
+
+- Acquired Pendular Nystagmus
+  - pendular, slow-phase eye movements
+    - pendular nystagmus with both vertical and horizontal (and torsional) components
+      - oblique nystagmus
+        - if the components are in phase!
+      - circular or elliptical nystagmus
+        - if the components are out of phase!
+      - the much rarer congenital pendular nystagmus usually manifests with only horizontal movements
+    - conjugate or disconjugate
+    - often dissociated
+  - poor localizing value
+  - etiology
+    - multiple sclerosis
+      - ± asymmetric or monocular
+        - most common etiology
+        - nystagmus is typically larger in the eye with poorer vision
+    - blindness secondary to optic nerve disease
+  - Oculopalatal Myoclonus or Tremor
+    - acquired pendular nystagmus + palatal myoclonus
+    - eye movements
+      - continuous and rhythmic
+      - frequency ≈ 1 Hz
+      - conjugate in the vertical plane
+      - persist during sleep
+    - ± synchronous movements of the facial muscles, pharynx, tongue, larynx, diaphragm, trunk, and extremities
+    - etiology
+      - lesion of Guillain-Mollaret triangle
+        - pathway from deep cerebellar nuclei through the superior cerebellar peduncle and the central tegmental tract to the contralateral inferior olive in the medulla
+        - produces inferior olivary hypertrophy
+          - visualized with MRI as T2 hyperintensity within 1 or both inferior olives
+- Saccadic Intrusions
+  - Saccadic Intrusions With Normal Intersaccadic Intervals
+    - Square-wave jerks
+      - normal intersaccadic interval (200 ms)
+      - amplitude <2°
+      - normal in older people
+    - Macrosquare-wave jerks
+      - much less common
+      - normal intersaccadic interval (70–150 ms)
+        - slightly higher frequency
+      - amplitude 5°–15°
+      - pathogenesis
+        - lesions disrupting the fastigial nucleus of the cerebellum
+        - lesions disrupting the superior colliculus
+        - or their interconnecting fibers
+          - alteration of the omnipause neurons of the pons
+            - lowers the high threshold for initiation of saccadic eye movements during attempted fixation
+      - always pathologic
+        - cerebellar disease
+        - multiple sclerosis
+    - Macrosaccadic oscillation
+      - oscillations extend equally to one side and then the other side of the fixation
+      - pathogenesis
+        - hypermetria that produces repetitive inaccuracies in attempts to fixate on a target
+      - manifestation of cerebellar dysfunction
+  - Saccadic Intrusions Without Normal Intersaccadic Intervals
+    - types
+      - Ocular flutter
+        - horizontal
+        - small-amplitude
+      - Opsoclonus
+        - multidirectional
+          - very high frequency (10–15 Hz)
+        - larger amplitude
+        - similarly high frequency
+    - diagnosed with reasonable confidence through clinical examination alone
+    - a patient may have both ocular flutter and opsoclonus
+    - opsoclonus-myoclonus syndrome
+      - opsoclonus + myoclonus
+    - pathogenesis
+      - dysfunction of the omnipause neurons of the pons (or connections with these cells)
+    - etiology
+      - paraneoplastic
+        - in children
+          - a paraneoplastic etiology must be excluded in patients with ocular flutter or opsoclonus
+          - neuroblastoma (or other tumor of neural crest origin)
+            - IgG anti–neuronal nuclear antibody type 1 (ANNA-1, or anti-Hu)
+              - antibodies directed against neuronal RNA
+        - in adults
+          - cancer of the breast or ovaries
+            - IgG anti–neuronal nuclear antibody type 2 (ANNA-2, or anti-Ri)
+          - small cell carcinoma of the lung
+      - multiple sclerosis
+        - common cause of ocular flutter in young adults
+      - brainstem encephalitis
+      - drug intoxication
+      - environmental toxins
+      - hyperosmolar coma
+      - otherwise healthy infants
+        - transient
+      - without explanation in the absence of associated neurologic or systemic abnormalities
+  - Voluntary Flutter (“Nystagmus”)
+    - induced volitionally
+    - horizontal
+    - conjugate
+      - high-frequency
+    - back-to-back saccades without an intersaccadic interval
+      - lack slow phases
+    - associated with convergence
+    - rarely last longer than 10–12 seconds
+      - often with eyelid flutter and facial grimacing
+    - differential diagnosis
+      - ocular flutter
+        - associated with other abnormal findings
+        - no convergence or eyelid flutter
+- See-Saw Nystagmus
+  - disconjugate
+    - 1 eye elevates and intorts
+    - the other eye depresses and extorts
+      - amplitude may be larger in the poorer-seeing eye
+  - pendular
+  - slow in frequency
+  - similar in amplitude between eyes
+  - ± associated vision loss
+  - ± bitemporal hemianopia
+  - etiology
+    - large tumors of parasellar region that impinge on third ventricle
+      - craniopharyngioma
+      - other parasellar–diencephalic tumors
+      - most common cause
+    - congenital
+    - congenital achiasma
+      - rare
+    - trauma
+    - retinitis pigmentosa
+    - albinism
+- difference between the 2 eyes in the amplitude of the ocular oscillation
+  - optic nerve hypoplasia
+- Dissociated Nystagmus
+  - lesion of MLF
+    - most common form of this disorder
+    - internuclear ophthalmoplegia
+      - slowing of adduction of the eye ipsilateral to an MLF lesion
+      - nystagmus of the abducting eye
+        - caused by increased neural pulsing in an attempt to overcome the adduction weakness

@@ -1,0 +1,567 @@
+{
+  "label": "10.7.3. Medical Management of Glaucoma (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Parasympathomimetic Agents (Miotics)",
+      "children": [
+        {
+          "label": "mechanism of action",
+          "children": [
+            {
+              "label": "postganglionic parasympathetic junctions",
+              "children": [
+                {
+                  "label": "direct-acting agents",
+                  "children": [
+                    {
+                      "label": "affect the motor end plates similar to acetylcholine"
+                    }
+                  ]
+                },
+                {
+                  "label": "indirect-acting agents",
+                  "children": [
+                    {
+                      "label": "inhibit acetylcholinesterase",
+                      "children": [
+                        {
+                          "label": "enhance naturally secreted acetylcholine"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "contraction of longitudinal ciliary muscle",
+                  "children": [
+                    {
+                      "label": "pulls the scleral spur to tighten the trabecular meshwork",
+                      "children": [
+                        {
+                          "label": "increases outflow of aqueous humor"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "indirect-acting",
+          "children": [
+            {
+              "label": "echothiophate iodide"
+            },
+            {
+              "label": "out of use"
+            }
+          ]
+        },
+        {
+          "label": "direct-acting",
+          "children": [
+            {
+              "label": "pilocarpine",
+              "children": [
+                {
+                  "label": "15%–25% reduction in IOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular side effects",
+          "children": [
+            {
+              "label": "Induced myopia",
+              "children": [
+                {
+                  "label": "ciliary muscle contraction"
+                }
+              ]
+            },
+            {
+              "label": "brow ache",
+              "children": [
+                {
+                  "label": "ciliary spasm"
+                }
+              ]
+            },
+            {
+              "label": "miosis",
+              "children": [
+                {
+                  "label": "interferes with vision in dim light with lens opacities"
+                }
+              ]
+            },
+            {
+              "label": "retinal detachment",
+              "children": [
+                {
+                  "label": "peripheral retinal evaluation before the initiation of therapy"
+                }
+              ]
+            },
+            {
+              "label": "cataract",
+              "children": [
+                {
+                  "label": "particularly indirect-acting agents"
+                }
+              ]
+            },
+            {
+              "label": "iris pigment epithelial cysts",
+              "children": [
+                {
+                  "label": "in children"
+                }
+              ]
+            },
+            {
+              "label": "epiphora",
+              "children": [
+                {
+                  "label": "direct lacrimal stimulation"
+                },
+                {
+                  "label": "punctal stenosis"
+                }
+              ]
+            },
+            {
+              "label": "drug-induced pseudopemphigoid"
+            },
+            {
+              "label": "increased bleeding during surgery"
+            },
+            {
+              "label": "blood–aqueous barrier break-down",
+              "children": [
+                {
+                  "label": "avoid if possible in patients with uveitic glaucoma"
+                },
+                {
+                  "label": "increased inflammation & severe fibrinous iridocyclitis postoperatively"
+                }
+              ]
+            },
+            {
+              "label": "paradoxical angle closure",
+              "children": [
+                {
+                  "label": "eyes with phacomorphic narrow angles",
+                  "children": [
+                    {
+                      "label": "contraction of ciliary muscle leads to forward movement of the lens–iris interface & increase in the anteroposterior diameter of the lens"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic adverse effects",
+          "children": [
+            {
+              "label": "mainly with indirect-acting medications",
+              "children": [
+                {
+                  "label": "diarrhea"
+                },
+                {
+                  "label": "abdominal cramps"
+                },
+                {
+                  "label": "increased salivation"
+                },
+                {
+                  "label": "bronchospasm"
+                },
+                {
+                  "label": "enuresis"
+                },
+                {
+                  "label": "depolarizing muscle relaxants (succinylcholine)",
+                  "children": [
+                    {
+                      "label": "cannot be used for ≤6 weeks after stopping indirect-acting agents"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "indications for miotic therapy",
+          "children": [
+            {
+              "label": "prophylaxis for angle-closure glaucoma prior to iridectomy"
+            },
+            {
+              "label": "long-term treatment of elevated IOP in patients whose drainage angles are persistently occludable despite laser iridotomy"
+            },
+            {
+              "label": "now rarely used in the treatment of POAG",
+              "children": [
+                {
+                  "label": "poorly tolerated",
+                  "children": [
+                    {
+                      "label": "much better tolerated in aphakic than in phakic eyes"
+                    }
+                  ]
+                },
+                {
+                  "label": "poor compliance",
+                  "children": [
+                    {
+                      "label": "2–4x/day regimen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "among the most affordable of agents"
+            }
+          ]
+        },
+        {
+          "label": "pilocarpine gel",
+          "children": [
+            {
+              "label": "once daily at bedtime"
+            },
+            {
+              "label": "nocturnal dosing reduces problems from induced myopia and miosis"
+            },
+            {
+              "label": "relatively poorly tolerated, especially in younger patients"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Adrenergic Agonists",
+      "children": [
+        {
+          "label": "nonselective adrenergic agonists",
+          "children": [
+            {
+              "label": "drugs",
+              "children": [
+                {
+                  "label": "epinephrine (adrenaline)"
+                },
+                {
+                  "label": "dipivefrin (a prodrug of epinephrine)"
+                }
+              ]
+            },
+            {
+              "label": "increase conventional trabecular and uveoscleral outflow"
+            },
+            {
+              "label": "no longer used in the management of POAG"
+            },
+            {
+              "label": "not used concomitantly with β-blockers because of lack of additional efficacy"
+            }
+          ]
+        },
+        {
+          "label": "α1-adrenergic agonists",
+          "children": [
+            {
+              "label": "phenylephrine"
+            },
+            {
+              "label": "ocular effects",
+              "children": [
+                {
+                  "label": "vasoconstriction"
+                },
+                {
+                  "label": "pupillary dilation"
+                },
+                {
+                  "label": "eyelid retraction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "α2-adrenergic agonists",
+          "children": [
+            {
+              "label": "ocular effects",
+              "children": [
+                {
+                  "label": "IOP reduction",
+                  "children": [
+                    {
+                      "label": "less selective α2-adrenergic action than brimonidine"
+                    }
+                  ]
+                },
+                {
+                  "label": "possibly neuroprotection"
+                }
+              ]
+            },
+            {
+              "label": "drugs",
+              "children": [
+                {
+                  "label": "apraclonidine",
+                  "children": [
+                    {
+                      "label": "greater affinity for α1-receptors than brimonidine",
+                      "children": [
+                        {
+                          "label": "more vasoconstriction"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "true ocular hypotensive mechanism is not fully understood",
+                      "children": [
+                        {
+                          "label": "decreases aqueous production"
+                        },
+                        {
+                          "label": "improves trabecular outflow"
+                        },
+                        {
+                          "label": "argon laser iridotomy",
+                          "children": [
+                            {
+                              "label": "decreases episcleral venous pressure"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "effective in diminishing the acute rise in IOP that follows",
+                      "children": [
+                        {
+                          "label": "argon laser trabeculoplasty"
+                        },
+                        {
+                          "label": "Nd:YAG laser capsulotomy"
+                        },
+                        {
+                          "label": "cataract extraction"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "effective for short-term lowering of IOP",
+                      "children": [
+                        {
+                          "label": "limited long-term use",
+                          "children": [
+                            {
+                              "label": "topical sensitivity"
+                            },
+                            {
+                              "label": "tachyphylaxis"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "brimonidine",
+                  "children": [
+                    {
+                      "label": "more selective α2-adrenergic action"
+                    },
+                    {
+                      "label": "IOP lowering mechanism",
+                      "children": [
+                        {
+                          "label": "decreasing aqueous production"
+                        },
+                        {
+                          "label": "increasing uveoscleral outflow"
+                        },
+                        {
+                          "label": "peripheral mechanism",
+                          "children": [
+                            {
+                              "label": "1-week, single-eye treatment caused reduction of 1.2 mm Hg in the fellow eye"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "peak IOP reduction ≈ 26% (2 hours postdose)",
+                      "children": [
+                        {
+                          "label": "comparable to a nonselective β-blocker"
+                        },
+                        {
+                          "label": "superior to selective β-blocker betaxolol"
+                        },
+                        {
+                          "label": "at trough (12 hours postdose), reduction is only 14%–15%",
+                          "children": [
+                            {
+                              "label": "less than the reduction achieved with nonselective β-blockers"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "ocular allergic reaction",
+                      "children": [
+                        {
+                          "label": "follicular conjunctivitis"
+                        },
+                        {
+                          "label": "contact blepharodermatitis"
+                        },
+                        {
+                          "label": "less than apraclonidine",
+                          "children": [
+                            {
+                              "label": "<40% for apraclonidine"
+                            },
+                            {
+                              "label": "<15% for brimonidine tartrate 0.2% preserved with benzalkonium chloride"
+                            },
+                            {
+                              "label": "<10% for brimonidine tartrate 0.1% preserved with Purite",
+                              "children": [
+                                {
+                                  "label": "as efficacious as brimonidine 0.2% preserved with benzalkonium chloride"
+                                },
+                                {
+                                  "label": "lower incidence of all side effects"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "cross-sensitivity to brimonidine in patients with known hypersensitivity to apraclonidine is minimal"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "long-term intolerance due to local adverse effects is high (>20%)",
+                      "children": [
+                        {
+                          "label": "local blepharoconjunctivitis"
+                        },
+                        {
+                          "label": "ectropion"
+                        },
+                        {
+                          "label": "granulomatous anterior uveitis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "systemic adverse effects",
+                      "children": [
+                        {
+                          "label": "dry mouth"
+                        },
+                        {
+                          "label": "lethargy",
+                          "children": [
+                            {
+                              "label": "contraindicated <3 years",
+                              "children": [
+                                {
+                                  "label": "crosses the BBB"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "use with caution 3-10 years"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "should not be used in infants and young children",
+                          "children": [
+                            {
+                              "label": "respiratory arrest"
+                            },
+                            {
+                              "label": "somnolence"
+                            },
+                            {
+                              "label": "hypotension"
+                            },
+                            {
+                              "label": "seizures"
+                            },
+                            {
+                              "label": "derangements of neurotransmitters in the CNS"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "caution recommended when apraclonidine or brimonidine is used in patients on a monoamine oxidase inhibitor (MAOI) or tricyclic antidepressant therapy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "approved for 3x/day",
+                      "children": [
+                        {
+                          "label": "less tachyphylaxis than apraclonidine"
+                        },
+                        {
+                          "label": "commonly used twice daily"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.7.3. Medical Management of Glaucoma (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 260,
+      "connector_rejected": 1,
+      "connector_edges": 177,
+      "connector_width": 0.755,
+      "text_labels": 142,
+      "tree_nodes": 142,
+      "component_roots": 2,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.6808,
+      "root_font_size": 3.774,
+      "warnings": []
+    }
+  }
+}

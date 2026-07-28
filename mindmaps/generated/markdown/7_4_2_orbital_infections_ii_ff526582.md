@@ -1,0 +1,122 @@
+---
+title: "7.4.2. Orbital Infections (II)"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.4.2. Orbital Infections (II).pdf"
+---
+
+# 7.4.2. Orbital Infections (II)
+
+## Hierarchy
+
+- group A β-hemolytic streptococcus
+  - most common
+- necrotizing fasciitis
+  - etiology
+    - other organisms
+      - aerobic and anaerobic
+      - gram-positive and gram-negative bacteria
+  - predisposing conditions
+    - most patients are immunocompromised
+      - diabetes mellitus
+      - alcoholism
+    - may also occur in immunocompetent patients
+  - clinical presentation
+    - involves
+      - subcutaneous soft tissues
+      - superficial and deep fasciae
+      - tends to track along avascular tissue planes
+    - initial clinical presentation is similar to that of orbital/preseptal cellulitis
+      - swelling
+      - erythema
+      - pain
+    - disproportionate pain may suggest necrotizing fasciitis
+    - typical changes in skin color
+      - progressing from rose to blue-gray
+    - anesthesia over the affected area
+    - bullae formation
+      - frank cutaneous necrosis
+    - ± shocklike syndrome
+    - rapid course
+      - severe, potentially vision-threatening or life- threatening bacterial infection
+  - treatment
+    - requires immediate treatment in an intensive care unit!
+    - IV antibiotics
+      - broad-spectrum coverage for gram-positive + gram-negative + anaerobic organisms
+        - clindamycin
+          - uniquely effective against the toxins produced by group A streptococcus
+    - early surgical debridement
+      - necrotizing fasciitis limited to eyelids can be cautiously treated with systemic antibiotics and little or no debridement
+        - cases with
+          - clearly defined margins
+          - no signs of toxic shock
+    - adjunctive corticosteroid therapy
+      - after the start of antibiotic therapy
+    - patients may experience rapid deterioration
+      - hypotension
+      - renal failure
+      - adult respiratory distress syndrome
+      - death
+        - 30%
+        - usually due to toxic shock syndrome
+        - less common in the periocular region
+- zygomycosis
+  - "phycomycosis" or "mucormycosis"
+  - most common & most virulent fungal disease involving the orbit
+  - fungus
+    - class zygomycetes
+    - genus
+      - mucor
+      - rhizopus
+    - large branching hyphae
+    - nonseptate
+    - hematoxylin-eosin staining
+      - unlike most fungi
+  - predisposing factors
+    - systemic disease with associated metabolic acidosis
+    - diabetes mellitus
+    - malignancies
+    - treatment with antimetabolites or steroids
+  - pathogenesis
+    - extend into the orbit from an adjacent sinus or the nasal cavity
+    - invade blood vessel walls
+      - thrombosing vasculitis
+        - tissue necrosis
+  - clinical presentation
+    - proptosis
+    - orbital apex syndrome
+      - internal and external ophthalmoplegia
+      - ptosis
+      - decreased corneal sensation
+      - decreased vision
+  - diagnosis
+    - biopsy of necrotic-appearing tissues in the nasopharynx or involved sinus or orbit
+  - treatment
+    - systemic control of underlying metabolic or immunologic abnormality
+    - local surgical debridement
+      - role of primary exenteration has decreased
+    - antifungal therapy
+      - IV administration
+      - amphotericin b
+      - liposomal amphotericin b
+      - patients who cannot tolerate amphotericin
+        - posaconazole
+        - voriconazole
+      - other lipid-encapsulated antifungal agents
+        - permit a higher cumulative dose with a reduced level of toxicity
+    - ± adjunctive hyperbaric oxygen therapy
+- parasitic diseases
+  - developing countries
+  - trichinosis
+    - trichinella spiralis
+      - transmitted by ingestion of nematode
+    - eyelids and extraocular muscles may be inflamed
+      - caused by larvae migration
+  - echinococcosis
+    - echinococcus granulosus (dog tapeworm)
+    - hydatid cyst
+      - contains tapeworm larvae
+      - cyst rupture may cause progressive inflammation and severe immune response
+  - cysticercosis
+    - taenia solium (pork tapeworm)
+    - may encyst and progressively enlarge in the orbital tissues

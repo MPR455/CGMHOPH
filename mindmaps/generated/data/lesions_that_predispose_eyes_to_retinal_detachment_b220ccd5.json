@@ -1,0 +1,393 @@
+{
+  "label": "Lesions That Predispose Eyes to Retinal Detachment",
+  "root": true,
+  "children": [
+    {
+      "label": "Meridional Folds, Enclosed Ora Bays, and Peripheral Retinal Excavations",
+      "children": [
+        {
+          "label": "Meridional fold",
+          "children": [
+            {
+              "label": "radially oriented, prominent thickening of retinal tissue extending into pars plana",
+              "children": [
+                {
+                  "label": "looks like exaggerated dentate process"
+                },
+                {
+                  "label": "usually superonasal"
+                }
+              ]
+            },
+            {
+              "label": "tears associated with PVD may occur at most posterior limit of meridional folds"
+            },
+            {
+              "label": "meridional complex",
+              "children": [
+                {
+                  "label": "meridional fold aligned with a ciliary process"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Enclosed ora bays",
+          "children": [
+            {
+              "label": "oval islands of pars plana epithelium immediately posterior to ora serrata",
+              "children": [
+                {
+                  "label": "completely or almost completely surrounded by peripheral retina"
+                }
+              ]
+            },
+            {
+              "label": "retinal tears can occur at or near the posterior margins of enclosed ora bays"
+            }
+          ]
+        },
+        {
+          "label": "Peripheral retinal excavations",
+          "children": [
+            {
+              "label": "mild form of lattice degeneration"
+            },
+            {
+              "label": "may have firm vitreoretinal adhesions"
+            },
+            {
+              "label": "tears may occur at site of peripheral retinal excavations"
+            },
+            {
+              "label": "adjacent to, or up to 4 disc diameters posterior to, ora serrata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lattice Degeneration",
+      "children": [
+        {
+          "label": "Introduction",
+          "children": [
+            {
+              "label": "6%–10% of general population"
+            },
+            {
+              "label": "bilateral in 1/3 - 1/2"
+            },
+            {
+              "label": "more common in myopic eyes"
+            },
+            {
+              "label": "familial predilection"
+            }
+          ]
+        },
+        {
+          "label": "histologic features",
+          "children": [
+            {
+              "label": "atrophy and irregularity of the inner retina"
+            },
+            {
+              "label": "overlying pocket of liquefied vitreous"
+            },
+            {
+              "label": "condensation & adherence of vitreous at margins"
+            }
+          ]
+        },
+        {
+          "label": "may predispose to retinal break & detachment",
+          "children": [
+            {
+              "label": "present in 20%–30% of eyes with RRD"
+            },
+            {
+              "label": "when lattice degeneration is the cause of retinal detachment",
+              "children": [
+                {
+                  "label": "tractional tear at lateral or posterior margin of the lattice"
+                },
+                {
+                  "label": "atrophic hole within lattice",
+                  "children": [
+                    {
+                      "label": "less common"
+                    },
+                    {
+                      "label": "in young patients with myopic eyes and no vitreous detachment"
+                    },
+                    {
+                      "label": "generally asymptomatic until fixation is involved"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "prophylactic laser treatment is not universally recommended"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lesions That Do Not Predispose Eyes to Retinal Detachment",
+      "children": [
+        {
+          "label": "Paving-Stone Degeneration",
+          "children": [
+            {
+              "label": "“cobblestone degeneration”"
+            },
+            {
+              "label": "22% after age 20 years"
+            },
+            {
+              "label": "Histology",
+              "children": [
+                {
+                  "label": "atrophy of RPE and outer retinal layers"
+                },
+                {
+                  "label": "adhesions between remaining neuroepithelial layers and Bruch membrane"
+                },
+                {
+                  "label": "attenuation or absence of choriocapillaris"
+                }
+              ]
+            },
+            {
+              "label": "peripheral, small, discrete areas of atrophy of the outer retina",
+              "children": [
+                {
+                  "label": "singly or in groups",
+                  "children": [
+                    {
+                      "label": "± confluent"
+                    }
+                  ]
+                },
+                {
+                  "label": "inferior quadrants"
+                },
+                {
+                  "label": "anterior to equator"
+                },
+                {
+                  "label": "yellowish white"
+                },
+                {
+                  "label": "large choroidal vessels are visible beneath the lesions"
+                },
+                {
+                  "label": "± rim of hypertrophic RPE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Retinal Pigment Epithelial Hyperplasia",
+          "children": [
+            {
+              "label": "Pathogenesis",
+              "children": [
+                {
+                  "label": "chronic low-grade traction"
+                }
+              ]
+            },
+            {
+              "label": "Histology",
+              "children": [
+                {
+                  "label": "RPE proliferation"
+                }
+              ]
+            },
+            {
+              "label": "Clinical",
+              "children": [
+                {
+                  "label": "diffuse RPE hyperplasia may straddle the ora serrata",
+                  "children": [
+                    {
+                      "label": "corresponds roughly to insertion of vitreous base"
+                    }
+                  ]
+                },
+                {
+                  "label": "focally on pars plana and peripheral retina",
+                  "children": [
+                    {
+                      "label": "areas of focal traction",
+                      "children": [
+                        {
+                          "label": "vitreoretinal tufts"
+                        },
+                        {
+                          "label": "lattice degeneration"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "previous inflammation"
+                },
+                {
+                  "label": "trauma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Retinal Pigment Epithelial Hypertrophy",
+          "children": [
+            {
+              "label": "degenerative change associated with aging",
+              "children": [
+                {
+                  "label": "commonly in the periphery"
+                },
+                {
+                  "label": "reticular pattern",
+                  "children": [
+                    {
+                      "label": "similar to CHRPE"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Histology",
+              "children": [
+                {
+                  "label": "large cells and spherical melanin granules"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Peripheral Cystoid Degeneration",
+          "children": [
+            {
+              "label": "Typical peripheral cystoid degeneration",
+              "children": [
+                {
+                  "label": "zones of microcysts in the fa rperipheral retina"
+                },
+                {
+                  "label": "all adults over age of 20 years"
+                },
+                {
+                  "label": "retinal holes may form",
+                  "children": [
+                    {
+                      "label": "rarely cause retinal detachment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Reticular peripheral cystoid degeneration",
+              "children": [
+                {
+                  "label": "almost always posterior to typical peripheral cystoid degeneration"
+                },
+                {
+                  "label": "inner retina"
+                },
+                {
+                  "label": "linear or reticular pattern that follows the retinal vessels"
+                },
+                {
+                  "label": "20% of adults"
+                },
+                {
+                  "label": "may develop into reticular degenerative retinoschisis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vitreoretinal Tufts",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "vitreous or zonular attachment and traction"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "small, peripheral, focal areas of elevated glial hyperplasia"
+            },
+            {
+              "label": "± surrounding RPE hyperplasia"
+            }
+          ]
+        },
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "noncystic retinal tufts"
+            },
+            {
+              "label": "cystic retinal tufts"
+            },
+            {
+              "label": "zonular traction retinal tufts",
+              "children": [
+                {
+                  "label": "firm vitreoretinal adhesions",
+                  "children": [
+                    {
+                      "label": "may predispose to retinal tears and detachment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Lesions That Predispose Eyes to Retinal Detachment.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 177,
+      "connector_rejected": 45,
+      "connector_edges": 112,
+      "connector_width": 0.612,
+      "text_labels": 98,
+      "tree_nodes": 98,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6328,
+      "root_font_size": 4.281,
+      "warnings": []
+    }
+  }
+}

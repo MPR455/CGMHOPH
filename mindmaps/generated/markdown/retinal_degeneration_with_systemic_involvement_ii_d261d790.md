@@ -1,0 +1,112 @@
+---
+title: "Retinal Degeneration With Systemic Involvement II"
+category: "Retina"
+subcategory: ""
+source_pdf: "MindmapPDF/Retina/Retinal Degeneration With Systemic Involvement II.pdf"
+---
+
+# Retinal Degeneration With Systemic Involvement II
+
+## Hierarchy
+
+- Liver disease
+  - Alagille syndrome
+    - hepatorenal abnormalities
+      - cholestatic jaundice
+    - characteristic ocular findings
+      - pigmentary retinopathy
+        - peripapillary and macular predilection
+      - posterior embryotoxon
+- Neuromuscular Disorders
+  - ERG abnormalities
+    - not diagnostic for any particular disorder
+  - Myotonic dystrophy
+    - muscle wasting
+    - Christmas tree cataract
+    - pigmentary retinopathy
+    - ERG abnormalities
+  - Charcot-Marie-Tooth disease
+    - pigmentary retinopathy
+    - degeneration of lateral horns of spinal cord
+      - similar to CSNB
+    - optic atrophy
+  - Duchenne muscular dystrophy
+    - does not cause a pigmentary retinopathy
+    - ERG
+      - negative waveform
+        - normal a-wave with reduced b-wave
+        - suggests a defective “on-response” pathway
+          - do not have night blindness
+    - dystrophin gene mutation
+      - dystrophin protein is found in muscle, neural synaptic regions, and in the retina
+- Gastrointestinal disease
+  - Familial adenomatous polyposis (Gardner syndrome)
+    - autosomal dominant
+      - mutations in the adenomatous polyposis (APC) gene
+      - incomplete expression
+    - pigmented lesions similar to CHRPE
+      - smaller
+      - ovoid
+      - more variegated
+      - multiple & bilateral
+        - .> 4 widely spaced, small (<0.5 disc-diameter) lesions per eye & bilateral involvement suggest FAP
+- Dermatologic diseases
+  - ichtyosis
+    - abnormal scaling, dryness, and tightness of the skin
+    - Refsum disease
+      - pigmentary retinopathy
+        - important marker for identifying family members at risk of colonic polyps, which have a high malignant potential
+    - Sjogren-Larsson syndrome
+      - crystalline maculopathy
+  - incontinentia pigmenti
+    - x-linked dominant
+      - lethal in male fetus
+      - female patient
+        - streaky skin lesions
+        - CNS involvement
+        - teeth involvement
+        - ocular involvement
+          - 1/3
+          - pigmentary abnormality
+          - peripheral retinal non perfusion
+            - retinal neovascularization
+            - tractional retinal detachment
+  - pseudoxanthoma elasticum
+    - “plucked-chicken” skin appearance
+    - angioid streaks
+    - peau d'orange appearance
+- Renal diseases
+  - Familial juvenile nephronophthisis
+    - a form of renal-retinal dysplasia (and ciliopathy)
+    - autosomal recessive
+    - childhood onset of end-stage renal disease
+    - pigmentary retinal degeneration
+      - +- sectorial
+    - +- bony growth plate abnormality
+      - shortness of stature
+  - Joubert syndrome
+    - cerebellar malformation
+      - characteristic “molar tooth” deformity on MRI of brain
+    - chorioretinal coloboma
+  - Bardet-Biedl syndrome
+    - urethral reflux with pyelonephritis
+  - Alström syndrome
+    - retinal ciliopathy
+    - obesity
+    - short stature
+    - renal disease
+    - cardiomyopathy
+  - Jeune syndrome
+    - retinal ciliopathy
+    - cystic kidney disease
+    - asphyxiating thoracic dystrophy
+  - type II membranoproliferative glomerulonephritis
+    - drusen-like deposits throughout fundus
+- Dental disease
+  - Amelogenesis imperfecta
+    - genetic disease
+    - defective enamel production
+    - Jalili syndrome
+      - cone–rod dystrophy
+        - pigmentary retinopathy
+      - macular coloboma

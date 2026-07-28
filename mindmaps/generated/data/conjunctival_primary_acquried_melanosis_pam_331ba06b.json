@@ -1,0 +1,384 @@
+{
+  "label": "Conjunctival Primary Acquried Melanosis (PAM)",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "65-year-old Caucasian woman has noted pigmentation of her left eye that has slowly increased over the past 2 years"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "ultrasound",
+          "children": [
+            {
+              "label": "if uveal melanoma supected"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "PAM"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "≤1-2 clock hours",
+              "children": [
+                {
+                  "label": "observation"
+                }
+              ]
+            },
+            {
+              "label": "2-4 clock hours",
+              "children": [
+                {
+                  "label": "excisional biopsy",
+                  "children": [
+                    {
+                      "label": "no-touch technique"
+                    },
+                    {
+                      "label": "wide margins"
+                    },
+                    {
+                      "label": "double freeze-thaw cryotherapy"
+                    },
+                    {
+                      "label": "± alcohol epitheliectomy for corneal involvment"
+                    },
+                    {
+                      "label": "map conjunctival biopsies"
+                    },
+                    {
+                      "label": "sent for histology and immunohistochemistry",
+                      "children": [
+                        {
+                          "label": "PAM without atypia",
+                          "children": [
+                            {
+                              "label": "most important finding in predicting progression is the presence of cellular atypia"
+                            },
+                            {
+                              "label": "minimal risk of malignant transformation"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "PAM with mild atypia"
+                        },
+                        {
+                          "label": "PAM with moderate to severe atypia",
+                          "children": [
+                            {
+                              "label": "significant risk of progression to melanoma"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": ".>4 clock hours",
+              "children": [
+                {
+                  "label": "incisional biopsy + cryotherapy"
+                },
+                {
+                  "label": "± topical MMC",
+                  "children": [
+                    {
+                      "label": "for diffuse disease not amenable to complete excision"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "PAM",
+          "children": [
+            {
+              "label": "middle-aged",
+              "children": [
+                {
+                  "label": "flat, diffuse, brown pigmentation of the bulbar conjunctiva with focal involvement of peripheral cornea"
+                }
+              ]
+            },
+            {
+              "label": "Caucasian"
+            },
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "flat"
+            },
+            {
+              "label": "worse prognosis",
+              "children": [
+                {
+                  "label": "larger size (≥3 clock-hours)"
+                },
+                {
+                  "label": "caruncular, forniceal, or palpebral location"
+                },
+                {
+                  "label": "thickening"
+                },
+                {
+                  "label": "feeder vessels"
+                },
+                {
+                  "label": "nodular component"
+                },
+                {
+                  "label": "progressive enlargement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "complexion-related melanosis",
+          "children": [
+            {
+              "label": "darkly pigmented individual"
+            },
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "most apparent at limbus and less prominent as it extends into the fornix"
+            }
+          ]
+        },
+        {
+          "label": "nevus",
+          "children": [
+            {
+              "label": "± cysts"
+            }
+          ]
+        },
+        {
+          "label": "ocular melanocytosis",
+          "children": [
+            {
+              "label": "pigment is at the level of episclera"
+            }
+          ]
+        },
+        {
+          "label": "extraocular extension of uveal melanoma"
+        },
+        {
+          "label": "melanoma",
+          "children": [
+            {
+              "label": "elevated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "inform patient of importance of periodic follow-up"
+            }
+          ]
+        },
+        {
+          "label": "Course",
+          "children": [
+            {
+              "label": "can grow"
+            },
+            {
+              "label": "can transform to melanoma"
+            },
+            {
+              "label": "can recur after excision"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "good prognosis with complete excision/treatment"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "depends of degree of atypia",
+              "children": [
+                {
+                  "label": "no atypia",
+                  "children": [
+                    {
+                      "label": "6-12 mo"
+                    }
+                  ]
+                },
+                {
+                  "label": "moderate-severe atypia",
+                  "children": [
+                    {
+                      "label": "3-4 mo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course",
+              "children": [
+                {
+                  "label": "change in size & color"
+                }
+              ]
+            },
+            {
+              "label": "cutaneous melanoma"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "slit lamp exam",
+              "children": [
+                {
+                  "label": "size"
+                },
+                {
+                  "label": "location",
+                  "children": [
+                    {
+                      "label": "check palpebral/tarsal conjunctiva, caruncle"
+                    }
+                  ]
+                },
+                {
+                  "label": "mobility thickness"
+                },
+                {
+                  "label": "corneal extension",
+                  "children": [
+                    {
+                      "label": "PAM is flat",
+                      "children": [
+                        {
+                          "label": "ocular melanocytosis does not move with the conjunctiva"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "intralesional cyst",
+                  "children": [
+                    {
+                      "label": "nevus"
+                    }
+                  ]
+                },
+                {
+                  "label": "examine other eye",
+                  "children": [
+                    {
+                      "label": "PAM is unilateral",
+                      "children": [
+                        {
+                          "label": "complexion-related melanosis is bilateral"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "funduscopy",
+              "children": [
+                {
+                  "label": "r/o uveal melanoma with extraocular extension"
+                }
+              ]
+            },
+            {
+              "label": "lymphadenopathy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Conjunctival Primary Acquried Melanosis (PAM).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 156,
+      "connector_rejected": 14,
+      "connector_edges": 108,
+      "connector_width": 1.319,
+      "text_labels": 93,
+      "tree_nodes": 93,
+      "component_roots": 7,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.6923,
+      "root_font_size": 6.154,
+      "warnings": []
+    }
+  }
+}

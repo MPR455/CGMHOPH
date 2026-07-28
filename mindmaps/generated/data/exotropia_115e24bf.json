@@ -1,0 +1,648 @@
+{
+  "label": "Exotropia",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "10-month-old boy is brought because his mother has noticed intermittent outward drifting of his eyes"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "external photograph shows large angle exotropia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "MRI brain & orbits if ...",
+          "children": [
+            {
+              "label": "orbital signs"
+            },
+            {
+              "label": "neurologic signs"
+            },
+            {
+              "label": "convergence paralysis",
+              "children": [
+                {
+                  "label": "dorsal midbrain syndrome"
+                }
+              ]
+            },
+            {
+              "label": "internuclear ophthalmoplegia"
+            }
+          ]
+        },
+        {
+          "label": "wu for MG if suspected"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "XT intermittent, alternating"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "intermittent XT",
+          "children": [
+            {
+              "label": "most common"
+            },
+            {
+              "label": "amblyopia rare"
+            },
+            {
+              "label": "onset <5 years"
+            },
+            {
+              "label": "increases over time"
+            },
+            {
+              "label": "exposure to bright light often causes reflex closure of 1 eye",
+              "children": [
+                {
+                  "label": "\"squint\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Infantile XT",
+          "children": [
+            {
+              "label": "onset <6 months"
+            },
+            {
+              "label": "associated with craniofacial or CNS disorders"
+            },
+            {
+              "label": "large angle"
+            }
+          ]
+        },
+        {
+          "label": "sensory XT",
+          "children": [
+            {
+              "label": "any condition that severely reduces vision or the visual field in 1 eye"
+            }
+          ]
+        },
+        {
+          "label": "consecutive XT",
+          "children": [
+            {
+              "label": "develops after previous surgery for esotropia (postsurgical exotropia)"
+            }
+          ]
+        },
+        {
+          "label": "Duane retraction syndrome type 2",
+          "children": [
+            {
+              "label": "XT"
+            },
+            {
+              "label": "limited adduction",
+              "children": [
+                {
+                  "label": "globe retraction and narrowing of palpebral fissue on attempted adduction"
+                }
+              ]
+            },
+            {
+              "label": "head turn away from the affected side"
+            }
+          ]
+        },
+        {
+          "label": "isolated convergence insufficiency",
+          "children": [
+            {
+              "label": "older children or adults"
+            },
+            {
+              "label": "blurred vision, asthenopia, diplopia when reading"
+            },
+            {
+              "label": "exodeviation is greater at near fixation than at distance fixation"
+            }
+          ]
+        },
+        {
+          "label": "convergence paralysis",
+          "children": [
+            {
+              "label": "XT at near",
+              "children": [
+                {
+                  "label": "normal adduction and accommodation"
+                }
+              ]
+            },
+            {
+              "label": "acute onset"
+            },
+            {
+              "label": "intracranial lesion",
+              "children": [
+                {
+                  "label": "most commonly associated with dorsal midbrain syndrome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "other forms of XT",
+          "children": [
+            {
+              "label": "CN 3 palsy"
+            },
+            {
+              "label": "MG"
+            },
+            {
+              "label": "CPEO"
+            },
+            {
+              "label": "INO",
+              "children": [
+                {
+                  "label": "WEBINO"
+                }
+              ]
+            },
+            {
+              "label": "orbital disease",
+              "children": [
+                {
+                  "label": "proptosis"
+                },
+                {
+                  "label": "limitation of EOM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pseudo-XT",
+          "children": [
+            {
+              "label": "1. wide interpupillary distance"
+            },
+            {
+              "label": "2. temporal macular dragging"
+            },
+            {
+              "label": "3. large positive angle kappa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "correct significant refractive errors",
+              "children": [
+                {
+                  "label": "myopia"
+                },
+                {
+                  "label": "hyperopia >+4.00 D"
+                }
+              ]
+            },
+            {
+              "label": "overminused spectacles to stimulate accommodative convergence",
+              "children": [
+                {
+                  "label": "2-4 D"
+                }
+              ]
+            },
+            {
+              "label": "base-out prisms to improve fusional convergence"
+            },
+            {
+              "label": "correct amblyopia if present"
+            },
+            {
+              "label": "alternating XT, no amblyopia",
+              "children": [
+                {
+                  "label": "alternate patching 2 hr/day",
+                  "children": [
+                    {
+                      "label": "decreases fusional vergence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "base-in prisms",
+              "children": [
+                {
+                  "label": "not for long-term management"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "infantile XT",
+              "children": [
+                {
+                  "label": "surgical correction early in life"
+                }
+              ]
+            },
+            {
+              "label": "intermittent XT",
+              "children": [
+                {
+                  "label": "surgery not necessary unless ...",
+                  "children": [
+                    {
+                      "label": "frequently manifest",
+                      "children": [
+                        {
+                          "label": ".>50% of the time"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "poorly controlled"
+                    },
+                    {
+                      "label": "worsening (especially at near)"
+                    },
+                    {
+                      "label": "symptomatic"
+                    },
+                    {
+                      "label": "poor self-image"
+                    },
+                    {
+                      "label": "decreased distance stereoacuity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "muscle surgery",
+              "children": [
+                {
+                  "label": "bilateral LR recession"
+                },
+                {
+                  "label": "unilateral recess-resect procedure"
+                },
+                {
+                  "label": "large (>50Δ) deviations may require surgery on 3 or 4 muscles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "convergence paralysis",
+          "children": [
+            {
+              "label": "base-in prism at near"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education/ Counselling",
+      "children": [
+        {
+          "label": "Course",
+          "children": [
+            {
+              "label": "intermittent XT can be progressive"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "typically do not develop amblyopia"
+            },
+            {
+              "label": "often develop good stereopsis",
+              "children": [
+                {
+                  "label": "if no amblyopia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "every 4-6 months",
+              "children": [
+                {
+                  "label": "sooner if XT ...",
+                  "children": [
+                    {
+                      "label": "XT increases"
+                    },
+                    {
+                      "label": "XT becomes more frequent or stays out longer",
+                      "children": [
+                        {
+                          "label": ".>50% of the time"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "patient closes one eye"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "ask about symptoms",
+              "children": [
+                {
+                  "label": "not seeing well/ clumsiness/ frequent blinking/eye rubbing"
+                },
+                {
+                  "label": "diplopia"
+                }
+              ]
+            },
+            {
+              "label": "age of onset",
+              "children": [
+                {
+                  "label": "review old photos",
+                  "children": [
+                    {
+                      "label": "deviation"
+                    },
+                    {
+                      "label": "fixation preference"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "intermittent vs. constant"
+            },
+            {
+              "label": "one eye or both eyes (alternating)"
+            },
+            {
+              "label": "prematurity"
+            },
+            {
+              "label": "family hx of strabismus",
+              "children": [
+                {
+                  "label": "ROP can cause macular dragging --> + angle kappa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA",
+              "children": [
+                {
+                  "label": "preferential looking tests",
+                  "children": [
+                    {
+                      "label": "Teller cards"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pupil examination",
+              "children": [
+                {
+                  "label": "CN 3 palsy"
+                },
+                {
+                  "label": "RAPD"
+                }
+              ]
+            },
+            {
+              "label": "stereopsis",
+              "children": [
+                {
+                  "label": "titmus stereoacuity card"
+                }
+              ]
+            },
+            {
+              "label": "extraocular motility",
+              "children": [
+                {
+                  "label": "limitation of adduction"
+                },
+                {
+                  "label": "globe retraction on adduction",
+                  "children": [
+                    {
+                      "label": "DRS type 2"
+                    }
+                  ]
+                },
+                {
+                  "label": "A-pattern or V-pattern"
+                },
+                {
+                  "label": "DVD"
+                }
+              ]
+            },
+            {
+              "label": "measure deviation",
+              "children": [
+                {
+                  "label": "at near & distance"
+                },
+                {
+                  "label": "comitant vs incomitant"
+                },
+                {
+                  "label": "cover tests",
+                  "children": [
+                    {
+                      "label": "cover-uncover test",
+                      "children": [
+                        {
+                          "label": "differentiates tropia from phoria"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "alternate cover test",
+                      "children": [
+                        {
+                          "label": "prism alternate cover test",
+                          "children": [
+                            {
+                              "label": "plastic prisms should be held parallel to frontal plane"
+                            },
+                            {
+                              "label": "do not stack prisms"
+                            },
+                            {
+                              "label": "prisms can be divided between the 2 eyes"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "for measurement of deviation"
+                },
+                {
+                  "label": "light reflex tests",
+                  "children": [
+                    {
+                      "label": "Hirschberg",
+                      "children": [
+                        {
+                          "label": "22Δ/ mm"
+                        },
+                        {
+                          "label": "30Δ at pupil margin"
+                        },
+                        {
+                          "label": "60Δ at mid-iris"
+                        },
+                        {
+                          "label": "90Δ at limbus"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Krimsky",
+                      "children": [
+                        {
+                          "label": "uses prisms to center light reflex"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "anterior segment exam",
+              "children": [
+                {
+                  "label": "media opacities"
+                }
+              ]
+            },
+            {
+              "label": "posterior segment exam with dilation",
+              "children": [
+                {
+                  "label": "retinal pathology",
+                  "children": [
+                    {
+                      "label": "sensory XT"
+                    }
+                  ]
+                },
+                {
+                  "label": "optic nerve pathology"
+                }
+              ]
+            },
+            {
+              "label": "(cycloplegic or manifest) refraction",
+              "children": [
+                {
+                  "label": "intermittent XT can be associated with myopia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "cannot differentiate tropia from phoria"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Exotropia.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 265,
+      "connector_rejected": 3,
+      "connector_edges": 194,
+      "connector_width": 0.698,
+      "text_labels": 163,
+      "tree_nodes": 163,
+      "component_roots": 8,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.7321,
+      "root_font_size": 4.886,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "label": "Acute Dacryoadenitis",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "young woman with unilateral pain and swelling of upper eyelid"
+        }
+      ]
+    },
+    {
+      "label": "Image Description",
+      "children": [
+        {
+          "label": "swelling and redness of outer portion of upper eyelid"
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course",
+              "children": [
+                {
+                  "label": "pain"
+                },
+                {
+                  "label": "discharge"
+                },
+                {
+                  "label": "decreased vision",
+                  "children": [
+                    {
+                      "label": "orbital involvement"
+                    }
+                  ]
+                },
+                {
+                  "label": "double vision"
+                }
+              ]
+            },
+            {
+              "label": "fever"
+            },
+            {
+              "label": "systemic infections",
+              "children": [
+                {
+                  "label": "viral syndromes",
+                  "children": [
+                    {
+                      "label": "infectious mononucleosis (EBV)"
+                    },
+                    {
+                      "label": "mumps"
+                    },
+                    {
+                      "label": "influenza"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "APD"
+            },
+            {
+              "label": "EOM"
+            },
+            {
+              "label": "proptosis",
+              "children": [
+                {
+                  "label": "exophthalmometry"
+                },
+                {
+                  "label": "resistance to retropulsion"
+                }
+              ]
+            },
+            {
+              "label": "palpate lids/orbit for mass, warmth, tenderness"
+            },
+            {
+              "label": "examine parotid glands"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "staining & culture of discharge"
+        },
+        {
+          "label": "CT scan with contrast",
+          "children": [
+            {
+              "label": "better than MRI for lacrimal gland evaluation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "dacryoadenitis",
+          "children": [
+            {
+              "label": "children/young adults (acute)"
+            },
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "pain, redness, swelling"
+            },
+            {
+              "label": "chemosis"
+            },
+            {
+              "label": "s-shaped upper lid"
+            },
+            {
+              "label": "preauricular lymphadenopathy"
+            },
+            {
+              "label": "fever"
+            },
+            {
+              "label": "elevated WBC"
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "inflammatory",
+                  "children": [
+                    {
+                      "label": "most common"
+                    },
+                    {
+                      "label": "causes",
+                      "children": [
+                        {
+                          "label": "idiopathic",
+                          "children": [
+                            {
+                              "label": "more acute and painful"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "sarcoidosis"
+                        },
+                        {
+                          "label": "IgG4 disease"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "infectious",
+                  "children": [
+                    {
+                      "label": "viral",
+                      "children": [
+                        {
+                          "label": "infectious mononucleosis (EBV)",
+                          "children": [
+                            {
+                              "label": "most common viral pathogen"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "mumps"
+                        },
+                        {
+                          "label": "influenza"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "bacterial",
+                      "children": [
+                        {
+                          "label": "rare"
+                        },
+                        {
+                          "label": "pathogens",
+                          "children": [
+                            {
+                              "label": "staphylococcus (MRSA)"
+                            },
+                            {
+                              "label": "gonorrhea"
+                            },
+                            {
+                              "label": "tuberculosis"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "hordeolum/chalazion"
+        },
+        {
+          "label": "orbital/preseptal cellulitis"
+        },
+        {
+          "label": "idiopathic orbital inflammatory disease",
+          "children": [
+            {
+              "label": "afebrile"
+            },
+            {
+              "label": "normal WBC"
+            },
+            {
+              "label": "improves with steroids"
+            }
+          ]
+        },
+        {
+          "label": "lacrimal gland tumor",
+          "children": [
+            {
+              "label": "primary malignant lacrimal gland tumor",
+              "children": [
+                {
+                  "label": "painful",
+                  "children": [
+                    {
+                      "label": "subacute"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lymphoproliferative disease"
+            },
+            {
+              "label": "metastasis"
+            }
+          ]
+        },
+        {
+          "label": "rhabdomyosarcoma",
+          "children": [
+            {
+              "label": "children"
+            }
+          ]
+        },
+        {
+          "label": "leaking dermoid cyst"
+        },
+        {
+          "label": "retained FB"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "acute dacryoadenitis",
+          "children": [
+            {
+              "label": "viral"
+            },
+            {
+              "label": "bacterial"
+            },
+            {
+              "label": "non-infectious"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "unkown etiology",
+              "children": [
+                {
+                  "label": "empiric systemic antibiotics x 24 hours",
+                  "children": [
+                    {
+                      "label": "amoxicillin/clavulanate",
+                      "children": [
+                        {
+                          "label": "reassess",
+                          "children": [
+                            {
+                              "label": "if no response to antibiotics",
+                              "children": [
+                                {
+                                  "label": "should respond within 48 hours"
+                                },
+                                {
+                                  "label": "start systemic steroid"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "cephalexin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "signs of orbital cellulitis",
+              "children": [
+                {
+                  "label": "admit"
+                },
+                {
+                  "label": "IV antibiotics"
+                }
+              ]
+            },
+            {
+              "label": "viral",
+              "children": [
+                {
+                  "label": "cool compress"
+                },
+                {
+                  "label": "analgesics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "biopsy/debulking",
+              "children": [
+                {
+                  "label": "if no response to medical treatment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "good prognosis if treated early"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "daily until improvement"
+            },
+            {
+              "label": "watch for signs of orbital involvement"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Acute Dacryoadenitis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 182,
+      "connector_rejected": 10,
+      "connector_edges": 130,
+      "connector_width": 1.251,
+      "text_labels": 108,
+      "tree_nodes": 108,
+      "component_roots": 8,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.7143,
+      "root_font_size": 5.837,
+      "warnings": []
+    }
+  }
+}

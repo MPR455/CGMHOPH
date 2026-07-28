@@ -1,0 +1,753 @@
+{
+  "label": "7.11.5. Blepharoptosis (III): Classification/Neurogenic Ptosis",
+  "root": true,
+  "children": [
+    {
+      "label": "Congenital neurogenic ptosis",
+      "children": [
+        {
+          "label": "innervational defects that occur during embryonic development"
+        },
+        {
+          "label": "rare"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "congenital oculomotor nerve III (CN III) palsy",
+              "children": [
+                {
+                  "label": "ptosis",
+                  "children": [
+                    {
+                      "label": "very rarely an isolated finding"
+                    }
+                  ]
+                },
+                {
+                  "label": "inability to elevate, depress, or adduct the globe",
+                  "children": [
+                    {
+                      "label": "palsy may be partial or complete"
+                    }
+                  ]
+                },
+                {
+                  "label": "± dilated pupils"
+                },
+                {
+                  "label": "aberrant innervation uncommon"
+                },
+                {
+                  "label": "management",
+                  "children": [
+                    {
+                      "label": "management of strabismus, amblyopia, and ptosis is difficult"
+                    },
+                    {
+                      "label": "frontalis suspension",
+                      "children": [
+                        {
+                          "label": "leads to some degree of lagophthalmos"
+                        },
+                        {
+                          "label": "postoperative management may be complicated by",
+                          "children": [
+                            {
+                              "label": "diplopia"
+                            },
+                            {
+                              "label": "exposure keratitis"
+                            },
+                            {
+                              "label": "corneal ulceration"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "congenital Horner syndrome",
+              "children": [
+                {
+                  "label": "pathogenesis",
+                  "children": [
+                    {
+                      "label": "due to an innervational deficit to the sympathetic Müller muscle"
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical presentation",
+                  "children": [
+                    {
+                      "label": "mild ptosis"
+                    },
+                    {
+                      "label": "lower eyelid reverse ptosis"
+                    },
+                    {
+                      "label": "decreased vertical palpebral fissure",
+                      "children": [
+                        {
+                          "label": "may falsely suggest enophthalmos"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "miosis",
+                      "children": [
+                        {
+                          "label": "most apparent in dim illumination"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "anhidrosis"
+                    },
+                    {
+                      "label": "decreased pigmentation of the iris"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Marcus Gunn jaw-winking syndrome",
+              "children": [
+                {
+                  "label": "most common form of congenital synkinetic neurogenic ptosis"
+                },
+                {
+                  "label": "pathogenesis",
+                  "children": [
+                    {
+                      "label": "aberrant connections between the motor division of CN V and the levator muscle"
+                    },
+                    {
+                      "label": "abnormal connections between CN III and other cranial nerves"
+                    }
+                  ]
+                },
+                {
+                  "label": "unilaterally ptotic eyelid elevates with jaw movements",
+                  "children": [
+                    {
+                      "label": "lateral mandibular movement to the contralateral side"
+                    },
+                    {
+                      "label": "noticed by the mother when she is feeding/ nursing the baby"
+                    }
+                  ]
+                },
+                {
+                  "label": "some forms of Duane retraction syndrome",
+                  "children": [
+                    {
+                      "label": "elevation of a ptotic eyelid with movement of the globe"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "myasthenia gravis (MG)",
+      "children": [
+        {
+          "label": "autoimmune",
+          "children": [
+            {
+              "label": "autoantibodies attack the acetylcholine receptors of the neuromuscular junction"
+            },
+            {
+              "label": "± other autoimmune disorders",
+              "children": [
+                {
+                  "label": "thyroid eye disease",
+                  "children": [
+                    {
+                      "label": "5%–10%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "generalized MG",
+          "children": [
+            {
+              "label": "most common"
+            },
+            {
+              "label": "associated thymoma",
+              "children": [
+                {
+                  "label": "10%",
+                  "children": [
+                    {
+                      "label": "chest CT should be considered for all patients with MG"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "surgical thymectomy",
+              "children": [
+                {
+                  "label": "clinical improvement in 75%"
+                },
+                {
+                  "label": "complete remission in 35%"
+                }
+              ]
+            },
+            {
+              "label": "early manifestations of MG are often ophthalmic",
+              "children": [
+                {
+                  "label": "ptosis",
+                  "children": [
+                    {
+                      "label": "most common"
+                    }
+                  ]
+                },
+                {
+                  "label": "diplopia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular MG",
+          "children": [
+            {
+              "label": "effects of MG are isolated to the periocular musculature"
+            },
+            {
+              "label": "marked variability in the degree of ptosis during the day and complaints of diplopia"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "no single test for MG will detect all cases"
+            },
+            {
+              "label": "serum assays",
+              "children": [
+                {
+                  "label": "acetylcholine receptor antibody tests",
+                  "children": [
+                    {
+                      "label": "3 types",
+                      "children": [
+                        {
+                          "label": "binding antibodies",
+                          "children": [
+                            {
+                              "label": "90% of patients with generalized MG"
+                            },
+                            {
+                              "label": "50-70% of patients with ocular MG",
+                              "children": [
+                                {
+                                  "label": "antibody levels are lower in ocular MG",
+                                  "children": [
+                                    {
+                                      "label": "acetylcholine receptor antibody levels below the abnormal reference range may be suggestive of ocular MG"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "blocking antibodies",
+                          "children": [
+                            {
+                              "label": "rarely present (1%) without binding antibodies"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "modulating antibodies",
+                          "children": [
+                            {
+                              "label": "present as frequently as binding antibodies"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "blocking and modulating antibody testing is for patients who test negative for the binding antibody and for whom evidence of autoimmune MG is necessary"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "anti–muscle-specific kinase (MuSK) antibodies",
+                  "children": [
+                    {
+                      "label": "may detect MG in some patients who do not have anti–acetylcholine receptor antibodies"
+                    }
+                  ]
+                },
+                {
+                  "label": "antibodies against low-density lipoprotein receptor–related protein (LRP4)",
+                  "children": [
+                    {
+                      "label": "a novel diagnostic marker"
+                    },
+                    {
+                      "label": "additional studies will need to be performed to fully characterize this antibody"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "acetylcholine receptor antibody test"
+            },
+            {
+              "label": "edrophonium chloride test",
+              "children": [
+                {
+                  "label": "acetylcholinesterase inhibitor"
+                },
+                {
+                  "label": "short-acting",
+                  "children": [
+                    {
+                      "label": "causes a brief improvement in ptosis or ocular motility"
+                    }
+                  ]
+                },
+                {
+                  "label": "rare but serious adverse effects",
+                  "children": [
+                    {
+                      "label": "bradycardia"
+                    },
+                    {
+                      "label": "respiratory arrest"
+                    },
+                    {
+                      "label": "bronchospasm"
+                    },
+                    {
+                      "label": "syncopal episodes"
+                    },
+                    {
+                      "label": "cholinergic crisis",
+                      "children": [
+                        {
+                          "label": "other adverse effects",
+                          "children": [
+                            {
+                              "label": "sweating"
+                            },
+                            {
+                              "label": "lacrimation"
+                            },
+                            {
+                              "label": "salivation"
+                            },
+                            {
+                              "label": "nausea"
+                            },
+                            {
+                              "label": "vomiting"
+                            },
+                            {
+                              "label": "fasciculations"
+                            },
+                            {
+                              "label": "abdominal cramping"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "not commonly performed in eye clinics"
+                    },
+                    {
+                      "label": "atropine sulfate (0.4–0.6 mg) should be available",
+                      "children": [
+                        {
+                          "label": "some physicians pretreat with atropine (0.4 mg subcutaneously)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "consult the primary physician for patients with a history of cardiac or pulmonary disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "technique",
+                  "children": [
+                    {
+                      "label": "initial test dose of 2 mg (0.2 mL) intravenously",
+                      "children": [
+                        {
+                          "label": "if no response, inject additional doses of 4 mg",
+                          "children": [
+                            {
+                              "label": "up to a total of 10 mg"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "patient is observed for 60 seconds after injection"
+                    }
+                  ]
+                },
+                {
+                  "label": "positive test result",
+                  "children": [
+                    {
+                      "label": "symptoms disappear or decrease",
+                      "children": [
+                        {
+                          "label": "eyelid elevates or motility improves",
+                          "children": [
+                            {
+                              "label": "when the ocular symptom is marked, the endpoint is often dramatic"
+                            },
+                            {
+                              "label": "when the ocular symptom is subtle",
+                              "children": [
+                                {
+                                  "label": "Maddox rod tests with prisms"
+                                },
+                                {
+                                  "label": "diplopia fields"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "false-positive responses are rare"
+                },
+                {
+                  "label": "a negative test result does not exclude the diagnosis of MG",
+                  "children": [
+                    {
+                      "label": "repeat testing at a later date"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "neostigmine methylsulfate test",
+              "children": [
+                {
+                  "label": "for children and for adults without ptosis who may require a longer observation period for ocular alignment measurements"
+                },
+                {
+                  "label": "adverse reactions",
+                  "children": [
+                    {
+                      "label": "similar to those for edrophonium"
+                    },
+                    {
+                      "label": "salivation"
+                    },
+                    {
+                      "label": "fasciculations"
+                    },
+                    {
+                      "label": "gastrointestinal discomfort"
+                    }
+                  ]
+                },
+                {
+                  "label": "intramuscular neostigmine and atropine are injected concurrently"
+                },
+                {
+                  "label": "positive test result produces improvement of signs within 30–45 minutes"
+                }
+              ]
+            },
+            {
+              "label": "ice-pack test",
+              "children": [
+                {
+                  "label": "cold inhibits acetylcholinesterase",
+                  "children": [
+                    {
+                      "label": "enhances neuromuscular transmission"
+                    }
+                  ]
+                },
+                {
+                  "label": "ice pack is placed over lightly closed eyes x 2-3 minutes",
+                  "children": [
+                    {
+                      "label": "improvement of ptosis occurs in most patients"
+                    },
+                    {
+                      "label": "cooling effect may be insufficient to overcome complete myasthenic ptosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "fewer side effects"
+                },
+                {
+                  "label": "only if the patient has ptosis"
+                }
+              ]
+            },
+            {
+              "label": "sleep or rest test",
+              "children": [
+                {
+                  "label": "patient lies (with eyes closed) in a darkened room for ≈ 20 minutes"
+                },
+                {
+                  "label": "measurements are repeated immediately after the patient “wakes up”"
+                }
+              ]
+            },
+            {
+              "label": "electromyographic repetitive nerve stimulation",
+              "children": [
+                {
+                  "label": "characteristic decremental response in many patients with systemic MG"
+                },
+                {
+                  "label": "single-fiber EMG"
+                }
+              ]
+            },
+            {
+              "label": "single-fiber electromyography",
+              "children": [
+                {
+                  "label": "most sensitive for MG"
+                }
+              ]
+            },
+            {
+              "label": "all patients with MG must be investigated radiologically for thymomas",
+              "children": [
+                {
+                  "label": "10% on CT"
+                },
+                {
+                  "label": "malignant thymomas",
+                  "children": [
+                    {
+                      "label": "in a small percentage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "serologic testing for thyroid dysfunction and pernicious anemia",
+              "children": [
+                {
+                  "label": "high coexistence of MG with other autoimmune disorder"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "neuro-ophthalmologic consultation"
+            },
+            {
+              "label": "ptosis of ocular MG often responds poorly to systemic anticholinesterase medication alone",
+              "children": [
+                {
+                  "label": "response may improve with addition of corticosteroids"
+                }
+              ]
+            },
+            {
+              "label": "surgical treatment of ptosis",
+              "children": [
+                {
+                  "label": "frontalis suspension"
+                },
+                {
+                  "label": "should be delayed until medical management is maximized"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "etiology of acquired neurogenic ptosis",
+      "children": [
+        {
+          "label": "most common causes",
+          "children": [
+            {
+              "label": "acquired oculomotor (CN III) palsy"
+            },
+            {
+              "label": "acquired Horner syndrome"
+            },
+            {
+              "label": "MG"
+            }
+          ]
+        },
+        {
+          "label": "less common causes",
+          "children": [
+            {
+              "label": "myotonic dystrophy"
+            },
+            {
+              "label": "chronic progressive external ophthalmoplegia"
+            },
+            {
+              "label": "Guillain-Barré syndrome"
+            },
+            {
+              "label": "oculopharyngeal dystrophy"
+            },
+            {
+              "label": "iatrogenic botulism",
+              "children": [
+                {
+                  "label": "botulinum toxin injection in the forehead or orbital region to ameliorate benign essential blepharospasm or to reduce facial rhytids may result in diffusion of the neurotoxin into the levator muscle complex"
+                },
+                {
+                  "label": "resolves after a few weeks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "acquired oculomotor (CN III) palsy",
+      "children": [
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "ischemic",
+              "children": [
+                {
+                  "label": "most acquired oculomotor palsies are ischemic",
+                  "children": [
+                    {
+                      "label": "diabetes mellitus"
+                    },
+                    {
+                      "label": "hypertension"
+                    },
+                    {
+                      "label": "arteriosclerotic disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "pupil-sparing"
+                },
+                {
+                  "label": "± pain"
+                },
+                {
+                  "label": "resolve spontaneously with satisfactory levator function within 3 months",
+                  "children": [
+                    {
+                      "label": "if a pupil-sparing CN III palsy fails to resolve spontaneously within 3–6 months, further workup for a compressive lesion is indicated"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "compressive",
+              "children": [
+                {
+                  "label": "CN III palsy involving the pupil",
+                  "children": [
+                    {
+                      "label": "needs immediate workup (including neuroimaging)",
+                      "children": [
+                        {
+                          "label": "rule out a compressive neoplastic or aneurysmal lesion"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "surgical correction of ptosis related to CN III palsy",
+          "children": [
+            {
+              "label": "frontalis suspension",
+              "children": [
+                {
+                  "label": "should be reserved for patients in whom strabismus surgery allows single binocular vision in a useful field of gaze"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.11.5. Blepharoptosis (III) - Classification-Neurogenic Ptosis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 187,
+      "connector_rejected": 0,
+      "connector_edges": 187,
+      "connector_width": 0.672,
+      "text_labels": 190,
+      "tree_nodes": 190,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 1.0,
+      "root_font_size": 2.856,
+      "warnings": []
+    }
+  }
+}

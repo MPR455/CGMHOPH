@@ -1,0 +1,812 @@
+{
+  "label": "Corneal Ulcer",
+  "root": true,
+  "children": [
+    {
+      "label": "Case description",
+      "children": [
+        {
+          "label": "college student with history of contact lens wear complains of rapid onset of pain, redness, and decreased vision of his left eye over the past day"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "large corneal ulcer with surrounding corneal edema and hypopyon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "stain",
+          "children": [
+            {
+              "label": "gram stain",
+              "children": [
+                {
+                  "label": "slender gram-negative rods (Gram stain, original magnification ×1000.)"
+                }
+              ]
+            },
+            {
+              "label": "giemsa stain",
+              "children": [
+                {
+                  "label": "acanthamoeba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "culture",
+          "children": [
+            {
+              "label": "corneal ulcer"
+            },
+            {
+              "label": "contact lens & contact lens case"
+            },
+            {
+              "label": "use calcium alginate swab"
+            },
+            {
+              "label": "culture agar",
+              "children": [
+                {
+                  "label": "blood agar"
+                },
+                {
+                  "label": "chocolate agar"
+                },
+                {
+                  "label": "thioglycolate agar"
+                },
+                {
+                  "label": "Sabourad agar"
+                }
+              ]
+            },
+            {
+              "label": "indications for culture",
+              "children": [
+                {
+                  "label": "infiltrates that extend",
+                  "children": [
+                    {
+                      "label": "to the middle of the cornea"
+                    },
+                    {
+                      "label": "into deep stroma"
+                    },
+                    {
+                      "label": "across a large area (>2 mm)"
+                    }
+                  ]
+                },
+                {
+                  "label": "history or clinical features suggest fungal, amebic, mycobacterial, or drug-resistant organisms"
+                },
+                {
+                  "label": "cases unresponsive to initial empiric therapy",
+                  "children": [
+                    {
+                      "label": "+- discontinuation of antibiotics for 12–24 hours"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "pseudomonas corneal ulcer"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "bacterial",
+          "children": [
+            {
+              "label": "pseudomonas"
+            },
+            {
+              "label": "infectious crystalline keratopathy",
+              "children": [
+                {
+                  "label": "risk factors",
+                  "children": [
+                    {
+                      "label": "corticosteroid use"
+                    },
+                    {
+                      "label": "contact lens wear"
+                    },
+                    {
+                      "label": "previous corneal surgery",
+                      "children": [
+                        {
+                          "label": "penetrating keratoplasty"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "causative agents",
+                  "children": [
+                    {
+                      "label": "fungal",
+                      "children": [
+                        {
+                          "label": "α-hemolytic Streptococcus species (Streptococcus viridans)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fungal",
+          "children": [
+            {
+              "label": "septate filamentous Fungi",
+              "children": [
+                {
+                  "label": "Fusarium"
+                },
+                {
+                  "label": "Aspergillus"
+                }
+              ]
+            },
+            {
+              "label": "nonseptate filamentous Fungi",
+              "children": [
+                {
+                  "label": "Zygomycetes",
+                  "children": [
+                    {
+                      "label": "Mucor"
+                    },
+                    {
+                      "label": "Rhizopus"
+                    },
+                    {
+                      "label": "Absidia"
+                    }
+                  ]
+                },
+                {
+                  "label": "Pneumocystis jiroveci (previously Pneumocystis carinii)",
+                  "children": [
+                    {
+                      "label": "not Gram stain, except Candida"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "yeast",
+              "children": [
+                {
+                  "label": "Candida"
+                }
+              ]
+            },
+            {
+              "label": "smear",
+              "children": [
+                {
+                  "label": "Gomori methenamine silver (GMS)"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "topical natamycin 5% suspension",
+                  "children": [
+                    {
+                      "label": "for most filamentous fungi particularly Fusarium"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical voriconazole 1%",
+                  "children": [
+                    {
+                      "label": "inferior to natamycin"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical amphotericin B (0.15%–0.30%)",
+                  "children": [
+                    {
+                      "label": "for Aspergillus",
+                      "children": [
+                        {
+                          "label": "for yeast keratitis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "acanthamoeba",
+          "children": [
+            {
+              "label": "pain"
+            },
+            {
+              "label": "perineural invasion"
+            },
+            {
+              "label": "satellite lesions"
+            },
+            {
+              "label": "ring-shaped infiltrate",
+              "children": [
+                {
+                  "label": "nonnutrient agar with E coli or Enterobacter aerogenes overlay"
+                }
+              ]
+            },
+            {
+              "label": "topical administration",
+              "children": [
+                {
+                  "label": "biguanides: chlorhexidine",
+                  "children": [
+                    {
+                      "label": "efficacy against both cysts and trophozoites --> mainstay of pharmacologic treatment"
+                    }
+                  ]
+                },
+                {
+                  "label": "diamidines: propamidine, hexamidine"
+                },
+                {
+                  "label": "aminoglycosides: neomycin, paromomycin"
+                },
+                {
+                  "label": "imidazoles/triazoles: voriconazole, miconazole, clotrimazole, ketoconazole, itraconazole"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "herpes virus",
+          "children": [
+            {
+              "label": "lid vesicles"
+            },
+            {
+              "label": "corneal dendrite"
+            }
+          ]
+        },
+        {
+          "label": "atypical mycobacteria",
+          "children": [
+            {
+              "label": "vegetable injury"
+            },
+            {
+              "label": "post-surgery",
+              "children": [
+                {
+                  "label": "after refractive surgery"
+                }
+              ]
+            },
+            {
+              "label": "indolent course"
+            },
+            {
+              "label": "keep culture plates x 8 weeks"
+            }
+          ]
+        },
+        {
+          "label": "topical anesthetic abuse",
+          "children": [
+            {
+              "label": "large ring opacity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "culture",
+      "children": [
+        {
+          "label": "characteristic trails"
+        },
+        {
+          "label": "smears",
+          "children": [
+            {
+              "label": "Giemsa (also for Chlamydia)"
+            },
+            {
+              "label": "periodic acid–Schiff (PAS)"
+            },
+            {
+              "label": "calcofluor white"
+            },
+            {
+              "label": "acridine orange"
+            },
+            {
+              "label": "in vivo confocal microscopy shows the cyst forms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "broad spectrum fortified topical antibiotics",
+              "children": [
+                {
+                  "label": "vancomycin"
+                },
+                {
+                  "label": "ceftazidime"
+                },
+                {
+                  "label": "q1h"
+                }
+              ]
+            },
+            {
+              "label": "cycloplegia"
+            },
+            {
+              "label": "steroids worsen keratitis, especially",
+              "children": [
+                {
+                  "label": "fungus"
+                },
+                {
+                  "label": "atypical mycobacteria"
+                },
+                {
+                  "label": "pseudomonas"
+                }
+              ]
+            },
+            {
+              "label": "systemic antibiotics",
+              "children": [
+                {
+                  "label": "oral fluoroquinolone",
+                  "children": [
+                    {
+                      "label": "scleral extension"
+                    },
+                    {
+                      "label": "impending/frank perforation"
+                    }
+                  ]
+                },
+                {
+                  "label": "neisseria gonorrhea",
+                  "children": [
+                    {
+                      "label": "conjunctivitis",
+                      "children": [
+                        {
+                          "label": "outpatient"
+                        },
+                        {
+                          "label": "IM ceftriaxone",
+                          "children": [
+                            {
+                              "label": "1 gr"
+                            },
+                            {
+                              "label": "single"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "keratitis",
+                      "children": [
+                        {
+                          "label": "admit"
+                        },
+                        {
+                          "label": "IV ceftriaxone",
+                          "children": [
+                            {
+                              "label": "1 gr"
+                            },
+                            {
+                              "label": "q12-24 hr",
+                              "children": [
+                                {
+                                  "label": "X3 days"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "haemophilus",
+                  "children": [
+                    {
+                      "label": "oral amoxicillin/clavulanate"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "low-risk",
+                  "children": [
+                    {
+                      "label": "criteria",
+                      "children": [
+                        {
+                          "label": "small, nonstaining peripheral infiltrate with no more than minimal anterior chamber reaction"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "non-CL wearer",
+                      "children": [
+                        {
+                          "label": "fluoroquinolone or polymyxin B/trimethoprim",
+                          "children": [
+                            {
+                              "label": "q1-2 hr while awake"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "CL wearer",
+                      "children": [
+                        {
+                          "label": "fluoroquinolone +- polymyxin B/trimethoprim",
+                          "children": [
+                            {
+                              "label": "q1 hr while awake"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "borderline vision threatening",
+                  "children": [
+                    {
+                      "label": "loading dose",
+                      "children": [
+                        {
+                          "label": "1 drop q5 min x 5"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "fluoroquinolone ± polymyxin B/trimethoprim q1h around the clock"
+                    }
+                  ]
+                },
+                {
+                  "label": "vision threatening",
+                  "children": [
+                    {
+                      "label": "criteria",
+                      "children": [
+                        {
+                          "label": "size >1.5-2 mm"
+                        },
+                        {
+                          "label": "involves visual axis"
+                        },
+                        {
+                          "label": "unresponsive to treatment",
+                          "children": [
+                            {
+                              "label": "Gram (-)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gram (+)"
+                    },
+                    {
+                      "label": "fortified cefazolin or vancomycin",
+                      "children": [
+                        {
+                          "label": "alternating with",
+                          "children": [
+                            {
+                              "label": "fortified tobramycin (gentamicin) or ceftazidime"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "loading dose",
+                      "children": [
+                        {
+                          "label": "1 drop q5 min x 5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "corneal transplant",
+              "children": [
+                {
+                  "label": "indications",
+                  "children": [
+                    {
+                      "label": "keratitis is unresponsive to antimicrobial therapy"
+                    },
+                    {
+                      "label": "descemetocele formation or perforation occurs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Dos",
+          "children": [
+            {
+              "label": "discontinue CL wear"
+            },
+            {
+              "label": "throw out all open CLs, cases, solutions"
+            },
+            {
+              "label": "protective eyewear"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "guarded prognosis"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "corneal perforation"
+            },
+            {
+              "label": "dense central scar",
+              "children": [
+                {
+                  "label": "corneal transplant"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "daily until improvement",
+              "children": [
+                {
+                  "label": "criteria for monitoring",
+                  "children": [
+                    {
+                      "label": "pain"
+                    },
+                    {
+                      "label": "size of corneal epithelial defect"
+                    },
+                    {
+                      "label": "size & depth of infiltrate"
+                    },
+                    {
+                      "label": "AC rxn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "CL wear",
+              "children": [
+                {
+                  "label": "overnight CL wear"
+                },
+                {
+                  "label": "expired CL wear"
+                },
+                {
+                  "label": "continuous CL wear"
+                },
+                {
+                  "label": "CL wear in hot tub/sauna/ lake/ocean"
+                },
+                {
+                  "label": "care/cleaning",
+                  "children": [
+                    {
+                      "label": "home-made saline solution",
+                      "children": [
+                        {
+                          "label": "tap water"
+                        },
+                        {
+                          "label": "distilled water"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "expired solutions"
+                    },
+                    {
+                      "label": "particular brand of solution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "prior episodes of eye redness",
+              "children": [
+                {
+                  "label": "herpes"
+                }
+              ]
+            },
+            {
+              "label": "topical anesthetic use"
+            },
+            {
+              "label": "recent trauma/surgery"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "corneal epithelial defect",
+              "children": [
+                {
+                  "label": "size"
+                }
+              ]
+            },
+            {
+              "label": "corneal infiltrate",
+              "children": [
+                {
+                  "label": "size"
+                },
+                {
+                  "label": "depth"
+                },
+                {
+                  "label": "ring infiltrate"
+                }
+              ]
+            },
+            {
+              "label": "corneal perineuritis",
+              "children": [
+                {
+                  "label": "acanthamoeba"
+                }
+              ]
+            },
+            {
+              "label": "endothelial plaque"
+            },
+            {
+              "label": "AC reaction",
+              "children": [
+                {
+                  "label": "hypopyon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Corneal Ulcer.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 358,
+      "connector_rejected": 6,
+      "connector_edges": 243,
+      "connector_width": 0.736,
+      "text_labels": 203,
+      "tree_nodes": 203,
+      "component_roots": 8,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.6788,
+      "root_font_size": 5.155,
+      "warnings": []
+    }
+  }
+}

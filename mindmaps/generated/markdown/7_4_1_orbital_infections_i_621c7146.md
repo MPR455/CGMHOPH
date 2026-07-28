@@ -1,0 +1,225 @@
+---
+title: "7.4.1. Orbital Infections (I)"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.4.1. Orbital Infections (I).pdf"
+---
+
+# 7.4.1. Orbital Infections (I)
+
+## Hierarchy
+
+- Introduction to orbital inflammations
+  - etiology
+    - specific inflammations
+      - identifiable cause
+        - infection
+        - autoimmune disease
+    - nonspecific inflammations
+      - no known local or systemic cause
+      - diagnosis of exclusion
+- Cellulitis
+  - most common cause of cellulitis is bacterial infection
+    - direct spread from adjacent sinusitis, dacryocystitis, or dacryoadenitis
+      - most commonly caused by underlying sinusitis
+        - particularly if no obvious source of inoculation is noted
+    - direct inoculation following trauma or skin infection
+    - hematologic spread from a distant focus (eg, otitis media, pneumonia)
+  - anatomic classification
+    - preseptal cellulitis
+      - anterior to orbital septum
+    - orbital cellulitis
+      - posterior to orbital septum
+    - often represent a continuum
+- Orbital cellulitis
+  - etiology
+    - extension from periorbital structures
+      - sinusitis
+        - usually a secondary extension of acute or chronic bacterial sinusitis
+      - dacryocystitis
+      - dental infection
+    - exogenous
+      - trauma
+      - surgery
+    - endogenous
+      - bacteremia
+    - intraorbital
+      - dacryoadenitis
+      - endophthalmitis
+  - clinical presentation
+    - fever
+    - leukocytosis
+      - 75%
+    - erythema
+    - chemosis
+    - ptosis
+    - proptosis
+    - restriction of and pain with ocular movement
+    - optic neuropathy
+      - decreased vision
+      - impaired color vision
+      - restricted visual fields
+      - pupillary abnormalities
+      - demands immediate investigation and aggressive management
+  - management
+    - imaging of the orbit and paranasal sinuses is essential
+    - identification of sinusitis is an indication for otolaryngologic consultation
+    - IV antibiotic therapy
+      - broad-spectrum coverage
+      - adults
+        - multiple organisms
+          - gram-positive cocci
+          - H influenzae
+          - Moraxella catarrhalis
+          - anaerobes
+        - early surgical intervention to drain the involved sinus is usually indicated
+          - especially if orbital findings progress during treatment
+      - children
+        - single gram-positive organism
+        - less likely to require surgical drainage of the infected sinus
+    - nasal decongestants
+    - steroids
+      - when used in addition to antibiotic therapy, may hasten recovery
+      - low risk of worsening infection
+    - orbital cellulitis following blowout fractures
+      - limited to patients with underlying sinus disease
+      - prophylactic antibiotics are recommended if CT scan suggests ongoing sinusitis
+  - complications
+    - subperiosteal abscess
+      - clinical presentation
+        - progressive proptosis
+        - globe displacement
+        - failure to show clinical improvement despite appropriate antibiotic therapy
+        - usually localize in the subperiosteal space
+          - adjacent to the infected sinus
+          - may extend through the periosteum into the orbital soft tissues
+      - treatment
+        - medical
+          - isolated medial or inferior subperiosteal abscess in child <9 years
+            - isolated ethmoid sinusitis, intact vision, and only moderate proptosis
+        - surgical (+ medical)
+          - patient aged ≥9 years
+            - multiple pathogens that are drug resistant
+          - presence of frontal sinusitis
+          - nonmedial location of subperiosteal abscess (SPA)
+          - large SPA
+          - suspicion of anaerobic infection (presence of gas in abscess on CT)
+          - recurrence of SPA after prior drainage
+          - evidence of chronic sinusitis (eg, nasal polyps)
+          - acute optic nerve or retinal compromise
+          - infection of dental origin (anaerobic infection more likely)
+        - concomitant sinus surgery
+          - if sinusitis is present
+          - particularly anaerobic organisms
+        - most patients with orbital cellulitis + abscess respond to appropriate medical ± surgical treatment within 24–48 hours
+    - cavernous sinus thrombosis
+      - rapid progression of proptosis
+      - development of ipsilateral ophthalmoplegia
+      - onset of anesthesia in both the first and second divisions of the trigeminal nerve
+      - contralateral ophthalmoplegia
+        - rare
+    - meningitis/brain abscess
+      - lumbar puncture
+      - MRI confirms the diagnosis
+    - cranial neuropathy
+    - blindness
+    - death
+- preseptal cellulitis
+  - source of infection
+    - adults
+      - penetrating cutaneous trauma
+      - dacryocystitis
+    - children
+      - a common cause is underlying sinusitis
+      - organisms
+        - past
+          - Haemophilus influenzae
+            - infants and children < 5 years
+            - bacteremia
+            - septicemia
+            - meningitis
+            - H influenzae type b vaccine has significantly diminished this etiology
+        - currently
+          - gram-positive cocci
+  - clinical presentation
+    - eyelid edema, erythema, and inflammation
+    - globe is uninvolved
+      - pupillary reaction, vision, and ocular motility are normal
+    - pain on eye movement and chemosis are absent
+  - diagnostic workup
+    - workup should proceed quickly, particularly in children
+    - CT of the orbit and sinuses
+      - if eyelid swelling is profound enough to preclude examination of the globe and exclude orbital cellulitis
+      - if no direct inoculation site is identified
+  - management
+    - children
+      - outpatient therapy
+        - if examination of child is reliable and follow-up examinations can be ensured
+        - oral antibiotics
+          - anterior etiology
+            - cephalexin
+          - infection originating in the sinuses
+            - amoxicillin clavulanate
+          - if CA-MRSA is a possible etiologic agent
+            - trimethoprim-sulfamethoxazole (TMP-SMX)
+      - hospitalization
+        - intravenous (IV) antibiotics
+          - ceftriaxone
+          - vancomycin
+        - indications
+          - in some infants
+          - if cellulitis progresses despite outpatient therapy
+      - frequent warm compresses
+      - nasal decongestants
+        - if associated sinusitis
+    - teenagers and adults
+      - usually arises from a superficial source
+      - responds quickly to appropriate oral antibiotics
+        - ampicillin-sulbactam
+        - TMP-SMX
+        - doxycycline
+        - clindamycin
+      - warm compresses
+      - Staphylococcus aureus
+        - most common pathogen in patients with preseptal cellulitis resulting from trauma
+        - responds rapidly to a penicillinase-resistant penicillin
+          - methicillin
+          - ampicillin-sulbactam
+        - MRSA
+          - community-associated (CA-MRSA)
+            - fluctuant abscess with surrounding cellulitis
+            - pain out of proportion to findings
+            - susceptible to a range of antibiotics
+              - TMP-SMX
+              - rifampin
+              - clindamycin
+          - hospital-associated MRSA
+            - sensitive only to
+              - vancomycin
+              - linezolid
+          - both types of MRSA may result in acute morbidity and long-term disability
+          - MRSA has also been associated with
+            - necrotizing fasciitis
+            - orbital cellulitis
+            - endogenous endophthalmitis
+            - panophthalmitis
+            - cavernous sinus thrombosis
+          - successful management demands a high degree of clinical suspicion and prompt medical and surgical intervention
+          - consult with infectious diseases specialist
+    - older adults
+      - may not manifest the typical signs of inflammation
+      - may not be associated with febrile reaction
+      - response to antibiotics may be delayed
+      - surgical intervention to excise devitalized tissue may be necessary
+    - start antibiotics as promptly as possible
+      - prompt sensitivity studies are indicated
+    - prompt hospital admission, CT, and IV antibiotics
+      - if no response to oral antibiotics within 48 hours
+      - if orbital involvement becomes evident
+    - consult the primary care physician or a specialist in infectious diseases
+    - surgical drainage
+      - localized abscess
+      - incision and drainage can usually be performed directly over the abscess
+      - care should be taken to avoid
+        - damaging the levator aponeurosis in the upper eyelid
+        - opening the orbital septum

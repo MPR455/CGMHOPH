@@ -1,0 +1,279 @@
+{
+  "label": "10.4.8. Open Angle Glaucoma (VIII): Secondary Open-Angle Glaucoma (VI)",
+  "root": true,
+  "children": [
+    {
+      "label": "Schwartz Syndrome (Schwartz-Matsuo Syndrome)",
+      "children": [
+        {
+          "label": "elevated IOP in association with a rhegmatogenous retinal detachment",
+          "children": [
+            {
+              "label": "rhegmatogenous retinal detachments typically lower IOP",
+              "children": [
+                {
+                  "label": "increased outflow by active pumping of fluid through the exposed retinal pigment epithelium"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "chronic rhegmatogenous retinal detachment"
+            },
+            {
+              "label": "migrate through the retinal tear",
+              "children": [
+                {
+                  "label": "liberation of photoreceptor outer segments"
+                }
+              ]
+            },
+            {
+              "label": "reach the anterior chamber and impede aqueous outflow",
+              "children": [
+                {
+                  "label": "photoreceptor outer segments in the aqueous humor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "IOP tends to normalize after successful retinal reattachment"
+        }
+      ]
+    },
+    {
+      "label": "Drugs and Glaucoma",
+      "children": [
+        {
+          "label": "corticosteroid-induced glaucoma",
+          "children": [
+            {
+              "label": "risk factors",
+              "children": [
+                {
+                  "label": "route of administration",
+                  "children": [
+                    {
+                      "label": "topical, periocular, intravitreal, inhaled, or systemic"
+                    },
+                    {
+                      "label": "systemic administration increases IOP less frequently than topical administration"
+                    },
+                    {
+                      "label": "intravitreal corticosteroid injection",
+                      "children": [
+                        {
+                          "label": "transient elevation of IOP in >50%"
+                        },
+                        {
+                          "label": "≤25% may require topical medications"
+                        },
+                        {
+                          "label": "1%–2% may require incisional glaucoma surgery"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "intravitreal implants",
+                      "children": [
+                        {
+                          "label": "frequently associated with elevated IOP, often requiring patients to undergo incisional glaucoma surgery"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "type and potency of the agent",
+                  "children": [
+                    {
+                      "label": "anti-inflammatory potency parallels ocular hypertensive potency",
+                      "children": [
+                        {
+                          "label": "less likely to raise IOP",
+                          "children": [
+                            {
+                              "label": "fluorometholone"
+                            },
+                            {
+                              "label": "rimexolone"
+                            },
+                            {
+                              "label": "medrysone"
+                            },
+                            {
+                              "label": "loteprednol"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "more likely to raise IOP",
+                          "children": [
+                            {
+                              "label": "prednisolone"
+                            },
+                            {
+                              "label": "dexamethasone"
+                            },
+                            {
+                              "label": "difluprednate"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "frequency of administration"
+                },
+                {
+                  "label": "susceptibility of the patient",
+                  "children": [
+                    {
+                      "label": "even weaker corticosteroids or lower concentrations of stronger drugs can raise IOP in susceptible individuals"
+                    },
+                    {
+                      "label": "1/3 of all nonglaucoma patients",
+                      "children": [
+                        {
+                          "label": "only a small percentage will have a clinically significant elevation in IOP"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "high percentage of patients with POAG"
+                    }
+                  ]
+                },
+                {
+                  "label": "endogenous corticosteroids (eg, Cushing syndrome)",
+                  "children": [
+                    {
+                      "label": "when the corticosteroid-producing tumor is excised, IOP generally returns to normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "increased resistance to aqueous outflow in the trabecular meshwork"
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation & course",
+              "children": [
+                {
+                  "label": "may cause glaucomatous optic nerve damage",
+                  "children": [
+                    {
+                      "label": "may develop at any time during long-term corticosteroid administration",
+                      "children": [
+                        {
+                          "label": "IOP needs to be monitored regularly"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "medical therapy",
+                  "children": [
+                    {
+                      "label": "after the corticosteroid is discontinued, the IOP usually decreases",
+                      "children": [
+                        {
+                          "label": "time course similar to or slightly longer than that of the onset of elevation"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "excision of periocular depot of corticosteroid"
+                },
+                {
+                  "label": "filtering surgery",
+                  "children": [
+                    {
+                      "label": "surgical treatment has a high success rate"
+                    }
+                  ]
+                },
+                {
+                  "label": "laser trabeculoplasty",
+                  "children": [
+                    {
+                      "label": "may be effective"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cycloplegic drugs",
+          "children": [
+            {
+              "label": "can increase IOP in individuals with open angles"
+            },
+            {
+              "label": "routine dilation for ophthalmoscopy may increase IOP"
+            },
+            {
+              "label": "risk factors",
+              "children": [
+                {
+                  "label": "POAG"
+                },
+                {
+                  "label": "exfoliation syndrome"
+                },
+                {
+                  "label": "pigment dispersion syndrome"
+                },
+                {
+                  "label": "miotic therapy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.4.8. Open Angle Glaucoma (VIII) - Secondary Open-Angle Glaucoma (VI).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 121,
+      "connector_rejected": 0,
+      "connector_edges": 78,
+      "connector_width": 0.902,
+      "text_labels": 66,
+      "tree_nodes": 66,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6446,
+      "root_font_size": 4.511,
+      "warnings": []
+    }
+  }
+}

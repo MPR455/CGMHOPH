@@ -1,0 +1,169 @@
+---
+title: "5.9.6. Nystagmus (VI)"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.9.6. Nystagmus (VI).pdf"
+---
+
+# 5.9.6. Nystagmus (VI)
+
+## Hierarchy
+
+- Eye Movements in Comatose Patients
+  - coma is caused by
+    - bilateral lesions of
+      - brainstem (typically structural)
+      - cerebral hemispheres (structural or metabolic)
+    - unilateral, large hemispheric stroke
+      - midline shift/tentorial herniation with brainstem compression
+  - gaze preference
+    - hemispheric lesion
+      - eyes deviate toward the side of a cerebral hemispheric lesion
+        - away from the side of the hemiparesis
+        - intact contralateral frontal eye field drives the eyes to the opposite side
+      - intact horizontal eye movements are demonstrable with supranuclear activation
+        - doll’s head maneuver
+      - persists for only a few days
+    - pontine brainstem stroke
+      - eyes deviate away from the side of a pontine brainstem lesion
+        - “brainstem lesions are too terrible to look at”
+        - intact, contralateral horizontal gaze center drives the eyes to that side
+      - ocular deviation from brainstem strokes usually persists for long periods of time
+  - spontaneous eye movements
+    - slow, roving, horizontal
+      - conjugate
+        - indicates intact brainstem ocular motor pathways
+          - metabolic coma
+    - bilateral hemispheric lesions
+      - “ping-pong” gaze
+        - rapidly alternate in gaze from side to side
+          - every few seconds
+        - confined to the horizontal plane
+      - periodic alternating gaze deviation
+        - longer period of alternating deviation
+          - every few minutes
+      - metabolic coma
+- Additional Eye Movement Disorders
+  - Convergence-Retraction Nystagmus
+    - not true nystagmus
+      - lacks slow phases
+    - best demonstrated by having the patient make an upward saccade or follow a downward- rotating OKN drum
+      - co-contraction of the extraocular muscles on attempted upgaze
+        - convergent movements
+          - medial rectus muscles are the most powerful of the extraocular muscles
+        - retraction of the globe into the orbit
+    - localizes the disease process to the dorsal midbrain
+      - paresis of upgaze
+      - pupillary light–near dissociation
+      - skew deviation
+      - bilateral eyelid retraction (Collier sign)
+  - compare with neuromyotonia
+  - Superior Oblique Myokymia
+    - etiology is unknown
+      - neurovascular compression
+    - clinical presentation
+      - paroxysmal, monocular, high-frequency bursts of contraction of the superior oblique muscle
+        - spontaneously or after a downward eye movement
+        - x seconds
+        - numerous times per day
+        - movements are of very small amplitude
+          - usually require magnification to observe them
+      - symptoms
+        - vertical or torsional oscillopsia
+        - ± transient vertical diplopia
+    - electromyography
+      - abnormal discharge from some muscle fibers, either spontaneously or after contraction of the muscle
+    - clinical course is highly variable
+      - chronic
+        - most common
+      - spontaneous recovery
+        - only brief spells
+    - treatment
+      - medical
+        - phenytoin
+          - carbamazepine
+            - almost always benign
+        - baclofen
+        - gabapentin
+        - topical betaxolol
+      - combined superior oblique muscle tenotomy and recession of the ipsilateral inferior oblique muscle
+    - references
+  - Oculomasticatory Myorhythmia
+    - Whipple disease
+    - ocular motor findings
+      - vertical saccadic palsy
+    - systemic findings
+      - unexplained fever
+        - pendular vergence oscillations
+          - occur with contractions of the masticatory muscles
+      - diarrhea
+      - cognitive dysfunction
+      - weight loss
+      - lymphadenopathy
+    - diagnostic workup
+      - duodenal biopsy
+        - PAS staining
+          - Tropheryma whipplei
+      - serologic (PCR) testing
+    - progressive and potentially life-threatening
+    - curable with antibiotic therapy
+- Treatment of Nystagmus and Other Eye Movement Disorders
+  - pharmacologic
+    - baclofen (GABA-B receptor agonist)
+      - frequently effective
+        - acquired form of PAN
+    - carbamazepine derivatives
+      - frequently effective
+        - superior oblique myokymia
+    - clonazepam (GABA-A receptor agonist)
+      - Downbeat nystagmus
+      - other central vestibular forms of nystagmus
+    - memantine
+      - may reduce nystagmus severity and improve vision
+        - acquired and congenital forms of nystagmus
+    - gabapentin
+      - GABAergic medication
+      - may reduce nystagmus severity and improve vision
+        - acquired and congenital forms of nystagmus
+    - dalfampridine
+      - downbeat nystagmus
+      - more efficacious than the similar drug amifampridine
+  - nonpharmacologic treatment
+    - traditional amblyopia therapy
+    - base-out prisms
+      - to induce convergence in patients whose nystagmus diminishes with convergence
+        - Infantile Nystagmus Syndrome (INS)/ Congenital Nystagmus (CN)
+    - contact lenses
+      - may improve visual acuity in patients with congenital nystagmus
+    - unilateral retrobulbar injection of botulinum toxin type A
+      - reduces amplitude of nystagmus
+        - ± visual benefit for patients who are willing to view monocularly
+      - some patients report blurred vision when walking
+        - because of the loss of the normal VOR that adjusts eye position as the head moves
+    - extraocular muscle surgery
+      - to mechanically shift the null point to primary position
+        - for congenital nystagmus
+      - on vertical recti
+        - for upbeat or downbeat nystagmus
+        - diplopia may result postoperatively
+      - horizontal rectus muscle tenotomy, with reattachment of the muscles to their original insertion site
+        - for adult patients with congenital nystagmus
+- Ocular Bobbing
+  - ocular bobbing
+    - rapid downward movement of both eyes, followed by slow return to midline
+    - pons
+      - similar to downbeat nystagmus
+        - both cause pendular nystagmus
+          - compare with oculopalatal myoclonus
+      - infarction
+      - hemorrhage
+    - extremely poor prognosis for neurologic recovery
+    - bilateral pontine lesions lead to loss of horizontal eye movements
+      - valuable localization and prognostic information
+  - inverse bobbing
+    - slow downward movement followed by fast return to primary position
+  - reverse ocular bobbing
+    - rapid upward deviation followed by a slow return to primary position
+  - converse bobbing
+    - slow upward drift followed by a rapid return to primary position
+      - nonlocalizing phenomena (hypoxic-ischemic encephalopathy)

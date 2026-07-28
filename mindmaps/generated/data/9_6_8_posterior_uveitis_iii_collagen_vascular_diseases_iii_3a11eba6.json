@@ -1,0 +1,414 @@
+{
+  "label": "9.6.8. Posterior Uveitis (III): Collagen Vascular Diseases (III): Granulomatosis with polyangiitis (GPA)",
+  "root": true,
+  "children": [
+    {
+      "label": "15% at presentation"
+    },
+    {
+      "label": "ocular presentation",
+      "children": [
+        {
+          "label": "50% during the course of the disease"
+        },
+        {
+          "label": "orbital involvement",
+          "children": [
+            {
+              "label": "extension of the granulomatous inflammatory process from the paranasal sinuses"
+            },
+            {
+              "label": "orbital pseudotumor",
+              "children": [
+                {
+                  "label": "distinct from the sinus inflammation"
+                }
+              ]
+            },
+            {
+              "label": "orbital cellulitis"
+            },
+            {
+              "label": "dacryocystitis",
+              "children": [
+                {
+                  "label": "from secondarily infected nasal mucosa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "scleritis",
+          "children": [
+            {
+              "label": "40%"
+            },
+            {
+              "label": "particularly diffuse anterior or necrotizing scleritis"
+            },
+            {
+              "label": "posterior scleritis has been reported"
+            },
+            {
+              "label": "+-peripheral ulcerative keratitis"
+            }
+          ]
+        },
+        {
+          "label": "uveitis",
+          "children": [
+            {
+              "label": "≈10%"
+            },
+            {
+              "label": "unilateral/bilateral"
+            },
+            {
+              "label": "anterior, intermediate, or posterior uveitis"
+            },
+            {
+              "label": "varying degrees of vitritis",
+              "children": [
+                {
+                  "label": "uncommon",
+                  "children": [
+                    {
+                      "label": "≤10%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "retinal involvement",
+          "children": [
+            {
+              "label": "retinal vasculitis",
+              "children": [
+                {
+                  "label": "cotton-wool spots"
+                },
+                {
+                  "label": "+- intraretinal hemorrhages"
+                },
+                {
+                  "label": "branch or central retinal artery or vein occlusion",
+                  "children": [
+                    {
+                      "label": "retinal neovascularization",
+                      "children": [
+                        {
+                          "label": "vitreous hemorrhage"
+                        },
+                        {
+                          "label": "neovascular glaucoma"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "retinitis",
+              "children": [
+                {
+                  "label": "≤20%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "compressive ischemic optic neuropathy",
+          "children": [
+            {
+              "label": "from orbital disease"
+            }
+          ]
+        },
+        {
+          "label": "vision loss",
+          "children": [
+            {
+              "label": "≤40%"
+            },
+            {
+              "label": "long-standing or inadequately treated disease"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "systemic presentation",
+      "children": [
+        {
+          "label": "formerly Wegener granulomatosis"
+        },
+        {
+          "label": "classic triad",
+          "children": [
+            {
+              "label": "necrotizing granulomatous vasculitis of the upper and lower respiratory tract"
+            },
+            {
+              "label": "focal segmental glomerulonephritis"
+            },
+            {
+              "label": "necrotizing vasculitis of small arteries and veins"
+            }
+          ]
+        },
+        {
+          "label": "paranasal sinus involvement",
+          "children": [
+            {
+              "label": "the most characteristic clinical feature of this disorder"
+            },
+            {
+              "label": "sinusitis associated with bloody nasal discharge"
+            }
+          ]
+        },
+        {
+          "label": "renal involvement",
+          "children": [
+            {
+              "label": "focal segmental glomerulonephritis",
+              "children": [
+                {
+                  "label": "≤85%"
+                },
+                {
+                  "label": "+- evident at presentation"
+                }
+              ]
+            },
+            {
+              "label": "significant mortality if left untreated"
+            }
+          ]
+        },
+        {
+          "label": "dermatologic involvement",
+          "children": [
+            {
+              "label": "≈1/2"
+            },
+            {
+              "label": "purpura",
+              "children": [
+                {
+                  "label": "lower extremities"
+                },
+                {
+                  "label": "most frequent skin finding"
+                }
+              ]
+            },
+            {
+              "label": "ulcers"
+            },
+            {
+              "label": "subcutaneous nodules"
+            }
+          ]
+        },
+        {
+          "label": "constitutional symptoms"
+        },
+        {
+          "label": "pulmonary symptomatology"
+        },
+        {
+          "label": "arthritis"
+        },
+        {
+          "label": "nervous system involvement",
+          "children": [
+            {
+              "label": "≈1/3",
+              "children": [
+                {
+                  "label": "peripheral neuropathies",
+                  "children": [
+                    {
+                      "label": "mononeuritis multiplex",
+                      "children": [
+                        {
+                          "label": "most common"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cranial neuropathies"
+            },
+            {
+              "label": "seizures"
+            },
+            {
+              "label": "stroke syndromes"
+            },
+            {
+              "label": "cerebral vasculitis"
+            }
+          ]
+        },
+        {
+          "label": "microscopic polyangiitis (MPA)",
+          "children": [
+            {
+              "label": "clinical features similar to GPA without granulomatous changes on biopsy",
+              "children": [
+                {
+                  "label": "more likely to have ANCA directed at myeloperoxidase"
+                }
+              ]
+            },
+            {
+              "label": "ophthalmic involvement is much less common"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "lab evaluation",
+      "children": [
+        {
+          "label": "chest x-ray",
+          "children": [
+            {
+              "label": "nodular, diffuse, or cavitary lesions"
+            }
+          ]
+        },
+        {
+          "label": "proteinuria or hematuria"
+        },
+        {
+          "label": "elevated erythrocyte sedimentation rate and C-reactive protein"
+        },
+        {
+          "label": "ANCA",
+          "children": [
+            {
+              "label": "antibodies against cytoplasmic azurophilic granules of neutrophils and monocytes"
+            },
+            {
+              "label": "specific markers for a group of related systemic vasculitides",
+              "children": [
+                {
+                  "label": "GPA"
+                },
+                {
+                  "label": "MPA"
+                },
+                {
+                  "label": "eosinophilic granulomatosis with polyangiitis (Churg-Strauss syndrome)"
+                },
+                {
+                  "label": "renal limited vasculitis"
+                },
+                {
+                  "label": "pauci-immunoglomerulonephritis"
+                }
+              ]
+            },
+            {
+              "label": "2 main classes of ANCA",
+              "children": [
+                {
+                  "label": "immunofluorescence staining patterns",
+                  "children": [
+                    {
+                      "label": "cytoplasmic (c-ANCA)",
+                      "children": [
+                        {
+                          "label": "sensitive and specific for GPA"
+                        },
+                        {
+                          "label": "present in ≤95%"
+                        },
+                        {
+                          "label": "antibodies against proteinase 3 (PR3-ANCA)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "perinuclear (p-ANCA)",
+                      "children": [
+                        {
+                          "label": "associated with",
+                          "children": [
+                            {
+                              "label": "microscopic polyangiitis"
+                            },
+                            {
+                              "label": "renal limited vasculitis"
+                            },
+                            {
+                              "label": "pauci-immunoglomerulonephritis"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "antibodies against myeloperoxidase (MPO- ANCA)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "specific antibody testing for PR3-ANCA and MPO-ANCA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "combination therapy with oral corticosteroids & IMT medications",
+          "children": [
+            {
+              "label": "93% achieve remission"
+            }
+          ]
+        },
+        {
+          "label": "without therapy, 1-year mortality rate is 80%"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.8. Posterior Uveitis (III) - Collagen Vascular Diseases (III) - Granulomatosis with polyangiitis (GPA).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 201,
+      "connector_rejected": 3,
+      "connector_edges": 141,
+      "connector_width": 1.074,
+      "text_labels": 105,
+      "tree_nodes": 105,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.7015,
+      "root_font_size": 4.832,
+      "warnings": []
+    }
+  }
+}

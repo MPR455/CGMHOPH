@@ -1,0 +1,411 @@
+{
+  "label": "4.6.1. Cornea (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "43.25 D"
+    },
+    {
+      "label": "Corneal anatomy",
+      "children": [
+        {
+          "label": "epithelium",
+          "children": [
+            {
+              "label": "nonkeratinized"
+            },
+            {
+              "label": "stratified squamous",
+              "children": [
+                {
+                  "label": "5-10 cell layers",
+                  "children": [
+                    {
+                      "label": "5-10% of corneal thickness"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "basement membrane",
+              "children": [
+                {
+                  "label": "PAS-positve"
+                },
+                {
+                  "label": "gets thicker in anterior basement dystrophy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Bowman layer",
+          "children": [
+            {
+              "label": "not true basement membrane"
+            },
+            {
+              "label": "acellular"
+            },
+            {
+              "label": "irregularly arranged collagen fibrils"
+            },
+            {
+              "label": "does not regenerate afer injury",
+              "children": [
+                {
+                  "label": "fibroconnective scar tissue"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "stroma",
+          "children": [
+            {
+              "label": "90% of corneal thickness"
+            },
+            {
+              "label": "keratocytes"
+            },
+            {
+              "label": "collagen lamellae",
+              "children": [
+                {
+                  "label": "regularly arranged"
+                }
+              ]
+            },
+            {
+              "label": "proteoglycan ground substance"
+            }
+          ]
+        },
+        {
+          "label": "descemet membrane",
+          "children": [
+            {
+              "label": "deposition starts during fetal development",
+              "children": [
+                {
+                  "label": "continues throughout adulthood"
+                }
+              ]
+            },
+            {
+              "label": "type IV collagen"
+            },
+            {
+              "label": "PAS-positive"
+            }
+          ]
+        },
+        {
+          "label": "endothelium",
+          "children": [
+            {
+              "label": "single layer"
+            },
+            {
+              "label": "hexagonal"
+            },
+            {
+              "label": "number of cells decreases with age"
+            },
+            {
+              "label": "does not regenerate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congenital anomalies",
+      "children": [
+        {
+          "label": "Congenital hereditary endothelial dystrophy (CHED)",
+          "children": [
+            {
+              "label": "degeneration of endothelial cells after fifth month of gestation"
+            },
+            {
+              "label": "CHED1",
+              "children": [
+                {
+                  "label": "autosomal dominant",
+                  "children": [
+                    {
+                      "label": "20p11.2-q11.2"
+                    }
+                  ]
+                },
+                {
+                  "label": "apparent within the first few years of life"
+                },
+                {
+                  "label": "progressive"
+                },
+                {
+                  "label": "no nystagmus"
+                }
+              ]
+            },
+            {
+              "label": "CHED2",
+              "children": [
+                {
+                  "label": "autosomal recessive",
+                  "children": [
+                    {
+                      "label": "20p13"
+                    }
+                  ]
+                },
+                {
+                  "label": "more common"
+                },
+                {
+                  "label": "apparent at birth"
+                },
+                {
+                  "label": "non-progressive"
+                },
+                {
+                  "label": "nystagmus"
+                }
+              ]
+            },
+            {
+              "label": "pathology",
+              "children": [
+                {
+                  "label": "endothelial cell loss"
+                },
+                {
+                  "label": "diffuse stromal edema"
+                },
+                {
+                  "label": "thick descemet membrane",
+                  "children": [
+                    {
+                      "label": "no guttae"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "no systemic associations"
+            }
+          ]
+        },
+        {
+          "label": "Posterior polymorphous dystrophy",
+          "children": [
+            {
+              "label": "autosomal dominant or recessive",
+              "children": [
+                {
+                  "label": "20q11"
+                }
+              ]
+            },
+            {
+              "label": "endothelial dystrophy",
+              "children": [
+                {
+                  "label": "epithelial characteristics",
+                  "children": [
+                    {
+                      "label": "multilayering",
+                      "children": [
+                        {
+                          "label": "light microscopy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "microvilli",
+                      "children": [
+                        {
+                          "label": "electron microscopy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "decreased endothelial cell number"
+                },
+                {
+                  "label": "descemet membrane thickening"
+                },
+                {
+                  "label": "guttae"
+                },
+                {
+                  "label": "secondary glaucoma",
+                  "children": [
+                    {
+                      "label": "in contrast to CHED"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal opacity",
+                  "children": [
+                    {
+                      "label": "central"
+                    },
+                    {
+                      "label": "variable severity"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Dermoid",
+          "children": [
+            {
+              "label": "choristoma"
+            },
+            {
+              "label": "limbus",
+              "children": [
+                {
+                  "label": "less commonly central cornea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Peters anomaly",
+          "children": [
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "sporadic",
+              "children": [
+                {
+                  "label": "less commonly autosomal dominant or autosomal recessive"
+                }
+              ]
+            },
+            {
+              "label": "defect in central/paracentral descemet membrane",
+              "children": [
+                {
+                  "label": "\"internal ulcer of von Hippel\""
+                },
+                {
+                  "label": "corneal clouding"
+                }
+              ]
+            },
+            {
+              "label": "type I",
+              "children": [
+                {
+                  "label": "iris strands adherent to edges of defect"
+                }
+              ]
+            },
+            {
+              "label": "type II",
+              "children": [
+                {
+                  "label": "lens adherent to posteior corneal surface",
+                  "children": [
+                    {
+                      "label": "severe cases only"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "anterior segment dysgenesis syndrome",
+              "children": [
+                {
+                  "label": "abnormal neural crest migration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Sclerocornea",
+          "children": [
+            {
+              "label": "peripheral corneal clouding",
+              "children": [
+                {
+                  "label": "poorly defined limbus"
+                },
+                {
+                  "label": "may involve entire cornea"
+                }
+              ]
+            },
+            {
+              "label": "vessels extend across the cornea"
+            },
+            {
+              "label": "cornea plana",
+              "children": [
+                {
+                  "label": "80%"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "stromal abnormalities",
+                  "children": [
+                    {
+                      "label": "vascualrization"
+                    },
+                    {
+                      "label": "disorderly lamellae"
+                    }
+                  ]
+                },
+                {
+                  "label": "findings similar to peters anomaly"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.6.1. Cornea (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 202,
+      "connector_rejected": 6,
+      "connector_edges": 132,
+      "connector_width": 1.529,
+      "text_labels": 102,
+      "tree_nodes": 102,
+      "component_roots": 2,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6535,
+      "root_font_size": 5.096,
+      "warnings": []
+    }
+  }
+}

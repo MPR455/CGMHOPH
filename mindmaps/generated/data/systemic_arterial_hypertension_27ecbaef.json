@@ -1,0 +1,377 @@
+{
+  "label": "Systemic Arterial Hypertension",
+  "root": true,
+  "children": [
+    {
+      "label": "Definition",
+      "children": [
+        {
+          "label": "affects >72 million Americans"
+        },
+        {
+          "label": "normal",
+          "children": [
+            {
+              "label": "<120/80 mm Hg"
+            }
+          ]
+        },
+        {
+          "label": "elevated blood pressure",
+          "children": [
+            {
+              "label": "120–129 mm Hg systolic and <80 mm Hg diastolic"
+            }
+          ]
+        },
+        {
+          "label": "stage 1 hypertension",
+          "children": [
+            {
+              "label": "130–139 mm Hg systolic or 80–89 mm Hg diastolic"
+            }
+          ]
+        },
+        {
+          "label": "stage 2 hypertension",
+          "children": [
+            {
+              "label": "systolic BP ≥140 mm Hg or diastolic BP ≥90"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hypertensive choroidopathy",
+      "children": [
+        {
+          "label": "episode of acute hypertension in young patients",
+          "children": [
+            {
+              "label": "preeclampsia/eclampsia"
+            },
+            {
+              "label": "pheochromocytoma"
+            },
+            {
+              "label": "renal hypertension"
+            }
+          ]
+        },
+        {
+          "label": "lobular choriocapillaris nonperfusion",
+          "children": [
+            {
+              "label": "Elschnig spot",
+              "children": [
+                {
+                  "label": "acute",
+                  "children": [
+                    {
+                      "label": "tan"
+                    },
+                    {
+                      "label": "lobule-sized patch"
+                    }
+                  ]
+                },
+                {
+                  "label": "chronic",
+                  "children": [
+                    {
+                      "label": "hyperpigmented"
+                    },
+                    {
+                      "label": "hypopigmented margin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Siegrist streaks",
+              "children": [
+                {
+                  "label": "follow course of choroidal arteries"
+                }
+              ]
+            },
+            {
+              "label": "± focal RPE detachments"
+            },
+            {
+              "label": "± extensive (bilateral) exudative RD",
+              "children": [
+                {
+                  "label": "rare"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fluorescein angiography",
+          "children": [
+            {
+              "label": "early",
+              "children": [
+                {
+                  "label": "focal choroidal hypoperfusion"
+                }
+              ]
+            },
+            {
+              "label": "late",
+              "children": [
+                {
+                  "label": "multiple subretinal areas of leakage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hypertensive retinopathy",
+      "children": [
+        {
+          "label": "affects",
+          "children": [
+            {
+              "label": "precapillary arterioles"
+            },
+            {
+              "label": "capillaries"
+            }
+          ]
+        },
+        {
+          "label": "acute hypertensive episode",
+          "children": [
+            {
+              "label": "focal intraretinal periarteriolar transudates (FIPT)",
+              "children": [
+                {
+                  "label": "deeper",
+                  "children": [
+                    {
+                      "label": "CWSs affect NFL"
+                    }
+                  ]
+                },
+                {
+                  "label": "smaller",
+                  "children": [
+                    {
+                      "label": "than cotton-wool spots"
+                    }
+                  ]
+                },
+                {
+                  "label": "less white"
+                },
+                {
+                  "label": "punctuate hyperfluorescence on FA"
+                }
+              ]
+            },
+            {
+              "label": "cotton-wool spots",
+              "children": [
+                {
+                  "label": "ischemia in NFL"
+                },
+                {
+                  "label": "non-perfusion on FA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "chronic hypertensive retinal lesions",
+          "children": [
+            {
+              "label": "microaneurysms"
+            },
+            {
+              "label": "intraretinal microvascular abnormalities (IRMA)"
+            },
+            {
+              "label": "blot hemorrhages"
+            },
+            {
+              "label": "lipid exudates"
+            },
+            {
+              "label": "venous beading"
+            },
+            {
+              "label": "neovascularization"
+            },
+            {
+              "label": "signs of ischemic retinopathy"
+            }
+          ]
+        },
+        {
+          "label": "arteriolosclerotic retinopathy (modified Scheie classification)",
+          "children": [
+            {
+              "label": "predisposing factors",
+              "children": [
+                {
+                  "label": "duration and severity of hypertension"
+                },
+                {
+                  "label": "presence of diabetic retinopathy",
+                  "children": [
+                    {
+                      "label": "coexistent hypertension & DM causes more severe retinopatthy"
+                    }
+                  ]
+                },
+                {
+                  "label": "severity of any dyslipidemia"
+                },
+                {
+                  "label": "patient age"
+                },
+                {
+                  "label": "history of smoking"
+                }
+              ]
+            },
+            {
+              "label": "modified Scheie classification",
+              "children": [
+                {
+                  "label": "grade 0",
+                  "children": [
+                    {
+                      "label": "no changes"
+                    }
+                  ]
+                },
+                {
+                  "label": "grade 1",
+                  "children": [
+                    {
+                      "label": "barely detectable arterial narrowing"
+                    }
+                  ]
+                },
+                {
+                  "label": "grade 2",
+                  "children": [
+                    {
+                      "label": "obvious arterial narrowing with focal irregularities"
+                    }
+                  ]
+                },
+                {
+                  "label": "grade 3",
+                  "children": [
+                    {
+                      "label": "grade 2 + retinal hemorrhages and/or exudates"
+                    }
+                  ]
+                },
+                {
+                  "label": "grade 4",
+                  "children": [
+                    {
+                      "label": "grade 3 + optic disc swelling"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "complications",
+          "children": [
+            {
+              "label": "BRAO"
+            },
+            {
+              "label": "BRVO"
+            },
+            {
+              "label": "CRVO"
+            },
+            {
+              "label": "retinal arterial macroaneurysms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hypertensive optic neuropathy",
+      "children": [
+        {
+          "label": "severe hypertension",
+          "children": [
+            {
+              "label": "linear peripapillary flame-shaped hemorrhages"
+            },
+            {
+              "label": "blurring of disc margins"
+            },
+            {
+              "label": "florid disc edema"
+            },
+            {
+              "label": "secondary retinal venous stasis"
+            },
+            {
+              "label": "macular exudates"
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "CRVO"
+            },
+            {
+              "label": "anterior ischemic optic neuropathy"
+            },
+            {
+              "label": "diabetic papillopathy"
+            },
+            {
+              "label": "radiation papillopathy"
+            },
+            {
+              "label": "neuroretinitis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Systemic Arterial Hypertension.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 169,
+      "connector_rejected": 36,
+      "connector_edges": 107,
+      "connector_width": 0.838,
+      "text_labels": 94,
+      "tree_nodes": 94,
+      "component_roots": 4,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.6331,
+      "root_font_size": 5.585,
+      "warnings": []
+    }
+  }
+}

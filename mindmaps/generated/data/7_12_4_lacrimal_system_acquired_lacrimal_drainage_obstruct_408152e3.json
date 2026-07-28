@@ -1,0 +1,715 @@
+{
+  "label": "7.12.4. Lacrimal System: Acquired Lacrimal Drainage Obstruction (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "History",
+      "children": [
+        {
+          "label": "2 groups",
+          "children": [
+            {
+              "label": "hypersecretion of tears (lacrimation)"
+            },
+            {
+              "label": "impairment of drainage (epiphora)"
+            }
+          ]
+        },
+        {
+          "label": "questions",
+          "children": [
+            {
+              "label": "constant versus intermittent tearing"
+            },
+            {
+              "label": "periods of remission versus no remission"
+            },
+            {
+              "label": "unilateral versus bilateral condition"
+            },
+            {
+              "label": "subjective ocular surface discomfort"
+            },
+            {
+              "label": "history of allergies"
+            },
+            {
+              "label": "use of topical medications such as glaucoma drops"
+            },
+            {
+              "label": "history of probing during childhood"
+            },
+            {
+              "label": "prior ocular surface infections such as conjunctivitis or herpes simplex"
+            },
+            {
+              "label": "prior sinus disease or surgery, midfacial trauma, or nasal fracture"
+            },
+            {
+              "label": "previous episodes of lacrimal sac inflammation"
+            },
+            {
+              "label": "clear tears versus tears with discharge or blood",
+              "children": [
+                {
+                  "label": "blood in the tear meniscus may indicate malignancy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Diagnostic tests",
+      "children": [
+        {
+          "label": "dye disappearance test (DDT)",
+          "children": [
+            {
+              "label": "to assess presence or absence of adequate lacrimal outflow",
+              "children": [
+                {
+                  "label": "especially in unilateral cases"
+                },
+                {
+                  "label": "especially in children",
+                  "children": [
+                    {
+                      "label": "lacrimal irrigation is impossible without deep sedation!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "technique",
+              "children": [
+                {
+                  "label": "instill fluorescein into the conjunctival fornices of each eye",
+                  "children": [
+                    {
+                      "label": "drop of sterile 2% fluorescein solution"
+                    },
+                    {
+                      "label": "moistened fluorescein strip"
+                    }
+                  ]
+                },
+                {
+                  "label": "observe tear film with cobalt blue filter of slit lamp x 5 min",
+                  "children": [
+                    {
+                      "label": "persistence of significant dye",
+                      "children": [
+                        {
+                          "label": "indicate an obstruction"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "asymmetric clearance of dye",
+                      "children": [
+                        {
+                          "label": "indicate an obstruction"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "If DDT result is normal, severe lacrimal drainage dysfunction is highly unlikely",
+                      "children": [
+                        {
+                          "label": "intermittent causes of tearing, such as allergy, dacryolith, or intranasal obstruction, cannot be ruled out"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Schirmer tests are also read at 5 minutes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Jones I test",
+          "children": [
+            {
+              "label": "primary dye test"
+            },
+            {
+              "label": "instill fluorescein into conjunctival fornices"
+            },
+            {
+              "label": "recover it in inferior nasal meatus by passing a cotton-tipped applicator into nose",
+              "children": [
+                {
+                  "label": "at 2 and 5 minutes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Jones II test",
+          "children": [
+            {
+              "label": "following an unsuccessful Jones I test",
+              "children": [
+                {
+                  "label": "flush residual fluorescein from conjunctival sac with clear saline"
+                },
+                {
+                  "label": "irrigate lacrimal system with clear saline using a cannula inserted into the canalicular system",
+                  "children": [
+                    {
+                      "label": "clear solution suggests that tears never entered lacrimal outflow system"
+                    },
+                    {
+                      "label": "fluorescein-stained irrigant indicates partial obstruction"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lacrimal drainage system irrigation",
+          "children": [
+            {
+              "label": "most frequently performed immediately after DDT"
+            },
+            {
+              "label": "determines level of lacrimal drainage system occlusion"
+            },
+            {
+              "label": "technique",
+              "children": [
+                {
+                  "label": "instill topical anesthesia"
+                },
+                {
+                  "label": "lower eyelid punctum is dilated and any punctal stenosis is noted"
+                },
+                {
+                  "label": "irrigating cannula is placed in canalicular system",
+                  "children": [
+                    {
+                      "label": "maintain lateral traction of the lower eyelid"
+                    },
+                    {
+                      "label": "canalicular stenosis or occlusion should be recorded and confirmed by subsequent diagnostic probing"
+                    }
+                  ]
+                },
+                {
+                  "label": "once irrigating cannula has been advanced into horizontal canaliculus, clear saline is injected"
+                }
+              ]
+            },
+            {
+              "label": "interpretation",
+              "children": [
+                {
+                  "label": "difficulty advancing irrigating cannula and inability to irrigate fluid",
+                  "children": [
+                    {
+                      "label": "total canalicular obstruction"
+                    }
+                  ]
+                },
+                {
+                  "label": "saline can be irrigated but it refluxes through upper canalicular system with no palpable distension of lacrimal sac",
+                  "children": [
+                    {
+                      "label": "complete blockage of the common canaliculus",
+                      "children": [
+                        {
+                          "label": "probing determines whether common canalicular stenosis is total or whether it can be dilated"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "mucoid material or fluorescein refluxes through the opposite punctum and lacrimal sac distension is palpable",
+                  "children": [
+                    {
+                      "label": "complete NLDO"
+                    }
+                  ]
+                },
+                {
+                  "label": "no canalicular reflux or fluid passing down the NLD but lacrimal sac become distended, causing patient discomfort",
+                  "children": [
+                    {
+                      "label": "complete NLDO"
+                    },
+                    {
+                      "label": "functional valve of Rosenmüller, preventing reflux through the canalicular system"
+                    }
+                  ]
+                },
+                {
+                  "label": "simultaneous saline reflux through the opposite canaliculus and saline irrigation through the NLD",
+                  "children": [
+                    {
+                      "label": "partial NLDO"
+                    }
+                  ]
+                },
+                {
+                  "label": "saline irrigation passes freely into the nose with no reflux through the canalicular system",
+                  "children": [
+                    {
+                      "label": "patent nasolacrimal drainage system",
+                      "children": [
+                        {
+                          "label": "a functional obstruction may still be present"
+                        },
+                        {
+                          "label": "dacryolith may also impair tear flow without blocking irrigation"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Figure 13-10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic probing",
+          "children": [
+            {
+              "label": "topical anesthesia"
+            },
+            {
+              "label": "small probe (size 00)",
+              "children": [
+                {
+                  "label": "to detect any canalicular obstruction",
+                  "children": [
+                    {
+                      "label": "probe is clamped at punctum before withdrawal, thereby measuring distance to obstruction"
+                    },
+                    {
+                      "label": "larger probe may be useful to determine extent of a partial obstruction"
+                    },
+                    {
+                      "label": "probe should not be forced through any area of resistance"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "upper system (puncta, canaliculi, and lacrimal sac)"
+            },
+            {
+              "label": "diagnostic probing of the NLD has no place in adults",
+              "children": [
+                {
+                  "label": "there are other means of diagnosing NLDO"
+                },
+                {
+                  "label": "probing in adults has limited therapeutic value",
+                  "children": [
+                    {
+                      "label": "unlike infants",
+                      "children": [
+                        {
+                          "label": "NLDO in infants results from occlusion by a thin membrane"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "NLDO in adults results from extensive fibrosis of duct itself"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "intranasal examination",
+          "children": [
+            {
+              "label": "nasal speculum and light source"
+            },
+            {
+              "label": "diagnostic nasal endoscopy"
+            }
+          ]
+        },
+        {
+          "label": "contrast dacryocystography",
+          "children": [
+            {
+              "label": "dye injection into lacrimal system followed by computerized digital subtraction imaging"
+            },
+            {
+              "label": "anatomical information"
+            }
+          ]
+        },
+        {
+          "label": "dacryoscintigraphy",
+          "children": [
+            {
+              "label": "radionucleotide eyedrops to follow tear flow"
+            },
+            {
+              "label": "physiologic information"
+            }
+          ]
+        },
+        {
+          "label": "CT and MRI",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "craniofacial injury"
+                },
+                {
+                  "label": "congenital craniofacial deformities"
+                },
+                {
+                  "label": "suspected neoplasia"
+                }
+              ]
+            },
+            {
+              "label": "CT is superior for the evaluation of suspected bony abnormalities",
+              "children": [
+                {
+                  "label": "fractures"
+                }
+              ]
+            },
+            {
+              "label": "MRI is superior for the evaluation of suspected soft-tissue disease",
+              "children": [
+                {
+                  "label": "malignancy"
+                }
+              ]
+            },
+            {
+              "label": "CT or MRI may be helpful in evaluating concomitant sinus or nasal disease"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Examination",
+      "children": [
+        {
+          "label": "Pseudoepiphora evaluation",
+          "children": [
+            {
+              "label": "pseudoepiphora",
+              "children": [
+                {
+                  "label": "reflex hypersecretion of tears (lacrimation) caused by ocular surface irritation"
+                }
+              ]
+            },
+            {
+              "label": "Tear meniscus",
+              "children": [
+                {
+                  "label": "size of lacrimal lake"
+                },
+                {
+                  "label": "presence of precipitated proteins and stringy mucus"
+                }
+              ]
+            },
+            {
+              "label": "Tear breakup time",
+              "children": [
+                {
+                  "label": "fluorescein is placed in conjunctival cul-de-sac"
+                },
+                {
+                  "label": "patient is asked to open his/her eyes and refrain from blinking"
+                },
+                {
+                  "label": "examine tear film using a broad beam of slit lamp"
+                },
+                {
+                  "label": "normal",
+                  "children": [
+                    {
+                      "label": "≥ 10 seconds"
+                    }
+                  ]
+                },
+                {
+                  "label": "<10 seconds may indicate poor function of mucin or meibomian layer despite a sufficient amount of tears"
+                }
+              ]
+            },
+            {
+              "label": "Evaluation of corneal and conjunctival epithelium",
+              "children": [
+                {
+                  "label": "topical rose bengal and lissamine green",
+                  "children": [
+                    {
+                      "label": "stain devitalized conjunctival/corneal epithelium"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical fluorescein",
+                  "children": [
+                    {
+                      "label": "stains lost conjunctival/corneal epithelium",
+                      "children": [
+                        {
+                          "label": "indicates more severe tear film malfunction"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Basal tear secretion",
+              "children": [
+                {
+                  "label": "topical anesthetic"
+                },
+                {
+                  "label": "inferior cul-de-sac is dried"
+                },
+                {
+                  "label": "Schirmer strip is bent at the notch and placed with the short end resting on the conjunctiva and the fold crease on the eyelid margin",
+                  "children": [
+                    {
+                      "label": "at the lateral one-third of the lower eyelid"
+                    }
+                  ]
+                },
+                {
+                  "label": "strip is left in place for 5 minutes"
+                },
+                {
+                  "label": "amount of wetting is recorded"
+                },
+                {
+                  "label": "normal",
+                  "children": [
+                    {
+                      "label": "≈10–15 mm"
+                    }
+                  ]
+                },
+                {
+                  "label": "rapid saturation of strip signifies hypersecretion",
+                  "children": [
+                    {
+                      "label": "excess secretion may occur in response to irritation from the measuring strips themselves",
+                      "children": [
+                        {
+                          "label": "serial testing should be performed to confirm this assumption"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Schirmer I and Schirmer II tests",
+                  "children": [
+                    {
+                      "label": "Schirmer I test",
+                      "children": [
+                        {
+                          "label": "like basal tear secretion test, but no topical anesthetic is used"
+                        },
+                        {
+                          "label": "to evaluate both basic and reflex tearing"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Schirmer II test",
+                      "children": [
+                        {
+                          "label": "to distinguish between fatigue block (when reflex secretion is suppressed because of chronic irritation) and a lack of function of the reflex secretors"
+                        },
+                        {
+                          "label": "no anesthetic"
+                        },
+                        {
+                          "label": "tear strip in place",
+                          "children": [
+                            {
+                              "label": "cotton-tipped applicator is placed in the nostril and moved back and forth for 2 minutes"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "reserved for special diagnostic circumstances"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Corneal irritation",
+              "children": [
+                {
+                  "label": "trichiasis"
+                },
+                {
+                  "label": "entropion"
+                },
+                {
+                  "label": "allergy"
+                },
+                {
+                  "label": "chronic infection"
+                },
+                {
+                  "label": "contact lens–related disease such as giant papillary conjunctivitis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Lacrimal outflow examination",
+          "children": [
+            {
+              "label": "eyelid",
+              "children": [
+                {
+                  "label": "malposition",
+                  "children": [
+                    {
+                      "label": "tears might not reach the puncta"
+                    },
+                    {
+                      "label": "slit-lamp examination during blink cycle"
+                    }
+                  ]
+                },
+                {
+                  "label": "weak/incomplete blink",
+                  "children": [
+                    {
+                      "label": "poor lacrimal pump function"
+                    },
+                    {
+                      "label": "etiology",
+                      "children": [
+                        {
+                          "label": "facial nerve dysfunction"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "conjunctiva/caruncle",
+              "children": [
+                {
+                  "label": "enlarged caruncle",
+                  "children": [
+                    {
+                      "label": "mechanical blockage of punctum"
+                    }
+                  ]
+                },
+                {
+                  "label": "conjunctivochalasis",
+                  "children": [
+                    {
+                      "label": "mechanical blockage of punctum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "punctum",
+              "children": [
+                {
+                  "label": "stenosis, occlusion, aplasia"
+                }
+              ]
+            },
+            {
+              "label": "lacrimal sac",
+              "children": [
+                {
+                  "label": "reflux of mucoid or mucopurulent material with pressure on a distended lacrimal sac",
+                  "children": [
+                    {
+                      "label": "confirms complete NLDO",
+                      "children": [
+                        {
+                          "label": "no further diagnostic tests are needed if a lacrimal sac tumor is not suspected"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nose",
+              "children": [
+                {
+                  "label": "intranasal tumor"
+                },
+                {
+                  "label": "turbinate impaction"
+                },
+                {
+                  "label": "chronic allergic rhinitis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.12.4. Lacrimal System - Acquired Lacrimal Drainage Obstruction (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 177,
+      "connector_rejected": 0,
+      "connector_edges": 176,
+      "connector_width": 0.734,
+      "text_labels": 180,
+      "tree_nodes": 180,
+      "component_roots": 3,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.9944,
+      "root_font_size": 3.12,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "label": "5.13.1. Nonorganic Ophthalmic Disorders (I): Examination Techniques",
+  "root": true,
+  "children": [
+    {
+      "label": "eyelid position and function",
+      "children": [
+        {
+          "label": "ptosis",
+          "children": [
+            {
+              "label": "can usually be distinguished by the position of the brow",
+              "children": [
+                {
+                  "label": "true ptosis",
+                  "children": [
+                    {
+                      "label": "brow is usually elevated"
+                    }
+                  ]
+                },
+                {
+                  "label": "orbicularis overactivity",
+                  "children": [
+                    {
+                      "label": "brow is lowered"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "with upward gaze, the ptosis will “resolve”",
+              "children": [
+                {
+                  "label": "often the patient will not cooperate",
+                  "children": [
+                    {
+                      "label": "examiner can use his/her thumb to elevate the ptotic eyelid and the patient will then look upward",
+                      "children": [
+                        {
+                          "label": "examiner’s thumb is then slowly moved away",
+                          "children": [
+                            {
+                              "label": "if the ptosis returns, the condition may be organic"
+                            },
+                            {
+                              "label": "if ptosis “resolves,” it is nonorganic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "blepharospasm",
+          "children": [
+            {
+              "label": "unilateral or bilateral"
+            },
+            {
+              "label": "children or young adults"
+            },
+            {
+              "label": "triggered by an emotionally traumatic event"
+            },
+            {
+              "label": "may cause nonorganic ptosis"
+            },
+            {
+              "label": "pressure over the supraorbital notch is often useful in raising the eyelids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Visual field defect",
+      "children": [
+        {
+          "label": "automated perimetry testing",
+          "children": [
+            {
+              "label": "machines are quite easy to fool",
+              "children": [
+                {
+                  "label": "no characteristic changes in automated perimetry confirm the suspicion of nonorganic deficit",
+                  "children": [
+                    {
+                      "label": "except patient with monocular defect that respects the vertical midline",
+                      "children": [
+                        {
+                          "label": "if repeating the field testing with both eyes open produces a similar, or even incomplete, defect, a nonorganic component is present"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "central scotomata are extremely rare in nonorganic vision loss and warrant further evaluation"
+                }
+              ]
+            },
+            {
+              "label": "references"
+            }
+          ]
+        },
+        {
+          "label": "confrontation testing",
+          "children": [
+            {
+              "label": "the area where the patient “can’t see” is carefully identified",
+              "children": [
+                {
+                  "label": "patient is tested for “motility”",
+                  "children": [
+                    {
+                      "label": "accurate saccades to nonauditory targets in the \"nonseeing\" field indicate an intact visual field"
+                    }
+                  ]
+                },
+                {
+                  "label": "patient is asked to report “none” when no fingers are seen in the “nonseeing” field",
+                  "children": [
+                    {
+                      "label": "a response of “none” each time the fingers are put up confirms vision in that area"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Goldmann perimetry testing",
+          "children": [
+            {
+              "label": "the visual field is tested in a continuous fashion in a clockwise or counterclockwise direction starting with the I4e stimulus"
+            },
+            {
+              "label": "a common nonorganic response shows a spiraling isopter getting closer and closer to fixation as testing continues",
+              "children": [
+                {
+                  "label": "as larger stimuli (III4e and V4e) are employed, there is often further constriction, resulting in overlapping isopters"
+                }
+              ]
+            },
+            {
+              "label": "make sure there is no step across the vertical or nasal horizontal midline",
+              "children": [
+                {
+                  "label": "A step across the midline may indicate that at least some physiologic component is present"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Tangent screen testing",
+          "children": [
+            {
+              "label": "tested with a 9-mm white stimulus at 1 m",
+              "children": [
+                {
+                  "label": "patient is moved back to 2 m and tested with an 18-mm white stimulus",
+                  "children": [
+                    {
+                      "label": "failure of field to expand to twice the original size indicates nonorganic component",
+                      "children": [
+                        {
+                          "label": "tubular or gun-barrel field"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ocular motility and alignment",
+      "children": [
+        {
+          "label": "voluntary flutter (“nystagmus”)",
+          "children": [
+            {
+              "label": "rapid frequency and low amplitude eye movements",
+              "children": [
+                {
+                  "label": "brief bursts"
+                },
+                {
+                  "label": "irregular"
+                },
+                {
+                  "label": "no slow phase"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "gaze palsy",
+          "children": [
+            {
+              "label": "claimed gaze palsies may be overcome by",
+              "children": [
+                {
+                  "label": "oculocephalic reflex (doll’s head phenomenon)"
+                },
+                {
+                  "label": "optokinetic testing"
+                },
+                {
+                  "label": "mirror tracking"
+                },
+                {
+                  "label": "caloric testing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "spasm of the near reflex",
+          "children": [
+            {
+              "label": "episodes of intermittent convergence, increased accommodation, and miosis"
+            },
+            {
+              "label": "patients generally complain of diplopia and, at times, micropsia"
+            },
+            {
+              "label": "features aiding in diagnosis",
+              "children": [
+                {
+                  "label": "lack of other neuro-ophthalmic abnormalities"
+                },
+                {
+                  "label": "miosis with convergence"
+                },
+                {
+                  "label": "variability of the eye movements (convergence)"
+                },
+                {
+                  "label": "presence of full abduction when ductions are examined with",
+                  "children": [
+                    {
+                      "label": "1 eye occluded"
+                    },
+                    {
+                      "label": "oculocephalic testing"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "may be mistaken for",
+              "children": [
+                {
+                  "label": "unilateral or bilateral sixth nerve palsies"
+                },
+                {
+                  "label": "divergence insufficiency"
+                },
+                {
+                  "label": "horizontal gaze paresis"
+                },
+                {
+                  "label": "ocular myasthenia"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "almost always observed in patients with nonorganic disturbances"
+                },
+                {
+                  "label": "has been associated with",
+                  "children": [
+                    {
+                      "label": "Arnold-Chiari I malformation"
+                    },
+                    {
+                      "label": "posterior fossa tumors"
+                    },
+                    {
+                      "label": "pituitary tumors"
+                    },
+                    {
+                      "label": "head trauma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Management of the Patient With Nonorganic Complaints",
+      "children": [
+        {
+          "label": "allow patients a graceful way out of the situation",
+          "children": [
+            {
+              "label": "best managed with an understanding approach and words of encouragement",
+              "children": [
+                {
+                  "label": "confrontation is seldom of benefit to either the patient or the doctor"
+                }
+              ]
+            },
+            {
+              "label": "reassure them that their disorder is unlikely to reflect a serious condition and will resolve over time",
+              "children": [
+                {
+                  "label": "patients should be reassured of an “excellent prognosis”"
+                },
+                {
+                  "label": "symptoms may clear with 1 or 2 follow-up visits"
+                }
+              ]
+            },
+            {
+              "label": "this approach is usually more effective with children than adults"
+            }
+          ]
+        },
+        {
+          "label": "children may be further encouraged through the prescription of “eye rest”",
+          "children": [
+            {
+              "label": "removing the “overuse of television”"
+            }
+          ]
+        },
+        {
+          "label": "in patients with combined organic and nonorganic (nonorganic overlay) complaints",
+          "children": [
+            {
+              "label": "manage the organic problem"
+            },
+            {
+              "label": "attempt to downplay the nonorganic portion"
+            }
+          ]
+        },
+        {
+          "label": "consultation with a psychiatrist or psychologist",
+          "children": [
+            {
+              "label": "for an underlying psychological illness"
+            }
+          ]
+        },
+        {
+          "label": "monitor a patient with what initially appears to be a nonorganic visual disturbance",
+          "children": [
+            {
+              "label": "occasionally, an organic disorder becomes apparent later"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.13.1. Nonorganic Ophthalmic Disorders (I) - Examination Techniques.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 174,
+      "connector_rejected": 20,
+      "connector_edges": 115,
+      "connector_width": 0.706,
+      "text_labels": 96,
+      "tree_nodes": 96,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6609,
+      "root_font_size": 2.472,
+      "warnings": []
+    }
+  }
+}

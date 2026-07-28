@@ -1,0 +1,571 @@
+{
+  "label": "9.7.3. Infectious Ocular Inflammatory Diseases (III): HSV and VZV (III): Acute Retinal Necrosis",
+  "root": true,
+  "children": [
+    {
+      "label": "necrotizing herpetic retinopathy",
+      "children": [
+        {
+          "label": "retinal lesions of presumed herpetic etiology that are not characteristic of well-recognized syndromes such as ARN, CMV retinitis, or progressive outer retinal necrosis"
+        }
+      ]
+    },
+    {
+      "label": "Acute retinal necrosis (ARN)",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "otherwise healthy adults"
+            },
+            {
+              "label": "M=F",
+              "children": [
+                {
+                  "label": "immunocompromised patients (including HIV infection)"
+                }
+              ]
+            },
+            {
+              "label": "clustering in fifth-seventh decades",
+              "children": [
+                {
+                  "label": "reported in children"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prodromal infection",
+          "children": [
+            {
+              "label": "without a systemic prodrome years after primary infection"
+            },
+            {
+              "label": "following cutaneous herpetic infection",
+              "children": [
+                {
+                  "label": "dermatomal zoster"
+                }
+              ]
+            },
+            {
+              "label": "following systemic herpetic infection",
+              "children": [
+                {
+                  "label": "chickenpox"
+                },
+                {
+                  "label": "herpetic encephalitis",
+                  "children": [
+                    {
+                      "label": "HSV-1 or -2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "diagnostic criteria",
+      "children": [
+        {
+          "label": "See Table 7-1"
+        }
+      ]
+    },
+    {
+      "label": "diagnostic tests",
+      "children": [
+        {
+          "label": "retinal choroidal biopsy",
+          "children": [
+            {
+              "label": "polymerase chain reaction (PCR) testing of aqueous and/or vitreous samples"
+            }
+          ]
+        },
+        {
+          "label": "Intraocular antibody production",
+          "children": [
+            {
+              "label": "Goldmann-Witmer (GW) coefficient",
+              "children": [
+                {
+                  "label": "anterior chamber paracentesis",
+                  "children": [
+                    {
+                      "label": "aqueous humor analysis"
+                    }
+                  ]
+                },
+                {
+                  "label": "ratio >3 is diagnostic of local antibody production"
+                },
+                {
+                  "label": "adjunct to the diagnosis of toxoplasmosis and uveitis caused by HSV and VZV infection"
+                },
+                {
+                  "label": "combining the GW coefficient with PCR analysis may increase diagnostic yield",
+                  "children": [
+                    {
+                      "label": "little value in the diagnosis of CMV retinitis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PCR testing",
+          "children": [
+            {
+              "label": "has largely supplanted viral culture, intraocular antibody titers, and serology",
+              "children": [
+                {
+                  "label": "most sensitive, specific, and rapid diagnostic method for detecting infectious posterior uveitis in general and ARN specifically"
+                }
+              ]
+            },
+            {
+              "label": "aqueous humor",
+              "children": [
+                {
+                  "label": "aqueous sampling is usually sufficient"
+                }
+              ]
+            },
+            {
+              "label": "vitreous"
+            },
+            {
+              "label": "quantitative PCR",
+              "children": [
+                {
+                  "label": "information with respect to viral load, disease activity, and response to therapy"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "VZV> HSV-1> HSV-2",
+                  "children": [
+                    {
+                      "label": "HSV-1 or VZV",
+                      "children": [
+                        {
+                          "label": "tend to be older (mean age, 40 years)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "HSV-1",
+                      "children": [
+                        {
+                          "label": "higher risk of encephalitis and meningitis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "HSV-2",
+                      "children": [
+                        {
+                          "label": "younger (<age 25 years)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "in rare instances, CMV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "endoretinal biopsy",
+          "children": [
+            {
+              "label": "rarely when PCR results are negative but the clinical suspicion is high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "loss of vision"
+            },
+            {
+              "label": "photophobia"
+            },
+            {
+              "label": "floaters",
+              "children": [
+                {
+                  "label": "pain"
+                }
+              ]
+            },
+            {
+              "label": "acute unilateral",
+              "children": [
+                {
+                  "label": "36%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fellow eye involvement",
+          "children": [
+            {
+              "label": "usually within 6 weeks",
+              "children": [
+                {
+                  "label": "may be delayed for extended periods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "panuveitis",
+          "children": [
+            {
+              "label": "significant anterior segment inflammation",
+              "children": [
+                {
+                  "label": "KPs"
+                },
+                {
+                  "label": "posterior synechiae"
+                },
+                {
+                  "label": "elevated IOP"
+                }
+              ]
+            },
+            {
+              "label": "heavy vitreous cellular infiltration"
+            }
+          ]
+        },
+        {
+          "label": "within 2 weeks",
+          "children": [
+            {
+              "label": "classic triad",
+              "children": [
+                {
+                  "label": "occlusive retinal arteriolitis"
+                },
+                {
+                  "label": "vitritis"
+                },
+                {
+                  "label": "multifocal yellow-white peripheral retinitis",
+                  "children": [
+                    {
+                      "label": "early",
+                      "children": [
+                        {
+                          "label": "peripheral retinal lesions are discontinuous and have scalloped edges"
+                        },
+                        {
+                          "label": "appear to arise in the outer retina"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "within days",
+                      "children": [
+                        {
+                          "label": "lesions coalesce to form a confluent 360° creamy retinitis"
+                        },
+                        {
+                          "label": "progresses in a posterior direction"
+                        },
+                        {
+                          "label": "full-thickness retinal necrosis",
+                          "children": [
+                            {
+                              "label": "occasional retinal hemorrhage"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "posterior pole tends to be spared"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "combined tractional–rhegmatogenous retinal detachments",
+          "children": [
+            {
+              "label": "75%"
+            },
+            {
+              "label": "multiple posterior retinal breaks"
+            },
+            {
+              "label": "proliferative vitreoretinopathy",
+              "children": [
+                {
+                  "label": "within the first weeks to months"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "exudative retinal detachment"
+        },
+        {
+          "label": "disc swelling and relative afferent pupillary defect"
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "induction antiviral therapy",
+          "children": [
+            {
+              "label": "Intravenous acyclovir, 10 mg/kg every 8 hours for 10–14 days,",
+              "children": [
+                {
+                  "label": "effective against HSV and VZV"
+                },
+                {
+                  "label": "+- reversible elevations in serum creatinine and liver enzymes"
+                }
+              ]
+            },
+            {
+              "label": "oral valacyclovir at doses of up to 2 g 3x/day",
+              "children": [
+                {
+                  "label": "alternative to intravenous acyclovir",
+                  "children": [
+                    {
+                      "label": "in the presence of frank renal insufficiency, the dosage will need to be reduced"
+                    }
+                  ]
+                },
+                {
+                  "label": "has not been demonstrated as superior to the intravenous approach"
+                }
+              ]
+            },
+            {
+              "label": "intravitreal antiviral",
+              "children": [
+                {
+                  "label": "ganciclovir (0.2–2.0 mg/0.1 mL)"
+                },
+                {
+                  "label": "foscarnet (1.2–2.4 mg/0.1 mL)"
+                },
+                {
+                  "label": "for rapid induction (in combination with intravenous or oral antivirals)"
+                },
+                {
+                  "label": "for disease that fails to respond to systemic acyclovir"
+                },
+                {
+                  "label": "injections may need to be repeated twice weekly until the retinitis is controlled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic corticosteroids",
+          "children": [
+            {
+              "label": "oral prednisone, 1 mg/kg/day after 24–48 hours of antiviral therapy",
+              "children": [
+                {
+                  "label": "treatment prevents development of new lesions and promotes lesion regression over 4 days"
+                }
+              ]
+            },
+            {
+              "label": "tapered over several weeks"
+            }
+          ]
+        },
+        {
+          "label": "aspirin and other anticoagulants",
+          "children": [
+            {
+              "label": "to prevent vascular occlusions"
+            },
+            {
+              "label": "results have been inconclusive"
+            }
+          ]
+        },
+        {
+          "label": "maintenance antiviral therapy",
+          "children": [
+            {
+              "label": "x3 months",
+              "children": [
+                {
+                  "label": "extended antiviral therapy may reduce the incidence of contralateral disease by 80% over 1 year"
+                }
+              ]
+            },
+            {
+              "label": "VZV infection",
+              "children": [
+                {
+                  "label": "acyclovir at 800 mg orally 5 times daily, valacyclovir at 1 g orally 3 times daily, or famciclovir at 500 mg orally 3 times daily"
+                }
+              ]
+            },
+            {
+              "label": "HSV-1",
+              "children": [
+                {
+                  "label": "dose is one-half of that for VZV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "retinal detachment",
+          "children": [
+            {
+              "label": "prophylactic",
+              "children": [
+                {
+                  "label": "prophylactic barrier laser photocoagulation",
+                  "children": [
+                    {
+                      "label": "to areas of healthy retina at posterior border of necrotic lesions",
+                      "children": [
+                        {
+                          "label": "as soon as view permits"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "may prevent retinal detachment"
+                    }
+                  ]
+                },
+                {
+                  "label": "early vitrectomy combined with endolaser photocoagulation",
+                  "children": [
+                    {
+                      "label": "to eliminate the contribution of vitreous traction on the necrotic retina"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "vitrectomy, air–fluid exchange, endolaser photocoagulation, long-acting gas or silicone oil tamponade",
+              "children": [
+                {
+                  "label": "more successful than standard scleral buckling"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "prognosis",
+      "children": [
+        {
+          "label": "untreated",
+          "children": [
+            {
+              "label": "final visual acuity of ≤20/200 in 2/3"
+            }
+          ]
+        },
+        {
+          "label": "with early recognition, aggressive antiviral therapy, and laser photocoagulation, this prognosis may be significantly improved",
+          "children": [
+            {
+              "label": "46% achieved a visual acuity of ≥20/40"
+            },
+            {
+              "label": "92% achieved a visual acuity of ≥20/400"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "differential diagnosis",
+      "children": [
+        {
+          "label": "CMV retinitis"
+        },
+        {
+          "label": "atypical toxoplasmic retinochoroiditis"
+        },
+        {
+          "label": "syphilis"
+        },
+        {
+          "label": "lymphoma"
+        },
+        {
+          "label": "leukemia"
+        },
+        {
+          "label": "autoimmune retinal vasculitis (such as Behçet disease)"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.3. Infectious Ocular Inflammatory Diseases (III) - HSV and VZV (III) - Acute Retinal Necrosis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 270,
+      "connector_rejected": 4,
+      "connector_edges": 176,
+      "connector_width": 0.875,
+      "text_labels": 140,
+      "tree_nodes": 140,
+      "component_roots": 8,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6519,
+      "root_font_size": 4.158,
+      "warnings": []
+    }
+  }
+}

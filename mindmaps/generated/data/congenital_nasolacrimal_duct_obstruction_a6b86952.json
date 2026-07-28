@@ -1,0 +1,424 @@
+{
+  "label": "Congenital Nasolacrimal Duct Obstruction",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "6-month-old infant with chronic tearing and discharge of both eyes that started one month after birth"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "dye disappearance test",
+          "children": [
+            {
+              "label": "check in (5)10 minutes"
+            }
+          ]
+        },
+        {
+          "label": "Jones I test",
+          "children": [
+            {
+              "label": "instill fluorescein into conjunctival fornices"
+            },
+            {
+              "label": "recover it in inferior nasal meatus by passing a cotton- tipped applicator into nose",
+              "children": [
+                {
+                  "label": "at 2 and 5 minutes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Jones II test",
+          "children": [
+            {
+              "label": "following an unsuccessful Jones I test",
+              "children": [
+                {
+                  "label": "flush residual fluorescein from conjunctival sac with clear saline"
+                },
+                {
+                  "label": "irrigate lacrimal system with clear saline using a cannula inserted into the canalicular system",
+                  "children": [
+                    {
+                      "label": "clear solution suggests that tears never entered lacrimal outflow system"
+                    },
+                    {
+                      "label": "fluorescein-stained irrigant indicates partial obstruction"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "NLD obstruction",
+          "children": [
+            {
+              "label": "congenital",
+              "children": [
+                {
+                  "label": "symptoms start within 1-2 months of birth",
+                  "children": [
+                    {
+                      "label": "external photograph shows tearing of both eyes and periocular crusting of right eye without evidence of inflammation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "acquired"
+            }
+          ]
+        },
+        {
+          "label": "canalicular/punctal atresia"
+        },
+        {
+          "label": "dacryocystocele",
+          "children": [
+            {
+              "label": "bluish cystic mass",
+              "children": [
+                {
+                  "label": "below medial canthal tendon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "congential glaucoma"
+        },
+        {
+          "label": "conjunctivitis"
+        },
+        {
+          "label": "other",
+          "children": [
+            {
+              "label": "epiblepharon/entropion/ trichiasis"
+            },
+            {
+              "label": "corneal abrasion"
+            },
+            {
+              "label": "foreign body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "congenital NLDO"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "NL sac digital massage",
+              "children": [
+                {
+                  "label": "≥4 x/day"
+                },
+                {
+                  "label": "inward & downward pressure",
+                  "children": [
+                    {
+                      "label": "if mucopurulent discharge"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "topical antibiotic ointment/ drop"
+            },
+            {
+              "label": "systemic antibiotic",
+              "children": [
+                {
+                  "label": "if acute dacryocystitis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "NLD probing",
+              "children": [
+                {
+                  "label": "in office",
+                  "children": [
+                    {
+                      "label": "young infant"
+                    }
+                  ]
+                },
+                {
+                  "label": "operating room",
+                  "children": [
+                    {
+                      "label": "older infant"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "balloon dacryoplasty",
+              "children": [
+                {
+                  "label": "if 2 probings fail"
+                }
+              ]
+            },
+            {
+              "label": "silicone intubation"
+            },
+            {
+              "label": "DCR",
+              "children": [
+                {
+                  "label": "last resort"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "age of onset & course"
+            },
+            {
+              "label": "mucopurulent discharge"
+            },
+            {
+              "label": "swelling or erythema in medial canthal area"
+            },
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "chronic photophobia/ blepharospasm",
+              "children": [
+                {
+                  "label": "congential glaucoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "corneal diameter"
+            },
+            {
+              "label": "corneal edema/clouding",
+              "children": [
+                {
+                  "label": "congenital glaucoma"
+                }
+              ]
+            },
+            {
+              "label": "Haab striae"
+            },
+            {
+              "label": "palpate over lacrimal sac",
+              "children": [
+                {
+                  "label": "warmth/swelling"
+                },
+                {
+                  "label": "reflux of mucopurulent discharge through punctum",
+                  "children": [
+                    {
+                      "label": "dacryocystitis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "punctal patency"
+            },
+            {
+              "label": "lid margin crusting"
+            },
+            {
+              "label": "mucopurulent discharge"
+            },
+            {
+              "label": "increased tear lake"
+            },
+            {
+              "label": "evert eyelid for foreign body",
+              "children": [
+                {
+                  "label": "if corneal abrasion"
+                },
+                {
+                  "label": "if acute onset"
+                }
+              ]
+            },
+            {
+              "label": "full dilated exam",
+              "children": [
+                {
+                  "label": "optic disc cupping",
+                  "children": [
+                    {
+                      "label": "patients with congenital NLDO have higher prevalence of amblyopia risk factors"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ocular motility/alignment"
+            },
+            {
+              "label": "cycloplegic refraction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education/ Counselling",
+      "children": [
+        {
+          "label": "discuss pathogenesis"
+        },
+        {
+          "label": "discuss treatment options"
+        },
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good prognosis",
+              "children": [
+                {
+                  "label": "spontaneous resolution in 90% with conservative treatment"
+                },
+                {
+                  "label": "single lacrimal probing resolves congenital NLDO in 90% of patients when performed before age 13 mo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "routine",
+              "children": [
+                {
+                  "label": "unless signs of infection"
+                }
+              ]
+            },
+            {
+              "label": "call if signs of infection",
+              "children": [
+                {
+                  "label": "conjunctivitis"
+                },
+                {
+                  "label": "dacryocystitis",
+                  "children": [
+                    {
+                      "label": "warmth"
+                    },
+                    {
+                      "label": "swelling"
+                    },
+                    {
+                      "label": "tenderness"
+                    },
+                    {
+                      "label": "purulent discharge"
+                    }
+                  ]
+                },
+                {
+                  "label": "preseptal cellulitis"
+                }
+              ]
+            },
+            {
+              "label": "monitor for anisometropic/ strabismic amblyopia"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Congenital Nasolacrimal Duct Obstruction.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 164,
+      "connector_rejected": 4,
+      "connector_edges": 116,
+      "connector_width": 0.967,
+      "text_labels": 105,
+      "tree_nodes": 105,
+      "component_roots": 7,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.7073,
+      "root_font_size": 6.766,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,161 @@
+---
+title: "10.6.3. Childhood Glaucoma (III): Evaluating the Pediatric Glaucoma Patient"
+category: "Glaucoma"
+subcategory: ""
+source_pdf: "MindmapPDF/Glaucoma/10.6.3. Childhood Glaucoma (III) - Evaluating the Pediatric Glaucoma Patient.pdf"
+---
+
+# 10.6.3. Childhood Glaucoma (III): Evaluating the Pediatric Glaucoma Patient
+
+## Hierarchy
+
+- History
+  - See Table 6-5
+  - infant
+    - fussy or irritable
+    - not feeding well
+    - losing weight
+    - cries when taken outside, into the sunshine
+    - corneal clouding
+      - intermittent or constant
+  - school-aged children
+    - cries when taken outside, into the sunshine
+    - failed vision screenings
+    - change in academic performance
+    - trouble seeing the blackboard
+    - extracurricular activities
+  - family history of congenital glaucoma and other ocular and systemic disorders
+  - medication use (with particular attention to all forms of steroids)
+  - allergies
+  - names of previous physicians
+  - all prior ocular and systemic medical and surgical treatments
+- Other Testing
+  - B-scan ultrasonography
+    - whenever media opacities (corneal edema) preclude fundus evaluation
+  - scanning laser ophthalmoscopy
+    - useful longitudinal data in older children with clear media
+  - optical coherence tomography
+    - useful longitudinal data in older children with clear media
+- Axial Length
+  - A-scan ultrasonography
+  - progressive globe enlargement in patients with PCG
+  - axial length may stabilize or decrease with control of IOP
+- Visual Acuity
+  - refraction
+    - myopia from axial enlargement
+    - astigmatism from corneal irregularity
+  - decreased vision may result from
+    - end-stage glaucomatous optic nerve damage
+    - amblyopia
+    - corneal scarring
+    - other associated ocular disorders (retinal detachment, macular edema, cataract, lens dislocation)
+- Optic Nerve and Fundus Evaluation
+  - indirect ophthalmoscopy
+    - usually inadequate for accurate assessment of the optic nerve
+      - critical marker of successful surgical control of IOP
+  - direct ophthalmoscopy
+    - can be performed in the office or operating room
+    - patients with small pupils
+      - direct ophthalmoscopy through a Koeppe lens without a dimple
+  - slit-lamp biomicroscopy
+    - older children
+  - photographs
+    - documentation of changes over time
+  - newborn without glaucoma
+    - small physiologic cup (<0.3)
+  - PCG
+    - stretching of the optic canal
+    - backward bowing of the lamina cribrosa
+    - generalized cup enlargement
+  - enlarged/increasing CDR or CDR asymmetry >0.2 is suggestive of glaucomatous cupping
+  - cupping may be reversible if the IOP is lowered
+  - lowering IOP cannot reverse any existing atrophy of the optic nerve axons
+- External Examination
+  - buphthalmos
+  - epiphora
+  - blepharospasm
+  - examination should be directed at features of
+    - chromosomal abnormalities
+    - phakomatoses
+    - connective tissue disorders
+    - Axenfeld-Rieger syndrome
+- Anterior Segment Examination
+  - corneal diameter
+    - measure with calipers or ruler
+    - normal corneal diameter
+      - full-term newborns
+        - 10–10.5 mm
+      - by age 1
+        - 11–12 mm
+    - congenital glaucoma
+      - .>12 mm in the first year of life
+  - corneal opacification
+    - mild haze to dense opacification of the corneal stroma
+  - retroillumination after pupillary dilation may help visualize Haab striae
+  - evaluation for other anterior segment anomalies
+    - aniridia
+    - iridocorneal adhesions
+    - corectopia
+- Gonioscopy
+  - younger children
+    - EUA is usually required
+    - Koeppe lens
+      - direct visualization of angle structures
+  - older children
+    - 4-mirror goniolens at the slit lamp
+      - indirect visualization of angle structures
+  - anterior chamber angle of an infant differs from the normal adult angle
+    - trabecular meshwork is less pigmented
+    - Schwalbe line is less prominent
+    - junction between the scleral spur and ciliary body band is less distinct
+  - PCG
+    - anterior chamber is deep
+    - high anterior iris insertion
+    - angle recess is absent
+  - JOAG
+    - angle usually appears normal
+      - iris root appears as a scalloped line of glistening tissue
+        - Barkan membrane
+          - thickened and compacted trabecular meshwork
+            - not a true membrane!
+  - aniridia
+    - rudimentary iris root with progressive narrowing and synechial closure
+- Central Corneal Thickness
+  - average central corneal thickness (CCT)
+    - 540–560 μm in children without glaucoma
+    - lower than average
+      - congenital glaucoma
+      - Down syndrome
+    - higher than average
+      - aphakic glaucoma
+      - aniridia
+  - role of pachymetry unclear
+- Tonometry
+  - infants <6 months
+    - can successfully measure the IOP without general anesthesia or sedation
+      - while the infant is feeding or immediately thereafter
+    - Tono-Pen
+    - pneumotonometer
+    - Perkins tonometer
+    - rebound tonometer
+      - does not require topical anesthesia
+  - infants >6 months and young children
+    - IOP falsely elevated in
+      - measurements higher with rebound tonometry than with the Perkins tonometer
+      - uncooperative or struggling child
+    - anesthesia usually required
+      - most general anesthetic agents and sedatives can profoundly lower IOP
+        - exceptions
+          - chloral hydrate
+            - does not affect IOP
+          - ketamine
+            - may raise IOP
+      - increased IOP during general anesthesia
+        - endotracheal intubation
+        - upward drift of the eyes
+        - possible induced laryngospasm
+      - in preparation for general anesthesia, infants may become dehydrated
+        - take IOP measurement immediately after induction of general anesthesia (preferably before intubation)
+  - normal IOP in newborns is in the low teens
+    - increasing to adult levels of 10–20 mm Hg by middle childhood
+  - glaucoma should be suspected if IOPs are elevated or asymmetric in a cooperative or anesthetized child

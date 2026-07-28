@@ -1,0 +1,399 @@
+{
+  "label": "5.10.3. Pupillary Abnormalities (III): Anisocoria (II): Anisocoria Greater in Bright Light",
+  "root": true,
+  "children": [
+    {
+      "label": "Iris damage",
+      "children": [
+        {
+          "label": "blunt trauma",
+          "children": [
+            {
+              "label": "initial miosis due to spasm"
+            },
+            {
+              "label": "mydriasis due to iris sphincter damage",
+              "children": [
+                {
+                  "label": "notches in the pupillary margin"
+                },
+                {
+                  "label": "transillumination defects near the sphincter muscle",
+                  "children": [
+                    {
+                      "label": "poor response to light and near stimulation"
+                    }
+                  ]
+                },
+                {
+                  "label": "does not respond to topical pilocarpine (1% or 2%)"
+                },
+                {
+                  "label": "mimics pharmacologic mydriasis",
+                  "children": [
+                    {
+                      "label": "in patients with head trauma, the dilated pupil may be mistaken as a sign of third nerve palsy due to uncal herniation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prolonged/recurrent angle closure"
+        },
+        {
+          "label": "intraocular surgery"
+        }
+      ]
+    },
+    {
+      "label": "in contrast to an Adie pupil, which causes segmental sphincter paralysis",
+      "children": [
+        {
+          "label": "careful slit lamp examination can help the clinician make this distinction"
+        }
+      ]
+    },
+    {
+      "label": "Adie tonic pupil",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "damage to ciliary ganglion or short ciliary nerves (postganglionic parasympathetic nerve injury)",
+              "children": [
+                {
+                  "label": "reduction in number of ganglion cells in ciliary ganglion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "local ocular/orbital processes",
+              "children": [
+                {
+                  "label": "surgery"
+                },
+                {
+                  "label": "trauma"
+                },
+                {
+                  "label": "laser procedure"
+                },
+                {
+                  "label": "infection"
+                },
+                {
+                  "label": "inflammation"
+                },
+                {
+                  "label": "ischemia",
+                  "children": [
+                    {
+                      "label": "diabetes mellitus"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "widespread autonomic dysfunction",
+              "children": [
+                {
+                  "label": "chronic alcoholism"
+                },
+                {
+                  "label": "dysautonomias"
+                },
+                {
+                  "label": "neurosyphilis"
+                },
+                {
+                  "label": "amyloidosis"
+                },
+                {
+                  "label": "sarcoidosis"
+                },
+                {
+                  "label": "Miller-Fisher variant of Guillain-Barré syndrome"
+                }
+              ]
+            },
+            {
+              "label": "idiopathic tonic pupil",
+              "children": [
+                {
+                  "label": "Adie pupil",
+                  "children": [
+                    {
+                      "label": "70% female",
+                      "children": [
+                        {
+                          "label": "Charcot-Marie-Tooth disease"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "80% unilateral",
+                      "children": [
+                        {
+                          "label": "second pupil may later become involved",
+                          "children": [
+                            {
+                              "label": "4%/year"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Holmes-Adie syndrome",
+                      "children": [
+                        {
+                          "label": "diminished deep tendon reflexes"
+                        },
+                        {
+                          "label": "orthostatic hypotension"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "acute denervation phase",
+              "children": [
+                {
+                  "label": "pupil is dilated",
+                  "children": [
+                    {
+                      "label": "poorly reactive to light and accommodation"
+                    },
+                    {
+                      "label": "sectoral palsy of the iris sphincter",
+                      "children": [
+                        {
+                          "label": "iris crypts stream toward areas of normal sphincter function",
+                          "children": [
+                            {
+                              "label": "stroma bunches up along the pupillary border in such areas"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "stromal thinning/atrophy is observed in areas of sphincter paralysis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "recovery phase",
+              "children": [
+                {
+                  "label": "damaged short ciliary nerves regenerate",
+                  "children": [
+                    {
+                      "label": "misguided accommodative fibers sprout onto the iris sphincter",
+                      "children": [
+                        {
+                          "label": "pupil recovers its ability to constrict to accommodative (or near) effort"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "light–near dissociation",
+                  "children": [
+                    {
+                      "label": "impaired pupillary light reflex"
+                    },
+                    {
+                      "label": "strong tonic pupillary response to near vision",
+                      "children": [
+                        {
+                          "label": "followed by slow redilation",
+                          "children": [
+                            {
+                              "label": "pupillary movement (both constriction and subsequent redilation) is delayed and slow (tonic)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "denervation cholinergic supersensitivity",
+              "children": [
+                {
+                  "label": "dilute pilocarpine eyedrops (0.1%)",
+                  "children": [
+                    {
+                      "label": "after 60 minutes",
+                      "children": [
+                        {
+                          "label": "affected pupil will constrict more than the normal pupil"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "80%"
+                }
+              ]
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "no symptoms"
+                },
+                {
+                  "label": "accommodative symptoms",
+                  "children": [
+                    {
+                      "label": "difficult to treat"
+                    },
+                    {
+                      "label": "usually resolve spontaneously within a few months"
+                    }
+                  ]
+                },
+                {
+                  "label": "photophobia",
+                  "children": [
+                    {
+                      "label": "topical dilute pilocarpine (0.1%)"
+                    },
+                    {
+                      "label": "with time (months to years), an Adie tonic pupil gets smaller"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pharmacologic mydriasis",
+      "children": [
+        {
+          "label": "no reactivity to light and near stimulation"
+        },
+        {
+          "label": "paralysis of the entire sphincter"
+        },
+        {
+          "label": "pilocarpine (1% or more) will not reverse the mydriasis",
+          "children": [
+            {
+              "label": "when mydriasis is induced by an anticholinergic drug such as atropine",
+              "children": [
+                {
+                  "label": "mydriasis due to Adie pupil or third nerve palsy is easily overcome with full-strength or dilute pilocarpine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "adrenergic mydriasis",
+          "children": [
+            {
+              "label": "dilated pupil"
+            },
+            {
+              "label": "blanched conjunctiva",
+              "children": [
+                {
+                  "label": "wide palpebral fissure"
+                }
+              ]
+            },
+            {
+              "label": "accommodation is not impaired"
+            },
+            {
+              "label": "medications used to treat glaucoma may cause anisocoria if administered in only 1 eye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Third nerve palsy",
+      "children": [
+        {
+          "label": "pupillary involvement is almost always accompanied by ptosis and limited ocular motility",
+          "children": [
+            {
+              "label": "motility disturbance may be subtle"
+            }
+          ]
+        },
+        {
+          "label": "when the pupil is involved, an aneurysm at the junction of the internal carotid and posterior communicating arteries must be excluded"
+        },
+        {
+          "label": "if the pupil is spared and all other functions of the third nerve are completely paretic, an aneurysm can likely be ruled out"
+        },
+        {
+          "label": "aberrant regeneration of the oculomotor nerve may cause",
+          "children": [
+            {
+              "label": "mydriasis"
+            },
+            {
+              "label": "synkinetic pupillary reaction",
+              "children": [
+                {
+                  "label": "portions of the pupillary sphincter contract with attempted movement of the eye, especially medially"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.10.3. Pupillary Abnormalities (III) Anisocoria (II) Anisocoria Greater in Bright Light.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 170,
+      "connector_rejected": 5,
+      "connector_edges": 113,
+      "connector_width": 0.854,
+      "text_labels": 96,
+      "tree_nodes": 96,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6647,
+      "root_font_size": 2.988,
+      "warnings": []
+    }
+  }
+}

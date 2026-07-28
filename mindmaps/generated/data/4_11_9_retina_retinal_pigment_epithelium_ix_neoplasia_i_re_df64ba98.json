@@ -1,0 +1,343 @@
+{
+  "label": "4.11.9. Retina & Retinal pigment epithelium (IX): Neoplasia (I): Retinoblastoma",
+  "root": true,
+  "children": [
+    {
+      "label": "most common primary intraocular malignancy in childhood",
+      "children": [
+        {
+          "label": "1:14,000-20,000"
+        }
+      ]
+    },
+    {
+      "label": "pathogenesis",
+      "children": [
+        {
+          "label": "neuroblastic origin",
+          "children": [
+            {
+              "label": "positive staining for",
+              "children": [
+                {
+                  "label": "neuron-specific enolase"
+                },
+                {
+                  "label": "rod outer segment photoreceptor-specific S antigen"
+                },
+                {
+                  "label": "rhodopsin"
+                }
+              ]
+            },
+            {
+              "label": "secret interphotoreceptor retinoid-binding protein"
+            },
+            {
+              "label": "express red and green photopigment gene"
+            },
+            {
+              "label": "express cone cell alpha subunits of transducin"
+            },
+            {
+              "label": "cone cell lineage"
+            }
+          ]
+        },
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "retinoblastoma gene",
+              "children": [
+                {
+                  "label": "long arm of chromosome 13"
+                },
+                {
+                  "label": "suppresses retinoblastoma"
+                },
+                {
+                  "label": "deletion/mutation of both homologous loci causes retinoblastoma"
+                },
+                {
+                  "label": "mutation in 1 gene may lead to mutation in the normal gene"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "progression",
+      "children": [
+        {
+          "label": "optic nerve infiltration",
+          "children": [
+            {
+              "label": "brain extension"
+            },
+            {
+              "label": "subarachnoid space seeding"
+            },
+            {
+              "label": "poor prognostic sign"
+            }
+          ]
+        },
+        {
+          "label": "massive uveal invasion",
+          "children": [
+            {
+              "label": "increased risk of hematogenous dissemination"
+            }
+          ]
+        },
+        {
+          "label": "invasion of conjunctival substantia propria",
+          "children": [
+            {
+              "label": "risk of spread to regional lymph nodes"
+            },
+            {
+              "label": "especially when trabecular meshwork is involved"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "histology",
+      "children": [
+        {
+          "label": "retinoblastoma cells",
+          "children": [
+            {
+              "label": "round/oval/spindle-shaped nuclei",
+              "children": [
+                {
+                  "label": "hyperchromatic"
+                },
+                {
+                  "label": "twice the size of a lymphocyte"
+                },
+                {
+                  "label": "high mitotic activity"
+                }
+              ]
+            },
+            {
+              "label": "imperceptible amount of cytoplasm"
+            },
+            {
+              "label": "undifferentiated cells outnumber differentiated cells",
+              "children": [
+                {
+                  "label": "not an important prognostic indicator"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "iris neovascularization"
+        },
+        {
+          "label": "tumor seeding",
+          "children": [
+            {
+              "label": "vitreous"
+            },
+            {
+              "label": "subretinal"
+            }
+          ]
+        },
+        {
+          "label": "Flexner-Wintersteiner rosettes",
+          "children": [
+            {
+              "label": "characteristic of retinoblastoma expect for",
+              "children": [
+                {
+                  "label": "pinealoblatoma"
+                },
+                {
+                  "label": "ectopic intracranial retinoblastomas"
+                }
+              ]
+            },
+            {
+              "label": "expression of retinal differentiation"
+            },
+            {
+              "label": "structure",
+              "children": [
+                {
+                  "label": "central lumen"
+                },
+                {
+                  "label": "refractile lining",
+                  "children": [
+                    {
+                      "label": "external limiting membrane"
+                    }
+                  ]
+                },
+                {
+                  "label": "single row of cells",
+                  "children": [
+                    {
+                      "label": "columnar"
+                    },
+                    {
+                      "label": "eosinophilic cytoplasm"
+                    },
+                    {
+                      "label": "peripherally located nuclei"
+                    },
+                    {
+                      "label": "looser chromatin compared to undifferentiated tumor cells",
+                      "children": [
+                        {
+                          "label": "A. Flexner-Wintersteiner rosettes; B. Homer Wright rosette; C. Fleurette"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Homer Wright rosette",
+          "children": [
+            {
+              "label": "found in",
+              "children": [
+                {
+                  "label": "retinoblastoma"
+                },
+                {
+                  "label": "neuroblastoma"
+                },
+                {
+                  "label": "medulloblastoma of cerebellum"
+                }
+              ]
+            },
+            {
+              "label": "lumen filled with tangle of eosinophilic cytoplasmic processes"
+            },
+            {
+              "label": "poorly differentiated"
+            }
+          ]
+        },
+        {
+          "label": "fleurette",
+          "children": [
+            {
+              "label": "curvilinear cluster of cells",
+              "children": [
+                {
+                  "label": "rod inner segments"
+                },
+                {
+                  "label": "cone inner segments"
+                },
+                {
+                  "label": "abortive outer segments"
+                }
+              ]
+            },
+            {
+              "label": "expression of greater degree of retinal differentiation compared to F-W rosettes"
+            }
+          ]
+        },
+        {
+          "label": "pseudorosettes",
+          "children": [
+            {
+              "label": "viable cells around a blood vessel"
+            },
+            {
+              "label": "ischemic necrosis starting 90-120 micron from the blood vessel",
+              "children": [
+                {
+                  "label": "dystrophic calcification"
+                },
+                {
+                  "label": "DNA from necrotic cells detected within:",
+                  "children": [
+                    {
+                      "label": "tumor vessels"
+                    },
+                    {
+                      "label": "iris vessels"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Retinocytoma/Retinoma",
+      "children": [
+        {
+          "label": "photoreceptor differentiation",
+          "children": [
+            {
+              "label": "fluerettes"
+            }
+          ]
+        },
+        {
+          "label": "differences with retinoblastoma",
+          "children": [
+            {
+              "label": "more cytoplasm"
+            },
+            {
+              "label": "more evenly dispersed chromatin"
+            },
+            {
+              "label": "no mitosis"
+            },
+            {
+              "label": "no necrosis",
+              "children": [
+                {
+                  "label": "+- calcification"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.11.9. Retina & Retinal pigment epithelium (IX) - Neoplasia (I) - Retinoblastoma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 179,
+      "connector_rejected": 16,
+      "connector_edges": 113,
+      "connector_width": 1.364,
+      "text_labels": 86,
+      "tree_nodes": 86,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6313,
+      "root_font_size": 4.545,
+      "warnings": []
+    }
+  }
+}

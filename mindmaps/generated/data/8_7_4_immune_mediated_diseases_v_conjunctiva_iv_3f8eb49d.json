@@ -1,0 +1,193 @@
+{
+  "label": "8.7.4. Immune-mediated diseases (V): Conjunctiva (IV)",
+  "root": true,
+  "children": [
+    {
+      "label": "Ocular Graft-Vs-Host Disease",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "common complication of allogeneic bone- marrow transplantation",
+              "children": [
+                {
+                  "label": "conjunctival inflammation with or without subepithelial fibrosis"
+                },
+                {
+                  "label": "severe keratoconjunctivitis sicca (kcs)",
+                  "children": [
+                    {
+                      "label": "lacrimal gland infiltration by GHVD-effecting T lymphocytes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "acute"
+                },
+                {
+                  "label": "chronic",
+                  "children": [
+                    {
+                      "label": "3 months after bone-marrow transplantation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical findings",
+          "children": [
+            {
+              "label": "conjunctival inflammation",
+              "children": [
+                {
+                  "label": "most ocular complications occur as a manifestation of chronic GVHD"
+                }
+              ]
+            },
+            {
+              "label": "cicatricial conjunctivitis"
+            },
+            {
+              "label": "KCS",
+              "children": [
+                {
+                  "label": "40%–60% of chronic GVHD"
+                }
+              ]
+            },
+            {
+              "label": "scleritis"
+            },
+            {
+              "label": "limbal stem cell deficiency",
+              "children": [
+                {
+                  "label": "secondary corneal scarring"
+                },
+                {
+                  "label": "rare"
+                }
+              ]
+            },
+            {
+              "label": "posterior subcapsular cataracts"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "aggressive lubrication"
+            },
+            {
+              "label": "punctal occlusion",
+              "children": [
+                {
+                  "label": "punctal fibrosis is common",
+                  "children": [
+                    {
+                      "label": "can lead to plug extrusion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "severe filamentary keratitis",
+              "children": [
+                {
+                  "label": "mucolytic agents (10% acetylcysteine)"
+                },
+                {
+                  "label": "bandage soft contact lenses"
+                }
+              ]
+            },
+            {
+              "label": "topical cyclosporine"
+            },
+            {
+              "label": "gas-permeable scleral contact lenses"
+            },
+            {
+              "label": "soft therapeutic contact lenses"
+            },
+            {
+              "label": "keratoprosthesis"
+            },
+            {
+              "label": "active nonocular (often skin) GVHD",
+              "children": [
+                {
+                  "label": "systemic immunosuppression",
+                  "children": [
+                    {
+                      "label": "cyclosporine"
+                    },
+                    {
+                      "label": "tacrolimus"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "other immune-mediated diseases of the skin and mucous membranes",
+      "children": [
+        {
+          "label": "linear iga bullous dermatosis"
+        },
+        {
+          "label": "dermatitis herpetiformis"
+        },
+        {
+          "label": "epidermolysis bullosa"
+        },
+        {
+          "label": "lichen planus"
+        },
+        {
+          "label": "paraneoplastic pemphigus"
+        },
+        {
+          "label": "pemphigus vulgaris"
+        },
+        {
+          "label": "pemphigus foliaceus"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.7.4. Immune-mediated diseases (V) - Conjunctiva (IV).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 78,
+      "connector_rejected": 2,
+      "connector_edges": 56,
+      "connector_width": 1.901,
+      "text_labels": 46,
+      "tree_nodes": 46,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7179,
+      "root_font_size": 5.387,
+      "warnings": []
+    }
+  }
+}

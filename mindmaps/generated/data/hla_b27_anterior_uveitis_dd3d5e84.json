@@ -1,0 +1,555 @@
+{
+  "label": "HLA-B27 Anterior Uveitis",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "27-year-old man with history of back pain complains of eye pain, eye redness, and light sensitivity"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "autoimmune/ inflammatory",
+          "children": [
+            {
+              "label": "HLA-B27-associated anterior uveitis",
+              "children": [
+                {
+                  "label": "without systemic disease",
+                  "children": [
+                    {
+                      "label": "hypopyon, stromal corneal edema, and conjunctival injection"
+                    }
+                  ]
+                },
+                {
+                  "label": "ankylosing spondylitis"
+                },
+                {
+                  "label": "IBD"
+                },
+                {
+                  "label": "reactive arthritis (Reiter syndrome)"
+                },
+                {
+                  "label": "psoriatic arthritis"
+                }
+              ]
+            },
+            {
+              "label": "other systemic inflammatory conditions",
+              "children": [
+                {
+                  "label": "Behcet's disease"
+                },
+                {
+                  "label": "sarcoidosis"
+                }
+              ]
+            },
+            {
+              "label": "ocular inflammatory conditions",
+              "children": [
+                {
+                  "label": "lens-induced uveitis"
+                },
+                {
+                  "label": "Fuch’s heterochromic iridocyclitis"
+                },
+                {
+                  "label": "glaucomatocyclitic crisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "infectious",
+          "children": [
+            {
+              "label": "herpetic anterior uveitis"
+            },
+            {
+              "label": "syphilis"
+            },
+            {
+              "label": "tuberculosis"
+            },
+            {
+              "label": "lyme disease"
+            },
+            {
+              "label": "toxoplasmosis"
+            },
+            {
+              "label": "corneal ulcer"
+            },
+            {
+              "label": "endophthalmitis"
+            }
+          ]
+        },
+        {
+          "label": "surgical/traumatic",
+          "children": [
+            {
+              "label": "toxic anterior segment syndrome"
+            },
+            {
+              "label": "UGH syndrome"
+            },
+            {
+              "label": "retained IOFB"
+            },
+            {
+              "label": "lens-induced uveitis"
+            }
+          ]
+        },
+        {
+          "label": "medications",
+          "children": [
+            {
+              "label": "rifabutin",
+              "children": [
+                {
+                  "label": "antibiotic used in the prevention/ treatment of Mycobacterium avium- intracellulare infection"
+                },
+                {
+                  "label": "anterior & posterior uveitis",
+                  "children": [
+                    {
+                      "label": "+- hypopyon"
+                    },
+                    {
+                      "label": "reversible"
+                    }
+                  ]
+                },
+                {
+                  "label": "stellate, refractile endothelial deposits",
+                  "children": [
+                    {
+                      "label": "initially in the periphery; may extend to the central cornea"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "masquerade syndrome",
+          "children": [
+            {
+              "label": "retinoblastoma"
+            },
+            {
+              "label": "metastasis"
+            },
+            {
+              "label": "lymphoma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "first episode of a unilateral non-granulomatous anterior uveitis does not require work- up"
+        },
+        {
+          "label": "uveitis work-up",
+          "children": [
+            {
+              "label": "CBC, diff"
+            },
+            {
+              "label": "ESR/CRP"
+            },
+            {
+              "label": "RPR/VDRL"
+            },
+            {
+              "label": "ACE, lysozyme, chest CT"
+            },
+            {
+              "label": "PPD, CXR"
+            },
+            {
+              "label": "HLA-B27, sacroiliac x-ray"
+            },
+            {
+              "label": "lyme titer",
+              "children": [
+                {
+                  "label": "in endemic areas"
+                }
+              ]
+            },
+            {
+              "label": "conjunctival & urethral swabs for Chlamydia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "anterior uveitis secondary to ankylosing spondylitis"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "topical steroid",
+              "children": [
+                {
+                  "label": "q1-2 hr"
+                }
+              ]
+            },
+            {
+              "label": "cycloplegia"
+            },
+            {
+              "label": "rheumatology consult",
+              "children": [
+                {
+                  "label": "systemic NSAID",
+                  "children": [
+                    {
+                      "label": "r/o TB, syphilis"
+                    }
+                  ]
+                },
+                {
+                  "label": "oral steroid"
+                },
+                {
+                  "label": "immunomodulatory therapy"
+                }
+              ]
+            },
+            {
+              "label": "Ozurdex",
+              "children": [
+                {
+                  "label": "FDA-approved for posterior uveitis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Course",
+          "children": [
+            {
+              "label": "recurrent"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "glaucoma"
+            },
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "macular edema"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "acute uveitis",
+              "children": [
+                {
+                  "label": "q 1-3 days"
+                }
+              ]
+            },
+            {
+              "label": "no uveitis",
+              "children": [
+                {
+                  "label": "routine",
+                  "children": [
+                    {
+                      "label": "return for exam sooner if",
+                      "children": [
+                        {
+                          "label": "eye redness"
+                        },
+                        {
+                          "label": "eye pain"
+                        },
+                        {
+                          "label": "blurriness"
+                        },
+                        {
+                          "label": "light sensitivity"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "medical history",
+              "children": [
+                {
+                  "label": "back pain",
+                  "children": [
+                    {
+                      "label": "worse upon awakening"
+                    }
+                  ]
+                },
+                {
+                  "label": "joint pain"
+                },
+                {
+                  "label": "skin lesions",
+                  "children": [
+                    {
+                      "label": "psoriasis",
+                      "children": [
+                        {
+                          "label": "ulcerative colitis",
+                          "children": [
+                            {
+                              "label": "Reiter's syndrome"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "GI complaints"
+                },
+                {
+                  "label": "pain on urination"
+                },
+                {
+                  "label": "oral ulcers"
+                },
+                {
+                  "label": "genital ulcers",
+                  "children": [
+                    {
+                      "label": "Behcet disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "ethnic background",
+                  "children": [
+                    {
+                      "label": "along silk road"
+                    }
+                  ]
+                },
+                {
+                  "label": "medication use"
+                },
+                {
+                  "label": "foreign travel"
+                },
+                {
+                  "label": "sexually transmitted diseases"
+                }
+              ]
+            },
+            {
+              "label": "ocular history",
+              "children": [
+                {
+                  "label": "onset & course"
+                },
+                {
+                  "label": "previous episodes"
+                },
+                {
+                  "label": "recent eye surgery/trauma"
+                },
+                {
+                  "label": "herpetic eye disease"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "eyelid",
+              "children": [
+                {
+                  "label": "herpetic lesions"
+                }
+              ]
+            },
+            {
+              "label": "conjunctiva",
+              "children": [
+                {
+                  "label": "sarcoidosis granulomas"
+                }
+              ]
+            },
+            {
+              "label": "cornea",
+              "children": [
+                {
+                  "label": "corneal ulcer, scar, ghost dendrites"
+                },
+                {
+                  "label": "KPs",
+                  "children": [
+                    {
+                      "label": "stellate",
+                      "children": [
+                        {
+                          "label": "Fuch's heterochromic iridocyclitis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "mutton fat",
+                      "children": [
+                        {
+                          "label": "tuberculosis"
+                        },
+                        {
+                          "label": "sarcoidosis"
+                        },
+                        {
+                          "label": "syphylis"
+                        },
+                        {
+                          "label": "JIA-associated"
+                        },
+                        {
+                          "label": "sympathetic ophthalmia"
+                        },
+                        {
+                          "label": "VKH"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "iris",
+              "children": [
+                {
+                  "label": "nodules"
+                },
+                {
+                  "label": "PS"
+                },
+                {
+                  "label": "tumor",
+                  "children": [
+                    {
+                      "label": "phacolytic/phacoanaphylactic/ lens particle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lens"
+            },
+            {
+              "label": "gonioscopy",
+              "children": [
+                {
+                  "label": "PAS"
+                }
+              ]
+            },
+            {
+              "label": "funduscopy",
+              "children": [
+                {
+                  "label": "vitritis"
+                },
+                {
+                  "label": "retinitis",
+                  "children": [
+                    {
+                      "label": "Behcet's, toxoplasmosis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/HLA-B27 Anterior Uveitis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 240,
+      "connector_rejected": 3,
+      "connector_edges": 182,
+      "connector_width": 0.776,
+      "text_labels": 142,
+      "tree_nodes": 142,
+      "component_roots": 7,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.7583,
+      "root_font_size": 5.431,
+      "warnings": []
+    }
+  }
+}

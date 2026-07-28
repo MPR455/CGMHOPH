@@ -1,0 +1,429 @@
+{
+  "label": "8.3.4. Eyelid Diseases Associated With Ocular Surface Disorders (II): Staphylococcal Blepharitis",
+  "root": true,
+  "children": [
+    {
+      "label": "pathogenesis",
+      "children": [
+        {
+          "label": "primarily infectious",
+          "children": [
+            {
+              "label": "MGD and seborrheic blepharitis are primarily inflammatory"
+            },
+            {
+              "label": "usually Staphylococcus aureus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "inflammation associated with seborrheic blepharitis occurs primarily at anterior eyelid margin"
+    },
+    {
+      "label": "inflammation associated with MGD occurs primarily at posterior eyelid margin"
+    },
+    {
+      "label": "management",
+      "children": [
+        {
+          "label": "eyelid hygiene",
+          "children": [
+            {
+              "label": "focus on base of lashes"
+            },
+            {
+              "label": "reduces bacterial colonization and accumulation of sebaceous secretions"
+            },
+            {
+              "label": "commercially available eyelid scrub kits"
+            },
+            {
+              "label": "warm water with diluted baby shampoo"
+            }
+          ]
+        },
+        {
+          "label": "topical antibiotic",
+          "children": [
+            {
+              "label": "apply to eyelid margin to reduce both bacterial load and inflammation"
+            },
+            {
+              "label": "agents",
+              "children": [
+                {
+                  "label": "bacitracin"
+                },
+                {
+                  "label": "erythromycin"
+                },
+                {
+                  "label": "azithromycin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "concomitant ATD and/or lipid-induced tear-film instability should be treated"
+        },
+        {
+          "label": "antibiotic solution",
+          "children": [
+            {
+              "label": "cases with prominent infectious conjunctivitis"
+            },
+            {
+              "label": "well-tolerated, narrow-spectrum antimicrobial agent effective against the majority of staphylococci should be selected"
+            }
+          ]
+        },
+        {
+          "label": "anti-inflammatory therapy",
+          "children": [
+            {
+              "label": "limited and judicious use of mild doses of topical corticosteroids in selected cases",
+              "children": [
+                {
+                  "label": "routine or long-term use should be discouraged"
+                }
+              ]
+            },
+            {
+              "label": "more rapid symptomatic relief"
+            },
+            {
+              "label": "little therapeutic benefit for toxic-related punctate epithelial keratopathy"
+            },
+            {
+              "label": "marginal infiltrates and phlyctenulosis respond promptly to topical corticosteroid therapy",
+              "children": [
+                {
+                  "label": "have a strong immunologic component"
+                },
+                {
+                  "label": "phlyctenulosis",
+                  "children": [
+                    {
+                      "label": "corticosteroids are usually necessary early in the course of treatment"
+                    }
+                  ]
+                },
+                {
+                  "label": "marginal infiltrates",
+                  "children": [
+                    {
+                      "label": "eyelid hygiene and antibiotic therapy alone may be sufficient"
+                    },
+                    {
+                      "label": "corticosteroids may be introduced earlier if the diagnosis is certain"
+                    },
+                    {
+                      "label": "if epithelial defects are noted over the infiltrates, diagnostic cultures should be considered before corticosteroid treatment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "more common in younger individuals"
+        },
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "crusting",
+              "children": [
+                {
+                  "label": "particularly upon awakening"
+                }
+              ]
+            },
+            {
+              "label": "burning"
+            },
+            {
+              "label": "itching"
+            },
+            {
+              "label": "foreign-body sensation",
+              "children": [
+                {
+                  "label": "in contrast to ATD"
+                }
+              ]
+            },
+            {
+              "label": "peak in the morning and improve as the day progresses"
+            }
+          ]
+        },
+        {
+          "label": "signs",
+          "children": [
+            {
+              "label": "hard, brittle fibrinous scales/hard, matted crusts",
+              "children": [
+                {
+                  "label": "surrounding individual cilia on anterior eyelid margin"
+                }
+              ]
+            },
+            {
+              "label": "injection and telangiectasis of anterior and posterior eyelid margins"
+            },
+            {
+              "label": "small ulcers of anterior eyelid margin",
+              "children": [
+                {
+                  "label": "seen when hard crusts are removed"
+                }
+              ]
+            },
+            {
+              "label": "white lashes (poliosis)"
+            },
+            {
+              "label": "lash loss (madarosis)"
+            },
+            {
+              "label": "trichiasis"
+            }
+          ]
+        },
+        {
+          "label": "Staphylococcal blepharoconjunctivitis",
+          "children": [
+            {
+              "label": "S aureus"
+            },
+            {
+              "label": "chronic (>4-week duration)"
+            },
+            {
+              "label": "unilateral or bilateral"
+            },
+            {
+              "label": "papillary reaction of tarsal conjunctiva",
+              "children": [
+                {
+                  "label": "particularly inferior tarsal conjunctiva near the eyelid margin"
+                }
+              ]
+            },
+            {
+              "label": "injection of bulbar and tarsal conjunctivae",
+              "children": [
+                {
+                  "label": "mild"
+                }
+              ]
+            },
+            {
+              "label": "scant mucopurulent discharge"
+            },
+            {
+              "label": "± concomitant ATD and/or lipid-induced tear- film instability"
+            },
+            {
+              "label": "S aureus",
+              "children": [
+                {
+                  "label": "matted golden crusts and ulcers on anterior eyelid margin"
+                },
+                {
+                  "label": "inferior punctate keratopathy"
+                },
+                {
+                  "label": "marginal corneal infiltrates"
+                },
+                {
+                  "label": "conjunctival or corneal phlyctenules",
+                  "children": [
+                    {
+                      "label": "rare"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Moraxella angular blepharoconjunctivitis",
+          "children": [
+            {
+              "label": "Moraxella lacunata"
+            },
+            {
+              "label": "chronic angular blepharoconjunctivitis"
+            },
+            {
+              "label": "crusting and ulceration of skin in lateral canthal angle"
+            },
+            {
+              "label": "papillary or follicular reaction on tarsal conjunctiva"
+            },
+            {
+              "label": "± adjacent keratitis"
+            },
+            {
+              "label": "frequently associated with concomitant S aureus blepharoconjunctivitis"
+            }
+          ]
+        },
+        {
+          "label": "phlyctenulosis",
+          "children": [
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "≥1 small, rounded, elevated, gray or yellow, hyperemic, focal inflammatory nodules",
+              "children": [
+                {
+                  "label": "at or near the limbus"
+                },
+                {
+                  "label": "cornea"
+                },
+                {
+                  "label": "bulbar conjunctiva"
+                }
+              ]
+            },
+            {
+              "label": "adjacent zone of engorged hyperemic vessels"
+            },
+            {
+              "label": "natural course",
+              "children": [
+                {
+                  "label": "become necrotic and ulcerate centrally",
+                  "children": [
+                    {
+                      "label": "spontaneously involute over a period of 2–3 weeks"
+                    }
+                  ]
+                },
+                {
+                  "label": "conjunctival phlyctenules do not lead to scarring"
+                },
+                {
+                  "label": "corneal/limbal phlyctenules lead to residual wedge-shaped fibrovascular corneal scars along the limbus",
+                  "children": [
+                    {
+                      "label": "when such scars are bilateral and inferior, they may suggest previous phlyctenulosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal involvement is recurrent",
+                  "children": [
+                    {
+                      "label": "± corneal thinning",
+                      "children": [
+                        {
+                          "label": "centripetal migration of successive inflammatory lesions may eventually develop, affecting vision if untreated"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "perforation",
+                      "children": [
+                        {
+                          "label": "rare"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "differential diagnosis",
+      "children": [
+        {
+          "label": "chronic unilateral conjunctivitis refractory to therapy",
+          "children": [
+            {
+              "label": "masquerade syndrome (conjunctival malignancy)"
+            },
+            {
+              "label": "factitious illness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "laboratory evaluation",
+      "children": [
+        {
+          "label": "eyelid and conjunctival cultures",
+          "children": [
+            {
+              "label": "heavy, confluent growth of S aureus"
+            },
+            {
+              "label": "light to moderate growth and/or isolation of staphylococcal species other than S aureus does not exclude the diagnosis"
+            }
+          ]
+        },
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "initial diagnosis is in doubt"
+            },
+            {
+              "label": "treatment response is poor"
+            },
+            {
+              "label": "infection is worsening"
+            }
+          ]
+        },
+        {
+          "label": "susceptibility testing",
+          "children": [
+            {
+              "label": "in cases that have been refractory to empiric antibiotic therapy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.3.4. Eyelid Diseases Associated With Ocular Surface Disorders (II) - Staphylococcal Blepharitis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 192,
+      "connector_rejected": 8,
+      "connector_edges": 138,
+      "connector_width": 1.319,
+      "text_labels": 110,
+      "tree_nodes": 110,
+      "component_roots": 5,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.7188,
+      "root_font_size": 3.736,
+      "warnings": []
+    }
+  }
+}

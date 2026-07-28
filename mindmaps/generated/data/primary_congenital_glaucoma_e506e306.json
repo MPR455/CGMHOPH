@@ -1,0 +1,557 @@
+{
+  "label": "Primary Congenital Glaucoma",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "2-month-old boy with right eye tearing, frequent blinking, and forceful closure of his eyelids"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "enlarged cornea of the right eye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset/course"
+            },
+            {
+              "label": "epiphora"
+            },
+            {
+              "label": "photophobia"
+            },
+            {
+              "label": "blepharospasm"
+            },
+            {
+              "label": "discharge"
+            },
+            {
+              "label": "forceps delivery"
+            },
+            {
+              "label": "maternal infections during pregnancy"
+            },
+            {
+              "label": "family hx",
+              "children": [
+                {
+                  "label": "congenital glaucoma"
+                },
+                {
+                  "label": "CHED/CHSD"
+                },
+                {
+                  "label": "congenital megalocornea"
+                },
+                {
+                  "label": "metabolic diseases"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "vision"
+            },
+            {
+              "label": "APD"
+            },
+            {
+              "label": "external exam",
+              "children": [
+                {
+                  "label": "port wine stains",
+                  "children": [
+                    {
+                      "label": "Sturge-Weber syndrome"
+                    }
+                  ]
+                },
+                {
+                  "label": "forceps mark"
+                },
+                {
+                  "label": "dacryocystocele, discharge from lacrimal puncta"
+                }
+              ]
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "anterior segment",
+              "children": [
+                {
+                  "label": "corneal diameter >12 mm"
+                },
+                {
+                  "label": "increased tear lake"
+                },
+                {
+                  "label": "corneal edema"
+                },
+                {
+                  "label": "horizontal Descemet tears"
+                },
+                {
+                  "label": "corneal thickness (pachymetry)"
+                },
+                {
+                  "label": "AC reaction",
+                  "children": [
+                    {
+                      "label": "anterior uveitis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "gonioscopy",
+              "children": [
+                {
+                  "label": "abnormal angle anatomy"
+                }
+              ]
+            },
+            {
+              "label": "dilated funduscopy",
+              "children": [
+                {
+                  "label": "optic disc cupping",
+                  "children": [
+                    {
+                      "label": "Sturge-Weber syndrome",
+                      "children": [
+                        {
+                          "label": "congenital rubella"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "diffuse choroidal hemangioma"
+                },
+                {
+                  "label": "salt & pepper retinopathy"
+                }
+              ]
+            },
+            {
+              "label": "cycloplegic refraction",
+              "children": [
+                {
+                  "label": "myopic shift"
+                },
+                {
+                  "label": "normal = 17 mm at birth"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "may need to be done under general anesthesia"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "primary congenital glaucoma",
+          "children": [
+            {
+              "label": "80% bilateral"
+            },
+            {
+              "label": "10-40% familial",
+              "children": [
+                {
+                  "label": "AR"
+                }
+              ]
+            },
+            {
+              "label": "classic triad",
+              "children": [
+                {
+                  "label": "epiphora"
+                },
+                {
+                  "label": "photophobia"
+                },
+                {
+                  "label": "blepharospasm"
+                }
+              ]
+            },
+            {
+              "label": "corneal edema"
+            }
+          ]
+        },
+        {
+          "label": "forceps injury",
+          "children": [
+            {
+              "label": "vertical/oblique descemet tears"
+            },
+            {
+              "label": "unilateral"
+            }
+          ]
+        },
+        {
+          "label": "NLD obstruction"
+        },
+        {
+          "label": "CHED",
+          "children": [
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "CHED1",
+              "children": [
+                {
+                  "label": "AD"
+                },
+                {
+                  "label": "presents during 1st-2nd year of life"
+                },
+                {
+                  "label": "progresses over 1–10 years"
+                }
+              ]
+            },
+            {
+              "label": "CHED2",
+              "children": [
+                {
+                  "label": "AR"
+                },
+                {
+                  "label": "congenital"
+                },
+                {
+                  "label": "stationary"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CHSD",
+          "children": [
+            {
+              "label": "congenital stromal corneal dystrophy (CSCD)"
+            },
+            {
+              "label": "AD"
+            }
+          ]
+        },
+        {
+          "label": "congenital megalocornea",
+          "children": [
+            {
+              "label": "bilateral",
+              "children": [
+                {
+                  "label": "boys"
+                }
+              ]
+            },
+            {
+              "label": "XLR"
+            },
+            {
+              "label": ".>14 mm"
+            }
+          ]
+        },
+        {
+          "label": "anterior uveitis"
+        },
+        {
+          "label": "corneal abrasion/foreign body"
+        },
+        {
+          "label": "congenital rubella",
+          "children": [
+            {
+              "label": "microphthalmia"
+            },
+            {
+              "label": "corneal clouding"
+            },
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "glaucoma"
+            },
+            {
+              "label": "salt & pepper retinopathy",
+              "children": [
+                {
+                  "label": "most common ocular manifestation",
+                  "children": [
+                    {
+                      "label": "25%–50%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "hearing loss"
+            },
+            {
+              "label": "cardiac defects"
+            }
+          ]
+        },
+        {
+          "label": "Sturge-Weber syndrome"
+        },
+        {
+          "label": "STUMPPeD",
+          "children": [
+            {
+              "label": "sclerocornea"
+            },
+            {
+              "label": "trauma/tear"
+            },
+            {
+              "label": "ulcer"
+            },
+            {
+              "label": "metabolic",
+              "children": [
+                {
+                  "label": "bilateral"
+                },
+                {
+                  "label": "mucopolysaccharidoses"
+                },
+                {
+                  "label": "cystinosis"
+                }
+              ]
+            },
+            {
+              "label": "Peters"
+            },
+            {
+              "label": "PPMD",
+              "children": [
+                {
+                  "label": "at birth"
+                },
+                {
+                  "label": "bilateral"
+                },
+                {
+                  "label": "grouped vesicles, scalloped bands"
+                }
+              ]
+            },
+            {
+              "label": "dermoid (limbal)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "A-scan for axial length"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "congenital glaucoma"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "to lower IOP before surgery"
+            },
+            {
+              "label": "adjunct treatment after surgery"
+            },
+            {
+              "label": "avoid brimonidine",
+              "children": [
+                {
+                  "label": "relative contraindication <2 years of age"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "treatment of choice for primary congenital glaucoma"
+            },
+            {
+              "label": "goniotomy",
+              "children": [
+                {
+                  "label": "if clear cornea"
+                }
+              ]
+            },
+            {
+              "label": "trabeculotomy",
+              "children": [
+                {
+                  "label": "cloudy cornea"
+                },
+                {
+                  "label": "2 failed goniotomies"
+                },
+                {
+                  "label": "age>1.5 yr"
+                }
+              ]
+            },
+            {
+              "label": "trabeculectomy with mitomycin C"
+            },
+            {
+              "label": "tube shunt"
+            },
+            {
+              "label": "cyclodestructive procedures"
+            }
+          ]
+        },
+        {
+          "label": "Referrals",
+          "children": [
+            {
+              "label": "+- genetic counseling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Inform patient’s family about",
+          "children": [
+            {
+              "label": "pathogenesis & natural history"
+            },
+            {
+              "label": "treatment options"
+            },
+            {
+              "label": "prognosis",
+              "children": [
+                {
+                  "label": "guarded",
+                  "children": [
+                    {
+                      "label": "but useful vision can be maintained with timely treatment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "complications",
+              "children": [
+                {
+                  "label": "amblyopia",
+                  "children": [
+                    {
+                      "label": "prognosis best for patients whose glaucoma is diagnosed between 3 and 12 months",
+                      "children": [
+                        {
+                          "label": "vast majority respond to angle surgery"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "myopia"
+                },
+                {
+                  "label": "corneal scarring"
+                },
+                {
+                  "label": "glaucomatous optic atrophy"
+                }
+              ]
+            },
+            {
+              "label": "follow-up",
+              "children": [
+                {
+                  "label": "life-long treatment (medical/ surgical) may be necessary"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Primary Congenital Glaucoma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 237,
+      "connector_rejected": 3,
+      "connector_edges": 187,
+      "connector_width": 0.728,
+      "text_labels": 146,
+      "tree_nodes": 146,
+      "component_roots": 7,
+      "spatially_recovered_labels": 8,
+      "connector_match_ratio": 0.789,
+      "root_font_size": 5.097,
+      "warnings": []
+    }
+  }
+}

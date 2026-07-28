@@ -1,0 +1,1005 @@
+{
+  "label": "4.5.3. Conjunctiva (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Lymphocytic lesions",
+      "children": [
+        {
+          "label": "normal conjunctival follicles",
+          "children": [
+            {
+              "label": "mucosa-associated lymphoid tissue"
+            },
+            {
+              "label": "structure",
+              "children": [
+                {
+                  "label": "germinal center"
+                },
+                {
+                  "label": "corona",
+                  "children": [
+                    {
+                      "label": "mantle zone"
+                    },
+                    {
+                      "label": "marginal zone"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "benign lymphoid folliculosis",
+          "children": [
+            {
+              "label": "children/adolescents"
+            },
+            {
+              "label": "bilateral prominent follicles in the inferior fornix"
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "follicular conjunctivitis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lymphoproliferative conditions",
+          "children": [
+            {
+              "label": "salmon color"
+            },
+            {
+              "label": "benign or malignant",
+              "children": [
+                {
+                  "label": "only biopsy can differentiate benign from malignant"
+                }
+              ]
+            },
+            {
+              "label": "unilateral or bilateral"
+            },
+            {
+              "label": "areas involved",
+              "children": [
+                {
+                  "label": "(inferior) forniceal"
+                },
+                {
+                  "label": "caruncular"
+                },
+                {
+                  "label": "tarsal"
+                },
+                {
+                  "label": "bulbar"
+                },
+                {
+                  "label": "may have orbital component"
+                }
+              ]
+            },
+            {
+              "label": "biopsy sample",
+              "children": [
+                {
+                  "label": "formalin",
+                  "children": [
+                    {
+                      "label": "H & E stain"
+                    },
+                    {
+                      "label": "immunohistochemistry"
+                    },
+                    {
+                      "label": "4-5 mm"
+                    }
+                  ]
+                },
+                {
+                  "label": "saline/special flow cytometry medium",
+                  "children": [
+                    {
+                      "label": "4-5 mm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "benign lymphoid hyperplasia",
+              "children": [
+                {
+                  "label": "lymphoid follicles",
+                  "children": [
+                    {
+                      "label": "germinal center"
+                    },
+                    {
+                      "label": "corona",
+                      "children": [
+                        {
+                          "label": "small mature lymphocytes"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "some eventually develop lymphoma"
+                }
+              ]
+            },
+            {
+              "label": "lymphoma",
+              "children": [
+                {
+                  "label": "sheet of lymphocytes",
+                  "children": [
+                    {
+                      "label": "no follicles"
+                    }
+                  ]
+                },
+                {
+                  "label": "extranodal marginal zone lymphoma",
+                  "children": [
+                    {
+                      "label": "arises from marginal zone"
+                    },
+                    {
+                      "label": "most common"
+                    },
+                    {
+                      "label": "low-grade"
+                    },
+                    {
+                      "label": "B-cells>T-cells"
+                    },
+                    {
+                      "label": "monoclonality",
+                      "children": [
+                        {
+                          "label": "in-situ hybridization",
+                          "children": [
+                            {
+                              "label": "for immunoglobulin light chain clonality (kappa vs lambda)"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "flow cytometry",
+                          "children": [
+                            {
+                              "label": "more sensitive than ISH"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "IgH gene rearrangement by PCR",
+                          "children": [
+                            {
+                              "label": "on fresh or formalin-fixed tissue"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "fluorescent in-situ hybridization",
+                      "children": [
+                        {
+                          "label": "shows genetic translocations",
+                          "children": [
+                            {
+                              "label": "t(3;14) involving FOXP1 gene",
+                              "children": [
+                                {
+                                  "label": "MALT lymphoma"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "follicular lymphoma",
+                  "children": [
+                    {
+                      "label": "arises from germinal center"
+                    }
+                  ]
+                },
+                {
+                  "label": "mantle-cell lymphoma",
+                  "children": [
+                    {
+                      "label": "arises from mantle zone"
+                    }
+                  ]
+                },
+                {
+                  "label": "others",
+                  "children": [
+                    {
+                      "label": "diffuse large B-cell lymphoma"
+                    },
+                    {
+                      "label": "hodgkin lymphoma"
+                    },
+                    {
+                      "label": "burkitt lymphoma"
+                    },
+                    {
+                      "label": "plasmacytoma"
+                    },
+                    {
+                      "label": "T-cell lymphoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "association with systemic lymphoma",
+                  "children": [
+                    {
+                      "label": "2/3 are isolated"
+                    },
+                    {
+                      "label": "high-grade lymphomas have greater frequency of systemic lymphoma",
+                      "children": [
+                        {
+                          "label": "mantle cell lymphoma>MALT lymphoma"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "all patients need systemic work-up by oncologist"
+                    }
+                  ]
+                },
+                {
+                  "label": "microbial association",
+                  "children": [
+                    {
+                      "label": "chlamydia psittaci"
+                    },
+                    {
+                      "label": "chlamydia pneumoniae"
+                    },
+                    {
+                      "label": "chlamydia trachomatis"
+                    },
+                    {
+                      "label": "helicobacter pylori"
+                    },
+                    {
+                      "label": "viruses",
+                      "children": [
+                        {
+                          "label": "E-B virus"
+                        },
+                        {
+                          "label": "hepatitis C"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "treatment",
+                  "children": [
+                    {
+                      "label": "isolated",
+                      "children": [
+                        {
+                          "label": "radiation"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "systemic lymphoma",
+                      "children": [
+                        {
+                          "label": "chemotherapy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "oral doxycycline"
+                    }
+                  ]
+                },
+                {
+                  "label": "prognosis",
+                  "children": [
+                    {
+                      "label": "depends on subtype of lymphoma",
+                      "children": [
+                        {
+                          "label": "good for low-grade lymphomas"
+                        },
+                        {
+                          "label": "systemic lymphoma",
+                          "children": [
+                            {
+                              "label": "20% disease-free survival at 5 years"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "no systemic lymphoma",
+                          "children": [
+                            {
+                              "label": "75-100% remission at 10 years",
+                              "children": [
+                                {
+                                  "label": "average relapse time >5 years"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "risk factors for lymphoma-related death",
+                      "children": [
+                        {
+                          "label": "advanced clinical stage"
+                        },
+                        {
+                          "label": "age>60 years"
+                        },
+                        {
+                          "label": "extent of p53 positivity"
+                        },
+                        {
+                          "label": "MIB-1 positivity",
+                          "children": [
+                            {
+                              "label": "cell proliferation marker"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Glandular lesions",
+          "children": [
+            {
+              "label": "Oncocytoma",
+              "children": [
+                {
+                  "label": "caruncle"
+                },
+                {
+                  "label": "elderly women"
+                },
+                {
+                  "label": "tan-red vascularized nodule"
+                },
+                {
+                  "label": "differential diagnosis",
+                  "children": [
+                    {
+                      "label": "squamous"
+                    },
+                    {
+                      "label": "melanocytic"
+                    },
+                    {
+                      "label": "lymphocytic",
+                      "children": [
+                        {
+                          "label": "oxyphilic (eosinophilic) cystadenoma"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "amyloid"
+                    }
+                  ]
+                },
+                {
+                  "label": "adenoma",
+                  "children": [
+                    {
+                      "label": "apocrine cystadenoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "proliferation of apocrine epithelium (glands of Moll)",
+                      "children": [
+                        {
+                          "label": "eosinophilic cytoplasm"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Glandlike (cystic) spaces/lumina"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Melanocytic lesions",
+      "children": [
+        {
+          "label": "conjunctival nevi",
+          "children": [
+            {
+              "label": "demographics",
+              "children": [
+                {
+                  "label": "children"
+                }
+              ]
+            },
+            {
+              "label": "clinical features",
+              "children": [
+                {
+                  "label": "bulbar conjunctiva",
+                  "children": [
+                    {
+                      "label": "beware of pigmented conjunctival lesions involving palpebral conjunctiva"
+                    }
+                  ]
+                },
+                {
+                  "label": "+- pigmentation",
+                  "children": [
+                    {
+                      "label": "become more pigmented at puberty"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "nested pattern of melanocytes"
+                },
+                {
+                  "label": "epithelial inclusion cysts"
+                },
+                {
+                  "label": "phases",
+                  "children": [
+                    {
+                      "label": "junctional",
+                      "children": [
+                        {
+                          "label": "interface between epithelium and substantia propria"
+                        },
+                        {
+                          "label": "nests (theques)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "descend into substantia propria"
+                    }
+                  ]
+                },
+                {
+                  "label": "histologic types",
+                  "children": [
+                    {
+                      "label": "junctional",
+                      "children": [
+                        {
+                          "label": "only at the epithelial-stromal junction"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "compound",
+                      "children": [
+                        {
+                          "label": "both junctional & subepithelial"
+                        },
+                        {
+                          "label": "epithelial inclusion cysts"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "subepithelial/stromal",
+                      "children": [
+                        {
+                          "label": "only in the substantia propria"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical variants",
+                  "children": [
+                    {
+                      "label": "blue nevus",
+                      "children": [
+                        {
+                          "label": "blue-gray to blue-black"
+                        },
+                        {
+                          "label": "melanocytes in deep stroma"
+                        },
+                        {
+                          "label": "spindly morphology",
+                          "children": [
+                            {
+                              "label": "similar to uveal nevi"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "ocular melanocytosis is a form of blue nevus"
+                        },
+                        {
+                          "label": "ocular/dermal melanocytosis",
+                          "children": [
+                            {
+                              "label": "unilateral"
+                            },
+                            {
+                              "label": "darkly pigmented individuals"
+                            },
+                            {
+                              "label": "deep episclera/sclera",
+                              "children": [
+                                {
+                                  "label": "slate-gray color"
+                                },
+                                {
+                                  "label": "ocular melanocytosis"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "uveal tract",
+                              "children": [
+                                {
+                                  "label": "iris hyperchromia"
+                                },
+                                {
+                                  "label": "choroidal hyperchromia"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "periocular skin",
+                              "children": [
+                                {
+                                  "label": "dermal melanocytosis"
+                                },
+                                {
+                                  "label": "oculodermal melanocytosis/Nevus of Ota"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "+- orbital melanocytosis"
+                            },
+                            {
+                              "label": "GNAQ mutation"
+                            },
+                            {
+                              "label": "malignant transformation into melanoma",
+                              "children": [
+                                {
+                                  "label": "usually uveal melanoma"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "secondary glaucoma"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Intraepithelial melanosis",
+          "children": [
+            {
+              "label": "Benign acquired melanosis (BAM)",
+              "children": [
+                {
+                  "label": "bilateral"
+                },
+                {
+                  "label": "young adults"
+                },
+                {
+                  "label": "darkly pigmented individuals"
+                },
+                {
+                  "label": "involved areas",
+                  "children": [
+                    {
+                      "label": "bulbar conjunctiva"
+                    },
+                    {
+                      "label": "limbus"
+                    },
+                    {
+                      "label": "cornea",
+                      "children": [
+                        {
+                          "label": "striate melanokeratosis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "caruncle"
+                    },
+                    {
+                      "label": "palpebral conjunctiva"
+                    }
+                  ]
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "proliferation of benign melanocytes along the basal epithelial layer"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Primary acquired melanosis (PAM)",
+              "children": [
+                {
+                  "label": "unilateral"
+                },
+                {
+                  "label": "middle-aged adults"
+                },
+                {
+                  "label": "lightly pigmented individuals"
+                },
+                {
+                  "label": "• slowly enlarge"
+                },
+                {
+                  "label": "• transformation into melanoma"
+                },
+                {
+                  "label": "management",
+                  "children": [
+                    {
+                      "label": "<1 clock hour",
+                      "children": [
+                        {
+                          "label": "observe"
+                        }
+                      ]
+                    },
+                    {
+                      "label": ".>3 clock hours",
+                      "children": [
+                        {
+                          "label": "excise"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "caruncle, fornix, palpebral conjunctiva",
+                      "children": [
+                        {
+                          "label": "excise"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "extensive disease",
+                      "children": [
+                        {
+                          "label": "consider mitomycin-C"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "classification",
+                  "children": [
+                    {
+                      "label": "PAM without atypia",
+                      "children": [
+                        {
+                          "label": "similar to BAM",
+                          "children": [
+                            {
+                              "label": "no cellular atypia"
+                            },
+                            {
+                              "label": "limited to basal epithelial layer"
+                            },
+                            {
+                              "label": "no risk of malignant transformation"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "PAM with aypia",
+                      "children": [
+                        {
+                          "label": "migrates into more superficial epithelium",
+                          "children": [
+                            {
+                              "label": "pagetoid spread"
+                            },
+                            {
+                              "label": "full-thickness epithelial involvement",
+                              "children": [
+                                {
+                                  "label": "melanoma in-situ"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "discohesiveness"
+                        },
+                        {
+                          "label": "epithelioid cells",
+                          "children": [
+                            {
+                              "label": "hyperchromatic nuclei"
+                            },
+                            {
+                              "label": "prominent nucleoli"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "• mitosis"
+                        },
+                        {
+                          "label": "• chronic inflammation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Melanoma",
+          "children": [
+            {
+              "label": "predisposing lesions",
+              "children": [
+                {
+                  "label": "PAM",
+                  "children": [
+                    {
+                      "label": "50-70%"
+                    }
+                  ]
+                },
+                {
+                  "label": "nevus",
+                  "children": [
+                    {
+                      "label": "20%"
+                    }
+                  ]
+                },
+                {
+                  "label": "de novo",
+                  "children": [
+                    {
+                      "label": "10%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical features",
+              "children": [
+                {
+                  "label": "nodular growth"
+                },
+                {
+                  "label": "intrinsic vascularity"
+                },
+                {
+                  "label": "pigmentation",
+                  "children": [
+                    {
+                      "label": "melanotic"
+                    },
+                    {
+                      "label": "amelanotic",
+                      "children": [
+                        {
+                          "label": "even from pigmented PAM"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "spindle to epithelioid cell morphology"
+                },
+                {
+                  "label": "+- mitosis"
+                }
+              ]
+            },
+            {
+              "label": "lymphatic spread",
+              "children": [
+                {
+                  "label": "preauricular, submandibular, cervical lymph nodes"
+                },
+                {
+                  "label": "lung, liver, brain, bone, skin"
+                }
+              ]
+            },
+            {
+              "label": "unfavorable prognostic features",
+              "children": [
+                {
+                  "label": "non-epibulbar location"
+                },
+                {
+                  "label": "greater tumor thickness"
+                },
+                {
+                  "label": "scleral invasion"
+                },
+                {
+                  "label": "positive lateral margin"
+                },
+                {
+                  "label": "poor prognostic indicators",
+                  "children": [
+                    {
+                      "label": "not involving the limbus",
+                      "children": [
+                        {
+                          "label": "location in the palpebral conjunctiva, caruncle, or fornix"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "involvement of the eyelid margin"
+                    },
+                    {
+                      "label": "melanomas arising de novo"
+                    },
+                    {
+                      "label": "thickness >1.8 mm"
+                    },
+                    {
+                      "label": "invasion into deeper tissues"
+                    },
+                    {
+                      "label": "residual involvement at the surgical margins"
+                    },
+                    {
+                      "label": "pagetoid or full-thickness intraepithelial spread"
+                    },
+                    {
+                      "label": "lymphatic invasion"
+                    },
+                    {
+                      "label": "mixed cell type"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "excision"
+                }
+              ]
+            },
+            {
+              "label": "mortality",
+              "children": [
+                {
+                  "label": "15-30%"
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "extraocular extension of ciliary body melanoma",
+                  "children": [
+                    {
+                      "label": "sub-conjunctival"
+                    },
+                    {
+                      "label": "no adjacent PAM"
+                    }
+                  ]
+                },
+                {
+                  "label": "metastatic cutaneous melanoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.5.3. Conjunctiva (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 493,
+      "connector_rejected": 228,
+      "connector_edges": 260,
+      "connector_width": 0.657,
+      "text_labels": 258,
+      "tree_nodes": 258,
+      "component_roots": 2,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.5274,
+      "root_font_size": 2.299,
+      "warnings": []
+    }
+  }
+}

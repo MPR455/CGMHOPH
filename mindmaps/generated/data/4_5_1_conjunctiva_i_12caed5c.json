@@ -1,0 +1,354 @@
+{
+  "label": "4.5.1. Conjunctiva (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Topography",
+      "children": [
+        {
+          "label": "Regions",
+          "children": [
+            {
+              "label": "Bulbar"
+            },
+            {
+              "label": "Forniceal"
+            },
+            {
+              "label": "Palpebral",
+              "children": [
+                {
+                  "label": "Epithelial ridges"
+                }
+              ]
+            },
+            {
+              "label": "Caruncular",
+              "children": [
+                {
+                  "label": "Contains",
+                  "children": [
+                    {
+                      "label": "Sebaceous glands"
+                    },
+                    {
+                      "label": "Hair follicles"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Tissues",
+          "children": [
+            {
+              "label": "Epithelium",
+              "children": [
+                {
+                  "label": "Non-keratinized stratified squamous"
+                },
+                {
+                  "label": "Goblet cells",
+                  "children": [
+                    {
+                      "label": "Most numerous in",
+                      "children": [
+                        {
+                          "label": "Fornix",
+                          "children": [
+                            {
+                              "label": "Pseudoglands of Henle",
+                              "children": [
+                                {
+                                  "label": "Infoldings of conjunctiva with abundant goblet cells"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Plica"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Stroma",
+              "children": [
+                {
+                  "label": "Substantia propria",
+                  "children": [
+                    {
+                      "label": "General",
+                      "children": [
+                        {
+                          "label": "Thickest in fornix"
+                        },
+                        {
+                          "label": "Thinnest over tarsus"
+                        },
+                        {
+                          "label": "Fuses with Tenon capsule in bulbar region"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Constituents",
+                      "children": [
+                        {
+                          "label": "Collagen fibers"
+                        },
+                        {
+                          "label": "Vessels, lymphatics, nerves"
+                        },
+                        {
+                          "label": "Accessory lacrimal glands"
+                        },
+                        {
+                          "label": "Lymphocytes",
+                          "children": [
+                            {
+                              "label": "Lymphoid follicles",
+                              "children": [
+                                {
+                                  "label": "Conjunctiva-associated lymphoid tissue"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Plasma cells, macrophages, mast cells"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congenital anomalies",
+      "children": [
+        {
+          "label": "Choristomas",
+          "children": [
+            {
+              "label": "Normal mature tissue in abnormal location"
+            },
+            {
+              "label": "Types",
+              "children": [
+                {
+                  "label": "Limbal dermoid",
+                  "children": [
+                    {
+                      "label": "Firm"
+                    },
+                    {
+                      "label": "Dome-shaped"
+                    },
+                    {
+                      "label": "White-yellow"
+                    },
+                    {
+                      "label": "Variable size"
+                    },
+                    {
+                      "label": "Dermal adnexal structures"
+                    },
+                    {
+                      "label": "Epithelium",
+                      "children": [
+                        {
+                          "label": "+- Keratinized"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Location",
+                      "children": [
+                        {
+                          "label": "Limbus",
+                          "children": [
+                            {
+                              "label": "Inferotemporal"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Central cornea"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Types",
+                      "children": [
+                        {
+                          "label": "Isolated"
+                        },
+                        {
+                          "label": "Syndromic",
+                          "children": [
+                            {
+                              "label": "Bilateral"
+                            },
+                            {
+                              "label": "Goldenhar syndrome (oculoauriculovertbebral dysgenesis)",
+                              "children": [
+                                {
+                                  "label": "Epibulbar dermoid"
+                                },
+                                {
+                                  "label": "Upper lid coloboma"
+                                },
+                                {
+                                  "label": "Preauricular skin tags"
+                                },
+                                {
+                                  "label": "Vertebral anomalies"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "Linear nevus sebaceous syndrome"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Lipodermoid",
+                  "children": [
+                    {
+                      "label": "Softer & yellower than limbal dermoid"
+                    },
+                    {
+                      "label": "Fornix"
+                    },
+                    {
+                      "label": "Superotemporal"
+                    },
+                    {
+                      "label": "+- Orbital extension"
+                    },
+                    {
+                      "label": "+- Dermal adnexal structures"
+                    },
+                    {
+                      "label": "+- Goldenhar or linear nevus sebaceous syndromes"
+                    }
+                  ]
+                },
+                {
+                  "label": "Ectopic lacrimal gland"
+                },
+                {
+                  "label": "Episcleral osseous (osseocartilaginous) choristoma",
+                  "children": [
+                    {
+                      "label": "Contains bone"
+                    }
+                  ]
+                },
+                {
+                  "label": "Complex",
+                  "children": [
+                    {
+                      "label": "Multiple types of choristomas"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Normal mature tissue overgrowth in normal location"
+        },
+        {
+          "label": "Hamartomas",
+          "children": [
+            {
+              "label": "Congenital"
+            },
+            {
+              "label": "Capillary hemangioma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pyogenic granuloma",
+      "children": [
+        {
+          "label": "Reddish pedunculated nodule"
+        },
+        {
+          "label": "Predisposing conditions",
+          "children": [
+            {
+              "label": "Chalazion"
+            },
+            {
+              "label": "Trauma"
+            },
+            {
+              "label": "Surgery"
+            }
+          ]
+        },
+        {
+          "label": "Histology",
+          "children": [
+            {
+              "label": "Granulation tissue",
+              "children": [
+                {
+                  "label": "Acute & chronic inflammatory cells"
+                },
+                {
+                  "label": "Proliferating capillaries",
+                  "children": [
+                    {
+                      "label": "Spoke-wheel pattern"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.5.1. Conjunctiva (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 170,
+      "connector_rejected": 6,
+      "connector_edges": 114,
+      "connector_width": 1.632,
+      "text_labels": 87,
+      "tree_nodes": 87,
+      "component_roots": 3,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.6706,
+      "root_font_size": 5.439,
+      "warnings": []
+    }
+  }
+}

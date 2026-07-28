@@ -1,0 +1,550 @@
+{
+  "label": "4.10.1. Vitreous (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Inflammations",
+      "children": [
+        {
+          "label": "vitritis",
+          "children": [
+            {
+              "label": "benign or malignant white blood cells in vitreous cavity"
+            },
+            {
+              "label": "infectious endophthalmitis",
+              "children": [
+                {
+                  "label": "bacterial endophthalmitis",
+                  "children": [
+                    {
+                      "label": "neutrophilic infiltration"
+                    },
+                    {
+                      "label": "vitreous liquefaction",
+                      "children": [
+                        {
+                          "label": "posterior vitreous detachment"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "fibrocellular membrane formation",
+                      "children": [
+                        {
+                          "label": "peripheral retinal traction"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "fungi"
+                }
+              ]
+            },
+            {
+              "label": "noninfectious endophthalmitis",
+              "children": [
+                {
+                  "label": "chronic inflammatory cells",
+                  "children": [
+                    {
+                      "label": "T & B lymphocytes"
+                    },
+                    {
+                      "label": "macrophages/histiocytes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Topography",
+      "children": [
+        {
+          "label": "4 ml"
+        },
+        {
+          "label": "99% water"
+        },
+        {
+          "label": "macromolecules",
+          "children": [
+            {
+              "label": "glycosaminoglycans",
+              "children": [
+                {
+                  "label": "types II & IV collagen"
+                }
+              ]
+            },
+            {
+              "label": "soluble proteins",
+              "children": [
+                {
+                  "label": "BM: type IV collagen",
+                  "children": [
+                    {
+                      "label": "Sclera: type I collagen",
+                      "children": [
+                        {
+                          "label": "corneal stroma wound healing: type III collagen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "glycoproteins"
+            }
+          ]
+        },
+        {
+          "label": "vitreous cortex",
+          "children": [
+            {
+              "label": "greater number of collagen fibrils"
+            },
+            {
+              "label": "outer surface",
+              "children": [
+                {
+                  "label": "hyaloid face"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "attachments",
+          "children": [
+            {
+              "label": "lens",
+              "children": [
+                {
+                  "label": "hyaloideocapsular ligament",
+                  "children": [
+                    {
+                      "label": "firm in young patients"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "vitreous base",
+              "children": [
+                {
+                  "label": "2-6 mm"
+                }
+              ]
+            },
+            {
+              "label": "internal limiting membrane",
+              "children": [
+                {
+                  "label": "margins of optic nerve head"
+                },
+                {
+                  "label": "major retinal vessels"
+                },
+                {
+                  "label": "circular area around fovea"
+                },
+                {
+                  "label": "edges of areas of vitreoretinal degeneration",
+                  "children": [
+                    {
+                      "label": "lattice degeneration"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "strongest uveoscleral attachments",
+              "children": [
+                {
+                  "label": "major emissary channels"
+                },
+                {
+                  "label": "anterior base of ciliary body"
+                },
+                {
+                  "label": "juxtapapillary region"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "embryologic development",
+          "children": [
+            {
+              "label": "primary vitreous",
+              "children": [
+                {
+                  "label": "fibrillar material"
+                },
+                {
+                  "label": "mesenchymal cells"
+                },
+                {
+                  "label": "vascular components",
+                  "children": [
+                    {
+                      "label": "hyaloid artery"
+                    },
+                    {
+                      "label": "vasa hyaloidea propria"
+                    },
+                    {
+                      "label": "tunica vasculosa lentis"
+                    }
+                  ]
+                },
+                {
+                  "label": "atrophies after formation of secondary vitreous",
+                  "children": [
+                    {
+                      "label": "hyaloid canal \"Cloquet canal\""
+                    },
+                    {
+                      "label": "Bergmeister papilla"
+                    },
+                    {
+                      "label": "Mittendorf dot"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "secondary vitreous",
+              "children": [
+                {
+                  "label": "starts at 9th week of gestation"
+                },
+                {
+                  "label": "relatively acellular",
+                  "children": [
+                    {
+                      "label": "hyalocytes",
+                      "children": [
+                        {
+                          "label": "main portion of vitreous in adult eye"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "avascular",
+                  "children": [
+                    {
+                      "label": "zonular fibers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "tertiary vitreous"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Primary intraocular lymphoma (PIOL)",
+      "children": [
+        {
+          "label": "also known as",
+          "children": [
+            {
+              "label": "primary intraocular /central nervous system lymphoma"
+            },
+            {
+              "label": "large cell lymphoma"
+            },
+            {
+              "label": "vitreoretinal/retinal lymphoma"
+            }
+          ]
+        },
+        {
+          "label": "clinical findings",
+          "children": [
+            {
+              "label": "vitritis"
+            },
+            {
+              "label": "sub-RPE infiltrates",
+              "children": [
+                {
+                  "label": "neoplastic cells"
+                },
+                {
+                  "label": "overlying speckled pigmentation"
+                }
+              ]
+            },
+            {
+              "label": "retinal infiltration"
+            },
+            {
+              "label": "optic nerve infiltration"
+            },
+            {
+              "label": "perivascular",
+              "children": [
+                {
+                  "label": "1/2 have or develop CNS lymphoma"
+                },
+                {
+                  "label": "ischemic damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "cytology",
+              "children": [
+                {
+                  "label": "heterogeneous vitreous infiltrate",
+                  "children": [
+                    {
+                      "label": "neoplastic cells",
+                      "children": [
+                        {
+                          "label": "large B-cell lymphoma"
+                        },
+                        {
+                          "label": "convoluted nuclear membrane"
+                        },
+                        {
+                          "label": "multiple nucleoli",
+                          "children": [
+                            {
+                              "label": "ghost cells",
+                              "children": [
+                                {
+                                  "label": "suggestive of PIOL"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "small lymphocyte infiltration",
+                      "children": [
+                        {
+                          "label": "reactive T-cells"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "immunohistochemistry",
+              "children": [
+                {
+                  "label": "monoclonal B-cell lymphocytes"
+                }
+              ]
+            },
+            {
+              "label": "flow cytometry",
+              "children": [
+                {
+                  "label": "monoclonal B-cell lymphocytes"
+                }
+              ]
+            },
+            {
+              "label": "IL-10/IL-6 ratio>1"
+            },
+            {
+              "label": "immunoglobulin gene rearrangement"
+            },
+            {
+              "label": "PCR"
+            },
+            {
+              "label": "subretinal/sub-RPE infiltrates",
+              "children": [
+                {
+                  "label": "neoplastic lymphoid cells"
+                },
+                {
+                  "label": "cause RPE atrophy after resolution"
+                }
+              ]
+            },
+            {
+              "label": "secondary choroidal chronic inflammation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congenital anomalies",
+      "children": [
+        {
+          "label": "Persistent fetal vasculature",
+          "children": [
+            {
+              "label": "also known as",
+              "children": [
+                {
+                  "label": "persistent hyperplastic primary vitreous"
+                }
+              ]
+            },
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "retrolental fibrovascular plaque",
+                  "children": [
+                    {
+                      "label": "adipose tissue"
+                    }
+                  ]
+                },
+                {
+                  "label": "centripetal traction of ciliary processes",
+                  "children": [
+                    {
+                      "label": "cartilage"
+                    },
+                    {
+                      "label": "elongated ciliary processes"
+                    }
+                  ]
+                },
+                {
+                  "label": "persistent hyaloid artery"
+                },
+                {
+                  "label": "peripapilary tractional retinal detachment"
+                },
+                {
+                  "label": "cataract"
+                },
+                {
+                  "label": "microphthalmia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Bergmeister papilla",
+          "children": [
+            {
+              "label": "remnant of posterior portion of hayloid artery"
+            },
+            {
+              "label": "veil-like structure"
+            },
+            {
+              "label": "fingerlike projection"
+            }
+          ]
+        },
+        {
+          "label": "Mittendorf dot",
+          "children": [
+            {
+              "label": "focal lens opacity",
+              "children": [
+                {
+                  "label": "inferonasal to lens center"
+                },
+                {
+                  "label": "remnant of anterior portion of hayloid artery"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Peripapillary vascular loop",
+          "children": [
+            {
+              "label": "retinal vessels growing into Bergmeister papilla"
+            }
+          ]
+        },
+        {
+          "label": "Vitreous cysts",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "idiopathic"
+                },
+                {
+                  "label": "retinitis pigmentosa"
+                },
+                {
+                  "label": "uveitis"
+                },
+                {
+                  "label": "remnants of hyaloid system"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "hyaloid remnants"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.10.1. Vitreous (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 265,
+      "connector_rejected": 5,
+      "connector_edges": 183,
+      "connector_width": 1.423,
+      "text_labels": 137,
+      "tree_nodes": 137,
+      "component_roots": 4,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6906,
+      "root_font_size": 4.745,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,174 @@
+---
+title: "6.8.1. Esodeviations (I)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.8.1. Esodeviations (I).pdf"
+---
+
+# 6.8.1. Esodeviations (I)
+
+## Hierarchy
+
+- should resolve ≤3 months of age
+  - can sometimes persist, especially in premature infants
+  - present after age 2 months
+- Epidemiology
+  - latent or manifest convergent misalignment of the visual axes
+  - most common type of strabismus
+    - 50% of ocular deviations in the pediatric population
+  - M=F
+  - Caucasian & African American >Asian
+  - risk factors
+    - hyperopia
+    - anisometropia
+    - prematurity
+    - low birth weight
+    - family history of strabismus
+      - ± mendelian inheritance in some families
+    - maternal smoking during pregnancy
+    - neurodevelopmental impairment
+    - craniofacial or chromosomal anomalies
+    - prevalence of esotropia increases with
+      - age
+        - 48–72 months > 6–11 months
+      - moderate anisometropia
+      - moderate hyperopia
+  - amblyopia develops in ≈ 50%
+  - references
+- Infantile (Congenital) Esotropia
+  - Introduction
+    - ≤6 months of age
+    - ocular instability of infancy
+      - variable, transient, intermittent strabismus is commonly observed in the first 2–3 months of life
+      - common to see both intermittent esotropia and exotropia in the same infant
+      - will probably require surgical intervention
+        - esotropia unlikely to resolve
+          - constant
+          - ≥30 prism diopters
+    - risk factors
+      - often have a family history of esotropia or strabismus
+        - well-defined genetic patterns are unusual
+      - up to 30% of children with neurologic and developmental problems
+        - cerebral palsy
+        - hydrocephalus
+        - prematurity
+    - associated with an increased risk of development of mental illness by early adulthood
+      - 2.6 x higher
+    - references
+  - Pathogenesis
+    - unknown
+    - Worth “sensory” concept
+      - congenital deficit in a “fusion center” in the brain
+      - goal of restoring binocularity is futile
+    - Chavasse theory
+      - primary problem is one of motor development
+      - potentially curable if ocular alignment is achieved
+        - several authors have reported favorable sensory results in infants operated on between 6 months and 2 years of age
+          - early surgery for infantile esotropia
+  - Evaluation
+    - visual acuity of 2 eyes can be equal
+      - alternating fixation
+      - cross-fixation
+        - large-angle esotropia is associated with use of adducted eye for fixation of objects in contralateral temporal field
+        - apparent abduction deficit
+    - amblyopia is common
+      - fixation preference
+        - better-seeing eye will fixate in all fields of gaze
+          - amblyopic eye appears to have an abduction deficit
+    - versions and ductions are often normal initially
+      - ability to abduct each eye can be demonstrated with
+        - observation with either eye patched
+        - doll’s head maneuver
+        - clinician can also hold the infant and spin in a circle
+          - stimulates the vestibulo-ocular reflex
+      - persistent asymmetry of monocular horizontal smooth pursuit
+        - asymmetry of monocular horizontal smooth pursuit is normal ≤6 months
+          - nasal-to-temporal direction less well developed than the temporal-to-nasal
+    - deviation is comitant
+      - .>30Δ
+    - overelevation in adduction
+    - dissociated strabismus complex
+      - develop in >50%
+        - usually after 1–2 years of age
+    - fusion maldevelopment nystagmus syndrome
+      - "latent and manifest latent nystagmus"
+      - common
+    - Ciancia syndrome
+      - severe form of infantile esotropia
+        - large-angle esotropia (>50Δ)
+      - cycloplegic refraction characteristically reveals low hyperopia
+        - 1.00–2.00 diopters
+      - mild abduction deficits
+        - abducting nystagmus
+      - uniformly use cross-fixation
+  - Management
+    - significant hyperopia should be corrected
+      - full cycloplegic refraction
+      - small-angle esotropia that is variable or intermittent may be more likely to respond to hyperopic correction than would a large-angle or a constant esotropia
+      - ocular alignment is rarely achieved without surgery
+    - successful alignment is as likely to occur in patients with mild to moderate amblyopia at time of surgery as it is in those whose amblyopia has been fully treated preoperatively
+    - goal of surgical treatment
+      - orthotropia or as close to it as possible
+        - results in normal vision in each eye and the development of some degree of sensory fusion
+      - alignment within 8Δ–10Δ of orthotropia
+        - microtropia
+          - monofixation syndrome
+            - peripheral fusion
+            - central suppression
+            - favorable appearance
+            - represents a stable, functional surgical outcome even though bifoveal fusion is not achieved
+              - considered a successful surgical result
+              - child’s psychological and motor development may improve
+              - bonding between infant and parents may improve
+    - timing of surgery
+      - surgery should be undertaken early
+        - eyes should be aligned by age 24 months
+          - preferably earlier
+            - surgery can be performed in healthy children as early as age 4 months
+            - when ocular alignment is achieved earlier, there may be the added benefits of better fusion, stereopsis, and long-term stability
+        - Congenital Esotropia Observational Study
+          - constant esotropia of at least 40Δ present after 10 weeks of age is unlikely to resolve spontaneously
+          - smaller angles can be monitored, as they may improve spontaneously
+    - European multicenter prospective study (ELISS)
+      - showed only slight improvement in gross binocularity in early-surgery group (lower amount of suppression), but a higher number of procedures were performed in early-surgery group to achieve outcomes similar to those of delayed-surgery group
+    - most common initial procedure
+    - surgical approaches
+      - recession of both medial rectus muscles
+      - recession of a medial rectus muscle combined with resection of the ipsilateral lateral rectus muscle
+        - two-muscle surgery spares the other horizontal rectus muscles for subsequent surgery
+      - for infants with large deviations (>50Δ–60Δ)
+        - some surgeons operate on 3 or even 4 horizontal rectus muscles at time of initial surgery
+        - or they add botulinum toxin injection to the medial rectus muscle recession
+      - significant inferior oblique muscle overaction can be treated at the time of the initial surgery
+      - botulinum toxin injection alone
+        - into the medial rectus muscles
+        - usually, 2–3 injections into each medial rectus muscle
+        - average time to achieve alignment is longer (17 months) than with surgery (2 months)
+    - references
+- Types
+  - comitant
+    - infantile (congenital)
+    - accommodative
+    - acquired non-accommodative
+    - nystagmus and esotropia
+  - incomitant
+- Pseudoesotropia
+  - false appearance of esotropia when the visual axes are actually aligned
+    - observer sees less sclera nasally than would be expected
+    - especially noticeable when the child gazes to either side
+  - etiology
+    - flat, broad nasal bridge
+    - prominent epicanthal folds
+    - narrow interpupillary distance
+    - negative angle kappa
+      - angle kappa
+        - angle between the visual axis and the anatomical pupillary axis
+        - positive angle kappa
+          - fovea is slightly temporal to pupillary axis
+          - corneal light reflection will be slightly nasal to center of cornea
+          - large positive angle kappa can simulate exotropia
+        - negative angle kappa
+          - fovea is nasal to pupillary axis
+          - corneal light reflection will be temporal to center of cornea
+          - simulates esotropia
+        - Figure 7-6

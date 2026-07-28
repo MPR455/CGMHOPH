@@ -1,0 +1,160 @@
+{
+  "label": "5.10.2. Pupillary Abnormalities (II): Anisocoria (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Anisocoria Equal in Dim and Bright Light",
+      "children": [
+        {
+          "label": "Physiologic anisocoria",
+          "children": [
+            {
+              "label": "difference in pupil size ≥0.4 mm",
+              "children": [
+                {
+                  "label": "usually < 1.0 mm"
+                }
+              ]
+            },
+            {
+              "label": "most common cause of anisocoria",
+              "children": [
+                {
+                  "label": "20% of population"
+                }
+              ]
+            },
+            {
+              "label": "equal in dim and bright light",
+              "children": [
+                {
+                  "label": "pupillary light reflex and dilation are symmetric between both eyes"
+                },
+                {
+                  "label": "can vary from day to day"
+                },
+                {
+                  "label": "± more apparent in dim light",
+                  "children": [
+                    {
+                      "label": "ptosis on the side of the smaller pupil may create diagnostic confusion with Horner syndrome"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Anisocoria Greater in Dim Light",
+      "children": [
+        {
+          "label": "Mechanical anisocoria",
+          "children": [
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "inflammation"
+            },
+            {
+              "label": "posterior synechiae"
+            }
+          ]
+        },
+        {
+          "label": "Pharmacologic miosis",
+          "children": [
+            {
+              "label": "pilocarpine",
+              "children": [
+                {
+                  "label": "small, poorly reactive pupil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physiologic anisocoria"
+        },
+        {
+          "label": "Horner syndrome"
+        }
+      ]
+    },
+    {
+      "label": "Anisocoria Greater in Bright Light",
+      "children": [
+        {
+          "label": "Iris damage"
+        },
+        {
+          "label": "Pharmacologic mydriasis"
+        },
+        {
+          "label": "Adie tonic pupil"
+        },
+        {
+          "label": "Third nerve palsy"
+        }
+      ]
+    },
+    {
+      "label": "Benign Episodic Pupillary Mydriasis",
+      "children": [
+        {
+          "label": "springing pupil"
+        },
+        {
+          "label": "young, healthy individuals"
+        },
+        {
+          "label": "episodic unilateral mydriasis",
+          "children": [
+            {
+              "label": "each episode is self-limiting",
+              "children": [
+                {
+                  "label": "no associated systemic or neurologic disease"
+                },
+                {
+                  "label": "minutes to hours"
+                }
+              ]
+            },
+            {
+              "label": "mild blurring of vision"
+            },
+            {
+              "label": "periocular discomfort"
+            },
+            {
+              "label": "headache"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.10.2. Pupillary Abnormalities (II) Anisocoria (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 53,
+      "connector_rejected": 0,
+      "connector_edges": 41,
+      "connector_width": 0.932,
+      "text_labels": 37,
+      "tree_nodes": 37,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7736,
+      "root_font_size": 3.26,
+      "warnings": []
+    }
+  }
+}

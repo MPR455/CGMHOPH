@@ -1,0 +1,436 @@
+{
+  "label": "11.4.6. Pathology (VI): Other Secondary cataract",
+  "root": true,
+  "children": [
+    {
+      "label": "Cataract Associated With Uveitis",
+      "children": [
+        {
+          "label": "chronic uveitis",
+          "children": [
+            {
+              "label": "associated corticosteroid therapy"
+            }
+          ]
+        },
+        {
+          "label": "PSC"
+        },
+        {
+          "label": "+- anterior lens changes"
+        },
+        {
+          "label": "posterior synechiae"
+        },
+        {
+          "label": "thickening of the anterior lens capsule"
+        },
+        {
+          "label": "fibrous pupillary membrane"
+        },
+        {
+          "label": "+- calcium deposits on the anterior capsule or within the lens"
+        },
+        {
+          "label": "Fuchs heterochromic uveitis",
+          "children": [
+            {
+              "label": "cortical cataract",
+              "children": [
+                {
+                  "label": "≤70%"
+                }
+              ]
+            },
+            {
+              "label": "posterior synechiae do not commonly occur"
+            },
+            {
+              "label": "pupillary membrane is unlikely"
+            },
+            {
+              "label": "long-term corticosteroid therapy is not indicated"
+            },
+            {
+              "label": "cataract extraction has a favorable prognosis",
+              "children": [
+                {
+                  "label": "intraoperative anterior chamber hemorrhages",
+                  "children": [
+                    {
+                      "label": "25%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cataracts Associated With Ocular Treatments",
+      "children": [
+        {
+          "label": "corticosteroid treatment",
+          "children": [
+            {
+              "label": "posterior subcapsular cataract"
+            }
+          ]
+        },
+        {
+          "label": "vitrectomy",
+          "children": [
+            {
+              "label": "transient opacities involving the posterior sutures",
+              "children": [
+                {
+                  "label": "60%-95%"
+                },
+                {
+                  "label": "soon after vitrectomy"
+                },
+                {
+                  "label": "usually resolve spontaneously"
+                }
+              ]
+            },
+            {
+              "label": "nuclear cataract",
+              "children": [
+                {
+                  "label": "within 2 years"
+                },
+                {
+                  "label": "less common in patients <50 years"
+                },
+                {
+                  "label": "increases in oxygen tension in the vitreous intraoperatively and postoperatively"
+                },
+                {
+                  "label": "retinal surgery without vitrectomy is not associated with lens opacification"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "age-related degeneration of the vitreous body",
+          "children": [
+            {
+              "label": "increased risk of nuclear opacification"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Exfoliation Syndrome",
+      "children": [
+        {
+          "label": "systemic disease",
+          "children": [
+            {
+              "label": "LOXL1 mutation"
+            },
+            {
+              "label": "matrix of fibrotic material is deposited in many bodily organs"
+            }
+          ]
+        },
+        {
+          "label": "basement membrane–like fibrillogranular white material",
+          "children": [
+            {
+              "label": "elastic microfibrils"
+            },
+            {
+              "label": "deposited on",
+              "children": [
+                {
+                  "label": "lens"
+                },
+                {
+                  "label": "cornea"
+                },
+                {
+                  "label": "iris"
+                },
+                {
+                  "label": "anterior hyaloid face"
+                },
+                {
+                  "label": "ciliary processes"
+                },
+                {
+                  "label": "zonular fibers"
+                },
+                {
+                  "label": "trabecular meshwork"
+                }
+              ]
+            },
+            {
+              "label": "grayish white flecks",
+              "children": [
+                {
+                  "label": "prominent at the pupillary margin and on the lens capsule"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "unilateral or bilateral"
+        },
+        {
+          "label": "more apparent with increasing age",
+          "children": [
+            {
+              "label": "rare <50 years"
+            }
+          ]
+        },
+        {
+          "label": "associated findings",
+          "children": [
+            {
+              "label": "atrophy of the iris at the pupillary margin"
+            },
+            {
+              "label": "poorly dilating pupil"
+            },
+            {
+              "label": "deposition of pigment on the anterior surface of the iris"
+            },
+            {
+              "label": "increased pigmentation of the trabecular meshwork"
+            },
+            {
+              "label": "capsular fragility"
+            },
+            {
+              "label": "zonular weakness",
+              "children": [
+                {
+                  "label": "spontaneous lens subluxation and phacodonesis"
+                },
+                {
+                  "label": "may affect cataract surgery technique and intraocular lens implantation"
+                }
+              ]
+            },
+            {
+              "label": "cataracts",
+              "children": [
+                {
+                  "label": "exfoliative material may be elaborated even after lens is removed"
+                },
+                {
+                  "label": "abnormalities in transforming growth factor β (TGF-β)",
+                  "children": [
+                    {
+                      "label": "increased oxidative stress"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "exfoliation glaucoma",
+              "children": [
+                {
+                  "label": "open-angle glaucoma"
+                },
+                {
+                  "label": "fibrillar material obstructs flow through and causes damage to the trabecular meshwork or the uveoscleral pathway"
+                },
+                {
+                  "label": "odds of PXF leading to glaucoma",
+                  "children": [
+                    {
+                      "label": "≤40% over a 10-year period"
+                    }
+                  ]
+                },
+                {
+                  "label": "in Scandinavian countries, PXF accounts for >50% of OAG"
+                },
+                {
+                  "label": "exfoliation glaucoma differs from POAG in",
+                  "children": [
+                    {
+                      "label": "unilateral presentation"
+                    },
+                    {
+                      "label": "greater pigmentation of the trabecular meshwork"
+                    },
+                    {
+                      "label": "higher IOP"
+                    },
+                    {
+                      "label": "greater diurnal fluctuations"
+                    },
+                    {
+                      "label": "overall worse prognosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "laser trabeculoplasty",
+                  "children": [
+                    {
+                      "label": "can be very effective"
+                    },
+                    {
+                      "label": "response in exfoliation glaucoma may not last as long as that in POAG"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cataracts and Hyperbaric Oxygen Therapy",
+      "children": [
+        {
+          "label": "similar to vitrectomy"
+        },
+        {
+          "label": "nuclear sclerosis",
+          "children": [
+            {
+              "label": "≥150 hyperbaric oxygen therapies during a 1- year period",
+              "children": [
+                {
+                  "label": "50% nuclear cataracts"
+                }
+              ]
+            },
+            {
+              "label": "myopic shift",
+              "children": [
+                {
+                  "label": "during the course of several weeks"
+                },
+                {
+                  "label": "resolves after cessation of therapy"
+                }
+              ]
+            },
+            {
+              "label": "increased vitreous oxygenation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cataract and Atopic Dermatitis",
+      "children": [
+        {
+          "label": "chronic, erythematous dermatitis",
+          "children": [
+            {
+              "label": "itching"
+            }
+          ]
+        },
+        {
+          "label": "history of multiple allergies or asthma"
+        },
+        {
+          "label": "increased levels of immunoglobulin E (IgE)"
+        },
+        {
+          "label": "Cataract",
+          "children": [
+            {
+              "label": "25%"
+            },
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "second to third decade of life"
+            },
+            {
+              "label": "anterior subcapsular opacities",
+              "children": [
+                {
+                  "label": "resemble shieldlike plaques"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cataract and Ischemia",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "pulseless disease (Takayasu arteritis)"
+            },
+            {
+              "label": "thromboangiitis obliterans (Buerger disease)"
+            },
+            {
+              "label": "anterior segment necrosis"
+            }
+          ]
+        },
+        {
+          "label": "PSC",
+          "children": [
+            {
+              "label": "may progress rapidly to total cataract"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cataracts Associated With Degenerative Ocular Disorders",
+      "children": [
+        {
+          "label": "retinitis pigmentosa"
+        },
+        {
+          "label": "essential iris atrophy"
+        },
+        {
+          "label": "chronic hypotony"
+        },
+        {
+          "label": "absolute glaucoma"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.4.6. Pathology (VI) - Other Secondary cataract.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 108,
+      "connector_rejected": 2,
+      "connector_edges": 105,
+      "connector_width": 0.922,
+      "text_labels": 113,
+      "tree_nodes": 113,
+      "component_roots": 7,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.9722,
+      "root_font_size": 4.611,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,200 @@
+---
+title: "8.4.5. Infectious Diseases of the External Eye (V): RNA Viruses"
+category: "External Diseases"
+subcategory: ""
+source_pdf: "MindmapPDF/External Diseases/8.4.5. Infectious Diseases of the External Eye (V) - RNA Viruses.pdf"
+---
+
+# 8.4.5. Infectious Diseases of the External Eye (V): RNA Viruses
+
+## Hierarchy
+
+- Introduction
+  - eye infections due to RNA viruses less common than those due to DNA viruses
+  - most commonly manifest as follicular conjunctivitis associated with an upper respiratory tract infection
+- Togaviruses
+  - structure
+    - RNA
+      - single-stranded
+      - positive-sense
+    - no envelope
+  - members
+    - rubella virus
+      - in utero
+        - microphthalmos
+        - corneal haze
+        - cataracts
+        - iris hypoplasia
+        - iridocyclitis
+        - glaucoma
+        - salt-and-pepper pigmentary retinopathy
+        - worse when maternal infection ensues early in pregnancy
+    - encephalomyelitis virus
+    - yellow fever virus
+    - dengue virus
+- Picornaviruses
+  - structure
+    - RNA
+      - single-stranded
+      - negative-sense
+    - icosahedral capsid
+    - no envelope
+  - members
+    - enteroviruses
+      - poliovirus
+      - echovirus
+      - coxsackievirus
+        - coxsackievirus A24
+      - enterovirus
+        - enterovirus type 70
+      - acute hemorrhagic conjunctivitis
+        - etiology
+          - enterovirus type 70
+          - coxsackievirus A24
+          - adenovirus type 11
+        - follicular conjunctivitis
+        - multiple petechial hemorrhages of bulbar and tarsal conjunctiva
+          - may become confluent
+        - chemosis
+        - eyelid edema
+        - punctate epithelial keratitis
+          - preauricular adenopathy
+        - highly contagious
+        - polio-like paralysis
+          - enterovirus type 70
+            - 1 out of 10,000
+          - ≤1/3 permanent neurologic deficits
+    - rhinoviruses
+      - common cold
+- Orthomyxoviruses
+  - structure
+    - RNA
+      - single-stranded
+      - negative-sense
+    - helical icosahedral capsid
+    - enveloped
+  - influenza virus
+    - can induce inflammation in the lacrimal gland, cornea, iris, retina, optic nerve, and other cranial nerves
+- Rabies
+  - can be transmitted via corneal transplant
+  - corneal biopsy and impression cytology
+- paramyxoviruses
+  - structure
+    - RNA
+      - single-stranded
+      - negative-sense
+    - helical icosahedral capsid
+    - enveloped
+      - hemagglutinin-neuraminidase protein spikes
+        - mediate viral fusion with the host cell membrane
+      - hemolysin
+  - Measles (rubeola)
+    - classic triad
+      - triad
+        - cough
+        - coryza
+        - follicular conjunctivitis
+          - +- mild epithelial keratitis
+      - less common
+        - optic neuritis
+        - retinal vascular occlusion
+        - pigmentary retinopathy
+          - acquired measles retinopathy
+            - severe vision loss
+              - more common in acquired than in congenital disease
+              - in contrast to congenital measles and congenital & acquired rubella
+            - clear media
+              - 6–12 days after the appearance of the characteristic exanthem
+            - diffuse retinal edema
+            - macular star formation
+            - attenuated arterioles
+              - in contrast to acquired rubella retinitis
+            - scattered retinal hemorrhages
+            - blurred disc margins
+            - +- encephalitis
+            - further sequelae may evolve
+              - arteriolar attenuation with or without perivascular sheathing
+              - optic disc pallor
+              - secondary pigmentary retinopathy with either a bone spicule or salt-and-pepper appearance
+            - ERG
+              - extinguished during the acute phase of measles retinopathy
+                - +- permanent visual field constriction
+            - visual field testing may reveal
+              - severe constriction
+              - ring scotomata
+              - small peripheral islands of vision
+            - resolution of acquired measles retinopathy over weeks-months is generally associated with
+              - return of useful vision
+      - measles keratopathy
+        - corneal ulceration in malnourished, vitamin A– deficient children
+      - subacute sclerosing panencephalitis (SSPE)
+        - 1 per 100,000 cases
+        - years after clinically apparent measles
+  - Mumps
+    - ≤ 2 weeks after onset of parotitis
+    - dacryoadenitis
+      - +- concurrent with parotitis
+    - follicular conjunctivitis
+    - epithelial and stromal keratitis
+    - iritis
+    - trabeculitis
+    - scleritis
+  - parainfluenza virus
+  - respiratory syncytial virus
+  - Newcastle disease virus
+    - follicular conjunctivitis in poultry handlers
+- Retroviruses
+  - structure
+    - single-stranded RNA
+    - positive-sense
+    - enveloped
+    - reverse transcriptase
+      - single-stranded RNA --> circular double- stranded DNA
+  - AIDS
+    - human immunodeficiency virus (HIV)
+      - sexual contact at mucosal surfaces
+        - uptake of HIV by dendritic cells at mucosal surfaces
+    - routes of transmission
+      - breast-feeding
+      - blood-contaminated needles
+    - targets
+      - CD4+ T lymphocytes
+      - dendritic cells
+      - primary viremia
+        - monocyte-macrophages
+          - defects of innate and acquired (both humoral and cellular) immunity
+        - infectious mononucleosis-like HIV prodrome
+    - stages
+      - seeding of the peripheral lymphoid organs
+        - measurable immune response
+        - may remain asymptomatic for several years
+        - CD4+ T lymphocytes progressively depleted
+      - clinical immunodeficiency
+    - AIDS-related ocular disorders
+      - HZO
+      - molluscum contagiosum
+      - keratoconjunctivitis sicca
+      - microsporidial keratoconjunctivitis
+        - immunosuppressed individuals
+          - AIDS
+            - disseminated microsporidiosis involving the sinuses, respiratory tract, or gastrointestinal tract
+          - keratoconjunctivitis
+            - conjunctivitis
+            - epithelial keratopathy
+              - superficial nonstaining opacities described as “mucoid”
+              - dense areas of fine punctate fluorescein staining
+              - corneal stroma remains clear
+              - minimal or no iritis
+            - encephalitozoon and septata genera
+      - HIV neuropathy
+      - cryptococcal optic neuritis
+      - retinal microvasculopathy
+      - choroiditis and retinitis due to
+        - syphilis
+        - mycobacteria
+        - pneumocystosis
+        - toxoplasmosis
+        - CMV
+        - HSV
+        - VZV
+- return of ERG activity

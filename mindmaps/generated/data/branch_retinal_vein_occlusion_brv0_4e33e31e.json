@@ -1,0 +1,634 @@
+{
+  "label": "Branch Retinal Vein Occlusion (BRV0)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction to retinal Vein Occlusion",
+      "children": [
+        {
+          "label": "Risk factors",
+          "children": [
+            {
+              "label": "advancing age"
+            },
+            {
+              "label": "hypertension"
+            },
+            {
+              "label": "glaucoma",
+              "children": [
+                {
+                  "label": "history of glaucoma increases risk of CRVO by 5.3 x and of BRVO by 2.5 x",
+                  "children": [
+                    {
+                      "label": "Eye Disease Case-Control Study"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "elevated retinal venous pressure",
+              "children": [
+                {
+                  "label": "increases in supine position"
+                }
+              ]
+            },
+            {
+              "label": "reduced retinal artery perfusion pressure",
+              "children": [
+                {
+                  "label": "blood pressure mediations at bedtime"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Clinical findings",
+          "children": [
+            {
+              "label": "intraretinal hemorrhages"
+            },
+            {
+              "label": "dilated tortuous retinal veins"
+            },
+            {
+              "label": "cotton wool sposts",
+              "children": [
+                {
+                  "label": "severe cases"
+                }
+              ]
+            },
+            {
+              "label": "neovascularization",
+              "children": [
+                {
+                  "label": "BRVO",
+                  "children": [
+                    {
+                      "label": "NVE > NVD >> NVI"
+                    }
+                  ]
+                },
+                {
+                  "label": "CRVO",
+                  "children": [
+                    {
+                      "label": "NVA/NVI > NVE/NVD"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "decreased vision in acute stage",
+              "children": [
+                {
+                  "label": "macular edema"
+                },
+                {
+                  "label": "macular ischemia"
+                },
+                {
+                  "label": "foveal intraretinal hemorrhages"
+                }
+              ]
+            },
+            {
+              "label": "chronic retinal changes",
+              "children": [
+                {
+                  "label": "microaneurysms"
+                },
+                {
+                  "label": "telangiectasia"
+                },
+                {
+                  "label": "macular edema"
+                },
+                {
+                  "label": "collateral blood vessels",
+                  "children": [
+                    {
+                      "label": "BRVO",
+                      "children": [
+                        {
+                          "label": "distinguish collateral vessels from NV"
+                        },
+                        {
+                          "label": "across meridian raphe"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "CRVO",
+                      "children": [
+                        {
+                          "label": "optociliary shunt vessels",
+                          "children": [
+                            {
+                              "label": "expansion of small retinal vessels connecting retinal circulation to choroidal circulation near the optic nerve head"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Spontaneous improvement",
+          "children": [
+            {
+              "label": "usually associated with development of collateral blood flow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pharmacoligic management",
+      "children": [
+        {
+          "label": "mainstay of treatment"
+        }
+      ]
+    },
+    {
+      "label": "Surgical management",
+      "children": [
+        {
+          "label": "Macular laser surgery",
+          "children": [
+            {
+              "label": "The Branch Vein Occlusion Study (BVOS)",
+              "children": [
+                {
+                  "label": "argon laser photocoagulation for macular edema",
+                  "children": [
+                    {
+                      "label": "inclusion criteria",
+                      "children": [
+                        {
+                          "label": "chronic macular edema",
+                          "children": [
+                            {
+                              "label": "treatment was delayed for ≥3 months after onset of macular edema"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "VA = 20/40 - 20/200"
+                        },
+                        {
+                          "label": "intact foveal vasculature"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "technique",
+                      "children": [
+                        {
+                          "label": "argon laser",
+                          "children": [
+                            {
+                              "label": "light grid laser",
+                              "children": [
+                                {
+                                  "label": "100-200 μm spots"
+                                },
+                                {
+                                  "label": "areas of capillary leakage"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "direct laser",
+                              "children": [
+                                {
+                                  "label": "leaking microvascular abnormalities"
+                                },
+                                {
+                                  "label": "avoid collateral vessels"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "2 lines of visual acuity gain",
+                      "children": [
+                        {
+                          "label": "treated eyes",
+                          "children": [
+                            {
+                              "label": "65%"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "untreated eyes",
+                          "children": [
+                            {
+                              "label": "37%"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "VA≥20/40 at 3 years",
+                      "children": [
+                        {
+                          "label": "treated eyes",
+                          "children": [
+                            {
+                              "label": "60%"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "untreated eyes",
+                          "children": [
+                            {
+                              "label": "34%"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "mean visual acuity improvement",
+                      "children": [
+                        {
+                          "label": "treated eyes",
+                          "children": [
+                            {
+                              "label": "1.3 ETDRS lines"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "untreated eyes",
+                          "children": [
+                            {
+                              "label": "0.2 ETDRS lines"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "mean visual acuity",
+                      "children": [
+                        {
+                          "label": "treated eyes",
+                          "children": [
+                            {
+                              "label": "20/40- 20/50"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "untreated eyes",
+                          "children": [
+                            {
+                              "label": "20/70"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Scatter photocoagulation",
+          "children": [
+            {
+              "label": "The Branch Vein Occlusion Study (BVOS",
+              "children": [
+                {
+                  "label": "scatter (panretinal) laser photocoagulation to areas of retinal capillary nonperfusion"
+                },
+                {
+                  "label": "indication for treament",
+                  "children": [
+                    {
+                      "label": "NVE"
+                    },
+                    {
+                      "label": "NVD",
+                      "children": [
+                        {
+                          "label": "risk of vitreous hemorrhage in eyes with NVE or NVD",
+                          "children": [
+                            {
+                              "label": "treated eyes",
+                              "children": [
+                                {
+                                  "label": "30%"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "untreated eyes",
+                              "children": [
+                                {
+                                  "label": "60%"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "NVI"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pars plana vitrectomy",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "vitreous hemorrahge"
+                },
+                {
+                  "label": "retinal detachment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "pathogenesis",
+      "children": [
+        {
+          "label": "common adventitial sheath at AV crossing",
+          "children": [
+            {
+              "label": "arterial wall thickening",
+              "children": [
+                {
+                  "label": "vein compression",
+                  "children": [
+                    {
+                      "label": "turbulence of flow",
+                      "children": [
+                        {
+                          "label": "endothelial cell damage",
+                          "children": [
+                            {
+                              "label": "thrombotic occlusion"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "risk factors",
+      "children": [
+        {
+          "label": "increasing age"
+        },
+        {
+          "label": "systemic arterial hypertension"
+        },
+        {
+          "label": "smoking",
+          "children": [
+            {
+              "label": "smoking is not a risk factor for CRVO"
+            }
+          ]
+        },
+        {
+          "label": "glaucoma"
+        },
+        {
+          "label": "hypercoagulable conditions"
+        },
+        {
+          "label": "diabetes not an independent risk factor for BRVO",
+          "children": [
+            {
+              "label": "diabetes is a risk factor for CRVO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ischemia alone is not an indication for treatment provided follow-up could be maintained",
+      "children": [
+        {
+          "label": "risk of NV in eyes with recent BRVO >5 DD",
+          "children": [
+            {
+              "label": "treated eyes",
+              "children": [
+                {
+                  "label": "12%"
+                }
+              ]
+            },
+            {
+              "label": "untreated eyes",
+              "children": [
+                {
+                  "label": "22%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical",
+      "children": [
+        {
+          "label": "location",
+          "children": [
+            {
+              "label": "at AV crossing"
+            },
+            {
+              "label": "superotemporal quadrant",
+              "children": [
+                {
+                  "label": "63%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "acute findings",
+          "children": [
+            {
+              "label": "dilated tortuous vein"
+            },
+            {
+              "label": "superficial retinal hemorrhages"
+            },
+            {
+              "label": "retinal edema"
+            },
+            {
+              "label": "NFL infarcts"
+            }
+          ]
+        },
+        {
+          "label": "chronic findings",
+          "children": [
+            {
+              "label": "secondary arterial narrowing & sheathing"
+            },
+            {
+              "label": "macular edema"
+            },
+            {
+              "label": "macular ischemia"
+            },
+            {
+              "label": "lipid (hard) exudation"
+            },
+            {
+              "label": "neovascularization"
+            },
+            {
+              "label": "vitreous hemorrhage",
+              "children": [
+                {
+                  "label": "Branch Vein Occlusion Study",
+                  "children": [
+                    {
+                      "label": "extensive retinal ischemia (≥ 5 disc diameter)",
+                      "children": [
+                        {
+                          "label": "NVE or NVD",
+                          "children": [
+                            {
+                              "label": "36%"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "NVI",
+                          "children": [
+                            {
+                              "label": "2%"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "vitreous hemorrahge",
+                      "children": [
+                        {
+                          "label": "60-90% of eyes with NVE or NVD"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "tractional RD"
+            },
+            {
+              "label": "rhegmatogenous RD",
+              "children": [
+                {
+                  "label": "retinal break adjacent to/under retinal NV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "causes of decreased vision",
+          "children": [
+            {
+              "label": "macular hemorrhage"
+            },
+            {
+              "label": "macular edema"
+            },
+            {
+              "label": "macular ischemia"
+            },
+            {
+              "label": "pigmentary macular disturbance"
+            },
+            {
+              "label": "subretinal fibrosis"
+            },
+            {
+              "label": "epiretinal membrane formation"
+            },
+            {
+              "label": "VA≥20/40 @1 year",
+              "children": [
+                {
+                  "label": "50-60%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Branch Retinal Vein Occlusion (BRV0).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 260,
+      "connector_rejected": 110,
+      "connector_edges": 147,
+      "connector_width": 0.687,
+      "text_labels": 153,
+      "tree_nodes": 153,
+      "component_roots": 7,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.5654,
+      "root_font_size": 4.579,
+      "warnings": []
+    }
+  }
+}

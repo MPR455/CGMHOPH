@@ -1,0 +1,130 @@
+---
+title: "6.13.1. Childhood Nystagmus (I)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.13.1. Childhood Nystagmus (I).pdf"
+---
+
+# 6.13.1. Childhood Nystagmus (I)
+
+## Hierarchy
+
+- evaluation
+  - history
+    - transmission
+      - sporadic
+      - familial
+        - autosomal dominant
+        - autosomal recessive
+        - x-linked
+    - perinatal events
+      - labor and delivery
+      - maternal infections
+      - prematurity
+      - for children >3 months old
+        - parental observations about
+          - head tilts
+          - head movements
+          - gaze preference
+          - viewing distances
+    - associated ocular conditions
+      - congenital cataract
+      - congenital glaucoma
+      - iridocorneal dysgenesis
+      - Leber congenital amaurosis
+      - retinopathy of prematurity
+      - FEVR
+      - Norrie disease
+      - retinoblastoma
+      - albinism
+      - optic nerve hypoplasia
+      - infectious diseases
+  - ocular examination
+    - visual acuity
+      - patients with nystagmus and nearly normal visual acuity usually have congenital motor nystagmus
+        - benign
+      - markedly decreased visual acuity usually implies either retinal or optic nerve abnormalities
+      - monocular visual acuity should be tested with fogging
+        - monocular occlusion may increase nystagmus intensity!
+      - binocular visual acuity should be measured at distance and near with any desired head position
+      - near visual acuity is usually better than distance
+      - preverbal children
+        - optokinetic nystagmus (okn) drum
+          - if vertical rotation elicits a vertical nystagmus superimposed on the child’s underlying nystagmus, visual acuity is usually ≥20/400
+        - preferential looking tests
+          - Teller acuity cards II
+            - in patients with a horizontal nystagmus, the response can be more easily observed with the card held vertically
+    - pupils
+      - sluggish or absent response to light
+      - afferent defect
+      - paradoxical pupil constriction in reaction to darkness
+      - pupil responses can be normal in mild abnormalities
+        - foveal hypoplasia
+        - achromatopsia
+        - primary motor nystagmus
+      - anatomical structure
+        - iris colobomas
+          - suggest optic nerve or retinal colobomas
+        - aniridia
+          - foveal hypoplasia
+        - iris transillumination
+          - sign of albinism
+            - foveal hypoplasia
+      - optic nerve or retinal dysfunction
+    - ocular motility
+      - may have strabismus for several reasons
+        - poor vision
+        - damping of the nystagmus by converging
+        - latent nystagmus secondary to strabismus
+          - children with manifest latent nystagmus
+            - often fixate with the preferred eye in adduction
+            - turn their heads to cross-fixate
+              - look to the right with the left eye, to the left with the right eye
+    - fundus
+      - optic nerve hypoplasia
+      - foveal hypoplasia
+      - fundus may appear normal or there may be only subtle retinal pigmentary changes
+        - electrophysiologic testing may be necessary
+        - differential diagnosis of decreased vision with minimal fundus changes
+          - electrophysiologic testing may be necessary
+          - Leber congenital amaurosis
+          - achromatopsia
+          - blue-cone monochromatism
+          - congenital stationary night blindness
+          - foveal hypoplasia
+- general features
+  - prevalence in young children
+    - 0.35%
+  - involuntary, rhythmic oscillation of the eyes
+  - classification
+    - symmetry
+      - pendular nystagmus
+        - equal velocity in each direction
+      - jerk nystagmus
+        - unequal velocity in different directions
+        - fast component defines the direction of the nystagmus
+    - direction
+      - horizontal
+      - vertical
+      - torsional
+      - combination
+    - frequency
+    - amplitude
+    - intensity
+  - characteristics of nystagmus may change with gaze direction
+    - pendular nystagmus can become jerk nystagmus on extreme gaze
+    - gaze position can affect amplitude and frequency (intensity) of nystagmus
+      - especially true of jerk nystagmus
+        - can decrease in intensity with gaze opposite the fast-phase component
+        - null point
+          - gaze position in which intensity of oscillations is diminished and visual acuity improves
+          - abnormal head position
+  - nomenclature
+    - committee for the classification of eye movement abnormalities and strabismus (CEMAS)
+- Arnold-Chiari type I malformation
+  - dysfunction of the cerebellar nodulus and uvula
+    - PAN
+- congenital aqueductal stenosis
+  - etiology
+    - Conv-retraction syndrome
+- pinealoma

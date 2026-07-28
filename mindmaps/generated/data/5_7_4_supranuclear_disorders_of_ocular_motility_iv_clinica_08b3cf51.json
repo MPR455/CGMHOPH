@@ -1,0 +1,790 @@
+{
+  "label": "5.7.4. Supranuclear Disorders of Ocular Motility (IV): Clinical Disorders of the Ocular Motor Systems (II): Saccadic Dysfunction",
+  "root": true,
+  "children": [
+    {
+      "label": "pulse",
+      "children": [
+        {
+          "label": "frontal eye field (FEF)"
+        }
+      ]
+    },
+    {
+      "label": "FEF",
+      "children": [
+        {
+          "label": "contralateral paramedian pontine reticular formation (PPRF)"
+        },
+        {
+          "label": "contralateral paramedian pontine reticular formation (PPRF)"
+        },
+        {
+          "label": "medial vestibular nucleus",
+          "children": [
+            {
+              "label": "accessory nucleus of CN XII"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "step",
+      "children": [
+        {
+          "label": "horizontal eye movements",
+          "children": [
+            {
+              "label": "Saccadic system"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "pulse"
+    },
+    {
+      "label": "step",
+      "children": [
+        {
+          "label": "vertical and torsional eye movements"
+        }
+      ]
+    },
+    {
+      "label": "interstitial nucleus of Cajal (INC)",
+      "children": [
+        {
+          "label": "rostral interstitial nucleus of the medial longitudinal fasciculus (riMLF)",
+          "children": [
+            {
+              "label": "midbrain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "Types of dysfunction",
+          "children": [
+            {
+              "label": "prolonged latency",
+              "children": [
+                {
+                  "label": "advancing age"
+                },
+                {
+                  "label": "PSP",
+                  "children": [
+                    {
+                      "label": "slow volitional saccades"
+                    },
+                    {
+                      "label": "normal reflexive saccades",
+                      "children": [
+                        {
+                          "label": "directed to an unanticipated target",
+                          "children": [
+                            {
+                              "label": "a ball thrown toward the patient"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "cerebellar degeneration"
+                },
+                {
+                  "label": "Huntington disease"
+                },
+                {
+                  "label": "Wilson disease"
+                },
+                {
+                  "label": "Whipple disease"
+                },
+                {
+                  "label": "pontine disease"
+                }
+              ]
+            },
+            {
+              "label": "reduced speed",
+              "children": [
+                {
+                  "label": "central lesions",
+                  "children": [
+                    {
+                      "label": "saccadic slowness confined to the horizontal plane",
+                      "children": [
+                        {
+                          "label": "pontine disease",
+                          "children": [
+                            {
+                              "label": "paramedian pontine reticular formation"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "saccadic slowness confined to the vertical plane",
+                      "children": [
+                        {
+                          "label": "midbrain disease"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "associated with prolonged latency",
+                      "children": [
+                        {
+                          "label": "normal amplitude (not hypometric!)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "peripheral lesions",
+                  "children": [
+                    {
+                      "label": "nuclear, infranuclear, neuromuscular, or restrictive"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "poor accuracy",
+              "children": [
+                {
+                  "label": "hypometria",
+                  "children": [
+                    {
+                      "label": "peripheral or central lesions",
+                      "children": [
+                        {
+                          "label": "are almost always hypometric"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "myasthenia gravis",
+                      "children": [
+                        {
+                          "label": "faster-than-normal (“lightning-like”) saccades",
+                          "children": [
+                            {
+                              "label": "over a reduced range of amplitudes"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "hypermetria",
+                  "children": [
+                    {
+                      "label": "central lesions",
+                      "children": [
+                        {
+                          "label": "disease of the cerebellum or its interconnections"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "significant bilateral loss of vision",
+                  "children": [
+                    {
+                      "label": "difficult to assess accuracy of saccadic eye movements"
+                    }
+                  ]
+                },
+                {
+                  "label": "advancing age",
+                  "children": [
+                    {
+                      "label": "most common cause of saccadic dysfunction",
+                      "children": [
+                        {
+                          "label": "conjugate limitation of upgaze",
+                          "children": [
+                            {
+                              "label": "reduced range"
+                            },
+                            {
+                              "label": "normal velocity"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "± unwanted saccadic intrusions"
+            }
+          ]
+        },
+        {
+          "label": "saccadic dysfunction is nonspecific with regard to etiology and site of the lesion",
+          "children": [
+            {
+              "label": "except",
+              "children": [
+                {
+                  "label": "slow saccades in patient with extrapyramidal (Parkinson-like) syndrome + imbalance + impaired cognition",
+                  "children": [
+                    {
+                      "label": "PSP"
+                    }
+                  ]
+                },
+                {
+                  "label": "hypermetric saccades",
+                  "children": [
+                    {
+                      "label": "disease of the cerebellum or its outflow pathways"
+                    }
+                  ]
+                },
+                {
+                  "label": "unidirectional hypermetric saccades + ocular lateropulsion + hypermetric pursuit movements",
+                  "children": [
+                    {
+                      "label": "lateral medullary syndrome (Wallenberg syndrome)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Gaze palsy, gaze preference, and tonic deviations",
+      "children": [
+        {
+          "label": "Gaze palsy",
+          "children": [
+            {
+              "label": "symmetric limitation of the movements of both eyes in the same direction"
+            },
+            {
+              "label": "brainstem lesions that produce a horizontal gaze palsy",
+              "children": [
+                {
+                  "label": "disrupt eye movements toward the side of the lesion"
+                },
+                {
+                  "label": "pontine lesions (nuclear and infranuclear)",
+                  "children": [
+                    {
+                      "label": "doll’s head maneuver is ineffective"
+                    },
+                    {
+                      "label": "bilateral pontine injury can abolish all horizontal eye movements",
+                      "children": [
+                        {
+                          "label": "still allows vertical eye movements",
+                          "children": [
+                            {
+                              "label": "often occur spontaneously (ocular bobbing)"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "In contrast to pontine lesions"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Gaze preference",
+          "children": [
+            {
+              "label": "acute inability to produce gaze contralateral to the side of a cerebral (supranuclear) lesion",
+              "children": [
+                {
+                  "label": "associated with tendency for tonic deviation of the eyes toward the side of the lesion"
+                },
+                {
+                  "label": "stroke",
+                  "children": [
+                    {
+                      "label": "doll’s head maneuver generates a full range of horizontal eye movements"
+                    },
+                    {
+                      "label": "most common etiology"
+                    }
+                  ]
+                },
+                {
+                  "label": "temporary",
+                  "children": [
+                    {
+                      "label": "only days or weeks"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Congenital horizontal gaze palsy",
+          "children": [
+            {
+              "label": "Möbius syndrome",
+              "children": [
+                {
+                  "label": "aplasia of the sixth nerve nuclei",
+                  "children": [
+                    {
+                      "label": "horizontal gaze palsy"
+                    }
+                  ]
+                },
+                {
+                  "label": "bilateral facial paresis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Vertical gaze palsies",
+          "children": [
+            {
+              "label": "lesion is usually in the midbrain"
+            },
+            {
+              "label": "limitation of conjugate upgaze",
+              "children": [
+                {
+                  "label": "damage to the pretectum",
+                  "children": [
+                    {
+                      "label": "pretectum",
+                      "children": [
+                        {
+                          "label": "isthmus between the superior colliculi and the thalamus"
+                        },
+                        {
+                          "label": "supranuclear fibers decussate through the pretectum as they pass to the riMLF",
+                          "children": [
+                            {
+                              "label": "riMLF",
+                              "children": [
+                                {
+                                  "label": "midbrain structure that functions as the saccadic generator for vertical eye movements"
+                                },
+                                {
+                                  "label": "homologue for PPRF for horizontal saccades"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "dorsal midbrain syndrome (Parinaud syndrome)",
+                      "children": [
+                        {
+                          "label": "clinical presentation",
+                          "children": [
+                            {
+                              "label": "conjugate limitation of vertical gaze (usually upgaze)",
+                              "children": [
+                                {
+                                  "label": "the most common feature"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "co-contraction of extraocular muscles with attempted upgaze (convergence-retraction nystagmus)"
+                            },
+                            {
+                              "label": "mid-dilated pupils with light–near dissociation"
+                            },
+                            {
+                              "label": "retraction of the lids in primary position (Collier sign)"
+                            },
+                            {
+                              "label": "skew deviation"
+                            },
+                            {
+                              "label": "disruption of convergence (convergence spasm or convergence insufficiency/palsy)"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "etiology",
+                          "children": [
+                            {
+                              "label": "mass lesions",
+                              "children": [
+                                {
+                                  "label": "increased square-wave jerks"
+                                },
+                                {
+                                  "label": "pineal-based tumors"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "hydrocephalus"
+                            },
+                            {
+                              "label": "multiple sclerosis"
+                            },
+                            {
+                              "label": "stroke",
+                              "children": [
+                                {
+                                  "label": "pretectum is supplied by the arteries of Percheron",
+                                  "children": [
+                                    {
+                                      "label": "arise from the area around the top of the basilar artery",
+                                      "children": [
+                                        {
+                                          "label": "stenosis at the origin of these vessels"
+                                        },
+                                        {
+                                          "label": "disease of the more proximal basilar artery"
+                                        },
+                                        {
+                                          "label": "emboli"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Seizure",
+          "children": [
+            {
+              "label": "deviation of the eyes may occur with seizures involving any cerebral lobe"
+            },
+            {
+              "label": "lesion of the FEF that causes excess neural activity",
+              "children": [
+                {
+                  "label": "during seizure",
+                  "children": [
+                    {
+                      "label": "will drive the eyes contralaterally"
+                    },
+                    {
+                      "label": "head also may turn contralaterally"
+                    }
+                  ]
+                },
+                {
+                  "label": "post-ictal state",
+                  "children": [
+                    {
+                      "label": "eyes may deviate ipsilateral to the side of the lesion"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pediatric patients",
+          "children": [
+            {
+              "label": "transient conjugate downward or upward deviation may occur in healthy newborns",
+              "children": [
+                {
+                  "label": "vertical doll’s head maneuver can move the eyes out of their tonically held position"
+                }
+              ]
+            },
+            {
+              "label": "tonic downgaze in premature newborns can be associated with serious neurologic disease",
+              "children": [
+                {
+                  "label": "intraventricular hemorrhage expanding the third ventricle and pressing on the pretectum",
+                  "children": [
+                    {
+                      "label": "tonic downgaze of the eyes"
+                    },
+                    {
+                      "label": "retraction of the eyelids"
+                    },
+                    {
+                      "label": "conjugate paresis of upgaze is an associated finding",
+                      "children": [
+                        {
+                          "label": "doll’s head maneuver cannot induce upward movements of the eyes"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "setting sun sign",
+                      "children": [
+                        {
+                          "label": "dorsal midbrain syndrome (Parinaud syndrome) in children"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Oculogyric crisis",
+          "children": [
+            {
+              "label": "tonic upward eye-movement deviation",
+              "children": [
+                {
+                  "label": "difficult to direct eyes downward",
+                  "children": [
+                    {
+                      "label": "does not disrupt a patient’s ability to move the eyes within the involved area"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "idiosyncratic reaction to neuroleptic drugs",
+              "children": [
+                {
+                  "label": "higher-potency antipsychotic drugs",
+                  "children": [
+                    {
+                      "label": "haloperidol"
+                    },
+                    {
+                      "label": "fluphenazine"
+                    }
+                  ]
+                },
+                {
+                  "label": "antiemetics",
+                  "children": [
+                    {
+                      "label": "metoclopramide"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "may persist for hours if not treated",
+              "children": [
+                {
+                  "label": "anticholinergic drugs promptly stop the eye deviation",
+                  "children": [
+                    {
+                      "label": "prochlorperazine"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ocular motor apraxia",
+      "children": [
+        {
+          "label": "apraxia",
+          "children": [
+            {
+              "label": "inability to voluntarily initiate a movement that can be initiated by another means"
+            }
+          ]
+        },
+        {
+          "label": "Congenital ocular motor apraxia",
+          "children": [
+            {
+              "label": "use horizontal head thrusts past the point of interest",
+              "children": [
+                {
+                  "label": "followed by slower head rotation in the opposite direction while the eyes maintain target fixation"
+                }
+              ]
+            },
+            {
+              "label": "normal vertical eye movements"
+            },
+            {
+              "label": "location of the lesion is not known",
+              "children": [
+                {
+                  "label": "normal nonvolitional saccades"
+                }
+              ]
+            },
+            {
+              "label": "may have other neurologic abnormalities",
+              "children": [
+                {
+                  "label": "delayed development"
+                }
+              ]
+            },
+            {
+              "label": "associated diseases",
+              "children": [
+                {
+                  "label": "ataxia telangiectasia"
+                },
+                {
+                  "label": "Pelizaeus-Merzbacher disease"
+                },
+                {
+                  "label": "Niemann-Pick disease type C"
+                },
+                {
+                  "label": "Gaucher disease"
+                },
+                {
+                  "label": "Joubert syndrome"
+                },
+                {
+                  "label": "Tay-Sachs disease"
+                },
+                {
+                  "label": "abetalipoproteinemia (causing vitamin E deficiency)"
+                },
+                {
+                  "label": "Wilson disease"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Acquired ocular motor apraxia",
+          "children": [
+            {
+              "label": "bilateral lesions of the supranuclear gaze pathways",
+              "children": [
+                {
+                  "label": "frontal and parietal lobes",
+                  "children": [
+                    {
+                      "label": "bilateral strokes",
+                      "children": [
+                        {
+                          "label": "anoxic encephalopathy following",
+                          "children": [
+                            {
+                              "label": "cardiac arrest"
+                            },
+                            {
+                              "label": "coronary artery bypass grafting"
+                            },
+                            {
+                              "label": "thoracic aortic aneurysm repair"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "bilateral lesions at the parieto-occipital junction",
+              "children": [
+                {
+                  "label": "Balint syndrome",
+                  "children": [
+                    {
+                      "label": "inaccurate volitional saccades"
+                    },
+                    {
+                      "label": "optic ataxia",
+                      "children": [
+                        {
+                          "label": "e.g. inaccurate arm pointing"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "simultanagnosia",
+                      "children": [
+                        {
+                          "label": "difficulty to perceive all the major features of a scene at once"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "patients blink to break the fixation and then turn their head toward a new point of interest"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.7.4  Supranuclear Disorders of Ocular Motility (IV) Clinical Disorders of the Ocular Motor Systems (II) Saccadic Dysfunction.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 351,
+      "connector_rejected": 58,
+      "connector_edges": 210,
+      "connector_width": 0.657,
+      "text_labels": 191,
+      "tree_nodes": 191,
+      "component_roots": 9,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.5983,
+      "root_font_size": 2.298,
+      "warnings": []
+    }
+  }
+}

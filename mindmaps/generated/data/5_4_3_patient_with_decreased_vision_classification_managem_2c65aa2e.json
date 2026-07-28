@@ -1,0 +1,574 @@
+{
+  "label": "5.4.3. Patient With Decreased Vision: Classification & Management (III): Optic neuropathy (II): Idiopathic intracranial hypertension (IIH)",
+  "root": true,
+  "children": [
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "\"pseudotumor cerebri\""
+        },
+        {
+          "label": "peaks in 3rd decade",
+          "children": [
+            {
+              "label": "rare in prepubertal children",
+              "children": [
+                {
+                  "label": "obesity less a factor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "90% female"
+        },
+        {
+          "label": "90% obese",
+          "children": [
+            {
+              "label": "rare in lean adults"
+            }
+          ]
+        },
+        {
+          "label": "± sleep apnea"
+        },
+        {
+          "label": "not definitely associated with any specific endocrinologic dysfunction"
+        }
+      ]
+    },
+    {
+      "label": "horizontal, NOT vertical",
+      "children": [
+        {
+          "label": "transient visual obscurations"
+        }
+      ]
+    },
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "headache"
+            },
+            {
+              "label": "nausea"
+            },
+            {
+              "label": "diplopia",
+              "children": [
+                {
+                  "label": "secondary to abducens nerve paresis",
+                  "children": [
+                    {
+                      "label": "other neurologic abnormalities are not associated with IIH"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pulsatile tinnitus",
+              "children": [
+                {
+                  "label": "pulse synchronous bruit"
+                }
+              ]
+            },
+            {
+              "label": "early",
+              "children": [
+                {
+                  "label": "enlarged blind spots"
+                },
+                {
+                  "label": "normal visual acuity"
+                }
+              ]
+            },
+            {
+              "label": "late",
+              "children": [
+                {
+                  "label": "optic nerve function may deteriorate in long- standing or severe cases",
+                  "children": [
+                    {
+                      "label": "visual field loss",
+                      "children": [
+                        {
+                          "label": "may mimic glaucomatous field loss"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "natural history of IIH may result in severe vision loss",
+                      "children": [
+                        {
+                          "label": "visual acuity < 20/200 in at least 1 eye",
+                          "children": [
+                            {
+                              "label": "26%"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "papilledema"
+        },
+        {
+          "label": "pediatric IIH",
+          "children": [
+            {
+              "label": "< 18 years",
+              "children": [
+                {
+                  "label": "afferent pupillary defect, if asymmetrical"
+                }
+              ]
+            },
+            {
+              "label": "normal opening pressure among children is similar to adults"
+            },
+            {
+              "label": "predilection for boys"
+            },
+            {
+              "label": "predilection for nonobese children",
+              "children": [
+                {
+                  "label": "in contrast to adult IIH"
+                }
+              ]
+            },
+            {
+              "label": "papilledema without headache or visual symptoms is more common in younger patients"
+            },
+            {
+              "label": "several cranial neuropathies have been associated with pediatric IIH",
+              "children": [
+                {
+                  "label": "reverse with lowering of the ICP"
+                },
+                {
+                  "label": "cranial nerves (CNs) III, IV, VI, VII, IX, and XII"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "management",
+      "children": [
+        {
+          "label": "± self-limited"
+        },
+        {
+          "label": "long-term follow-up is essential",
+          "children": [
+            {
+              "label": "visual acuity"
+            },
+            {
+              "label": "color vision"
+            },
+            {
+              "label": "quantitative perimetry",
+              "children": [
+                {
+                  "label": "frequency of visual field testing depends on",
+                  "children": [
+                    {
+                      "label": "severity of papilledema"
+                    },
+                    {
+                      "label": "level of optic nerve dysfunction"
+                    },
+                    {
+                      "label": "response to treatment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "stereophotographs of the optic nerve"
+            }
+          ]
+        },
+        {
+          "label": "no treatment",
+          "children": [
+            {
+              "label": "headache is controlled with minor analgesics"
+            }
+          ]
+        },
+        {
+          "label": "weight loss",
+          "children": [
+            {
+              "label": "for obese patients",
+              "children": [
+                {
+                  "label": "optic nerve dysfunction is absent"
+                }
+              ]
+            },
+            {
+              "label": "weight loss alone can lead to resolution of IIH",
+              "children": [
+                {
+                  "label": "first choice"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "medical therapy",
+          "children": [
+            {
+              "label": "acetazolamide"
+            },
+            {
+              "label": "topiramate",
+              "children": [
+                {
+                  "label": "multiple beneficial effects",
+                  "children": [
+                    {
+                      "label": "headache control"
+                    },
+                    {
+                      "label": "appetite suppression"
+                    },
+                    {
+                      "label": "carbonic anhydrase inhibition"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "furosemide",
+              "children": [
+                {
+                  "label": "patients intolerant of acetazolamide or topiramate"
+                }
+              ]
+            },
+            {
+              "label": "corticosteroids",
+              "children": [
+                {
+                  "label": "controversial"
+                },
+                {
+                  "label": "ICP can improve with use of corticosteroids"
+                },
+                {
+                  "label": "± recurrence during corticosteroid taper"
+                },
+                {
+                  "label": "short course of high-dose intravenous corticosteroids",
+                  "children": [
+                    {
+                      "label": "for patients with fulminant papilledema and severe vision loss"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "surgical therapy",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "intractable headache",
+                  "children": [
+                    {
+                      "label": "despite maximally tolerated medical therapy"
+                    }
+                  ]
+                },
+                {
+                  "label": "progressive vision loss"
+                },
+                {
+                  "label": "severe vision loss and papilledema from markedly elevated ICP"
+                }
+              ]
+            },
+            {
+              "label": "optic nerve sheath fenestration (ONSF)",
+              "children": [
+                {
+                  "label": "indication",
+                  "children": [
+                    {
+                      "label": "substantial loss of vision without prominent headache"
+                    }
+                  ]
+                },
+                {
+                  "label": "directly protects the optic nerve",
+                  "children": [
+                    {
+                      "label": "bilateral ONSF may be required",
+                      "children": [
+                        {
+                          "label": "reduction of papilledema in the contralateral eye can occur"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "lower morbidity",
+                  "children": [
+                    {
+                      "label": "does not lower ICP",
+                      "children": [
+                        {
+                          "label": "does not treat headache!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "1%–2% risk of vision loss",
+                  "children": [
+                    {
+                      "label": "optic nerve injury"
+                    },
+                    {
+                      "label": "central retinal artery occlusion (CRAO)"
+                    },
+                    {
+                      "label": "central retinal vein occlusion (CRVO)"
+                    }
+                  ]
+                },
+                {
+                  "label": "repeat ONSF may be performed",
+                  "children": [
+                    {
+                      "label": "long-term success rate unclear"
+                    },
+                    {
+                      "label": "technically more difficult because of scarring"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "CSF diversion procedures",
+              "children": [
+                {
+                  "label": "lower ICP",
+                  "children": [
+                    {
+                      "label": "lumboperitoneal or ventriculoperitoneal shunt"
+                    },
+                    {
+                      "label": "improvement of headache, abducens palsy (if present), and papilledema"
+                    }
+                  ]
+                },
+                {
+                  "label": "entails no direct risk to the optic nerve"
+                },
+                {
+                  "label": "may become",
+                  "children": [
+                    {
+                      "label": "occluded"
+                    },
+                    {
+                      "label": "infected"
+                    },
+                    {
+                      "label": "altered in position"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "bariatric surgery",
+              "children": [
+                {
+                  "label": "gastric bypass surgery"
+                },
+                {
+                  "label": "for morbid obesity"
+                },
+                {
+                  "label": "can effectively reduce both weight and ICP"
+                }
+              ]
+            },
+            {
+              "label": "repeat lumbar punctures are not recommended therapy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "differential diagnosis",
+      "children": [
+        {
+          "label": "use of exogenous substances",
+          "children": [
+            {
+              "label": "vitamin A",
+              "children": [
+                {
+                  "label": "100,000 U/day"
+                }
+              ]
+            },
+            {
+              "label": "retinoic acid"
+            },
+            {
+              "label": "tetracycline"
+            },
+            {
+              "label": "minocycline"
+            },
+            {
+              "label": "doxycycline"
+            },
+            {
+              "label": "lithium"
+            },
+            {
+              "label": "corticosteroid use or withdrawal"
+            }
+          ]
+        },
+        {
+          "label": "cerebral venous obstruction",
+          "children": [
+            {
+              "label": "trauma",
+              "children": [
+                {
+                  "label": "cyclosporine"
+                }
+              ]
+            },
+            {
+              "label": "childbirth"
+            },
+            {
+              "label": "hypercoagulable state"
+            },
+            {
+              "label": "middle ear infection"
+            }
+          ]
+        },
+        {
+          "label": "dural arteriovenous malformation"
+        },
+        {
+          "label": "systemic or localized extracranial venous obstruction",
+          "children": [
+            {
+              "label": "after radical neck dissection"
+            }
+          ]
+        },
+        {
+          "label": "systemic vasculitis"
+        },
+        {
+          "label": "lead to decreased venous outflow and increased ICP"
+        }
+      ]
+    },
+    {
+      "label": "diagnostic workup",
+      "children": [
+        {
+          "label": "lumbar puncture",
+          "children": [
+            {
+              "label": "should always be performed",
+              "children": [
+                {
+                  "label": "to confirm elevated ICP"
+                },
+                {
+                  "label": "to rule out infectious or inflammatory processes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "magnetic resonance imaging (MRI)",
+          "children": [
+            {
+              "label": "flattening of the globe"
+            },
+            {
+              "label": "enlarged optic nerve sheaths"
+            },
+            {
+              "label": "partially empty sella"
+            },
+            {
+              "label": "narrowing of the distal transverse sinus"
+            }
+          ]
+        },
+        {
+          "label": "magnetic resonance venography (MRV)"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.4.3. Patient With Decreased Vision - Classification & Management (III) - Optic neuropathy (II) - Idiopathic intracranial hypertension (IIH).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 250,
+      "connector_rejected": 1,
+      "connector_edges": 185,
+      "connector_width": 0.986,
+      "text_labels": 145,
+      "tree_nodes": 145,
+      "component_roots": 6,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.74,
+      "root_font_size": 3.697,
+      "warnings": []
+    }
+  }
+}

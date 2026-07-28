@@ -1,0 +1,619 @@
+{
+  "label": "Systemic Drug-Induced Retinal Toxicity III",
+  "root": true,
+  "children": [
+    {
+      "label": "Drugs Causing Abnormalities in Color Vision and Electroretinography",
+      "children": [
+        {
+          "label": "Phosphodiesterase 5 (PDE-5) inhibitors",
+          "children": [
+            {
+              "label": "drugs",
+              "children": [
+                {
+                  "label": "sildenafil"
+                },
+                {
+                  "label": "tadalafil"
+                }
+              ]
+            },
+            {
+              "label": "partially inhibit phosphodiesterase 6 (PDE-6)",
+              "children": [
+                {
+                  "label": "enzyme in phototransduction cascade",
+                  "children": [
+                    {
+                      "label": "in ≤ 50% of patients ingesting doses >100 mg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "transient blue tinting of vision"
+            },
+            {
+              "label": "temporary abnormal ERG responses (including a delayed cone b-wave implicit time)"
+            },
+            {
+              "label": "no permanent retinal toxic effects"
+            }
+          ]
+        },
+        {
+          "label": "digitalis",
+          "children": [
+            {
+              "label": "cardiac glycoside"
+            },
+            {
+              "label": "yellow tinting of vision (xanthopsia)",
+              "children": [
+                {
+                  "label": "reversible"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "isotretinoin",
+          "children": [
+            {
+              "label": "poor night vision"
+            },
+            {
+              "label": "abnormal dark-adaptation curves and ERG responses"
+            },
+            {
+              "label": "more likely in patients undergoing repetitive therapy courses for acne"
+            },
+            {
+              "label": "reversible"
+            }
+          ]
+        },
+        {
+          "label": "vigabatrin",
+          "children": [
+            {
+              "label": "antiepileptic drug"
+            },
+            {
+              "label": "depression of the 30-Hz cone amplitude"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Drugs Causing Occlusive Retinopathy or Microvasculopathy",
+      "children": [
+        {
+          "label": "Interferon alfa-2a",
+          "children": [
+            {
+              "label": "antiviral & immunomodulatory",
+              "children": [
+                {
+                  "label": "treatment of viral hepatitis"
+                }
+              ]
+            },
+            {
+              "label": "paracentral visual field defects"
+            },
+            {
+              "label": "cotton-wool spots and retinal hemorrhages"
+            }
+          ]
+        },
+        {
+          "label": "Ergot alkaloids",
+          "children": [
+            {
+              "label": "vasoconstrictors used to treat migraines"
+            },
+            {
+              "label": "thrombotic complications (retinal vein and artery occlusions)"
+            }
+          ]
+        },
+        {
+          "label": "oral contraceptives",
+          "children": [
+            {
+              "label": "thrombotic complications (retinal vein and artery occlusions)"
+            }
+          ]
+        },
+        {
+          "label": "Procainamide",
+          "children": [
+            {
+              "label": "causes systemic lupus erythematosus"
+            },
+            {
+              "label": "extensive “pruning” of second-order retinal vessels"
+            }
+          ]
+        },
+        {
+          "label": "Gentamicin (& amikacin)",
+          "children": [
+            {
+              "label": "intraocularly but not systemically"
+            },
+            {
+              "label": "severe macular ischemia (infarction)"
+            }
+          ]
+        },
+        {
+          "label": "hemorrhagic occlusive retinal vasculitis (HORV)"
+        },
+        {
+          "label": "Vancomycin",
+          "children": [
+            {
+              "label": "intracameral",
+              "children": [
+                {
+                  "label": "for prophylaxis of endophthalmitis"
+                }
+              ]
+            },
+            {
+              "label": "widespread retinal vascular occlusion"
+            },
+            {
+              "label": "type III hypersensitivity reaction",
+              "children": [
+                {
+                  "label": "antibody/antigen complex deposition",
+                  "children": [
+                    {
+                      "label": "small vessel vasculitis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous",
+      "children": [
+        {
+          "label": "sulfur-derived medications",
+          "children": [
+            {
+              "label": "topiramate"
+            },
+            {
+              "label": "acetazolamide"
+            },
+            {
+              "label": "myopia"
+            },
+            {
+              "label": "retinal and choroidal folds"
+            },
+            {
+              "label": "macular edema"
+            },
+            {
+              "label": "vision loss",
+              "children": [
+                {
+                  "label": "mild",
+                  "children": [
+                    {
+                      "label": "caused by isolated macular folds"
+                    }
+                  ]
+                },
+                {
+                  "label": "severe",
+                  "children": [
+                    {
+                      "label": "caused by ciliochoroidal effusion, leading to angle-closure glaucoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "reversed with prompt discontinuation of the drug"
+            }
+          ]
+        },
+        {
+          "label": "rifabutin",
+          "children": [
+            {
+              "label": "for Mycobacterium avium-complex infection prophylaxis in HIV-positive patients"
+            },
+            {
+              "label": "anterior & posterior uveitis",
+              "children": [
+                {
+                  "label": "± hypopyon"
+                },
+                {
+                  "label": "reversible"
+                },
+                {
+                  "label": "hypotony"
+                }
+              ]
+            },
+            {
+              "label": "stellate, refractile endothelial deposits",
+              "children": [
+                {
+                  "label": "initially in the periphery; may extend to the central cornea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "buproprion",
+          "children": [
+            {
+              "label": "choroidal effusion"
+            }
+          ]
+        },
+        {
+          "label": "silver",
+          "children": [
+            {
+              "label": "erroneously claimed to have medicinal benefits",
+              "children": [
+                {
+                  "label": "overingestion"
+                }
+              ]
+            },
+            {
+              "label": "argyria",
+              "children": [
+                {
+                  "label": "slate-gray or blue coloring of the skin"
+                }
+              ]
+            },
+            {
+              "label": "ocular argyrosis",
+              "children": [
+                {
+                  "label": "after colloidal silver ingestion over > 1 year"
+                },
+                {
+                  "label": "ocular pigmentation"
+                },
+                {
+                  "label": "dark choroid",
+                  "children": [
+                    {
+                      "label": "brown-black granules diffusely deposited in Bruch membrane",
+                      "children": [
+                        {
+                          "label": "“leopard spotting”"
+                        },
+                        {
+                          "label": "drusenlike deposition"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "black tears"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Drugs Causing Ganglion Cell & Optic Nerve Toxicity",
+      "children": [
+        {
+          "label": "Quinine",
+          "children": [
+            {
+              "label": "muscle relaxant for leg cramps and antimalarial"
+            },
+            {
+              "label": "dose",
+              "children": [
+                {
+                  "label": "safe at doses < 2 g"
+                },
+                {
+                  "label": "morbidity at doses > 4 g"
+                },
+                {
+                  "label": "mortality at doses > 8 g"
+                }
+              ]
+            },
+            {
+              "label": "retinal ganglion cell toxicity",
+              "children": [
+                {
+                  "label": "acute severe vision loss",
+                  "children": [
+                    {
+                      "label": "permanent"
+                    }
+                  ]
+                },
+                {
+                  "label": "mimicks CRAO",
+                  "children": [
+                    {
+                      "label": "early",
+                      "children": [
+                        {
+                          "label": "cherry-red spot"
+                        },
+                        {
+                          "label": "OCT",
+                          "children": [
+                            {
+                              "label": "ganglion cell layer thickening and hyperreflectivity"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "late",
+                      "children": [
+                        {
+                          "label": "diffuse inner-retinal atrophy"
+                        },
+                        {
+                          "label": "optic atrophy"
+                        },
+                        {
+                          "label": "retinal vascular attenuation"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "full-field ERG",
+                      "children": [
+                        {
+                          "label": "negative waveform signal",
+                          "children": [
+                            {
+                              "label": "similar to CRAO"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Methanol",
+          "children": [
+            {
+              "label": "acute blindness"
+            },
+            {
+              "label": "early",
+              "children": [
+                {
+                  "label": "acute transient optic nerve head and macular edema"
+                },
+                {
+                  "label": "retina, RPE, and optic nerve demonstrate vacuolization",
+                  "children": [
+                    {
+                      "label": "sign of cell death"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "late",
+              "children": [
+                {
+                  "label": "optic atrophy",
+                  "children": [
+                    {
+                      "label": "most common sequela"
+                    }
+                  ]
+                },
+                {
+                  "label": "retinal vascular attenuation"
+                },
+                {
+                  "label": "diffuse ganglion cell loss"
+                }
+              ]
+            },
+            {
+              "label": "full-field ERG",
+              "children": [
+                {
+                  "label": "electronegative waveform"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Drugs Causing Macular Edema",
+      "children": [
+        {
+          "label": "taxanes",
+          "children": [
+            {
+              "label": "drugs",
+              "children": [
+                {
+                  "label": "paclitaxel"
+                },
+                {
+                  "label": "docetaxel",
+                  "children": [
+                    {
+                      "label": "microtubule inhibitors",
+                      "children": [
+                        {
+                          "label": "treatment of various cancers"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cystoid macular edema (CME)",
+              "children": [
+                {
+                  "label": "rare"
+                },
+                {
+                  "label": "angiographically silent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "nicotinic acid",
+          "children": [
+            {
+              "label": "angiographically silent CME"
+            },
+            {
+              "label": "full recovery follows discontinuation of the drug"
+            }
+          ]
+        },
+        {
+          "label": "glitazones",
+          "children": [
+            {
+              "label": "drugs",
+              "children": [
+                {
+                  "label": "rosiglitazone"
+                },
+                {
+                  "label": "pioglitazone"
+                }
+              ]
+            },
+            {
+              "label": "severe fluid retention",
+              "children": [
+                {
+                  "label": "pulmonary edema",
+                  "children": [
+                    {
+                      "label": "oral hypoglycemics"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "development or exacerbation of macular edema"
+            }
+          ]
+        },
+        {
+          "label": "Fingolimod",
+          "children": [
+            {
+              "label": "oral agent for relapsing multiple sclerosis"
+            },
+            {
+              "label": "macular edema",
+              "children": [
+                {
+                  "label": "usually within 3 months"
+                },
+                {
+                  "label": "resolves with cessation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Topical prostaglandin F2α analogs",
+          "children": [
+            {
+              "label": "drugs",
+              "children": [
+                {
+                  "label": "latanoprost"
+                },
+                {
+                  "label": "tafluprost"
+                },
+                {
+                  "label": "bimatoprost"
+                }
+              ]
+            },
+            {
+              "label": "can cause macular edema"
+            }
+          ]
+        },
+        {
+          "label": "Deferoxamine",
+          "children": [
+            {
+              "label": "secondary macular edema caused by RPE toxicity"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Systemic Drug-Induced Retinal Toxicity III.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 264,
+      "connector_rejected": 3,
+      "connector_edges": 186,
+      "connector_width": 0.643,
+      "text_labels": 154,
+      "tree_nodes": 154,
+      "component_roots": 5,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.7045,
+      "root_font_size": 4.502,
+      "warnings": []
+    }
+  }
+}

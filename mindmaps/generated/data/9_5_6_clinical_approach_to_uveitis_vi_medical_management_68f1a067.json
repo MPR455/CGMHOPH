@@ -1,0 +1,289 @@
+{
+  "label": "9.5.6. Clinical approach to uveitis (VI): Medical Management (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "initial medical therapy",
+          "children": [
+            {
+              "label": "topical cycloplegics"
+            },
+            {
+              "label": "topical/systemic nonsteroidal anti- inflammatory drugs"
+            },
+            {
+              "label": "topical/systemic corticosteroids",
+              "children": [
+                {
+                  "label": "best drugs to control inflammation as quickly as possible"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "second-line medial therapy",
+          "children": [
+            {
+              "label": "as these initial drugs are tapered, the dosage at which disease recurs determines which, if any, second-line immunomodulatory drugs are used"
+            },
+            {
+              "label": "if second-line therapy fails, combination therapy with multiple second-line drugs may be considered"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)",
+      "children": [
+        {
+          "label": "inhibit cyclooxygenase (COX) isoforms 1 & 2, or 2 alone",
+          "children": [
+            {
+              "label": "reduce the synthesis of prostaglandins"
+            }
+          ]
+        },
+        {
+          "label": "COX-1",
+          "children": [
+            {
+              "label": "present in nearly all cells"
+            },
+            {
+              "label": "involved in cellular metabolic events"
+            }
+          ]
+        },
+        {
+          "label": "COX-2",
+          "children": [
+            {
+              "label": "to mediate inflammation"
+            },
+            {
+              "label": "selective COX-2 inhibitors",
+              "children": [
+                {
+                  "label": "lower risk of secondary gastrointestinal damage"
+                },
+                {
+                  "label": "drugs",
+                  "children": [
+                    {
+                      "label": "rofecoxib",
+                      "children": [
+                        {
+                          "label": "withdrawn from the US market",
+                          "children": [
+                            {
+                              "label": "increased risks of adverse cardiovascular events"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "valdecoxib"
+                    },
+                    {
+                      "label": "celecoxib",
+                      "children": [
+                        {
+                          "label": "still available in the US"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "COX-2 inhibitors should be used with caution, if no alternative medications are effective"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "traditional NSAIDs",
+          "children": [
+            {
+              "label": "systemic NSAIDs",
+              "children": [
+                {
+                  "label": "efficacious in the treatment of",
+                  "children": [
+                    {
+                      "label": "chronic anterior uveitis"
+                    },
+                    {
+                      "label": "mild to moderate forms of nonnecrotizing anterior scleritis"
+                    },
+                    {
+                      "label": "possibly CME"
+                    }
+                  ]
+                },
+                {
+                  "label": "may allow the patient to be maintained on a lower dose of topical corticosteroids"
+                },
+                {
+                  "label": "complications",
+                  "children": [
+                    {
+                      "label": "myocardial infarction",
+                      "children": [
+                        {
+                          "label": "especially with selective COX-2 inhibitors"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "hypertension"
+                    },
+                    {
+                      "label": "stroke"
+                    },
+                    {
+                      "label": "gastric ulceration"
+                    },
+                    {
+                      "label": "gastrointestinal bleeding"
+                    },
+                    {
+                      "label": "nephrotoxicity"
+                    },
+                    {
+                      "label": "hepatotoxicity",
+                      "children": [
+                        {
+                          "label": "very mild cases of diffuse episcleritis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "topical NSAIDs",
+              "children": [
+                {
+                  "label": "indications",
+                  "children": [
+                    {
+                      "label": "pseudophakic CME",
+                      "children": [
+                        {
+                          "label": "ketorolac"
+                        },
+                        {
+                          "label": "bromfenac"
+                        },
+                        {
+                          "label": "nepafenac"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "not useful for treating noninfectious anterior uveitis!"
+                    }
+                  ]
+                },
+                {
+                  "label": "+- severe corneal complications",
+                  "children": [
+                    {
+                      "label": "keratitis"
+                    },
+                    {
+                      "label": "corneal perforation"
+                    }
+                  ]
+                },
+                {
+                  "label": "risk factors for corneal complications",
+                  "children": [
+                    {
+                      "label": "severe dry eye"
+                    },
+                    {
+                      "label": "rheumatoid arthritis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mydriatic and Cycloplegic Drugs",
+      "children": [
+        {
+          "label": "beneficial for",
+          "children": [
+            {
+              "label": "breaking/preventing formation of posterior synechiae"
+            },
+            {
+              "label": "relieving photophobia secondary to ciliary spasm"
+            }
+          ]
+        },
+        {
+          "label": "the stronger the inflammatory reaction, the stronger or more frequent the dosage of the cycloplegic drug"
+        },
+        {
+          "label": "short-acting drops",
+          "children": [
+            {
+              "label": "most cases of acute anterior uveitis require only short-acting cycloplegics",
+              "children": [
+                {
+                  "label": "cyclopentolate hydrochloride"
+                }
+              ]
+            },
+            {
+              "label": "allow the pupil to remain mobile"
+            },
+            {
+              "label": "permit rapid recovery"
+            }
+          ]
+        },
+        {
+          "label": "long-acting drops",
+          "children": [
+            {
+              "label": "atropine"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.5.6. Clinical approach to uveitis (VI) - Medical management.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 135,
+      "connector_rejected": 2,
+      "connector_edges": 88,
+      "connector_width": 1.085,
+      "text_labels": 70,
+      "tree_nodes": 70,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6519,
+      "root_font_size": 3.796,
+      "warnings": []
+    }
+  }
+}

@@ -20,6 +20,9 @@
   .seg button.on{background:var(--accent);color:var(--on-accent);font-weight:700}
   button{background:var(--panel);color:var(--ink);border:1px solid var(--line);padding:6px 11px;border-radius:7px;font-size:13px;cursor:pointer}
   button:hover{filter:brightness(1.15)}
+  .tool-link{display:none;background:var(--panel);color:var(--ink);border:1px solid var(--line);padding:6px 11px;
+             border-radius:7px;font-size:13px;text-decoration:none}
+  .tool-link:hover{filter:brightness(1.15);border-color:var(--accent)}
   .theme-dots{display:inline-flex;gap:8px;align-items:center;padding:0 2px}
   .tdot{width:20px;height:20px;border-radius:50%;cursor:pointer;border:2px solid rgba(128,128,128,.5);position:relative}
   .tdot:hover{transform:scale(1.12)}
@@ -135,6 +138,8 @@
   <button id="expand">Expand all</button>
   <button id="collapse">Collapse all</button>
   <button id="fit">Fit</button>
+  <a id="sourcePdf" class="tool-link" target="_blank" rel="noopener">PDF</a>
+  <a id="sourceMd" class="tool-link" target="_blank" rel="noopener">Markdown</a>
   <span id="themeDots" class="theme-dots" title="Color theme"></span>
   <input type="search" id="search" placeholder="Search…">
 </div>
@@ -150,8 +155,9 @@
 </div>
 
 <script>
-/* data comes from mindmaps/manifest.json + mindmaps/data/<id>.json (lazy-loaded) */
+/* data comes from mindmaps/generated/manifest.json and is lazy-loaded per map */
 let CATEGORIES=[]; let MAPS=[];
+const SOURCE_PDFS_AVAILABLE=!location.hostname.endsWith("github.io");
 
 /* =====================================================================
    VIEWER ENGINE
@@ -242,7 +248,7 @@ function fit(){
   const barH=document.body.classList.contains("bar-hidden")?0:56;
   const w=window.innerWidth-sideW, h=window.innerHeight-barH;
   scale=Math.min(1.1, Math.min(w/(c-a), h/(d-b)));
-  tx=sideW+(w-(c+a)*scale)/2; ty=barH+(h-(d+b)*scale)/2; applyView();
+  tx=(w-(c+a)*scale)/2; ty=(h-(d+b)*scale)/2; applyView();
 }
 
 function attachDrag(el,n){
@@ -271,7 +277,7 @@ function attachDrag(el,n){
 /* list */
 const listRoot=document.getElementById('listRoot');
 function setSubtreeCollapsed(n,val){ if(hasKids(n)) n.collapsed=val; (n.children||[]).forEach(c=>setSubtreeCollapsed(c,val)); }
-function buildList(){ listRoot.innerHTML=''; listRoot.appendChild(makeLi(ROOT,0)); }
+function buildList(){ listRoot.innerHTML=''; if(!ROOT)return; listRoot.appendChild(makeLi(ROOT,0)); }
 function makeLi(n,depth){
   const li=document.createElement('li'); li.dataset.d=depth; if(n.collapsed) li.classList.add('collapsed');
   const row=document.createElement('div'); row.className='lrow';
@@ -336,7 +342,7 @@ function highlight(text,q){ const i=text.toLowerCase().indexOf(q); if(i<0)return
    ===================================================================== */
 async function loadMap(map){
   if(!map.data){
-    try{ const r=await fetch("mindmaps/data/"+map.id+".json",{cache:"no-store"}); if(!r.ok) throw 0; map.data=await r.json(); }
+    try{ const r=await fetch(map.dataFile||("mindmaps/generated/data/"+map.id+".json"),{cache:"no-store"}); if(!r.ok) throw 0; map.data=await r.json(); }
     catch(err){ document.getElementById("crumb").innerHTML="<small>could not load "+escapeHtml(map.id)+"</small>"; return; }
   }
   if(!map._prepped){
@@ -351,11 +357,14 @@ async function loadMap(map){
   searchEl.value="";
   const sub=map.subcategory?" / "+escapeHtml(map.subcategory):"";
   document.getElementById("crumb").innerHTML=escapeHtml(map.title)+" <small>· "+escapeHtml(map.category)+sub+"</small>";
+  const pdfLink=document.getElementById("sourcePdf"), mdLink=document.getElementById("sourceMd");
+  pdfLink.style.display=(SOURCE_PDFS_AVAILABLE&&map.sourcePdf)?"inline-block":"none"; if(map.sourcePdf) pdfLink.href=map.sourcePdf;
+  mdLink.style.display=map.markdownFile?"inline-block":"none"; if(map.markdownFile) mdLink.href=map.markdownFile;
   document.querySelectorAll(".mapbtn").forEach(b=>b.classList.toggle("active", b.dataset.id===map.id));
   const ip=document.getElementById("imgpanel");
   const imgs=(map.images&&map.images.length)?map.images:(map.image?[{file:map.image,caption:map.imageCaption||""}]:[]);
   if(imgs.length){ ip.querySelector(".lbl").textContent=imgs.length>1?"Images":"Image";
-    ip.querySelector(".imgs").innerHTML=imgs.map(im=>"<figure><img src=\"mindmaps/img/"+im.file+"\" alt=\"\"><figcaption>"+escapeHtml(im.caption||"")+"</figcaption></figure>").join("");
+    ip.querySelector(".imgs").innerHTML=imgs.map(im=>"<figure><img src=\""+(im.src||("mindmaps/generated/img/"+im.file))+"\" alt=\"\"><figcaption>"+escapeHtml(im.caption||"")+"</figcaption></figure>").join("");
     ip.style.display="block"; ip.classList.remove("big"); }
   else ip.style.display="none";
   if(mode==="map"){ layout(); fit(); } else buildList();
@@ -451,11 +460,11 @@ function applyTheme(name){
 /* init */
 async function init(){
   try{
-    const r=await fetch("mindmaps/manifest.json",{cache:"no-store"}); if(!r.ok) throw 0;
+    const r=await fetch("mindmaps/generated/manifest.json",{cache:"no-store"}); if(!r.ok) throw 0;
     const mani=await r.json(); CATEGORIES=mani.categories; MAPS=mani.maps;
   }catch(e){
     document.getElementById("list").style.display="block";
-    document.getElementById("list").innerHTML="<div style=\"max-width:640px;margin:70px auto;color:var(--muted);font-size:15px;line-height:1.6\">Couldn’t load <code>mindmaps/manifest.json</code>.<br>This page loads map data over the network — open it via your GitHub Pages URL (…github.io/CGMHOPH/mindmaps.html) or a local web server, not by double-clicking the file.</div>";
+    document.getElementById("list").innerHTML="<div style=\"max-width:640px;margin:70px auto;color:var(--muted);font-size:15px;line-height:1.6\">Couldn’t load <code>mindmaps/generated/manifest.json</code>.<br>Run <code>python tools/mindmap_converter.py</code>, then open this page via your GitHub Pages URL or a local web server (not by double-clicking the file).</div>";
     return;
   }
   buildSidebar(); setMode("list"); if(MAPS.length) loadMap(MAPS[0]);

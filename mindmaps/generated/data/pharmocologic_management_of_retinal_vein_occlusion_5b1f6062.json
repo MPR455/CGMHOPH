@@ -1,0 +1,342 @@
+{
+  "label": "Pharmocologic Management of Retinal Vein Occlusion",
+  "root": true,
+  "children": [
+    {
+      "label": "Intravitreal corticosteroids",
+      "children": [
+        {
+          "label": "Risks",
+          "children": [
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "elevated IOP",
+              "children": [
+                {
+                  "label": "20-65%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "SCORE study",
+          "children": [
+            {
+              "label": "indication",
+              "children": [
+                {
+                  "label": "CME secondary to BRVO/CRVO"
+                }
+              ]
+            },
+            {
+              "label": "intravitreal triamcinolone vs standard care (macular grid laser)",
+              "children": [
+                {
+                  "label": "comparable to macular grid laser with respect to ≥3 lines of visual acuity gain"
+                }
+              ]
+            },
+            {
+              "label": "CRVO arm",
+              "children": [
+                {
+                  "label": "≥15 ETDRS letter improvement at 1 year",
+                  "children": [
+                    {
+                      "label": "1 mg triamcinolone",
+                      "children": [
+                        {
+                          "label": "27%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "4 mg triamcinolone",
+                      "children": [
+                        {
+                          "label": "26%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "observation",
+                      "children": [
+                        {
+                          "label": "7%"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "GENEVA study",
+          "children": [
+            {
+              "label": "indication",
+              "children": [
+                {
+                  "label": "because of steroid complications the investigators concluded that macular grid laser remained the benchmark against which other treatments should be compared"
+                },
+                {
+                  "label": "CME secondary to BRVO/CRVO"
+                }
+              ]
+            },
+            {
+              "label": "intravitreal dexametasone implant (0.7 mg) vs sham"
+            },
+            {
+              "label": "≥15 ETDRS letter improvement between 30-90 days",
+              "children": [
+                {
+                  "label": "greatest response at 60 days"
+                }
+              ]
+            },
+            {
+              "label": "at day 180 there was no significant difference between sham and treatment groups"
+            }
+          ]
+        },
+        {
+          "label": "COMRADE Study",
+          "children": [
+            {
+              "label": "indication",
+              "children": [
+                {
+                  "label": "CME secondary to CRVO"
+                }
+              ]
+            },
+            {
+              "label": "dexamethasone 0.7 mg vs monthly ranibizumab"
+            },
+            {
+              "label": "first 3 months",
+              "children": [
+                {
+                  "label": "results were similar"
+                }
+              ]
+            },
+            {
+              "label": "at months 4-6",
+              "children": [
+                {
+                  "label": "ranibizumab group had better visual acuity scores"
+                }
+              ]
+            },
+            {
+              "label": "ETDRS letters gained at month 6",
+              "children": [
+                {
+                  "label": "12.86 for ranibizumab"
+                },
+                {
+                  "label": "2.96 for dexamethasone implant"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Intravitreal anti-VEGF therapy",
+      "children": [
+        {
+          "label": "BRAVO study",
+          "children": [
+            {
+              "label": "indication",
+              "children": [
+                {
+                  "label": "CME secondary to BRVO"
+                }
+              ]
+            },
+            {
+              "label": "monthly ranibizumab (0.3 mg or 0.5 mg) vs sham"
+            },
+            {
+              "label": "at 6 months",
+              "children": [
+                {
+                  "label": "gain of ≥15 ETDRS letters",
+                  "children": [
+                    {
+                      "label": "61.1%",
+                      "children": [
+                        {
+                          "label": "ranibizumab (0.3 mg)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "55.2%",
+                      "children": [
+                        {
+                          "label": "ranibizumab (0.5 mg)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "28.8%",
+                      "children": [
+                        {
+                          "label": "sham"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CRUISE study",
+          "children": [
+            {
+              "label": "indication",
+              "children": [
+                {
+                  "label": "CME secondary to CRVO"
+                }
+              ]
+            },
+            {
+              "label": "monthly ranibizumab (0.3 mg or 0.5 mg) vs sham"
+            },
+            {
+              "label": "at 6 months",
+              "children": [
+                {
+                  "label": "≥15 ETDRS letters",
+                  "children": [
+                    {
+                      "label": "47.7%",
+                      "children": [
+                        {
+                          "label": "ranibizumab (0.3 mg)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "46.2%",
+                      "children": [
+                        {
+                          "label": "ranibizumab (0.5 mg)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "16.9%",
+                      "children": [
+                        {
+                          "label": "sham"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "VIBRANT study",
+          "children": [
+            {
+              "label": "intravitreal aflibercept for CME secondary to BRVO"
+            }
+          ]
+        },
+        {
+          "label": "COPERNICUS study",
+          "children": [
+            {
+              "label": "intravitreal aflibercept for CME secondary to CRVO",
+              "children": [
+                {
+                  "label": "benefits were maintained during the second 6 months of these studies (as needed treatment)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "GALILEO study",
+          "children": [
+            {
+              "label": "intravitreal aflibercept for CME secondary to CRVO"
+            }
+          ]
+        },
+        {
+          "label": "SCORE2 study",
+          "children": [
+            {
+              "label": "indication",
+              "children": [
+                {
+                  "label": "CME secondary to CRVO"
+                }
+              ]
+            },
+            {
+              "label": "bevacizumab noninferior to aflibercept"
+            }
+          ]
+        },
+        {
+          "label": "CRAVE study",
+          "children": [
+            {
+              "label": "indication",
+              "children": [
+                {
+                  "label": "CME secondary to BRVO and CRVO"
+                }
+              ]
+            },
+            {
+              "label": "monthly bevacizumab vs ranibizumab for CME secondary to BRVO/ CRVO"
+            },
+            {
+              "label": "no significant differences in central foveal thickness reduction or visual acuity improvement"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Pharmocologic Management of Retinal Vein Occlusion.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 141,
+      "connector_rejected": 1,
+      "connector_edges": 85,
+      "connector_width": 0.873,
+      "text_labels": 79,
+      "tree_nodes": 79,
+      "component_roots": 2,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6028,
+      "root_font_size": 5.967,
+      "warnings": []
+    }
+  }
+}

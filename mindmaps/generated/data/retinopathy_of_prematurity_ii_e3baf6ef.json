@@ -1,0 +1,381 @@
+{
+  "label": "Retinopathy of Prematurity (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Natural Course",
+      "children": [
+        {
+          "label": "transient disease in the majority of infants"
+        },
+        {
+          "label": "spontaneous regression",
+          "children": [
+            {
+              "label": "85%"
+            },
+            {
+              "label": "clinical signs of regression",
+              "children": [
+                {
+                  "label": "clear zone of retina beyond the shunt"
+                },
+                {
+                  "label": "straight vessels crossing the shunt"
+                },
+                {
+                  "label": "arteriovenous feeder extending into the avascular retina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "threshold ROP eventually",
+          "children": [
+            {
+              "label": "develops in ≈ 7% of infants ≤ 1250 g"
+            }
+          ]
+        },
+        {
+          "label": "progression",
+          "children": [
+            {
+              "label": "gradual transition from active to cicatricial stage of ROP",
+              "children": [
+                {
+                  "label": "fibrosis & contracture of the proliferative tissue",
+                  "children": [
+                    {
+                      "label": "vitreous and retinal traction",
+                      "children": [
+                        {
+                          "label": "macular distortion"
+                        },
+                        {
+                          "label": "retinal detachment"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Screening Recommendations",
+      "children": [
+        {
+          "label": "Cryotherapy for Retinopathy of Prematurity Cooperative Group",
+          "children": [
+            {
+              "label": "signs of ROP present in",
+              "children": [
+                {
+                  "label": "66% of infants with birth weight of ≤1250 g"
+                },
+                {
+                  "label": "82% of infants with birth weight of <1000 g"
+                }
+              ]
+            },
+            {
+              "label": "screening criteria and risk factors developed in one country do not necessarily apply in another country",
+              "children": [
+                {
+                  "label": "depends on level or quality of available medical or perinatal care"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Screening Criteria",
+          "children": [
+            {
+              "label": "birth weight of less than 1500 g"
+            },
+            {
+              "label": "gestational age of 30 weeks or less"
+            },
+            {
+              "label": "birth weight 1500-2000 g OR gestational age >30 weeks",
+              "children": [
+                {
+                  "label": "with",
+                  "children": [
+                    {
+                      "label": "unstable clinical course, and believed to be at high risk by their attending pediatricians/ neonatologists"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "first examination",
+              "children": [
+                {
+                  "label": "between 4-6 weeks of postnatal age OR between 31-33 weeks of postconceptional/postmenstrual age",
+                  "children": [
+                    {
+                      "label": "whichever is later"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "dilated funduscopic examinations",
+              "children": [
+                {
+                  "label": "binocular indirect ophthalmoscopy"
+                }
+              ]
+            },
+            {
+              "label": "WINROP model",
+              "children": [
+                {
+                  "label": "systemic IGF-1 levels",
+                  "children": [
+                    {
+                      "label": "together weight gain and IGF-1 levels are more predictive than is either value alone"
+                    }
+                  ]
+                },
+                {
+                  "label": "weight gain"
+                },
+                {
+                  "label": "100% sensitive in detecting at-risk infants"
+                },
+                {
+                  "label": "identifying as many as 90% of infants that do not need screening"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Screening Intervals",
+          "children": [
+            {
+              "label": "1-Week or Less Follow-up",
+              "children": [
+                {
+                  "label": "• immature vascularization: zone I—no ROP"
+                },
+                {
+                  "label": "• immature retina extends into posterior zone II, near the boundary of zone I"
+                },
+                {
+                  "label": "• stage 1 or 2 ROP: zone I"
+                },
+                {
+                  "label": "• stage 3 ROP: zone II"
+                },
+                {
+                  "label": "• presence or suspected presence of aggressive posterior ROP"
+                }
+              ]
+            },
+            {
+              "label": "1- to 2-Week Follow-up",
+              "children": [
+                {
+                  "label": "• immature vascularization; posterior zone II"
+                },
+                {
+                  "label": "• stage 2 ROP: zone II"
+                },
+                {
+                  "label": "• unequivocally regressing ROP: zone I"
+                }
+              ]
+            },
+            {
+              "label": "2-Week Follow-up",
+              "children": [
+                {
+                  "label": "• stage 1 ROP: zone II"
+                },
+                {
+                  "label": "• immature vascularization: zone II—no ROP"
+                },
+                {
+                  "label": "• unequivocally regressing ROP: zone II"
+                }
+              ]
+            },
+            {
+              "label": "2- to 3-Week Follow-up",
+              "children": [
+                {
+                  "label": "• stage 1 or 2 ROP: zone III"
+                },
+                {
+                  "label": "• regressing ROP: zone III"
+                }
+              ]
+            },
+            {
+              "label": "Criteria for discontinuing retinal screening examinations",
+              "children": [
+                {
+                  "label": "• zone III retinal vascularization attained without previous zone I or II ROP",
+                  "children": [
+                    {
+                      "label": "this criterion should be used for all cases treated solely with bevacizumab"
+                    }
+                  ]
+                },
+                {
+                  "label": "• full retinal vascularization in close proximity to the ora serrate for 360°"
+                },
+                {
+                  "label": "• postmenstrual age of 50 weeks and no prethreshold disease or worse ROP is present",
+                  "children": [
+                    {
+                      "label": "remote interpretation of weekly digital fundus images was a useful adjunct to conventional bedside ROP screening by indirect ophthalmoscopy"
+                    }
+                  ]
+                },
+                {
+                  "label": "• regression of ROP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Photographic Screening for Retinopathy of Prematurity (Photo-ROP) Cooperative Group",
+          "children": [
+            {
+              "label": "ultra-wide-angle (120°) fundus photography",
+              "children": [
+                {
+                  "label": "useful for",
+                  "children": [
+                    {
+                      "label": "documentation"
+                    },
+                    {
+                      "label": "remote screening"
+                    }
+                  ]
+                },
+                {
+                  "label": "efficient and cost-effective"
+                }
+              ]
+            },
+            {
+              "label": "there continued to be a need for availability of an ophthalmologist skilled at examining premature infant eyes"
+            },
+            {
+              "label": "clinically significant ROP",
+              "children": [
+                {
+                  "label": "warrants evaluation by an ophthalmologist"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Associated Conditions and Late Sequelae",
+      "children": [
+        {
+          "label": "• myopia with astigmatism"
+        },
+        {
+          "label": "• anisometropia"
+        },
+        {
+          "label": "• strabismus"
+        },
+        {
+          "label": "• amblyopia"
+        },
+        {
+          "label": "• cataract"
+        },
+        {
+          "label": "• glaucoma"
+        },
+        {
+          "label": "• macular pigment epitheliopathy"
+        },
+        {
+          "label": "• vitreoretinal scarring"
+        },
+        {
+          "label": "• tractional retinal detachment"
+        },
+        {
+          "label": "• anomalous foveal anatomy"
+        },
+        {
+          "label": "• angle-closure and pupillary- block glaucoma",
+          "children": [
+            {
+              "label": "may occur in myopic eyes with cicatricial ROP"
+            },
+            {
+              "label": "rare"
+            },
+            {
+              "label": "typically <10 years of age",
+              "children": [
+                {
+                  "label": "can occur later"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "• rhegmatogenous retinal detachment"
+        },
+        {
+          "label": "• exudative retinopathy",
+          "children": [
+            {
+              "label": "later in life"
+            }
+          ]
+        },
+        {
+          "label": "• recurrent vitreous hemorrhages"
+        },
+        {
+          "label": "long-term monitoring is crucial"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Retinopathy of Prematurity (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 164,
+      "connector_rejected": 3,
+      "connector_edges": 118,
+      "connector_width": 1.2,
+      "text_labels": 96,
+      "tree_nodes": 96,
+      "component_roots": 3,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7195,
+      "root_font_size": 5.201,
+      "warnings": []
+    }
+  }
+}

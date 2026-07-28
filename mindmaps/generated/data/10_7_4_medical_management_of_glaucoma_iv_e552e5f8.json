@@ -1,0 +1,530 @@
+{
+  "label": "10.7.4. Medical Management of Glaucoma (IV)",
+  "root": true,
+  "children": [
+    {
+      "label": "Hyperosmotic Agents",
+      "children": [
+        {
+          "label": "drugs",
+          "children": [
+            {
+              "label": "oral glycerol"
+            },
+            {
+              "label": "intravenous mannitol"
+            },
+            {
+              "label": "distributed only in extracellular water"
+            }
+          ]
+        },
+        {
+          "label": "mechanism",
+          "children": [
+            {
+              "label": "increase blood osmolality",
+              "children": [
+                {
+                  "label": "osmotic gradient between blood and vitreous humor",
+                  "children": [
+                    {
+                      "label": "draw water from the vitreous cavity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "the larger and the more rapid the dose the greater the IOP reduction"
+            },
+            {
+              "label": "when the blood–aqueous barrier is disrupted, the osmotic agent enters the eye faster reducing the effect"
+            }
+          ]
+        },
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "to control acute episodes of elevated IOP"
+            },
+            {
+              "label": "rarely administered for > few hours",
+              "children": [
+                {
+                  "label": "become less effective over time"
+                },
+                {
+                  "label": "rebound elevation in IOP may occur if the agent penetrates the eye and reverses the osmotic gradient"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "adverse effects",
+          "children": [
+            {
+              "label": "headache"
+            },
+            {
+              "label": "backache"
+            },
+            {
+              "label": "mental confusion"
+            },
+            {
+              "label": "acute congestive heart failure",
+              "children": [
+                {
+                  "label": "rapid increase in extracellular volume and cardiac preload"
+                },
+                {
+                  "label": "more likely with IV administration"
+                }
+              ]
+            },
+            {
+              "label": "myocardial infarction"
+            },
+            {
+              "label": "subdural and subarachnoid hemorrhages"
+            },
+            {
+              "label": "hyperosmotics (& oral CAIs) contraindicated in patients in renal failure or on dialysis"
+            },
+            {
+              "label": "in patients with diabetes, glycerol can precipitate",
+              "children": [
+                {
+                  "label": "hyperglycemia"
+                },
+                {
+                  "label": "ketoacidosis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Carbonic Anhydrase Inhibitors (CAIs)",
+      "children": [
+        {
+          "label": "IOP lowering mechanism",
+          "children": [
+            {
+              "label": "generalized acidosis",
+              "children": [
+                {
+                  "label": "inhibition of ciliary epithelial carbonic anhydrase",
+                  "children": [
+                    {
+                      "label": "decreased aqueous humor formation",
+                      "children": [
+                        {
+                          "label": ".>90% of ciliary epithelial enzyme activity must be abolished to decrease aqueous production"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "only with systemic administration!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "carbonic anhydrase is present in many other tissues",
+          "children": [
+            {
+              "label": "corneal endothelium"
+            },
+            {
+              "label": "iris"
+            },
+            {
+              "label": "retinal pigment epithelium"
+            },
+            {
+              "label": "red blood cells"
+            },
+            {
+              "label": "brain"
+            },
+            {
+              "label": "kidney"
+            }
+          ]
+        },
+        {
+          "label": "topical CAI agents",
+          "children": [
+            {
+              "label": "drugs",
+              "children": [
+                {
+                  "label": "dorzolamide"
+                },
+                {
+                  "label": "brinzolamide"
+                }
+              ]
+            },
+            {
+              "label": "sulfonamide derivatives"
+            },
+            {
+              "label": "fewer systemic side effects than the oral agents"
+            },
+            {
+              "label": "3x/day is only slightly more effective than 2x/ day"
+            },
+            {
+              "label": "no additive effect to oral CAI"
+            },
+            {
+              "label": "common adverse effects",
+              "children": [
+                {
+                  "label": "bitter taste"
+                },
+                {
+                  "label": "blurred vision"
+                },
+                {
+                  "label": "dorzolamide",
+                  "children": [
+                    {
+                      "label": "punctate keratopathy"
+                    },
+                    {
+                      "label": "transient burning because of its lower pH"
+                    }
+                  ]
+                },
+                {
+                  "label": "brinzolamide",
+                  "children": [
+                    {
+                      "label": "is a suspension, resulting in white deposits in the tear film"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal decompensation",
+                  "children": [
+                    {
+                      "label": "eyes with compromised endothelial cell function"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic agents",
+          "children": [
+            {
+              "label": "routes of administration",
+              "children": [
+                {
+                  "label": "orally",
+                  "children": [
+                    {
+                      "label": "act within 1 hour"
+                    },
+                    {
+                      "label": "peak effect 2–4 hours"
+                    },
+                    {
+                      "label": "sustained-release acetazolamide",
+                      "children": [
+                        {
+                          "label": "peak effect 3–6 hours"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "intramuscularly"
+                },
+                {
+                  "label": "intravenously"
+                }
+              ]
+            },
+            {
+              "label": "drugs",
+              "children": [
+                {
+                  "label": "acetazolamide",
+                  "children": [
+                    {
+                      "label": "not metabolized and is excreted in urine"
+                    }
+                  ]
+                },
+                {
+                  "label": "methazolamide",
+                  "children": [
+                    {
+                      "label": "less bound to serum protein"
+                    },
+                    {
+                      "label": "less effective than acetazolamide"
+                    },
+                    {
+                      "label": "longer duration of action"
+                    },
+                    {
+                      "label": "metabolized by the liver",
+                      "children": [
+                        {
+                          "label": "less systemic adverse effects"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "dichlorphenamide"
+                }
+              ]
+            },
+            {
+              "label": "adverse effects",
+              "children": [
+                {
+                  "label": "dose-related",
+                  "children": [
+                    {
+                      "label": "use lowest effective dose",
+                      "children": [
+                        {
+                          "label": "METAzolaide is METAbolized"
+                        },
+                        {
+                          "label": "methazolamide",
+                          "children": [
+                            {
+                              "label": "effective in doses as low as 25–50 mg 2-3x/ day"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "acetazolamide",
+                          "children": [
+                            {
+                              "label": "250 mg 4x/day"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "sustained release",
+                          "children": [
+                            {
+                              "label": "250–500 mg 2x/day"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "sustained-release formulations may have fewer side effects"
+                    },
+                    {
+                      "label": "methazolamide and sustained-release acetazolamide are the best tolerated of the systemic CAIs"
+                    }
+                  ]
+                },
+                {
+                  "label": "lassitude",
+                  "children": [
+                    {
+                      "label": "paresthesias of the fingers or toes"
+                    }
+                  ]
+                },
+                {
+                  "label": "loss of energy"
+                },
+                {
+                  "label": "anorexia"
+                },
+                {
+                  "label": "weight loss"
+                },
+                {
+                  "label": "abdominal discomfort"
+                },
+                {
+                  "label": "diarrhea"
+                },
+                {
+                  "label": "loss of libido"
+                },
+                {
+                  "label": "impotence"
+                },
+                {
+                  "label": "unpleasant taste in the mouth"
+                },
+                {
+                  "label": "severe mental depression"
+                },
+                {
+                  "label": "calcium oxylate and calcium phosphate renal stones",
+                  "children": [
+                    {
+                      "label": "methazolamide<acetazolamide"
+                    }
+                  ]
+                },
+                {
+                  "label": "allergic reaction in individuals with sulfa allergy",
+                  "children": [
+                    {
+                      "label": "cross-reactivity is low!"
+                    }
+                  ]
+                },
+                {
+                  "label": "hypokalemia",
+                  "children": [
+                    {
+                      "label": "especially when used with another drug that causes potassium loss (eg, a thiazide diuretic)",
+                      "children": [
+                        {
+                          "label": "serum potassium should be monitored regularly in such patients"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "aplastic anemia",
+                  "children": [
+                    {
+                      "label": "rare",
+                      "children": [
+                        {
+                          "label": "routine CBC not predictive of this idiosyncratic reaction and not routinely recommended"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "thrombocytopenia"
+                },
+                {
+                  "label": "agranulocytosis"
+                }
+              ]
+            },
+            {
+              "label": "useful in acute situations",
+              "children": [
+                {
+                  "label": "long-term therapy with these agents should be reserved for",
+                  "children": [
+                    {
+                      "label": "glaucoma not controlled with topical therapy"
+                    },
+                    {
+                      "label": "patient refuses surgery/surgery not appropriate"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Combined Medications",
+      "children": [
+        {
+          "label": "drugs",
+          "children": [
+            {
+              "label": "timolol + CAI (dorzolamide, brinzolamide)"
+            },
+            {
+              "label": "timolol + α2-adrenergic agonist (brimonidine)",
+              "children": [
+                {
+                  "label": "efficacy similar to that of these components given separately",
+                  "children": [
+                    {
+                      "label": "slightly less effective than their individual components given separately"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "timolol + prostaglandin analogue (latanoprost, travoprost, bimatoprost)"
+            }
+          ]
+        },
+        {
+          "label": "benefits",
+          "children": [
+            {
+              "label": "reduced cost"
+            },
+            {
+              "label": "improved convenience and compliance"
+            }
+          ]
+        },
+        {
+          "label": "disadvantages",
+          "children": [
+            {
+              "label": "twice-daily dosing may increase the risk of systemic β-blocker side effects",
+              "children": [
+                {
+                  "label": "the full effect of a β-blocker can be achieved with once-daily dosing"
+                }
+              ]
+            },
+            {
+              "label": "side effects are the same as for both drugs individually"
+            }
+          ]
+        },
+        {
+          "label": "do not use unless timolol alone does not sufficiently lower the IOP"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.7.4. Medical Management of Glaucoma (IV).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 246,
+      "connector_rejected": 0,
+      "connector_edges": 178,
+      "connector_width": 0.861,
+      "text_labels": 135,
+      "tree_nodes": 135,
+      "component_roots": 3,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7236,
+      "root_font_size": 4.304,
+      "warnings": []
+    }
+  }
+}

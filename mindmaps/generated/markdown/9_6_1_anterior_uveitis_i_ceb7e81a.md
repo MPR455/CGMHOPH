@@ -1,0 +1,135 @@
+---
+title: "9.6.1. Anterior Uveitis (I)"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.6.1. Anterior Uveitis (I).pdf"
+---
+
+# 9.6.1. Anterior Uveitis (I)
+
+## Hierarchy
+
+- 40%
+- Noninfectious Scleritis
+  - classification
+    - anterior or posterior
+    - etiology
+      - infection
+      - trauma
+      - drug induced
+      - autoimmunity
+        - systemic disease
+          - especially rheumatoid arthritis
+  - treatment
+    - nonsteroidal anti-inflammatory drugs
+      - useful primarily in milder cases
+        - relieve pain
+        - reduce inflammation
+      - indomethacin, flurbiprofen, and naproxen
+      - if the initial NSAID fails, a second can be tried before switching to corticosteroids
+    - corticosteroids
+      - topical
+        - potentially useful in mild cases
+          - difluprednate
+          - prednisolone acetate
+      - subconjunctival
+        - effective in anterior nonnecrotizing scleritis
+      - systemic corticosteroids
+        - theoretical complication of localized necrotizing disease
+        - orally or as a high-dose intravenous pulse when rapid control is required
+    - immunomodulatory therapy
+      - indications
+        - nonresponsive to corticosteroids
+        - requires doses of corticosteroids too high for long-term use
+      - antimetabolites
+        - methotrexate
+        - azathioprine
+        - mycophenolate mofetil
+      - calcineurin inhibitors (inhibitors of T-cell signaling)
+      - biologic agents
+        - TNF inhibitors
+        - rituximab
+    - require more aggressive therapy (cyclophosphamide)
+      - granulomatosis with polyangiitis (Wegener granulomatosis)
+      - polyarteritis nodosa
+    - pain management
+      - oral NSAIDs
+      - oral narcotics
+        - for brief periods
+          - their use in combination with oral corticosteroids or other systemic therapies should be avoided
+      - topical cycloplegia
+    - surgery
+      - scleral reinforcement surgery for scleral thinning
+        - to prevent globe rupture
+      - materials
+        - cadaveric donor sclera
+          - scleral graft may melt
+        - autogenous periosteum
+- Acute Nongranulomatous Anterior Uveitis
+  - clinical presentation
+    - sudden onset of
+      - pain
+      - redness
+      - photophobia
+      - decreased vision
+    - fine keratic precipitates (KPs)
+    - intense cellular response and variable flare in AC
+    - severe cases
+      - hypopyon
+      - protein coagulum in the aqueous
+    - +- elevated intraocular pressure (IOP)
+    - +- cellular response in the anterior vitreous
+    - +- fibrin net across the pupillary margin
+      - seclusion membrane and iris bombé
+    - +- dilated iris vessels
+      - spontaneous hyphema
+        - rare
+    - +- cystoid macular edema (CME)
+    - +- disc edema
+    - lasts several days - weeks
+      - ≤3 months
+  - 2 patterns
+    - first pattern
+      - attack is acute and unilateral
+        - history of episodes alternating between the 2 eyes
+    - second pattern
+      - attack is acute and bilateral
+        - typical for HLA-B27–associated anterior uveitis
+  - treatment
+    - topical corticosteroids are the first line of treatment
+      - every 1–2 hours
+    - periocular or oral corticosteroids may be used for severe episodes
+    - recurrent course
+      - maintenance therapy with low-dose topical corticosteroids
+    - can transform from acute to chronic
+      - risk of chronicity can be reduced by timely diagnosis and aggressive initial therapy
+    - corticosteroid-sparing drugs
+      - for long-term therapy in chronic or frequently recurrent anterior uveitis
+      - anti-TNF therapy
+        - particularly in HLA-B27–positive patients
+    - Cycloplegic agents
+      - to relieve pain and to break and prevent formation of synechiae
+      - topical
+      - conjunctival cotton pledgets soaked in tropicamide, cyclopentolate, or phenylephrine hydrochloride
+  - HLA-B27
+    - major histocompatibility complex (MHC) class I antigen
+    - 6.1% of US general population
+    - 1.1% of African Americans
+    - 1/2 of patients with acute anterior uveitis are HLA-B27 positive
+      - patients with recurrent anterior nongranulomatous uveitis should be tested for HLA-B27
+    - 25% of HLA-B27–positive patients develop spondyloarthritis or eye disease
+    - seronegative spondyloarthropathies
+      - strongly associated with both acute anterior uveitis and HLA-B27
+      - do not test positive for rheumatoid factor
+      - diseases
+        - ankylosing spondylitis
+        - reactive arthritis syndrome
+        - inflammatory bowel disease
+        - psoriatic arthritis
+- Introduction to Anterior Uveitis
+  - most common form of uveitis
+    - 90% of cases in a community-based practice
+  - incidence
+    - 7/100,000 persons aged ≤14 years
+    - 220/100,000 persons aged ≥65 years
+  - rule out a primary keratitis or scleritis

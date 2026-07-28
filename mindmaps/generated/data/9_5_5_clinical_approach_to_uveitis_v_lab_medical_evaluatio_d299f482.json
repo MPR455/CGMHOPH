@@ -1,0 +1,476 @@
+{
+  "label": "9.5.5. Clinical approach to uveitis (V): Lab & Medical Evaluation",
+  "root": true,
+  "children": [
+    {
+      "label": "introduction",
+      "children": [
+        {
+          "label": "laboratory testing",
+          "children": [
+            {
+              "label": "is not a substitute for a thorough, hands-on clinical evaluation"
+            },
+            {
+              "label": "should be guided by the history and physical examination"
+            }
+          ]
+        },
+        {
+          "label": "tailored approach",
+          "children": [
+            {
+              "label": "a list of differential diagnoses is compiled based on",
+              "children": [
+                {
+                  "label": "anatomical location"
+                },
+                {
+                  "label": "clinical characteristics"
+                }
+              ]
+            },
+            {
+              "label": "appropriate laboratory tests can be ordered",
+              "children": [
+                {
+                  "label": "many patients require only a few diagnostic tests"
+                },
+                {
+                  "label": "there is no one standardized battery of tests that needs to be ordered for all patients with uveitis"
+                },
+                {
+                  "label": "at a minimum, most uveitis specialists will employ a few studies",
+                  "children": [
+                    {
+                      "label": "purified protein derivative (PPD) skin test or interferon-gamma release assay"
+                    },
+                    {
+                      "label": "syphilis serologic testing"
+                    },
+                    {
+                      "label": "chest radiograph"
+                    }
+                  ]
+                },
+                {
+                  "label": "Table 5-4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "anterior chamber paracentesis",
+      "children": [
+        {
+          "label": "technique",
+          "children": [
+            {
+              "label": "topical anesthetic drops"
+            },
+            {
+              "label": "topical povidone-iodine solution"
+            },
+            {
+              "label": "lid speculum"
+            },
+            {
+              "label": "tuberculin (1-ml) syringe",
+              "children": [
+                {
+                  "label": "30-gauge needle"
+                }
+              ]
+            },
+            {
+              "label": "enter through temporal limbus or clear cornea",
+              "children": [
+                {
+                  "label": "parallel to the iris plane"
+                }
+              ]
+            },
+            {
+              "label": "0.1–0.2 ml aqueous"
+            }
+          ]
+        },
+        {
+          "label": "studies",
+          "children": [
+            {
+              "label": "microbiologic evaluation",
+              "children": [
+                {
+                  "label": "if infection suspected"
+                }
+              ]
+            },
+            {
+              "label": "histologic evaluation",
+              "children": [
+                {
+                  "label": "if leukemia or lymphoma suspected"
+                }
+              ]
+            },
+            {
+              "label": "polymerase chain reaction",
+              "children": [
+                {
+                  "label": "if infection with specific entities suspected",
+                  "children": [
+                    {
+                      "label": "herpes simplex virus types 1 or 2"
+                    },
+                    {
+                      "label": "varicella-zoster virus"
+                    },
+                    {
+                      "label": "cytomegalovirus"
+                    },
+                    {
+                      "label": "toxoplasma"
+                    }
+                  ]
+                },
+                {
+                  "label": "similar diagnostic sensitivity (81%) and specificity (97%) of aqueous and vitreous samples",
+                  "children": [
+                    {
+                      "label": "particularly in uveitis caused by HSV-1 and -2, VZV, and CMV"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Goldmann-Witmer (GW) coefficient",
+              "children": [
+                {
+                  "label": "gold standard for the diagnosis of toxoplasmosis in Europe"
+                },
+                {
+                  "label": "diagnostic yield is increased when results of PCR and the GW coefficient are used together, especially in viral infections"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "complications",
+          "children": [
+            {
+              "label": "anterior chamber hemorrhage"
+            },
+            {
+              "label": "endophthalmitis"
+            },
+            {
+              "label": "damage to the iris or lens"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fluorescein angiography (FA)",
+      "children": [
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "chorioretinal diseases",
+              "children": [
+                {
+                  "label": "optic nerve, retinal, and choroidal inflammation"
+                },
+                {
+                  "label": "retinal vasculitis"
+                },
+                {
+                  "label": "several retinochoroidopathies (white dot syndromes) have characteristic appearances on FA"
+                }
+              ]
+            },
+            {
+              "label": "complications caused by posterior uveitis",
+              "children": [
+                {
+                  "label": "secondary choroidal or retinal neovascularization"
+                },
+                {
+                  "label": "CME"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "useful both diagnostically and in monitoring the patient’s response to therapy"
+        }
+      ]
+    },
+    {
+      "label": "fundus autofluorescence imaging",
+      "children": [
+        {
+          "label": "inflammatory chorioretinopathies involving the outer retina, RPE, and inner choroid"
+        },
+        {
+          "label": "to assess the viability of the retinal pigment epithelium/photoreceptor complex"
+        }
+      ]
+    },
+    {
+      "label": "indocyanine green angiography",
+      "children": [
+        {
+          "label": "2 patterns of hypofluorescence",
+          "children": [
+            {
+              "label": "Type 1",
+              "children": [
+                {
+                  "label": "early and late multifocal areas of hypofluorescence",
+                  "children": [
+                    {
+                      "label": "MEWDS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Type 2",
+              "children": [
+                {
+                  "label": "areas of early hypofluorescence and late hyperfluorescence",
+                  "children": [
+                    {
+                      "label": "sarcoidosis"
+                    },
+                    {
+                      "label": "sympathetic ophthalmia"
+                    },
+                    {
+                      "label": "VKH syndrome"
+                    },
+                    {
+                      "label": "birdshot uveitis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "vitreous biopsy",
+      "children": [
+        {
+          "label": "technique",
+          "children": [
+            {
+              "label": "standard 3-port pars plana vitrectomy"
+            },
+            {
+              "label": "undiluted vitreous specimen",
+              "children": [
+                {
+                  "label": "0.5–1.0 mL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "suspected endophthalmitis"
+            },
+            {
+              "label": "primary intraocular lymphoma"
+            },
+            {
+              "label": "other intraocular malignancy"
+            },
+            {
+              "label": "infectious etiologies"
+            },
+            {
+              "label": "chronic uveitis that has an atypical presentation or inadequate response to therapy"
+            }
+          ]
+        },
+        {
+          "label": "PCR studies",
+          "children": [
+            {
+              "label": "undiluted vitreous"
+            },
+            {
+              "label": "if an infectious posterior uveitis/panuveitis suspected",
+              "children": [
+                {
+                  "label": "herpes simplex virus types 1 or 2"
+                },
+                {
+                  "label": "varicella-zoster virus"
+                },
+                {
+                  "label": "cytomegalovirus"
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis must be narrowed to a few causes",
+              "children": [
+                {
+                  "label": "toxoplasma"
+                }
+              ]
+            },
+            {
+              "label": "combined with clinical picture, presence of DNA from specific pathogens can be very sensitive and specific"
+            }
+          ]
+        },
+        {
+          "label": "complications",
+          "children": [
+            {
+              "label": "retinal tears or detachment"
+            },
+            {
+              "label": "suprachoroidal or vitreous hemorrhage"
+            },
+            {
+              "label": "worsening of cataract or inflammation"
+            },
+            {
+              "label": "pharmacokinetics of delivered intravitreal drugs are markedly altered",
+              "children": [
+                {
+                  "label": "half-life of intravitreal corticosteroids is markedly reduced"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ultrasonography",
+      "children": [
+        {
+          "label": "vitreous opacities"
+        },
+        {
+          "label": "choroidal thickening"
+        },
+        {
+          "label": "retinal detachment"
+        },
+        {
+          "label": "cyclitic membrane formation"
+        },
+        {
+          "label": "occult foreign bodies"
+        }
+      ]
+    },
+    {
+      "label": "electroretinography",
+      "children": [
+        {
+          "label": "to monitor birdshot uveitis"
+        },
+        {
+          "label": "to rule out retinitis pigmentosa"
+        }
+      ]
+    },
+    {
+      "label": "optical coherence tomography",
+      "children": [
+        {
+          "label": "anterior segment OCT",
+          "children": [
+            {
+              "label": "retained lens fragments"
+            },
+            {
+              "label": "IOL chaffing"
+            }
+          ]
+        },
+        {
+          "label": "posterior segment",
+          "children": [
+            {
+              "label": "CME"
+            },
+            {
+              "label": "retinal thickening"
+            },
+            {
+              "label": "subretinal fluid"
+            },
+            {
+              "label": "monitoring patients with uveitic glaucoma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "chorioretinal biopsy",
+      "children": [
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "rapidly progressive posterior uveitic/panuveitic entities (e.g. necrotizing retinitis) for which the etiology/treatment regimen is unknown"
+            },
+            {
+              "label": "suspected intraocular lymphoma confined to subretinal space"
+            }
+          ]
+        },
+        {
+          "label": "only after all other less-invasive diagnostic measures have failed",
+          "children": [
+            {
+              "label": "high rate of complications!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.5.5. Clinical approach to uveitis (V) - Lab & Medical Evaluation.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 225,
+      "connector_rejected": 2,
+      "connector_edges": 156,
+      "connector_width": 1.059,
+      "text_labels": 121,
+      "tree_nodes": 121,
+      "component_roots": 10,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6933,
+      "root_font_size": 4.501,
+      "warnings": []
+    }
+  }
+}

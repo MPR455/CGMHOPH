@@ -1,0 +1,428 @@
+{
+  "label": "12.9.2. Choroidal Perfusion Abnormalities",
+  "root": true,
+  "children": [
+    {
+      "label": "Nonarteritic Disease",
+      "children": [
+        {
+          "label": "emobolic",
+          "children": [
+            {
+              "label": "emboli from heart"
+            },
+            {
+              "label": "corticosteroids"
+            },
+            {
+              "label": "calcium hydroxyapatite injection"
+            }
+          ]
+        },
+        {
+          "label": "systemic disease",
+          "children": [
+            {
+              "label": "lupus anticoagulants"
+            },
+            {
+              "label": "thrombotic thrombocytopenic purpura",
+              "children": [
+                {
+                  "label": "fever",
+                  "children": [
+                    {
+                      "label": "thrombocytopenia",
+                      "children": [
+                        {
+                          "label": "microangiopathic hemolytic anemia"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "renal dysfunction",
+                  "children": [
+                    {
+                      "label": "neurologic dysfunction"
+                    }
+                  ]
+                },
+                {
+                  "label": "multifocal yellow placoid areas + serous retinal detachment"
+                }
+              ]
+            },
+            {
+              "label": "disseminated intravascular coagulation",
+              "children": [
+                {
+                  "label": "ischemia from microthrombi"
+                },
+                {
+                  "label": "hemorrhage from multiple sites"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "severe hypertension",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "malignant hypertension"
+                },
+                {
+                  "label": "eclampsia",
+                  "children": [
+                    {
+                      "label": "HELLP syndrome",
+                      "children": [
+                        {
+                          "label": "hemolysis"
+                        },
+                        {
+                          "label": "elevated liver enzymes"
+                        },
+                        {
+                          "label": "low platelet count"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "focal infarction of the choriocapillaris"
+                },
+                {
+                  "label": "fibrinoid necrosis of larger arterioles"
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "retinal and optic nerve head abnormalities"
+                },
+                {
+                  "label": "areas of yellow placoid discoloration of the RPE"
+                },
+                {
+                  "label": "serous detachment of the retina"
+                },
+                {
+                  "label": "resolution",
+                  "children": [
+                    {
+                      "label": "small focal infarction of the choriocapillaris",
+                      "children": [
+                        {
+                          "label": "small patches of atrophy and pigmentary hyperplasia",
+                          "children": [
+                            {
+                              "label": "Elschnig spots"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "infarction of an arteriole",
+                      "children": [
+                        {
+                          "label": "linear aggregations of atrophic spots",
+                          "children": [
+                            {
+                              "label": "Siegrist streaks"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "sector-shaped abnormalities",
+                      "children": [
+                        {
+                          "label": "Amalric triangles"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "aging",
+          "children": [
+            {
+              "label": "older patients"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "intimal hyperplasia"
+                },
+                {
+                  "label": "medial hypertrophy",
+                  "children": [
+                    {
+                      "label": "decrease in the lumen size",
+                      "children": [
+                        {
+                          "label": "low inflow pressure",
+                          "children": [
+                            {
+                              "label": "areas of slow blood flow",
+                              "children": [
+                                {
+                                  "label": "choroidal watershed filling defects",
+                                  "children": [
+                                    {
+                                      "label": "segmental arrangement of choroid causes areas of severe decreased perfusion between areas of low perfusion"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "most of blood flow to the eye goes to choroid"
+        },
+        {
+          "label": "blood supply of choroid",
+          "children": [
+            {
+              "label": "20 short posterior ciliary arteries",
+              "children": [
+                {
+                  "label": "blood flow through choroid is high compared with other tissues"
+                },
+                {
+                  "label": "oxygen content of choroidal venous blood is only 2%–3% lower than arterial blood"
+                }
+              ]
+            },
+            {
+              "label": "2 anterior ciliary arteries",
+              "children": [
+                {
+                  "label": "network of branching arterioles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "choroidal arterial supply is segmental",
+          "children": [
+            {
+              "label": "Diagram of the choroidal distribution of the short posterior ciliary arteries (PCAs) and long PCA branches arising from the temporal (lateral) PCA, and their watershed zones."
+            }
+          ]
+        },
+        {
+          "label": "choriocapillaris perfusion pattern is lobular",
+          "children": [
+            {
+              "label": "choroidal blood flow defects affect lobule-sized areas"
+            }
+          ]
+        },
+        {
+          "label": "flow defects in the choroid are often undetected by ophthalmoscopy alone"
+        }
+      ]
+    },
+    {
+      "label": "BCSC 2020-2021"
+    },
+    {
+      "label": "Arteritic Disease",
+      "children": [
+        {
+          "label": "inflammatory occlusion can cause sectoral areas of nonperfusion"
+        },
+        {
+          "label": "giant cell arteritis",
+          "children": [
+            {
+              "label": "occlusion of one or more short, posterior ciliary arteries"
+            },
+            {
+              "label": "broad triangular areas of choroidal nonperfusion",
+              "children": [
+                {
+                  "label": "Amalric sign",
+                  "children": [
+                    {
+                      "label": "apex of triangle of nonperfusion points toward the occluded short posterior ciliary artery"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "granulomatosis with polyangiitis"
+        }
+      ]
+    },
+    {
+      "label": "Choriocapillaris Blood Flow Abnormalities",
+      "children": [
+        {
+          "label": "choroidal blood flow defects affect lobule-sized areas of the choroid"
+        },
+        {
+          "label": "acute posterior multifocal placoid pigment epitheliopathy",
+          "children": [
+            {
+              "label": "lesions are the putative size of a choroidal lobule"
+            }
+          ]
+        },
+        {
+          "label": "aging changes",
+          "children": [
+            {
+              "label": "choriocapillaris develops multiple areas of signal voids, consistent with decreased perfusion"
+            },
+            {
+              "label": "increase in size and number with",
+              "children": [
+                {
+                  "label": "age"
+                },
+                {
+                  "label": "hypertension"
+                },
+                {
+                  "label": "pseudodrusen"
+                },
+                {
+                  "label": "late age-related macular degeneration in the fellow eye"
+                }
+              ]
+            },
+            {
+              "label": "exhibit power law probability distributions"
+            },
+            {
+              "label": "histologic studies show an increasing number of ghost vessels in the choriocapillaris, basal linear deposits, and subretinal drusenoid deposits with increasing age"
+            },
+            {
+              "label": "OCT-A can show potential defects in capillary flow even within parts of a choroidal lobule"
+            }
+          ]
+        },
+        {
+          "label": "some diseases are associated with RPE atrophy in addition to geographic atrophy",
+          "children": [
+            {
+              "label": "diseases",
+              "children": [
+                {
+                  "label": "pseudoxanthoma elasticum",
+                  "children": [
+                    {
+                      "label": "can develop pseudodrusen"
+                    }
+                  ]
+                },
+                {
+                  "label": "maternally inherited diabetes mellitus and deafness"
+                }
+              ]
+            },
+            {
+              "label": "exhibit remarkable loss of the choriocapillaris",
+              "children": [
+                {
+                  "label": "even in the absence of RPE atrophy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Increased Venous Pressure",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "dural arterial malformations"
+            },
+            {
+              "label": "carotid cavernous fistulas"
+            }
+          ]
+        },
+        {
+          "label": "diagnosis",
+          "children": [
+            {
+              "label": "fluorescein and ICG angiography"
+            },
+            {
+              "label": "stethoscope",
+              "children": [
+                {
+                  "label": "to detect bruit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/12.9.2. Choroidal Perfusion Abnormalities.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 183,
+      "connector_rejected": 72,
+      "connector_edges": 104,
+      "connector_width": 0.855,
+      "text_labels": 103,
+      "tree_nodes": 103,
+      "component_roots": 5,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.5683,
+      "root_font_size": 3.707,
+      "warnings": []
+    }
+  }
+}

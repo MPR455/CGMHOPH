@@ -1,0 +1,728 @@
+{
+  "label": "7.11. 1. Periocular Malpositions and Involutional Changes (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "congenital"
+    },
+    {
+      "label": "involutional"
+    },
+    {
+      "label": "cicatricial",
+      "children": [
+        {
+          "label": "acute spastic"
+        }
+      ]
+    },
+    {
+      "label": "entropion",
+      "children": [
+        {
+          "label": "inversion of the eyelid margin"
+        },
+        {
+          "label": "lower eyelid entropion (usually involutional) is much more common than upper eyelid entropion (usually cicatricial)"
+        },
+        {
+          "label": "types"
+        },
+        {
+          "label": "involutional entropion",
+          "children": [
+            {
+              "label": "lower eyelids"
+            },
+            {
+              "label": "causative factors",
+              "children": [
+                {
+                  "label": "horizontal laxity of the eyelid",
+                  "children": [
+                    {
+                      "label": "caused by involutional stretching of the eyelid and canthal tendons"
+                    },
+                    {
+                      "label": "snapback and distraction testing"
+                    }
+                  ]
+                },
+                {
+                  "label": "attenuation or disinsertion of eyelid retractors",
+                  "children": [
+                    {
+                      "label": "capsulopalpebral fascia and inferior tarsal muscle"
+                    },
+                    {
+                      "label": "signs",
+                      "children": [
+                        {
+                          "label": "a white subconjunctival line several millimeters below the inferior tarsal border caused by the leading edge of the detached retractors"
+                        },
+                        {
+                          "label": "a deeper-than-normal inferior fornix"
+                        },
+                        {
+                          "label": "reverse ptosis of the lower eyelid (lower eyelid margin sits higher than normal)"
+                        },
+                        {
+                          "label": "little or no inferior movement of the lower eyelid on downgaze (diminished lower eyelid excursion)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "overriding by the preseptal orbicularis oculi muscle",
+                  "children": [
+                    {
+                      "label": "detected by observation of the preseptal orbicularis as the patient squeezes his or her eyes closed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "temporizing measures for acute intervention",
+                  "children": [
+                    {
+                      "label": "lubrication"
+                    },
+                    {
+                      "label": "bandage contact lens"
+                    },
+                    {
+                      "label": "suture techniques (Quickert sutures)",
+                      "children": [
+                        {
+                          "label": "recurrence is anticipated"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "surgical techniques",
+                  "children": [
+                    {
+                      "label": "to stabilize the inferior border of the tarsus"
+                    },
+                    {
+                      "label": "reinsertion of the eyelid retractors",
+                      "children": [
+                        {
+                          "label": "skin incision"
+                        },
+                        {
+                          "label": "transconjunctival approach"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "limited myectomy of the orbicularis",
+                      "children": [
+                        {
+                          "label": "a small amount of preseptal orbicularis oculi muscle can be removed in selected patients"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lower eyelid shortening procedure",
+                      "children": [
+                        {
+                          "label": "lateral tarsal strip"
+                        },
+                        {
+                          "label": "wedge resection"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Acute Spastic Entropion",
+          "children": [
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "ocular irritation or inflammation",
+                  "children": [
+                    {
+                      "label": "sustained orbicularis oculi muscle contraction"
+                    },
+                    {
+                      "label": "most commonly after intraocular surgery"
+                    }
+                  ]
+                },
+                {
+                  "label": "unrecognized underlying involutional eyelid changes are often present preoperatively"
+                }
+              ]
+            },
+            {
+              "label": "usually resolves when the irritation–entropion cycle is broken by treatment",
+              "children": [
+                {
+                  "label": "taping of the inturned eyelid"
+                },
+                {
+                  "label": "cautery"
+                },
+                {
+                  "label": "various suture techniques",
+                  "children": [
+                    {
+                      "label": "Quickert sutures"
+                    }
+                  ]
+                },
+                {
+                  "label": "botulinum toxin injection"
+                },
+                {
+                  "label": "definitive surgical repair may be required for underlying involutional changes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Cicatricial Entropion",
+          "children": [
+            {
+              "label": "vertical tarsoconjunctival contracture and internal rotation of the eyelid margin"
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "autoimmune",
+                  "children": [
+                    {
+                      "label": "ocular cicatricial pemphigoid"
+                    }
+                  ]
+                },
+                {
+                  "label": "inflammatory",
+                  "children": [
+                    {
+                      "label": "Stevens-Johnson syndrome"
+                    }
+                  ]
+                },
+                {
+                  "label": "infectious",
+                  "children": [
+                    {
+                      "label": "trachoma"
+                    },
+                    {
+                      "label": "herpes zoster"
+                    }
+                  ]
+                },
+                {
+                  "label": "surgical",
+                  "children": [
+                    {
+                      "label": "enucleation"
+                    },
+                    {
+                      "label": "posterior-approach ptosis correction"
+                    },
+                    {
+                      "label": "transconjunctival surgery"
+                    }
+                  ]
+                },
+                {
+                  "label": "traumatic",
+                  "children": [
+                    {
+                      "label": "thermal or chemical burns"
+                    },
+                    {
+                      "label": "scarring"
+                    }
+                  ]
+                },
+                {
+                  "label": "long-term use of topical glaucoma medications",
+                  "children": [
+                    {
+                      "label": "especially miotics"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "examination",
+              "children": [
+                {
+                  "label": "digital eversion test",
+                  "children": [
+                    {
+                      "label": "distinguishes cicatricial entropion from involutional entropion"
+                    }
+                  ]
+                },
+                {
+                  "label": "inspection of the posterior lamella reveals subtle to severe scarring"
+                }
+              ]
+            },
+            {
+              "label": "prognosis",
+              "children": [
+                {
+                  "label": "autoimmune or inflammatory",
+                  "children": [
+                    {
+                      "label": "guarded",
+                      "children": [
+                        {
+                          "label": "frequent disease progression!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "prior surgery or trauma",
+                  "children": [
+                    {
+                      "label": "generally good"
+                    }
+                  ]
+                },
+                {
+                  "label": "Infectious causes",
+                  "children": [
+                    {
+                      "label": "in between"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "surgery is contraindicated during the acute phase of autoimmune diseases",
+                  "children": [
+                    {
+                      "label": "maximal inflammatory suppression should be achieved with pulsed systemic anti- inflammatory medications (corticosteroids and immunosuppressive agents)"
+                    }
+                  ]
+                },
+                {
+                  "label": "mild to moderate cicatricial entropion",
+                  "children": [
+                    {
+                      "label": "lashes abrade the cornea"
+                    },
+                    {
+                      "label": "eyelid margin has lost its square edges and is rotated posteriorly"
+                    },
+                    {
+                      "label": "tarsal fracture operation",
+                      "children": [
+                        {
+                          "label": "technique",
+                          "children": [
+                            {
+                              "label": "posterior horizontal tarsal incision 2 mm distal to the eyelid margin",
+                              "children": [
+                                {
+                                  "label": "incision through the full thickness of the tarsus"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "eyelid position is stabilized with everting sutures"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "severe cicatricial entropion",
+                  "children": [
+                    {
+                      "label": "involved tarsus generally needs to be replaced",
+                      "children": [
+                        {
+                          "label": "upper eyelid",
+                          "children": [
+                            {
+                              "label": "tarsoconjunctival and other mucosal grafts"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "lower eyelid",
+                          "children": [
+                            {
+                              "label": "autogenous ear cartilage"
+                            },
+                            {
+                              "label": "preserved scleral grafts"
+                            },
+                            {
+                              "label": "hard-palate mucosa"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ectropion",
+      "children": [
+        {
+          "label": "outward turning of the eyelid margin"
+        },
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "congenital"
+            },
+            {
+              "label": "involutional"
+            },
+            {
+              "label": "paralytic"
+            },
+            {
+              "label": "cicatricial"
+            },
+            {
+              "label": "mechanical"
+            }
+          ]
+        },
+        {
+          "label": "involutional ectropion",
+          "children": [
+            {
+              "label": "lower eyelid"
+            },
+            {
+              "label": "horizontal eyelid laxity in medial or lateral canthal tendons",
+              "children": [
+                {
+                  "label": "loss of eyelid apposition to the globe",
+                  "children": [
+                    {
+                      "label": "drying of the conjunctival surface",
+                      "children": [
+                        {
+                          "label": "chronic conjunctival inflammation with hypertrophy and keratinization"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "examination",
+              "children": [
+                {
+                  "label": "snapback test",
+                  "children": [
+                    {
+                      "label": "poor orbicularis tone"
+                    }
+                  ]
+                },
+                {
+                  "label": "distraction test",
+                  "children": [
+                    {
+                      "label": "ability to pull the eyelid >6 mm from the globe"
+                    }
+                  ]
+                },
+                {
+                  "label": "lateral stretching of the eyelid to assess whether lateral canthal resuspension would return the eyelid to its normal anatomical position"
+                },
+                {
+                  "label": "excessive lateral movement of the lower punctum with lateral eyelid traction",
+                  "children": [
+                    {
+                      "label": "laxity of lower limb of medial canthal tendon"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "horizontal eyelid tightening",
+              "children": [
+                {
+                  "label": "lateral tarsal strip procedure",
+                  "children": [
+                    {
+                      "label": "lateral tarsus is sutured & reattached to the lateral orbital rim periosteum"
+                    },
+                    {
+                      "label": "Video 11-1"
+                    }
+                  ]
+                },
+                {
+                  "label": "Bick procedure",
+                  "children": [
+                    {
+                      "label": "full-thickness excision of the eyelid just medial to the lateral canthal angle"
+                    },
+                    {
+                      "label": "may cause rounding and medial displacement of the lateral canthal angle"
+                    }
+                  ]
+                },
+                {
+                  "label": "repair of medial canthal laxity is more challenging than repair of horizontal lower eyelid laxity",
+                  "children": [
+                    {
+                      "label": "anterior and posterior limbs of medial canthal tendon surround lacrimal sac"
+                    },
+                    {
+                      "label": "repair may be complicated by",
+                      "children": [
+                        {
+                          "label": "kinking of the canaliculus"
+                        },
+                        {
+                          "label": "distraction of punctum away from globe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "medial spindle procedure",
+              "children": [
+                {
+                  "label": "for mild medial ectropion with punctal eversion"
+                },
+                {
+                  "label": "horizontal fusiform excision of conjunctiva and eyelid retractors 4 mm inferior to the puncta"
+                },
+                {
+                  "label": "closure performed with inverting sutures"
+                },
+                {
+                  "label": "± lateral canthal tightening if associated horizontal eyelid laxity"
+                }
+              ]
+            },
+            {
+              "label": "repair of lower eyelid retractors",
+              "children": [
+                {
+                  "label": "tarsal ectropion",
+                  "children": [
+                    {
+                      "label": "lower lid eversion which is limited to the tarsal- containing portion only"
+                    },
+                    {
+                      "label": "retractor laxity, disinsertion, or dehiscence"
+                    },
+                    {
+                      "label": "± isolated defect",
+                      "children": [
+                        {
+                          "label": "advance and reattach the lower eyelid retractors to the inferior border of the tarsus"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "may accompany horizontal laxity",
+                      "children": [
+                        {
+                          "label": "when both defects are present, repair of the retractors is combined with horizontal tightening of the eyelid"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cicatricial ectropion",
+          "children": [
+            {
+              "label": "deficiency of skin secondary to",
+              "children": [
+                {
+                  "label": "thermal or chemical burn"
+                },
+                {
+                  "label": "mechanical trauma"
+                },
+                {
+                  "label": "surgical trauma"
+                },
+                {
+                  "label": "chronic actinic skin damage"
+                },
+                {
+                  "label": "chronic inflammation of the eyelid from dermatologic conditions",
+                  "children": [
+                    {
+                      "label": "rosacea"
+                    },
+                    {
+                      "label": "atopic dermatitis"
+                    },
+                    {
+                      "label": "eczematoid dermatitis"
+                    },
+                    {
+                      "label": "herpes zoster infections"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "3-step procedure",
+              "children": [
+                {
+                  "label": "lower eyelid",
+                  "children": [
+                    {
+                      "label": "release of vertical cicatricial traction"
+                    },
+                    {
+                      "label": "horizontal eyelid tightening with a lateral tarsal strip procedure"
+                    },
+                    {
+                      "label": "vertical lengthening of the anterior lamella",
+                      "children": [
+                        {
+                          "label": "midface-lift"
+                        },
+                        {
+                          "label": "full-thickness skin graft",
+                          "children": [
+                            {
+                              "label": "eyelid may be placed on superior traction with a frost suture"
+                            },
+                            {
+                              "label": "source of skin",
+                              "children": [
+                                {
+                                  "label": "opposite upper eyelid",
+                                  "children": [
+                                    {
+                                      "label": "ideal match"
+                                    },
+                                    {
+                                      "label": "usually inadequate except in patients with significant dermatochalasis"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "label": "postauricular"
+                                },
+                                {
+                                  "label": "preauricular"
+                                },
+                                {
+                                  "label": "supraclavicular"
+                                },
+                                {
+                                  "label": "medial upper arm"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "upper eyelid",
+                  "children": [
+                    {
+                      "label": "release of traction"
+                    },
+                    {
+                      "label": "augmentation of the vertically shortened anterior lamella with a full-thickness skin graft"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "mechanical ectropion",
+          "children": [
+            {
+              "label": "bulky tumors of the eyelid"
+            },
+            {
+              "label": "fluid accumulation"
+            },
+            {
+              "label": "herniated orbital fat"
+            },
+            {
+              "label": "poorly fitted spectacles"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.11. 1. Periocular Malpositions and Involutional Changes (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 190,
+      "connector_rejected": 3,
+      "connector_edges": 184,
+      "connector_width": 0.59,
+      "text_labels": 185,
+      "tree_nodes": 185,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9684,
+      "root_font_size": 2.507,
+      "warnings": []
+    }
+  }
+}

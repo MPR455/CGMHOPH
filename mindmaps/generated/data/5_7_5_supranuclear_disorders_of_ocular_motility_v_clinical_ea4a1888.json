@@ -1,0 +1,305 @@
+{
+  "label": "5.7.5. Supranuclear Disorders of Ocular Motility (V): Clinical Disorders of the Ocular Motor Systems (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Vergence Disorders",
+      "children": [
+        {
+          "label": "common"
+        },
+        {
+          "label": "usually result in diplopia"
+        },
+        {
+          "label": "convergence insufficiency",
+          "children": [
+            {
+              "label": "common cause of diplopia during near tasks"
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "age >50 years",
+                  "children": [
+                    {
+                      "label": "isolated finding",
+                      "children": [
+                        {
+                          "label": "In the absence of other neurologic symptoms, further workup is not needed"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "neurologic conditions",
+                  "children": [
+                    {
+                      "label": "extrapyramidal disorders",
+                      "children": [
+                        {
+                          "label": "Parkinson disease"
+                        },
+                        {
+                          "label": "PSP"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lesions of the pretectal area",
+                      "children": [
+                        {
+                          "label": "DMS",
+                          "children": [
+                            {
+                              "label": "accompanied by other features of the dorsal midbrain syndrome"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lesions of the midbrain",
+                      "children": [
+                        {
+                          "label": "within the mesencephalic reticular formation",
+                          "children": [
+                            {
+                              "label": "just dorsal to the third nerve nuclei"
+                            },
+                            {
+                              "label": "with normal third nerve function"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "closed head trauma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "convergence spasm",
+          "children": [
+            {
+              "label": "high accommodative convergence to accommodation [AC/A] ratio",
+              "children": [
+                {
+                  "label": "young patients"
+                },
+                {
+                  "label": "early-onset esotropia"
+                },
+                {
+                  "label": "Isolated intermittent convergence spasm is almost never related to organic disease"
+                }
+              ]
+            },
+            {
+              "label": "organic neurologic disease",
+              "children": [
+                {
+                  "label": "lesions at the junction of the diencephalon and mesencephalon",
+                  "children": [
+                    {
+                      "label": "thalamic hemorrhage",
+                      "children": [
+                        {
+                          "label": "\"thalamic esotropia\""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "lower brainstem and cerebellar disorders",
+                  "children": [
+                    {
+                      "label": "Wernicke encephalopathy"
+                    },
+                    {
+                      "label": "Arnold-Chiari malformation"
+                    },
+                    {
+                      "label": "multiple sclerosis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "divergence insufficiency",
+          "children": [
+            {
+              "label": "produces comitant esodeviation",
+              "children": [
+                {
+                  "label": "greater at distance than at near"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "benign",
+                  "children": [
+                    {
+                      "label": "divergence insufficiency as an isolated neurologic finding does not require further workup",
+                      "children": [
+                        {
+                          "label": "patients should be observed for development of other neurologic signs!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "can be confused with bilateral sixth nerve palsy"
+                },
+                {
+                  "label": "incipient manifestation of unilateral sixth nerve palsy"
+                },
+                {
+                  "label": "resolving phase of a sixth nerve palsy",
+                  "children": [
+                    {
+                      "label": "sixth nerve palsy is associated with abnormal speed and amplitude of abducting saccades"
+                    }
+                  ]
+                },
+                {
+                  "label": "altered intracranial pressure"
+                },
+                {
+                  "label": "midbrain tumors"
+                },
+                {
+                  "label": "craniocervical junction lesions"
+                },
+                {
+                  "label": "spinocerebellar ataxia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pursuit Dysfunction",
+      "children": [
+        {
+          "label": "subnormal gain",
+          "children": [
+            {
+              "label": "more common"
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "older patients",
+                  "children": [
+                    {
+                      "label": "decreased smoothness of smooth pursuit"
+                    }
+                  ]
+                },
+                {
+                  "label": "wide range of medications"
+                },
+                {
+                  "label": "pathologic"
+                }
+              ]
+            },
+            {
+              "label": "pursuit eye movement trails the target",
+              "children": [
+                {
+                  "label": "catch-up saccades",
+                  "children": [
+                    {
+                      "label": "cogwheel/saccadic pursuit",
+                      "children": [
+                        {
+                          "label": "frankly saccadic pursuit is pathologic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "poor initiation",
+          "children": [
+            {
+              "label": "large lateralizing lesions of the posterior hemisphere or frontal lobes or of their underlying white matter"
+            }
+          ]
+        },
+        {
+          "label": "affects both horizontal and vertical planes",
+          "children": [
+            {
+              "label": "selective vertical plane involvement",
+              "children": [
+                {
+                  "label": "bilateral internuclear ophthalmoplegia"
+                },
+                {
+                  "label": "PSP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "pursuit deficit is to the side of the lesion",
+      "children": [
+        {
+          "label": "observed with use of the OKN drum"
+        },
+        {
+          "label": "pursuit movements made into a blind hemifield are often poor or absent"
+        }
+      ]
+    },
+    {
+      "label": "convergence spasm associated with other abnormalities (convergence-retraction nystagmus and reduced conjugate upgaze) indicates organic neurologic impairment"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.7.5. Supranuclear Disorders of Ocular Motility (V) - Clinical Disorders of the Ocular Motor Systems (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 130,
+      "connector_rejected": 1,
+      "connector_edges": 86,
+      "connector_width": 0.962,
+      "text_labels": 72,
+      "tree_nodes": 72,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6615,
+      "root_font_size": 3.368,
+      "warnings": []
+    }
+  }
+}

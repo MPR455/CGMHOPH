@@ -1,0 +1,227 @@
+{
+  "label": "Pseudoesotropia",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "infant girl is brought because parents are concerned that her eyes are turned in"
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course",
+              "children": [
+                {
+                  "label": "review old pictures"
+                }
+              ]
+            },
+            {
+              "label": "constant vs intermittent",
+              "children": [
+                {
+                  "label": "variation",
+                  "children": [
+                    {
+                      "label": "during the day"
+                    },
+                    {
+                      "label": "with near work"
+                    },
+                    {
+                      "label": "with prolonged work"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "family history of strabismus/amblyopia"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "cover-uncover test"
+            },
+            {
+              "label": "alternate cover test"
+            },
+            {
+              "label": "Hirschberg test"
+            },
+            {
+              "label": "VA",
+              "children": [
+                {
+                  "label": "preferential-looking",
+                  "children": [
+                    {
+                      "label": "Teller cards"
+                    }
+                  ]
+                },
+                {
+                  "label": "asymmetric objection to occlusion of either eye"
+                }
+              ]
+            },
+            {
+              "label": "cycloplegic refraction"
+            },
+            {
+              "label": "dilated anterior segment & fundus exam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Image Description"
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "pseudoesotropia"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "reassure parents"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "pseudoesotropia",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "flat, broad nasal bridge",
+                  "children": [
+                    {
+                      "label": "The infant has broad epicanthal folds and is looking to the right; the corneal light reflexes are symmetrical"
+                    }
+                  ]
+                },
+                {
+                  "label": "prominent epicanthal folds"
+                },
+                {
+                  "label": "narrow interpupillary distance"
+                },
+                {
+                  "label": "negative angle kappa",
+                  "children": [
+                    {
+                      "label": "corneal light reflection will be temporal to center of cornea"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "esotropia"
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "may improve with growth of face and nasal bridge"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "monitor for true strabismus"
+            }
+          ]
+        },
+        {
+          "label": "Dos",
+          "children": [
+            {
+              "label": "ask parents to report any change in pattern of apparent eye deviation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Angle kappa",
+      "children": [
+        {
+          "label": "ET",
+          "children": [
+            {
+              "label": "negative",
+              "children": [
+                {
+                  "label": "eXPENsive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "XT",
+          "children": [
+            {
+              "label": "positive"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Pseudoesotropia.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 71,
+      "connector_rejected": 2,
+      "connector_edges": 50,
+      "connector_width": 1.108,
+      "text_labels": 52,
+      "tree_nodes": 52,
+      "component_roots": 7,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7042,
+      "root_font_size": 7.758,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "label": "Ocular Ischemic Syndrome and Carotid Occlusive Disease",
+  "root": true,
+  "children": [
+    {
+      "label": "ischemic vascular disease",
+      "children": [
+        {
+          "label": "ischemic cardiovascular disease"
+        },
+        {
+          "label": "previous CVA",
+          "children": [
+            {
+              "label": "1/4",
+              "children": [
+                {
+                  "label": "1/2"
+                },
+                {
+                  "label": "1/5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "severe peripheral atherosclerosis"
+        }
+      ]
+    },
+    {
+      "label": "Etiology",
+      "children": [
+        {
+          "label": "atherosclerosis"
+        },
+        {
+          "label": "Eisenmenger syndrome"
+        },
+        {
+          "label": "vasculitis",
+          "children": [
+            {
+              "label": "giant cell arteritis",
+              "children": [
+                {
+                  "label": "> 90% obstruction"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Demographics",
+      "children": [
+        {
+          "label": "> 55 years"
+        },
+        {
+          "label": "20% bilateral"
+        }
+      ]
+    },
+    {
+      "label": "Symptoms",
+      "children": [
+        {
+          "label": "gradual vision loss"
+        },
+        {
+          "label": "aching eye pain"
+        },
+        {
+          "label": "prolonged vision recovery after exposure to bright light"
+        }
+      ]
+    },
+    {
+      "label": "Ancillary testing",
+      "children": [
+        {
+          "label": "Fluorescein angiography",
+          "children": [
+            {
+              "label": "delayed choroidal filling",
+              "children": [
+                {
+                  "label": "60%"
+                }
+              ]
+            },
+            {
+              "label": "prolonged AV tran",
+              "children": [
+                {
+                  "label": "95%"
+                }
+              ]
+            },
+            {
+              "label": "especially arteries"
+            },
+            {
+              "label": "vascular staining",
+              "children": [
+                {
+                  "label": "85%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ERG",
+          "children": [
+            {
+              "label": "global amplitude reduction",
+              "children": [
+                {
+                  "label": "both photoreceptors and inner retina"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Prognosis",
+      "children": [
+        {
+          "label": "Visual Prognosis",
+          "children": [
+            {
+              "label": "rubeosis irides",
+              "children": [
+                {
+                  "label": "VA < 20/200 in 90% within 1 year",
+                  "children": [
+                    {
+                      "label": "CRVO and CRAO affect only inner retina"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "5-year mortality",
+          "children": [
+            {
+              "label": "40%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Signs",
+      "children": [
+        {
+          "label": "cataract"
+        },
+        {
+          "label": "iris/angle neovascularizartion",
+          "children": [
+            {
+              "label": "2/3"
+            },
+            {
+              "label": "(neovascular) glaucoma",
+              "children": [
+                {
+                  "label": "1/2"
+                },
+                {
+                  "label": "normal or low IOP in 1/2 due to impaired aqueous production"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "AC cellular reaction",
+          "children": [
+            {
+              "label": "1/5"
+            }
+          ]
+        },
+        {
+          "label": "narrow retinal arteries"
+        },
+        {
+          "label": "dilated retinal vein"
+        },
+        {
+          "label": "retinal hemorrahges",
+          "children": [
+            {
+              "label": "deep",
+              "children": [
+                {
+                  "label": "not very tortuous"
+                }
+              ]
+            },
+            {
+              "label": "round"
+            },
+            {
+              "label": "mid peripheral"
+            }
+          ]
+        },
+        {
+          "label": "microaneurysms"
+        },
+        {
+          "label": "NVE/NVD",
+          "children": [
+            {
+              "label": "helps differentiate from CRVO"
+            }
+          ]
+        },
+        {
+          "label": "low retinal artery pressure",
+          "children": [
+            {
+              "label": "gentle pressure on the eye will collapse central retinal artery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "carotid reperfusion",
+          "children": [
+            {
+              "label": "techniques",
+              "children": [
+                {
+                  "label": "Carotid artery stenting",
+                  "children": [
+                    {
+                      "label": "ineffective if 100% obstruction"
+                    }
+                  ]
+                },
+                {
+                  "label": "endarterectomy"
+                },
+                {
+                  "label": "extracranial to intracranial bypass",
+                  "children": [
+                    {
+                      "label": "ineffective for preventing loss of vision or stroke"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "can cause severe rise in IOP"
+            }
+          ]
+        },
+        {
+          "label": "PRP",
+          "children": [
+            {
+              "label": "results in regression of NVI",
+              "children": [
+                {
+                  "label": "2/3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "anti-VEGF",
+          "children": [
+            {
+              "label": "results in regression of NVI"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Ocular Ischemic Syndrome and Carotid Occlusive Disease.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 100,
+      "connector_rejected": 5,
+      "connector_edges": 70,
+      "connector_width": 1.117,
+      "text_labels": 75,
+      "tree_nodes": 75,
+      "component_roots": 8,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.7,
+      "root_font_size": 7.449,
+      "warnings": []
+    }
+  }
+}

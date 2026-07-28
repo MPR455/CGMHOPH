@@ -1,0 +1,339 @@
+{
+  "label": "9.7.5. Infectious Ocular Inflammatory Diseases (V): EBV/LCMV",
+  "root": true,
+  "children": [
+    {
+      "label": "similar to herpes viruses"
+    },
+    {
+      "label": "Epstein-Barr virus (EBV)",
+      "children": [
+        {
+          "label": "double-stranded DNA virus",
+          "children": [
+            {
+              "label": "complex capsid and envelope"
+            },
+            {
+              "label": "tropism for B lymphocytes",
+              "children": [
+                {
+                  "label": "only cells known to have surface receptors for the virus"
+                }
+              ]
+            },
+            {
+              "label": "very high seroprevalence of EBV (90%) in the adult population"
+            }
+          ]
+        },
+        {
+          "label": "diseases",
+          "children": [
+            {
+              "label": "infectious mononucleosis (IM)"
+            },
+            {
+              "label": "Burkitt lymphoma (especially among African children)"
+            },
+            {
+              "label": "nasopharyngeal carcinoma"
+            },
+            {
+              "label": "Hodgkin disease"
+            },
+            {
+              "label": "Sjögren syndrome"
+            }
+          ]
+        },
+        {
+          "label": "anterior segment manifestations",
+          "children": [
+            {
+              "label": "cataract",
+              "children": [
+                {
+                  "label": "congenital EBV infection"
+                }
+              ]
+            },
+            {
+              "label": "mild, self-limiting follicular conjunctivitis",
+              "children": [
+                {
+                  "label": "early in the course of acquired IM"
+                }
+              ]
+            },
+            {
+              "label": "less frequently reported anterior ocular manifestations",
+              "children": [
+                {
+                  "label": "epithelial or stromal keratitis"
+                },
+                {
+                  "label": "episcleritis"
+                },
+                {
+                  "label": "bilateral, granulomatous anterior uveitis"
+                },
+                {
+                  "label": "cranial nerve palsies",
+                  "children": [
+                    {
+                      "label": "dacryoadenitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "Parinaud oculoglandular syndrome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "posterior segment manifestations",
+          "children": [
+            {
+              "label": "isolated optic disc edema and optic neuritis"
+            },
+            {
+              "label": "macular edema"
+            },
+            {
+              "label": "retinal hemorrhages"
+            },
+            {
+              "label": "retinitis"
+            },
+            {
+              "label": "punctate outer retinitis"
+            },
+            {
+              "label": "choroiditis"
+            },
+            {
+              "label": "multifocal choroiditis and panuveitis (MCP)"
+            },
+            {
+              "label": "pars planitis and vitritis"
+            },
+            {
+              "label": "progressive subretinal fibrosis"
+            },
+            {
+              "label": "secondary choroidal neovascularization"
+            },
+            {
+              "label": "ARN"
+            },
+            {
+              "label": "association between these findings and EBV infection is not well established",
+              "children": [
+                {
+                  "label": "does not require treatment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "anterior uveitis",
+              "children": [
+                {
+                  "label": "ocular disease is self-limiting"
+                },
+                {
+                  "label": "topical corticosteroids and cycloplegia"
+                }
+              ]
+            },
+            {
+              "label": "posterior segment inflammation",
+              "children": [
+                {
+                  "label": "systemic corticosteroids"
+                }
+              ]
+            },
+            {
+              "label": "efficacy of systemic antiviral therapy for EBV infection has not been established",
+              "children": [
+                {
+                  "label": "consider for necrotizing retinitis/ARN"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lymphocytic choriomeningitis virus (LCMV)",
+      "children": [
+        {
+          "label": "single-stranded RNA virus",
+          "children": [
+            {
+              "label": "Arenaviridae family",
+              "children": [
+                {
+                  "label": "fetal teratogen"
+                }
+              ]
+            },
+            {
+              "label": "rodents are the natural hosts"
+            }
+          ]
+        },
+        {
+          "label": "symptomatic maternal illness",
+          "children": [
+            {
+              "label": "2/3"
+            },
+            {
+              "label": "maternal viremia",
+              "children": [
+                {
+                  "label": "transmission",
+                  "children": [
+                    {
+                      "label": "airborne"
+                    },
+                    {
+                      "label": "contaminated food by infected rodent excreta"
+                    },
+                    {
+                      "label": "bite of an infected animal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "transmission earlier in gestation results in more serious sequelae",
+              "children": [
+                {
+                  "label": "periventricular"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic findings",
+          "children": [
+            {
+              "label": "macrocephaly"
+            },
+            {
+              "label": "hydrocephalus"
+            },
+            {
+              "label": "intracranial calcifications"
+            },
+            {
+              "label": "seizures"
+            },
+            {
+              "label": "mild cognitive impairment"
+            },
+            {
+              "label": "neurologic abnormalities"
+            }
+          ]
+        },
+        {
+          "label": "ocular manifestations",
+          "children": [
+            {
+              "label": "macular and chorioretinal peripheral scarring"
+            },
+            {
+              "label": "optic atrophy"
+            },
+            {
+              "label": "strabismus",
+              "children": [
+                {
+                  "label": "similar to that of congenital toxoplasmosis"
+                }
+              ]
+            },
+            {
+              "label": "nystagmus"
+            }
+          ]
+        },
+        {
+          "label": "differentiation from congenital toxoplasmosis",
+          "children": [
+            {
+              "label": "serologic testing of the mother and the infant",
+              "children": [
+                {
+                  "label": "Immunofluorescent antibody tests"
+                },
+                {
+                  "label": "Western blot"
+                },
+                {
+                  "label": "ELISA"
+                },
+                {
+                  "label": "IgM and IgG antibodies",
+                  "children": [
+                    {
+                      "label": "diffuse"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pattern of intracerebral calcifications",
+              "children": [
+                {
+                  "label": "toxoplasmosis"
+                },
+                {
+                  "label": "congenital LCMV",
+                  "children": [
+                    {
+                      "label": "periventricular distribution"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.5. Infectious Ocular Inflammatory Diseases (V) - EBV-LCMV.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 163,
+      "connector_rejected": 2,
+      "connector_edges": 114,
+      "connector_width": 1.104,
+      "text_labels": 86,
+      "tree_nodes": 86,
+      "component_roots": 3,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.6994,
+      "root_font_size": 4.693,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "label": "5.12.4. Head, Ocular, & Facial Pain (IV): Facial Pain",
+  "root": true,
+  "children": [
+    {
+      "label": "Mental Nerve Neuropathy",
+      "children": [
+        {
+          "label": "pain + facial numbness",
+          "children": [
+            {
+              "label": "painful \"numb chin\""
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "inflammatory",
+              "children": [
+                {
+                  "label": "sarcoidosis"
+                },
+                {
+                  "label": "collagen vascular diseases"
+                },
+                {
+                  "label": "lymphoma",
+                  "children": [
+                    {
+                      "label": "periodontal disease"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "neoplastic",
+              "children": [
+                {
+                  "label": "plasmacytoma"
+                },
+                {
+                  "label": "osteosarcoma"
+                },
+                {
+                  "label": "fibrosarcoma"
+                },
+                {
+                  "label": "metastatic breast carcinoma"
+                }
+              ]
+            },
+            {
+              "label": "sickle cell disease",
+              "children": [
+                {
+                  "label": "metastatic lung and prostate carcinoma"
+                }
+              ]
+            },
+            {
+              "label": "trauma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "General",
+      "children": [
+        {
+          "label": "ischemia",
+          "children": [
+            {
+              "label": "carotid dissection"
+            },
+            {
+              "label": "microvascular cranial nerve palsy"
+            }
+          ]
+        },
+        {
+          "label": "headache",
+          "children": [
+            {
+              "label": "pain in the eye area is most often a manifestation of a headache"
+            },
+            {
+              "label": "occipital neuralgia",
+              "children": [
+                {
+                  "label": "pain and tenderness over the greater occipital nerve"
+                },
+                {
+                  "label": "radiates to the ipsilateral eye"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "facial pain",
+          "children": [
+            {
+              "label": "dental disorders"
+            },
+            {
+              "label": "sinus disease"
+            },
+            {
+              "label": "trigeminal neuralgia"
+            },
+            {
+              "label": "glossopharyngeal neuralgia"
+            },
+            {
+              "label": "temporomandibular joint (TMJ) syndrome"
+            },
+            {
+              "label": "carotidynia"
+            },
+            {
+              "label": "herpes zoster neuralgia"
+            },
+            {
+              "label": "giant cell arteritis",
+              "children": [
+                {
+                  "label": "onset of facial pain in an elderly patient"
+                }
+              ]
+            },
+            {
+              "label": "malignancy",
+              "children": [
+                {
+                  "label": "nasopharyngeal carcinoma"
+                },
+                {
+                  "label": "metastatic carcinoma",
+                  "children": [
+                    {
+                      "label": "affecting the trigeminal nerve or the dura at the base of the brain"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "atypical facial pain",
+              "children": [
+                {
+                  "label": "constant facial pain"
+                },
+                {
+                  "label": "deep and boring"
+                },
+                {
+                  "label": "no etiology"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Neoplastic Processes",
+      "children": [
+        {
+          "label": "pain + facial numbness"
+        },
+        {
+          "label": "facial cutaneous malignancy",
+          "children": [
+            {
+              "label": "perineural invasion",
+              "children": [
+                {
+                  "label": "r/o neoplasms affecting trigeminal nerve in area of cavernous sinus and Meckel cave"
+                },
+                {
+                  "label": "progressive pain, numbness, and multiple cranial nerve palsies"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Herpes Zoster Ophthalmicus",
+      "children": [
+        {
+          "label": "vesicular eruption",
+          "children": [
+            {
+              "label": "trigeminal dermatomes"
+            },
+            {
+              "label": "occasionally, no vesicles are apparent",
+              "children": [
+                {
+                  "label": "zoster sine herpete"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pain",
+          "children": [
+            {
+              "label": "aching or burning"
+            },
+            {
+              "label": "may be exacerbated by concomitant iritis",
+              "children": [
+                {
+                  "label": "may arise in affected region days before the vesicular eruption"
+                }
+              ]
+            },
+            {
+              "label": "may persist long after resolution of the acute infection",
+              "children": [
+                {
+                  "label": "postherpetic neuralgia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "antiviral drugs",
+              "children": [
+                {
+                  "label": "treatment during the acute phase may decrease the risk of severe postherpetic neuralgia"
+                }
+              ]
+            },
+            {
+              "label": "medical treatment for pain",
+              "children": [
+                {
+                  "label": "pregabalin"
+                },
+                {
+                  "label": "gabapentin"
+                },
+                {
+                  "label": "tricyclic antidepressants"
+                },
+                {
+                  "label": "topical lidocaine patch 5%"
+                },
+                {
+                  "label": "difficult to treat"
+                }
+              ]
+            },
+            {
+              "label": "zoster vaccine",
+              "children": [
+                {
+                  "label": "immunocompetent persons aged ≥60 years"
+                },
+                {
+                  "label": "significantly reduces incidence of herpes zoster"
+                },
+                {
+                  "label": "markedly decreases incidence and morbidity of postherpetic neuralgia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trigeminal Neuralgia",
+      "children": [
+        {
+          "label": "\"tic douloureux\""
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "vascular compression of CN V",
+              "children": [
+                {
+                  "label": "80%–90%"
+                }
+              ]
+            },
+            {
+              "label": "demyelinating disease"
+            },
+            {
+              "label": "posterior fossa mass lesion"
+            }
+          ]
+        },
+        {
+          "label": "precipitating factors",
+          "children": [
+            {
+              "label": "chewing"
+            },
+            {
+              "label": "tooth brushing"
+            },
+            {
+              "label": "cold wind"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "middle age or later"
+            },
+            {
+              "label": "unilateral (95%)"
+            },
+            {
+              "label": "paroxysmal burning or electric shock–like jabs",
+              "children": [
+                {
+                  "label": "seconds to minutes"
+                },
+                {
+                  "label": "± periods of remission"
+                }
+              ]
+            },
+            {
+              "label": "maxillary or mandibular distribution of CN V",
+              "children": [
+                {
+                  "label": "involvement of the ophthalmic division alone is rare (<5%)"
+                }
+              ]
+            },
+            {
+              "label": "sensory function in the face should be normal",
+              "children": [
+                {
+                  "label": "any abnormality increases likelihood of a neoplasm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "all patients should have neuroimaging of the posterior fossa",
+          "children": [
+            {
+              "label": "preferably with MRI"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "medical",
+              "children": [
+                {
+                  "label": "gabapentin"
+                },
+                {
+                  "label": "pregabalin"
+                },
+                {
+                  "label": "carbamazepine"
+                },
+                {
+                  "label": "phenytoin"
+                },
+                {
+                  "label": "baclofen"
+                },
+                {
+                  "label": "clonazepam"
+                },
+                {
+                  "label": "valproic acid"
+                }
+              ]
+            },
+            {
+              "label": "surgical",
+              "children": [
+                {
+                  "label": "selective destruction of trigeminal fibers (rhizotomy)"
+                },
+                {
+                  "label": "surgical decompression of CN V"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Carotid Dissection",
+      "children": [
+        {
+          "label": "pain localized to the face"
+        },
+        {
+          "label": "sympathetic dysfunction (Horner syndrome)"
+        }
+      ]
+    },
+    {
+      "label": "Temporomandibular Disease",
+      "children": [
+        {
+          "label": "joint pain",
+          "children": [
+            {
+              "label": "exacerbated by",
+              "children": [
+                {
+                  "label": "chewing"
+                },
+                {
+                  "label": "talking"
+                }
+              ]
+            },
+            {
+              "label": "limited jaw opening"
+            },
+            {
+              "label": "click or pop"
+            }
+          ]
+        },
+        {
+          "label": "muscle pain",
+          "children": [
+            {
+              "label": "more difficult to diagnose"
+            },
+            {
+              "label": "may be referred to the ear, preauricular area, or neck"
+            }
+          ]
+        },
+        {
+          "label": "jaw pain or claudication in an elderly patient may be an early symptom of giant cell arteritis"
+        }
+      ]
+    },
+    {
+      "label": "Glossopharyngeal Neuralgia",
+      "children": [
+        {
+          "label": "unilateral"
+        },
+        {
+          "label": "precipitating factors",
+          "children": [
+            {
+              "label": "swallowing"
+            },
+            {
+              "label": "pungent flavors"
+            }
+          ]
+        },
+        {
+          "label": "paroxysmal pain",
+          "children": [
+            {
+              "label": "region of the larynx, tongue, tonsil, and ear"
+            }
+          ]
+        },
+        {
+          "label": "± hoarseness and coughing"
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "similar to trigeminal neuralgia"
+            },
+            {
+              "label": "microvascular decompression"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Occipital Neuralgia",
+      "children": [
+        {
+          "label": "paroxysmal stabbing pain"
+        },
+        {
+          "label": "distribution of the greater or lesser occipital nerves"
+        },
+        {
+          "label": "tenderness over the affected nerve"
+        },
+        {
+          "label": "injection of local anesthetic drugs"
+        }
+      ]
+    },
+    {
+      "label": "carotidynia",
+      "children": [
+        {
+          "label": "pain arising from the cervical carotid artery"
+        },
+        {
+          "label": "neck pain that radiates to the ipsilateral face and ear",
+          "children": [
+            {
+              "label": "carotid dissection must be excluded"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.12.4. Head, Ocular, & Facial Pain (IV) - Facial Pain.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 238,
+      "connector_rejected": 1,
+      "connector_edges": 182,
+      "connector_width": 0.949,
+      "text_labels": 144,
+      "tree_nodes": 144,
+      "component_roots": 10,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7647,
+      "root_font_size": 4.033,
+      "warnings": []
+    }
+  }
+}

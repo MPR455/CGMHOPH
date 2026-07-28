@@ -1,0 +1,330 @@
+{
+  "label": "Nonneovascular AMD (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Ancillary Testing",
+      "children": [
+        {
+          "label": "FA",
+          "children": [
+            {
+              "label": "hypofluorescence",
+              "children": [
+                {
+                  "label": "hemorrhage at any level"
+                },
+                {
+                  "label": "lipid"
+                },
+                {
+                  "label": "pigment proliferation"
+                }
+              ]
+            },
+            {
+              "label": "hyperfluorescence",
+              "children": [
+                {
+                  "label": "hard & soft drusen",
+                  "children": [
+                    {
+                      "label": "small hard drusen",
+                      "children": [
+                        {
+                          "label": "early hyperfluorescence",
+                          "children": [
+                            {
+                              "label": "window defect"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "larger soft and confluent drusen & drusenoid PEDs",
+                      "children": [
+                        {
+                          "label": "slow and homogenous late staining",
+                          "children": [
+                            {
+                              "label": "pooling of dye in sub-PED space"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "RPE atrophy"
+                },
+                {
+                  "label": "RPE tear"
+                },
+                {
+                  "label": "CNV"
+                },
+                {
+                  "label": "serous PED"
+                },
+                {
+                  "label": "subretinal fibrosis"
+                },
+                {
+                  "label": "laser scars"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "OCT",
+          "children": [
+            {
+              "label": "sub-RPE nodular elevations with a notable absence of intraretinal and subretinal fluid"
+            },
+            {
+              "label": "choroidal thickness is often reduced in AMD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Histology",
+      "children": [
+        {
+          "label": "basal laminar deposits",
+          "children": [
+            {
+              "label": "granular lipid-rich material & widely spaced collagen fibers",
+              "children": [
+                {
+                  "label": "between plasma membrane (basal lamina) and basement membrane of RPE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "basal linear deposits",
+          "children": [
+            {
+              "label": "phospholipid vesicles & electron dense granules",
+              "children": [
+                {
+                  "label": "within inner collagenous zone of Bruch membrane"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "large or soft drusen",
+          "children": [
+            {
+              "label": "small detachment of thickened inner aspect of Bruch membrane along with the RPE from the rest of Bruch membrane"
+            }
+          ]
+        },
+        {
+          "label": "drusenoid PED",
+          "children": [
+            {
+              "label": "larger detachment of thickened inner aspect of Bruch membrane along with the RPE from the rest of Bruch membrane"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential diagnosis",
+      "children": [
+        {
+          "label": "these features may occur in younger individuals (younger than 50 years)"
+        },
+        {
+          "label": "CSC",
+          "children": [
+            {
+              "label": "RPE changes similar to AMD"
+            },
+            {
+              "label": "absence of drusen"
+            },
+            {
+              "label": "thickened choroid on EDI-OCT in affected and fellow eye"
+            },
+            {
+              "label": "multiple small serous RPE detachments"
+            }
+          ]
+        },
+        {
+          "label": "pattern dystrophy",
+          "children": [
+            {
+              "label": "younger patient",
+              "children": [
+                {
+                  "label": "age<50 years",
+                  "children": [
+                    {
+                      "label": "normal or thin choroid in eyes with AMD"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "reticular or butterfly-shaped hyperpigmentation of macula",
+              "children": [
+                {
+                  "label": "symmetrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "basal laminar (cuticular) drusen",
+          "children": [
+            {
+              "label": "30s or 40s"
+            },
+            {
+              "label": "innumerable round small-large drusen"
+            },
+            {
+              "label": "vitelliform yellow material in central macula"
+            },
+            {
+              "label": "more visible on FA",
+              "children": [
+                {
+                  "label": "\"starry-night\" appearance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "drug toxicity",
+          "children": [
+            {
+              "label": "lack of large drusen"
+            },
+            {
+              "label": "specific drug ingestion",
+              "children": [
+                {
+                  "label": "hydroxychloroquine toxicity"
+                },
+                {
+                  "label": "deferoxamine"
+                },
+                {
+                  "label": "cisplatin"
+                },
+                {
+                  "label": "pentosan polysulfate sodium"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "adult-onset vitelliform maculopathy",
+          "children": [
+            {
+              "label": "yellow subretinal lesions beneath the outer retina"
+            },
+            {
+              "label": "SD-OCT",
+              "children": [
+                {
+                  "label": "hyperreflective, dome-shaped central lesion"
+                }
+              ]
+            },
+            {
+              "label": "FA",
+              "children": [
+                {
+                  "label": "early blocked fluorescence with a surrounding zone of hyperfluorescence"
+                },
+                {
+                  "label": "late staining"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Reticular pseudodrusen or subretinal drusenoid deposits",
+      "children": [
+        {
+          "label": "reticular-like network"
+        },
+        {
+          "label": "smaller than soft drusen"
+        },
+        {
+          "label": "commonly in superior macular region"
+        },
+        {
+          "label": "associated with progressive atrophy of photoreceptor layer, GA, and greater risk of CNV"
+        },
+        {
+          "label": "best seen on fundus autofluorescence & infrared imaging"
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "located on apical surface of RPE"
+            },
+            {
+              "label": "share some proteins with drusen (eg, apolipoprotein E, complement factor H, and vitronectin)"
+            },
+            {
+              "label": "contain different lipids"
+            },
+            {
+              "label": "do not contain shed disk remnants"
+            },
+            {
+              "label": "SD-OCT",
+              "children": [
+                {
+                  "label": "above the RPE and beneath the inner segment ellipsoid layer"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Nonneovascular AMD (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 148,
+      "connector_rejected": 11,
+      "connector_edges": 101,
+      "connector_width": 0.585,
+      "text_labels": 81,
+      "tree_nodes": 81,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6824,
+      "root_font_size": 5.848,
+      "warnings": []
+    }
+  }
+}

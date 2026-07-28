@@ -1,0 +1,437 @@
+{
+  "label": "8.13.7. Toxic & Traumatic Injuries (VII)",
+  "root": true,
+  "children": [
+    {
+      "label": "Conjunctival Foreign Body",
+      "children": [
+        {
+          "label": "location",
+          "children": [
+            {
+              "label": "inferior cul-de-sac"
+            },
+            {
+              "label": "conjunctival surface under the upper eyelid",
+              "children": [
+                {
+                  "label": "evert the upper eyelid"
+                },
+                {
+                  "label": "double evert the upper eyelid with a Desmarres retractor or a bent paper clip",
+                  "children": [
+                    {
+                      "label": "if several foreign bodies are suspected or particulate matter is present"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical fluorescein",
+                  "children": [
+                    {
+                      "label": "fine, linear, vertical corneal abrasions are characteristic of retained foreign bodies on the eyelid margin or superior tarsal plate"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "difficult to see foreign bodies",
+          "children": [
+            {
+              "label": "glass particles"
+            },
+            {
+              "label": "cactus spines"
+            },
+            {
+              "label": "insect hairs"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "moistened cotton-tipped applicator",
+              "children": [
+                {
+                  "label": "for superficial foreign material"
+                },
+                {
+                  "label": "foreign body is suspected but not seen"
+                }
+              ]
+            },
+            {
+              "label": "saline lavage of the cornea or cul-de-sac",
+              "children": [
+                {
+                  "label": "for debris that is not embedded"
+                },
+                {
+                  "label": "foreign body is suspected but not seen"
+                }
+              ]
+            },
+            {
+              "label": "sterile, disposable hypodermic needle",
+              "children": [
+                {
+                  "label": "for foreign matter embedded in tissue"
+                }
+              ]
+            },
+            {
+              "label": "fine-tipped jeweler’s forceps or blunt spatula",
+              "children": [
+                {
+                  "label": "for glass or particulate matter"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Conjunctival Laceration",
+      "children": [
+        {
+          "label": "physician must make certain that",
+          "children": [
+            {
+              "label": "the deeper structures of the eye have not been damaged"
+            },
+            {
+              "label": "no foreign body is present"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "explore under slit-lamp examination",
+              "children": [
+                {
+                  "label": "topical anesthetic"
+                },
+                {
+                  "label": "sterile forceps or cotton-tipped applicators"
+                }
+              ]
+            },
+            {
+              "label": "performing a peritomy in the operating room to better explore the injured area"
+            },
+            {
+              "label": "in general, conjunctival lacerations do not need to be sutured"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Corneal Abrasion",
+      "children": [
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "pain"
+            },
+            {
+              "label": "foreign-body sensation"
+            },
+            {
+              "label": "tearing"
+            },
+            {
+              "label": "discomfort with blinking"
+            }
+          ]
+        },
+        {
+          "label": "“clean” corneal abrasion",
+          "children": [
+            {
+              "label": "sharply defined edges"
+            },
+            {
+              "label": "little to no associated inflammation"
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "true corneal ulcer",
+              "children": [
+                {
+                  "label": "inflammation-mediated breakdown of the stromal matrix"
+                }
+              ]
+            },
+            {
+              "label": "Herpes simplex virus keratitis"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "evert the upper eyelid"
+            },
+            {
+              "label": "patching is not necessary for most abrasions",
+              "children": [
+                {
+                  "label": "may be uncomfortable"
+                }
+              ]
+            },
+            {
+              "label": "antibiotic ointment"
+            },
+            {
+              "label": "topical cycloplegia"
+            },
+            {
+              "label": "topical nonsteroidal anti-inflammatory agents",
+              "children": [
+                {
+                  "label": "have anesthetic properties"
+                },
+                {
+                  "label": "may be used for the first 24–48 hours for pain relief"
+                },
+                {
+                  "label": "can cause local toxicity"
+                }
+              ]
+            },
+            {
+              "label": "oral pain management for the first 24–48 hours"
+            },
+            {
+              "label": "therapeutic contact lens",
+              "children": [
+                {
+                  "label": "antibiotic prophylaxis"
+                },
+                {
+                  "label": "reserved for patients being closely observed"
+                }
+              ]
+            },
+            {
+              "label": "abrasions caused by organic material require close follow-up"
+            },
+            {
+              "label": "contact lens–associated epithelial defects",
+              "children": [
+                {
+                  "label": "topical antibiotic drops or ointment",
+                  "children": [
+                    {
+                      "label": "should never be patched or have a therapeutic contact lens"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "abrasions caused by fingernail or the edge of paper",
+              "children": [
+                {
+                  "label": "more prone to developing recurrent erosions"
+                },
+                {
+                  "label": "antibiotic ointment should be used nightly for ≥1 month after the abrasion has healed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Corneal Foreign Body",
+      "children": [
+        {
+          "label": "identify the probable composition of foreign body"
+        },
+        {
+          "label": "history of exposure to high-speed metallic foreign bodies",
+          "children": [
+            {
+              "label": "grinding tools",
+              "children": [
+                {
+                  "label": "increased risk of infection associated with vegetable matter!"
+                }
+              ]
+            },
+            {
+              "label": "metal-on-metal hammering"
+            },
+            {
+              "label": "r/o occult intraocular foreign bodies!",
+              "children": [
+                {
+                  "label": "computed tomography"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "assess the depth of corneal penetration",
+          "children": [
+            {
+              "label": "if anterior chamber extension is present or suspected",
+              "children": [
+                {
+                  "label": "remove in a sterile operating-room environment"
+                },
+                {
+                  "label": "aggressive attempts to remove deeply embedded foreign bodies at the slit lamp may result in leakage of aqueous humor (corneal perforation)",
+                  "children": [
+                    {
+                      "label": "tissue adhesive"
+                    },
+                    {
+                      "label": "surgical repair",
+                      "children": [
+                        {
+                          "label": "therapeutic bandage contact lens"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "several glass foreign bodies",
+          "children": [
+            {
+              "label": "exposed fragments should be removed"
+            },
+            {
+              "label": "careful gonioscopic evaluation",
+              "children": [
+                {
+                  "label": "deeply embedded fragments in the cornea are often inert and can be left in place"
+                },
+                {
+                  "label": "r/o iris/angle retained glass particles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "iron foreign body embedded in the cornea for >few hours",
+          "children": [
+            {
+              "label": "orange-brown “rust ring”"
+            },
+            {
+              "label": "corneal iron foreign bodies and rust rings can usually be removed at the slit lamp",
+              "children": [
+                {
+                  "label": "topical anesthesia"
+                },
+                {
+                  "label": "disposable (25- or 26-gauge) hypodermic needle"
+                },
+                {
+                  "label": "battery-powered dental burr with a sterile tip"
+                }
+              ]
+            },
+            {
+              "label": "metallic foreign body that enters the corneal stroma beyond the bowman layer",
+              "children": [
+                {
+                  "label": "always results in scar formation",
+                  "children": [
+                    {
+                      "label": "in the visual axis",
+                      "children": [
+                        {
+                          "label": "glare"
+                        },
+                        {
+                          "label": "decreased vision from irregular astigmatism"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "multiple, very small foreign bodies in the deep stroma without inflammation or infection",
+          "children": [
+            {
+              "label": "monitor closely"
+            }
+          ]
+        },
+        {
+          "label": "therapy following removal of a corneal foreign body",
+          "children": [
+            {
+              "label": "topical antibiotics"
+            },
+            {
+              "label": "cycloplegia"
+            },
+            {
+              "label": "firm pressure patch or bandage contact lens",
+              "children": [
+                {
+                  "label": "risk of infection is increased",
+                  "children": [
+                    {
+                      "label": "closely monitor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.13.7. Toxic & Traumatic Injuries (VII).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 196,
+      "connector_rejected": 6,
+      "connector_edges": 139,
+      "connector_width": 1.518,
+      "text_labels": 108,
+      "tree_nodes": 108,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7092,
+      "root_font_size": 4.3,
+      "warnings": []
+    }
+  }
+}

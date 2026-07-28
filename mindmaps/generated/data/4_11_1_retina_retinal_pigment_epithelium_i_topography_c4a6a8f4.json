@@ -1,0 +1,344 @@
+{
+  "label": "4.11.1. Retina & Retinal pigment Epithelium (I): Topography",
+  "root": true,
+  "children": [
+    {
+      "label": "Embryology",
+      "children": [
+        {
+          "label": "neurosensory retina",
+          "children": [
+            {
+              "label": "from inner layer of optic cup"
+            }
+          ]
+        },
+        {
+          "label": "RPE",
+          "children": [
+            {
+              "label": "from outer layer of optic cup",
+              "children": [
+                {
+                  "label": "neuroectoderm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "at ora",
+      "children": [
+        {
+          "label": "neurosensory retina",
+          "children": [
+            {
+              "label": "continuous with nonpigmented ciliary epiethlium"
+            }
+          ]
+        },
+        {
+          "label": "RPE",
+          "children": [
+            {
+              "label": "continuous with pigmented ciliary epiethlium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Macula",
+      "children": [
+        {
+          "label": "definition",
+          "children": [
+            {
+              "label": "histologic",
+              "children": [
+                {
+                  "label": "highest concentration of cones",
+                  "children": [
+                    {
+                      "label": "ganglion cell layer>1 cell layer"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "area bound by temporal vascular arcades"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "subdivisions",
+          "children": [
+            {
+              "label": "foveola",
+              "children": [
+                {
+                  "label": "only photoreceptors"
+                }
+              ]
+            },
+            {
+              "label": "fovea",
+              "children": [
+                {
+                  "label": "1.5 mm",
+                  "children": [
+                    {
+                      "label": "contains only cones"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "parafovea",
+              "children": [
+                {
+                  "label": "0.5 m"
+                }
+              ]
+            },
+            {
+              "label": "perifovea",
+              "children": [
+                {
+                  "label": "1.5 mm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "oblique outer plexiform layer (Henle)",
+          "children": [
+            {
+              "label": "flower-petal appearance of cystoid macular edema"
+            },
+            {
+              "label": "star-shaped configuration of hard exudates"
+            }
+          ]
+        },
+        {
+          "label": "xanthophyll pigment",
+          "children": [
+            {
+              "label": "macula lutea"
+            },
+            {
+              "label": "dissolves during tissue processing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "9 layers of neurosensory retina",
+      "children": [
+        {
+          "label": "internal limiting membrane",
+          "children": [
+            {
+              "label": "true basement membrane"
+            },
+            {
+              "label": "synthetized by Muller cells"
+            }
+          ]
+        },
+        {
+          "label": "nerve fiber layer",
+          "children": [
+            {
+              "label": "runs horizontally",
+              "children": [
+                {
+                  "label": "feathery hemorrhages"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ganglion cell layer"
+        },
+        {
+          "label": "inner plexiform layer"
+        },
+        {
+          "label": "inner nuclear layer"
+        },
+        {
+          "label": "outer plexiform layer"
+        },
+        {
+          "label": "outer nuclear layer",
+          "children": [
+            {
+              "label": "nuclei of photoreceptors"
+            }
+          ]
+        },
+        {
+          "label": "external limiting membrane",
+          "children": [
+            {
+              "label": "not true membrane"
+            },
+            {
+              "label": "desmosomes between Muller cells and photoreceptors"
+            }
+          ]
+        },
+        {
+          "label": "photoreceptors",
+          "children": [
+            {
+              "label": "inner & outer segments of rods/cones"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "RPE",
+      "children": [
+        {
+          "label": "anatomy",
+          "children": [
+            {
+              "label": "monolayer of hexagonal cells",
+              "children": [
+                {
+                  "label": "taller, narrower, and more pigmented in macula"
+                }
+              ]
+            },
+            {
+              "label": "apical microvilli"
+            },
+            {
+              "label": "basement membrane"
+            },
+            {
+              "label": "cytoplasmic pigment",
+              "children": [
+                {
+                  "label": "increases with aging",
+                  "children": [
+                    {
+                      "label": "especially lipofuscin"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "functions",
+          "children": [
+            {
+              "label": "vitamin A metabolism"
+            },
+            {
+              "label": "outer blood-retina barrier"
+            },
+            {
+              "label": "phagocytosis of photoreceptor outer segments"
+            },
+            {
+              "label": "light absorption"
+            },
+            {
+              "label": "heat exchange"
+            },
+            {
+              "label": "formation of basal lamina of inner portion of Bruch membrane"
+            },
+            {
+              "label": "mucopolysaccharide matrix around photoreceptor outer segments"
+            },
+            {
+              "label": "active transport of material into and out of subretinal space"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "blood supply of neurosensory retina",
+      "children": [
+        {
+          "label": "retinal blood vessels",
+          "children": [
+            {
+              "label": "NFL"
+            },
+            {
+              "label": "ganglion cell layer"
+            },
+            {
+              "label": "inner plexiform layer"
+            }
+          ]
+        },
+        {
+          "label": "choroidal vasculature",
+          "children": [
+            {
+              "label": "outer 1/3 of inner nuclear layer",
+              "children": [
+                {
+                  "label": "inner 2/3 of inner nuclear layer"
+                }
+              ]
+            },
+            {
+              "label": "outer plexiform layer"
+            },
+            {
+              "label": "outer nuclear layer"
+            },
+            {
+              "label": "photoreceptors"
+            },
+            {
+              "label": "RPE"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.11.1. Retina & Retinal pigment Epithelium (I) - Topography.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 157,
+      "connector_rejected": 6,
+      "connector_edges": 100,
+      "connector_width": 2.341,
+      "text_labels": 83,
+      "tree_nodes": 83,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6369,
+      "root_font_size": 7.805,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "label": "Retinal Degeneration With Systemic Involvement II",
+  "root": true,
+  "children": [
+    {
+      "label": "Liver disease",
+      "children": [
+        {
+          "label": "Alagille syndrome",
+          "children": [
+            {
+              "label": "hepatorenal abnormalities",
+              "children": [
+                {
+                  "label": "cholestatic jaundice"
+                }
+              ]
+            },
+            {
+              "label": "characteristic ocular findings",
+              "children": [
+                {
+                  "label": "pigmentary retinopathy",
+                  "children": [
+                    {
+                      "label": "peripapillary and macular predilection"
+                    }
+                  ]
+                },
+                {
+                  "label": "posterior embryotoxon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Neuromuscular Disorders",
+      "children": [
+        {
+          "label": "ERG abnormalities",
+          "children": [
+            {
+              "label": "not diagnostic for any particular disorder"
+            }
+          ]
+        },
+        {
+          "label": "Myotonic dystrophy",
+          "children": [
+            {
+              "label": "muscle wasting"
+            },
+            {
+              "label": "Christmas tree cataract"
+            },
+            {
+              "label": "pigmentary retinopathy"
+            },
+            {
+              "label": "ERG abnormalities"
+            }
+          ]
+        },
+        {
+          "label": "Charcot-Marie-Tooth disease",
+          "children": [
+            {
+              "label": "pigmentary retinopathy"
+            },
+            {
+              "label": "degeneration of lateral horns of spinal cord",
+              "children": [
+                {
+                  "label": "similar to CSNB"
+                }
+              ]
+            },
+            {
+              "label": "optic atrophy"
+            }
+          ]
+        },
+        {
+          "label": "Duchenne muscular dystrophy",
+          "children": [
+            {
+              "label": "does not cause a pigmentary retinopathy"
+            },
+            {
+              "label": "ERG",
+              "children": [
+                {
+                  "label": "negative waveform",
+                  "children": [
+                    {
+                      "label": "normal a-wave with reduced b-wave"
+                    },
+                    {
+                      "label": "suggests a defective “on-response” pathway",
+                      "children": [
+                        {
+                          "label": "do not have night blindness"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "dystrophin gene mutation",
+              "children": [
+                {
+                  "label": "dystrophin protein is found in muscle, neural synaptic regions, and in the retina"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Gastrointestinal disease",
+      "children": [
+        {
+          "label": "Familial adenomatous polyposis (Gardner syndrome)",
+          "children": [
+            {
+              "label": "autosomal dominant",
+              "children": [
+                {
+                  "label": "mutations in the adenomatous polyposis (APC) gene"
+                },
+                {
+                  "label": "incomplete expression"
+                }
+              ]
+            },
+            {
+              "label": "pigmented lesions similar to CHRPE",
+              "children": [
+                {
+                  "label": "smaller"
+                },
+                {
+                  "label": "ovoid"
+                },
+                {
+                  "label": "more variegated"
+                },
+                {
+                  "label": "multiple & bilateral",
+                  "children": [
+                    {
+                      "label": ".> 4 widely spaced, small (<0.5 disc-diameter) lesions per eye & bilateral involvement suggest FAP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Dermatologic diseases",
+      "children": [
+        {
+          "label": "ichtyosis",
+          "children": [
+            {
+              "label": "abnormal scaling, dryness, and tightness of the skin"
+            },
+            {
+              "label": "Refsum disease",
+              "children": [
+                {
+                  "label": "pigmentary retinopathy",
+                  "children": [
+                    {
+                      "label": "important marker for identifying family members at risk of colonic polyps, which have a high malignant potential"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Sjogren-Larsson syndrome",
+              "children": [
+                {
+                  "label": "crystalline maculopathy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "incontinentia pigmenti",
+          "children": [
+            {
+              "label": "x-linked dominant",
+              "children": [
+                {
+                  "label": "lethal in male fetus"
+                },
+                {
+                  "label": "female patient",
+                  "children": [
+                    {
+                      "label": "streaky skin lesions"
+                    },
+                    {
+                      "label": "CNS involvement"
+                    },
+                    {
+                      "label": "teeth involvement"
+                    },
+                    {
+                      "label": "ocular involvement",
+                      "children": [
+                        {
+                          "label": "1/3"
+                        },
+                        {
+                          "label": "pigmentary abnormality"
+                        },
+                        {
+                          "label": "peripheral retinal non perfusion",
+                          "children": [
+                            {
+                              "label": "retinal neovascularization"
+                            },
+                            {
+                              "label": "tractional retinal detachment"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pseudoxanthoma elasticum",
+          "children": [
+            {
+              "label": "“plucked-chicken” skin appearance"
+            },
+            {
+              "label": "angioid streaks"
+            },
+            {
+              "label": "peau d'orange appearance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Renal diseases",
+      "children": [
+        {
+          "label": "Familial juvenile nephronophthisis",
+          "children": [
+            {
+              "label": "a form of renal-retinal dysplasia (and ciliopathy)"
+            },
+            {
+              "label": "autosomal recessive"
+            },
+            {
+              "label": "childhood onset of end-stage renal disease"
+            },
+            {
+              "label": "pigmentary retinal degeneration",
+              "children": [
+                {
+                  "label": "+- sectorial"
+                }
+              ]
+            },
+            {
+              "label": "+- bony growth plate abnormality",
+              "children": [
+                {
+                  "label": "shortness of stature"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Joubert syndrome",
+          "children": [
+            {
+              "label": "cerebellar malformation",
+              "children": [
+                {
+                  "label": "characteristic “molar tooth” deformity on MRI of brain"
+                }
+              ]
+            },
+            {
+              "label": "chorioretinal coloboma"
+            }
+          ]
+        },
+        {
+          "label": "Bardet-Biedl syndrome",
+          "children": [
+            {
+              "label": "urethral reflux with pyelonephritis"
+            }
+          ]
+        },
+        {
+          "label": "Alström syndrome",
+          "children": [
+            {
+              "label": "retinal ciliopathy"
+            },
+            {
+              "label": "obesity"
+            },
+            {
+              "label": "short stature"
+            },
+            {
+              "label": "renal disease"
+            },
+            {
+              "label": "cardiomyopathy"
+            }
+          ]
+        },
+        {
+          "label": "Jeune syndrome",
+          "children": [
+            {
+              "label": "retinal ciliopathy"
+            },
+            {
+              "label": "cystic kidney disease"
+            },
+            {
+              "label": "asphyxiating thoracic dystrophy"
+            }
+          ]
+        },
+        {
+          "label": "type II membranoproliferative glomerulonephritis",
+          "children": [
+            {
+              "label": "drusen-like deposits throughout fundus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Dental disease",
+      "children": [
+        {
+          "label": "Amelogenesis imperfecta",
+          "children": [
+            {
+              "label": "genetic disease"
+            },
+            {
+              "label": "defective enamel production"
+            },
+            {
+              "label": "Jalili syndrome",
+              "children": [
+                {
+                  "label": "cone–rod dystrophy",
+                  "children": [
+                    {
+                      "label": "pigmentary retinopathy"
+                    }
+                  ]
+                },
+                {
+                  "label": "macular coloboma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Retinal Degeneration With Systemic Involvement II.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 166,
+      "connector_rejected": 0,
+      "connector_edges": 120,
+      "connector_width": 0.687,
+      "text_labels": 102,
+      "tree_nodes": 102,
+      "component_roots": 6,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.7229,
+      "root_font_size": 4.812,
+      "warnings": []
+    }
+  }
+}

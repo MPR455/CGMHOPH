@@ -1,0 +1,285 @@
+{
+  "label": "11.3.3. Developmental Defects (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Congenital Aphakia",
+      "children": [
+        {
+          "label": "very rare"
+        },
+        {
+          "label": "usually associated with other malformations"
+        },
+        {
+          "label": "primary aphakia",
+          "children": [
+            {
+              "label": "lens placode fails to form"
+            }
+          ]
+        },
+        {
+          "label": "secondary aphakia",
+          "children": [
+            {
+              "label": "developing lens is spontaneously absorbed"
+            },
+            {
+              "label": "more common type"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Peters anomaly",
+      "children": [
+        {
+          "label": "absence of separation of lens vesicle from the surface ectoderm"
+        },
+        {
+          "label": "anterior segment dysgenesis syndrome"
+        },
+        {
+          "label": "mutation in genes normally involved in anterior segment development",
+          "children": [
+            {
+              "label": "PAX6, PITX2, FOXC1, CYP1B1"
+            }
+          ]
+        },
+        {
+          "label": "central or paracentral corneal opacity (leukoma)"
+        },
+        {
+          "label": "thinning or absence of adjacent endothelium and descemet membrane"
+        },
+        {
+          "label": "associated lens anomalies",
+          "children": [
+            {
+              "label": "adhesions between lens and cornea"
+            },
+            {
+              "label": "anterior cortical or polar cataract"
+            },
+            {
+              "label": "a misshapen lens displaced anteriorly into the pupillary space and the anterior chamber"
+            },
+            {
+              "label": "microspherophakia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lens Coloboma",
+      "children": [
+        {
+          "label": "indentation/flattening of the lens periphery"
+        },
+        {
+          "label": "2 types",
+          "children": [
+            {
+              "label": "primary coloboma",
+              "children": [
+                {
+                  "label": "isolated anomaly"
+                }
+              ]
+            },
+            {
+              "label": "secondary coloboma",
+              "children": [
+                {
+                  "label": "caused by the lack of ciliary body or zonular development"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "typically located inferiorly"
+        },
+        {
+          "label": "zonular attachments in the region of the coloboma usually are weakened or absent"
+        },
+        {
+          "label": "+- colobomas of the uvea"
+        },
+        {
+          "label": "+- cortical lens opacification or thickening of the lens capsule adjacent to the coloboma"
+        }
+      ]
+    },
+    {
+      "label": "Mittendorf Dot",
+      "children": [
+        {
+          "label": "in many healthy eyes"
+        },
+        {
+          "label": "remnant of the posterior pupillary membrane",
+          "children": [
+            {
+              "label": "where the hyaloid artery came into contact with the posterior surface of the lens"
+            }
+          ]
+        },
+        {
+          "label": "small, dense white spot",
+          "children": [
+            {
+              "label": "inferonasal to the posterior pole of the lens"
+            },
+            {
+              "label": "+- fibrous tail or remnant of the hyaloid artery projecting into the vitreous body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Aniridia",
+      "children": [
+        {
+          "label": "partial or nearly complete absence of the iris"
+        },
+        {
+          "label": "Associated findings",
+          "children": [
+            {
+              "label": "corneal pannus and epitheliopathy"
+            },
+            {
+              "label": "glaucoma"
+            },
+            {
+              "label": "foveal and optic nerve hypoplasia"
+            },
+            {
+              "label": "nystagmus"
+            },
+            {
+              "label": "cataract",
+              "children": [
+                {
+                  "label": "anterior and posterior polar lens opacities",
+                  "children": [
+                    {
+                      "label": "present at birth"
+                    }
+                  ]
+                },
+                {
+                  "label": "cortical, subcapsular, and lamellar opacities",
+                  "children": [
+                    {
+                      "label": "develop in 50%–85%"
+                    },
+                    {
+                      "label": "within the first 2 decades"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ectopia lentis",
+              "children": [
+                {
+                  "label": "poor zonular integrity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "familial",
+              "children": [
+                {
+                  "label": "2/3"
+                },
+                {
+                  "label": "AD",
+                  "children": [
+                    {
+                      "label": "PAX6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "sporadic",
+              "children": [
+                {
+                  "label": "1/3"
+                },
+                {
+                  "label": "associated with a high incidence of Wilms tumor",
+                  "children": [
+                    {
+                      "label": "WAGR complex",
+                      "children": [
+                        {
+                          "label": "Wilms tumor, aniridia, genitourinary malformations, and mental retardation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Epicapsular star",
+      "children": [
+        {
+          "label": "common remnant of the tunica vasculosa lentis"
+        },
+        {
+          "label": "unilateral or bilateral"
+        },
+        {
+          "label": "tiny brown or golden flecks",
+          "children": [
+            {
+              "label": "star-shaped"
+            },
+            {
+              "label": "on the central anterior lens capsule"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.3.3. Developmental Defects (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 66,
+      "connector_rejected": 3,
+      "connector_edges": 63,
+      "connector_width": 1.832,
+      "text_labels": 70,
+      "tree_nodes": 70,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9545,
+      "root_font_size": 5.801,
+      "warnings": []
+    }
+  }
+}

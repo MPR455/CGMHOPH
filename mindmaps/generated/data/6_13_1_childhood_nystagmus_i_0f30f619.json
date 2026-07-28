@@ -1,0 +1,475 @@
+{
+  "label": "6.13.1. Childhood Nystagmus (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "evaluation",
+      "children": [
+        {
+          "label": "history",
+          "children": [
+            {
+              "label": "transmission",
+              "children": [
+                {
+                  "label": "sporadic"
+                },
+                {
+                  "label": "familial",
+                  "children": [
+                    {
+                      "label": "autosomal dominant"
+                    },
+                    {
+                      "label": "autosomal recessive"
+                    },
+                    {
+                      "label": "x-linked"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "perinatal events",
+              "children": [
+                {
+                  "label": "labor and delivery"
+                },
+                {
+                  "label": "maternal infections"
+                },
+                {
+                  "label": "prematurity"
+                },
+                {
+                  "label": "for children >3 months old",
+                  "children": [
+                    {
+                      "label": "parental observations about",
+                      "children": [
+                        {
+                          "label": "head tilts"
+                        },
+                        {
+                          "label": "head movements"
+                        },
+                        {
+                          "label": "gaze preference"
+                        },
+                        {
+                          "label": "viewing distances"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "associated ocular conditions",
+              "children": [
+                {
+                  "label": "congenital cataract"
+                },
+                {
+                  "label": "congenital glaucoma"
+                },
+                {
+                  "label": "iridocorneal dysgenesis"
+                },
+                {
+                  "label": "Leber congenital amaurosis"
+                },
+                {
+                  "label": "retinopathy of prematurity"
+                },
+                {
+                  "label": "FEVR"
+                },
+                {
+                  "label": "Norrie disease"
+                },
+                {
+                  "label": "retinoblastoma"
+                },
+                {
+                  "label": "albinism"
+                },
+                {
+                  "label": "optic nerve hypoplasia"
+                },
+                {
+                  "label": "infectious diseases"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular examination",
+          "children": [
+            {
+              "label": "visual acuity",
+              "children": [
+                {
+                  "label": "patients with nystagmus and nearly normal visual acuity usually have congenital motor nystagmus",
+                  "children": [
+                    {
+                      "label": "benign"
+                    }
+                  ]
+                },
+                {
+                  "label": "markedly decreased visual acuity usually implies either retinal or optic nerve abnormalities"
+                },
+                {
+                  "label": "monocular visual acuity should be tested with fogging",
+                  "children": [
+                    {
+                      "label": "monocular occlusion may increase nystagmus intensity!"
+                    }
+                  ]
+                },
+                {
+                  "label": "binocular visual acuity should be measured at distance and near with any desired head position"
+                },
+                {
+                  "label": "near visual acuity is usually better than distance"
+                },
+                {
+                  "label": "preverbal children",
+                  "children": [
+                    {
+                      "label": "optokinetic nystagmus (okn) drum",
+                      "children": [
+                        {
+                          "label": "if vertical rotation elicits a vertical nystagmus superimposed on the child’s underlying nystagmus, visual acuity is usually ≥20/400"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "preferential looking tests",
+                      "children": [
+                        {
+                          "label": "Teller acuity cards II",
+                          "children": [
+                            {
+                              "label": "in patients with a horizontal nystagmus, the response can be more easily observed with the card held vertically"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pupils",
+              "children": [
+                {
+                  "label": "sluggish or absent response to light"
+                },
+                {
+                  "label": "afferent defect"
+                },
+                {
+                  "label": "paradoxical pupil constriction in reaction to darkness"
+                },
+                {
+                  "label": "pupil responses can be normal in mild abnormalities",
+                  "children": [
+                    {
+                      "label": "foveal hypoplasia"
+                    },
+                    {
+                      "label": "achromatopsia"
+                    },
+                    {
+                      "label": "primary motor nystagmus"
+                    }
+                  ]
+                },
+                {
+                  "label": "anatomical structure",
+                  "children": [
+                    {
+                      "label": "iris colobomas",
+                      "children": [
+                        {
+                          "label": "suggest optic nerve or retinal colobomas"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "aniridia",
+                      "children": [
+                        {
+                          "label": "foveal hypoplasia"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "iris transillumination",
+                      "children": [
+                        {
+                          "label": "sign of albinism",
+                          "children": [
+                            {
+                              "label": "foveal hypoplasia"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "optic nerve or retinal dysfunction"
+                }
+              ]
+            },
+            {
+              "label": "ocular motility",
+              "children": [
+                {
+                  "label": "may have strabismus for several reasons",
+                  "children": [
+                    {
+                      "label": "poor vision"
+                    },
+                    {
+                      "label": "damping of the nystagmus by converging"
+                    },
+                    {
+                      "label": "latent nystagmus secondary to strabismus",
+                      "children": [
+                        {
+                          "label": "children with manifest latent nystagmus",
+                          "children": [
+                            {
+                              "label": "often fixate with the preferred eye in adduction"
+                            },
+                            {
+                              "label": "turn their heads to cross-fixate",
+                              "children": [
+                                {
+                                  "label": "look to the right with the left eye, to the left with the right eye"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fundus",
+              "children": [
+                {
+                  "label": "optic nerve hypoplasia"
+                },
+                {
+                  "label": "foveal hypoplasia"
+                },
+                {
+                  "label": "fundus may appear normal or there may be only subtle retinal pigmentary changes",
+                  "children": [
+                    {
+                      "label": "electrophysiologic testing may be necessary"
+                    },
+                    {
+                      "label": "differential diagnosis of decreased vision with minimal fundus changes",
+                      "children": [
+                        {
+                          "label": "electrophysiologic testing may be necessary"
+                        },
+                        {
+                          "label": "Leber congenital amaurosis"
+                        },
+                        {
+                          "label": "achromatopsia"
+                        },
+                        {
+                          "label": "blue-cone monochromatism"
+                        },
+                        {
+                          "label": "congenital stationary night blindness"
+                        },
+                        {
+                          "label": "foveal hypoplasia"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "general features",
+      "children": [
+        {
+          "label": "prevalence in young children",
+          "children": [
+            {
+              "label": "0.35%"
+            }
+          ]
+        },
+        {
+          "label": "involuntary, rhythmic oscillation of the eyes"
+        },
+        {
+          "label": "classification",
+          "children": [
+            {
+              "label": "symmetry",
+              "children": [
+                {
+                  "label": "pendular nystagmus",
+                  "children": [
+                    {
+                      "label": "equal velocity in each direction"
+                    }
+                  ]
+                },
+                {
+                  "label": "jerk nystagmus",
+                  "children": [
+                    {
+                      "label": "unequal velocity in different directions"
+                    },
+                    {
+                      "label": "fast component defines the direction of the nystagmus"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "direction",
+              "children": [
+                {
+                  "label": "horizontal"
+                },
+                {
+                  "label": "vertical"
+                },
+                {
+                  "label": "torsional"
+                },
+                {
+                  "label": "combination"
+                }
+              ]
+            },
+            {
+              "label": "frequency"
+            },
+            {
+              "label": "amplitude"
+            },
+            {
+              "label": "intensity"
+            }
+          ]
+        },
+        {
+          "label": "characteristics of nystagmus may change with gaze direction",
+          "children": [
+            {
+              "label": "pendular nystagmus can become jerk nystagmus on extreme gaze"
+            },
+            {
+              "label": "gaze position can affect amplitude and frequency (intensity) of nystagmus",
+              "children": [
+                {
+                  "label": "especially true of jerk nystagmus",
+                  "children": [
+                    {
+                      "label": "can decrease in intensity with gaze opposite the fast-phase component"
+                    },
+                    {
+                      "label": "null point",
+                      "children": [
+                        {
+                          "label": "gaze position in which intensity of oscillations is diminished and visual acuity improves"
+                        },
+                        {
+                          "label": "abnormal head position"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "nomenclature",
+          "children": [
+            {
+              "label": "committee for the classification of eye movement abnormalities and strabismus (CEMAS)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Arnold-Chiari type I malformation",
+      "children": [
+        {
+          "label": "dysfunction of the cerebellar nodulus and uvula",
+          "children": [
+            {
+              "label": "PAN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "congenital aqueductal stenosis",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "Conv-retraction syndrome"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "pinealoma"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Ped ophthalmology/6.13.1. Childhood Nystagmus (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 115,
+      "connector_rejected": 0,
+      "connector_edges": 115,
+      "connector_width": 0.915,
+      "text_labels": 120,
+      "tree_nodes": 120,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 1.0,
+      "root_font_size": 2.592,
+      "warnings": []
+    }
+  }
+}

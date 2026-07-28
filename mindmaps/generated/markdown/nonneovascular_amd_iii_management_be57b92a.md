@@ -1,0 +1,134 @@
+---
+title: "Nonneovascular AMD (III): Management"
+category: "Retina"
+subcategory: ""
+source_pdf: "MindmapPDF/Retina/Nonneovascular AMD (III) - Management.pdf"
+---
+
+# Nonneovascular AMD (III): Management
+
+## Hierarchy
+
+- education & follow-up
+  - educate high risk patients about symptoms of advanced AMD
+  - educate office staff to respond promptly to patients with new symptoms
+  - periodic examinations
+- Amsler grid
+  - each eye tested individually with reading glasses and at reading distance
+  - online or smart-phone applications
+    - allow instant uploading
+- Hyperacuity testing
+  - Vernier acuity
+    - ability to detect deviations in alignment of visual objects
+  - Hyperacuity
+    - ability to discern minute deviations on a line
+  - preferential hyperacuity perimeter (PHP)
+    - can detect recent-onset CNV in intermediate AMD patients
+      - high specificity (88%)
+      - high sensitivity (82%)
+  - Shape-discrimination hyperacuity (SDH)
+    - tests for discrimination of shapes
+      - perfect circle vs distorted circle
+    - handheld SDH test can be implemented as a smartphone application
+- micronutrients
+  - AREDS
+    - formula
+      - vitamins C (500 mg)
+      - vitamin E (400 IU)
+      - beta carotene (15 mg)
+        - increases rate of lung cancer in current smokers
+      - micronutrient zinc (80 mg zinc oxide and 2 mg cupric oxide to prevent zinc-induced anemia)
+    - participants
+      - patients with intermediate or advanced AMD
+        - intermediate (stage 3) AMD
+          - ≥ 1 large druse (≥125 μm), extensive intermediate drusen (63–124 μm diameter), or nonsubfoveal GA
+        - advanced (stage 4) AMD
+          - vision loss due to neovascular AMD or subfoveal GA in only 1 eye
+    - results
+      - 25% reduction for progression of intermediate or advanced AMD to more-advanced stages
+        - at 5 years
+          - at 10 years
+      - 19% reduction of moderate vision loss (≥3 lines of visual acuity)
+      - 44% of placebo recipients compared with 34% of the supplement recipients had advanced AMD (a 23% risk reduction)
+      - no benefit in participants with no AMD or with only early-stage AMD (a few small drusen)
+      - no increased mortality among patients taking the formula
+    - 4-point grading scale
+      - presence of ≥1 large (≥ 125-μm diameter) drusen (1 point)
+      - presence of any pigment abnormalities (1 point)
+      - for patients with no large drusen, presence of bilateral intermediate (63–124 μm) drusen (1 point)
+      - presence of neovascular AMD (2 points)
+      - development of advanced AMD (5- and 10-year risks)
+        - 0 factors
+          - 0.5%
+            - risk factors were totaled across both eyes to reach a number between 0 and 4
+          - 1%
+        - 1 factor
+          - 3%
+          - 7%
+        - 2 factors
+          - 12%
+          - 22%
+        - 3 factors
+          - 25%
+          - 50%
+        - 4 factors
+          - 50%
+          - 67%
+    - AREDS group recommendations
+      - identify patients at high risk of AMD progression
+        - extensive intermediate drusen
+        - ≥1 large druse
+        - noncentral geographic atrophy
+        - advanced AMD in 1 eye
+      - consider supplementation with combined antioxidant & mineral
+        - avoid beta carotene in patients who smoke
+      - early AMD
+        - supplementation not shown to be beneficial
+      - no AMD but at high risk of AMD
+        - supplementation not tested
+        - maintain balanced diet
+        - avoid risk factors
+  - AREDS 2
+    - methods
+      - added omega-3 long-chain polyunsaturated fatty acids (LCPUFAs: docosahexaenoic acid [DHA] and eicosapentaenoic acid [EPA])
+      - replaced beta carotene with xanthophylls (lutein and zeaxanthin)
+    - results
+      - overall risk reduction similar to the original AREDS study
+      - addition of LCPUFAs did not decrease the rate of progression to advanced AMD
+      - lutein and zeaxanthin had similar effects to beta carotene, but without its increased risk for lung cancer in current and former smokers
+      - confirmed 80 mg of zinc as an appropriate dose for AMD prophylaxis
+    - formula
+      - vitamins C (500 mg)
+      - vitamin E (400 IU)
+      - lutein (10 mg)
+      - zeaxanthin (2 mg)
+      - zinc (80 mg)
+      - micronutrient zinc (80 mg)
+    - recommendation
+      - patients with stage 3 or 4 AMD are advised to take the AREDS2 supplement.
+      - intermediate (stage 3) AMD
+        - ≥ 1 large druse (≥125 μm), extensive intermediate drusen (63–124 μm diameter), or nonsubfoveal GA
+      - advanced (stage 4) AMD
+        - vision loss due to neovascular AMD or subfoveal GA in only 1 eye
+- lifestyle changes
+  - smoking cessation
+  - blood pressure control
+  - obesity reduction
+  - no studies have proven a relationship between UV light and AMD
+- experimental treatments
+  - anecortave acetate
+    - angiostatic steroid
+    - posterior sub-Tenon injection
+  - ciliary neurotrophic factor
+    - encapsulated cell intraocular implant
+- Disproven treatment approaches
+  - macular laser photocoagulation
+    - stimulates drusen resolution or reduction
+    - no associated change in the natural course of vision loss or CNV development
+  - rheopheresis
+    - extracorporeal blood filtration TO remove circulating macromolecules
+      - decreases blood & plasma viscosity
+    - no benefit over sham treatment at 12 months
+  - Lampalizumab (anti-factor D)
+    - selectively inhibits activation of the alternative complement pathway
+    - not effective in preventing AMD progression

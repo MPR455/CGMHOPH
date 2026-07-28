@@ -1,0 +1,447 @@
+{
+  "label": "Basal Cell Carcinoma (BCC)",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "elderly woman with slowly enlarging and raised nodule of her eyelid"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course"
+            },
+            {
+              "label": "pain"
+            },
+            {
+              "label": "double vision"
+            },
+            {
+              "label": "bleeding"
+            },
+            {
+              "label": "sun exposure"
+            },
+            {
+              "label": "prior radiation"
+            },
+            {
+              "label": "skin lesions elsewhere"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "lid exam",
+              "children": [
+                {
+                  "label": "central ulceration"
+                },
+                {
+                  "label": "telangiectasia"
+                },
+                {
+                  "label": "lash loss"
+                }
+              ]
+            },
+            {
+              "label": "orbital signs",
+              "children": [
+                {
+                  "label": "2%–4% incidence of orbital invasion"
+                }
+              ]
+            },
+            {
+              "label": "lymph node exam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "orbital imaging",
+          "children": [
+            {
+              "label": "if orbital signs"
+            },
+            {
+              "label": "if in medial canthus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "BCC"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "topical imiquimod (Aldara)"
+            },
+            {
+              "label": "oral vismodegib or sonidegib",
+              "children": [
+                {
+                  "label": "for advanced orbital infiltrative BCC not amenable to surgical resection or radiation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "treatment of choice for eyelid basal cell carcinomas"
+            },
+            {
+              "label": "incisional biopsy",
+              "children": [
+                {
+                  "label": "to confirm diagnosis when",
+                  "children": [
+                    {
+                      "label": "tumor involves eyelid margin"
+                    },
+                    {
+                      "label": "tumor involves medial canthus"
+                    },
+                    {
+                      "label": "tumor is especially large"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "excisional biopsy",
+              "children": [
+                {
+                  "label": "full-thickness margin wedge resection"
+                },
+                {
+                  "label": "evaluation of tumor margins",
+                  "children": [
+                    {
+                      "label": "with frozen sections"
+                    },
+                    {
+                      "label": "Moh's technique"
+                    }
+                  ]
+                },
+                {
+                  "label": "lid reconstruction",
+                  "children": [
+                    {
+                      "label": "only if margins clear"
+                    }
+                  ]
+                },
+                {
+                  "label": "lacrimal drainage system excision",
+                  "children": [
+                    {
+                      "label": "for basal cell carcinomas that involve the medial canthal area",
+                      "children": [
+                        {
+                          "label": "reconstruction of the lacrimal outflow system is not undertaken until the patient is tumor free"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "exenteration",
+              "children": [
+                {
+                  "label": "for orbital invasion"
+                }
+              ]
+            },
+            {
+              "label": "cryotherapy",
+              "children": [
+                {
+                  "label": "for patients who are poor surgical candidates"
+                }
+              ]
+            },
+            {
+              "label": "radiation",
+              "children": [
+                {
+                  "label": "palliative and should generally be avoided for periorbital lesions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Referrals",
+          "children": [
+            {
+              "label": "refer to dermatologist",
+              "children": [
+                {
+                  "label": "full body exam"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "BCC",
+          "children": [
+            {
+              "label": "most common middle-aged/elderly",
+              "children": [
+                {
+                  "label": "90%–95% of malignant eyelid tumors",
+                  "children": [
+                    {
+                      "label": "lid margin lesion with elevated, rolled edges, central ulceration, and lash loss"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lower lid, medial canthus"
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "nodular",
+                  "children": [
+                    {
+                      "label": "telangiectasia"
+                    },
+                    {
+                      "label": "central ulceration"
+                    }
+                  ]
+                },
+                {
+                  "label": "morpheaform",
+                  "children": [
+                    {
+                      "label": "indistinct borders"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic conditions",
+              "children": [
+                {
+                  "label": "xeroderma pigmentosum",
+                  "children": [
+                    {
+                      "label": "rare"
+                    },
+                    {
+                      "label": "autosomal recessive"
+                    },
+                    {
+                      "label": "extreme sun sensitivity"
+                    },
+                    {
+                      "label": "defective repair mechanism for UV light–induced DNA damage in skin cells",
+                      "children": [
+                        {
+                          "label": "similar to Muir/Torre syndrome"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "basal cell nevus syndrome (Gorlin syndrome)",
+                  "children": [
+                    {
+                      "label": "autosomal dominant"
+                    },
+                    {
+                      "label": "multiple nevoid basal cell carcinomas",
+                      "children": [
+                        {
+                          "label": "appear early in life"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "skeletal anomalies",
+                      "children": [
+                        {
+                          "label": "mandible"
+                        },
+                        {
+                          "label": "maxilla"
+                        },
+                        {
+                          "label": "vertebrae"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Muir-Torre syndrome",
+                  "children": [
+                    {
+                      "label": "autosomal dominant"
+                    },
+                    {
+                      "label": "multiple acquired",
+                      "children": [
+                        {
+                          "label": "sebaceous adenomas"
+                        },
+                        {
+                          "label": "sebaceous hyperplasia"
+                        },
+                        {
+                          "label": "basal cell carcinomas with sebaceous differentiation"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "increased incidence of visceral malignancy",
+                      "children": [
+                        {
+                          "label": "especially colorectal"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "SCC"
+        },
+        {
+          "label": "sebaceous cell carcinoma"
+        },
+        {
+          "label": "molluscum contagiosum"
+        },
+        {
+          "label": "amelanotic nevus"
+        },
+        {
+          "label": "hordeolum/chalazion"
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "discuss risk of future lid lesions"
+            }
+          ]
+        },
+        {
+          "label": "Dos",
+          "children": [
+            {
+              "label": "suggest sun protection",
+              "children": [
+                {
+                  "label": "skin"
+                },
+                {
+                  "label": "eye"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "good prognosis with complete resection"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "1 wk, 1 mo after surgery",
+              "children": [
+                {
+                  "label": "q 3-4 mo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Basal Cell Carcinoma (BCC).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 184,
+      "connector_rejected": 12,
+      "connector_edges": 130,
+      "connector_width": 1.338,
+      "text_labels": 110,
+      "tree_nodes": 110,
+      "component_roots": 7,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.7065,
+      "root_font_size": 6.246,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "label": "9.10.3. Complications of Uveitis (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Retinal and Choroidal Neovascularization",
+      "children": [
+        {
+          "label": "retinal neovascularization",
+          "children": [
+            {
+              "label": "most often associated with",
+              "children": [
+                {
+                  "label": "pars planitis"
+                },
+                {
+                  "label": "sarcoid panuveitis"
+                }
+              ]
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "chronic inflammation",
+                  "children": [
+                    {
+                      "label": "retinal vasculitis of various causes, including Eales disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "capillary nonperfusion"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "reduction of inflammation"
+                },
+                {
+                  "label": "scatter laser photocoagulation",
+                  "children": [
+                    {
+                      "label": "if ischemia is angiographically extensive"
+                    },
+                    {
+                      "label": "uveitic retinal neovascularization does not always require panretinal photocoagulation"
+                    }
+                  ]
+                },
+                {
+                  "label": "VEGF inhibitor",
+                  "children": [
+                    {
+                      "label": "adjunct to IMT and scatter laser photocoagulation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "choroidal neovascularization (CNV)",
+          "children": [
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "disruption of the Bruch membrane"
+                },
+                {
+                  "label": "inflammatory cytokines"
+                }
+              ]
+            },
+            {
+              "label": "10% of patients with VKH syndrome"
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "reduction of inflammation"
+                },
+                {
+                  "label": "anatomical ablation of the CNV",
+                  "children": [
+                    {
+                      "label": "control of inflammation may reduce the risk of recurrence of CNV"
+                    },
+                    {
+                      "label": "focal laser photocoagulation of peripapillary, extrafoveal, and juxtafoveal CNV"
+                    }
+                  ]
+                },
+                {
+                  "label": "VEGF inhibitors",
+                  "children": [
+                    {
+                      "label": "for subfoveal CNV"
+                    }
+                  ]
+                },
+                {
+                  "label": "photodynamic therapy with verteporfin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cystoid Macular Edema",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "active intraocular inflammation",
+              "children": [
+                {
+                  "label": "mediated by the proinflammatory cytokines",
+                  "children": [
+                    {
+                      "label": "VEGF"
+                    },
+                    {
+                      "label": "interleukin-6"
+                    },
+                    {
+                      "label": "cause retinal vascular leakage & retinal pigment endothelium dysfunction"
+                    }
+                  ]
+                },
+                {
+                  "label": "severity of CME does not necessarily correspond to the level of inflammatory activity"
+                },
+                {
+                  "label": "often slow to respond and clear and frequently remains even after visible, active inflammation has resolved"
+                },
+                {
+                  "label": "mechanical vitreomacular traction",
+                  "children": [
+                    {
+                      "label": "smoking appears to be associated with a greater prevalence of CME"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "monitored by serial spectral-domain OCT and fluorescein angiography"
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "control of intraocular inflammation"
+            },
+            {
+              "label": "if CME persists despite control of inflammation, therapy directed specifically toward the CME is required"
+            },
+            {
+              "label": "periocular injections of corticosteroid",
+              "children": [
+                {
+                  "label": "20–40 mg of triamcinolone acetonide",
+                  "children": [
+                    {
+                      "label": "superotemporal posterior sub-Tenon injection",
+                      "children": [
+                        {
+                          "label": "delivers juxtascleral corticosteroid closest to the macula"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "may be repeated monthly"
+                }
+              ]
+            },
+            {
+              "label": "Intravitreal triamcinolone",
+              "children": [
+                {
+                  "label": "2–4 mg of intravitreal preservative-free triamcinolone"
+                },
+                {
+                  "label": "highly effective in reducing CME"
+                },
+                {
+                  "label": "maximum visual improvement and reduction of CME occurs within 4 weeks",
+                  "children": [
+                    {
+                      "label": "eliminated more quickly from the vitreous cavity of vitrectomized eyes"
+                    }
+                  ]
+                },
+                {
+                  "label": "eyes with a longer duration of uveitic CME and worse vision on presentation tend to show the least amount of visual improvement"
+                },
+                {
+                  "label": "corticosteroid-induced elevation of IOP",
+                  "children": [
+                    {
+                      "label": "up to 40% of patients"
+                    },
+                    {
+                      "label": "especially <40 years"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "implants",
+              "children": [
+                {
+                  "label": "fluocinolone acetonide implant"
+                },
+                {
+                  "label": "intravitreal sustained-release drug-delivery system for dexamethasone (700 μg)",
+                  "children": [
+                    {
+                      "label": "risk of ocular hypertension is lower compared to fluocinolone implant"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "anti-VEGF therapies",
+              "children": [
+                {
+                  "label": "short duration action"
+                },
+                {
+                  "label": "repeat injections are required"
+                }
+              ]
+            },
+            {
+              "label": "intravitreal methotrexate (400 μg/0.1 mL)",
+              "children": [
+                {
+                  "label": "effective in reducing uveitic CME in a limited number of patients"
+                }
+              ]
+            },
+            {
+              "label": "topical NSAIDs",
+              "children": [
+                {
+                  "label": "beneficial in treating pseudophakic CME"
+                }
+              ]
+            },
+            {
+              "label": "oral acetazolamide",
+              "children": [
+                {
+                  "label": "500 mg once or twice daily",
+                  "children": [
+                    {
+                      "label": "effectiveness in the treatment of uveitic CME has not been well established"
+                    }
+                  ]
+                },
+                {
+                  "label": "effective in reducing uveitic CME",
+                  "children": [
+                    {
+                      "label": "particularly in patients whose inflammation is well controlled"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic interferon therapy",
+              "children": [
+                {
+                  "label": "effective in resolving recalcitrant CME"
+                },
+                {
+                  "label": "complete control in 62.5% of patients"
+                },
+                {
+                  "label": "causes flulike symptoms"
+                }
+              ]
+            },
+            {
+              "label": "surgical therapy",
+              "children": [
+                {
+                  "label": "controversial"
+                },
+                {
+                  "label": "pars plana vitrectomy in the presence of hyaloidal traction on the macula"
+                },
+                {
+                  "label": "in the absence of vitreomacular traction the efficacy of pars plana vitrectomy in treating CME is not well understood"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Rhegmatogenous Retinal Detachment",
+      "children": [
+        {
+          "label": "3%"
+        },
+        {
+          "label": "uveitis itself may be an independent risk factor for the condition",
+          "children": [
+            {
+              "label": "panuveitis"
+            },
+            {
+              "label": "infectious uveitis"
+            },
+            {
+              "label": "pars planitis"
+            },
+            {
+              "label": "posterior uveitis"
+            },
+            {
+              "label": "are the entities most frequently associated with RRD"
+            }
+          ]
+        },
+        {
+          "label": "uveitis is often still active in eyes that present with RRD"
+        },
+        {
+          "label": "repair is often complicated by",
+          "children": [
+            {
+              "label": "proliferative vitreoretinopathy (PVR) at presentation",
+              "children": [
+                {
+                  "label": "30%"
+                }
+              ]
+            },
+            {
+              "label": "vitreous membranes"
+            },
+            {
+              "label": "poor visualization"
+            }
+          ]
+        },
+        {
+          "label": "acute retinal necrosis/CMV retinitis",
+          "children": [
+            {
+              "label": "prophylactic laser treatment",
+              "children": [
+                {
+                  "label": "the rate of detachment is still high"
+                }
+              ]
+            },
+            {
+              "label": "difficult to repair because of multiple large posterior retinal breaks"
+            },
+            {
+              "label": "pars plana vitrectomy and endolaser treatment with internal silicone oil tamponade"
+            }
+          ]
+        },
+        {
+          "label": "scleral buckling",
+          "children": [
+            {
+              "label": "retinal detachment associated with pars planitis"
+            },
+            {
+              "label": "when PVR is present, combined scleral buckling and pars plana vitrectomy is often required"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vitreous Opacification and Vitritis",
+      "children": [
+        {
+          "label": "vitrectomy may improve visual acuity",
+          "children": [
+            {
+              "label": "68%"
+            },
+            {
+              "label": "standard small (25- or 23-gauge) 3-port pars plana vitrectomy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.10.3. Complications of Uveitis (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 208,
+      "connector_rejected": 1,
+      "connector_edges": 134,
+      "connector_width": 1.048,
+      "text_labels": 109,
+      "tree_nodes": 109,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6442,
+      "root_font_size": 4.453,
+      "warnings": []
+    }
+  }
+}

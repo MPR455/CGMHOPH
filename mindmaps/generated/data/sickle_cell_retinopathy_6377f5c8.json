@@ -1,0 +1,439 @@
+{
+  "label": "Sickle Cell Retinopathy",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "hemoglobin",
+          "children": [
+            {
+              "label": "two alpha-globin subunits"
+            },
+            {
+              "label": "two beta-globin subunits"
+            }
+          ]
+        },
+        {
+          "label": "HBB gene mutation",
+          "children": [
+            {
+              "label": "11p15.4"
+            },
+            {
+              "label": "abnormal versions of beta- globin",
+              "children": [
+                {
+                  "label": "causes sickle cell hemoglobinopathy"
+                }
+              ]
+            },
+            {
+              "label": "unusually low levels of beta- globin",
+              "children": [
+                {
+                  "label": "causes beta thalassemia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "mutant hemoglobins S, C, or both are of greatest ocular importance"
+        },
+        {
+          "label": "most prevalent in the black population",
+          "children": [
+            {
+              "label": "sickle cell trait (Hb AS)",
+              "children": [
+                {
+                  "label": "8%"
+                }
+              ]
+            },
+            {
+              "label": "sickle cell disease (Hb SS)",
+              "children": [
+                {
+                  "label": "0.4%"
+                }
+              ]
+            },
+            {
+              "label": "hemoglobin SC disease",
+              "children": [
+                {
+                  "label": "0.2%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "other clinical findings",
+      "children": [
+        {
+          "label": "conjunctiva",
+          "children": [
+            {
+              "label": "segmentation of blood in the conjunctival blood vessels"
+            },
+            {
+              "label": "comma sign",
+              "children": [
+                {
+                  "label": "comma-shaped thrombi dilate and occlude capillaries"
+                },
+                {
+                  "label": "inferior bulbar conjunctiva and fornix"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "disc sign of sickling",
+          "children": [
+            {
+              "label": "small vessels on the surface of the optic disc can exhibit intravascular occlusions",
+              "children": [
+                {
+                  "label": "dark red spots"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "angioid streaks",
+          "children": [
+            {
+              "label": "6% of cases of SS disease"
+            },
+            {
+              "label": "AS trait"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nonproliferative Sickle Cell Retinopathy",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "arteriolar and capillary occlusion"
+            },
+            {
+              "label": "anastomosis and remodeling occur in the periphery"
+            }
+          ]
+        },
+        {
+          "label": "salmon-patch hemorrhage",
+          "children": [
+            {
+              "label": "area of intraretinal hemorrhage after a peripheral retinal arteriolar occlusion"
+            }
+          ]
+        },
+        {
+          "label": "refractile spots",
+          "children": [
+            {
+              "label": "old, resorbed hemorrhages with hemosiderin deposition within the inner retina just beneath ILM"
+            }
+          ]
+        },
+        {
+          "label": "black “sunburst” lesions",
+          "children": [
+            {
+              "label": "localized areas of retinal pigment epithelial hypertrophy, hyperplasia, and pigment migration in the peripheral retina"
+            },
+            {
+              "label": "caused by hemorrhage"
+            }
+          ]
+        },
+        {
+          "label": "occlusion of parafoveal capillaries and arterioles"
+        },
+        {
+          "label": "spontaneous occlusion of the central retinal artery"
+        }
+      ]
+    },
+    {
+      "label": "5 stages",
+      "children": [
+        {
+          "label": "peripheral arteriolar occlusions"
+        },
+        {
+          "label": "peripheral arteriovenular anastomoses",
+          "children": [
+            {
+              "label": "dilated, preexisting capillary channels"
+            }
+          ]
+        },
+        {
+          "label": "preretinal sea fan neovascularization",
+          "children": [
+            {
+              "label": "at the posterior border of areas of nonperfusion"
+            }
+          ]
+        },
+        {
+          "label": "vitreous hemorrhage"
+        },
+        {
+          "label": "tractional retinal detachment"
+        }
+      ]
+    },
+    {
+      "label": "Lab",
+      "children": [
+        {
+          "label": "sickling and solubility tests (sickle cell preparations)",
+          "children": [
+            {
+              "label": "for screening"
+            },
+            {
+              "label": "do not distinguish between heterozygous and homozygous states"
+            }
+          ]
+        },
+        {
+          "label": "Hemoglobin electrophoresis",
+          "children": [
+            {
+              "label": "should be performed for patients testing positive on sickle cell preparations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Management",
+      "children": [
+        {
+          "label": "hyphema",
+          "children": [
+            {
+              "label": "all black patients with traumatic hyphema should be screened for sickling hemoglobinopathy (including trait)"
+            },
+            {
+              "label": "increased risk of complications",
+              "children": [
+                {
+                  "label": "control of IOP may be difficult"
+                },
+                {
+                  "label": "ischemic optic neuropathy may result from short intervals of a modest increase in IOP"
+                }
+              ]
+            },
+            {
+              "label": "consider early anterior chamber washout in presence of hyphema with increased IOP"
+            },
+            {
+              "label": "be cautious in the use of carbonic anhydrase inhibitors",
+              "children": [
+                {
+                  "label": "may worsen sickling through the production of systemic acidosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Photocoagulation",
+          "children": [
+            {
+              "label": "peripheral scatter photocoagulation",
+              "children": [
+                {
+                  "label": "lower-intensity light burns to the ischemic peripheral retina",
+                  "children": [
+                    {
+                      "label": "more commonly after such treatment in PSR than in proliferative diabetic retinopathy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "caution",
+              "children": [
+                {
+                  "label": "retinal tears and subsequent rhegmatogenous retinal detachment can occur"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Vitreoretinal surgery in PSR",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "nonclearing vitreous hemorrhage"
+                },
+                {
+                  "label": "rhegmatogenous, tractional, schisis, or combined retinal detachment"
+                }
+              ]
+            },
+            {
+              "label": "retinal detachment",
+              "children": [
+                {
+                  "label": "usually begins in the ischemic peripheral retina"
+                },
+                {
+                  "label": "tears typically occur at the base of sea fans"
+                },
+                {
+                  "label": "often precipitated by photocoagulation"
+                }
+              ]
+            },
+            {
+              "label": "precautions",
+              "children": [
+                {
+                  "label": "adequate patient hydration"
+                },
+                {
+                  "label": "supplemental nasal oxygenation"
+                },
+                {
+                  "label": "judicious use of expansile gases to minimize IOP elevations"
+                },
+                {
+                  "label": "360° scleral buckling can cause anterior segment ischemia or necrosis",
+                  "children": [
+                    {
+                      "label": "exchange transfusion before vitreoretinal surgery is no longer favored"
+                    },
+                    {
+                      "label": "particularly when combined with extensive diathermy or cryopexy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "proliferative sickle cell retinopathy (PSR)",
+      "children": [
+        {
+          "label": "Introcuction",
+          "children": [
+            {
+              "label": "retinal ischemia",
+              "children": [
+                {
+                  "label": "secondary to infarction of the retinal tissue by means of arteriolar, precapillary arteriolar, capillary, or venular occlusions"
+                }
+              ]
+            },
+            {
+              "label": "SS disease",
+              "children": [
+                {
+                  "label": "sickle cell hemoglobin C (SC) and sickle cell thalassemia (SThal)",
+                  "children": [
+                    {
+                      "label": "more serious ocular complications"
+                    }
+                  ]
+                },
+                {
+                  "label": "more systemic complications"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical findings",
+          "children": [
+            {
+              "label": "retinal neovascularization",
+              "children": [
+                {
+                  "label": "located more peripherally",
+                  "children": [
+                    {
+                      "label": "neovascularization in PDR generally begins postequatorially"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "white sea fan neovascularization",
+              "children": [
+                {
+                  "label": "results from autoinfarction of the peripheral neovascularization",
+                  "children": [
+                    {
+                      "label": "auto infarction not common in PDR"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "preretinal or vitreous hemorrhage"
+            },
+            {
+              "label": "tractional retinal detachment",
+              "children": [
+                {
+                  "label": "secondary to extraretinal fibrovascular proliferation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Sickle Cell Retinopathy.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 174,
+      "connector_rejected": 10,
+      "connector_edges": 117,
+      "connector_width": 0.833,
+      "text_labels": 106,
+      "tree_nodes": 106,
+      "component_roots": 7,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.6724,
+      "root_font_size": 5.414,
+      "warnings": []
+    }
+  }
+}

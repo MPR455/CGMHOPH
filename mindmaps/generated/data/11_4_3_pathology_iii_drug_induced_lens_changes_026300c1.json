@@ -1,0 +1,305 @@
+{
+  "label": "11.4.3. Pathology (III): Drug-Induced Lens Changes",
+  "root": true,
+  "children": [
+    {
+      "label": "Amiodarone",
+      "children": [
+        {
+          "label": "antiarrhythmia medication"
+        },
+        {
+          "label": "stellate pigment deposition in anterior cortical axis",
+          "children": [
+            {
+              "label": "very rarely visually significant",
+              "children": [
+                {
+                  "label": "phenothiazines cause pigmented deposits in the anterior lens epithelium"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pigment deposition in corneal epithelium"
+        },
+        {
+          "label": "optic neuropathy",
+          "children": [
+            {
+              "label": "rare"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Corticosteroids",
+      "children": [
+        {
+          "label": "long-term use of corticosteroids may cause PSC"
+        },
+        {
+          "label": "related to",
+          "children": [
+            {
+              "label": "dose"
+            },
+            {
+              "label": "duration of treatment"
+            }
+          ]
+        },
+        {
+          "label": "several routes",
+          "children": [
+            {
+              "label": "topical"
+            },
+            {
+              "label": "subconjunctival"
+            },
+            {
+              "label": "intraocular",
+              "children": [
+                {
+                  "label": "slow-release steroid repositories have not altered the IOP-elevating and PSC-producing effects of these medications"
+                }
+              ]
+            },
+            {
+              "label": "inhaled"
+            },
+            {
+              "label": "systemic"
+            }
+          ]
+        },
+        {
+          "label": "patients susceptible to steroid-induced glaucoma are frequently those who develop PSC after intravitreal triamcinolone acetonide"
+        },
+        {
+          "label": "histologically/clinically cannot be distinguished from senescent PSC"
+        },
+        {
+          "label": "some steroid-induced PSCs in children may resolve with cessation of the drug"
+        }
+      ]
+    },
+    {
+      "label": "Tamoxifen",
+      "children": [
+        {
+          "label": "the association previously suggested between cataract development and tamoxifen use has not been substantiated"
+        }
+      ]
+    },
+    {
+      "label": "Phenothiazines",
+      "children": [
+        {
+          "label": "pigmented deposits in the anterior lens epithelium",
+          "children": [
+            {
+              "label": "axial configuration"
+            }
+          ]
+        },
+        {
+          "label": "dependent on",
+          "children": [
+            {
+              "label": "dose"
+            },
+            {
+              "label": "treatment duration"
+            }
+          ]
+        },
+        {
+          "label": "more likely to be seen with",
+          "children": [
+            {
+              "label": "chlorpromazine",
+              "children": [
+                {
+                  "label": "confused with choroideremia or Bietti crystalline corneoretinal dystrophy"
+                }
+              ]
+            },
+            {
+              "label": "thioridazine",
+              "children": [
+                {
+                  "label": "thioridazine (high-dose)",
+                  "children": [
+                    {
+                      "label": "severe retinopathy",
+                      "children": [
+                        {
+                          "label": "can develop within a few weeks-months"
+                        },
+                        {
+                          "label": "rare at doses <800 mg/day"
+                        },
+                        {
+                          "label": "coarse retinal pigment stippling in the posterior pole",
+                          "children": [
+                            {
+                              "label": "blurred vision"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "widespread nummular patchy atrophy of pigment epithelium & choriocapillaris",
+                          "children": [
+                            {
+                              "label": "visual field loss"
+                            },
+                            {
+                              "label": "night blindness"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "visual function can improve after drug stopped",
+                      "children": [
+                        {
+                          "label": "sometimes deteriorates later if progressive chorioretinal atrophy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "monitoring",
+                      "children": [
+                        {
+                          "label": "no monitoring at standard doses",
+                          "children": [
+                            {
+                              "label": "toxicity is rare"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "suspected cases"
+                        },
+                        {
+                          "label": "patients who have taken high doses",
+                          "children": [
+                            {
+                              "label": "monitoring similar to chloroquine"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "generally visually insignificant"
+        }
+      ]
+    },
+    {
+      "label": "Statins",
+      "children": [
+        {
+          "label": "in studies on dogs, statins are associated with cataract when given in excessive doses"
+        },
+        {
+          "label": "long-term use of statins in humans is not associated with an increased cataract risk"
+        },
+        {
+          "label": "a longitudinal study reported a 50% reduction in the 5-year incidence of nuclear cataracts in patients treated with statins"
+        },
+        {
+          "label": "concomitant use of simvastatin and erythromycin (which increases circulating statin levels) may be associated with 2x increased risk of cataract"
+        }
+      ]
+    },
+    {
+      "label": "Miotics (anticholinesterases)",
+      "children": [
+        {
+          "label": "cataract formation",
+          "children": [
+            {
+              "label": "after 55 months of pilocarpine use",
+              "children": [
+                {
+                  "label": "20%"
+                }
+              ]
+            },
+            {
+              "label": "after echothiophate iodide use",
+              "children": [
+                {
+                  "label": "60%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "first appears as small vacuoles within and posterior to the anterior lens capsule",
+          "children": [
+            {
+              "label": "appreciated on retroillumination"
+            },
+            {
+              "label": "may progress to posterior cortical and nuclear changes"
+            }
+          ]
+        },
+        {
+          "label": "dependent on",
+          "children": [
+            {
+              "label": "dose frequency"
+            },
+            {
+              "label": "treatment duration"
+            },
+            {
+              "label": "age",
+              "children": [
+                {
+                  "label": "visually significant cataracts are common in elderly patients"
+                },
+                {
+                  "label": "progressive cataract formation has not been reported in children"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.4.3. Pathology (III) - Drug-Induced Lens Changes.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 67,
+      "connector_rejected": 1,
+      "connector_edges": 66,
+      "connector_width": 1.055,
+      "text_labels": 74,
+      "tree_nodes": 74,
+      "component_roots": 6,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.9851,
+      "root_font_size": 5.013,
+      "warnings": []
+    }
+  }
+}

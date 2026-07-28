@@ -1,0 +1,500 @@
+{
+  "label": "9.6.1. Anterior Uveitis (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "40%"
+    },
+    {
+      "label": "Noninfectious Scleritis",
+      "children": [
+        {
+          "label": "classification",
+          "children": [
+            {
+              "label": "anterior or posterior"
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "infection"
+                },
+                {
+                  "label": "trauma"
+                },
+                {
+                  "label": "drug induced"
+                },
+                {
+                  "label": "autoimmunity",
+                  "children": [
+                    {
+                      "label": "systemic disease",
+                      "children": [
+                        {
+                          "label": "especially rheumatoid arthritis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "nonsteroidal anti-inflammatory drugs",
+              "children": [
+                {
+                  "label": "useful primarily in milder cases",
+                  "children": [
+                    {
+                      "label": "relieve pain"
+                    },
+                    {
+                      "label": "reduce inflammation"
+                    }
+                  ]
+                },
+                {
+                  "label": "indomethacin, flurbiprofen, and naproxen"
+                },
+                {
+                  "label": "if the initial NSAID fails, a second can be tried before switching to corticosteroids"
+                }
+              ]
+            },
+            {
+              "label": "corticosteroids",
+              "children": [
+                {
+                  "label": "topical",
+                  "children": [
+                    {
+                      "label": "potentially useful in mild cases",
+                      "children": [
+                        {
+                          "label": "difluprednate"
+                        },
+                        {
+                          "label": "prednisolone acetate"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "subconjunctival",
+                  "children": [
+                    {
+                      "label": "effective in anterior nonnecrotizing scleritis"
+                    }
+                  ]
+                },
+                {
+                  "label": "systemic corticosteroids",
+                  "children": [
+                    {
+                      "label": "theoretical complication of localized necrotizing disease"
+                    },
+                    {
+                      "label": "orally or as a high-dose intravenous pulse when rapid control is required"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "immunomodulatory therapy",
+              "children": [
+                {
+                  "label": "indications",
+                  "children": [
+                    {
+                      "label": "nonresponsive to corticosteroids"
+                    },
+                    {
+                      "label": "requires doses of corticosteroids too high for long-term use"
+                    }
+                  ]
+                },
+                {
+                  "label": "antimetabolites",
+                  "children": [
+                    {
+                      "label": "methotrexate"
+                    },
+                    {
+                      "label": "azathioprine"
+                    },
+                    {
+                      "label": "mycophenolate mofetil"
+                    }
+                  ]
+                },
+                {
+                  "label": "calcineurin inhibitors (inhibitors of T-cell signaling)"
+                },
+                {
+                  "label": "biologic agents",
+                  "children": [
+                    {
+                      "label": "TNF inhibitors"
+                    },
+                    {
+                      "label": "rituximab"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "require more aggressive therapy (cyclophosphamide)",
+              "children": [
+                {
+                  "label": "granulomatosis with polyangiitis (Wegener granulomatosis)"
+                },
+                {
+                  "label": "polyarteritis nodosa"
+                }
+              ]
+            },
+            {
+              "label": "pain management",
+              "children": [
+                {
+                  "label": "oral NSAIDs"
+                },
+                {
+                  "label": "oral narcotics",
+                  "children": [
+                    {
+                      "label": "for brief periods",
+                      "children": [
+                        {
+                          "label": "their use in combination with oral corticosteroids or other systemic therapies should be avoided"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "topical cycloplegia"
+                }
+              ]
+            },
+            {
+              "label": "surgery",
+              "children": [
+                {
+                  "label": "scleral reinforcement surgery for scleral thinning",
+                  "children": [
+                    {
+                      "label": "to prevent globe rupture"
+                    }
+                  ]
+                },
+                {
+                  "label": "materials",
+                  "children": [
+                    {
+                      "label": "cadaveric donor sclera",
+                      "children": [
+                        {
+                          "label": "scleral graft may melt"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "autogenous periosteum"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Acute Nongranulomatous Anterior Uveitis",
+      "children": [
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "sudden onset of",
+              "children": [
+                {
+                  "label": "pain"
+                },
+                {
+                  "label": "redness"
+                },
+                {
+                  "label": "photophobia"
+                },
+                {
+                  "label": "decreased vision"
+                }
+              ]
+            },
+            {
+              "label": "fine keratic precipitates (KPs)"
+            },
+            {
+              "label": "intense cellular response and variable flare in AC"
+            },
+            {
+              "label": "severe cases",
+              "children": [
+                {
+                  "label": "hypopyon"
+                },
+                {
+                  "label": "protein coagulum in the aqueous"
+                }
+              ]
+            },
+            {
+              "label": "+- elevated intraocular pressure (IOP)"
+            },
+            {
+              "label": "+- cellular response in the anterior vitreous"
+            },
+            {
+              "label": "+- fibrin net across the pupillary margin",
+              "children": [
+                {
+                  "label": "seclusion membrane and iris bombé"
+                }
+              ]
+            },
+            {
+              "label": "+- dilated iris vessels",
+              "children": [
+                {
+                  "label": "spontaneous hyphema",
+                  "children": [
+                    {
+                      "label": "rare"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "+- cystoid macular edema (CME)"
+            },
+            {
+              "label": "+- disc edema"
+            },
+            {
+              "label": "lasts several days - weeks",
+              "children": [
+                {
+                  "label": "≤3 months"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "2 patterns",
+          "children": [
+            {
+              "label": "first pattern",
+              "children": [
+                {
+                  "label": "attack is acute and unilateral",
+                  "children": [
+                    {
+                      "label": "history of episodes alternating between the 2 eyes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "second pattern",
+              "children": [
+                {
+                  "label": "attack is acute and bilateral",
+                  "children": [
+                    {
+                      "label": "typical for HLA-B27–associated anterior uveitis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "topical corticosteroids are the first line of treatment",
+              "children": [
+                {
+                  "label": "every 1–2 hours"
+                }
+              ]
+            },
+            {
+              "label": "periocular or oral corticosteroids may be used for severe episodes"
+            },
+            {
+              "label": "recurrent course",
+              "children": [
+                {
+                  "label": "maintenance therapy with low-dose topical corticosteroids"
+                }
+              ]
+            },
+            {
+              "label": "can transform from acute to chronic",
+              "children": [
+                {
+                  "label": "risk of chronicity can be reduced by timely diagnosis and aggressive initial therapy"
+                }
+              ]
+            },
+            {
+              "label": "corticosteroid-sparing drugs",
+              "children": [
+                {
+                  "label": "for long-term therapy in chronic or frequently recurrent anterior uveitis"
+                },
+                {
+                  "label": "anti-TNF therapy",
+                  "children": [
+                    {
+                      "label": "particularly in HLA-B27–positive patients"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Cycloplegic agents",
+              "children": [
+                {
+                  "label": "to relieve pain and to break and prevent formation of synechiae"
+                },
+                {
+                  "label": "topical"
+                },
+                {
+                  "label": "conjunctival cotton pledgets soaked in tropicamide, cyclopentolate, or phenylephrine hydrochloride"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "HLA-B27",
+          "children": [
+            {
+              "label": "major histocompatibility complex (MHC) class I antigen"
+            },
+            {
+              "label": "6.1% of US general population"
+            },
+            {
+              "label": "1.1% of African Americans"
+            },
+            {
+              "label": "1/2 of patients with acute anterior uveitis are HLA-B27 positive",
+              "children": [
+                {
+                  "label": "patients with recurrent anterior nongranulomatous uveitis should be tested for HLA-B27"
+                }
+              ]
+            },
+            {
+              "label": "25% of HLA-B27–positive patients develop spondyloarthritis or eye disease"
+            },
+            {
+              "label": "seronegative spondyloarthropathies",
+              "children": [
+                {
+                  "label": "strongly associated with both acute anterior uveitis and HLA-B27"
+                },
+                {
+                  "label": "do not test positive for rheumatoid factor"
+                },
+                {
+                  "label": "diseases",
+                  "children": [
+                    {
+                      "label": "ankylosing spondylitis"
+                    },
+                    {
+                      "label": "reactive arthritis syndrome"
+                    },
+                    {
+                      "label": "inflammatory bowel disease"
+                    },
+                    {
+                      "label": "psoriatic arthritis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Introduction to Anterior Uveitis",
+      "children": [
+        {
+          "label": "most common form of uveitis",
+          "children": [
+            {
+              "label": "90% of cases in a community-based practice"
+            }
+          ]
+        },
+        {
+          "label": "incidence",
+          "children": [
+            {
+              "label": "7/100,000 persons aged ≤14 years"
+            },
+            {
+              "label": "220/100,000 persons aged ≥65 years"
+            }
+          ]
+        },
+        {
+          "label": "rule out a primary keratitis or scleritis"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.1. Anterior Uveitis (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 248,
+      "connector_rejected": 5,
+      "connector_edges": 162,
+      "connector_width": 1.111,
+      "text_labels": 125,
+      "tree_nodes": 125,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6532,
+      "root_font_size": 4.724,
+      "warnings": []
+    }
+  }
+}

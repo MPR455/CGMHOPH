@@ -1,0 +1,633 @@
+{
+  "label": "Mucous Membrane Pemphigoid (MMP)",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "65-year-old woman complains of dryness, burning, and foreign body sensation of both eyes"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course",
+              "children": [
+                {
+                  "label": "acute vs chronic"
+                },
+                {
+                  "label": "acute",
+                  "children": [
+                    {
+                      "label": "SJS"
+                    }
+                  ]
+                },
+                {
+                  "label": "chronic",
+                  "children": [
+                    {
+                      "label": "MMP"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "prior acute severe systemic disease",
+              "children": [
+                {
+                  "label": "SJS"
+                }
+              ]
+            },
+            {
+              "label": "systemic medications"
+            },
+            {
+              "label": "trauma/surgery/chemical injury"
+            },
+            {
+              "label": "conjunctivitis"
+            },
+            {
+              "label": "radiation"
+            },
+            {
+              "label": "ocular rosacea/blepharitis"
+            },
+            {
+              "label": "long-term topical medication use"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "lid position",
+              "children": [
+                {
+                  "label": "entropion"
+                },
+                {
+                  "label": "trichiasis"
+                },
+                {
+                  "label": "lid margin keratinization"
+                }
+              ]
+            },
+            {
+              "label": "slit lamp exam",
+              "children": [
+                {
+                  "label": "active conjunctival inflammation"
+                },
+                {
+                  "label": "forniceal foreshortening"
+                },
+                {
+                  "label": "inferior symblepharon"
+                },
+                {
+                  "label": "tear film"
+                },
+                {
+                  "label": "corneal health",
+                  "children": [
+                    {
+                      "label": "SPK"
+                    },
+                    {
+                      "label": "corneal filaments"
+                    },
+                    {
+                      "label": "corneal ulcer"
+                    },
+                    {
+                      "label": "corneal opacity, keratinization"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "skin & mucous membrane examination"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "timolol",
+      "children": [
+        {
+          "label": "pilocarpine",
+          "children": [
+            {
+              "label": "echothiophate iodide"
+            }
+          ]
+        },
+        {
+          "label": "epinephrine"
+        },
+        {
+          "label": "idoxuridine"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "biopsy of conjunctiva or other involved mucous membrane",
+          "children": [
+            {
+              "label": "direct immunofluorescence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "MMP"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "Mucous membrane pemphigoid",
+          "children": [
+            {
+              "label": "insidious onset",
+              "children": [
+                {
+                  "label": "remissions & exacerbations",
+                  "children": [
+                    {
+                      "label": "foreshortening and symblepharon of inferior fornix"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": ".>60 years"
+            },
+            {
+              "label": "dryness, redness, FB sensation, tearing, burning"
+            },
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "inferior symblepharon"
+            },
+            {
+              "label": "systemic disease",
+              "children": [
+                {
+                  "label": "vagina, oropharynx, esophagus, anus, urethra"
+                }
+              ]
+            },
+            {
+              "label": "Complications",
+              "children": [
+                {
+                  "label": "conjunctival scarring"
+                },
+                {
+                  "label": "keratinization of the eyelid margins",
+                  "children": [
+                    {
+                      "label": "an important risk factor for poor long-term outcomes"
+                    }
+                  ]
+                },
+                {
+                  "label": "trichiasis"
+                },
+                {
+                  "label": "entropion"
+                },
+                {
+                  "label": "tear deficiency"
+                },
+                {
+                  "label": "corneal complications"
+                },
+                {
+                  "label": "higher risk of infection"
+                }
+              ]
+            },
+            {
+              "label": "pseudopemphigoid",
+              "children": [
+                {
+                  "label": "long-term use of certain topical ophthalmic medications",
+                  "children": [
+                    {
+                      "label": "demecarium bromide"
+                    }
+                  ]
+                },
+                {
+                  "label": "disease progression ceases after the offending agent is discontinued"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "autoimmune/allergic",
+          "children": [
+            {
+              "label": "Steven-Johnson syndrome (SJS)",
+              "children": [
+                {
+                  "label": "acute"
+                },
+                {
+                  "label": "epidemiology",
+                  "children": [
+                    {
+                      "label": "children and young adults"
+                    },
+                    {
+                      "label": "F>M"
+                    },
+                    {
+                      "label": "AIDS patients are at a higher risk"
+                    }
+                  ]
+                },
+                {
+                  "label": "precipitated by",
+                  "children": [
+                    {
+                      "label": "drugs",
+                      "children": [
+                        {
+                          "label": "sulfonamides"
+                        },
+                        {
+                          "label": "PCN"
+                        },
+                        {
+                          "label": "other antibiotics"
+                        },
+                        {
+                          "label": "NSAIDs"
+                        },
+                        {
+                          "label": "anticonvulsants",
+                          "children": [
+                            {
+                              "label": "phenytoin",
+                              "children": [
+                                {
+                                  "label": "100 drugs of various classes"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "allopurinol"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "infectious diseases",
+                      "children": [
+                        {
+                          "label": "herpes simplex virus"
+                        },
+                        {
+                          "label": "adenovirus"
+                        },
+                        {
+                          "label": "streptococcus"
+                        },
+                        {
+                          "label": "mycoplasma"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "atopic keratoconjunctivitis"
+            },
+            {
+              "label": "ocular rosacea"
+            },
+            {
+              "label": "sarcoidosis"
+            },
+            {
+              "label": "scleroderma"
+            },
+            {
+              "label": "graft-vs-host disease",
+              "children": [
+                {
+                  "label": "after allogeneic bone marrow transplantation"
+                }
+              ]
+            },
+            {
+              "label": "lupus"
+            },
+            {
+              "label": "lichen planus"
+            }
+          ]
+        },
+        {
+          "label": "postinfectious",
+          "children": [
+            {
+              "label": "adenoviral conjunctivitis",
+              "children": [
+                {
+                  "label": "EKC"
+                }
+              ]
+            },
+            {
+              "label": "trachoma"
+            },
+            {
+              "label": "beta-hemolytic streptococcal conjunctivitis"
+            }
+          ]
+        },
+        {
+          "label": "toxic keratoconjunctivitis",
+          "children": [
+            {
+              "label": "long-term use of certain topical ophthalmic medications",
+              "children": [
+                {
+                  "label": "demecarium bromide"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "surgery/trauma/chemical injury"
+        },
+        {
+          "label": "radiation"
+        },
+        {
+          "label": "linear IgA deficiency",
+          "children": [
+            {
+              "label": "can result in an ocular syndrome that is clinically identical to MMP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "mild disease",
+              "children": [
+                {
+                  "label": "dapsone",
+                  "children": [
+                    {
+                      "label": "initial drug of choice in mild cases"
+                    },
+                    {
+                      "label": "avoid in patients with",
+                      "children": [
+                        {
+                          "label": "sulfa allergy",
+                          "children": [
+                            {
+                              "label": "glucose-6-phosphate dehydrogenase (g6pd) deficiency"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "severe disease",
+              "children": [
+                {
+                  "label": "immunosuppressive agents",
+                  "children": [
+                    {
+                      "label": "cyclophosphamide",
+                      "children": [
+                        {
+                          "label": "mainstay of therapy in severe disease"
+                        },
+                        {
+                          "label": "target white blood cell count of 2000–3000 cells/μl"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "MTX"
+                    },
+                    {
+                      "label": "azathioprine"
+                    }
+                  ]
+                },
+                {
+                  "label": "oral steroid"
+                },
+                {
+                  "label": "topical steroid",
+                  "children": [
+                    {
+                      "label": "for exacerbations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treat underlying conditions",
+              "children": [
+                {
+                  "label": "treat underlying blepharitis/ rosacea"
+                },
+                {
+                  "label": "treat dry eye",
+                  "children": [
+                    {
+                      "label": "preservative-free artificial tears & ointment"
+                    },
+                    {
+                      "label": "punctal occlusion",
+                      "children": [
+                        {
+                          "label": "higher rate of spontaneous extrusion of silicone punctal plugs"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "moisture chamber goggles"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "oral lesions",
+              "children": [
+                {
+                  "label": "refer for evaluation and biopsy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "surgical correction of",
+              "children": [
+                {
+                  "label": "trichiasis"
+                },
+                {
+                  "label": "entropion"
+                }
+              ]
+            },
+            {
+              "label": "mucous membrane or amniotic membrane grafting"
+            },
+            {
+              "label": "keratoprosthesis"
+            }
+          ]
+        },
+        {
+          "label": "refer to",
+          "children": [
+            {
+              "label": "dermatology"
+            },
+            {
+              "label": "ENT"
+            },
+            {
+              "label": "GI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "best performed when inflammation absent",
+      "children": [
+        {
+          "label": "can cause disease flare up & additional scarring"
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Course",
+          "children": [
+            {
+              "label": "remissions & exacerbations"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "every 4 weeks for acute disease",
+              "children": [
+                {
+                  "label": "q 1-6 months when in remission"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "timolol",
+      "children": [
+        {
+          "label": "pilocarpine",
+          "children": [
+            {
+              "label": "echothiophate iodide"
+            }
+          ]
+        },
+        {
+          "label": "epinephrine"
+        },
+        {
+          "label": "idoxuridine"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Mucous Membrane Pemphigoid (MMP).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 283,
+      "connector_rejected": 10,
+      "connector_edges": 205,
+      "connector_width": 0.967,
+      "text_labels": 162,
+      "tree_nodes": 162,
+      "component_roots": 9,
+      "spatially_recovered_labels": 7,
+      "connector_match_ratio": 0.7244,
+      "root_font_size": 4.514,
+      "warnings": []
+    }
+  }
+}

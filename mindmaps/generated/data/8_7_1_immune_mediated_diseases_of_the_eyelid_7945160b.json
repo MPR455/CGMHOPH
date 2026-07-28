@@ -1,0 +1,371 @@
+{
+  "label": "8.7.1. Immune-mediated diseases of the eyelid",
+  "root": true,
+  "children": [
+    {
+      "label": "atopic dermatitis",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "genetically susceptible individuals",
+              "children": [
+                {
+                  "label": "type IV hypersensitivity reaction",
+                  "children": [
+                    {
+                      "label": "impaired cell-mediated immunity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "increased IgE hypersensitivity"
+            },
+            {
+              "label": "increased histamine release from mast cells and basophils"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "chronic condition"
+            },
+            {
+              "label": "begins in infancy or childhood"
+            },
+            {
+              "label": "pruritus"
+            },
+            {
+              "label": "lesions on the eyelid and other sites",
+              "children": [
+                {
+                  "label": "appearance of skin lesions",
+                  "children": [
+                    {
+                      "label": "infants",
+                      "children": [
+                        {
+                          "label": "erythematous rash"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "children",
+                      "children": [
+                        {
+                          "label": "eczematous dermatitis with secondary lichenification from scratching"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "adults",
+                      "children": [
+                        {
+                          "label": "scaly patches with thickened and wrinkled dry skin"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "location of skin lesions",
+                  "children": [
+                    {
+                      "label": "face and extensor surfaces in infants and young children"
+                    },
+                    {
+                      "label": "joint flexures in adolescents and adults"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "personal or family history of other atopic disorders",
+              "children": [
+                {
+                  "label": "asthma"
+                },
+                {
+                  "label": "allergic rhinitis"
+                },
+                {
+                  "label": "nasal polyps"
+                },
+                {
+                  "label": "aspirin hypersensitivity"
+                }
+              ]
+            },
+            {
+              "label": "periorbital darkening"
+            },
+            {
+              "label": "exaggerated eyelid folds"
+            },
+            {
+              "label": "ectropion",
+              "children": [
+                {
+                  "label": "meibomianitis"
+                }
+              ]
+            },
+            {
+              "label": "chronic papillary conjunctivitis"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "identify & avoid environmental allergens",
+              "children": [
+                {
+                  "label": "allergist"
+                }
+              ]
+            },
+            {
+              "label": "moisturizing lotions and petrolatum gels"
+            },
+            {
+              "label": "topical corticosteroid cream or ointment",
+              "children": [
+                {
+                  "label": "long-term use strongly discouraged to avoid skin thinning"
+                }
+              ]
+            },
+            {
+              "label": "topical tacrolimus ointment"
+            },
+            {
+              "label": "oral antihistamines and mast-cell stabilizers",
+              "children": [
+                {
+                  "label": "may exacerbate dry eye with their anticholinergic activity"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "contact dermatoblepharitis",
+      "children": [
+        {
+          "label": "type I IgE–mediated (immediate) hypersensitivity reaction",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "topical ophthalmic medications",
+                  "children": [
+                    {
+                      "label": "anesthetics"
+                    },
+                    {
+                      "label": "antibiotics",
+                      "children": [
+                        {
+                          "label": "bacitracin"
+                        },
+                        {
+                          "label": "cephalosporins"
+                        },
+                        {
+                          "label": "sulfacetamide"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "cosmetics"
+                },
+                {
+                  "label": "environmental substances"
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "itching",
+                  "children": [
+                    {
+                      "label": "within minutes"
+                    }
+                  ]
+                },
+                {
+                  "label": "eyelid erythema and swelling"
+                },
+                {
+                  "label": "conjunctival hyperemia and chemosis"
+                },
+                {
+                  "label": "systemic anaphylaxis"
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "allergen avoidance or discontinuation",
+                  "children": [
+                    {
+                      "label": "often resolve spontaneously"
+                    }
+                  ]
+                },
+                {
+                  "label": "cold compresses"
+                },
+                {
+                  "label": "artificial lubricants"
+                },
+                {
+                  "label": "topical antihistamines"
+                },
+                {
+                  "label": "mast-cell stabilizers"
+                },
+                {
+                  "label": "nonsteroidal anti-inflammatory drugs"
+                },
+                {
+                  "label": "topical vasoconstrictors",
+                  "children": [
+                    {
+                      "label": "should not be used long term"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "type IV T-cell–mediated (delayed- hypersensitivity) reaction",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "cycloplegics such as atropine and homatropine"
+                },
+                {
+                  "label": "aminoglycosides such as neomycin, gentamicin, and tobramycin"
+                },
+                {
+                  "label": "antiviral agents such as idoxuridine and trifluridine"
+                },
+                {
+                  "label": "preservatives such as thimerosal and ethylenediaminetetraacetic acid (edta)"
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "24–72 hours"
+                },
+                {
+                  "label": "acute eczematous reaction"
+                },
+                {
+                  "label": "erythema"
+                },
+                {
+                  "label": "leathery thickening"
+                },
+                {
+                  "label": "scaling of the eyelid"
+                },
+                {
+                  "label": "papillary conjunctivitis"
+                },
+                {
+                  "label": "mucoid or mucopurulent discharge"
+                },
+                {
+                  "label": "punctate epithelial erosions",
+                  "children": [
+                    {
+                      "label": "inferior cornea"
+                    }
+                  ]
+                },
+                {
+                  "label": "sequelae",
+                  "children": [
+                    {
+                      "label": "hyperpigmentation"
+                    },
+                    {
+                      "label": "dermal scarring"
+                    },
+                    {
+                      "label": "lower-eyelid ectropion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "allergen avoidance or discontinuation"
+                },
+                {
+                  "label": "mild topical corticosteroids"
+                },
+                {
+                  "label": "tacrolimus (protopic) ointment",
+                  "children": [
+                    {
+                      "label": "applied to the eyelids and periocular skin"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.7.1. Immune-mediated diseases of the eyelid.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 184,
+      "connector_rejected": 6,
+      "connector_edges": 128,
+      "connector_width": 1.594,
+      "text_labels": 94,
+      "tree_nodes": 94,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6957,
+      "root_font_size": 4.515,
+      "warnings": []
+    }
+  }
+}

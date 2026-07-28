@@ -1,0 +1,437 @@
+{
+  "label": "Entropion",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "elderly woman complains of foreign-body sensation and tearing of her right eye"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "inversion of the right lower eyelid margin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course",
+              "children": [
+                {
+                  "label": "symptoms",
+                  "children": [
+                    {
+                      "label": "FB sensation/irritation"
+                    },
+                    {
+                      "label": "tearing"
+                    },
+                    {
+                      "label": "redness"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "medications",
+              "children": [
+                {
+                  "label": "miotics"
+                }
+              ]
+            },
+            {
+              "label": "surgery/trauma/chemical burn"
+            },
+            {
+              "label": "infection"
+            },
+            {
+              "label": "autoimmune/autoreactive/ allergic"
+            },
+            {
+              "label": "other skin lesions",
+              "children": [
+                {
+                  "label": "SJS, MMP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "facial/lid spasms"
+            },
+            {
+              "label": "epiphora"
+            },
+            {
+              "label": "conjunctival injection"
+            },
+            {
+              "label": "cornea",
+              "children": [
+                {
+                  "label": "SPK/abrasion"
+                },
+                {
+                  "label": "ulcer"
+                }
+              ]
+            },
+            {
+              "label": "involutional entropion",
+              "children": [
+                {
+                  "label": "horizontal lid laxity",
+                  "children": [
+                    {
+                      "label": "snapback and distraction testing"
+                    }
+                  ]
+                },
+                {
+                  "label": "deeper-than-normal inferior fornix"
+                },
+                {
+                  "label": "herniated orbital fat"
+                },
+                {
+                  "label": "white subconjunctival line several millimeters below the inferior tarsal border"
+                },
+                {
+                  "label": "reverse ptosis of the lower eyelid",
+                  "children": [
+                    {
+                      "label": "little or no inferior movement of the lower eyelid on downgaze",
+                      "children": [
+                        {
+                          "label": "caused by the leading edge of the detached retractors",
+                          "children": [
+                            {
+                              "label": "lower eyelid margin sits higher than normal"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "detected by observation of the preseptal orbicularis as the patient squeezes his or her eyes closed"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "decreased lower eyelid excursion"
+                },
+                {
+                  "label": "orbicularis override"
+                },
+                {
+                  "label": "digital eversion test"
+                }
+              ]
+            },
+            {
+              "label": "cicatricial entropion",
+              "children": [
+                {
+                  "label": "inspection of the posterior lamella reveals scarring",
+                  "children": [
+                    {
+                      "label": "distinguishes cicatricial entropion from involutional entropion"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "entropion, involutional"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "congenital"
+        },
+        {
+          "label": "involutional entropion"
+        },
+        {
+          "label": "cicatricial entropion",
+          "children": [
+            {
+              "label": "mucous membrane pemphigoid"
+            },
+            {
+              "label": "Steven-Johnson syndrome"
+            },
+            {
+              "label": "trauma/surgery"
+            },
+            {
+              "label": "chemical injury"
+            },
+            {
+              "label": "radiation"
+            },
+            {
+              "label": "infection",
+              "children": [
+                {
+                  "label": "adenoviral conjunctivitis",
+                  "children": [
+                    {
+                      "label": "EKC"
+                    }
+                  ]
+                },
+                {
+                  "label": "beta-hemolytic streptococcal conjunctivitis"
+                },
+                {
+                  "label": "trachoma"
+                },
+                {
+                  "label": "herpes simplex"
+                },
+                {
+                  "label": "varicella zoster"
+                }
+              ]
+            },
+            {
+              "label": "autoimmune/autoreactive/allergic",
+              "children": [
+                {
+                  "label": "atopic keratoconjunctivitis"
+                },
+                {
+                  "label": "rosacea/blepharitis"
+                },
+                {
+                  "label": "sarcoidosis"
+                },
+                {
+                  "label": "scleroderma"
+                },
+                {
+                  "label": "graft-vs-host disease"
+                }
+              ]
+            },
+            {
+              "label": "toxic blepharoconjunctivitis",
+              "children": [
+                {
+                  "label": "pilocarpine"
+                },
+                {
+                  "label": "echothiophate iodide",
+                  "children": [
+                    {
+                      "label": "acetylcholinesterase inhibitor"
+                    }
+                  ]
+                },
+                {
+                  "label": "demecarium bromide"
+                },
+                {
+                  "label": "epinephrine"
+                },
+                {
+                  "label": "timolol"
+                },
+                {
+                  "label": "idoxuridine"
+                }
+              ]
+            },
+            {
+              "label": "linear IgA deficiency",
+              "children": [
+                {
+                  "label": "can result in an ocular syndrome that is clinically identical to MMP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "spastic entropion",
+          "children": [
+            {
+              "label": "essential blepharospasm"
+            },
+            {
+              "label": "ocular irritation"
+            },
+            {
+              "label": "surgical trauma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "aggressive lubrication"
+            },
+            {
+              "label": "antibiotic ointment",
+              "children": [
+                {
+                  "label": "bacitracin"
+                },
+                {
+                  "label": "erythromycin",
+                  "children": [
+                    {
+                      "label": "for SPK"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "adhesive tape",
+              "children": [
+                {
+                  "label": "temporizing"
+                }
+              ]
+            },
+            {
+              "label": "bandage contact lens",
+              "children": [
+                {
+                  "label": "for corneal involvement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "involutional",
+              "children": [
+                {
+                  "label": "horizontal lid tightening"
+                },
+                {
+                  "label": "lid retractor repair"
+                }
+              ]
+            },
+            {
+              "label": "cicatricial",
+              "children": [
+                {
+                  "label": "excision of scar tissue + skin/ tarsal/conj grafts"
+                }
+              ]
+            },
+            {
+              "label": "spastic",
+              "children": [
+                {
+                  "label": "suture techniques (Quickert sutures)",
+                  "children": [
+                    {
+                      "label": "recurrence is anticipated"
+                    }
+                  ]
+                },
+                {
+                  "label": "Botox injection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "discuss treatment options",
+              "children": [
+                {
+                  "label": "discuss possible recurrence"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "corneal complications"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "depends on severity of corneal involvement"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Entropion.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 191,
+      "connector_rejected": 13,
+      "connector_edges": 133,
+      "connector_width": 1.415,
+      "text_labels": 110,
+      "tree_nodes": 110,
+      "component_roots": 6,
+      "spatially_recovered_labels": 9,
+      "connector_match_ratio": 0.6963,
+      "root_font_size": 6.601,
+      "warnings": []
+    }
+  }
+}

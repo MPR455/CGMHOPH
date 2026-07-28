@@ -1,0 +1,419 @@
+{
+  "label": "5.9.1. Nystagmus (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "definition",
+          "children": [
+            {
+              "label": "nystagmus",
+              "children": [
+                {
+                  "label": "rhythmic, to-and-fro eye movements that incorporate a slow phase"
+                }
+              ]
+            },
+            {
+              "label": "jerk nystagmus",
+              "children": [
+                {
+                  "label": "has 2 phases",
+                  "children": [
+                    {
+                      "label": "(1) a slow-phase drift from the visual target"
+                    },
+                    {
+                      "label": "(2) a corrective saccade (fast phase) back to the target"
+                    }
+                  ]
+                },
+                {
+                  "label": "direction of jerk nystagmus is reported as the direction of its fast-phase component"
+                },
+                {
+                  "label": "slow-phase component indicates the pathology"
+                }
+              ]
+            },
+            {
+              "label": "pendular nystagmus",
+              "children": [
+                {
+                  "label": "back-and-forth slow-phase movements that occur without a fast phase"
+                }
+              ]
+            },
+            {
+              "label": "saccadic intrusions/oscillations",
+              "children": [
+                {
+                  "label": "abnormal saccadic movements",
+                  "children": [
+                    {
+                      "label": "adversely affect visual fixation"
+                    },
+                    {
+                      "label": "have no slow phase"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "dissociated nystagmus",
+              "children": [
+                {
+                  "label": "amplitude of oscillations differs in each eye"
+                }
+              ]
+            },
+            {
+              "label": "disconjugate/disjunctive nystagmus",
+              "children": [
+                {
+                  "label": "direction of oscillations differs between the 2 eyes"
+                }
+              ]
+            },
+            {
+              "label": "oscillopsia",
+              "children": [
+                {
+                  "label": "sensation of environmental movement"
+                },
+                {
+                  "label": "acquired nystagmus"
+                },
+                {
+                  "label": "absent in children with congenital nystagmus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "history",
+          "children": [
+            {
+              "label": "associated neurologic symptoms",
+              "children": [
+                {
+                  "label": "vertigo"
+                },
+                {
+                  "label": "ataxia"
+                },
+                {
+                  "label": "motor weakness"
+                },
+                {
+                  "label": "sensory weakness"
+                }
+              ]
+            },
+            {
+              "label": "family history of abnormal eye movements or strabismus"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "a few beats of nystagmus are normally present in the extremes of horizontal gaze (beyond 45°)",
+              "children": [
+                {
+                  "label": "especially in older patients"
+                },
+                {
+                  "label": "should not be considered pathologic unless the nystagmus is",
+                  "children": [
+                    {
+                      "label": "persistent"
+                    },
+                    {
+                      "label": "asymmetric (eg, present to the left but not the right)"
+                    },
+                    {
+                      "label": "accompanied by other features"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nystagmus in primary position may degrade visual acuity"
+            },
+            {
+              "label": "any abnormal eye movement in the cardinal positions should be examined",
+              "children": [
+                {
+                  "label": "monocular or binocular"
+                },
+                {
+                  "label": "conjugate",
+                  "children": [
+                    {
+                      "label": "the eyes behave similarly"
+                    }
+                  ]
+                },
+                {
+                  "label": "horizontal, vertical, torsional, or mixed in pattern"
+                },
+                {
+                  "label": "continuous or induced by a particular eye position"
+                },
+                {
+                  "label": "reduced at a null point",
+                  "children": [
+                    {
+                      "label": "characterized by slow phases only (ie, pendular nystagmus), fast-and-slow phases (ie, jerk nystagmus), or fast phases only (ie, saccadic intrusion)"
+                    },
+                    {
+                      "label": "field of gaze at which the nystagmus is minimal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "amplitude of nystagmus often changes with gaze position"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "illuminated Frenzel (high-magnification) goggles",
+              "children": [
+                {
+                  "label": "block the patient’s fixation and magnify abnormal eye movements"
+                }
+              ]
+            },
+            {
+              "label": "20 D lens"
+            },
+            {
+              "label": "slit lamp"
+            },
+            {
+              "label": "direct ophthalmoscope"
+            },
+            {
+              "label": "ocular motor recordings",
+              "children": [
+                {
+                  "label": "objective and highly sensitive measure of eye movements"
+                },
+                {
+                  "label": "rarely needed in standard clinical practice"
+                }
+              ]
+            },
+            {
+              "label": "video recording"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Gaze-Evoked Nystagmus",
+      "children": [
+        {
+          "label": "inability to maintain fixation in eccentric gaze",
+          "children": [
+            {
+              "label": "eyes drift back to the midline",
+              "children": [
+                {
+                  "label": "a corrective saccade is generated to reposition the eyes on the eccentric target",
+                  "children": [
+                    {
+                      "label": "fast phase is always in the direction of gaze"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Alexander’s law",
+          "children": [
+            {
+              "label": "nystagmus increases in intensity (amplitude and frequency) as the eyes are moved in the direction of the fast phase"
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "dysfunction of the neural integrator",
+              "children": [
+                {
+                  "label": "horizontal gaze",
+                  "children": [
+                    {
+                      "label": "nucleus prepositus hypoglossi"
+                    }
+                  ]
+                },
+                {
+                  "label": "vertical gaze",
+                  "children": [
+                    {
+                      "label": "interstitial nucleus of Cajal",
+                      "children": [
+                        {
+                          "label": "medial vestibular nuclei"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "flocculus and nodulus of the cerebellum also play a role in maintaining an eccentric position of gaze"
+                },
+                {
+                  "label": "neural control of eye movements",
+                  "children": [
+                    {
+                      "label": "• PPRF: saccadic generator for horizontal eye movements (pons )",
+                      "children": [
+                        {
+                          "label": "• nucleus prepositus hypoglossi: neural integrator for horizontal eye movements"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "• riMLF: saccadic generator for vertical (and torsional) eye movements (midbrain)",
+                      "children": [
+                        {
+                          "label": "• interstitial nucleus of Cajal: neural integrator for vertical and torsional eye movements"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "a few beats of symmetric jerk nystagmus at the extremes of far horizontal gaze is physiologic",
+          "children": [
+            {
+              "label": "no rebound nystagmus"
+            },
+            {
+              "label": "no saccadic dysmetria"
+            }
+          ]
+        },
+        {
+          "label": "further evaluation is required if",
+          "children": [
+            {
+              "label": "nystagmus is asymmetric"
+            },
+            {
+              "label": "nystagmus is sustained"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "metabolic/toxic",
+              "children": [
+                {
+                  "label": "ethanol"
+                },
+                {
+                  "label": "anticonvulsants"
+                },
+                {
+                  "label": "sedatives"
+                },
+                {
+                  "label": "hypnotics"
+                }
+              ]
+            },
+            {
+              "label": "ipsilateral lesion of the brainstem or cerebellum",
+              "children": [
+                {
+                  "label": "stroke"
+                },
+                {
+                  "label": "demyelination"
+                },
+                {
+                  "label": "tumor"
+                }
+              ]
+            },
+            {
+              "label": "end-organ disease",
+              "children": [
+                {
+                  "label": "extraocular myopathies"
+                },
+                {
+                  "label": "myasthenia"
+                },
+                {
+                  "label": "pattern similar to that observed with lesions of the central nervous system"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Rebound Nystagmus",
+          "children": [
+            {
+              "label": "after prolonged eccentric viewing",
+              "children": [
+                {
+                  "label": "jerk nystagmus in the opposite direction after an attempted return to primary gaze"
+                }
+              ]
+            },
+            {
+              "label": "often a manifestation of cerebellar disease"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.9.1. Nystagmus (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 194,
+      "connector_rejected": 2,
+      "connector_edges": 123,
+      "connector_width": 0.966,
+      "text_labels": 104,
+      "tree_nodes": 104,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.634,
+      "root_font_size": 4.104,
+      "warnings": []
+    }
+  }
+}

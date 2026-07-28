@@ -1,0 +1,106 @@
+---
+title: "9.5.1. Uveitis Classification)"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.5.1. Uveitis Classification).pdf"
+---
+
+# 9.5.1. Uveitis Classification)
+
+## Hierarchy
+
+- introduction
+  - uveitis
+    - inflammation (ie, -itis) of the uvea
+    - • involvement of retina, sclera, cornea, vitreous, and optic nerve
+  - frequently associated with systemic disease
+    - careful, thorough history and review of systems
+    - comprehensive physical examination of eye/ pertinent organ systems
+  - laboratory studies
+    - can help determine the etiology
+    - are never a substitute for a thorough history and physical examination
+- Categorization by Clinical Course
+  - acute uveitis
+    - sudden onset and limited duration <3 months
+  - chronic uveitis
+    - persistent, with relapse occurring in <3 months after discontinuing treatment
+  - recurrent uveitis
+    - repeated episodes separated by periods of inactivity without treatment that last ≥3 months
+  - distribution of ocular involvement
+    - focal
+    - multifocal
+    - diffuse
+  - severity
+    - low grade
+    - severe
+  - granulomatous vs. nongranulomatous inflammation
+    - nongranulomatous
+      - lymphocytic and plasma cell infiltrate
+    - granulomatous
+      - epithelioid and giant cells
+  - discrete granuloma
+    - sarcoidosis
+      - clinical appearance of uveitis as granulomatous or nongranulomatous may not correlate with the histologic description
+  - diffuse granulomatous inflammation
+    - Vogt-Koyanagi-Harada (VKH) syndrome
+    - sympathetic ophthalmia
+  - zonal granulomatous disease
+    - lens-induced uveitis
+- Classification of Uveitis
+  - Standardization of Uveitis Nomenclature (SUN) Working Group
+    - anterior uveitis
+      - anterior chamber
+    - intermediate uveitis
+      - vitreous
+    - posterior uveitis
+      - retina or choroid
+    - panuveitis
+    - “anterior and intermediate uveitis”
+      - vitritis is more than expected in an isolated anterior uveitis
+  - See Tables 5-1 and 5-2
+- Uveitis Evaluation
+  - See Table 5-4
+- Retinal Vasculitis
+  - retinal vasculitis
+    - retinal vascular changes in association with ocular inflammation
+      - perivascular sheathing
+      - vascular leakage or occlusion
+  - vasculopathy
+    - vessel changes but no visible evidence of inflammation
+- Anterior Uveitis
+  - anterior uveitis
+    - inflammation of the iris & ciliary body
+    - anterior chamber is the primary site of inflammation
+  - iritis
+    - inflammation confined to the anterior chamber
+  - iridocyclitis
+    - cells in the retrolental (anterior vitreous) space
+  - keratouveitis
+  - corneal inflammation with secondary involvement of the anterior chamber
+  - sclerouveitis
+    - scleral inflammation and uveal tract
+  - the primary site of inflammation is named first
+- Panuveitis
+  - inflammation is diffuse without a predominant site
+    - anterior chamber, vitreous, and retina and/or choroid
+- Posterior Uveitis
+  - inflammation of retina and/or choroid
+    - focal, multifocal, or diffuse areas of retinitis or choroiditis
+  - varying degrees of vitreous cellular activity
+    - diffuse
+    - overlying foci of active inflammation
+    - posterior vitreous face
+  - complications
+    - macular edema
+    - peripheral retinal vasculitis
+      - See Table 5-5
+    - retinal or choroidal neovascularization
+- Intermediate Uveitis
+  - inflammation of posterior ciliary body & pars plana
+    - vitreous cavity is the major site of inflammation
+  - +- peripheral retinal vasculitis
+  - floaters
+    - eye frequently appears quiet externally
+  - vision loss
+    - chronic cystoid macular edema
+    - cataract formation

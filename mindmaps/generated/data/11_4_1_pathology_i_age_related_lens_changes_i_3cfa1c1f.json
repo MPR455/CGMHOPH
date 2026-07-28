@@ -1,0 +1,308 @@
+{
+  "label": "11.4.1. Pathology (I): Age- related Lens Changes (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "increase in mass and thickness"
+        },
+        {
+          "label": "compression and hardening (nuclear sclerosis)"
+        },
+        {
+          "label": "decrease in accommodative power"
+        },
+        {
+          "label": "chemical modification/proteolytic cleavage of crystallins",
+          "children": [
+            {
+              "label": "formation of high-molecular-mass protein aggregates",
+              "children": [
+                {
+                  "label": "abrupt fluctuations in the local refractive index of the lens"
+                },
+                {
+                  "label": "light scattering"
+                },
+                {
+                  "label": "reduced transparency"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "increased pigmentation of nucleus",
+          "children": [
+            {
+              "label": "yellow or brown"
+            }
+          ]
+        },
+        {
+          "label": "decreased concentrations of",
+          "children": [
+            {
+              "label": "glutathione"
+            },
+            {
+              "label": "potassium",
+              "children": [
+                {
+                  "label": "reducing agent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "increased concentrations of",
+          "children": [
+            {
+              "label": "sodium"
+            },
+            {
+              "label": "calcium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nuclear Cataract",
+      "children": [
+        {
+          "label": "some degree of nuclear sclerosis/yellowing is normal after age 50",
+          "children": [
+            {
+              "label": "interferes only minimally with visual function"
+            }
+          ]
+        },
+        {
+          "label": "excessive yellowing & light scattering",
+          "children": [
+            {
+              "label": "central opacity",
+              "children": [
+                {
+                  "label": "nuclear cataract"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "usually bilateral",
+          "children": [
+            {
+              "label": "may be asymmetric"
+            }
+          ]
+        },
+        {
+          "label": "progress slowly"
+        },
+        {
+          "label": "distance vision impairment> near vision impairment"
+        },
+        {
+          "label": "increase in the refractive index of the lens",
+          "children": [
+            {
+              "label": "myopic shift",
+              "children": [
+                {
+                  "label": "lenticular myopia"
+                },
+                {
+                  "label": "second sight",
+                  "children": [
+                    {
+                      "label": "presbyopic individuals can read without spectacles"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "monocular diplopia"
+        },
+        {
+          "label": "poor color discrimination",
+          "children": [
+            {
+              "label": "at the blue end of the visible light spectrum"
+            }
+          ]
+        },
+        {
+          "label": "reduced photopic retinal function"
+        },
+        {
+          "label": "brunescent nuclear cataract",
+          "children": [
+            {
+              "label": "advanced cases"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "normal"
+            }
+          ]
+        },
+        {
+          "label": "electron microscopy",
+          "children": [
+            {
+              "label": "increased number of lamellar membrane whorls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "agents decreasing IOP",
+      "children": [
+        {
+          "label": "heroin"
+        },
+        {
+          "label": "alcohol"
+        },
+        {
+          "label": "cannabis"
+        }
+      ]
+    },
+    {
+      "label": "Posterior Subcapsular Cataracts",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "aging",
+              "children": [
+                {
+                  "label": "younger patients than those with nuclear or cortical cataracts"
+                }
+              ]
+            },
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "systemic, topical, or intraocular corticosteroid use"
+            },
+            {
+              "label": "inflammation"
+            },
+            {
+              "label": "ionizing radiation"
+            },
+            {
+              "label": "alcoholism"
+            }
+          ]
+        },
+        {
+          "label": "subtle iridescent sheen",
+          "children": [
+            {
+              "label": "granular opacities",
+              "children": [
+                {
+                  "label": "plaquelike opacity",
+                  "children": [
+                    {
+                      "label": "alcohol decreases IOP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "posterior subcapsular cortex"
+        },
+        {
+          "label": "usually axial"
+        },
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "glare"
+            },
+            {
+              "label": "poor vision",
+              "children": [
+                {
+                  "label": "especially under bright lighting conditions"
+                }
+              ]
+            },
+            {
+              "label": "near vision impairment> distance vision impairment"
+            },
+            {
+              "label": "monocular diplopia"
+            }
+          ]
+        },
+        {
+          "label": "posterior migration of the lens epithelial cells from the lens equator",
+          "children": [
+            {
+              "label": "the cells undergo aberrant enlargement",
+              "children": [
+                {
+                  "label": "Wedl or bladder cells"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "agents increasing IOP",
+      "children": [
+        {
+          "label": "LSD"
+        },
+        {
+          "label": "ketamine"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.4.1. Pathology (I) - Age- related Lens Changes (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 69,
+      "connector_rejected": 2,
+      "connector_edges": 67,
+      "connector_width": 1.063,
+      "text_labels": 75,
+      "tree_nodes": 75,
+      "component_roots": 5,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.971,
+      "root_font_size": 5.314,
+      "warnings": []
+    }
+  }
+}

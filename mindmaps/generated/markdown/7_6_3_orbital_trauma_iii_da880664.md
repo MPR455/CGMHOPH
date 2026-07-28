@@ -1,0 +1,93 @@
+---
+title: "7.6.3. Orbital trauma (III)"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.6.3. Orbital trauma (III).pdf"
+---
+
+# 7.6.3. Orbital trauma (III)
+
+## Hierarchy
+
+- Intraorbital Foreign Bodies
+  - imaging
+    - plain-film radiographs
+      - if radiopaque
+    - CT
+      - wooden foreign bodies may be missed on CT!
+        - seen better on MRI
+    - MRI
+      - should be avoided if there is a possibility that the foreign object is ferromagnetic
+      - can be safely performed with a BB in the orbit
+    - orbital ultrasonography
+      - for foreign bodies positioned more anteriorly
+  - treatment
+    - it is sometimes possible to locate the foreign body by surgically following the fistulous tract posteriorly
+    - culturing the wound (or the foreign body)
+    - antibiotics
+    - indications for foreign body removal
+      - vegetable matter
+      - easily accessible in the anterior orbit
+    - indications for observation
+      - inert
+        - BBS are usually best left in place
+      - smooth edges
+      - located in the posterior orbit
+- Traumatic Vision Loss With Clear Media
+  - true vision loss without evidence of globe injury
+    - suggests traumatic dysfunction of the optic nerve
+      - traumatic optic neuropathy
+  - mechanisms
+    - direct injury to the optic nerve from a penetrating wound
+    - disruption of the blood supply to the optic nerve due to a compartment syndrome
+      - posttraumatic orbital edema or hemorrhage causes orbital pressure to increase above arterial perfusion pressure
+    - indirect injury caused by force from a frontal blow transmitted to the optic nerve in the orbital apex and optic canal
+      - usually have a history of
+        - blunt trauma to the frontal region
+        - rapid deceleration of the cranium
+        - loss of consciousness associated with frontal head trauma
+  - emergency decompression of the orbit
+    - tight orbit, increased IOP, and decreased vision with afferent pupillary defect
+    - disinsertion of the eyelids from the lateral canthus
+      - lateral canthotomy and cantholysis
+    - lateral canthotomy alone does not sufficiently decrease orbital pressure
+      - inferior cantholysis and sometimes superior cantholysis are also required
+  - thin-section CT scans of the orbital apex and anterior clinoid process
+  - management
+    - all patients with decreased vision following periorbital trauma should be urgently examined for evidence of direct globe injury
+      - Is an afferent pupillary defect (APD) present?
+        - APD with intact globe strongly suggests traumatic optic neuropathy
+        - APD detection may be difficult if the patient has received narcotics that cause pupillary constriction
+      - Is there a “tight” orbit?
+        - retrobulbar hemorrhage or edema
+          - proptosis
+          - ptosis
+          - limitation of extraocular motility
+        - portable applanation tonometer
+          - increased IOP reflects underlying increased orbital pressure
+        - fundus examination may reveal a central retinal artery occlusion
+        - vision loss is more often caused by occlusion of the posterior ciliary arteries
+          - have a lower perfusion pressure
+    - high-dose corticosteroids
+      - may not provide any additional visual benefit over observation alone
+    - surgical decompression of the optic canal
+      - decompression of the optic nerve provides no additional benefit over observation
+      - could potentially be harmful in patients with traumatic optic neuropathy & concomitant head trauma
+    - observation
+- Orbital Hemorrhage
+  - etiology
+    - trauma
+    - surgery
+    - spontaneous
+      - vascular tumor of the orbit
+      - blood dyscrasias
+  - surgical management
+    - urgent lateral canthotomy and cantholysis
+    - orbital decompression
+    - surgical drainage
+    - seldom necessary unless visual function is compromised by
+      - compression of the optic nerve
+      - increased orbital pressure that impedes arterial perfusion
+  - hematic cyst
+    - following accidental trauma
+    - usually beneath the periosteum

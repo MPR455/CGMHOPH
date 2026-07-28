@@ -1,0 +1,338 @@
+{
+  "label": "10.7.2. Medical Management of Glaucoma (II): β-Adrenergic Antagonists",
+  "root": true,
+  "children": [
+    {
+      "label": "mechanism",
+      "children": [
+        {
+          "label": "inhibit cyclic adenosine monophosphate (cAMP) production in ciliary epithelium",
+          "children": [
+            {
+              "label": "reduce aqueous humor secretion",
+              "children": [
+                {
+                  "label": "20%–50%"
+                },
+                {
+                  "label": "2.5 μL/min to 1.9 μL/min"
+                },
+                {
+                  "label": "during the day",
+                  "children": [
+                    {
+                      "label": "much less effect during sleep"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "reduce IOP",
+              "children": [
+                {
+                  "label": "20%–30%"
+                },
+                {
+                  "label": "within 1 hour of instillation"
+                },
+                {
+                  "label": "up to 4 weeks after discontinuation"
+                },
+                {
+                  "label": "reduce IOP in the untreated contralateral eye"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "dosing",
+      "children": [
+        {
+          "label": "twice-daily"
+        },
+        {
+          "label": "± nonselective agents may be used once daily"
+        },
+        {
+          "label": "dosing first thing in the morning is preferred",
+          "children": [
+            {
+              "label": "to blunt an early-morning pressure rise"
+            },
+            {
+              "label": "to minimize the risk of systemic hypotension during sleep"
+            }
+          ]
+        },
+        {
+          "label": "in many patients, timolol 0.25% is as effective as timolol 0.5%"
+        }
+      ]
+    },
+    {
+      "label": "additive effects",
+      "children": [
+        {
+          "label": "β-Blockers are additive in combination with miotics, adrenergic agonists, CAIs (both topical and systemic), and prostaglandin analogues"
+        },
+        {
+          "label": "β-blockers + nonselective adrenergic agonists",
+          "children": [
+            {
+              "label": "only slightly additive"
+            }
+          ]
+        },
+        {
+          "label": "β-blockers + α2-adrenergic agonists",
+          "children": [
+            {
+              "label": "more additive"
+            }
+          ]
+        },
+        {
+          "label": "fixed combinations of timolol + prostaglandin analogue",
+          "children": [
+            {
+              "label": "once daily"
+            },
+            {
+              "label": "slightly less effective than their individual components given separately"
+            },
+            {
+              "label": "timolol + latanoprost",
+              "children": [
+                {
+                  "label": "additional IOP reduction of 13%-37%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ocular and systemic adverse effects",
+      "children": [
+        {
+          "label": "bronchospasm",
+          "children": [
+            {
+              "label": "may induce severe bronchospasm in susceptible patients"
+            }
+          ]
+        },
+        {
+          "label": "bradycardia",
+          "children": [
+            {
+              "label": "pulse should be measured"
+            },
+            {
+              "label": "withhold if pulse rate slow"
+            }
+          ]
+        },
+        {
+          "label": "increased heart block",
+          "children": [
+            {
+              "label": "withhold if > first-degree heart block"
+            }
+          ]
+        },
+        {
+          "label": "lowered blood pressure",
+          "children": [
+            {
+              "label": "syncope"
+            }
+          ]
+        },
+        {
+          "label": "CNS depression",
+          "children": [
+            {
+              "label": "mood changes"
+            },
+            {
+              "label": "depression"
+            },
+            {
+              "label": "altered mentation"
+            },
+            {
+              "label": "lethargy"
+            },
+            {
+              "label": "light-headedness"
+            }
+          ]
+        },
+        {
+          "label": "reduced exercise tolerance"
+        },
+        {
+          "label": "reduced glucose tolerance"
+        },
+        {
+          "label": "masking of hypoglycemic signs and symptoms"
+        },
+        {
+          "label": "abrupt withdrawal can exacerbate symptoms of hyperthyroidism"
+        },
+        {
+          "label": "allergy",
+          "children": [
+            {
+              "label": "myasthenia gravis aggravation"
+            }
+          ]
+        },
+        {
+          "label": "impotence"
+        },
+        {
+          "label": "reduced libido"
+        },
+        {
+          "label": "visual disturbance"
+        },
+        {
+          "label": "corneal anesthesia"
+        },
+        {
+          "label": "punctate keratitis"
+        },
+        {
+          "label": "alteration of serum lipids",
+          "children": [
+            {
+              "label": "decrease high-density lipoprotein"
+            },
+            {
+              "label": "increase cholesterol levels"
+            },
+            {
+              "label": "no evidence that this influences cardiovascular risk"
+            },
+            {
+              "label": "carteolol may have less effect on serum lipid levels"
+            }
+          ]
+        },
+        {
+          "label": "use with caution in children"
+        },
+        {
+          "label": "use of a gel vehicle decreases the plasma concentration of β-blockers compared to the equivalent solution"
+        }
+      ]
+    },
+    {
+      "label": "efficacy",
+      "children": [
+        {
+          "label": "10%–20% fail to respond with significantly lower IOP"
+        },
+        {
+          "label": "patients on systemic β-blocker may experience little additional IOP lowering from a topical β-blocker"
+        },
+        {
+          "label": "long-term drift/tachyphylaxis",
+          "children": [
+            {
+              "label": "extended use of β-blockers may reduce their effectiveness"
+            }
+          ]
+        },
+        {
+          "label": "short-term escape",
+          "children": [
+            {
+              "label": "receptor saturation (drug-induced up- regulation of β-adrenergic receptors)"
+            },
+            {
+              "label": "within a few weeks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "6 topical β-adrenergic antagonists are approved",
+      "children": [
+        {
+          "label": "selective β1 antagonist",
+          "children": [
+            {
+              "label": "betaxolol"
+            },
+            {
+              "label": "safer in patients with pulmonary, CNS, or other systemic conditions",
+              "children": [
+                {
+                  "label": "activity of β1 is largely cardiac"
+                },
+                {
+                  "label": "activity of β2 is largely pulmonary"
+                }
+              ]
+            },
+            {
+              "label": "less effective than nonselective β-adrenergic antagonists"
+            }
+          ]
+        },
+        {
+          "label": "nonselective β1 and β2 antagonists",
+          "children": [
+            {
+              "label": "carteolol",
+              "children": [
+                {
+                  "label": "intrinsic sympathomimetic activity"
+                }
+              ]
+            },
+            {
+              "label": "levobunolol"
+            },
+            {
+              "label": "metipranolol"
+            },
+            {
+              "label": "timolol maleate"
+            },
+            {
+              "label": "timolol hemihydrate"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.7.2. Medical Management of Glaucoma (II) - β-Adrenergic Antagonists.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 80,
+      "connector_rejected": 0,
+      "connector_edges": 79,
+      "connector_width": 1.206,
+      "text_labels": 87,
+      "tree_nodes": 87,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.9875,
+      "root_font_size": 6.028,
+      "warnings": []
+    }
+  }
+}

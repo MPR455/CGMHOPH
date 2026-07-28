@@ -1,0 +1,654 @@
+{
+  "label": "Congenital Cataract",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "parents of a child have noted white pupils in his both eyes"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course"
+            },
+            {
+              "label": "maternal illness during pregnancy",
+              "children": [
+                {
+                  "label": "TORCHS"
+                }
+              ]
+            },
+            {
+              "label": "maternal drug ingestion during pregnancy"
+            },
+            {
+              "label": "premature birth",
+              "children": [
+                {
+                  "label": "ROP"
+                }
+              ]
+            },
+            {
+              "label": "growth & development delay",
+              "children": [
+                {
+                  "label": "systemic disease"
+                }
+              ]
+            },
+            {
+              "label": "ocular/systemic diseases in patient"
+            },
+            {
+              "label": "steroid use"
+            },
+            {
+              "label": "radiation"
+            },
+            {
+              "label": "family hx of eye disease",
+              "children": [
+                {
+                  "label": "congenital cataract"
+                },
+                {
+                  "label": "retinoblastoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA",
+              "children": [
+                {
+                  "label": "Teller cards",
+                  "children": [
+                    {
+                      "label": "grating cards"
+                    }
+                  ]
+                },
+                {
+                  "label": "tumbling E's"
+                },
+                {
+                  "label": "pictures"
+                }
+              ]
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "RAPD",
+              "children": [
+                {
+                  "label": "cataract should not cause RAPD"
+                }
+              ]
+            },
+            {
+              "label": "corneal diameter",
+              "children": [
+                {
+                  "label": "microcornea",
+                  "children": [
+                    {
+                      "label": "PFV"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "slit lamp exam",
+              "children": [
+                {
+                  "label": "cataract",
+                  "children": [
+                    {
+                      "label": "location"
+                    },
+                    {
+                      "label": "size",
+                      "children": [
+                        {
+                          "label": "<3 mm vs >3 mm"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "density",
+                      "children": [
+                        {
+                          "label": "retina visible with direct ophthalmoscope through undilated pupil?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "persistent fetal vasculature"
+                },
+                {
+                  "label": "examine family members"
+                }
+              ]
+            },
+            {
+              "label": "dilated fundus exam",
+              "children": [
+                {
+                  "label": "persistent fetal vasculature",
+                  "children": [
+                    {
+                      "label": "stalk between optic disc and lens"
+                    }
+                  ]
+                },
+                {
+                  "label": "medulloepithelioma"
+                },
+                {
+                  "label": "retinoblastoma"
+                },
+                {
+                  "label": "ROP"
+                },
+                {
+                  "label": "IP, Norrie disease"
+                }
+              ]
+            },
+            {
+              "label": "cycloplegic refraction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "lab tests are indicated in patients with bilateral cataract",
+          "children": [
+            {
+              "label": "lab tests not indicated if",
+              "children": [
+                {
+                  "label": "positive family history of isolated congenital/childhood cataract",
+                  "children": [
+                    {
+                      "label": "no known systemic diseases"
+                    }
+                  ]
+                },
+                {
+                  "label": "examination of parents shows lens opacities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "B-scan ultrasound",
+          "children": [
+            {
+              "label": "if no fundus view"
+            }
+          ]
+        },
+        {
+          "label": "urine testing",
+          "children": [
+            {
+              "label": "reducing substances",
+              "children": [
+                {
+                  "label": "galactosemia"
+                }
+              ]
+            },
+            {
+              "label": "amino acids",
+              "children": [
+                {
+                  "label": "Lowe syndrome"
+                },
+                {
+                  "label": "Alport syndrome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "RBC galactokinase",
+          "children": [
+            {
+              "label": "galactosemia"
+            }
+          ]
+        },
+        {
+          "label": "serum glucose",
+          "children": [
+            {
+              "label": "diabetes"
+            }
+          ]
+        },
+        {
+          "label": "serum calcium (low) & phosphorus (high)",
+          "children": [
+            {
+              "label": "hypoparathyroidism"
+            }
+          ]
+        },
+        {
+          "label": "serology for TORCH"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "congential/childhood cataract",
+          "children": [
+            {
+              "label": "bilateral",
+              "children": [
+                {
+                  "label": "familial (hereditary)",
+                  "children": [
+                    {
+                      "label": "AD",
+                      "children": [
+                        {
+                          "label": "external photograph shows dense white cataract involving the nucleus of the lens"
+                        },
+                        {
+                          "label": "most common"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "X-linked"
+                    },
+                    {
+                      "label": "AR",
+                      "children": [
+                        {
+                          "label": "rare"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "chromosome abnormality",
+                  "children": [
+                    {
+                      "label": "trisomy 13, 18, 21"
+                    }
+                  ]
+                },
+                {
+                  "label": "craniofacial syndromes"
+                },
+                {
+                  "label": "renal syndromes",
+                  "children": [
+                    {
+                      "label": "Lowe syndrome",
+                      "children": [
+                        {
+                          "label": "± posterior lenticonus"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Alport syndrome",
+                      "children": [
+                        {
+                          "label": "anterior lenticonus"
+                        },
+                        {
+                          "label": "anterior subcapsular cataract"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "musculoskeletal diseases",
+                  "children": [
+                    {
+                      "label": "myotonic dystrophy",
+                      "children": [
+                        {
+                          "label": "polychromatic lenticular deposits (“Christmas tree” cataract)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "metabolic diseases",
+                  "children": [
+                    {
+                      "label": "diabetes mellitus"
+                    },
+                    {
+                      "label": "galactosemia",
+                      "children": [
+                        {
+                          "label": "oil droplet cataract",
+                          "children": [
+                            {
+                              "label": "within the first few weeks of life"
+                            },
+                            {
+                              "label": "may be reversible with treatment"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "intrauterine infections"
+                },
+                {
+                  "label": "ocular anomalies",
+                  "children": [
+                    {
+                      "label": "aniridia"
+                    },
+                    {
+                      "label": "anterior segment dysgenesis"
+                    },
+                    {
+                      "label": "retinitis pigmentosa"
+                    }
+                  ]
+                },
+                {
+                  "label": "iatrogenic",
+                  "children": [
+                    {
+                      "label": "corticosteroids"
+                    },
+                    {
+                      "label": "radiation"
+                    }
+                  ]
+                },
+                {
+                  "label": "idiopathic"
+                }
+              ]
+            },
+            {
+              "label": "unilateral",
+              "children": [
+                {
+                  "label": "persistent fetal vasculature"
+                },
+                {
+                  "label": "posterior lenticonus/ lentiglobus"
+                },
+                {
+                  "label": "posterior segment tumor"
+                },
+                {
+                  "label": "retinal detachment"
+                },
+                {
+                  "label": "trauma (child abuse)"
+                },
+                {
+                  "label": "radiation"
+                },
+                {
+                  "label": "idiopathic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "retinoblastoma"
+        },
+        {
+          "label": "ROP"
+        },
+        {
+          "label": "Norrie disease",
+          "children": [
+            {
+              "label": "XLR",
+              "children": [
+                {
+                  "label": "boys only"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "incontinentia pigmenti",
+          "children": [
+            {
+              "label": "XLD",
+              "children": [
+                {
+                  "label": "girls only"
+                },
+                {
+                  "label": "unilateral"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PFV"
+        },
+        {
+          "label": "medulloepithelioma"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "congenital cataract (nuclear)"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "if visually not significant",
+          "children": [
+            {
+              "label": "<3 mm",
+              "children": [
+                {
+                  "label": "observation"
+                },
+                {
+                  "label": "dilating drops",
+                  "children": [
+                    {
+                      "label": "temporizing vs. definite rx for small cataracts"
+                    }
+                  ]
+                },
+                {
+                  "label": "treat amblyopia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "if visually significant",
+          "children": [
+            {
+              "label": "small unilateral cataracts may still result in amblyopia"
+            },
+            {
+              "label": ".>3 mm",
+              "children": [
+                {
+                  "label": "cataract surgery",
+                  "children": [
+                    {
+                      "label": "within days to weeks"
+                    },
+                    {
+                      "label": "+primary posterior capsulotomy",
+                      "children": [
+                        {
+                          "label": "+anterior vitrectomy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "refractive rehabilitation",
+                      "children": [
+                        {
+                          "label": "no IOL for children <6 mo of age",
+                          "children": [
+                            {
+                              "label": "spectacles"
+                            },
+                            {
+                              "label": "aphakic contact lens"
+                            },
+                            {
+                              "label": "IOL later in life"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Referrals",
+          "children": [
+            {
+              "label": "refer patients with bilateral cataract to pediatrician for systemic evaluation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "no IOL for cataract associated with JRA",
+      "children": [
+        {
+          "label": "pediatric IOL power —> aim for hyperopia; develop myopic shift later"
+        }
+      ]
+    },
+    {
+      "label": "Patient Education/ Counselling",
+      "children": [
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good final visual acuity if removed early"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "risk of amblyopia",
+              "children": [
+                {
+                  "label": "amblyopia treatment may be necessary"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "monitor for cataract progression and amblyopia"
+            },
+            {
+              "label": "monitor for postoperative complications",
+              "children": [
+                {
+                  "label": "opacification of posterior capsule"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Don’ts",
+          "children": [
+            {
+              "label": "children with rubella must be isolated from pregnant women"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Congenital Cataract.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 264,
+      "connector_rejected": 6,
+      "connector_edges": 193,
+      "connector_width": 0.71,
+      "text_labels": 163,
+      "tree_nodes": 163,
+      "component_roots": 8,
+      "spatially_recovered_labels": 7,
+      "connector_match_ratio": 0.7311,
+      "root_font_size": 4.969,
+      "warnings": []
+    }
+  }
+}

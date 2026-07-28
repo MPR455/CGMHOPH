@@ -1,0 +1,185 @@
+{
+  "label": "11.3.7. Developmental Defects (VI): Ectopia Lentis (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Hyperlysinemia",
+      "children": [
+        {
+          "label": "ectopia lentis"
+        },
+        {
+          "label": "mental disability"
+        },
+        {
+          "label": "muscular hypotony"
+        }
+      ]
+    },
+    {
+      "label": "Persistent Fetal Vasculature",
+      "children": [
+        {
+          "label": "persistent hyperplastic primary vitreous (PHPV)"
+        },
+        {
+          "label": "congenital"
+        },
+        {
+          "label": "nonhereditary"
+        },
+        {
+          "label": "unilateral",
+          "children": [
+            {
+              "label": "90%"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "lens",
+              "children": [
+                {
+                  "label": "white, fibrous retrolental tissue"
+                },
+                {
+                  "label": "posterior cortical opacification"
+                },
+                {
+                  "label": "progressive cataract formation"
+                }
+              ]
+            },
+            {
+              "label": "elongated ciliary processes"
+            },
+            {
+              "label": "prominent radial iris vessels"
+            },
+            {
+              "label": "persistent hyaloid artery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ectopia Lentis et Pupillae",
+      "children": [
+        {
+          "label": "autosomal recessive"
+        },
+        {
+          "label": "usually bilateral but not symmetric"
+        },
+        {
+          "label": "the lens and the pupil are displaced in opposite directions"
+        },
+        {
+          "label": "pupil",
+          "children": [
+            {
+              "label": "irregular"
+            },
+            {
+              "label": "slit shaped"
+            },
+            {
+              "label": "dilates poorly"
+            },
+            {
+              "label": "displaced from the normal position"
+            }
+          ]
+        },
+        {
+          "label": "dislocated lens may bisect the pupil or may be completely luxated"
+        },
+        {
+          "label": "associated ocular anomalies",
+          "children": [
+            {
+              "label": "severe axial myopia",
+              "children": [
+                {
+                  "label": "similar to Marfan"
+                }
+              ]
+            },
+            {
+              "label": "retinal detachment"
+            },
+            {
+              "label": "enlarged corneal diameter"
+            },
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "abnormal iris transillumination"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Genetic Contributions to Age-Related Cataracts",
+      "children": [
+        {
+          "label": "a large proportion of the risk of age-related cataracts is inherited"
+        },
+        {
+          "label": "cortical cataract",
+          "children": [
+            {
+              "label": ".>50% inherited"
+            },
+            {
+              "label": "EPHA2 (gene associated with congenital and age-related cortical cataracts)",
+              "children": [
+                {
+                  "label": "1p36"
+                },
+                {
+                  "label": "accounts for only a small fraction of cortical opacities"
+                },
+                {
+                  "label": "the first gene known to cause hereditary, nonsyndromic age-related cortical cataracts"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "nuclear cataract",
+          "children": [
+            {
+              "label": "35%–50% inherited"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.3.7. Developmental Defects (VI) - Ectopia Lentis (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 42,
+      "connector_rejected": 0,
+      "connector_edges": 42,
+      "connector_width": 0.597,
+      "text_labels": 46,
+      "tree_nodes": 46,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 1.0,
+      "root_font_size": 5.675,
+      "warnings": []
+    }
+  }
+}

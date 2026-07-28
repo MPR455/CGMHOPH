@@ -1,0 +1,322 @@
+{
+  "label": "4.11.4. Retina & Retinal pigment Epithelium (IV): Age-Related Macular Degeneration",
+  "root": true,
+  "children": [
+    {
+      "label": "etiology",
+      "children": [
+        {
+          "label": "genetic",
+          "children": [
+            {
+              "label": "leading cause of new blindness in US"
+            },
+            {
+              "label": "single nucleotide polymorphisms in the complement factor H (CFH) gene",
+              "children": [
+                {
+                  "label": "60%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "increasing age",
+          "children": [
+            {
+              "label": "smoking"
+            }
+          ]
+        },
+        {
+          "label": "positive family history"
+        },
+        {
+          "label": "oxidative stress",
+          "children": [
+            {
+              "label": "cardiovascular disease"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "histology",
+      "children": [
+        {
+          "label": "not clinically visible",
+          "children": [
+            {
+              "label": "electron microscopy",
+              "children": [
+                {
+                  "label": "deposits between plasma membrane (basal lamina) of RPE and basement membrane of RPE",
+                  "children": [
+                    {
+                      "label": "basal laminar deposits"
+                    }
+                  ]
+                },
+                {
+                  "label": "deposits between basement membrane of RPE and elastic portion of Bruch membrane",
+                  "children": [
+                    {
+                      "label": "basal linear deposits"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "light microscopy",
+              "children": [
+                {
+                  "label": "confluent deposits may be visible on light microscopy",
+                  "children": [
+                    {
+                      "label": "diffuse drusen"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Exudative AMD",
+      "children": [
+        {
+          "label": "choroidal neovascularization",
+          "children": [
+            {
+              "label": "between inner and outer Bruch membrane"
+            },
+            {
+              "label": "beneath RPE"
+            },
+            {
+              "label": "in subretinal space"
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "type 1",
+                  "children": [
+                    {
+                      "label": "basal laminar deposits/diffuse drusen"
+                    },
+                    {
+                      "label": "broad expanse disoriented/absent RPE",
+                      "children": [
+                        {
+                          "label": "within Bruch membrane or in the sub-RPE space"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "characteristic of AMD"
+                    }
+                  ]
+                },
+                {
+                  "label": "type 2",
+                  "children": [
+                    {
+                      "label": "small RPE defect",
+                      "children": [
+                        {
+                          "label": "subretinal space"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "more amenable to surgical excision",
+                      "children": [
+                        {
+                          "label": "characteristic of ocular histoplasmosis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "anatomical types of CNV",
+                  "children": [
+                    {
+                      "label": "type 1",
+                      "children": [
+                        {
+                          "label": "between Bruch membrane & RPE"
+                        },
+                        {
+                          "label": "usually occult"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "type 2",
+                      "children": [
+                        {
+                          "label": "between neurosensory retina & RPE"
+                        },
+                        {
+                          "label": "usually classic"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "type 3",
+                      "children": [
+                        {
+                          "label": "intraretinal"
+                        },
+                        {
+                          "label": "\"retinal angiomatous proliferation\""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "vascular channels"
+                },
+                {
+                  "label": "photoreceptor outer segments"
+                },
+                {
+                  "label": "basal linear/laminar deposits"
+                },
+                {
+                  "label": "hyperplastic RPE"
+                },
+                {
+                  "label": "inflammatory cells"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "macular edema"
+        },
+        {
+          "label": "sub-/intra-retinal hemorrhage"
+        }
+      ]
+    },
+    {
+      "label": "Nonexudative AMD",
+      "children": [
+        {
+          "label": "drusen",
+          "children": [
+            {
+              "label": "deposits between RPE and Bruch membrane",
+              "children": [
+                {
+                  "label": "PAS-positive"
+                }
+              ]
+            },
+            {
+              "label": "classification",
+              "children": [
+                {
+                  "label": "hard (hyaline)",
+                  "children": [
+                    {
+                      "label": "discrete"
+                    },
+                    {
+                      "label": "hyaline material"
+                    }
+                  ]
+                },
+                {
+                  "label": "soft",
+                  "children": [
+                    {
+                      "label": "poorly demarcated"
+                    },
+                    {
+                      "label": "amorphous",
+                      "children": [
+                        {
+                          "label": ".>63 micron"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "cleavage of RPE and basal laminar/linear deposits from Bruch membrane"
+                    }
+                  ]
+                },
+                {
+                  "label": "basal laminar/cuticular",
+                  "children": [
+                    {
+                      "label": "diffuse, small, regular, nodular deposits in macula"
+                    }
+                  ]
+                },
+                {
+                  "label": "calcific drusen",
+                  "children": [
+                    {
+                      "label": "sharply demarcated"
+                    },
+                    {
+                      "label": "glistening/refractile"
+                    },
+                    {
+                      "label": "RPE atrophy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "photoreceptor atrophy"
+        },
+        {
+          "label": "RPE atrophy",
+          "children": [
+            {
+              "label": "geographic atrophy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.11.4. Retina & Retinal pigment Epithelium (IV) - Age-Related Macular Degeneration.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 148,
+      "connector_rejected": 14,
+      "connector_edges": 91,
+      "connector_width": 1.603,
+      "text_labels": 77,
+      "tree_nodes": 77,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6149,
+      "root_font_size": 4.274,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "label": "Pigment Dispersion Syndrome",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "young myopic man with no ocular complaints"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "mid-peripheral iris transillumination defects (in both eyes)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "pigment dispersion syndrome/glaucoma"
+        },
+        {
+          "label": "trauma/surgery",
+          "children": [
+            {
+              "label": "iris chafe with sulcus IOL"
+            },
+            {
+              "label": "accidental or surgical trauma to iris"
+            },
+            {
+              "label": "siderosis"
+            }
+          ]
+        },
+        {
+          "label": "HSV/VZV uveitis"
+        },
+        {
+          "label": "PXF",
+          "children": [
+            {
+              "label": "iris TIDs are near the pupillary margin"
+            }
+          ]
+        },
+        {
+          "label": "albinism",
+          "children": [
+            {
+              "label": "Waardenburg syndrome",
+              "children": [
+                {
+                  "label": "• Partial albinism"
+                },
+                {
+                  "label": "• White forelock"
+                },
+                {
+                  "label": "• Deafness"
+                },
+                {
+                  "label": "• Dystopia canthorum"
+                },
+                {
+                  "label": "• Iris hypochromia",
+                  "children": [
+                    {
+                      "label": "pale blue eyes"
+                    },
+                    {
+                      "label": "heterochromia irides"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "radiation"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "visual field exam"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "PDS/PDG"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "argon laser trabeculoplasty"
+            },
+            {
+              "label": "selective laser trabeculoplasty",
+              "children": [
+                {
+                  "label": "greater risk of post-laser IOP spikes",
+                  "children": [
+                    {
+                      "label": "lower energy should be used"
+                    },
+                    {
+                      "label": "only 180 degrees of treatment is advised initially"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "IOP lowering medication"
+            },
+            {
+              "label": "miotic agents",
+              "children": [
+                {
+                  "label": "reduce iris-zonule contact"
+                },
+                {
+                  "label": "cause fluctuating myopia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "laser PI",
+              "children": [
+                {
+                  "label": "for early disease",
+                  "children": [
+                    {
+                      "label": "controversial"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "guarded filtering surgery"
+            },
+            {
+              "label": "tube shunt",
+              "children": [
+                {
+                  "label": "higher risk of hypotony",
+                  "children": [
+                    {
+                      "label": "avoid early overinfiltration"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "explain pathophysiology"
+            }
+          ]
+        },
+        {
+          "label": "Course",
+          "children": [
+            {
+              "label": "with age, the signs and symptoms of pigment dispersion may decrease"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "PDG",
+              "children": [
+                {
+                  "label": "risk of glaucoma is ≈25%–50%"
+                }
+              ]
+            },
+            {
+              "label": "RD",
+              "children": [
+                {
+                  "label": "myopia",
+                  "children": [
+                    {
+                      "label": "review RD symptoms"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "as a glaucoma suspect",
+              "children": [
+                {
+                  "label": "IOP"
+                },
+                {
+                  "label": "optic nerve appearance"
+                },
+                {
+                  "label": "VF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "refractive error",
+              "children": [
+                {
+                  "label": "blurred vision, halos, eye pain after exercise or pupil dilation"
+                },
+                {
+                  "label": "myopia"
+                }
+              ]
+            },
+            {
+              "label": "trauma/surgery"
+            },
+            {
+              "label": "herpes infection"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "slit lamp",
+              "children": [
+                {
+                  "label": "Krukenberg spindle"
+                },
+                {
+                  "label": "pigment on lens capsule"
+                },
+                {
+                  "label": "pigment on lens zonules"
+                },
+                {
+                  "label": "PXF material"
+                }
+              ]
+            },
+            {
+              "label": "gonioscopy",
+              "children": [
+                {
+                  "label": "TM pigmentation"
+                }
+              ]
+            },
+            {
+              "label": "funduscopy",
+              "children": [
+                {
+                  "label": "glaucomatous optic nerve damage"
+                },
+                {
+                  "label": "lattice degeneration"
+                },
+                {
+                  "label": "retinal detachment"
+                }
+              ]
+            },
+            {
+              "label": "examine other eye"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Pigment Dispersion Syndrome.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 135,
+      "connector_rejected": 8,
+      "connector_edges": 93,
+      "connector_width": 0.734,
+      "text_labels": 84,
+      "tree_nodes": 84,
+      "component_roots": 7,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6889,
+      "root_font_size": 5.137,
+      "warnings": []
+    }
+  }
+}

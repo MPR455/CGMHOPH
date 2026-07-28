@@ -1,0 +1,169 @@
+---
+title: "5.5.1. Patient With Transient Visual Loss (I): Transient Monocular Visual Loss (TMVL) (I)"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.5.1. Patient With Transient Visual Loss (I) - Transient Monocular Visual Loss (TMVL) (I).pdf"
+---
+
+# 5.5.1. Patient With Transient Visual Loss (I): Transient Monocular Visual Loss (TMVL) (I)
+
+## Hierarchy
+
+- Causes of transient monocular visual loss
+  - Nonvascular ocular causes
+    - tear film abnormalities
+      - improves with a blink or application of a tear supplement
+      - provoke blepharospasm
+        - moments of vision loss
+    - opacities, inflammation, or blood in the anterior chamber or the vitreous
+      - recurrent hyphema
+      - UGH syndrome
+    - intermittent angle-closure glaucoma
+      - halos and pain
+      - glaukomflecken
+    - macular disease
+      - prolonged visual recovery
+      - persistent afterimages following exposure to bright light
+      - abnormal photostress recovery test
+      - diseases
+        - detachment
+        - age-related macular degeneration
+        - ocular ischemia
+    - optic nerve disorders
+      - well-developed papilledema
+      - drusen
+        - grayouts or blackouts of vision
+          - brief
+            - <10 seconds
+          - clears completely
+          - precipitated by
+            - changes in posture
+            - spontaneous
+          - may involve 1 eye at a time
+          - in idiopathic intracranial hypertension, obscurations are not prognostic of optic nerve damage
+      - coloboma
+    - references
+  - Vascular diseases
+    - embolic
+    - carotid artery dissection
+    - vasculitis
+    - vasospasm
+    - systemic hypotension
+    - hyperviscosity, hypercoagulability
+    - ocular hypoperfusion
+  - Non-organic visual loss
+  - See Table 5-1
+- papilledema
+- transient visual obscurations
+- Introduction to transient visual loss
+  - definition
+    - sudden loss of visual function (partial or complete) in 1 or both eyes that lasts <24 hours
+  - most common cause
+    - transient monocular visual loss (TMVL)
+      - retinal ischemia due to carotid artery disease
+    - transient binocular visual disturbance
+      - migraine
+  - Monocular versus binocular visual loss
+    - monocular loss
+      - prechiasmal problem
+    - binocular loss
+      - chiasmal or retrochiasmal problem
+  - Age
+    - < 50 years
+      - migraine/vasospasm
+        - most common cause
+          - transient homonymous hemianopia is frequently misperceived by the patient as a monocular visual loss in the eye with the temporal field deficit
+      - eclampsia
+        - important exception in pregnant women
+          - within days of delivery
+          - transient visual loss may be a harbinger of more serious and permanent visual loss
+    - 50 years
+      - cerebrovascular disease
+      - giant cell arteritis
+  - Duration of visual loss
+    - only seconds
+      - optic disc drusen
+      - precipitated by a change in posture
+    - < 15 minutes
+      - ipsilateral internal carotid artery stenosis
+        - retinal emboli
+          - <1 hour
+            - usually resolves in 10–15 minutes
+    - 20–30 minutes
+      - scintillating scotoma of migraine (binocular)
+    - seconds to an hour
+      - retinal artery vasospasm
+  - Pattern of visual loss and recovery
+    - descending curtain in 1 eye
+    - tunnel-like contraction of vision
+    - sudden loss of vision
+      - retinal emboli
+    - altitudinal visual loss
+      - carotid artery disease
+      - vasospasm
+    - visual loss or disturbance precipitated by exercise
+      - vasospasm
+      - demyelinating disease
+        - Uhthoff phenomenon
+          - transient visual blurring with physical activity or elevation in body temperature
+          - in patients with a current or previous episode of optic neuritis
+    - binocular visual disturbance with geometric quality
+      - occipital lobe dysfunction
+        - migraine
+        - ischemia
+      - hexagonal “chicken wire” pattern
+        - seizure
+    - whiteout of vision in both eyes simultaneously
+      - occipital lobe ischemia
+    - complete bilateral visual loss
+      - gradual constriction (ie, “closing in”) of peripheral vision without positive visual phenomena
+    - homonymous hemianopia
+      - posterior circulation ischemia
+        - in association with brainstem and cerebellar symptoms
+  - Associated symptoms and additional signs
+    - positive visual phenomena (+ headache)
+      - migraine
+    - persistent headaches
+      - increased intracranial pressure
+    - intracranial noises
+      - increased intracranial pressure
+    - elderly patient with headaches, weight loss, fever, malaise, and scalp tenderness
+      - giant cell arteritis
+    - loss of consciousness, dizziness, diplopia, dysarthria, or focal weakness
+      - global perfusion problems
+        - often involving the brainstem or cortex
+    - skin or joint changes
+      - collagen vascular disease
+    - Raynaud phenomenon
+      - collagen vascular disease
+- Examination for transient visual loss
+  - thorough examination is crucial
+    - to rule out ocular and orbital causes of transient visual loss
+    - to assess the afferent visual function
+  - Examination should include
+    - testing for best-corrected visual acuity
+      - to look for retinovascular clues such as emboli, cotton-wool spots, vascular attenuation, or hemorrhage
+    - visual fields
+    - color vision
+    - relative afferent pupillary defect
+    - dilated ophthalmoscopy
+    - photostress recovery test
+      - positive photostress recovery test may indicate macular ischemia
+      - to differentiate vision loss caused by macular lesion or ocular ischemia from optic neuropathy
+        - maculopathy
+          - prolonged recovery times
+            - ≥ 90–180 seconds
+        - severe carotid artery stenosis
+        - optic neuropathy
+          - normal recovery times
+            - <30 seconds
+- Orbital Causes
+  - gaze-evoked visual loss
+    - induced by moving the eyes toward a certain direction, particularly downward
+      - ischemia from positional vascular obstruction
+    - suggests an orbital mass
+      - hemangioma
+      - meningioma
+  - other orbital findings
+    - proptosis
+    - limited ocular motility

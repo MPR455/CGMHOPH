@@ -1,0 +1,155 @@
+---
+title: "5.4.3. Patient With Decreased Vision: Classification & Management (III): Optic neuropathy (II): Idiopathic intracranial hypertension (IIH)"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.4.3. Patient With Decreased Vision - Classification & Management (III) - Optic neuropathy (II) - Idiopathic intracranial hypertension (IIH).pdf"
+---
+
+# 5.4.3. Patient With Decreased Vision: Classification & Management (III): Optic neuropathy (II): Idiopathic intracranial hypertension (IIH)
+
+## Hierarchy
+
+- epidemiology
+  - "pseudotumor cerebri"
+  - peaks in 3rd decade
+    - rare in prepubertal children
+      - obesity less a factor
+  - 90% female
+  - 90% obese
+    - rare in lean adults
+  - ± sleep apnea
+  - not definitely associated with any specific endocrinologic dysfunction
+- horizontal, NOT vertical
+  - transient visual obscurations
+- clinical presentation
+  - symptoms
+    - headache
+    - nausea
+    - diplopia
+      - secondary to abducens nerve paresis
+        - other neurologic abnormalities are not associated with IIH
+    - pulsatile tinnitus
+      - pulse synchronous bruit
+    - early
+      - enlarged blind spots
+      - normal visual acuity
+    - late
+      - optic nerve function may deteriorate in long- standing or severe cases
+        - visual field loss
+          - may mimic glaucomatous field loss
+        - natural history of IIH may result in severe vision loss
+          - visual acuity < 20/200 in at least 1 eye
+            - 26%
+  - papilledema
+  - pediatric IIH
+    - < 18 years
+      - afferent pupillary defect, if asymmetrical
+    - normal opening pressure among children is similar to adults
+    - predilection for boys
+    - predilection for nonobese children
+      - in contrast to adult IIH
+    - papilledema without headache or visual symptoms is more common in younger patients
+    - several cranial neuropathies have been associated with pediatric IIH
+      - reverse with lowering of the ICP
+      - cranial nerves (CNs) III, IV, VI, VII, IX, and XII
+- management
+  - ± self-limited
+  - long-term follow-up is essential
+    - visual acuity
+    - color vision
+    - quantitative perimetry
+      - frequency of visual field testing depends on
+        - severity of papilledema
+        - level of optic nerve dysfunction
+        - response to treatment
+    - stereophotographs of the optic nerve
+  - no treatment
+    - headache is controlled with minor analgesics
+  - weight loss
+    - for obese patients
+      - optic nerve dysfunction is absent
+    - weight loss alone can lead to resolution of IIH
+      - first choice
+  - medical therapy
+    - acetazolamide
+    - topiramate
+      - multiple beneficial effects
+        - headache control
+        - appetite suppression
+        - carbonic anhydrase inhibition
+    - furosemide
+      - patients intolerant of acetazolamide or topiramate
+    - corticosteroids
+      - controversial
+      - ICP can improve with use of corticosteroids
+      - ± recurrence during corticosteroid taper
+      - short course of high-dose intravenous corticosteroids
+        - for patients with fulminant papilledema and severe vision loss
+  - surgical therapy
+    - indications
+      - intractable headache
+        - despite maximally tolerated medical therapy
+      - progressive vision loss
+      - severe vision loss and papilledema from markedly elevated ICP
+    - optic nerve sheath fenestration (ONSF)
+      - indication
+        - substantial loss of vision without prominent headache
+      - directly protects the optic nerve
+        - bilateral ONSF may be required
+          - reduction of papilledema in the contralateral eye can occur
+      - lower morbidity
+        - does not lower ICP
+          - does not treat headache!
+      - 1%–2% risk of vision loss
+        - optic nerve injury
+        - central retinal artery occlusion (CRAO)
+        - central retinal vein occlusion (CRVO)
+      - repeat ONSF may be performed
+        - long-term success rate unclear
+        - technically more difficult because of scarring
+    - CSF diversion procedures
+      - lower ICP
+        - lumboperitoneal or ventriculoperitoneal shunt
+        - improvement of headache, abducens palsy (if present), and papilledema
+      - entails no direct risk to the optic nerve
+      - may become
+        - occluded
+        - infected
+        - altered in position
+    - bariatric surgery
+      - gastric bypass surgery
+      - for morbid obesity
+      - can effectively reduce both weight and ICP
+    - repeat lumbar punctures are not recommended therapy
+- differential diagnosis
+  - use of exogenous substances
+    - vitamin A
+      - 100,000 U/day
+    - retinoic acid
+    - tetracycline
+    - minocycline
+    - doxycycline
+    - lithium
+    - corticosteroid use or withdrawal
+  - cerebral venous obstruction
+    - trauma
+      - cyclosporine
+    - childbirth
+    - hypercoagulable state
+    - middle ear infection
+  - dural arteriovenous malformation
+  - systemic or localized extracranial venous obstruction
+    - after radical neck dissection
+  - systemic vasculitis
+  - lead to decreased venous outflow and increased ICP
+- diagnostic workup
+  - lumbar puncture
+    - should always be performed
+      - to confirm elevated ICP
+      - to rule out infectious or inflammatory processes
+  - magnetic resonance imaging (MRI)
+    - flattening of the globe
+    - enlarged optic nerve sheaths
+    - partially empty sella
+    - narrowing of the distal transverse sinus
+  - magnetic resonance venography (MRV)

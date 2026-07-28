@@ -1,0 +1,315 @@
+{
+  "label": "Neovascular AMD (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "symptoms",
+      "children": [
+        {
+          "label": "sudden onset",
+          "children": [
+            {
+              "label": "decreased vision"
+            },
+            {
+              "label": "metamorphopsia"
+            },
+            {
+              "label": "central/paracentral scotoma",
+              "children": [
+                {
+                  "label": "Amsler grid highly effective for early detection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical findings",
+      "children": [
+        {
+          "label": "subretinal fluid"
+        },
+        {
+          "label": "subretinal/sub-RPE blood"
+        },
+        {
+          "label": "subretinal/intraretinal lipid exudate",
+          "children": [
+            {
+              "label": "± massive exudation",
+              "children": [
+                {
+                  "label": "intraretinal hemorrhage may be an early sign of retinal angiomatous proliferation (RAP)"
+                },
+                {
+                  "label": "exudative RD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "subretinal pigment ring"
+        },
+        {
+          "label": "irregular elevation of RPE"
+        },
+        {
+          "label": "subretinal gray-green/gray-white lesion (CNV)"
+        },
+        {
+          "label": "cystoid macular edema"
+        },
+        {
+          "label": "sea fan pattern of subretinal small vessels"
+        },
+        {
+          "label": "PED",
+          "children": [
+            {
+              "label": "serous"
+            },
+            {
+              "label": "hemorrhagic"
+            }
+          ]
+        },
+        {
+          "label": "RPE tear"
+        }
+      ]
+    },
+    {
+      "label": "after treatment"
+    },
+    {
+      "label": "fluorescein patterns",
+      "children": [
+        {
+          "label": "classic CNV",
+          "children": [
+            {
+              "label": "type 2 neovascularization"
+            },
+            {
+              "label": "bright, lacy"
+            },
+            {
+              "label": "well-defined"
+            },
+            {
+              "label": "appears in early phase"
+            },
+            {
+              "label": "progressive leakage",
+              "children": [
+                {
+                  "label": "obscures the boundaries"
+                }
+              ]
+            },
+            {
+              "label": "before treatment"
+            }
+          ]
+        },
+        {
+          "label": "occult CNV",
+          "children": [
+            {
+              "label": "type 1 neovascularization"
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "1. PED",
+                  "children": [
+                    {
+                      "label": "• fibrovascular PED",
+                      "children": [
+                        {
+                          "label": "irregular RPE elevation",
+                          "children": [
+                            {
+                              "label": "best seen on stereo photos"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "progressive stippled leakage on FA",
+                          "children": [
+                            {
+                              "label": "1-3 minutes after injection"
+                            },
+                            {
+                              "label": "not as diffuse as classic CNV"
+                            },
+                            {
+                              "label": "irregular/nonhomogeneous"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "consistent with a serous PED"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "• vascularized serous PED",
+                      "children": [
+                        {
+                          "label": "has a notch, or hot spot, due to a vascular component",
+                          "children": [
+                            {
+                              "label": "rapid pooling of dye in a homogenous ground-glass pattern"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "2. late leakage of undetermined source"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "RAP",
+          "children": [
+            {
+              "label": "focal hot spot on FA and indocyanine green (ICG) angiography",
+              "children": [
+                {
+                  "label": "poorly defined in the early phases but better appreciated in late phases"
+                }
+              ]
+            },
+            {
+              "label": "late CME or pooling into a PED"
+            }
+          ]
+        },
+        {
+          "label": "hypofluorecence",
+          "children": [
+            {
+              "label": "thick blood, pigment, scar tissue, or a PED may block fluorescence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "anatomical types of CNV",
+      "children": [
+        {
+          "label": "type 1",
+          "children": [
+            {
+              "label": "originate from choriocapillaris",
+              "children": [
+                {
+                  "label": "between Bruch membrane & RPE"
+                }
+              ]
+            },
+            {
+              "label": "grow through a defect in Bruch membrane into sub–RPE space",
+              "children": [
+                {
+                  "label": "vascularized serous PED"
+                },
+                {
+                  "label": "fibrovascular PED",
+                  "children": [
+                    {
+                      "label": "irregular surface contour"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "usually occult"
+            }
+          ]
+        },
+        {
+          "label": "type 2",
+          "children": [
+            {
+              "label": "between RPE & neurosensory retina"
+            },
+            {
+              "label": "lacy or gray-green lesion"
+            },
+            {
+              "label": "less common than type 1"
+            },
+            {
+              "label": "usually classic"
+            }
+          ]
+        },
+        {
+          "label": "type 3",
+          "children": [
+            {
+              "label": "originate from deep capillary plexus of retina"
+            },
+            {
+              "label": "grow downward toward RPE"
+            },
+            {
+              "label": "intraretinal",
+              "children": [
+                {
+                  "label": "\"retinal angiomatous proliferation\""
+                }
+              ]
+            },
+            {
+              "label": "small area of red discoloration + retinal exudate or a bleb of subretinal fluid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ICG angiography",
+      "children": [
+        {
+          "label": "penetrates deeper through hemorrhage or pigment to reveal a hot spot that identifies CNV"
+        },
+        {
+          "label": "can differentiate between scar tissue and serous PED"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Neovascular AMD (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 125,
+      "connector_rejected": 8,
+      "connector_edges": 94,
+      "connector_width": 0.71,
+      "text_labels": 78,
+      "tree_nodes": 78,
+      "component_roots": 6,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.752,
+      "root_font_size": 7.104,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,181 @@
+---
+title: "7.10.8. Eyelid Neoplasms (V): Basal Cell Carcinoma"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.10.8. Eyelid Neoplasms (V) - Basal Cell Carcinoma.pdf"
+---
+
+# 7.10.8. Eyelid Neoplasms (V): Basal Cell Carcinoma
+
+## Hierarchy
+
+- epidemiology
+  - most common eyelid malignancy
+    - 90%–95%
+  - often located on
+    - lower eyelid margin (50%–60%)
+      - medial canthus (25%–30%)
+        - upper eyelid (15%)
+          - lateral canthus (5%)
+  - predisposing conditions
+    - fair-skinned
+    - blue-eyed
+    - red-haired or blond
+    - middle-aged and elderly persons
+      - seen with increasing frequency in younger patients
+    - English, Irish, Scottish, or Scandinavian ancestry
+    - prolonged sun exposure during the first 2 decades of life
+    - cigarette smoking
+  - patients with prior basal cell carcinomas have a higher probability of developing additional skin cancers
+  - systemic associations
+    - risk factors
+      - young patient
+      - positive family history
+    - conditions
+      - basal cell nevus syndrome (Gorlin syndrome)
+        - uncommon
+          - similar to Muir/Torre syndrome
+        - autosomal dominant
+        - multiple nevoid basal cell carcinomas
+          - appear early in life
+        - skeletal anomalies
+          - mandible
+          - maxilla
+          - vertebrae
+      - xeroderma pigmentosum
+        - rare
+        - autosomal recessive
+        - extreme sun sensitivity
+        - defective repair mechanism for UV light– induced DNA damage in skin cells
+- Management
+  - biopsy
+    - Figure 10-28
+    - necessary to confirm clinical suspicion of basal cell carcinoma
+    - incisional biopsy
+      - confirmatory office procedure
+      - site of incisional biopsy should be photographed
+      - characteristics of good incisional biopsy
+        - is representative of the clinically evident lesion
+        - is of adequate size for histologic processing
+        - is not excessively traumatized or crushed
+        - contains normal tissue at the margin to show the transitional area
+    - excisional biopsy
+      - when eyelid lesions are small and do not involve the eyelid margin
+      - when eyelid margin lesions are centrally located, away from the lateral canthus or lacrimal punctum
+      - histologic monitoring of tumor borders to ensure complete excision is mandatory
+        - borders of excisional biopsy should be marked
+        - if margins are positive, involved area should be reexcised
+          - surgeon must always be prepared to do a much larger reconstruction than originally anticipated
+        - techniques
+          - frozen section technique
+            - surgeon excises the clinically apparent tumor along with 1–2 mm margins
+            - sends the entire specimen, oriented on a drawing, to the pathologist for frozen section evaluation
+          - Mohs micrographic technique
+            - indications
+              - recurrent tumors
+              - deeply infiltrated tumors
+              - morpheaform tumors
+              - tumors in medial canthal region
+            - technique
+              - tissue may be removed in thin layers that allow 3-dimensional mapping of the tumor excision
+            - advantages
+              - preserves the maximal amount of healthy tissue
+                - may allow globe preservation, when conventional surgical techniques might indicate need for exenteration
+              - provides the best assurance of complete cancer removal
+              - Preoperative planning between the micrographic surgeon and oculoplastic surgeon
+            - limitation
+              - identifying margins when tumor has invaded orbital fat
+            - reconstruction
+              - urgent reconstruction is not critical
+              - early reconstruction
+                - affords maximum protection for the globe
+                - allows reconstruction to take place while the remaining eyelid margins are still fresh
+              - if immediate reconstruction is not possible, the cornea should be protected
+                - patching
+                - temporarily suturing the remaining eyelid closed
+              - if defects are small, spontaneous granulation may be a treatment alternative
+      - should be oriented vertically so that closure does not put vertical traction on the eyelid
+  - surgery
+    - treatment of choice for all basal cell carcinomas of the eyelid
+      - complete tumor removal
+      - histologic control of the margins
+      - recurrence rate is lower with excision than with any other treatment modality
+      - superior cosmetic results in most cases
+    - basal cell carcinomas involving the medial canthal area
+      - lacrimal drainage system may have to be removed
+        - reconstruction of lacrimal outflow system is not undertaken until it is established that patient is tumor free
+    - orbital exenteration
+      - for orbital invasion of basal cell carcinoma
+      - risk factors for orbital invasion of basal cell carcinoma
+        - inadequately treated tumors
+        - clinically neglected tumors
+        - morpheaform tumors
+  - cryotherapy
+    - higher recurrence rate
+      - higher recurrence rate for well-circumscribed nodular lesions
+      - unacceptably high recurrence rate for diffuse sclerosing lesions
+    - histologic margins cannot be evaluated
+    - avoided for
+      - canthal lesions
+      - recurrent lesions
+      - lesions greater than 1 cm in diameter
+      - morpheaform lesions
+    - may lead to depigmentation and tissue atrophy
+      - should not be used when final cosmesis is important
+    - generally reserved for patients who are poor surgical candidates
+  - radiation therapy
+    - limitations
+      - histologic margins cannot be evaluated
+      - recurrence rate following radiation treatment is higher
+        - should not be used for canthal lesions because of the risk of orbital recurrence
+      - recurrence after radiation is more difficult to detect
+      - recurrence after radiation
+        - more difficult to detect
+        - occurs at a longer interval after initial treatment
+        - more difficult to manage surgically
+    - complications
+      - cicatricial changes in the eyelids
+      - keratitis sicca
+      - radiation-induced malignancy
+      - Radiation-induced injury to the globe
+      - lacrimal drainage scarring with obstruction
+    - should generally be avoided for periorbital lesions
+      - only a palliative treatment
+  - oral vismodegib
+    - for advanced orbital infiltrative basal cell carcinoma
+      - not amenable to surgical resection or radiation
+    - well tolerated and effective
+    - patients need to be carefully monitored for squamous cell carcinomas at uninvolved sites
+  - mortality rate from ocular adnexal basal cell carcinoma
+    - 3%
+    - risk factors for mortality
+      - disease in the canthal areas
+      - prior radiation therapy
+      - clinically neglected tumors
+  - references
+- clinical presentation
+  - Nodular type
+    - most common
+    - firm, raised, pearly nodule
+      - telangiectasia
+      - ± central ulceration
+    - histology
+      - nests of basal cells that originate from the basal cell layer of the epithelium
+        - peripheral palisading
+        - nests of atypical cells break through to the surface of the epithelium
+          - central necrosis and ulceration
+  - Morpheaform type
+    - less common
+    - more aggressive
+    - firm and slightly elevated
+      - indeterminate margins on clinical examination
+      - no peripheral palisading
+    - histology
+      - thin cords that radiate peripherally
+      - surrounding stroma may show proliferation of connective tissue into a pattern of fibrosis
+  - Superficial (multicentric) type
+    - may be mistaken for chronic blepharitis
+  - loss of eyelashes (madarosis)
+  - ± chronic inflammation of the eyelid margin
+  - Figure 10-27
+  - references

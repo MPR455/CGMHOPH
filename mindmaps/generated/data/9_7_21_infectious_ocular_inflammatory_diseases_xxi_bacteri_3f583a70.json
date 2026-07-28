@@ -1,0 +1,514 @@
+{
+  "label": "9.7.21. Infectious Ocular Inflammatory Diseases (XXI): Bacterial Uveitis (VI): Cat Scratch Disease",
+  "root": true,
+  "children": [
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "zoonotic disease",
+          "children": [
+            {
+              "label": "cats are the primary mammalian reservoir",
+              "children": [
+                {
+                  "label": "cat flea important for transmission of the organism among cats"
+                }
+              ]
+            },
+            {
+              "label": "transmitted to humans by",
+              "children": [
+                {
+                  "label": "scratches"
+                },
+                {
+                  "label": "lick"
+                },
+                {
+                  "label": "bites"
+                },
+                {
+                  "label": "domestic cats, particularly kittens"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Bartonella henselae",
+          "children": [
+            {
+              "label": "small",
+              "children": [
+                {
+                  "label": "gram-negative rod",
+                  "children": [
+                    {
+                      "label": "Nocardia: G+ rod",
+                      "children": [
+                        {
+                          "label": "Leptospira: gram-negative spirochete"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "predominantly in fall and winter"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "seasonal pattern"
+        },
+        {
+          "label": "incidence rate in US",
+          "children": [
+            {
+              "label": "children <10 years"
+            },
+            {
+              "label": "9.3/100,000 persons/year"
+            }
+          ]
+        },
+        {
+          "label": "most prevalent in the southern states, California, and Hawaii"
+        }
+      ]
+    },
+    {
+      "label": "systemic manifestations",
+      "children": [
+        {
+          "label": "precede the ocular manifestations"
+        },
+        {
+          "label": "erythematous papule, vesicle, or pustule",
+          "children": [
+            {
+              "label": "at the primary site of cutaneous injury"
+            },
+            {
+              "label": "3–10 days after primary inoculation"
+            },
+            {
+              "label": "1–2 weeks before the onset of lymphadenopathy and constitutional symptoms"
+            }
+          ]
+        },
+        {
+          "label": "mild to moderate flulike illness"
+        },
+        {
+          "label": "regional adenopathy"
+        },
+        {
+          "label": "more severe, disseminated disease",
+          "children": [
+            {
+              "label": "encephalopathy"
+            },
+            {
+              "label": "aseptic meningitis"
+            },
+            {
+              "label": "osteomyelitis"
+            },
+            {
+              "label": "hepatosplenic disease"
+            },
+            {
+              "label": "pneumonia"
+            },
+            {
+              "label": "pleural and pericardial effusions"
+            },
+            {
+              "label": "less common"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "diagnostic tests",
+      "children": [
+        {
+          "label": "indirect fluorescent antibody assay",
+          "children": [
+            {
+              "label": "for detection of serum anti–B henselae antibodies"
+            },
+            {
+              "label": "88% sensitive",
+              "children": [
+                {
+                  "label": "titers of >1:64 considered positive"
+                }
+              ]
+            },
+            {
+              "label": "94% specific"
+            }
+          ]
+        },
+        {
+          "label": "enzyme immunoassays",
+          "children": [
+            {
+              "label": "IgG",
+              "children": [
+                {
+                  "label": "sensitivity of 86%–95% and a specificity of 96%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Western blot analysis",
+          "children": [
+            {
+              "label": "a single positive indirect fluorescent antibody or enzyme immunoassay titer for IgG or IgM is sufficient to confirm the diagnosis"
+            }
+          ]
+        },
+        {
+          "label": "bacterial cultures",
+          "children": [
+            {
+              "label": "require several weeks for colonies to become apparent"
+            }
+          ]
+        },
+        {
+          "label": "skin testing",
+          "children": [
+            {
+              "label": "sensitivity of up to 100%"
+            }
+          ]
+        },
+        {
+          "label": "PCR-based techniques",
+          "children": [
+            {
+              "label": "specificity of up to 98%"
+            },
+            {
+              "label": "target the bacterial 16S ribosomal RNA gene or B henselae DNA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "self-limiting in most cases",
+          "children": [
+            {
+              "label": "excellent systemic and visual prognosis"
+            },
+            {
+              "label": "doxycycline"
+            }
+          ]
+        },
+        {
+          "label": "antibiotics",
+          "children": [
+            {
+              "label": "erythromycin"
+            },
+            {
+              "label": "rifampin"
+            },
+            {
+              "label": "trimethoprim-sulfamethoxazole",
+              "children": [
+                {
+                  "label": "for more severe systemic or ocular manifestations",
+                  "children": [
+                    {
+                      "label": "their efficacy has not been demonstrated conclusively"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ciprofloxacin"
+            },
+            {
+              "label": "gentamycin"
+            }
+          ]
+        },
+        {
+          "label": "not <18 years",
+          "children": [
+            {
+              "label": "not <8 years"
+            }
+          ]
+        },
+        {
+          "label": "immunocompetent patients >8 years",
+          "children": [
+            {
+              "label": "doxycycline, 100 mg orally twice daily",
+              "children": [
+                {
+                  "label": "X 2-4 weeks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "more severe infections",
+          "children": [
+            {
+              "label": "or",
+              "children": [
+                {
+                  "label": "intravenous doxycycline"
+                }
+              ]
+            },
+            {
+              "label": "doxycycline + rifampin, 300 mg orally twice daily"
+            }
+          ]
+        },
+        {
+          "label": "immunocompromised individuals",
+          "children": [
+            {
+              "label": "treatment x 4 months"
+            }
+          ]
+        },
+        {
+          "label": "children",
+          "children": [
+            {
+              "label": "azithromycin"
+            },
+            {
+              "label": "the safety of ciprofloxacin <18 years has not been established"
+            }
+          ]
+        },
+        {
+          "label": "oral corticosteroids",
+          "children": [
+            {
+              "label": "efficacy on the course of systemic and ocular disease is unknown",
+              "children": [
+                {
+                  "label": "marginal corneal infiltrates"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "in the subset of patients with recurrent idiopathic neuroretinitis, long-term IMT may be of benefit"
+        }
+      ]
+    },
+    {
+      "label": "ocular involvement",
+      "children": [
+        {
+          "label": "5%–10% of patients with CSD"
+        },
+        {
+          "label": "Parinaud oculoglandular syndrome",
+          "children": [
+            {
+              "label": "unilateral granulomatous conjunctivitis"
+            },
+            {
+              "label": "5% of patients with CSD",
+              "children": [
+                {
+                  "label": "regional lymphadenopathy"
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "tularemia"
+                },
+                {
+                  "label": "tuberculosis"
+                },
+                {
+                  "label": "syphilis"
+                },
+                {
+                  "label": "sporotrichosis"
+                },
+                {
+                  "label": "acute Chlamydia trachomatis infection"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "posterior segment manifestations",
+          "children": [
+            {
+              "label": "neuroretinitis",
+              "children": [
+                {
+                  "label": "\"Leber idiopathic stellate neuroretinitis\"",
+                  "children": [
+                    {
+                      "label": "caused by B henselae infection in ≈ 2/3 of cases",
+                      "children": [
+                        {
+                          "label": "See Table 7-5"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "1%–2% of patients with CSD"
+                },
+                {
+                  "label": "follows constitutional symptoms by 2–3 weeks"
+                },
+                {
+                  "label": "abrupt vision loss",
+                  "children": [
+                    {
+                      "label": "most often unilateral",
+                      "children": [
+                        {
+                          "label": "bilateral cases have been reported",
+                          "children": [
+                            {
+                              "label": "frequently asymmetric"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "20/25 - ≤20/200"
+                    }
+                  ]
+                },
+                {
+                  "label": "optic disc swelling"
+                },
+                {
+                  "label": "peripapillary serous retinal detachment",
+                  "children": [
+                    {
+                      "label": "2–4 weeks before macular star"
+                    }
+                  ]
+                },
+                {
+                  "label": "macular star formation",
+                  "children": [
+                    {
+                      "label": "partial or incomplete"
+                    },
+                    {
+                      "label": "resolves in 8–12 weeks"
+                    }
+                  ]
+                },
+                {
+                  "label": "anterior chamber inflammation"
+                },
+                {
+                  "label": "vitritis"
+                }
+              ]
+            },
+            {
+              "label": "retinal/choroidal lesions",
+              "children": [
+                {
+                  "label": "discrete, focal/multifocal"
+                },
+                {
+                  "label": "50–300 μm"
+                },
+                {
+                  "label": "arterial and venous occlusive disease"
+                },
+                {
+                  "label": "localized neurosensory macular detachment"
+                }
+              ]
+            },
+            {
+              "label": "other posterior segment complications",
+              "children": [
+                {
+                  "label": "epiretinal membranes"
+                },
+                {
+                  "label": "inflammatory mass of the optic nerve head"
+                },
+                {
+                  "label": "peripapillary angiomatosis"
+                },
+                {
+                  "label": "intermediate uveitis"
+                },
+                {
+                  "label": "retinal white dot syndrome"
+                },
+                {
+                  "label": "isolated optic disc swelling"
+                },
+                {
+                  "label": "panuveitis"
+                },
+                {
+                  "label": "orbital abscess"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.21. Infectious Ocular Inflammatory Diseases (XXI) - Bacterial Uveitis (VI) - Cat Scratch Disease.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 247,
+      "connector_rejected": 2,
+      "connector_edges": 177,
+      "connector_width": 0.878,
+      "text_labels": 131,
+      "tree_nodes": 131,
+      "component_roots": 5,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.7166,
+      "root_font_size": 3.073,
+      "warnings": []
+    }
+  }
+}

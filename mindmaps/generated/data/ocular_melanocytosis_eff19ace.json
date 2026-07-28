@@ -1,0 +1,293 @@
+{
+  "label": "Ocular Melanocytosis",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "15-year-old boy with increased pigmentation of his right eye present since birth"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "B-scan if fundus view not adequate"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "ocular melanocytosis",
+          "children": [
+            {
+              "label": "from birth",
+              "children": [
+                {
+                  "label": "diffuse episcleral pigmentation with dark brown iris"
+                }
+              ]
+            },
+            {
+              "label": "increased pigmentation at puberty"
+            },
+            {
+              "label": "5% bilateral"
+            }
+          ]
+        },
+        {
+          "label": "pigment spot of the sclera",
+          "children": [
+            {
+              "label": "collection of melanocytes associated with an intrascleral nerve loop or perforating anterior ciliary vessel"
+            }
+          ]
+        },
+        {
+          "label": "conjunctival nevus/ melanoma"
+        },
+        {
+          "label": "PAM",
+          "children": [
+            {
+              "label": "move with conjunctiva"
+            }
+          ]
+        },
+        {
+          "label": "CAM"
+        },
+        {
+          "label": "uveal melanoma with extraocular extension"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "ocular melanocytosis"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "baseline photos"
+        },
+        {
+          "label": "observation",
+          "children": [
+            {
+              "label": "monitor for change"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "glaucoma",
+              "children": [
+                {
+                  "label": "10%"
+                }
+              ]
+            },
+            {
+              "label": "risk of developing uveal melanoma",
+              "children": [
+                {
+                  "label": "1/400 lifetime risk"
+                }
+              ]
+            },
+            {
+              "label": "risk of developing extraocular melanoma",
+              "children": [
+                {
+                  "label": "orbit"
+                },
+                {
+                  "label": "brain"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "q1 year"
+            },
+            {
+              "label": "complete eye exam every visit",
+              "children": [
+                {
+                  "label": "monitor for glaucoma"
+                },
+                {
+                  "label": "monitor for melanoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "time of onset",
+              "children": [
+                {
+                  "label": "review old photos"
+                }
+              ]
+            },
+            {
+              "label": "change in pigmentation"
+            },
+            {
+              "label": "race",
+              "children": [
+                {
+                  "label": "CAM"
+                }
+              ]
+            },
+            {
+              "label": "other family members",
+              "children": [
+                {
+                  "label": "CAM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "temple pigmentation"
+            },
+            {
+              "label": "lid pigmentation"
+            },
+            {
+              "label": "palate pigmentation"
+            },
+            {
+              "label": "pigmetation",
+              "children": [
+                {
+                  "label": "flat or raised"
+                },
+                {
+                  "label": "movement with conjunctiva",
+                  "children": [
+                    {
+                      "label": "conjunctival vs. episcleral",
+                      "children": [
+                        {
+                          "label": "melanocytosis does not move with the conjunctiva"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "dilated (sentinel) episcleral vessels",
+              "children": [
+                {
+                  "label": "ciliary body melanoma with extraocular extension"
+                }
+              ]
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "slit lamp exam",
+              "children": [
+                {
+                  "label": "iris pigmentation (melanocytosis)"
+                },
+                {
+                  "label": "iris melanoma",
+                  "children": [
+                    {
+                      "label": "C/D ratio"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "dilated fundus exam",
+              "children": [
+                {
+                  "label": "choroidal pigmentation (melanocytosis)"
+                },
+                {
+                  "label": "posterior uveal melanoma"
+                }
+              ]
+            },
+            {
+              "label": "examine both eyes",
+              "children": [
+                {
+                  "label": "CAM and pigment spots of sclera are more likely to be bilateral"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "10% of patients with ocular melanocytosis can develop secondary glaucoma"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Ocular Melanocytosis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 108,
+      "connector_rejected": 12,
+      "connector_edges": 73,
+      "connector_width": 1.471,
+      "text_labels": 70,
+      "tree_nodes": 70,
+      "component_roots": 7,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.6759,
+      "root_font_size": 6.865,
+      "warnings": []
+    }
+  }
+}

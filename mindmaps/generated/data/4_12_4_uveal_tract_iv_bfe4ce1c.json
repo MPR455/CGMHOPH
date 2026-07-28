@@ -1,0 +1,218 @@
+{
+  "label": "4.12.4. Uveal Tract (IV)",
+  "root": true,
+  "children": [
+    {
+      "label": "Hyalinization of the Ciliary Body",
+      "children": [
+        {
+          "label": "normal aging process"
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "ciliary body processes",
+              "children": [
+                {
+                  "label": "hyalinized and fibrosed"
+                },
+                {
+                  "label": "blunted and attenuated"
+                }
+              ]
+            },
+            {
+              "label": "stroma",
+              "children": [
+                {
+                  "label": "loss of cellularity"
+                },
+                {
+                  "label": "more eosinophilic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "contributes to presbyopia"
+        }
+      ]
+    },
+    {
+      "label": "Iris neovascularization (rubeosis iridis)",
+      "children": [
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "lack supporting fibrous cuff"
+            },
+            {
+              "label": "fibrous membrane component",
+              "children": [
+                {
+                  "label": "myofibroblasts"
+                }
+              ]
+            },
+            {
+              "label": "neovascularization of angle",
+              "children": [
+                {
+                  "label": "peripheral anterior synechiae",
+                  "children": [
+                    {
+                      "label": "neovascular glaucoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ectropion uveae"
+            },
+            {
+              "label": "flattened iris surface"
+            },
+            {
+              "label": "atrophy of dilator muscle"
+            },
+            {
+              "label": "attenuation of iris pigment epithelium"
+            },
+            {
+              "label": "iris stromal fibrosis"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "CRVO"
+            },
+            {
+              "label": "CRAO"
+            },
+            {
+              "label": "BRVO"
+            },
+            {
+              "label": "carotid occlusive disease"
+            },
+            {
+              "label": "infectious/noninfectious uveitis"
+            },
+            {
+              "label": "retinal detachment"
+            },
+            {
+              "label": "Coats disease"
+            },
+            {
+              "label": "secondary glaucoma"
+            },
+            {
+              "label": "retinal detachment surgery"
+            },
+            {
+              "label": "radiation"
+            },
+            {
+              "label": "diabetes mellitus"
+            },
+            {
+              "label": "sickle cell disease"
+            },
+            {
+              "label": "retinoblastoma"
+            },
+            {
+              "label": "uveal melanoma"
+            },
+            {
+              "label": "metastatic carcinoma"
+            },
+            {
+              "label": "trauma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trauma",
+      "children": [
+        {
+          "label": "Prolapse of uveal tissue",
+          "children": [
+            {
+              "label": "perforating injury"
+            }
+          ]
+        },
+        {
+          "label": "Rupture of choroid",
+          "children": [
+            {
+              "label": "blunt or penetrating injury"
+            },
+            {
+              "label": "peripapillary semicircular lines"
+            },
+            {
+              "label": "subretinal neovascularization"
+            }
+          ]
+        },
+        {
+          "label": "Chorioretinitis sclopetaria",
+          "children": [
+            {
+              "label": "rupture of both choroid and retina"
+            }
+          ]
+        },
+        {
+          "label": "Choroidal detachment",
+          "children": [
+            {
+              "label": "predisposing condition",
+              "children": [
+                {
+                  "label": "traumatic globe rupture"
+                },
+                {
+                  "label": "surgery"
+                }
+              ]
+            },
+            {
+              "label": "serous/hemorrhagic"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.12.4. Uveal Tract (IV).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 104,
+      "connector_rejected": 3,
+      "connector_edges": 78,
+      "connector_width": 2.233,
+      "text_labels": 55,
+      "tree_nodes": 55,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.75,
+      "root_font_size": 7.442,
+      "warnings": []
+    }
+  }
+}

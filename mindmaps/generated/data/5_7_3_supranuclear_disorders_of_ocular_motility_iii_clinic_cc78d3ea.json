@@ -1,0 +1,382 @@
+{
+  "label": "5.7.3. Supranuclear Disorders of Ocular Motility (III): Clinical Disorders of the Ocular Motor Systems (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Ocular Stability Dysfunction",
+      "children": [
+        {
+          "label": "Saccadic intrusions",
+          "children": [
+            {
+              "label": "much smaller amplitude than pendular nystagmus"
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "small amplitude"
+                },
+                {
+                  "label": "rapid/brief duration"
+                },
+                {
+                  "label": "consist only of fast phases"
+                },
+                {
+                  "label": "lack periodicity",
+                  "children": [
+                    {
+                      "label": "nystagmus has periodicity",
+                      "children": [
+                        {
+                          "label": "nystagmus has fast and slow phases"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "square-wave jerks (SWJs)",
+              "children": [
+                {
+                  "label": "most common"
+                },
+                {
+                  "label": "lead the eyes off to one side and then back onto the target with symmetric movements",
+                  "children": [
+                    {
+                      "label": "brief intersaccadic interval",
+                      "children": [
+                        {
+                          "label": "pendular nystagmus oscillates across a fixation point"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "from 0.5° to >5° (macrosquare-wave jerks)"
+                },
+                {
+                  "label": "etiology",
+                  "children": [
+                    {
+                      "label": "infrequent SWJs may be normal",
+                      "children": [
+                        {
+                          "label": "especially during smooth pursuit movements"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "progressive supranuclear palsy (PSP)"
+                    },
+                    {
+                      "label": "certain cerebellar diseases"
+                    },
+                    {
+                      "label": "cigarette smoking"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vestibular Ocular Dysfunction",
+      "children": [
+        {
+          "label": "peripheral end-organ disease",
+          "children": [
+            {
+              "label": "semicircular canals",
+              "children": [
+                {
+                  "label": "nystagmus",
+                  "children": [
+                    {
+                      "label": "by far the most common cause"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "otolithic organs",
+              "children": [
+                {
+                  "label": "asymmetric disruption of supranuclear input from the otolithic organs",
+                  "children": [
+                    {
+                      "label": "ocular tilt reaction",
+                      "children": [
+                        {
+                          "label": "skew deviation"
+                        },
+                        {
+                          "label": "head tilt"
+                        },
+                        {
+                          "label": "cyclotorsion"
+                        },
+                        {
+                          "label": "the head tilt and cyclotorsion (upper poles of both eyes) rotate away from the hypertropic eye",
+                          "children": [
+                            {
+                              "label": "opposite to the normal compensatory rotation mediated by the VOR!"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "central nervous system disease",
+          "children": [
+            {
+              "label": "lesions of the caudal brainstem (lower pons and medulla)",
+              "children": [
+                {
+                  "label": "lateral medullary syndrome (Wallenberg syndrome)",
+                  "children": [
+                    {
+                      "label": "disrupts the sensory pathways",
+                      "children": [
+                        {
+                          "label": "“stroke without paralysis”",
+                          "children": [
+                            {
+                              "label": "no extremity weakness"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "clinical presentation",
+                      "children": [
+                        {
+                          "label": "ipsilateral loss of facial pain and temperature sensation",
+                          "children": [
+                            {
+                              "label": "involvement of the descending tract of CN V"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "contralateral loss of hemibody pain and temperature sensation",
+                          "children": [
+                            {
+                              "label": "involvement of the lateral spinothalamic tract"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "ipsilateral cerebellar ataxia",
+                          "children": [
+                            {
+                              "label": "damage to spinocerebellar tracts"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "ipsilateral first-order Horner syndrome"
+                        },
+                        {
+                          "label": "the ocular tilt reaction (sometimes)"
+                        },
+                        {
+                          "label": "± other presentations",
+                          "children": [
+                            {
+                              "label": "dysarthria"
+                            },
+                            {
+                              "label": "dysphagia"
+                            },
+                            {
+                              "label": "vertigo"
+                            },
+                            {
+                              "label": "persistent hiccups"
+                            },
+                            {
+                              "label": "damage to spinocerebellar tracts"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "etiology",
+                      "children": [
+                        {
+                          "label": "vertebral artery occlusion",
+                          "children": [
+                            {
+                              "label": "lateropulsion",
+                              "children": [
+                                {
+                                  "label": "sensation of being pulled to one side"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "ocular lateropulsion",
+                              "children": [
+                                {
+                                  "label": "hypermetric movements toward the side of the lesion",
+                                  "children": [
+                                    {
+                                      "label": "the eyes turn toward the side of the lesion after visual fixation is removed for a few seconds",
+                                      "children": [
+                                        {
+                                          "label": "having a patient close his or her eyes"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "label": "hypometric movements away from the side of the lesion"
+                                },
+                                {
+                                  "label": "vertical saccades may follow an elliptical path",
+                                  "children": [
+                                    {
+                                      "label": "the eyes deviate toward the side of the lesion during vertical movement"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cerebellar disease",
+              "children": [
+                {
+                  "label": "impaired VOR suppression",
+                  "children": [
+                    {
+                      "label": "there are situations when stable foveation depends on suppressing the VOR",
+                      "children": [
+                        {
+                          "label": "viewing an object that moves with the head"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "patient holds and fixates on a near card while being rotated in the examination chair",
+                      "children": [
+                        {
+                          "label": "rotation to the patient’s right is met with conjugate eye movement to the patient’s left, followed by a corrective saccade rightward"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "common in multiple sclerosis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Optokinetic Nystagmus (OKN) Dysfunction",
+      "children": [
+        {
+          "label": "OKN is a normal phenomenon that occurs in response to a rotation movement"
+        },
+        {
+          "label": "OKN represents the combined response of",
+          "children": [
+            {
+              "label": "OKN system",
+              "children": [
+                {
+                  "label": "testing requires specialized equipment"
+                }
+              ]
+            },
+            {
+              "label": "smooth pursuit system",
+              "children": [
+                {
+                  "label": "tested by using an OKN drum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "asymmetry of drum-induced OKN response",
+          "children": [
+            {
+              "label": "unilateral lesion of the cerebral pathways that descend from the ipsilateral parietal, middle temporal, or medial superior temporal areas to the brainstem ocular motor centers"
+            },
+            {
+              "label": "asymmetry produced by rotating the drum’s stripes toward the patient’s right suggests a lesion in the right cerebrum"
+            },
+            {
+              "label": "large lesions of the parietal or parietal-occipital cortex",
+              "children": [
+                {
+                  "label": "accompanied by a homonymous hemianopia",
+                  "children": [
+                    {
+                      "label": "lesions confined to the occipital lobe also produce a homonymous hemianopia but not OKN asymmetry",
+                      "children": [
+                        {
+                          "label": "OKN testing helps localize cerebral lesions that produces homonymous hemianopia"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.7.3. Supranuclear Disorders of Ocular Motility (III) Clinical Disorders of the Ocular Motor Systems (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 160,
+      "connector_rejected": 42,
+      "connector_edges": 91,
+      "connector_width": 0.602,
+      "text_labels": 89,
+      "tree_nodes": 89,
+      "component_roots": 3,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.5687,
+      "root_font_size": 2.107,
+      "warnings": []
+    }
+  }
+}

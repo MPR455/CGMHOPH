@@ -1,0 +1,368 @@
+{
+  "label": "8.4.3. Infectious Diseases of the External Eye (IV): DNA Viruses (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Human Papillomaviruses (HPV)",
+      "children": [
+        {
+          "label": "structure",
+          "children": [
+            {
+              "label": "double-stranded DNA"
+            },
+            {
+              "label": "nonenveloped",
+              "children": [
+                {
+                  "label": "resistant to environmental insults"
+                }
+              ]
+            },
+            {
+              "label": "icosahedral capsid"
+            }
+          ]
+        },
+        {
+          "label": "HPV 6 and 11",
+          "children": [
+            {
+              "label": "maintained in a latent state within basal epithelial cells"
+            },
+            {
+              "label": "skin wart (verrucae)"
+            },
+            {
+              "label": "conjunctival papilloma"
+            }
+          ]
+        },
+        {
+          "label": "HPV 16 and 18",
+          "children": [
+            {
+              "label": "squamous cell carcinoma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Epstein-Barr Virus (EBV)",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "herpesvirus"
+            },
+            {
+              "label": "infects majority of humans by early adulthood"
+            },
+            {
+              "label": "Spreads by sharing of saliva"
+            },
+            {
+              "label": "if acquired",
+              "children": [
+                {
+                  "label": "first decade of life",
+                  "children": [
+                    {
+                      "label": "subclinical infection"
+                    }
+                  ]
+                },
+                {
+                  "label": "later in life",
+                  "children": [
+                    {
+                      "label": "infectious mononucleosis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "remains latent in",
+              "children": [
+                {
+                  "label": "B lymphocytes"
+                },
+                {
+                  "label": "pharyngeal mucosal epithelial cells"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical findings",
+          "children": [
+            {
+              "label": "most common cause of acute dacryoadenitis"
+            },
+            {
+              "label": "acute follicular conjunctivitis"
+            },
+            {
+              "label": "Parinaud oculoglandular syndrome"
+            },
+            {
+              "label": "bulbar conjunctival nodules"
+            },
+            {
+              "label": "EBV stromal keratitis",
+              "children": [
+                {
+                  "label": "types",
+                  "children": [
+                    {
+                      "label": "Type 1: multifocal subepithelial infiltrates",
+                      "children": [
+                        {
+                          "label": "resemble adenoviral keratitis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Type 2: multifocal, blotchy, pleomorphic infiltrates in anterior to mid-stroma",
+                      "children": [
+                        {
+                          "label": "with active inflammation"
+                        },
+                        {
+                          "label": "inactive form"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Type 3: multifocal deep/full-thickness peripheral infiltrates",
+                      "children": [
+                        {
+                          "label": "resemble interstitial keratitis due to syphilis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "unilateral or bilateral"
+                },
+                {
+                  "label": "differential diagnosis",
+                  "children": [
+                    {
+                      "label": "HSV, VZV, Lyme disease, adenovirus, or syphilis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ancillary testing",
+          "children": [
+            {
+              "label": "virus isolation",
+              "children": [
+                {
+                  "label": "difficult"
+                }
+              ]
+            },
+            {
+              "label": "antibody detection",
+              "children": [
+                {
+                  "label": "antibodies to viral capsid antigens (VCA)",
+                  "children": [
+                    {
+                      "label": "IgM"
+                    },
+                    {
+                      "label": "anti-VCA IgG may persist for life",
+                      "children": [
+                        {
+                          "label": "serologic evidence of past infection"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "antibodies to EBV nuclear antigens",
+                  "children": [
+                    {
+                      "label": "appear weeks to months later"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "effect on corneal manifestations unknown",
+              "children": [
+                {
+                  "label": "acyclovir not effective for infectious mononucleosis"
+                }
+              ]
+            },
+            {
+              "label": "corticosteroids may be effective for reduced vision due to EBV stromal keratitis",
+              "children": [
+                {
+                  "label": "not without prophylactic antiviral if HSV infection is a possibility"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Poxviruses",
+      "children": [
+        {
+          "label": "structure",
+          "children": [
+            {
+              "label": "DNA virus"
+            },
+            {
+              "label": "double-stranded"
+            },
+            {
+              "label": "enveloped"
+            }
+          ]
+        },
+        {
+          "label": "Molluscum Contagiosum",
+          "children": [
+            {
+              "label": "spreads by direct contact"
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "smooth nodules",
+                  "children": [
+                    {
+                      "label": "umbilicated central core"
+                    },
+                    {
+                      "label": "eyelid margin",
+                      "children": [
+                        {
+                          "label": "release viral particles into the tear film"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "conjunctiva"
+                    }
+                  ]
+                },
+                {
+                  "label": "punctate epithelial erosions",
+                  "children": [
+                    {
+                      "label": "chronic follicular conjunctivitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal pannus",
+                  "children": [
+                    {
+                      "label": "rare"
+                    }
+                  ]
+                },
+                {
+                  "label": "spontaneous resolution"
+                },
+                {
+                  "label": "extensive lesions occur in AIDS"
+                },
+                {
+                  "label": "compared with keratoacanthoma",
+                  "children": [
+                    {
+                      "label": "smaller"
+                    },
+                    {
+                      "label": "less inflammation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lab evaluation",
+              "children": [
+                {
+                  "label": "cannot be cultured using standard techniques"
+                },
+                {
+                  "label": "histologic examination of expressed or excised nodule",
+                  "children": [
+                    {
+                      "label": "eosinophilic, intracytoplasmic inclusions (Henderson-Patterson bodies)",
+                      "children": [
+                        {
+                          "label": "within epidermal cells"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Treatment",
+              "children": [
+                {
+                  "label": "complete excision"
+                },
+                {
+                  "label": "cryotherapy"
+                },
+                {
+                  "label": "incision of the central portion of the lesion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.4.3. Infectious Diseases of the External Eye (IV) - DNA Viruses (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 167,
+      "connector_rejected": 6,
+      "connector_edges": 109,
+      "connector_width": 1.429,
+      "text_labels": 89,
+      "tree_nodes": 89,
+      "component_roots": 3,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6527,
+      "root_font_size": 4.048,
+      "warnings": []
+    }
+  }
+}

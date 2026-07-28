@@ -1,0 +1,191 @@
+{
+  "label": "5.11.4. Eyelid or Facial Abnormalities (IV): Abnormalities of Facial Movement",
+  "root": true,
+  "children": [
+    {
+      "label": "assessment of the facial nerve",
+      "children": [
+        {
+          "label": "motor function",
+          "children": [
+            {
+              "label": "with the patient at rest, note any asymmetry of facial expression or eyelid blink"
+            },
+            {
+              "label": "palpebral fissure on the side of seventh nerve paresis will be wider"
+            },
+            {
+              "label": "test the various muscle groups by asking the patient",
+              "children": [
+                {
+                  "label": "to smile"
+                },
+                {
+                  "label": "to forcibly close the eyes",
+                  "children": [
+                    {
+                      "label": "degree to which the eyelashes become buried on each side"
+                    }
+                  ]
+                },
+                {
+                  "label": "to wrinkle the forehead"
+                }
+              ]
+            },
+            {
+              "label": "note aberrant facial movements at rest or during volitional movement"
+            }
+          ]
+        },
+        {
+          "label": "sensory function",
+          "children": [
+            {
+              "label": "corneal blink reflex",
+              "children": [
+                {
+                  "label": "provides a functional assessment of the seventh and fifth nerves"
+                }
+              ]
+            },
+            {
+              "label": "whisper or quiet watch",
+              "children": [
+                {
+                  "label": "to test hearing and assess possible CN VIII involvement",
+                  "children": [
+                    {
+                      "label": "cerebellopontine angle tumors"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "sugar or vinegar on the anterior two-thirds of the tongue to test taste"
+            },
+            {
+              "label": "cutaneous sensation along the posterior aspect of the external auditory canal and tympanic membrane"
+            }
+          ]
+        },
+        {
+          "label": "autonomic function",
+          "children": [
+            {
+              "label": "salivation and lacrimation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "localization",
+      "children": [
+        {
+          "label": "lesions from the cerebellopontine angle to the geniculate ganglion",
+          "children": [
+            {
+              "label": "impair all functions of the nerve"
+            }
+          ]
+        },
+        {
+          "label": "lesions distal to the geniculate ganglion"
+        },
+        {
+          "label": "pontine lesions proximal to the joining of the motor portion of the seventh nerve with the intermediary nerve",
+          "children": [
+            {
+              "label": "dissociation of motor, sensory, and autonomic functions",
+              "children": [
+                {
+                  "label": "affect only certain functions, depending on their location"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "testing should include functions of the fifth, sixth, and eighth nerves"
+        }
+      ]
+    },
+    {
+      "label": "aberrant facial regeneration",
+      "children": [
+        {
+          "label": "after any facial neuropathy, but most commonly after Bell palsy",
+          "children": [
+            {
+              "label": "regenerating axons may reinnervate different muscles"
+            },
+            {
+              "label": "involved facial muscles may remain weak"
+            }
+          ]
+        },
+        {
+          "label": "synkinetic movements",
+          "children": [
+            {
+              "label": "each blink may cause a twitch of the corner of the mouth"
+            },
+            {
+              "label": "movements of the lower face may produce involuntary eyelid closure"
+            }
+          ]
+        },
+        {
+          "label": "lacrimation caused by chewing",
+          "children": [
+            {
+              "label": "crocodile tears"
+            },
+            {
+              "label": "develops after severe injury to the proximal seventh nerve"
+            },
+            {
+              "label": "fibers originally supplying mandibular and sublingual glands reinnervate the lacrimal gland",
+              "children": [
+                {
+                  "label": "by way of the greater superficial petrosal nerve"
+                }
+              ]
+            },
+            {
+              "label": "may be accompanied by",
+              "children": [
+                {
+                  "label": "decreased reflex tearing"
+                },
+                {
+                  "label": "decreased taste from the anterior two-thirds of the tongue"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.11.4. Eyelid or Facial Abnormalities (IV) - Abnormalities of Facial Movement.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 72,
+      "connector_rejected": 1,
+      "connector_edges": 53,
+      "connector_width": 0.98,
+      "text_labels": 44,
+      "tree_nodes": 44,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7361,
+      "root_font_size": 3.432,
+      "warnings": []
+    }
+  }
+}

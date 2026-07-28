@@ -1,0 +1,123 @@
+---
+title: "6.4.2. Amblyopia (II): Treatment"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.4.2. Amblyopia (II).pdf"
+---
+
+# 6.4.2. Amblyopia (II): Treatment
+
+## Hierarchy
+
+- Steps
+  - Eliminate (if needed) any obstruction of the visual axis
+  - Correct any significant refractive error
+  - Force use of the amblyopic eye by limiting use of the better eye
+- Cataract Removal
+  - unilateral visually significant congenital lens opacities should be removed during the first 4–6 weeks of life
+  - significant cataracts with uncertain time of onset also deserve prompt and aggressive treatment
+- Refractive Correction
+  - optical prescription for amblyopic eyes should be based on cycloplegic refraction
+    - an amblyopic eye’s ability to control accommodation tends to be impaired
+    - symmetric reductions in plus lens power may be required in order to foster acceptance of spectacle wear
+  - refractive correction for aphakia following cataract surgery in childhood must be provided promptly
+  - anisometropic, isoametropic, and even strabismic amblyopia may improve or resolve with only refractive correction
+    - ± initiate treatment with refractive correction alone, adding occlusion or penalization later if needed
+  - role of refractive surgery in patients who fail conventional treatment with spectacles and/or contact lenses is under investigation
+  - references
+- complications of therapy
+  - overtreatment
+    - reverse amblyopia
+    - parents of a strabismic child should be instructed to watch for a switch in fixation preference
+    - reverse amblyopia can usually be treated successfully with
+      - judicious patching of formerly better-seeing eye
+      - alternating occlusion
+      - simply stopping treatment can lead to equalization of vision
+  - strabismus
+  - full-time occlusion carries the greatest risk of reverse amblyopia and of strabismus
+    - most ophthalmologists do not use full-time occlusion in younger children
+- Recurrence
+  - ≈ 1/3 of patients show some degree of recurrence after discontinuing treatment
+  - reducing occlusion to 1–2 hours/day (or frequency of pharmacologic penalization) for a few months before cessation decreases incidence of recurrence
+  - if recurrence occurs, visual acuity can usually be improved again with resumption of therapy
+    - maintenance treatment must be continued until stability of vision is demonstrated with no treatment other than regular spectacles
+  - may require periodic monitoring until age 8–10 years
+    - as long as vision remains stable, intervals of ≤12 months between follow-up visits are acceptable
+  - improvement in vision obtained in most children treated between 7 and 12 years of age is sustained following cessation of treatment
+- Occlusion and Penalization
+  - occlusion therapy (patching)
+    - sound eye is covered, obligating the child to use the amblyopic eye
+      - adhesive patches
+      - opaque contact lenses
+        - if skin irritation or inadequate adhesion is a problem
+      - spectacle-mounted occluders
+        - if skin irritation or inadequate adhesion is a problem
+    - part-time occlusion
+      - 2–6 hours per day
+      - results similar to full-time occlusion
+      - relative duration of patch-on and patch-off intervals should reflect the degree of amblyopia
+        - severe deficits (visual acuity of 20/100– 20/400)
+          - 6 hours/day
+      - reduces likelihood of occlusion amblyopia or induced strabismus
+    - maintenance patching
+      - 1–2 hours per day
+      - to prevent recurrence of amblyopia after successful patching
+    - full-time occlusion
+      - occlusion during all waking hours
+      - in rare cases, with aggressive patching, strabismus may occur because of lack of binocular viewing
+        - the child whose eyes are consistently or intermittently straight should be given some opportunity to see binocularly
+    - timing of follow-up
+      - related to
+        - intensity of treatment
+        - age of the child
+      - within 2–3 months after initiation of treatment
+      - subsequent visits can be scheduled at longer intervals based on early response
+      - part-time occlusion and penalization methods allow for less frequent observation
+    - desired endpoint of therapy for unilateral amblyopia
+      - free alternation of fixation
+      - linear recognition acuity within 1 line between the 2 eyes
+    - time required for completion of treatment
+      - severity of amblyopia
+      - choice and intensity of therapeutic approach
+      - adherence to treatment
+        - declines with increasing age
+      - age of the patient
+        - consistent occlusion during infancy may reverse substantial strabismic amblyopia in <1 month
+        - pathching for strabismic or anisometropic amblyopia can still be beneficial beyond the first decade of life
+          - especially true in children who have not previously undergone treatment
+  - penalization
+    - pharmacologic and/or optical degradation of the better eye’s vision
+    - pharmacologic penalization
+      - atropine 1%
+        - ± administered daily
+        - weekend administration is as effective for milder amblyopia
+      - better eye experiences blur with near viewing and also, if hyperopia is undercorrected, with distance viewing
+        - hyperopic correction of dominant eye can be reduced to enhance effect
+      - does not work well for myopic patients
+        - near vision persists in the penalized myopic eye despite cycloplegia
+      - as effective as patching for mild to moderate amblyopia (visual acuity ≥20/100)
+      - regular follow-up is important in order to monitor for reverse amblyopia
+      - advantages
+        - allows a degree of binocularity in patients with orthotropia or small-angle strabismus
+          - particularly beneficial in children with latent nystagmus
+        - difficult for the child to thwart
+        - may be more acceptable than occlusion therapy to many children and their parents
+    - Optical penalization
+      - if the child wears glasses
+      - types
+        - excessive plus lenses (fogging)
+        - diffusing (translucent) filters
+          - Scotch Magic Tape
+          - Bangerter foil
+      - advantages
+        - avoids potential pharmacologic adverse effects
+        - may be capable of inducing greater blur
+      - patients must be closely monitored to ensure proper utilization (no peeking)
+- Unresponsiveness
+  - amblyopia is not always fully correctable, even at younger ages of treatment
+    - more often in patients >5 years
+  - significant deviation from expected response in face of good adherence to program
+    - look for potential subtle optic nerve or retinal anomalies
+    - neuroimaging
+  - in a prognostically unfavorable situation take into account the wishes of patient and family
+  - therapy should generally be terminated if there is a lack of response over 3–6 months despite good treatment adherence

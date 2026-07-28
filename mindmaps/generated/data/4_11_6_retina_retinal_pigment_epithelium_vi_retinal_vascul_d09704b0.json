@@ -1,0 +1,456 @@
+{
+  "label": "4.11.6. Retina & Retinal pigment Epithelium (VI): Retinal Vascular Occlusions",
+  "root": true,
+  "children": [
+    {
+      "label": "Central retinal artery occlusion",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "localized arteriosclerosis"
+            },
+            {
+              "label": "embolus"
+            },
+            {
+              "label": "vasculitis",
+              "children": [
+                {
+                  "label": "e.g. temporal arteritis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "acute",
+              "children": [
+                {
+                  "label": "inner retinal swelling & loss of transparency",
+                  "children": [
+                    {
+                      "label": "cherry-red spot"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "chronic",
+              "children": [
+                {
+                  "label": "inner retinal atrophy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "complications",
+          "children": [
+            {
+              "label": "neovascularization",
+              "children": [
+                {
+                  "label": "rare!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "not a risk factor for BRVO"
+    },
+    {
+      "label": "Branch retinal artery occlusion",
+      "children": [
+        {
+          "label": "embolus at arteriolar bifurcation",
+          "children": [
+            {
+              "label": "cholesterol embolus",
+              "children": [
+                {
+                  "label": "Hollenhorst plaque"
+                },
+                {
+                  "label": "seldom causes occlusion"
+                },
+                {
+                  "label": "cardiac valvular disease",
+                  "children": [
+                    {
+                      "label": "carotid vascular disease"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "calcific embolus"
+            },
+            {
+              "label": "platelet-fibrin embolus",
+              "children": [
+                {
+                  "label": "thromboembolism"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "acute",
+              "children": [
+                {
+                  "label": "inner retinal swelling"
+                },
+                {
+                  "label": "pyknotic nuclei"
+                }
+              ]
+            },
+            {
+              "label": "chronic",
+              "children": [
+                {
+                  "label": "inner retinal ischemic atrophy",
+                  "children": [
+                    {
+                      "label": "NFL"
+                    },
+                    {
+                      "label": "ganglion cell layer"
+                    },
+                    {
+                      "label": "inner plexiform layer"
+                    },
+                    {
+                      "label": "inner nuclear layer"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Central retinal vein occlusion",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "structural changes in central retinal artery and lamina cribrosa",
+              "children": [
+                {
+                  "label": "hypertension",
+                  "children": [
+                    {
+                      "label": "arteriosclerosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "hyperlipidemia",
+                  "children": [
+                    {
+                      "label": "diabetes"
+                    }
+                  ]
+                },
+                {
+                  "label": "glaucoma"
+                },
+                {
+                  "label": "central retinal vein compression"
+                }
+              ]
+            },
+            {
+              "label": "inflammation",
+              "children": [
+                {
+                  "label": "papillophlebitis",
+                  "children": [
+                    {
+                      "label": "clinical features of CRVO"
+                    },
+                    {
+                      "label": "no history of vascular disease"
+                    },
+                    {
+                      "label": "<50 years"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "systemic associations (Eye Disease Case- Control Study)",
+                  "children": [
+                    {
+                      "label": "systemic arterial hypertension"
+                    },
+                    {
+                      "label": "diabetes mellitus"
+                    },
+                    {
+                      "label": "hyperlipidemia"
+                    }
+                  ]
+                },
+                {
+                  "label": "elevated IOP or open-angle glaucoma",
+                  "children": [
+                    {
+                      "label": "open angle glaucoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "increased intraorbital pressure"
+                },
+                {
+                  "label": "medications",
+                  "children": [
+                    {
+                      "label": "oral contraceptives"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "retinal hemorrhages",
+              "children": [
+                {
+                  "label": "4 quadrants",
+                  "children": [
+                    {
+                      "label": "diuretics"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "retinal vein dilation"
+            },
+            {
+              "label": "optic disc edema"
+            },
+            {
+              "label": "NFL infarcts"
+            },
+            {
+              "label": "macular edema"
+            }
+          ]
+        },
+        {
+          "label": "2 forms",
+          "children": [
+            {
+              "label": "nonperfused",
+              "children": [
+                {
+                  "label": "more severe clinical findings",
+                  "children": [
+                    {
+                      "label": ".>10 disc area nonperfusion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "perfused"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "retinal edema"
+            },
+            {
+              "label": "acellular capillary beds",
+              "children": [
+                {
+                  "label": "focal retinal necrosis"
+                }
+              ]
+            },
+            {
+              "label": "retinal hemorrhages",
+              "children": [
+                {
+                  "label": "subretinal"
+                },
+                {
+                  "label": "intraretinal"
+                },
+                {
+                  "label": "preretinal"
+                },
+                {
+                  "label": "hemosiderosis"
+                }
+              ]
+            },
+            {
+              "label": "retinal microaneurysms"
+            },
+            {
+              "label": "gliosis"
+            },
+            {
+              "label": "retinal disorganization"
+            },
+            {
+              "label": "collateral vessels at optic disc"
+            },
+            {
+              "label": "iris neovascularization"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Branch retinal vein occlusion",
+      "children": [
+        {
+          "label": "risk factors",
+          "children": [
+            {
+              "label": "systemic arterial hypertension"
+            },
+            {
+              "label": "increasing age"
+            },
+            {
+              "label": "glaucoma"
+            },
+            {
+              "label": "smoking"
+            },
+            {
+              "label": "diabetes not an independent risk factor!"
+            }
+          ]
+        },
+        {
+          "label": "retinal venule compression at A-V crossing",
+          "children": [
+            {
+              "label": "common adventitial sheath"
+            },
+            {
+              "label": "arteriosclerotic changes in arteriole",
+              "children": [
+                {
+                  "label": "arteriosclerosis"
+                },
+                {
+                  "label": "hypertension"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical features",
+          "children": [
+            {
+              "label": "retinal hemorrhages"
+            },
+            {
+              "label": "NFL infarcts"
+            },
+            {
+              "label": "macular edema"
+            },
+            {
+              "label": "lipid exudates"
+            },
+            {
+              "label": "retinal microaneurysms"
+            },
+            {
+              "label": "dilated collateral vessels"
+            },
+            {
+              "label": "retinal nonperfusion"
+            },
+            {
+              "label": "pigmentary macular disturbance"
+            },
+            {
+              "label": "subretinal fibrosis"
+            },
+            {
+              "label": "epiretinal membrane"
+            },
+            {
+              "label": "neovascularization unlikely",
+              "children": [
+                {
+                  "label": "nonperfusion>5 disc areas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "similar to CRVO"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.11.6. Retina & Retinal pigment Epithelium (VI) - Retinal Vascular Occlusions.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 222,
+      "connector_rejected": 3,
+      "connector_edges": 152,
+      "connector_width": 1.784,
+      "text_labels": 115,
+      "tree_nodes": 115,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6847,
+      "root_font_size": 5.054,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "label": "9.7.17. Infectious Ocular Inflammatory Diseases (XVII): Bacterial Uveitis (II): Ocular Syphilis (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "parenteral penicillin G",
+          "children": [
+            {
+              "label": "preferred treatment for all stages of syphilis"
+            }
+          ]
+        },
+        {
+          "label": "syphilitic uveitis requires neurologic dosing regimens"
+        },
+        {
+          "label": "CDC recommendation for the treatment of neurosyphilis",
+          "children": [
+            {
+              "label": "18–24 million units (MU) of aqueous crystalline penicillin G/day",
+              "children": [
+                {
+                  "label": "3–4 MU intravenously every 4 hours"
+                },
+                {
+                  "label": "continuous infusion"
+                }
+              ]
+            },
+            {
+              "label": "+- supplemented with intramuscular benzathine penicillin G, 2.4 MU weekly for 3 weeks",
+              "children": [
+                {
+                  "label": "10–14 days"
+                }
+              ]
+            },
+            {
+              "label": "no proven alternatives to penicillin for the treatment of",
+              "children": [
+                {
+                  "label": "neurosyphilis"
+                },
+                {
+                  "label": "congenital infection"
+                },
+                {
+                  "label": "disease in pregnant women"
+                },
+                {
+                  "label": "patients coinfected with HIV"
+                },
+                {
+                  "label": "patients with penicillin allergy require desensitization and then treatment with penicillin"
+                }
+              ]
+            },
+            {
+              "label": "alternative treatments in penicillin-allergic patients without neurosyphilis who are HIV- seronegative",
+              "children": [
+                {
+                  "label": "doxycycline"
+                },
+                {
+                  "label": "tetracycline"
+                }
+              ]
+            },
+            {
+              "label": "See Table 7-3",
+              "children": [
+                {
+                  "label": "effective alternatives in patients with ocular syphilis + HIV coinfection who are penicillin- allergic",
+                  "children": [
+                    {
+                      "label": "ceftriaxone"
+                    },
+                    {
+                      "label": "chloramphenicol"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "congenital syphilis",
+          "children": [
+            {
+              "label": "infants during the first months of life"
+            },
+            {
+              "label": "intravenous aqueous crystalline penicillin G, 100,000–150,000 units/kg/day",
+              "children": [
+                {
+                  "label": "50,000 units/kg/dose every 12 hours during the first 7 days of life"
+                },
+                {
+                  "label": "50,000 units/kg/dose every 8 hours after the first 7 days of life"
+                },
+                {
+                  "label": "10 days"
+                }
+              ]
+            },
+            {
+              "label": "intramuscular procaine penicillin G, 50,000 units/kg/dose in a single daily dose",
+              "children": [
+                {
+                  "label": "10 days"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "topical, periocular, and/or systemic corticosteroids",
+          "children": [
+            {
+              "label": "under appropriate antibiotic cover"
+            },
+            {
+              "label": "for treating the anterior and posterior segment inflammation"
+            }
+          ]
+        },
+        {
+          "label": "Jarisch-Herxheimer reaction",
+          "children": [
+            {
+              "label": "hypersensitivity response to treponemal antigens released as spirochetes are killed"
+            },
+            {
+              "label": "first 24 hours of treatment"
+            },
+            {
+              "label": "findings",
+              "children": [
+                {
+                  "label": "fever"
+                },
+                {
+                  "label": "chills"
+                },
+                {
+                  "label": "hypotension"
+                },
+                {
+                  "label": "tachycardia"
+                },
+                {
+                  "label": "malaise"
+                },
+                {
+                  "label": "increase in the severity of ocular inflammation",
+                  "children": [
+                    {
+                      "label": "may require local and/or systemic corticosteroids"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "supportive care and observation"
+            }
+          ]
+        },
+        {
+          "label": "nationally “notifiable” disease",
+          "children": [
+            {
+              "label": "appropriate health authorities should be notified"
+            }
+          ]
+        },
+        {
+          "label": "sexual contacts must be identified and treated"
+        }
+      ]
+    },
+    {
+      "label": "Diagnosis",
+      "children": [
+        {
+          "label": "history and clinical presentation"
+        },
+        {
+          "label": "direct visualization of spirochetes in lesion (exudates or tissue)",
+          "children": [
+            {
+              "label": "primary syphilis",
+              "children": [
+                {
+                  "label": "dark-field microscopy"
+                },
+                {
+                  "label": "direct fluorescent antibody test"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "serologic testing",
+          "children": [
+            {
+              "label": "nontreponemal tests",
+              "children": [
+                {
+                  "label": "Venereal Disease Research Laboratory (VDRL)"
+                },
+                {
+                  "label": "rapid plasma reagin (RPR)"
+                },
+                {
+                  "label": "correlate with disease activity",
+                  "children": [
+                    {
+                      "label": "increase during primary or secondary syphilis"
+                    },
+                    {
+                      "label": "decrease when the spirochetes are not active",
+                      "children": [
+                        {
+                          "label": "latent syphilis"
+                        },
+                        {
+                          "label": "after adequate antibiotic treatment"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "for screening large populations with a relatively lower risk for syphilis",
+                  "children": [
+                    {
+                      "label": "useful for monitoring therapy for both systemic and ocular disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "false+ nontreponemal test results",
+                  "children": [
+                    {
+                      "label": "SLE"
+                    },
+                    {
+                      "label": "leprosy"
+                    },
+                    {
+                      "label": "advanced age"
+                    },
+                    {
+                      "label": "intravenous drug abuse"
+                    },
+                    {
+                      "label": "bacterial endocarditis"
+                    },
+                    {
+                      "label": "tuberculosis"
+                    },
+                    {
+                      "label": "vaccinations"
+                    },
+                    {
+                      "label": "infectious mononucleosis"
+                    },
+                    {
+                      "label": "HIV infection"
+                    },
+                    {
+                      "label": "atypical pneumonia"
+                    },
+                    {
+                      "label": "malaria"
+                    },
+                    {
+                      "label": "rickettsial infections"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treponemal tests",
+              "children": [
+                {
+                  "label": "fluorescent treponemal antibody absorption (FTA-ABS)",
+                  "children": [
+                    {
+                      "label": "other spirochetal infections (eg, Lyme disease)"
+                    }
+                  ]
+                },
+                {
+                  "label": "microhemagglutination assay for T pallidum antibodies (MHA-TP)"
+                },
+                {
+                  "label": "secondary syphilis"
+                },
+                {
+                  "label": "remain positive throughout life",
+                  "children": [
+                    {
+                      "label": "not useful in assessing therapeutic response"
+                    }
+                  ]
+                },
+                {
+                  "label": "false-positive treponemal test results",
+                  "children": [
+                    {
+                      "label": "other spirochetal infections (Lyme disease, leptospirosis)"
+                    },
+                    {
+                      "label": "autoimmune disease (SLE, primary biliary cirrhosis, and rheumatoid arthritis)"
+                    },
+                    {
+                      "label": "leprosy"
+                    },
+                    {
+                      "label": "malaria"
+                    },
+                    {
+                      "label": "rare",
+                      "children": [
+                        {
+                          "label": "advanced age"
+                        },
+                        {
+                          "label": "1%–2%"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "higher predictive value in patients with uveitis"
+                },
+                {
+                  "label": "should be used in conjunction with nontreponemal tests in diagnosing and treating ocular syphilis"
+                }
+              ]
+            },
+            {
+              "label": "congenital syphilis",
+              "children": [
+                {
+                  "label": "VDRL and FTA-ABS IgG test results are positive among infants born to mothers with syphilis"
+                },
+                {
+                  "label": "serodiagnosis of congenital syphilis is made using the FTA-ABS IgM test"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "testing for HIV infection",
+          "children": [
+            {
+              "label": "should be performed in all patients with syphilis"
+            },
+            {
+              "label": "every case of syphilitic uveitis",
+              "children": [
+                {
+                  "label": "false-positive and false-negative rates of serologic testing may be greater in HIV- infected patients"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CSF examination",
+          "children": [
+            {
+              "label": "(+) CSF VDRL",
+              "children": [
+                {
+                  "label": "diagnostic of neurosyphilis",
+                  "children": [
+                    {
+                      "label": "high specificity",
+                      "children": [
+                        {
+                          "label": "VDRL is non-treponemal but more specific for neurosyphylis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "+- nonreactive in some cases of neurosyphilis",
+                  "children": [
+                    {
+                      "label": "low sensitivity"
+                    }
+                  ]
+                },
+                {
+                  "label": "repeat every 6 months until the cell count, protein, and VDRL results return to normal"
+                }
+              ]
+            },
+            {
+              "label": "CSF FTA-ABS",
+              "children": [
+                {
+                  "label": "highly sensitive",
+                  "children": [
+                    {
+                      "label": "useful in excluding neurosyphilis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "specific ELISA- and PCR-based DNA amplification techniques",
+          "children": [
+            {
+              "label": "high sensitivity and specificity"
+            },
+            {
+              "label": "on intraocular/cerebrospinal fluids",
+              "children": [
+                {
+                  "label": "valuable in confirming the diagnosis in atypical cases",
+                  "children": [
+                    {
+                      "label": "FTA-ABS is treponemal but less specific for neurosyphylis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "references"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.17. Infectious Ocular Inflammatory Diseases (XVII) - Bacterial Uveitis (II) - Ocular Syphilis (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 227,
+      "connector_rejected": 1,
+      "connector_edges": 162,
+      "connector_width": 0.947,
+      "text_labels": 121,
+      "tree_nodes": 121,
+      "component_roots": 2,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7137,
+      "root_font_size": 3.551,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "label": "4.7.1. Anterior Chamber & Trabecular Meshwork",
+  "root": true,
+  "children": [
+    {
+      "label": "Topography",
+      "children": [
+        {
+          "label": "boundaries",
+          "children": [
+            {
+              "label": "corneal endothelium"
+            },
+            {
+              "label": "iris-ciliary body & pupillary portion of lens"
+            },
+            {
+              "label": "trabecular meshwork (tm)"
+            }
+          ]
+        },
+        {
+          "label": "AC depth",
+          "children": [
+            {
+              "label": "3.5 mm"
+            }
+          ]
+        },
+        {
+          "label": "embryology",
+          "children": [
+            {
+              "label": "TM",
+              "children": [
+                {
+                  "label": "neural crest"
+                }
+              ]
+            },
+            {
+              "label": "Schlemm canal",
+              "children": [
+                {
+                  "label": "mesoderm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "landmarks",
+          "children": [
+            {
+              "label": "Schwalbe line",
+              "children": [
+                {
+                  "label": "termination of Descemet membrane"
+                }
+              ]
+            },
+            {
+              "label": "scleral spur",
+              "children": [
+                {
+                  "label": "triangular extension of sclera",
+                  "children": [
+                    {
+                      "label": "insertion of outermost longitudinal ciliary body muscle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "TM"
+            },
+            {
+              "label": "Schlemm canal"
+            },
+            {
+              "label": "nested in the groove formed by scleral spur and corneoscleral tissue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congenital anomalies",
+      "children": [
+        {
+          "label": "Primary congenital glaucoma",
+          "children": [
+            {
+              "label": "at birth or within first few years of birth"
+            },
+            {
+              "label": "arrested development of AC angle structures",
+              "children": [
+                {
+                  "label": "anterior insertion of iris root",
+                  "children": [
+                    {
+                      "label": "anteriorly displaced ciliary processes"
+                    }
+                  ]
+                },
+                {
+                  "label": "poorly developed scleral spur",
+                  "children": [
+                    {
+                      "label": "insertion of ciliary body muscle directly into the TM"
+                    }
+                  ]
+                },
+                {
+                  "label": "mesenchymal tissue in the anterior chamber angle"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Anterior segment dysgenesis",
+          "children": [
+            {
+              "label": "abnormal neural crest migration and differentiation"
+            },
+            {
+              "label": "Axenfeld-Rieger syndrome",
+              "children": [
+                {
+                  "label": "autosomal dominant"
+                },
+                {
+                  "label": "clinical findings",
+                  "children": [
+                    {
+                      "label": "posterior embryotoxon",
+                      "children": [
+                        {
+                          "label": "thick & anteriorly displaced Schwalbe line"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "adherence of iris strands to Schwalbe line"
+                    },
+                    {
+                      "label": "iris hypoplasia"
+                    },
+                    {
+                      "label": "corectopia & polycoria"
+                    },
+                    {
+                      "label": "fetal AC angle",
+                      "children": [
+                        {
+                          "label": "glaucoma",
+                          "children": [
+                            {
+                              "label": "50%"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Secondary glaucoma with material in the trabecular meshwork",
+      "children": [
+        {
+          "label": "Exfoliation syndrome (Pseudoexfoliation)",
+          "children": [
+            {
+              "label": "age >50 years"
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "abnormal aggregation of elastic fiber components",
+                  "children": [
+                    {
+                      "label": "lysyl oxidase-like 1 gene (LOXL1)",
+                      "children": [
+                        {
+                          "label": "15q24"
+                        },
+                        {
+                          "label": "responsible for crosslinking of collagen and elastin"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "exfoliative material on surface of anterior segment structures"
+                },
+                {
+                  "label": "fibrillar material in the connective tissue of various visceral organs"
+                }
+              ]
+            },
+            {
+              "label": "pathology",
+              "children": [
+                {
+                  "label": "feathery/brush-like fibrils",
+                  "children": [
+                    {
+                      "label": "perpendicular to surface of anterior segment structures",
+                      "children": [
+                        {
+                          "label": "trabecular meshwork"
+                        },
+                        {
+                          "label": "Schlemm canal"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "periodic acid-Schiff positive"
+                    }
+                  ]
+                },
+                {
+                  "label": "saw-toothed iris pigment epitthelium"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Phacolytic glaucoma",
+          "children": [
+            {
+              "label": "hypermature cataract",
+              "children": [
+                {
+                  "label": "leakage of denatured lens protein through intact capsule"
+                }
+              ]
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "occlusion of TM",
+                  "children": [
+                    {
+                      "label": "lens protein"
+                    },
+                    {
+                      "label": "macrophages containing proteinaceous eosinophilic material"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Trauma",
+          "children": [
+            {
+              "label": "intraocular hemorrhage",
+              "children": [
+                {
+                  "label": "ghost cell glaucoma",
+                  "children": [
+                    {
+                      "label": "hemolyzed RBCs",
+                      "children": [
+                        {
+                          "label": "spherical"
+                        },
+                        {
+                          "label": "rigid"
+                        },
+                        {
+                          "label": "contain degenerated hemoglobin",
+                          "children": [
+                            {
+                              "label": "Heinz bodies"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "hemolytic glaucoma",
+                  "children": [
+                    {
+                      "label": "macrophages containing:",
+                      "children": [
+                        {
+                          "label": "hemosiderin"
+                        },
+                        {
+                          "label": "hemoglobin"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "hemosiderosis oculi",
+                  "children": [
+                    {
+                      "label": "hemosiderin deposition within TM endothelium",
+                      "children": [
+                        {
+                          "label": "enzyme toxin",
+                          "children": [
+                            {
+                              "label": "damages TM function"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "prussian blue stain"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "other causes",
+              "children": [
+                {
+                  "label": "angle recession"
+                },
+                {
+                  "label": "cyclodialysis"
+                },
+                {
+                  "label": "iridodialysis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pigment dispersion associations",
+          "children": [
+            {
+              "label": "causes",
+              "children": [
+                {
+                  "label": "uveitis"
+                },
+                {
+                  "label": "uveal melanoma",
+                  "children": [
+                    {
+                      "label": "macrophages that have ingested pigment obstruct the trabecular meshwork"
+                    }
+                  ]
+                },
+                {
+                  "label": "pigment dispersion syndrome",
+                  "children": [
+                    {
+                      "label": "clinical findings",
+                      "children": [
+                        {
+                          "label": "pigment in:",
+                          "children": [
+                            {
+                              "label": "TM"
+                            },
+                            {
+                              "label": "corneal endothelium",
+                              "children": [
+                                {
+                                  "label": "krukenberg spindle"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "lens capsule"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "radial midperipheral iris defects",
+                          "children": [
+                            {
+                              "label": "contact of lens zonules with iris pigment epithelium"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "pathogenesis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Neoplasia",
+          "children": [
+            {
+              "label": "direct TM obstruction by tumor",
+              "children": [
+                {
+                  "label": "iris/ciliary body melanocytic nevus"
+                },
+                {
+                  "label": "iris/ciliary body melanoma"
+                },
+                {
+                  "label": "conjunctival carcinoma invading the eye"
+                }
+              ]
+            },
+            {
+              "label": "melanomalytic glaucoma",
+              "children": [
+                {
+                  "label": "TM obstruction by pigment released from tumor",
+                  "children": [
+                    {
+                      "label": "iris/ciliary body melanoma"
+                    },
+                    {
+                      "label": "iris/ciliary body melanocytoma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Degenerations",
+      "children": [
+        {
+          "label": "Iridocorneal endothelial syndrome",
+          "children": [
+            {
+              "label": "young/middle-aged adults"
+            },
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "epithelial-like metaplasia and abnormal proliferation of the corneal endothelium",
+                  "children": [
+                    {
+                      "label": "thin basement membrane",
+                      "children": [
+                        {
+                          "label": "periodic acid-schiff positive"
+                        },
+                        {
+                          "label": "similar to Descemet membrane"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "abnormal endothelial cells migrate over AC angle",
+                  "children": [
+                    {
+                      "label": "PAS",
+                      "children": [
+                        {
+                          "label": "secondary angle-closure glaucoma",
+                          "children": [
+                            {
+                              "label": "1/2"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical variants",
+              "children": [
+                {
+                  "label": "essential (progressive) iris atrophy",
+                  "children": [
+                    {
+                      "label": "severe progressive iris stromal & pigment epithelial atrophy"
+                    },
+                    {
+                      "label": "corectopia"
+                    },
+                    {
+                      "label": "ectropion uveae"
+                    },
+                    {
+                      "label": "hole formation"
+                    },
+                    {
+                      "label": "heterochromia"
+                    },
+                    {
+                      "label": "narrow anterior chamber",
+                      "children": [
+                        {
+                          "label": "PAS formation"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chandler syndrome",
+                  "children": [
+                    {
+                      "label": "the most common form",
+                      "children": [
+                        {
+                          "label": "50%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "minimal iris atrophy and corectopia"
+                    },
+                    {
+                      "label": "corneal and angle findings predominate"
+                    }
+                  ]
+                },
+                {
+                  "label": "Cogan-Reese (iris nevus) syndrome",
+                  "children": [
+                    {
+                      "label": "less severe iris atrophy"
+                    },
+                    {
+                      "label": "membrane grows on the anterior iris surface",
+                      "children": [
+                        {
+                          "label": "pinches off islands of the normal iris stroma",
+                          "children": [
+                            {
+                              "label": "tan pedunculated nodules or diffuse pigmented lesions on the anterior iris surface"
+                            },
+                            {
+                              "label": "nodular/nevus-like appearance"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.7.1. Anterior Chamber & Trabecular Meshwork.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 314,
+      "connector_rejected": 134,
+      "connector_edges": 162,
+      "connector_width": 0.906,
+      "text_labels": 147,
+      "tree_nodes": 147,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.5159,
+      "root_font_size": 3.019,
+      "warnings": []
+    }
+  }
+}

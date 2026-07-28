@@ -1,0 +1,667 @@
+{
+  "label": "8.5.3. Microbial and Parasitic Infections of the Cornea and Sclera (I): Bacterial Keratitis",
+  "root": true,
+  "children": [
+    {
+      "label": "Predisposing factors",
+      "children": [
+        {
+          "label": "contact lens wear",
+          "children": [
+            {
+              "label": "most frequent risk factor in US",
+              "children": [
+                {
+                  "label": "19%–42%"
+                }
+              ]
+            },
+            {
+              "label": "P aeruginosa becomes more pathogenic in lens-related biofilms",
+              "children": [
+                {
+                  "label": "enhanced binding to molecular receptors exposed on injured epithelial cells"
+                }
+              ]
+            },
+            {
+              "label": "risk increases x15 in patients who wear their contact lenses overnight",
+              "children": [
+                {
+                  "label": "risk increases with the number of consecutive days lenses are worn without removal"
+                },
+                {
+                  "label": "extended-wear soft lenses",
+                  "children": [
+                    {
+                      "label": "0.21%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "annual incidence of cosmetic contact lens– related ulcerative keratitis (in Australia)",
+              "children": [
+                {
+                  "label": "daily-wear soft lenses",
+                  "children": [
+                    {
+                      "label": "0.02%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "trauma"
+        },
+        {
+          "label": "contaminated ocular medications"
+        },
+        {
+          "label": "impaired defense mechanisms"
+        },
+        {
+          "label": "altered structure of the corneal surface"
+        }
+      ]
+    },
+    {
+      "label": "Pathogenesis",
+      "children": [
+        {
+          "label": "epithelial adherence"
+        },
+        {
+          "label": "corneal stromal invasion",
+          "children": [
+            {
+              "label": "bacteria-specific proteases"
+            }
+          ]
+        },
+        {
+          "label": "reactive host inflammation",
+          "children": [
+            {
+              "label": "cytokines and chemokines"
+            },
+            {
+              "label": "inflammatory cells",
+              "children": [
+                {
+                  "label": "tears"
+                },
+                {
+                  "label": "limbal vessels"
+                }
+              ]
+            },
+            {
+              "label": "secretion of matrix metalloproteinases"
+            }
+          ]
+        },
+        {
+          "label": "stromal necrosis (keratolysis)"
+        }
+      ]
+    },
+    {
+      "label": "Causative agents",
+      "children": [
+        {
+          "label": "See Table 5-4"
+        }
+      ]
+    },
+    {
+      "label": "Management",
+      "children": [
+        {
+          "label": "therapy must be initiated before definitive diagnosis is obtained"
+        },
+        {
+          "label": "Initial therapy for bacterial keratitis",
+          "children": [
+            {
+              "label": "see Table 5-5",
+              "children": [
+                {
+                  "label": "gram positive cocci",
+                  "children": [
+                    {
+                      "label": "cefazolin"
+                    },
+                    {
+                      "label": "vancomycin"
+                    },
+                    {
+                      "label": "third- and fourth-generation fluoroquinolones"
+                    }
+                  ]
+                },
+                {
+                  "label": "gram negative rods",
+                  "children": [
+                    {
+                      "label": "tobramycin"
+                    },
+                    {
+                      "label": "ceftazidime"
+                    },
+                    {
+                      "label": "second, third,- and fourth-generation fluoroquinolones"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "monotherapy (topical fluoroquinolones)",
+          "children": [
+            {
+              "label": "dosing",
+              "children": [
+                {
+                  "label": "every 30–60 minutes",
+                  "children": [
+                    {
+                      "label": "tapered in frequency according to the clinical response"
+                    }
+                  ]
+                },
+                {
+                  "label": "severe cases",
+                  "children": [
+                    {
+                      "label": "loading dose",
+                      "children": [
+                        {
+                          "label": "every 5 minutes for 30 minutes"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "second-generation fluoroquinolones",
+              "children": [
+                {
+                  "label": "ciprofloxacin"
+                },
+                {
+                  "label": "ofloxacin"
+                },
+                {
+                  "label": "lack useful gram-positive activity"
+                },
+                {
+                  "label": "excellent Pseudomonas coverage"
+                }
+              ]
+            },
+            {
+              "label": "third- and fourth-generation fluoroquinolones",
+              "children": [
+                {
+                  "label": "moxifloxacin"
+                },
+                {
+                  "label": "gatifloxacin"
+                },
+                {
+                  "label": "levofloxacin"
+                },
+                {
+                  "label": "besifloxacin"
+                },
+                {
+                  "label": "improved gram-positive and atypical mycobacterial coverage"
+                },
+                {
+                  "label": "limited activity against MRSA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "combination therapy",
+          "children": [
+            {
+              "label": "agent active against gram-positive bacteria"
+            },
+            {
+              "label": "agent active against gram-negative bacteria",
+              "children": [
+                {
+                  "label": "if monotherapy fails"
+                }
+              ]
+            },
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "if at initial presentation the ulcer is",
+                  "children": [
+                    {
+                      "label": "large",
+                      "children": [
+                        {
+                          "label": "similar to indications for culture"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "vision threatening"
+                    },
+                    {
+                      "label": "atypical"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "“fortified” antibiotics",
+              "children": [
+                {
+                  "label": "may have a greater toxic effect on the ocular surface"
+                },
+                {
+                  "label": "indications",
+                  "children": [
+                    {
+                      "label": "in combination with vancomycin for gram- positive coverage when MRSA is suspected"
+                    },
+                    {
+                      "label": "with large or vision-threatening ulcers"
+                    },
+                    {
+                      "label": "prior antibiotic failure"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "initial broad-spectrum therapy should continue until",
+          "children": [
+            {
+              "label": "substantial control of the infection is seen",
+              "children": [
+                {
+                  "label": "effectively treated, most infectious keratitis is culture-negative after 48–72 hours"
+                },
+                {
+                  "label": "prophylactic broad-spectrum antibiotic (not a fortified antibiotic) may be given at a therapeutic dose until the corneal epithelium is healed"
+                }
+              ]
+            },
+            {
+              "label": "an organism is recovered",
+              "children": [
+                {
+                  "label": "start appropriate monotherapy",
+                  "children": [
+                    {
+                      "label": "antibiotic sensitivities",
+                      "children": [
+                        {
+                          "label": "antibiotic levels achieved by topical administration are much higher than those achieved by systemic administeration"
+                        },
+                        {
+                          "label": "often, a bacterial keratitis will respond in vivo even when in vitro data suggest resistance"
+                        },
+                        {
+                          "label": "any changes in medical therapy should therefore be based on clinical response"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic antibiotics (+ intensive topical antibiotics)",
+          "children": [
+            {
+              "label": "suspected scleral and/or intraocular extension of infection"
+            }
+          ]
+        },
+        {
+          "label": "clinical parameters for monitoring clinical response to antibiotic therapy",
+          "children": [
+            {
+              "label": "blunting of the perimeter of the stromal infiltrate"
+            },
+            {
+              "label": "decreased density of the stromal infiltrate"
+            },
+            {
+              "label": "reduction of stromal edema and endothelial inflammatory plaque"
+            },
+            {
+              "label": "reduction in anterior chamber inflammation"
+            },
+            {
+              "label": "reepithelialization"
+            },
+            {
+              "label": "cessation of corneal thinning"
+            }
+          ]
+        },
+        {
+          "label": "corticosteroid therapy",
+          "children": [
+            {
+              "label": "controversial"
+            },
+            {
+              "label": "does not appear to increase the general risk of poor outcomes or complications"
+            },
+            {
+              "label": "criteria for corticosteroid therapy",
+              "children": [
+                {
+                  "label": "corticosteroids should not be used in the absence of appropriate antibiotic therapy"
+                },
+                {
+                  "label": "the patient must be able to return for frequent follow-up examinations and demonstrate adherence to appropriate antibiotic therapy"
+                }
+              ]
+            },
+            {
+              "label": "prednisolone acetate/phosphate 1% every 6 hours",
+              "children": [
+                {
+                  "label": "no other associated virulent or difficult-to- eradicate organism is found or suspected"
+                },
+                {
+                  "label": "monitor patient 24 and 48 hours after initiation of therapy",
+                  "children": [
+                    {
+                      "label": "the frequency of administration may be adjusted"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "penetrating keratoplasty (PK)",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "keratitis is unresponsive to antimicrobial therapy"
+                },
+                {
+                  "label": "descemetocele formation or perforation occurs"
+                },
+                {
+                  "label": "disease progresses despite therapy"
+                }
+              ]
+            },
+            {
+              "label": "circumscribe all areas of infection"
+            },
+            {
+              "label": "peripheral iridectomies are indicated"
+            },
+            {
+              "label": "interrupted sutures"
+            },
+            {
+              "label": "appropriate antibiotics"
+            },
+            {
+              "label": "cycloplegics"
+            },
+            {
+              "label": "intense topical corticosteroids postoperatively"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Clinical presentation",
+      "children": [
+        {
+          "label": "rapid onset of pain"
+        },
+        {
+          "label": "conjunctival injection"
+        },
+        {
+          "label": "photophobia"
+        },
+        {
+          "label": "decreased vision"
+        },
+        {
+          "label": "single infiltrate",
+          "children": [
+            {
+              "label": "sharp epithelial demarcation"
+            },
+            {
+              "label": "dense, suppurative stromal inflammation",
+              "children": [
+                {
+                  "label": "indistinct edges"
+                },
+                {
+                  "label": "surrounding stromal edema"
+                }
+              ]
+            },
+            {
+              "label": "irreversible corneal scarring"
+            },
+            {
+              "label": "clinical appearance of the infection is an unreliable guide in determining the causative pathogen"
+            }
+          ]
+        },
+        {
+          "label": "P aeruginosa",
+          "children": [
+            {
+              "label": "stromal necrosis with a shaggy surface"
+            },
+            {
+              "label": "adherent mucopurulent exudate"
+            },
+            {
+              "label": "endothelial inflammatory plaque"
+            },
+            {
+              "label": "marked anterior chamber reaction",
+              "children": [
+                {
+                  "label": "hypopyon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "slow-growing, fastidious organisms (mycobacteria, anaerobes)",
+          "children": [
+            {
+              "label": "intact epithelium"
+            },
+            {
+              "label": "nonsuppurative infiltrate"
+            },
+            {
+              "label": "infectious crystalline keratopathy",
+              "children": [
+                {
+                  "label": "densely packed, white, branching aggregates of organisms"
+                },
+                {
+                  "label": "absence of a host inflammatory response",
+                  "children": [
+                    {
+                      "label": "corticosteroid use"
+                    }
+                  ]
+                },
+                {
+                  "label": "risk factors",
+                  "children": [
+                    {
+                      "label": "contact lens wear"
+                    },
+                    {
+                      "label": "previous corneal surgery",
+                      "children": [
+                        {
+                          "label": "penetrating keratoplasty"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "causative agents",
+                  "children": [
+                    {
+                      "label": "bacterial",
+                      "children": [
+                        {
+                          "label": "α-hemolytic Streptococcus species (Streptococcus viridans)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "fungal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fluoroquinolones"
+    },
+    {
+      "label": "Lab evaluation",
+      "children": [
+        {
+          "label": "yield for corneal cultures and smears is significantly higher before the initiation of antibiotic treatment"
+        },
+        {
+          "label": "discontinuing the antibiotics 12–24 hours prior to culturing may enhance recovery of viable organisms"
+        },
+        {
+          "label": "culture",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "infiltrates that extend",
+                  "children": [
+                    {
+                      "label": "to the middle of the cornea"
+                    },
+                    {
+                      "label": "into deep stroma"
+                    },
+                    {
+                      "label": "across a large area (>2 mm)"
+                    }
+                  ]
+                },
+                {
+                  "label": "history or clinical features suggest fungal, amebic, mycobacterial, or drug-resistant organisms"
+                }
+              ]
+            },
+            {
+              "label": "sources",
+              "children": [
+                {
+                  "label": "cornea",
+                  "children": [
+                    {
+                      "label": "cases unresponsive to initial empiric therapy",
+                      "children": [
+                        {
+                          "label": "+- discontinuation of antibiotics for 12–24 hours"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "contact lenses"
+                },
+                {
+                  "label": "contact lens cases"
+                },
+                {
+                  "label": "solutions"
+                },
+                {
+                  "label": "inflamed eyelids"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "smear",
+          "children": [
+            {
+              "label": "a positive smear does not obviate the need for broad-spectrum coverage"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.5.3. Microbial and Parasitic Infections of the Cornea and Sclera (I) - Bacterial Keratitis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 301,
+      "connector_rejected": 3,
+      "connector_edges": 208,
+      "connector_width": 1.184,
+      "text_labels": 172,
+      "tree_nodes": 172,
+      "component_roots": 7,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.691,
+      "root_font_size": 3.354,
+      "warnings": []
+    }
+  }
+}

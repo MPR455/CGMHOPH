@@ -1,0 +1,458 @@
+{
+  "label": "11.3.6. Developmental Defects (V): Ectopia Lentis (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Ectopia Lentis",
+      "children": [
+        {
+          "label": "displacement of the lens"
+        },
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "subluxated lens",
+              "children": [
+                {
+                  "label": "partially displaced but remains in the pupillary area"
+                }
+              ]
+            },
+            {
+              "label": "luxated/dislocated lens",
+              "children": [
+                {
+                  "label": "completely displaced from the pupil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical findings",
+          "children": [
+            {
+              "label": "decreased vision"
+            },
+            {
+              "label": "marked astigmatism"
+            },
+            {
+              "label": "monocular diplopia"
+            },
+            {
+              "label": "iridodonesis"
+            },
+            {
+              "label": "pupillary abnormalities",
+              "children": [
+                {
+                  "label": "ectopia lentis et pupillae"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "potential complications",
+          "children": [
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "displacement of the lens into the anterior chamber",
+              "children": [
+                {
+                  "label": "pupillary block and angle-closure glaucoma"
+                }
+              ]
+            },
+            {
+              "label": "displacement of the lens into the vitreous",
+              "children": [
+                {
+                  "label": "profound change in refractive error",
+                  "children": [
+                    {
+                      "label": "similar to congenital cataracts"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "congenital/developmental",
+              "children": [
+                {
+                  "label": "isolated anomaly (simple ectopia lentis)",
+                  "children": [
+                    {
+                      "label": "autosomal dominant"
+                    }
+                  ]
+                },
+                {
+                  "label": "associated with other diseases",
+                  "children": [
+                    {
+                      "label": "Marfan syndrome"
+                    },
+                    {
+                      "label": "homocystinuria"
+                    },
+                    {
+                      "label": "aniridia"
+                    },
+                    {
+                      "label": "congenital glaucoma"
+                    },
+                    {
+                      "label": "Ehlers-Danlos syndrome"
+                    },
+                    {
+                      "label": "hyperlysinemia",
+                      "children": [
+                        {
+                          "label": "less frequent",
+                          "children": [
+                            {
+                              "label": "deficiency of molybdenum cofactor"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "sulfite oxidase deficiency"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "acquired",
+              "children": [
+                {
+                  "label": "Marfan is AD",
+                  "children": [
+                    {
+                      "label": "trauma is the most common cause of acquired lens displacement"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Marfan syndrome",
+      "children": [
+        {
+          "label": "autosomal dominant",
+          "children": [
+            {
+              "label": "no family history in 15%",
+              "children": [
+                {
+                  "label": "fibrillin gene on chromosome 15"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic abnormalities",
+          "children": [
+            {
+              "label": "skeletal",
+              "children": [
+                {
+                  "label": "tall"
+                },
+                {
+                  "label": "arachnodactyly"
+                },
+                {
+                  "label": "chest wall deformities"
+                }
+              ]
+            },
+            {
+              "label": "cardiac",
+              "children": [
+                {
+                  "label": "dilated aortic root"
+                },
+                {
+                  "label": "mitral valve prolapse"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular",
+          "children": [
+            {
+              "label": "ectopia lentis",
+              "children": [
+                {
+                  "label": "50% to 80%"
+                },
+                {
+                  "label": "bilateral and symmetric",
+                  "children": [
+                    {
+                      "label": "usually superior and temporal"
+                    }
+                  ]
+                },
+                {
+                  "label": "zonular attachments commonly remain intact but become stretched and elongated"
+                },
+                {
+                  "label": "congenital in most cases",
+                  "children": [
+                    {
+                      "label": "in many patients the lens position remains stable"
+                    },
+                    {
+                      "label": "progression is observed in some patients"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "other ocular abnormalities",
+              "children": [
+                {
+                  "label": "axial myopia"
+                },
+                {
+                  "label": "increased risk of retinal detachment"
+                },
+                {
+                  "label": "dislocation into the pupil or anterior chamber",
+                  "children": [
+                    {
+                      "label": "pupillary block glaucoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "open-angle glaucoma"
+                },
+                {
+                  "label": "amblyopia"
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "spectacle/contact lens correction"
+                },
+                {
+                  "label": "pupillary dilation is sometimes helpful"
+                },
+                {
+                  "label": "refract both the phakic and the aphakic portions of the pupil to determine the optimum visual acuity"
+                },
+                {
+                  "label": "reading add",
+                  "children": [
+                    {
+                      "label": "subluxated lens lacks sufficient accommodation!"
+                    }
+                  ]
+                },
+                {
+                  "label": "removal of the lens",
+                  "children": [
+                    {
+                      "label": "if adequate visual acuity cannot be obtained with spectacle/contact lens"
+                    },
+                    {
+                      "label": "extracapsular or intracapsular",
+                      "children": [
+                        {
+                          "label": "high rate of complications",
+                          "children": [
+                            {
+                              "label": "vitreous loss"
+                            },
+                            {
+                              "label": "complex retinal detachment"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lensectomy using vitrectomy instrumentation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Homocystinuria",
+      "children": [
+        {
+          "label": "autosomal recessive"
+        },
+        {
+          "label": "inborn error of methionine metabolism",
+          "children": [
+            {
+              "label": "deficiency of cystathionine β-synthase",
+              "children": [
+                {
+                  "label": "increased serum levels of",
+                  "children": [
+                    {
+                      "label": "homocysteine"
+                    },
+                    {
+                      "label": "methionine"
+                    }
+                  ]
+                },
+                {
+                  "label": "cysteine deficiency"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "healthy at birth"
+            },
+            {
+              "label": "tall"
+            },
+            {
+              "label": "seizures"
+            },
+            {
+              "label": "mental disability",
+              "children": [
+                {
+                  "label": "unlike Marfan"
+                }
+              ]
+            },
+            {
+              "label": "osteoporosis"
+            },
+            {
+              "label": "light-colored hair"
+            },
+            {
+              "label": "thromboembolic episodes",
+              "children": [
+                {
+                  "label": "surgery and general anesthesia increase the risk of thromboembolism"
+                }
+              ]
+            },
+            {
+              "label": "Lens dislocation",
+              "children": [
+                {
+                  "label": "pathogenesis",
+                  "children": [
+                    {
+                      "label": "cysteine deficiency",
+                      "children": [
+                        {
+                          "label": "zonular fibers have a high concentration of cysteine"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "bilateral and symmetric"
+                },
+                {
+                  "label": "brittle zonules"
+                },
+                {
+                  "label": "incidence",
+                  "children": [
+                    {
+                      "label": "infancy",
+                      "children": [
+                        {
+                          "label": "30%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "15 years",
+                      "children": [
+                        {
+                          "label": "80%"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "subluxated inferiorly and nasally"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "low-methionine, high-cysteine diet"
+            },
+            {
+              "label": "pyridoxine (vitamin B6) supplementation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.3.6. Developmental Defects (V) - Ectopia Lentis (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 111,
+      "connector_rejected": 2,
+      "connector_edges": 107,
+      "connector_width": 0.505,
+      "text_labels": 113,
+      "tree_nodes": 113,
+      "component_roots": 3,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.964,
+      "root_font_size": 4.798,
+      "warnings": []
+    }
+  }
+}

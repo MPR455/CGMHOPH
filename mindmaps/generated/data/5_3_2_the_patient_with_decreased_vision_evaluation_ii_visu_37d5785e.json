@@ -1,0 +1,188 @@
+{
+  "label": "5.3.2 The Patient With Decreased Vision: Evaluation (II): Visual Field Evaluation (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "benefits",
+      "children": [
+        {
+          "label": "to localize a lesion along the afferent visual pathway"
+        },
+        {
+          "label": "to define patterns of vision loss"
+        },
+        {
+          "label": "to quantify the defect"
+        }
+      ]
+    },
+    {
+      "label": "Amsler grid testing",
+      "children": [
+        {
+          "label": "screens the central 20° of the visual field (10° from fixation)"
+        },
+        {
+          "label": "technique",
+          "children": [
+            {
+              "label": "optical correction for near vision"
+            },
+            {
+              "label": "hold Amsler grid at one-third of a meter"
+            },
+            {
+              "label": "cover 1 eye"
+            },
+            {
+              "label": "look at a fixation point in the center of the grid"
+            }
+          ]
+        },
+        {
+          "label": "patient describes any areas of distortion (ie, metamorphopsia)",
+          "children": [
+            {
+              "label": "suggests macular rather than optic nerve disease"
+            }
+          ]
+        },
+        {
+          "label": "peripheral “bending” of the grid",
+          "children": [
+            {
+              "label": "optical aberration from spectacles",
+              "children": [
+                {
+                  "label": "does not replace formal perimetry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "patient can identify scotomata"
+        },
+        {
+          "label": "sensitivity is low"
+        }
+      ]
+    },
+    {
+      "label": "Confrontation testing",
+      "children": [
+        {
+          "label": "should take place during every ophthalmic examination"
+        },
+        {
+          "label": "screening test only"
+        },
+        {
+          "label": "technique",
+          "children": [
+            {
+              "label": "patient covers 1 eye",
+              "children": [
+                {
+                  "label": "examiner sits 1 m from the patient"
+                },
+                {
+                  "label": "fixates on the examiner’s nose"
+                }
+              ]
+            },
+            {
+              "label": "examiner asks the patient to identify a target of 1, 2, or 5 fingers at the midpoint of each of the 4 quadrants"
+            },
+            {
+              "label": "double simultaneous stimulation",
+              "children": [
+                {
+                  "label": "examiner presents targets in opposing quadrants",
+                  "children": [
+                    {
+                      "label": "asks the patient to add the total number of fingers"
+                    }
+                  ]
+                },
+                {
+                  "label": "consistently missed responses in a quadrant or hemifield may indicate a subtle visual field defect or extinction"
+                },
+                {
+                  "label": "extinction",
+                  "children": [
+                    {
+                      "label": "inability to see a target in an affected hemifield only during simultaneous stimulation",
+                      "children": [
+                        {
+                          "label": "target presented in the affected hemifield alone can be seen"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "characteristic of parietal lobe lesions"
+                    }
+                  ]
+                },
+                {
+                  "label": "if patient cannot identify fingers, use hand movement or light perception"
+                }
+              ]
+            },
+            {
+              "label": "accurate saccadic movement to an eccentric target is also evidence of some preservation of the peripheral visual field"
+            },
+            {
+              "label": "subjective comparisons may detect subtle visual sensitivity defects",
+              "children": [
+                {
+                  "label": "patient occludes one eye"
+                },
+                {
+                  "label": "patient compares the clarity of the examiner’s hands in opposing hemifields"
+                },
+                {
+                  "label": "patient compares identical small red targets, such as bottle tops in each hemifield",
+                  "children": [
+                    {
+                      "label": "color may appear altered, washed out, or absent in a damaged hemifield"
+                    }
+                  ]
+                },
+                {
+                  "label": "with slow movement of the target, the patient may identify a change precisely as it crosses the vertical midline",
+                  "children": [
+                    {
+                      "label": "suggests damage to the chiasmal or retrochiasmal pathway"
+                    }
+                  ]
+                },
+                {
+                  "label": "comparison of the central with the peripheral visual field may identify similar impairment centrally, suggesting a central scotoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.3.2 The Patient With Decreased Vision Evaluation (II) Visual Field Evaluation (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 70,
+      "connector_rejected": 1,
+      "connector_edges": 50,
+      "connector_width": 1.127,
+      "text_labels": 45,
+      "tree_nodes": 45,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7143,
+      "root_font_size": 3.943,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "label": "8.7.2. Immune-mediated diseases (III): Conjunctiva (II): Stevens-Johnson syndrome and toxic epidermal necrolysis",
+  "root": true,
+  "children": [
+    {
+      "label": "classic “target” lesion",
+      "children": [
+        {
+          "label": "red center surrounded by a pale ring and then a red ring"
+        }
+      ]
+    },
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "systemic findings",
+          "children": [
+            {
+              "label": "sudden onset"
+            },
+            {
+              "label": "fever"
+            },
+            {
+              "label": "arthralgia"
+            },
+            {
+              "label": "malaise"
+            },
+            {
+              "label": "upper or lower respiratory symptoms"
+            }
+          ]
+        },
+        {
+          "label": "skin eruption follows within a few days",
+          "children": [
+            {
+              "label": "maculopapular or bullous lesions"
+            },
+            {
+              "label": "mucous membranes of the eyes, mouth, and genitalia",
+              "children": [
+                {
+                  "label": "bullous lesions with membrane/ pseudomembrane formation"
+                }
+              ]
+            },
+            {
+              "label": "new lesions may appear over 4–6 weeks",
+              "children": [
+                {
+                  "label": "2-week cycles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular finding",
+          "children": [
+            {
+              "label": "mucopurulent conjunctivitis"
+            },
+            {
+              "label": "episcleritis"
+            },
+            {
+              "label": "conjunctival and corneal epithelial sloughing/ necrosis",
+              "children": [
+                {
+                  "label": "severe inflammation and scarring"
+                }
+              ]
+            },
+            {
+              "label": "long-term ocular complications",
+              "children": [
+                {
+                  "label": "conjunctival shrinkage"
+                },
+                {
+                  "label": "keratinization of the eyelid margins",
+                  "children": [
+                    {
+                      "label": "an important risk factor for poor long-term outcomes"
+                    }
+                  ]
+                },
+                {
+                  "label": "trichiasis"
+                },
+                {
+                  "label": "entropion"
+                },
+                {
+                  "label": "tear deficiency"
+                },
+                {
+                  "label": "higher risk of infection"
+                },
+                {
+                  "label": "mucous membrane pemphigoid",
+                  "children": [
+                    {
+                      "label": "rare"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "pathogenesis",
+      "children": [
+        {
+          "label": "hypersensitivity reaction",
+          "children": [
+            {
+              "label": "drugs",
+              "children": [
+                {
+                  "label": "TEN",
+                  "children": [
+                    {
+                      "label": "80%"
+                    }
+                  ]
+                },
+                {
+                  "label": "SJS",
+                  "children": [
+                    {
+                      "label": "50%–80%"
+                    }
+                  ]
+                },
+                {
+                  "label": "100 drugs of various classes",
+                  "children": [
+                    {
+                      "label": "sulfonamides"
+                    },
+                    {
+                      "label": "anticonvulsants"
+                    },
+                    {
+                      "label": "NSAIDs"
+                    },
+                    {
+                      "label": "herpes simplex virus",
+                      "children": [
+                        {
+                          "label": "allopurinol"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "infectious diseases",
+              "children": [
+                {
+                  "label": "streptococcus"
+                },
+                {
+                  "label": "adenovirus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "presentation of major histocompatibility complex class I–restricted antigens",
+          "children": [
+            {
+              "label": "infiltration of the skin with cytotoxic T lymphocytes and natural killer cells",
+              "children": [
+                {
+                  "label": "release granzymes (perforin–granzyme pathway)",
+                  "children": [
+                    {
+                      "label": "granzyme enters target cell through the perforin channels",
+                      "children": [
+                        {
+                          "label": "keratinocyte apoptosis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "granulysin is the most highly expressed cytotoxic molecule"
+                    },
+                    {
+                      "label": "both the blister fluid and the cells are cytotoxic"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "type IV rxn?"
+    },
+    {
+      "label": "genetics",
+      "children": [
+        {
+          "label": "HLA-B12"
+        },
+        {
+          "label": "HLA-B*1502",
+          "children": [
+            {
+              "label": "in all Han chinese patients who had a reaction to carbamazepine"
+            }
+          ]
+        },
+        {
+          "label": "interaction between",
+          "children": [
+            {
+              "label": "HLA-A*0206"
+            },
+            {
+              "label": "toll-like receptor 3 gene"
+            },
+            {
+              "label": "required for onset of sjs/ten with ocular complications"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "pathology of SJS",
+      "children": [
+        {
+          "label": "SJS",
+          "children": [
+            {
+              "label": "subepithelial bullae"
+            },
+            {
+              "label": "scarring"
+            }
+          ]
+        },
+        {
+          "label": "TEN",
+          "children": [
+            {
+              "label": "epidermal necrolysis",
+              "children": [
+                {
+                  "label": "keratinocyte apoptosis"
+                }
+              ]
+            },
+            {
+              "label": "minimal inflammatory infiltrate in the dermal stroma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "5 cases per million per year"
+        },
+        {
+          "label": "AIDS patients are at a higher risk"
+        },
+        {
+          "label": "children and young adults"
+        },
+        {
+          "label": "F>M"
+        }
+      ]
+    },
+    {
+      "label": "classification",
+      "children": [
+        {
+          "label": "erythema multiforme minor",
+          "children": [
+            {
+              "label": "only the skin"
+            }
+          ]
+        },
+        {
+          "label": "SJS (erythema multiforme major)",
+          "children": [
+            {
+              "label": "skin and mucous membranes are involved"
+            },
+            {
+              "label": "20%"
+            },
+            {
+              "label": "TEN",
+              "children": [
+                {
+                  "label": "most severe form"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "management",
+      "children": [
+        {
+          "label": "acute SJS",
+          "children": [
+            {
+              "label": "treated in burn units at major tertiary care centers"
+            },
+            {
+              "label": "immediate discontinuation of the offending agent"
+            },
+            {
+              "label": "managing dehydration and superinfection"
+            },
+            {
+              "label": "+- systemic prednisone (1 mg/kg per day for 3 days)",
+              "children": [
+                {
+                  "label": "serious complications",
+                  "children": [
+                    {
+                      "label": "gastrointestinal hemorrhage"
+                    },
+                    {
+                      "label": "electrolyte imbalance"
+                    },
+                    {
+                      "label": "sudden death"
+                    },
+                    {
+                      "label": "increase the likelihood of infection"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "+- intravenous immunoglobulin"
+            },
+            {
+              "label": "acute ocular therapy",
+              "children": [
+                {
+                  "label": "preservative-free artificial tears/ointments"
+                },
+                {
+                  "label": "surveillance for ocular infections",
+                  "children": [
+                    {
+                      "label": "+- prophylactic topical antibiotics"
+                    }
+                  ]
+                },
+                {
+                  "label": "transplantation of amniotic membrane over the entire ocular surface & eyelid margins",
+                  "children": [
+                    {
+                      "label": "for severe epithelial defects of the cornea and/ or conjunctiva"
+                    },
+                    {
+                      "label": "a second amniotic membrane grafting may be necessary for severe cases"
+                    }
+                  ]
+                },
+                {
+                  "label": "repeated conjunctival lysis of symblepharon",
+                  "children": [
+                    {
+                      "label": "may result in further inflammation and scarring"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "chronic ocular therapy",
+          "children": [
+            {
+              "label": "therapeutic contact lenses",
+              "children": [
+                {
+                  "label": "temporary"
+                }
+              ]
+            },
+            {
+              "label": "scleral contact lenses",
+              "children": [
+                {
+                  "label": "critical role in the long-term rehabilitation"
+                }
+              ]
+            },
+            {
+              "label": "ocular surface reconstructipn",
+              "children": [
+                {
+                  "label": "limbal stem cell transplantation"
+                },
+                {
+                  "label": "penetrating keratoplasty",
+                  "children": [
+                    {
+                      "label": "extremely poor prognosis"
+                    },
+                    {
+                      "label": "reserved for progressive thinning or perforation"
+                    }
+                  ]
+                },
+                {
+                  "label": "keratoprosthesis",
+                  "children": [
+                    {
+                      "label": "osteo-odonto-keratoprosthesis"
+                    },
+                    {
+                      "label": "boston type i keratoprosthesis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "eyelid reconstruction",
+              "children": [
+                {
+                  "label": "mucous membrane grafting (reconstructing eyelid margins and symblepharon)",
+                  "children": [
+                    {
+                      "label": "may result in further inflammation and scarring"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic immunosuppression",
+              "children": [
+                {
+                  "label": "needs to be performed prior to any ocular surface reconstruction"
+                },
+                {
+                  "label": "to suppress the severe inflammatory response"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "topical corticosteroids",
+      "children": [
+        {
+          "label": "controversial"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.7.2. Immune-mediated diseases (III) - Conjunctiva (II) - Stevens-Johnson syndrome and toxic epidermal necrolysis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 224,
+      "connector_rejected": 6,
+      "connector_edges": 149,
+      "connector_width": 1.379,
+      "text_labels": 126,
+      "tree_nodes": 126,
+      "component_roots": 10,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6652,
+      "root_font_size": 3.907,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "label": "Molluscum Contagiosum",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "10-year-old boy with multiple small nodular skin lesions around his left eye"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "molluscum contagiosum"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "HIV serology",
+          "children": [
+            {
+              "label": "if multiple lesions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "molluscum contagiosum",
+          "children": [
+            {
+              "label": "spreads by direct contact",
+              "children": [
+                {
+                  "label": "multiple waxy and nodular skin lesions with central umbilication"
+                }
+              ]
+            },
+            {
+              "label": "children"
+            },
+            {
+              "label": "multiple small papules with central umbilication"
+            },
+            {
+              "label": "chromic follicular conjunctivitis"
+            }
+          ]
+        },
+        {
+          "label": "BCC"
+        },
+        {
+          "label": "nevus"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "eye lubrication"
+            },
+            {
+              "label": "observation"
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "unroofing & curettage",
+              "children": [
+                {
+                  "label": "send for pathologic evaluation"
+                }
+              ]
+            },
+            {
+              "label": "cryo"
+            },
+            {
+              "label": "cautery",
+              "children": [
+                {
+                  "label": "extraocular lesions"
+                }
+              ]
+            },
+            {
+              "label": "laser"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "good prognosis",
+              "children": [
+                {
+                  "label": "resolution of symptoms spontaneously or after excision"
+                },
+                {
+                  "label": "spontaneous resolution can take months to years"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course of symptoms",
+              "children": [
+                {
+                  "label": "chronic ocular irritation"
+                }
+              ]
+            },
+            {
+              "label": "other skin lesions"
+            },
+            {
+              "label": "if multiple",
+              "children": [
+                {
+                  "label": "immunodeficiency",
+                  "children": [
+                    {
+                      "label": "AIDS"
+                    },
+                    {
+                      "label": "chemotherapy"
+                    },
+                    {
+                      "label": "chronic steroid use"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "basal cell carcinoma",
+              "children": [
+                {
+                  "label": "more telangiectasia"
+                },
+                {
+                  "label": "nodular border"
+                },
+                {
+                  "label": "central crater"
+                },
+                {
+                  "label": "lash loss"
+                }
+              ]
+            },
+            {
+              "label": "follicular conjunctivitis"
+            },
+            {
+              "label": "corneal pannus"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Molluscum Contagiosum.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 91,
+      "connector_rejected": 17,
+      "connector_edges": 59,
+      "connector_width": 1.646,
+      "text_labels": 52,
+      "tree_nodes": 52,
+      "component_roots": 7,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6484,
+      "root_font_size": 7.679,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,127 @@
+---
+title: "9.10.2. Complications of Uveitis (II)"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.10.2. Complications of Uveitis (II).pdf"
+---
+
+# 9.10.2. Complications of Uveitis (II)
+
+## Hierarchy
+
+- especially children
+- Calcific Band Keratopathy
+  - etiology
+    - chronic uveitis
+    - may arise within months of onset of the uveitis
+  - clinical presentation
+    - interpalpebral zone
+    - calcium deposition along the epithelial basement membrane and the Bowman layer
+    - ± visually significant (it extends into the visual axis)
+    - ± foreign body sensation
+  - treatment
+    - chelation with disodium ethylenediaminetetraacetic acid (EDTA)
+    - photorefractive keratotomy
+- Vision Rehabilitation
+  - worldwide, inflammatory disease is a significant cause of blindness and low vision
+  - in US, 10% of all blindness is attributed to inadequately treated uveitis
+  - referral to vision rehabilitation is recommended for patients with
+    - visual acuity <20/40 in the better eye
+    - reduced contrast sensitivity
+    - disabling glare
+    - central or peripheral visual field loss
+  - SmartSight patient handout
+    - http://one.aao.org/smart-sight-low-vision
+  - provide parents of children with uveitis information about rehabilitation
+    - www.uveitis.org/patients/education/patient- guides
+- Cataracts
+  - etiology
+    - chronic/recurrent uveitis
+  - indications for cataract surgery
+    - cataract causes functional impairment that interferes with activities of daily living
+      - careful preoperative evaluation is necessary to ascertain whether the cataract is actually contributing to visual dysfunction
+    - cataract precludes adequate view of the fundus
+  - preoperative medical management
+    - achieve the best control of inflammation possible without flare-ups for ≥ 3 months
+    - preoperative pulsing with oral corticosteroids (0.5–1.0 mg/kg/day, usually for 3 days)
+      - tapered over weeks to months after surgery
+      - and/or intensive topical corticosteroid treatment
+    - utilize all appropriate means for control, including immunosuppression if needed
+    - infectious uveitides (eg, uveitis caused by Toxoplasma gondii infection and herpetic uveitis)
+      - perioperative prophylactic antimicrobial therapy
+      - preoperative oral corticosteroids are usually not given
+  - surgical technique
+    - clear corneal approach
+      - particularly desirable in cases of scleritis that may be prone to postoperative scleral necrosis
+    - posterior synechiae/pupillary miosis
+      - mechanical or viscoelastic pupil stretching
+      - sphincterotomies
+      - use of flexible iris retractors
+    - continuous curvilinear capsulorrhexis
+      - reduces posterior synechiae formation
+      - reduces the risk of posterior capsular tear
+      - facilitates placement of IOL haptics in the capsular bag
+      - fibrotic anterior capsule may be more difficult to open with a capsulorrhexis
+    - meticulous cortical cleanup
+    - hydrophobic acrylic posterior chamber IOLs placed in the capsular bag
+    - periocular or intravitreal corticosteroids at the end of the procedure
+    - pars plana vitrectomy (in conjunction with phacoemulsification with IOL)
+      - substantial vision-limiting vitreous debris
+      - macular pathology such as epiretinal membranes
+    - vitrectomy and aphakia
+      - significant structural damage from inflammation
+      - surgical prognosis is guarded
+        - JIA-associated uveitis
+      - zonular insufficiency
+        - ± pars plana lensectomy and vitrectomy and avoid placing an IOL
+    - relative contraindications for IOL implantation
+      - prior development of rubeosis
+      - history of extensive membrane formation
+      - hypotony
+    - controversy regarding IOL placement in children with JIA-associated uveitis
+      - choosing the proper IOL power, especially in children under the age of 10 years, is difficult
+      - if IOLs are used, in-the-bag implantation of acrylic IOLs and primary posterior capsulorrhexis are preferred in children
+        - core anterior vitrectomy through the posterior capsulorrhexis prior to IOL placement
+  - postoperative medical management
+    - postoperative use of nonsteroidal anti- inflammatory drugs (NSAIDs) has not been studied in eyes with uveitis
+      - corneal toxicity from topical NSAIDs used concurrently with topical corticosteroids is a concern
+    - immunomodulation is continued
+    - liberal use of topical corticosteroids (slowly tapered)
+  - phacoemulsification with posterior chamber (in-the-bag) IOL implantation effectively improves vision and is well tolerated
+    - 75% of patients will obtain a visual acuity >20/40
+    - other types of uveitis can be more problematic
+      - excellent surgical and visual results have been reported for Fuchs heterochromic uveitis
+      - greater risk for postoperative complications than nonuveitic eyes
+  - complications
+    - postoperative CME
+      - incidence may be reduced through
+        - use of perioperative corticosteroids
+        - delay of surgery until the uveitis has been controlled for at least 3 months
+    - recurrence or exacerbation of uveitis
+    - posterior capsule opacification
+      - higher incidence in uveitic than nonuveitic eyes
+      - earlier use of Nd:YAG laser capsulotomy
+    - membrane formation on the surface of the IOL
+      - strict control of inflammation remains paramount to reducing the chance of these deposits
+        - long-term administration of topical corticosteroids may be necessary
+      - IOL explantation in 5%–10% of patients
+        - inflammatory cocooning of the IOL–lens capsule complex
+        - uncontrolled inflammation
+- Hypotony
+  - pathogenesis
+    - acute inflammation
+      - aqueous hyposecretion
+    - chronic inflammation
+      - ciliary body damage and atrophy of the ciliary processes
+        - permanent hypotony
+  - serous choroidal detachment accompanies hypotony
+  - prolonged choroidal effusions may require surgical drainage
+  - management
+    - if ciliary processes are preserved
+      - surgical release of ciliary body traction from a cyclitic membrane
+    - If ciliary processes are atrophic
+      - ± visual improvement
+        - vitrectomy with intraocular silicone oil or viscoelastic
+        - may be transient
+      - hypotony recurs in nearly 1/2 of eyes
+        - requiring reinjection of silicone oil 1-3 times/ year

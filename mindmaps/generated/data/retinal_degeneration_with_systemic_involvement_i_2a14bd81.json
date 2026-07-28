@@ -1,0 +1,412 @@
+{
+  "label": "Retinal Degeneration With Systemic Involvement I",
+  "root": true,
+  "children": [
+    {
+      "label": "Pigmentary retinopathy",
+      "children": [
+        {
+          "label": "panretinal disturbance of retina and RPE"
+        },
+        {
+          "label": "pigmentary alterations",
+          "children": [
+            {
+              "label": "pigment deposits",
+              "children": [
+                {
+                  "label": "spicules"
+                },
+                {
+                  "label": "clumps"
+                }
+              ]
+            },
+            {
+              "label": "RPE depigmentation (atrophy)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bardet-Biedl syndrome",
+      "children": [
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "inheritance pattern",
+              "children": [
+                {
+                  "label": "multigenic"
+                },
+                {
+                  "label": "autosomal recessive"
+                }
+              ]
+            },
+            {
+              "label": "affected proteins mediate and regulate microtubule-based intracellular transport processes"
+            }
+          ]
+        },
+        {
+          "label": "a number of different diseases with similar constellation of findings",
+          "children": [
+            {
+              "label": "pigmentary retinopathy",
+              "children": [
+                {
+                  "label": "severe rod-cone dystrophy",
+                  "children": [
+                    {
+                      "label": "usually sine-pigmento"
+                    },
+                    {
+                      "label": "usually without bone-spicule pigment clumping"
+                    }
+                  ]
+                },
+                {
+                  "label": "bull's eye atrophic maculopathy"
+                }
+              ]
+            },
+            {
+              "label": "obesity"
+            },
+            {
+              "label": "polydactyly",
+              "children": [
+                {
+                  "label": "look for scars from previous surgeries"
+                }
+              ]
+            },
+            {
+              "label": "hypogonadism"
+            },
+            {
+              "label": "cognitive disability"
+            },
+            {
+              "label": "urethral reflux",
+              "children": [
+                {
+                  "label": "pyelonephritis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Leber congenital amaurosis (LCA)",
+      "children": [
+        {
+          "label": "Clinical",
+          "children": [
+            {
+              "label": "severely reduced vision from birth",
+              "children": [
+                {
+                  "label": "20/200 to NLP"
+                }
+              ]
+            },
+            {
+              "label": "severely diminished or extinguished ERG signal present at birth"
+            },
+            {
+              "label": "wandering nystagmus"
+            },
+            {
+              "label": "some infants rub or poke their eyes (oculodigital reflex)",
+              "children": [
+                {
+                  "label": "If ERG changes are progressive, evaluation should include careful screening for congenital syndromes"
+                }
+              ]
+            },
+            {
+              "label": "in early stages, obvious fundus changes are rare"
+            },
+            {
+              "label": "central macular atrophic lesions"
+            },
+            {
+              "label": "early-onset cataracts",
+              "children": [
+                {
+                  "label": "older children"
+                }
+              ]
+            },
+            {
+              "label": "keratoconus"
+            },
+            {
+              "label": "normal intelligence",
+              "children": [
+                {
+                  "label": "± psychomotor impairment secondary to sensory deprivation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Genetics",
+          "children": [
+            {
+              "label": "3 autosomal dominant"
+            },
+            {
+              "label": "18 autosomal recessive",
+              "children": [
+                {
+                  "label": "RPE65 mutation"
+                }
+              ]
+            },
+            {
+              "label": "some forms of LCA involve developmental defects, while others represent degenerations of normally formed retina"
+            }
+          ]
+        },
+        {
+          "label": "Types",
+          "children": [
+            {
+              "label": "nonsyndromic"
+            },
+            {
+              "label": "syndromic",
+              "children": [
+                {
+                  "label": "seizures"
+                },
+                {
+                  "label": "clear deterioration of neurologic/mental status",
+                  "children": [
+                    {
+                      "label": "decline in school performance"
+                    }
+                  ]
+                },
+                {
+                  "label": "molecular genetic diagnosis can identify potential systemic syndromes that warrant medical management"
+                }
+              ]
+            },
+            {
+              "label": "postinfectious etiologies should be considered based on clinical history and clinical findings"
+            }
+          ]
+        },
+        {
+          "label": "Diagnostic testing",
+          "children": [
+            {
+              "label": "ERG",
+              "children": [
+                {
+                  "label": "minimal or undetectable response"
+                }
+              ]
+            },
+            {
+              "label": "OCT"
+            },
+            {
+              "label": "molecular genetic testing",
+              "children": [
+                {
+                  "label": "best method for distinguishing stationary and progressive hereditary retinopathies",
+                  "children": [
+                    {
+                      "label": "ERG cannot determine if the condition is stationary (congenital stationary night blindness [CSNB] or achromatopsia) or progressive (rod–cone dystrophy or cone–rod dystrophy)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "gene therapy",
+          "children": [
+            {
+              "label": "Luxturna",
+              "children": [
+                {
+                  "label": "RPE65 mutation-associated LCA"
+                },
+                {
+                  "label": "aged 1 year or older"
+                },
+                {
+                  "label": "adeno-associated virus vector"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Usher syndrome",
+      "children": [
+        {
+          "label": "definition",
+          "children": [
+            {
+              "label": "retinitis pigmentosa (RP)"
+            },
+            {
+              "label": "congenital sensorineural hearing loss"
+            }
+          ]
+        },
+        {
+          "label": "demographics",
+          "children": [
+            {
+              "label": "prevalence",
+              "children": [
+                {
+                  "label": "3/100,000"
+                }
+              ]
+            },
+            {
+              "label": "10% of RP patients have profound deafness"
+            },
+            {
+              "label": "6% of children in deaf schools"
+            }
+          ]
+        },
+        {
+          "label": "Types",
+          "children": [
+            {
+              "label": "type 1",
+              "children": [
+                {
+                  "label": "early & profound deafness"
+                },
+                {
+                  "label": "RP",
+                  "children": [
+                    {
+                      "label": "starts in childhood (by age 10 years)"
+                    }
+                  ]
+                },
+                {
+                  "label": "vestibular areflexia"
+                }
+              ]
+            },
+            {
+              "label": "type 2",
+              "children": [
+                {
+                  "label": "moderate to severe hearing loss"
+                },
+                {
+                  "label": "RP",
+                  "children": [
+                    {
+                      "label": "starts in the second decade"
+                    }
+                  ]
+                },
+                {
+                  "label": "normal vestibular function"
+                }
+              ]
+            },
+            {
+              "label": "type 3",
+              "children": [
+                {
+                  "label": "progressive hearing loss"
+                },
+                {
+                  "label": "variable RP"
+                },
+                {
+                  "label": "sporadic vestibular function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "autosomal recessive"
+            },
+            {
+              "label": "16 known genes",
+              "children": [
+                {
+                  "label": "encode proteins present in cilia of inner ear and in cone outer segments"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis of pigmentary retinopathy + hearing loss",
+          "children": [
+            {
+              "label": "Alport syndrome"
+            },
+            {
+              "label": "Alstrom syndrome"
+            },
+            {
+              "label": "Cockayne syndrome"
+            },
+            {
+              "label": "spondyloepiphyseal dysplasia congenita"
+            },
+            {
+              "label": "Hurler syndrome"
+            },
+            {
+              "label": "Refsum disease"
+            },
+            {
+              "label": "congenital rubella"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Retinal Degeneration With Systemic Involvement I.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 168,
+      "connector_rejected": 2,
+      "connector_edges": 131,
+      "connector_width": 0.662,
+      "text_labels": 103,
+      "tree_nodes": 103,
+      "component_roots": 4,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.7798,
+      "root_font_size": 4.631,
+      "warnings": []
+    }
+  }
+}

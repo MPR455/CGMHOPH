@@ -1,0 +1,392 @@
+{
+  "label": "5.5.2. Patient With Transient Visual Loss (II): Transient Monocular Visual Loss (TMVL) (II): Retinal Emboli",
+  "root": true,
+  "children": [
+    {
+      "label": "amaurosis fugax (“fleeting blindness”)",
+      "children": [
+        {
+          "label": "due to retinal emboli"
+        },
+        {
+          "label": "visual loss is typically abrupt, painless, and descends (or ascends) like a curtain"
+        },
+        {
+          "label": "unilateral"
+        },
+        {
+          "label": "<1 hour",
+          "children": [
+            {
+              "label": "usually resolves in 10–15 minutes"
+            }
+          ]
+        },
+        {
+          "label": "not associated with other neurologic deficits"
+        },
+        {
+          "label": "ocular examination is often normal"
+        }
+      ]
+    },
+    {
+      "label": "types of emboli",
+      "children": [
+        {
+          "label": "cholesterol (Hollenhorst plaque)"
+        },
+        {
+          "label": "platelet-fibrin"
+        },
+        {
+          "label": "calcium"
+        },
+        {
+          "label": "less common types",
+          "children": [
+            {
+              "label": "cardiac tumors (myxoma)"
+            },
+            {
+              "label": "fat (long-bone fractures, pancreatitis)"
+            },
+            {
+              "label": "sepsis"
+            },
+            {
+              "label": "talc"
+            },
+            {
+              "label": "air"
+            },
+            {
+              "label": "silicone"
+            },
+            {
+              "label": "depot drugs (corticosteroids)"
+            }
+          ]
+        },
+        {
+          "label": "See Table 5-2"
+        }
+      ]
+    },
+    {
+      "label": "Clinical and laboratory evaluation",
+      "children": [
+        {
+          "label": "increased rates of morbidity and mortality from",
+          "children": [
+            {
+              "label": "stroke"
+            },
+            {
+              "label": "myocardial infarction",
+              "children": [
+                {
+                  "label": "with carotid artery disease, a routine echocardiogram is mandatory"
+                }
+              ]
+            },
+            {
+              "label": "aortic aneurysm"
+            }
+          ]
+        },
+        {
+          "label": "measurement of blood pressure"
+        },
+        {
+          "label": "cardiac auscultation"
+        },
+        {
+          "label": "auscultation for carotid bruits",
+          "children": [
+            {
+              "label": "best heard at the angle of the jaw"
+            },
+            {
+              "label": "indicates turbulent flow within the vessel"
+            },
+            {
+              "label": "a bruit will be absent",
+              "children": [
+                {
+                  "label": "if flow is undisturbed"
+                },
+                {
+                  "label": "if carotid occlusion is complete"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "angiography",
+          "children": [
+            {
+              "label": "gold standard for quantifying the degree of carotid stenosis"
+            },
+            {
+              "label": "invasive",
+              "children": [
+                {
+                  "label": "intra-arterial injection of iodinated contrast dye"
+                }
+              ]
+            },
+            {
+              "label": "risk of serious complications (such as stroke or death) is <1%"
+            }
+          ]
+        },
+        {
+          "label": "noninvasive imaging modalities",
+          "children": [
+            {
+              "label": "used as screening tests"
+            },
+            {
+              "label": "carotid ultrasonography (duplex scanning)",
+              "children": [
+                {
+                  "label": "sensitive method of detecting ulcerated plaques"
+                },
+                {
+                  "label": "not accurate at detecting carotid artery dissection"
+                }
+              ]
+            },
+            {
+              "label": "magnetic resonance angiography (MRA)"
+            },
+            {
+              "label": "computed tomographic arteriography (CTA)"
+            },
+            {
+              "label": "MRA and CTA overestimate the degree of carotid stenosis",
+              "children": [
+                {
+                  "label": "MRA, along with MRI, is extremely useful for detecting carotid artery dissection"
+                },
+                {
+                  "label": "allow visualization and characterization of the plaque, as well as of surrounding arterial wall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "echocardiography",
+          "children": [
+            {
+              "label": "useful for detecting",
+              "children": [
+                {
+                  "label": "valvular and cardiac wall defects"
+                },
+                {
+                  "label": "intracardiac tumors"
+                },
+                {
+                  "label": "large thrombi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "transesophageal echocardiography",
+          "children": [
+            {
+              "label": "more sensitive"
+            }
+          ]
+        },
+        {
+          "label": "prolonged inpatient cardiac monitoring or ambulatory Holter monitoring",
+          "children": [
+            {
+              "label": "normal-appearing echocardiogram does not exclude the possibility of emboli"
+            }
+          ]
+        },
+        {
+          "label": "blood culture testing",
+          "children": [
+            {
+              "label": "suspected endocarditis"
+            }
+          ]
+        },
+        {
+          "label": "if a cardiac or carotid source of embolism formation is not found, other systemic processes may be contributing",
+          "children": [
+            {
+              "label": "advanced age"
+            },
+            {
+              "label": "hypertension"
+            },
+            {
+              "label": "hypotension and syncope"
+            },
+            {
+              "label": "ischemic heart disease"
+            },
+            {
+              "label": "diabetes mellitus"
+            },
+            {
+              "label": "hypercholesterolemia"
+            },
+            {
+              "label": "smoking"
+            },
+            {
+              "label": "sleep apnea"
+            },
+            {
+              "label": "thyroid disease"
+            },
+            {
+              "label": "hypercoagulable states"
+            },
+            {
+              "label": "collagen vascular diseases"
+            },
+            {
+              "label": "vasculitis"
+            },
+            {
+              "label": "syphilis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sources of emboli",
+      "children": [
+        {
+          "label": "atheromas",
+          "children": [
+            {
+              "label": "develop at",
+              "children": [
+                {
+                  "label": "bifurcation of the common carotid artery into the internal and external carotid arteries",
+                  "children": [
+                    {
+                      "label": "Figure 5-2"
+                    }
+                  ]
+                },
+                {
+                  "label": "carotid siphon"
+                }
+              ]
+            },
+            {
+              "label": "remain stationary, become fibrotic, regress, ulcerate, narrow/occlude the lumen, or release emboli",
+              "children": [
+                {
+                  "label": "lumen must be reduced by 50%–90% before distal flow is affected"
+                }
+              ]
+            },
+            {
+              "label": "risk factors",
+              "children": [
+                {
+                  "label": "hypertension"
+                },
+                {
+                  "label": "diabetes mellitus"
+                },
+                {
+                  "label": "hypercholesterolemia"
+                },
+                {
+                  "label": "smoking"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cardiac emboli",
+          "children": [
+            {
+              "label": "causes",
+              "children": [
+                {
+                  "label": "ventricular aneurysms"
+                },
+                {
+                  "label": "hypokinetic wall segments"
+                },
+                {
+                  "label": "endocarditis",
+                  "children": [
+                    {
+                      "label": "infectious (associated with subacute bacterial endocarditis)"
+                    },
+                    {
+                      "label": "noninfectious (marantic)"
+                    }
+                  ]
+                },
+                {
+                  "label": "valvular heart disease",
+                  "children": [
+                    {
+                      "label": "mitral valve prolapse"
+                    },
+                    {
+                      "label": "atrial myxoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "cardiac arrhythmia",
+                  "children": [
+                    {
+                      "label": "atrial fibrillation"
+                    },
+                    {
+                      "label": "paroxysmal arrhythmias"
+                    }
+                  ]
+                },
+                {
+                  "label": "unsuspected patent foramen ovale with right- to-left cardiac shunt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.5.2. Patient With Transient Visual Loss (II) - Transient Monocular Visual Loss (TMVL) (II) - Retinal Emboli.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 173,
+      "connector_rejected": 3,
+      "connector_edges": 140,
+      "connector_width": 1.089,
+      "text_labels": 103,
+      "tree_nodes": 103,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.8092,
+      "root_font_size": 4.085,
+      "warnings": []
+    }
+  }
+}

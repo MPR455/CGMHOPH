@@ -1,0 +1,234 @@
+{
+  "label": "8.13.4. Toxic & Traumatic Injuries (IV)",
+  "root": true,
+  "children": [
+    {
+      "label": "Insect Injuries",
+      "children": [
+        {
+          "label": "bee and wasp stings to the cornea and/or conjunctiva",
+          "children": [
+            {
+              "label": "acute response",
+              "children": [
+                {
+                  "label": "conjunctival hyperemia and chemosis"
+                },
+                {
+                  "label": "pain"
+                },
+                {
+                  "label": "corneal edema"
+                },
+                {
+                  "label": "corneal infiltration",
+                  "children": [
+                    {
+                      "label": "decreased vision"
+                    }
+                  ]
+                },
+                {
+                  "label": "rare sequelae",
+                  "children": [
+                    {
+                      "label": "hyphema"
+                    },
+                    {
+                      "label": "lenticular opacities"
+                    },
+                    {
+                      "label": "iritis"
+                    },
+                    {
+                      "label": "secondary glaucoma"
+                    },
+                    {
+                      "label": "heterochromia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "cycloplegics"
+                },
+                {
+                  "label": "topical & occasionally systemic corticosteroids"
+                },
+                {
+                  "label": "removal of externalized stingers",
+                  "children": [
+                    {
+                      "label": "retained stingers may remain inert in the cornea for years"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "caterpillar and tarantula hairs",
+          "children": [
+            {
+              "label": "become embedded in the cornea and conjunctiva"
+            },
+            {
+              "label": "very fine",
+              "children": [
+                {
+                  "label": "extreme foreign-body sensation",
+                  "children": [
+                    {
+                      "label": "until the hairs migrate below the corneal surface"
+                    }
+                  ]
+                },
+                {
+                  "label": "usually cannot be removed manually"
+                }
+              ]
+            },
+            {
+              "label": "tend to migrate more deeply into ocular tissues",
+              "children": [
+                {
+                  "label": "localized granulomatous inflammatory response (ophthalmia nodosum)"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "topical corticosteroids"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vegetation Injuries",
+      "children": [
+        {
+          "label": "plant sources are common causes of fungal keratitis"
+        },
+        {
+          "label": "sap (latex)",
+          "children": [
+            {
+              "label": "acute keratoconjunctivitis"
+            },
+            {
+              "label": "epithelial defect"
+            },
+            {
+              "label": "stromal infiltration"
+            },
+            {
+              "label": "pencil tree",
+              "children": [
+                {
+                  "label": "tropical regions"
+                }
+              ]
+            },
+            {
+              "label": "manchineel tree",
+              "children": [
+                {
+                  "label": "tropical regions"
+                }
+              ]
+            },
+            {
+              "label": "dieffenbachia",
+              "children": [
+                {
+                  "label": "household plant"
+                },
+                {
+                  "label": "deposition of calcium oxalate crystals in the cornea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "corneal foreign bodies",
+          "children": [
+            {
+              "label": "coconut shell"
+            },
+            {
+              "label": "sunflower stalk"
+            },
+            {
+              "label": "ornamental cactus"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "irrigation"
+            },
+            {
+              "label": "removal of foreign bodies"
+            },
+            {
+              "label": "topical cycloplegics"
+            },
+            {
+              "label": "prophylactic antibiotic coverage"
+            },
+            {
+              "label": "corticosteroids are best avoided",
+              "children": [
+                {
+                  "label": "may promote fungal infection"
+                }
+              ]
+            },
+            {
+              "label": "surgical removal of foreign bodies",
+              "children": [
+                {
+                  "label": "uncontrolled inflammatory response"
+                },
+                {
+                  "label": "secondary microbial infections"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.13.4. Toxic & Traumatic Injuries (IV).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 103,
+      "connector_rejected": 0,
+      "connector_edges": 76,
+      "connector_width": 1.9,
+      "text_labels": 57,
+      "tree_nodes": 57,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7379,
+      "root_font_size": 5.383,
+      "warnings": []
+    }
+  }
+}

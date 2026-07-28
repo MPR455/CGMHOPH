@@ -1,0 +1,122 @@
+---
+title: "4.17.4. Melanocytic Tumors (IV): Melanoma of ciliary body or choroid (II)"
+category: "Pathology & Tumors"
+subcategory: ""
+source_pdf: "MindmapPDF/Pathology and tumor/4.17.4. Melanocytic Tumors (IV) - Melanoma of ciliary body or choroid (II).pdf"
+---
+
+# 4.17.4. Melanocytic Tumors (IV): Melanoma of ciliary body or choroid (II)
+
+## Hierarchy
+
+- Metastatic evaluation
+  - 50% at 25 years
+  - COMS
+    - 2% at initial presentation
+    - 25% at 5 years
+    - 34% at 10 years
+  - interval to metastasis
+    - 1-2 years to over 15-20 years
+  - metastatic disease pattern in COMS
+    - liver
+      - first & most common organ involved
+        - 90%
+        - 100% on autopsy
+    - lung
+      - 25%
+      - 50% on autopsy
+    - bone
+      - 20%
+    - skin
+      - 10%
+  - survival with metastatic uveal melanoma is poor
+    - median<6 months
+    - early detection/treatment can increase survival
+      - 1) to detect other medical conditions
+        - COMS found independent primary cancer in 10%
+  - all patients require metastatic evaluation prior to definitive treatment
+    - 2) to detect metastatic melanoma from the eye
+      - rare
+      - enucleation inappropriate unless eye is painful
+  - frequency
+    - every 6 months to every 12 months
+  - recommended test
+    - physical examination
+    - liver imaging
+      - ultrasound
+      - triphasic CT
+      - MRI
+      - PET-CT
+    - liver function tests
+      - less reliable in patients taking statins
+    - CXR
+      - low yield
+  - liver (or other organ biopsy) is needed for confirmation of metastatic disease
+  - treatment options for metastatic disease
+    - resection
+    - chemotherapy
+      - intra-arterial hepatic chemotherapy/ chemoembolization
+    - immunotherapy
+- Prognosis
+  - 5-year mortality
+    - small choroidal melanoma
+      - 10%
+    - medium choroidal melanoma
+      - 30%
+    - large choroidal melanoma
+      - 50%
+  - risk factors for metastasis/mortality
+    - clinical
+      - larger tumor size
+      - tumor growth
+      - anterior tumor location
+        - ciliary body
+      - extraocular extension
+      - older age
+      - tumor regrowth after globe-conserving therapy
+      - rapid decrease in tumor size after globe- conserving therapy
+      - juxtapapillary tumor
+    - histologic/molecular
+      - epithelioid cells
+      - high mitotic/cell proliferation index
+      - extracellular matrix patterns
+        - loops/network of loops
+      - mean of 10 largest nuclei
+      - tumor infiltrating lymphocytes
+      - monosomy 3
+      - trisomy 8
+      - gene expression profiling (class II)
+- Collaborative Ocular Melanoma Study
+  - COMS large choroidal melanoma trial
+    - 1003 patients
+      - diameter>16 mm &/or thickness >10 mm
+    - 2 arms
+      - enucleation alone
+      - enucleation + external-beam radiation
+      - 5-year survival rate in both groups ≈ 60%
+  - COMS medium choroidal melanoma trial
+    - 1317 patients
+      - adjunctive radiotherapy did not improve survival
+      - diameter 6-16 mm &/or thickness 2.5-10 mm
+    - 2 arms
+      - enucleation
+      - iodine 125 brachytherapy
+      - 5-year metastasis rate in both groups ≈ 10%
+        - 5-year all-cause mortality rate in both groups ≈ 20%
+    - 2/660 misdiagnosis in enucleation arm
+    - brachytherapy arm
+      - 10% local tumor recurrence at 5 years
+      - 13% risk of enucleation at 5 years
+      - VA<20/200 ≈ 40% at 3 years
+        - local tumor recurrence weakly associated with reduced survival
+      - quadrupling of visual angle (6 lines of visual loss) ≈50% at 3 years
+  - COMS small choroidal tumor trial
+    - 204 patients
+      - diameter 4-8 mm &/or thickness 1.0-2.4 mm
+    - melanoma-specific mortality
+      - 1% at 5 years
+    - clinical factors for growth
+      - greater initial thickness and diameter
+      - orange pigment
+      - absence of drusen/RPE changes
+      - pinpoint hyperfluorescence on angiography

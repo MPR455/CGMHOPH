@@ -1,0 +1,635 @@
+{
+  "label": "4.14.3. Orbit (III): Neoplasia (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "general",
+      "children": [
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "primary",
+              "children": [
+                {
+                  "label": "less common",
+                  "children": [
+                    {
+                      "label": "lymphoma",
+                      "children": [
+                        {
+                          "label": "10%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "cavernous hemangioma",
+                      "children": [
+                        {
+                          "label": "5%"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "secondary",
+              "children": [
+                {
+                  "label": "more common"
+                },
+                {
+                  "label": "from adjacent structures"
+                },
+                {
+                  "label": "metastatic disease"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "benign vs. malignant",
+          "children": [
+            {
+              "label": "benign",
+              "children": [
+                {
+                  "label": "60%"
+                },
+                {
+                  "label": "more common in children",
+                  "children": [
+                    {
+                      "label": "90%"
+                    }
+                  ]
+                },
+                {
+                  "label": "cystic lesions",
+                  "children": [
+                    {
+                      "label": "50% of orbital lesions in childhood"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "malignant",
+              "children": [
+                {
+                  "label": "40%"
+                },
+                {
+                  "label": "more common in adults"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lacrimal sac neoplasia",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "difficult to get a representative biopsy with endoscopic procedures"
+        },
+        {
+          "label": "dacryocystorhinostomy",
+          "children": [
+            {
+              "label": "5% neoplasm rate",
+              "children": [
+                {
+                  "label": "2% unsuspected"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vascular tumors",
+      "children": [
+        {
+          "label": "Lymphangioma",
+          "children": [
+            {
+              "label": "children"
+            },
+            {
+              "label": "fluctuating proptosis"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "diffusely infiltrating"
+                },
+                {
+                  "label": "unencapsulated"
+                },
+                {
+                  "label": "lymphatic vascular spaces"
+                },
+                {
+                  "label": "lymphoid aggregates"
+                },
+                {
+                  "label": "fibrotic interstitium"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Cavernous hemangioma",
+          "children": [
+            {
+              "label": "adults"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "encapsulated"
+                },
+                {
+                  "label": "cavernous spaces",
+                  "children": [
+                    {
+                      "label": "thick fibrosed walls"
+                    },
+                    {
+                      "label": "thrombosis"
+                    },
+                    {
+                      "label": "calcification"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Capillary hemangioma",
+          "children": [
+            {
+              "label": "children"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "capillary-sized vessels"
+                },
+                {
+                  "label": "unencapsulated"
+                },
+                {
+                  "label": "more cellular"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lymphoproliferative lesions",
+      "children": [
+        {
+          "label": "general",
+          "children": [
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "proptosis",
+                  "children": [
+                    {
+                      "label": "gradual"
+                    },
+                    {
+                      "label": "painless"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic evaluation",
+              "children": [
+                {
+                  "label": "physical examination",
+                  "children": [
+                    {
+                      "label": "lymphadenopathy",
+                      "children": [
+                        {
+                          "label": "lymph node biopsy preferred over orbital biopsy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "CBC & differential"
+                },
+                {
+                  "label": "imaging of thorax & abdomen"
+                },
+                {
+                  "label": "+- bone marrow biopsy",
+                  "children": [
+                    {
+                      "label": "paratrabecular lymphoid infiltrate"
+                    },
+                    {
+                      "label": "preferred to aspiration"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "radiation"
+                }
+              ]
+            },
+            {
+              "label": "tissue processing",
+              "children": [
+                {
+                  "label": "communicate with pathologist in advance!"
+                },
+                {
+                  "label": "fresh (unfixed) tissue",
+                  "children": [
+                    {
+                      "label": "preferred for",
+                      "children": [
+                        {
+                          "label": "touch preperation"
+                        },
+                        {
+                          "label": "immunohistochemistry"
+                        },
+                        {
+                          "label": "flow cytometry"
+                        },
+                        {
+                          "label": "gene rearrangement"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "avoid long periods of exposure to air"
+                    },
+                    {
+                      "label": "wrap in saline-moistened gauze and transport on ice"
+                    },
+                    {
+                      "label": "handle gently"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Reactive lymphoid hyperplasia",
+          "children": [
+            {
+              "label": "lymphocytes",
+              "children": [
+                {
+                  "label": "well-differentiated"
+                },
+                {
+                  "label": "pleomorphic"
+                }
+              ]
+            },
+            {
+              "label": "mitotic activity",
+              "children": [
+                {
+                  "label": "follicles with germinal centers",
+                  "children": [
+                    {
+                      "label": "tingible body macrophages",
+                      "children": [
+                        {
+                          "label": "contain phagocytized apoptotic cellular debris/ condensed chromatin fragments"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "vessels with endothelial activity"
+            },
+            {
+              "label": "plasma cells"
+            },
+            {
+              "label": "macrophages"
+            },
+            {
+              "label": "eosinophils"
+            }
+          ]
+        },
+        {
+          "label": "Atypical lymphoid hyperplasia",
+          "children": [
+            {
+              "label": "lacks reactive germinal centers"
+            },
+            {
+              "label": "admixture of",
+              "children": [
+                {
+                  "label": "small mature-appearing lymphocytes"
+                },
+                {
+                  "label": "larger lymphoid cells of questionable maturity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Lymphoma",
+          "children": [
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "primary"
+                },
+                {
+                  "label": "systemic lymphoma (secondary)",
+                  "children": [
+                    {
+                      "label": "1-2% of systemic lymphoma are associated with orbital lymphoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Hodgkin lymphoma exceedingly rare in orbit",
+              "children": [
+                {
+                  "label": "multinucleated Reed-Sternberg cells"
+                },
+                {
+                  "label": "positive immunohistochemistry for",
+                  "children": [
+                    {
+                      "label": "CD15"
+                    },
+                    {
+                      "label": "CD30"
+                    },
+                    {
+                      "label": "CD45"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "non-Hodgkin lymphoma",
+              "children": [
+                {
+                  "label": "1/2 of malignancies in orbit/ocular adnexa"
+                },
+                {
+                  "label": "immunohistochemistry",
+                  "children": [
+                    {
+                      "label": "B cell",
+                      "children": [
+                        {
+                          "label": "CD19"
+                        },
+                        {
+                          "label": "CD20"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "T cell",
+                      "children": [
+                        {
+                          "label": "rare"
+                        },
+                        {
+                          "label": "CD3, CD4, CD5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Soft tissue tumors",
+      "children": [
+        {
+          "label": "histologic patterns",
+          "children": [
+            {
+              "label": "round cell"
+            },
+            {
+              "label": "spindle cell"
+            },
+            {
+              "label": "myxoid"
+            },
+            {
+              "label": "epithelial"
+            },
+            {
+              "label": "pericytomatous"
+            },
+            {
+              "label": "pleomorphic"
+            }
+          ]
+        },
+        {
+          "label": "immunohistochemistry panel",
+          "children": [
+            {
+              "label": "CD34"
+            },
+            {
+              "label": "CD68"
+            },
+            {
+              "label": "CD99"
+            },
+            {
+              "label": "S-100"
+            },
+            {
+              "label": "vimentin"
+            },
+            {
+              "label": "actin"
+            },
+            {
+              "label": "desmin"
+            }
+          ]
+        },
+        {
+          "label": "malignant (sarcoma)",
+          "children": [
+            {
+              "label": "2 groups",
+              "children": [
+                {
+                  "label": "specific genetic alterations (simple karyotypes)/oncogenic mutations",
+                  "children": [
+                    {
+                      "label": "FUS-DDIT3 in myxoid sarcoma"
+                    },
+                    {
+                      "label": "KIT mutation in GI stromal tumors"
+                    }
+                  ]
+                },
+                {
+                  "label": "nonspecific genetic alterations (complex karyotypes)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Metastatic tumors",
+      "children": [
+        {
+          "label": "secondary tumors",
+          "children": [
+            {
+              "label": "direct extension from adjacent structures"
+            }
+          ]
+        },
+        {
+          "label": "metastatic tumors",
+          "children": [
+            {
+              "label": "spread from a primary site",
+              "children": [
+                {
+                  "label": "breast",
+                  "children": [
+                    {
+                      "label": "women"
+                    }
+                  ]
+                },
+                {
+                  "label": "prostate",
+                  "children": [
+                    {
+                      "label": "men"
+                    }
+                  ]
+                },
+                {
+                  "label": "neuroblastoma",
+                  "children": [
+                    {
+                      "label": "children"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Adipose tumors",
+      "children": [
+        {
+          "label": "Lipoma",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "encapsulated"
+            },
+            {
+              "label": "lobular appearance"
+            }
+          ]
+        },
+        {
+          "label": "Liposarcoma",
+          "children": [
+            {
+              "label": "extremely rare"
+            },
+            {
+              "label": "lipoblasts"
+            },
+            {
+              "label": "recur before metastasizing"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.14.3. Orbit (III) - Neoplasia (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 312,
+      "connector_rejected": 8,
+      "connector_edges": 211,
+      "connector_width": 1.376,
+      "text_labels": 160,
+      "tree_nodes": 160,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6763,
+      "root_font_size": 4.587,
+      "warnings": []
+    }
+  }
+}

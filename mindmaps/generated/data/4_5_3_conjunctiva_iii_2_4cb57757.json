@@ -1,0 +1,678 @@
+{
+  "label": "4.5.3. Conjunctiva (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Degenerations",
+      "children": [
+        {
+          "label": "Pinguecula",
+          "children": [
+            {
+              "label": "small yellowish nodule"
+            },
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "asymptomatic"
+            },
+            {
+              "label": "actinic damage"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "elastotic degeneration of stromal collagen",
+                  "children": [
+                    {
+                      "label": "Verhoeff-van Gieson staining",
+                      "children": [
+                        {
+                          "label": "fragmenation"
+                        },
+                        {
+                          "label": "basophilic degeneration"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pterygium",
+          "children": [
+            {
+              "label": "encroaches on cornea"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "elastotic degeneration of stromal collagen"
+                },
+                {
+                  "label": "vascularity"
+                },
+                {
+                  "label": "chronic inflammation"
+                },
+                {
+                  "label": "overlying epithelium",
+                  "children": [
+                    {
+                      "label": "squamous metaplasia",
+                      "children": [
+                        {
+                          "label": "loss of goblet cells"
+                        },
+                        {
+                          "label": "surface keratinization"
+                        },
+                        {
+                          "label": "malignant transformation to squamous neoplasia",
+                          "children": [
+                            {
+                              "label": "rare"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "abnormal ki-67"
+                    },
+                    {
+                      "label": "abnormal expression of tumor suppresson genes",
+                      "children": [
+                        {
+                          "label": "p-53"
+                        },
+                        {
+                          "label": "p-63"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "recurrent pterygium",
+                  "children": [
+                    {
+                      "label": "exuberant fibroconnective tissue"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Amyloid deposits",
+          "children": [
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "primary",
+                  "children": [
+                    {
+                      "label": "localized"
+                    },
+                    {
+                      "label": "healthy"
+                    },
+                    {
+                      "label": "young to middle-aged"
+                    }
+                  ]
+                },
+                {
+                  "label": "secondary",
+                  "children": [
+                    {
+                      "label": "chronic inflammation",
+                      "children": [
+                        {
+                          "label": "trachoma"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "multiple myeloma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "conjunctival nodule",
+              "children": [
+                {
+                  "label": "salmon-colored"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "extracellular eosinophylic material in stroma",
+                  "children": [
+                    {
+                      "label": "perivascular distribution"
+                    }
+                  ]
+                },
+                {
+                  "label": "stains",
+                  "children": [
+                    {
+                      "label": "congo red",
+                      "children": [
+                        {
+                          "label": "standard light",
+                          "children": [
+                            {
+                              "label": "orange"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "polarized light + rotating polarization filter",
+                          "children": [
+                            {
+                              "label": "birefringence with dichroism",
+                              "children": [
+                                {
+                                  "label": "orange to apple green"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "crystal violet"
+                    },
+                    {
+                      "label": "thioflavin T",
+                      "children": [
+                        {
+                          "label": "fluorescent yellow"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "local orbital amyloidosis",
+                  "children": [
+                    {
+                      "label": "clonal proliferation of plasma cells",
+                      "children": [
+                        {
+                          "label": "monoclonal immunoglobulins",
+                          "children": [
+                            {
+                              "label": "immunoglobulin-derived amyloid protein"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "electron microscopy",
+              "children": [
+                {
+                  "label": "characterisitic fibrils"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Epithelial inclusion cyst",
+          "children": [
+            {
+              "label": "accidental or sugical trauma"
+            },
+            {
+              "label": "transparent cyst"
+            },
+            {
+              "label": "+- injection"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "conjunctival epithelial lining"
+                },
+                {
+                  "label": "+- proteinaceous material/cellular debris"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Neoplasia",
+      "children": [
+        {
+          "label": "Squamous papilloma",
+          "children": [
+            {
+              "label": "pedunculated",
+              "children": [
+                {
+                  "label": "pink-red"
+                },
+                {
+                  "label": "strawberry-like"
+                },
+                {
+                  "label": "children"
+                },
+                {
+                  "label": "HPV subtypes 6 and 11"
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "finger-like projections",
+                      "children": [
+                        {
+                          "label": "papillary fibrovascular core"
+                        },
+                        {
+                          "label": "stroma",
+                          "children": [
+                            {
+                              "label": "chronic inflammatory infiltrate"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "hyperplastic squamous epithelium",
+                          "children": [
+                            {
+                              "label": "+- goblet cells"
+                            },
+                            {
+                              "label": "+- surface keratinization"
+                            },
+                            {
+                              "label": "+- neutrophils"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "+- spontaneous involution"
+                },
+                {
+                  "label": "excisional biopsy",
+                  "children": [
+                    {
+                      "label": "symptomatic"
+                    },
+                    {
+                      "label": "cosmetically unacceptable"
+                    },
+                    {
+                      "label": "uncertain diagnosis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "sessile",
+              "children": [
+                {
+                  "label": "adults"
+                },
+                {
+                  "label": "bulbar conjunctiva/limbus"
+                },
+                {
+                  "label": "HPV subtypes 16 and 18",
+                  "children": [
+                    {
+                      "label": "same subtypes associated with OSSN",
+                      "children": [
+                        {
+                          "label": "premalignant?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical signs suggestive of malignancy",
+                  "children": [
+                    {
+                      "label": "leukoplakia"
+                    },
+                    {
+                      "label": "inflammation"
+                    }
+                  ]
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "broad base"
+                    },
+                    {
+                      "label": "lack finger-like projections"
+                    },
+                    {
+                      "label": "hyperplastic epithelium"
+                    },
+                    {
+                      "label": "features suggestive of OSSN",
+                      "children": [
+                        {
+                          "label": "nuclear hyperchromasia and pleomorphism"
+                        },
+                        {
+                          "label": "altered cell polarity"
+                        },
+                        {
+                          "label": "many mitotic figures"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Ocular surface squamous neoplasia (OSSN)",
+          "children": [
+            {
+              "label": "risk factors",
+              "children": [
+                {
+                  "label": "UV exposure",
+                  "children": [
+                    {
+                      "label": "higher incidence close to equator"
+                    },
+                    {
+                      "label": "mutation in p53 suppressor gene"
+                    }
+                  ]
+                },
+                {
+                  "label": "light skin color"
+                },
+                {
+                  "label": "xeroderma pigmentosa"
+                },
+                {
+                  "label": "immunosuppression",
+                  "children": [
+                    {
+                      "label": "HIV",
+                      "children": [
+                        {
+                          "label": "<50 years old"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "older age"
+                },
+                {
+                  "label": "smoking"
+                },
+                {
+                  "label": "HPV subtypes 16 and 18"
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "epithelial thickening",
+                  "children": [
+                    {
+                      "label": "gelatinous"
+                    },
+                    {
+                      "label": "leukoplakic",
+                      "children": [
+                        {
+                          "label": "not pathognomonic"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "corkscrew intrinsic vessels"
+                    }
+                  ]
+                },
+                {
+                  "label": "near or at limbus",
+                  "children": [
+                    {
+                      "label": "over pinguecula"
+                    }
+                  ]
+                },
+                {
+                  "label": "feeder vessels"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "epithelial hyperplasia",
+                  "children": [
+                    {
+                      "label": "loss of goblet cells"
+                    },
+                    {
+                      "label": "loss of cell polarity"
+                    },
+                    {
+                      "label": "nuclear hyperchromasia and pleomorphism"
+                    },
+                    {
+                      "label": "mitosis"
+                    },
+                    {
+                      "label": "+- surface keratinization"
+                    },
+                    {
+                      "label": "+- dyskeratosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "grading",
+                  "children": [
+                    {
+                      "label": "based on cellular atypia",
+                      "children": [
+                        {
+                          "label": "mild"
+                        },
+                        {
+                          "label": "moderate"
+                        },
+                        {
+                          "label": "severe",
+                          "children": [
+                            {
+                              "label": "squamous eddies"
+                            },
+                            {
+                              "label": "keratin whorls/pearls"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "progression",
+                  "children": [
+                    {
+                      "label": "conjunctival intraepithelial neoplasia (CIN)",
+                      "children": [
+                        {
+                          "label": "partial thickness epithelial involvement"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "carcinoma in-situ",
+                      "children": [
+                        {
+                          "label": "full thickness epithelial involvement"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "invasive squamous cell carcinoma",
+                      "children": [
+                        {
+                          "label": "invasion through basement membrane into stroma"
+                        },
+                        {
+                          "label": "invasion into the sclera/cornea"
+                        },
+                        {
+                          "label": "intraocular invasion",
+                          "children": [
+                            {
+                              "label": "rare",
+                              "children": [
+                                {
+                                  "label": "via surgical wound"
+                                },
+                                {
+                                  "label": "immunosuppressed patients"
+                                },
+                                {
+                                  "label": "ozone depleted areas"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "other variants",
+                  "children": [
+                    {
+                      "label": "mucoepidermoid carcinoma"
+                    },
+                    {
+                      "label": "spindle cell carcinoma"
+                    },
+                    {
+                      "label": "rare",
+                      "children": [
+                        {
+                          "label": "more aggressive"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "specimen submission",
+                  "children": [
+                    {
+                      "label": "place on filter paper"
+                    },
+                    {
+                      "label": "allow to dry x 30 sec"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "excisional biopsy",
+                  "children": [
+                    {
+                      "label": "cryotherapy to the margins"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical agents",
+                  "children": [
+                    {
+                      "label": "interferon alpha-2b"
+                    },
+                    {
+                      "label": "5-fluorouracil"
+                    },
+                    {
+                      "label": "mitomycin c"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.5.3. Conjunctiva (III) (2).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 351,
+      "connector_rejected": 10,
+      "connector_edges": 230,
+      "connector_width": 1.13,
+      "text_labels": 171,
+      "tree_nodes": 171,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6553,
+      "root_font_size": 2.636,
+      "warnings": []
+    }
+  }
+}

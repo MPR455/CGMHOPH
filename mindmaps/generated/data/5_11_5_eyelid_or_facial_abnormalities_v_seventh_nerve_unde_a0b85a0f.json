@@ -1,0 +1,268 @@
+{
+  "label": "5.11.5. Eyelid or Facial Abnormalities (V): Seventh Nerve Underactivity (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "See Table 11-3"
+    },
+    {
+      "label": "Supranuclear lesions",
+      "children": [
+        {
+          "label": "frontal lesion (facial portion of precentral gyrus)",
+          "children": [
+            {
+              "label": "contralateral paralysis of volitional facial movement",
+              "children": [
+                {
+                  "label": "lower face>upper face"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "extrapyramidal lesion",
+          "children": [
+            {
+              "label": "disorders",
+              "children": [
+                {
+                  "label": "parkinsonism",
+                  "children": [
+                    {
+                      "label": "emotional and reflex facial movements (smiling and spontaneous blinking) are usually preserved",
+                      "children": [
+                        {
+                          "label": "controlled through extrapyramidal pathways"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "progressive supranuclear palsy"
+                }
+              ]
+            },
+            {
+              "label": "spontaneous facial expression is minimal"
+            },
+            {
+              "label": "spontaneous blink rate is usually reduced"
+            },
+            {
+              "label": "volitional facial movements generally remain intact"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment options for seventh nerve underactivity",
+      "children": [
+        {
+          "label": "corneal exposure",
+          "children": [
+            {
+              "label": "the most crucial question is the status of the trigeminal nerve",
+              "children": [
+                {
+                  "label": "combined neurotrophic and neuroparalytic keratitis",
+                  "children": [
+                    {
+                      "label": "demands an aggressive approach",
+                      "children": [
+                        {
+                          "label": "early tarsorrhaphy"
+                        },
+                        {
+                          "label": "early gold weight implant"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "artificial tear preparations & lubricants",
+          "children": [
+            {
+              "label": "sufficient in mild cases"
+            }
+          ]
+        },
+        {
+          "label": "taping the eyelid shut",
+          "children": [
+            {
+              "label": "with lubricating ointment in the eye for sleep"
+            }
+          ]
+        },
+        {
+          "label": "moisture chambers",
+          "children": [
+            {
+              "label": "at night"
+            }
+          ]
+        },
+        {
+          "label": "avoid dusty and windy environments"
+        },
+        {
+          "label": "punctal plugs"
+        },
+        {
+          "label": "tarsorrhaphy"
+        },
+        {
+          "label": "injection of botulinum toxin type A to induce ptosis"
+        },
+        {
+          "label": "surgical treatment",
+          "children": [
+            {
+              "label": "reinnervation with hypoglossal-to-facial anastomosis or transfacial cable grafts",
+              "children": [
+                {
+                  "label": "even when successful, tend to protect the cornea poorly"
+                }
+              ]
+            },
+            {
+              "label": "silicone bands",
+              "children": [
+                {
+                  "label": "unpredictable"
+                }
+              ]
+            },
+            {
+              "label": "implanted springs",
+              "children": [
+                {
+                  "label": "high incidence of extrusion"
+                }
+              ]
+            },
+            {
+              "label": "gold eyelid weights",
+              "children": [
+                {
+                  "label": "trials of various weights taped to the eyelid surface",
+                  "children": [
+                    {
+                      "label": "simplest and most successful surgical treatment for corneal problems"
+                    }
+                  ]
+                },
+                {
+                  "label": "implanted low over the tarsus",
+                  "children": [
+                    {
+                      "label": "more visible",
+                      "children": [
+                        {
+                          "label": "heaviest weight that can be lifted clear of the visual axis should be chosen"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "more predictable than placement over the septum"
+                    }
+                  ]
+                },
+                {
+                  "label": "can be removed later if facial nerve function recovers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Brainstem lesions",
+      "children": [
+        {
+          "label": "pontine disorder",
+          "children": [
+            {
+              "label": "vascular lesions"
+            },
+            {
+              "label": "intraparenchymal tumors"
+            }
+          ]
+        },
+        {
+          "label": "Ipsilateral facial weakness",
+          "children": [
+            {
+              "label": "both upper and lower face"
+            }
+          ]
+        },
+        {
+          "label": "large pontine lesions may produce facial diplegia",
+          "children": [
+            {
+              "label": "also occurs in Möbius syndrome",
+              "children": [
+                {
+                  "label": "congenital disorder involving bilateral sixth nerve palsies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "dissociations between the autonomic, sensory, and motor functions of the seventh nerve may be present"
+        },
+        {
+          "label": "other evidence of pontine disturbance",
+          "children": [
+            {
+              "label": "ipsilateral corneal and facial anesthesia"
+            },
+            {
+              "label": "sixth nerve palsy"
+            },
+            {
+              "label": "lateral gaze palsy"
+            },
+            {
+              "label": "cerebellar ataxia"
+            },
+            {
+              "label": "contralateral hemiparesis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.11.5. Eyelid or Facial Abnormalities (V) Seventh Nerve Underactivity (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 100,
+      "connector_rejected": 0,
+      "connector_edges": 73,
+      "connector_width": 0.943,
+      "text_labels": 63,
+      "tree_nodes": 63,
+      "component_roots": 3,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.73,
+      "root_font_size": 3.3,
+      "warnings": []
+    }
+  }
+}

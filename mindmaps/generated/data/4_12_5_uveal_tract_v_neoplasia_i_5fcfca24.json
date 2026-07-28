@@ -1,0 +1,572 @@
+{
+  "label": "4.12.5. Uveal Tract (V): Neoplasia (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Choroidal osteoma",
+      "children": [
+        {
+          "label": "demographics",
+          "children": [
+            {
+              "label": "adolescent-young adults"
+            },
+            {
+              "label": "F>M"
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "benign bony tumor"
+            },
+            {
+              "label": "juxtapapillary location"
+            },
+            {
+              "label": "yellow-orange"
+            },
+            {
+              "label": "well-defined margins"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "compact bone"
+            },
+            {
+              "label": "bony trabeculae",
+              "children": [
+                {
+                  "label": "osteocytes"
+                },
+                {
+                  "label": "cement lines"
+                },
+                {
+                  "label": "osteoclasts"
+                }
+              ]
+            },
+            {
+              "label": "intratrabecular spaces",
+              "children": [
+                {
+                  "label": "loose connective tissue containing large and small blood vessels"
+                },
+                {
+                  "label": "vacuolated mesenchymal cells"
+                },
+                {
+                  "label": "scattered mast cells"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Iris Neoplasia",
+      "children": [
+        {
+          "label": "nevus",
+          "children": [
+            {
+              "label": "location",
+              "children": [
+                {
+                  "label": "within stroma"
+                },
+                {
+                  "label": "on surface of iris",
+                  "children": [
+                    {
+                      "label": "less common"
+                    }
+                  ]
+                },
+                {
+                  "label": "+- angle involvement"
+                }
+              ]
+            },
+            {
+              "label": "cells",
+              "children": [
+                {
+                  "label": "branching dendritic/spindle cells",
+                  "children": [
+                    {
+                      "label": "melanin granules in cytoplasm"
+                    },
+                    {
+                      "label": "oblong/ovoid nuclei",
+                      "children": [
+                        {
+                          "label": "indistinct nucleoli"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "epithelioid nevus cells",
+                  "children": [
+                    {
+                      "label": "less common"
+                    }
+                  ]
+                },
+                {
+                  "label": "no cellular atypia"
+                },
+                {
+                  "label": "no significant mitotic activity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "melanoma",
+          "children": [
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "nonaggressive clinical course",
+                  "children": [
+                    {
+                      "label": "rarely metastasize"
+                    }
+                  ]
+                },
+                {
+                  "label": "+- vascularized",
+                  "children": [
+                    {
+                      "label": "inferior iris"
+                    },
+                    {
+                      "label": "spontaneous hyphema"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "cells",
+                  "children": [
+                    {
+                      "label": "spindle melanoma cells",
+                      "children": [
+                        {
+                          "label": "high nuclear-to-cytoplasmic ratio"
+                        },
+                        {
+                          "label": "plump spindle-shaped nuclei",
+                          "children": [
+                            {
+                              "label": "coarse granular appearance"
+                            },
+                            {
+                              "label": "prominent nucleoli"
+                            },
+                            {
+                              "label": "spindle-B cells"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "epithelioid melanoma cells",
+                      "children": [
+                        {
+                          "label": "polyhedral"
+                        },
+                        {
+                          "label": "large, round nuclei",
+                          "children": [
+                            {
+                              "label": "clumped chromatin pattern"
+                            },
+                            {
+                              "label": "prominent eosinophilic nucleoli"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "high nuclear-to-cytoplasmic ratio"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lightly to heavily pigmented"
+                    },
+                    {
+                      "label": "+- satellite lesions"
+                    },
+                    {
+                      "label": "+- diffuse growth pattern",
+                      "children": [
+                        {
+                          "label": "higher rate of metastasis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hemangioma",
+      "children": [
+        {
+          "label": "2 forms",
+          "children": [
+            {
+              "label": "localized (circumscribed)",
+              "children": [
+                {
+                  "label": "no systemic associations"
+                }
+              ]
+            },
+            {
+              "label": "diffuse",
+              "children": [
+                {
+                  "label": "Sturge-Weber syndrome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "variably sized vessels within choroid",
+              "children": [
+                {
+                  "label": "capillary"
+                },
+                {
+                  "label": "cavernous"
+                },
+                {
+                  "label": "mixed"
+                }
+              ]
+            },
+            {
+              "label": "adjacent tissues",
+              "children": [
+                {
+                  "label": "choroid",
+                  "children": [
+                    {
+                      "label": "compressed melanocytes"
+                    }
+                  ]
+                },
+                {
+                  "label": "RPE",
+                  "children": [
+                    {
+                      "label": "hyperplasia"
+                    },
+                    {
+                      "label": "fibrous proliferation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Metastatic tumors",
+      "children": [
+        {
+          "label": "multiple",
+          "children": [
+            {
+              "label": "most common (malignant) intraocular tumors in adults"
+            }
+          ]
+        },
+        {
+          "label": "bilateral"
+        },
+        {
+          "label": "flattened growth pattern"
+        },
+        {
+          "label": "most common primary cancers",
+          "children": [
+            {
+              "label": "breast in women"
+            },
+            {
+              "label": "lung in men"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nevus",
+      "children": [
+        {
+          "label": "<6% involve ciliary body"
+        },
+        {
+          "label": "cells",
+          "children": [
+            {
+              "label": "plump polyhedral",
+              "children": [
+                {
+                  "label": "abundant cytoplasm",
+                  "children": [
+                    {
+                      "label": "filled with pigment"
+                    }
+                  ]
+                },
+                {
+                  "label": "small, round-oval nucleus",
+                  "children": [
+                    {
+                      "label": "bland appearance"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "slender spindle",
+              "children": [
+                {
+                  "label": "scant pigment"
+                },
+                {
+                  "label": "small, dark, elongated nucleus"
+                }
+              ]
+            },
+            {
+              "label": "plump fusiform dendritic",
+              "children": [
+                {
+                  "label": "intermediate between plump polyhedral and slender spindle"
+                }
+              ]
+            },
+            {
+              "label": "baloon cells",
+              "children": [
+                {
+                  "label": "lacks pigment",
+                  "children": [
+                    {
+                      "label": "abundant, foamy cytoplasm"
+                    }
+                  ]
+                },
+                {
+                  "label": "bland nucleus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "effect on adjacent tissues",
+          "children": [
+            {
+              "label": "choriocapillaris compression"
+            },
+            {
+              "label": "overlying drusen"
+            },
+            {
+              "label": "serous RPE detachment"
+            },
+            {
+              "label": "serous retinal detachment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Neural sheath tumors",
+      "children": [
+        {
+          "label": "Neurilemoma (schwannoma)"
+        },
+        {
+          "label": "Neurofibroma",
+          "children": [
+            {
+              "label": "neurofibromatosis"
+            }
+          ]
+        },
+        {
+          "label": "rare"
+        }
+      ]
+    },
+    {
+      "label": "Leiomyoma",
+      "children": [
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "tightly packed slender spindle cells lacking pigment"
+            },
+            {
+              "label": "smooth muscle antigens"
+            },
+            {
+              "label": "mesectodermal leiomyoma",
+              "children": [
+                {
+                  "label": "both myogenic & neurogenic features"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "rare"
+        }
+      ]
+    },
+    {
+      "label": "Lymphoid proliferation",
+      "children": [
+        {
+          "label": "Uveal lymphoid infiltration",
+          "children": [
+            {
+              "label": "diffuse involvement of uveal tract",
+              "children": [
+                {
+                  "label": "lymphocytes",
+                  "children": [
+                    {
+                      "label": "polymorphic"
+                    },
+                    {
+                      "label": "low-grade"
+                    }
+                  ]
+                },
+                {
+                  "label": "plasma cells"
+                },
+                {
+                  "label": "+- lymphoid follicles"
+                }
+              ]
+            },
+            {
+              "label": "(anterior &) posterior episcleral extension"
+            }
+          ]
+        },
+        {
+          "label": "Lymphoma",
+          "children": [
+            {
+              "label": "in association with systemic lymphoma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Melanocytoma",
+      "children": [
+        {
+          "label": "magnocellular nevus"
+        },
+        {
+          "label": "jet-black"
+        },
+        {
+          "label": "anywhere in uveal tract",
+          "children": [
+            {
+              "label": "peripapillary most common"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "plump polyhedral cells",
+              "children": [
+                {
+                  "label": "abundant cytoplasm"
+                },
+                {
+                  "label": "small nuclei"
+                },
+                {
+                  "label": "heavily pigmented"
+                }
+              ]
+            },
+            {
+              "label": "+- cystic degeneration"
+            },
+            {
+              "label": "+- necrosis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.12.5. Uveal Tract (V) - Neoplasia (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 278,
+      "connector_rejected": 9,
+      "connector_edges": 189,
+      "connector_width": 1.453,
+      "text_labels": 143,
+      "tree_nodes": 143,
+      "component_roots": 9,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6799,
+      "root_font_size": 4.843,
+      "warnings": []
+    }
+  }
+}

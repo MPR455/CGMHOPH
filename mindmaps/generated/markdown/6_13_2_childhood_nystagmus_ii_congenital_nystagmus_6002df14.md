@@ -1,0 +1,178 @@
+---
+title: "6.13.2. Childhood Nystagmus (II): Congenital nystagmus"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.13.2. Childhood Nystagmus (II) - Congenital nystagmus.pdf"
+---
+
+# 6.13.2. Childhood Nystagmus (II): Congenital nystagmus
+
+## Hierarchy
+
+- periodic alternating nystagmus (PAN)
+  - types
+    - congenital
+      - associated with oculocutaneous albinism
+    - acquired
+      - Arnold-Chiari malformation
+  - clinical presentation
+    - jerk nystagmus
+    - strictly horizontal
+    - nystagmus periodically changes direction
+      - starts with a jerk nystagmus in 1 direction
+      - slowly begins to damp, leading to a period of no nystagmus x 10 - 20 seconds
+      - jerks in the opposite direction
+      - cycle repeats ≈ every 4 minutes
+    - some children adopt an alternating head turn
+  - Periodic alternating nystagmus (PAN)
+    - congenital or acquired
+      - associated with oculocutaneous albinism
+    - strictly horizontal
+    - oscillation cycle of 2–4 minutes
+      - any purely horizontal nystagmus that occurs in primary position should be observed for at least 2 minutes
+      - crescendo–decrescendo nystagmus
+        - change in amplitude and frequency
+      - short period of downbeat or no nystagmus
+        - 10-20 seconds
+      - crescendo–decrescendo nystagmus in the opposite direction
+    - periodic alternating head turn
+      - to minimize the nystagmus, in accordance with Alexander’s law
+    - dysfunction of the cerebellar nodulus and uvula
+      - multiple sclerosis
+      - cerebellar degeneration
+      - Arnold-Chiari type I malformation
+      - stroke
+      - use of anticonvulsant medication
+      - bilateral loss of vision
+        - reversible
+    - baclofen
+      - can be effective for the acquired form
+- congenital motor nystagmus (CMN)
+  - not associated with central nervous system abnormalities
+  - binocular conjugate nystagmus
+  - nearly normal visual function
+  - plane of nystagmus is most often horizontal
+    - remains so on upgaze and downgaze (uniplanar)
+  - exponential increase in velocity of the slow phase
+  - ± null point
+    - ± abnormal head position
+      - head position becomes more pronounced as child approaches school age
+  - head bobbing or movement
+    - may be present initially but usually decreases with age
+  - oscillopsia is rare
+  - damped by convergence
+    - can be associated with esotropia
+      - nystagmus blockage syndrome
+        - combination of nystagmus and esotropia
+        - characteristically present with an esotropia that “eats up prism” on attempted measurement
+        - exhibit an increased jerk nystagmus on attempted lateral gaze
+  - paradoxical inversion of OKN response
+    - 2/3 of patients
+    - patient with right jerk nystagmus views an OKN drum rotating to the patient’s left
+      - exhibits a damped right jerk nystagmus or possibly even a left jerk nystagmus
+    - occurs only in CMN
+  - Infantile Nystagmus Syndrome (INS)/ Congenital Nystagmus (CN)
+    - epidemiology
+      - onset in first few months of life
+        - may not become evident until several years of age
+      - ± family history
+    - clinical presentation
+      - no oscillopsia
+      - conjugate
+      - horizontal
+        - remains horizontal in upgaze and downgaze
+      - continuous or intermittent
+      - jerk or pendular
+        - depending on position of gaze
+      - accentuation by visual attention & distant fixation
+        - unlike peripheral vestibular nystagmus
+      - abolished in sleep
+        - diminishment by convergence
+      - slow phase in the direction opposite that of a rotating optokinetic drum
+        - reversal of normal pattern!
+          - in contrast to constant velocity slow phase of latent nystagmus
+      - exponential increasing velocity of slow phase with distance from fixation
+        - requires eye movement recordings
+      - there is frequently a null point
+        - field of gaze in which nystagmus intensity is minimal
+        - head turn or posture
+          - if the null point is not in primary position
+      - strabismus
+        - 15%
+      - not associated with afferent pathway disease
+        - visual acuity is proportional to the foveation period
+    - sensory nystagmus
+      - central visual acuity is too poor to develop a stable fixational mechanism
+      - etiology
+        - ocular albinism
+        - achromatopsia
+        - leber congenital amaurosis
+        - aniridia
+      - in any patient with early-onset nystagmus look for evidence of damage to the visual pathways
+        - impairment of visual tracking
+        - optic atrophy
+        - presence of such abnormalities should prompt neuroimaging
+        - electrophysiologic testing (ERG, VEP) is warranted
+- latent nystagmus
+  - occurs in children with decreased fusion
+    - early-onset strabismus
+      - most commonly infantile esotropia
+    - decreased vision in 1 or both eyes
+  - clinical presentation
+    - when 1 eye is occluded, a conjugate jerk nystagmus develops
+      - fast phase directed toward the uncovered eye
+        - left jerk nystagmus occurs when the right eye is covered
+        - the only form that reverses direction with a change in fixation
+      - the nystagmus damps when the fixating eye is in adduction
+        - head turn reverses with a change in fixation
+          - occlusion of the right eye causes left jerk nystagmus with a left head turn
+        - in CMN, nystagmus damps with convergence
+    - asymmetries in amplitude, frequency, and velocity of the nystagmus can also be present
+    - binocular visual acuity is better than monocular
+    - manifest latent nystagmus
+      - nystgmus becomes manifest when both eyes are open but only 1 eye is being used for vision
+        - other eye is suppressed or amblyopic
+          - in contrast to exponentialy increasing velocity of slow phase with CMN
+    - nystagmus waveform
+      - exponentially decreasing velocity of slow phase
+  - Fusional Maldevelopment Nystagmus Syndrome (Latent Nystagmus)
+    - clinical characteristics
+      - begins (or accentuates) when binocular viewing is disrupted
+        - use of a standard occluder degrades visual acuity
+          - partial optical blurring of 1 eye permits better visual acuity measurements
+            - high-plus lens or filter
+      - early-onset
+      - conjugate horizontal jerk nystagmus
+        - constant-velocity slow phase
+          - in contrast to the increasing exponential slow phase of INS/CN
+      - direction changing with monocular occlusion
+        - fast phase toward the viewing eye; slow phase toward the nose/occluded eye
+          - both slow phase and eye are toward nose (occluded eye)
+      - almost always associated with esotropia
+      - subnormal stereopsis
+      - may coexist with INS
+      - frequently, with dissociated vertical deviation
+    - manifest latent nystagmus (MLN)
+      - nystagmus with characteristics of LN that is present when both eyes are open
+      - nystagmus spontaneously and intermittently develops whenever the esotropic eye is physiologically suppressed
+    - LN and MLN are benign entities
+- congenital sensory nystagmus
+  - pathogenesis
+    - bilateral pregeniculate, afferent visual pathway abnormality
+  - if the visual pathway disorder is present at birth, the resulting nystagmus becomes apparent in the first 3 months of life
+  - clinical presentation
+    - type of nystagmus
+      - searching nystagmus
+        - slow searching/wandering conjugate horizontal eye movements without fixation
+        - usually seen in children whose visual acuity is < 20/200
+      - pendular nystagmus
+        - patients with visual acuity of >20/200 in at least 1 eye
+      - jerk nystagmus
+        - patients with visual acuity of 20/60 - 20/100
+      - severity is somewhat correlated with the degree of vision loss
+      - waveform cannot be distinguished from that of congenital motor nystagmus
+    - congenital sensory nystagmus as a result of a retinal dystrophy
+      - mild vascular attenuation
+      - optic disc pallor
+      - ± completely normal retinal appearance
+      - electroretinogram may be required

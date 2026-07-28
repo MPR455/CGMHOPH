@@ -1,0 +1,285 @@
+{
+  "label": "9.7.22. Infectious Ocular Inflammatory Diseases (XXII): Bacterial Uveitis (VII): Whipple Disease",
+  "root": true,
+  "children": [
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "rare",
+          "children": [
+            {
+              "label": "Tropheryma whipplei bacterium",
+              "children": [
+                {
+                  "label": "PAS (+) bacillus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "most common in middle-aged white men"
+        }
+      ]
+    },
+    {
+      "label": "diagnosis",
+      "children": [
+        {
+          "label": "duodenal biopsy",
+          "children": [
+            {
+              "label": "periodic acid–schiff–positive bacillus in macrophages within intestinal villi"
+            }
+          ]
+        },
+        {
+          "label": "PCR analysis of peripheral blood and vitreous",
+          "children": [
+            {
+              "label": "T whipplei DNA"
+            }
+          ]
+        },
+        {
+          "label": "culturing of T whipplei",
+          "children": [
+            {
+              "label": "difficult but possible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "systemic manifestations",
+      "children": [
+        {
+          "label": "migratory arthritis",
+          "children": [
+            {
+              "label": "80%"
+            }
+          ]
+        },
+        {
+          "label": "gastrointestinal symptoms",
+          "children": [
+            {
+              "label": "75%"
+            },
+            {
+              "label": "diarrhea"
+            },
+            {
+              "label": "steatorrhea"
+            },
+            {
+              "label": "malabsorption"
+            },
+            {
+              "label": "Intestinal loss of protein",
+              "children": [
+                {
+                  "label": "pitting edema"
+                },
+                {
+                  "label": "weight loss"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cardiomyopathy"
+        },
+        {
+          "label": "valvular disease"
+        },
+        {
+          "label": "CNS involvement",
+          "children": [
+            {
+              "label": "10%"
+            },
+            {
+              "label": "seizures"
+            },
+            {
+              "label": "dementia"
+            },
+            {
+              "label": "coma"
+            },
+            {
+              "label": "neuro-ophthalmic signs",
+              "children": [
+                {
+                  "label": "cranial nerve palsies",
+                  "children": [
+                    {
+                      "label": "ophthalmoplegia"
+                    }
+                  ]
+                },
+                {
+                  "label": "nystagmus",
+                  "children": [
+                    {
+                      "label": "Oculomasticatory Myorhythmia"
+                    }
+                  ]
+                },
+                {
+                  "label": "progressive supranuclear palsy–like condition"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "differential diagnosis",
+      "children": [
+        {
+          "label": "sarcoidosis"
+        },
+        {
+          "label": "SLE"
+        },
+        {
+          "label": "polyarteritis nodosa"
+        },
+        {
+          "label": "behçet disease"
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "trimethoprim-sulfamethoxazole",
+          "children": [
+            {
+              "label": "preferred treatment"
+            },
+            {
+              "label": "x 1- 3 months"
+            },
+            {
+              "label": "30% relapse",
+              "children": [
+                {
+                  "label": "treat x ≤1 year"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "patients allergic to sulfonamides",
+          "children": [
+            {
+              "label": "ceftriaxone"
+            },
+            {
+              "label": "tetracycline"
+            },
+            {
+              "label": "chloramphenicol"
+            }
+          ]
+        },
+        {
+          "label": "prognosis",
+          "children": [
+            {
+              "label": "retinal vasculitis can resolve with treatment"
+            },
+            {
+              "label": "neurologic deficits become permanent",
+              "children": [
+                {
+                  "label": "marginal corneal infiltrates"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "intraocular involvement",
+      "children": [
+        {
+          "label": "rare",
+          "children": [
+            {
+              "label": "<5%"
+            }
+          ]
+        },
+        {
+          "label": "bilateral panuveitis",
+          "children": [
+            {
+              "label": "anterior uveitis"
+            },
+            {
+              "label": "moderate vitritis"
+            },
+            {
+              "label": "diffuse chorioretinal inflammation"
+            },
+            {
+              "label": "diffuse retinal vasculitis",
+              "children": [
+                {
+                  "label": "perifoveal and midperipheral regions"
+                },
+                {
+                  "label": "retinal vascular occlusions"
+                },
+                {
+                  "label": "retinal hemorrhages"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "optic disc edema",
+          "children": [
+            {
+              "label": "optic atrophy"
+            }
+          ]
+        },
+        {
+          "label": "granular, crystalline deposits on the iris, capsular bag, and intraocular lens"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.22. Infectious Ocular Inflammatory Diseases (XXII) - Bacterial Uveitis (VII) - Whipple Disease.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 124,
+      "connector_rejected": 0,
+      "connector_edges": 84,
+      "connector_width": 1.205,
+      "text_labels": 70,
+      "tree_nodes": 70,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6774,
+      "root_font_size": 4.218,
+      "warnings": []
+    }
+  }
+}

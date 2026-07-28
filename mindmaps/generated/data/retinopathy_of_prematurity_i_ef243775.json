@@ -1,0 +1,433 @@
+{
+  "label": "Retinopathy of Prematurity (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Epidemiology",
+      "children": [
+        {
+          "label": "United States",
+          "children": [
+            {
+              "label": "1100–1500 infants annually"
+            },
+            {
+              "label": "400–600 will never achieve vision better than 20/200"
+            }
+          ]
+        },
+        {
+          "label": "recent rise in the incidence of ROP in resource-limited regions of the world"
+        },
+        {
+          "label": "risk factors",
+          "children": [
+            {
+              "label": "prematurity"
+            },
+            {
+              "label": "low birth weight"
+            }
+          ]
+        },
+        {
+          "label": "eyes with ROP in zone III typically have a good visual prognosis"
+        }
+      ]
+    },
+    {
+      "label": "Terminology",
+      "children": [
+        {
+          "label": "plus disease",
+          "children": [
+            {
+              "label": "vascular dilation (venous) and tortuosity (arteriolar) of posterior retinal vessels in ≥2 quadrants"
+            },
+            {
+              "label": "± iris vascular dilatation & vitreous haze"
+            }
+          ]
+        },
+        {
+          "label": "Aggressive posterior ROP ( rush disease )",
+          "children": [
+            {
+              "label": "zone I or very posterior zone II + plus disease"
+            },
+            {
+              "label": "can progress rapidly"
+            }
+          ]
+        },
+        {
+          "label": "Threshold disease",
+          "children": [
+            {
+              "label": ".> 5 contiguous clock-hours of extraretinal neovascularization"
+            },
+            {
+              "label": "zone I or II",
+              "children": [
+                {
+                  "label": "8 cumulative clock-hours of extraretinal neovascularization (zone 1 or zone 2) in association with plus disease"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Prethreshold disease",
+          "children": [
+            {
+              "label": "Early Treatment for Retinopathy of Prematurity (ETROP) study"
+            },
+            {
+              "label": "all zone I and zone II ROP changes, except zone II stage 1 and zone II stage 2 without plus disease",
+              "children": [
+                {
+                  "label": "should not meet threshold treatment criteria",
+                  "children": [
+                    {
+                      "label": "type 1",
+                      "children": [
+                        {
+                          "label": "high-risk prethreshold ROP"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "type 2",
+                      "children": [
+                        {
+                          "label": "lower-risk prethreshold ROP"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "international classification of ROP",
+      "children": [
+        {
+          "label": "zone",
+          "children": [
+            {
+              "label": "zone 1",
+              "children": [
+                {
+                  "label": "within 60 ̊ circle around the optic disc"
+                }
+              ]
+            },
+            {
+              "label": "zone 2",
+              "children": [
+                {
+                  "label": "from zone 1 to nasal ora serrata"
+                }
+              ]
+            },
+            {
+              "label": "zone 3",
+              "children": [
+                {
+                  "label": "remaining temporal peripheral retina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "stage",
+          "children": [
+            {
+              "label": "stage 0",
+              "children": [
+                {
+                  "label": "immature retinal vasculature"
+                }
+              ]
+            },
+            {
+              "label": "stage 1",
+              "children": [
+                {
+                  "label": "demarcation line"
+                }
+              ]
+            },
+            {
+              "label": "stage 2",
+              "children": [
+                {
+                  "label": "ridge"
+                },
+                {
+                  "label": "± popcorns",
+                  "children": [
+                    {
+                      "label": "small isolated tufts of neovascular tissue"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "stage 3",
+              "children": [
+                {
+                  "label": "ridge of extraretinal fibrovascular proliferation"
+                }
+              ]
+            },
+            {
+              "label": "stage 4",
+              "children": [
+                {
+                  "label": "partial RD",
+                  "children": [
+                    {
+                      "label": "4A",
+                      "children": [
+                        {
+                          "label": "extrafoveal"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "4B",
+                      "children": [
+                        {
+                          "label": "involving fovea"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "stage 5",
+              "children": [
+                {
+                  "label": "total RD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "extent",
+          "children": [
+            {
+              "label": "≠ clock hours"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pathophysiology",
+      "children": [
+        {
+          "label": "normal retinal vascularization",
+          "children": [
+            {
+              "label": "begins at ≈ week 16 of gestation",
+              "children": [
+                {
+                  "label": "proceeds from optic disc to periphery"
+                }
+              ]
+            },
+            {
+              "label": "completed",
+              "children": [
+                {
+                  "label": "nasally",
+                  "children": [
+                    {
+                      "label": "≈ week 36 of gestation"
+                    }
+                  ]
+                },
+                {
+                  "label": "temporally",
+                  "children": [
+                    {
+                      "label": "≈ week 40 of gestation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "2-phase process",
+          "children": [
+            {
+              "label": "first phase",
+              "children": [
+                {
+                  "label": "breathing by infant after birth",
+                  "children": [
+                    {
+                      "label": "increase in systemic oxygen tension",
+                      "children": [
+                        {
+                          "label": "decrease in level of growth factors",
+                          "children": [
+                            {
+                              "label": "VEGF & insulin-like growth factor 1 (IGF-1)"
+                            },
+                            {
+                              "label": "cessation of normal vascular development"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "second phase",
+              "children": [
+                {
+                  "label": "31–34 weeks’ postconceptional age",
+                  "children": [
+                    {
+                      "label": "ischemic retina",
+                      "children": [
+                        {
+                          "label": "increase in level of growth factors",
+                          "children": [
+                            {
+                              "label": "disorganized vascular growth",
+                              "children": [
+                                {
+                                  "label": "cicatricial contraction & tractional retinal detachment"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "signs of active disease",
+          "children": [
+            {
+              "label": "dilation and increased tortuosity of the retinal vessels posteriorly"
+            },
+            {
+              "label": "increased and abnormal terminal arborization of retinal vessels as they approach the shunt or ridge"
+            },
+            {
+              "label": "microvascular abnormalities (eg, microaneurysms, areas of capillary nonperfusion, and dilated vessels) posterior to the ridge"
+            }
+          ]
+        },
+        {
+          "label": "vasoproliferative phase",
+          "children": [
+            {
+              "label": "new vessels arise from retinal vessels just posterior to the shunt",
+              "children": [
+                {
+                  "label": "vitreous hemorrhage",
+                  "children": [
+                    {
+                      "label": "exudative retinal detachment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "earlier disease stages may regress spontaneously",
+          "children": [
+            {
+              "label": "peripheral"
+            },
+            {
+              "label": "smaller its size and extent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "tissue ridge",
+      "children": [
+        {
+          "label": "(ROP stages 1, 2)"
+        },
+        {
+          "label": "cicatricial contraction",
+          "children": [
+            {
+              "label": "tissue ridge + vascular proliferation into vitreous cavity",
+              "children": [
+                {
+                  "label": "(ROP stage 3)"
+                }
+              ]
+            },
+            {
+              "label": "progressive tractional retinal detachment",
+              "children": [
+                {
+                  "label": "(ROP stages 4, 5)"
+                }
+              ]
+            },
+            {
+              "label": "dense, white, fibrovascular plaque behind the lens",
+              "children": [
+                {
+                  "label": "retrolental fibroplasia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Retinopathy of Prematurity (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 190,
+      "connector_rejected": 14,
+      "connector_edges": 106,
+      "connector_width": 1.284,
+      "text_labels": 100,
+      "tree_nodes": 100,
+      "component_roots": 5,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.5579,
+      "root_font_size": 5.562,
+      "warnings": []
+    }
+  }
+}

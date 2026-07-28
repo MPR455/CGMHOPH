@@ -1,0 +1,320 @@
+{
+  "label": "4.17.2. Melanocytic Tumors (II): Iris Melanoma",
+  "root": true,
+  "children": [
+    {
+      "label": "clinical",
+      "children": [
+        {
+          "label": "3-10% of uveal melanomas"
+        },
+        {
+          "label": "amelanotic to dark brown"
+        },
+        {
+          "label": "inferior iris",
+          "children": [
+            {
+              "label": "75%"
+            }
+          ]
+        },
+        {
+          "label": "growth pattern",
+          "children": [
+            {
+              "label": "nodular"
+            },
+            {
+              "label": "diffuse",
+              "children": [
+                {
+                  "label": "rare"
+                },
+                {
+                  "label": "unilateral acquired hyperchromic heterochromia"
+                },
+                {
+                  "label": "secondary glaucoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "differential diagnosis of iris nodules",
+      "children": [
+        {
+          "label": "Brushfield spots",
+          "children": [
+            {
+              "label": "Down syndrome",
+              "children": [
+                {
+                  "label": "85%"
+                }
+              ]
+            },
+            {
+              "label": "normal population",
+              "children": [
+                {
+                  "label": "25%"
+                }
+              ]
+            },
+            {
+              "label": "normal iris stroma surrounded by rim of mild iris hypoplasia"
+            }
+          ]
+        },
+        {
+          "label": "epithelial invasion/serous cyst/solid or pearl cyst/implantation membrane",
+          "children": [
+            {
+              "label": "following trauma/surgery"
+            }
+          ]
+        },
+        {
+          "label": "iris nevus"
+        },
+        {
+          "label": "retained foreign body"
+        },
+        {
+          "label": "fungal endophthalmitis",
+          "children": [
+            {
+              "label": "yellow-white mass"
+            },
+            {
+              "label": "+- hypopyon"
+            }
+          ]
+        },
+        {
+          "label": "iridocyclitis",
+          "children": [
+            {
+              "label": "Koeppe nodules"
+            },
+            {
+              "label": "Busacca nodules"
+            },
+            {
+              "label": "peripheral anterior synechiae"
+            }
+          ]
+        },
+        {
+          "label": "iris freckle",
+          "children": [
+            {
+              "label": "increased pigmentation of anterior border layer melanocytes",
+              "children": [
+                {
+                  "label": "no increased melanocyte number!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "iris nevus"
+        },
+        {
+          "label": "iridocorneal endothelial syndrome (iris nevus syndrome)"
+        },
+        {
+          "label": "iris pigment epithelial cyst"
+        },
+        {
+          "label": "iris pigment epithelial proliferation",
+          "children": [
+            {
+              "label": "black velvety appearance"
+            }
+          ]
+        },
+        {
+          "label": "juvenile xanthogranuloma",
+          "children": [
+            {
+              "label": "first year of life"
+            },
+            {
+              "label": "spontaneous hyphema"
+            },
+            {
+              "label": "spontaneous regression"
+            }
+          ]
+        },
+        {
+          "label": "leiomyoma",
+          "children": [
+            {
+              "label": "lightly pigmented"
+            }
+          ]
+        },
+        {
+          "label": "leukemia",
+          "children": [
+            {
+              "label": "milky lesions"
+            },
+            {
+              "label": "intense hyperemia"
+            },
+            {
+              "label": "pseudohypopyon"
+            }
+          ]
+        },
+        {
+          "label": "Lisch nodules",
+          "children": [
+            {
+              "label": "neurofibromatosis"
+            },
+            {
+              "label": "tan to dark brown"
+            },
+            {
+              "label": "collections of nevus cells"
+            }
+          ]
+        },
+        {
+          "label": "melanocytosis"
+        },
+        {
+          "label": "melanoma"
+        },
+        {
+          "label": "metastatic carcinoma"
+        },
+        {
+          "label": "retinoblastoma",
+          "children": [
+            {
+              "label": "+- pseudohypopyon"
+            }
+          ]
+        },
+        {
+          "label": "tapioca melanoma"
+        },
+        {
+          "label": "iris atrophy"
+        },
+        {
+          "label": "retained lens material"
+        }
+      ]
+    },
+    {
+      "label": "signs suggesting malignancy",
+      "children": [
+        {
+          "label": "extensive ectropion iridis"
+        },
+        {
+          "label": "prominent vascularity"
+        },
+        {
+          "label": "sectoral cataract"
+        },
+        {
+          "label": "secondary glaucoma"
+        },
+        {
+          "label": "angle seeding"
+        },
+        {
+          "label": "progressive growth"
+        },
+        {
+          "label": "larger lesion size"
+        },
+        {
+          "label": "extrascleral extension"
+        }
+      ]
+    },
+    {
+      "label": "diagnosis",
+      "children": [
+        {
+          "label": "high-frequency ultrasonography"
+        },
+        {
+          "label": "fluorescein angiography",
+          "children": [
+            {
+              "label": "intrinsic vascularity"
+            },
+            {
+              "label": "limited value"
+            }
+          ]
+        },
+        {
+          "label": "biopsy"
+        }
+      ]
+    },
+    {
+      "label": "prognosis",
+      "children": [
+        {
+          "label": "low mortality rate",
+          "children": [
+            {
+              "label": "1-4%"
+            },
+            {
+              "label": "lower than ciliary body or choroidal melanoma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "excision"
+        },
+        {
+          "label": "brachytherapy"
+        },
+        {
+          "label": "proton-beam radiotherapy"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.17.2. Melanocytic Tumors (II) - Iris Melanoma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 154,
+      "connector_rejected": 3,
+      "connector_edges": 113,
+      "connector_width": 1.971,
+      "text_labels": 83,
+      "tree_nodes": 83,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.7338,
+      "root_font_size": 6.571,
+      "warnings": []
+    }
+  }
+}

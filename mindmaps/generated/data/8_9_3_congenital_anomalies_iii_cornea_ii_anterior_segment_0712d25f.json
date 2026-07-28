@@ -1,0 +1,494 @@
+{
+  "label": "8.9.3. Congenital Anomalies (III): Cornea (II): Anterior Segment Dysgenesis",
+  "root": true,
+  "children": [
+    {
+      "label": "Posterior embryotoxon",
+      "children": [
+        {
+          "label": "Schwalbe line is visible in 8%–30% of normal eyes",
+          "children": [
+            {
+              "label": "opaque ridge 0.5–2.0 mm central to the limbus"
+            }
+          ]
+        },
+        {
+          "label": "thickened and anteriorly displaced schwalbe line",
+          "children": [
+            {
+              "label": "visible by external examination!"
+            },
+            {
+              "label": "bilateral"
+            }
+          ]
+        },
+        {
+          "label": "eye is usually normal",
+          "children": [
+            {
+              "label": "autosomal dominant"
+            }
+          ]
+        },
+        {
+          "label": "ocular or systemic syndromes",
+          "children": [
+            {
+              "label": "arteriohepatic dysplasia (Alagille syndrome)"
+            },
+            {
+              "label": "X-linked ichthyosis"
+            },
+            {
+              "label": "familial aniridia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sclerocornea",
+      "children": [
+        {
+          "label": "transmission",
+          "children": [
+            {
+              "label": "sporadic"
+            },
+            {
+              "label": "autosomal dominant and recessive"
+            }
+          ]
+        },
+        {
+          "label": "no sex predilection"
+        },
+        {
+          "label": "bilateral",
+          "children": [
+            {
+              "label": "90%"
+            }
+          ]
+        },
+        {
+          "label": "scleralization of the cornea",
+          "children": [
+            {
+              "label": "corneal periphery or the entire cornea"
+            },
+            {
+              "label": "superficial vessels cross the cornea"
+            }
+          ]
+        },
+        {
+          "label": "cornea plana",
+          "children": [
+            {
+              "label": "80%"
+            }
+          ]
+        },
+        {
+          "label": "systemic anomalies",
+          "children": [
+            {
+              "label": "angle structures are also commonly malformed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "limbus is usually ill-defined"
+    },
+    {
+      "label": "Axenfeld-Rieger syndrome",
+      "children": [
+        {
+          "label": "transmission",
+          "children": [
+            {
+              "label": "sporadic",
+              "children": [
+                {
+                  "label": "autosomal dominant (75%)",
+                  "children": [
+                    {
+                      "label": "chromosome region 6p25 (forkhead genes)"
+                    }
+                  ]
+                },
+                {
+                  "label": "anteriorly displaced schwalbe line (posterior embryotoxon)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "attached iris strands"
+            },
+            {
+              "label": "glaucoma",
+              "children": [
+                {
+                  "label": "50%"
+                },
+                {
+                  "label": "late childhood or in adulthood"
+                }
+              ]
+            },
+            {
+              "label": "associated skeletal, cranial, facial, and dental abnormalities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Circumscribed posterior keratoconus",
+      "children": [
+        {
+          "label": "localized central or paracentral indentation of the posterior cornea",
+          "children": [
+            {
+              "label": "without any protrusion of the anterior surface!"
+            },
+            {
+              "label": "in contrast to Peter anomaly"
+            }
+          ]
+        },
+        {
+          "label": "corneal thinning"
+        },
+        {
+          "label": "overlying stromal haze"
+        },
+        {
+          "label": "focal deposits of pigmentation and guttae",
+          "children": [
+            {
+              "label": "Descemet membrane and endothelium are usually present"
+            },
+            {
+              "label": "at the margins of the opacity"
+            }
+          ]
+        },
+        {
+          "label": "amblyopia",
+          "children": [
+            {
+              "label": "irregular astigmatism"
+            }
+          ]
+        },
+        {
+          "label": "sporadic",
+          "children": [
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "nonprogressive"
+            }
+          ]
+        },
+        {
+          "label": "autosomal recessive form",
+          "children": [
+            {
+              "label": "short stature"
+            },
+            {
+              "label": "intellectual disability",
+              "children": [
+                {
+                  "label": "similar to Peters plus"
+                }
+              ]
+            },
+            {
+              "label": "cleft lip and palate"
+            },
+            {
+              "label": "vertebral anomalies"
+            },
+            {
+              "label": "bilateral"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Peters anomaly",
+      "children": [
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "most cases are sporadic"
+            },
+            {
+              "label": "autosomal recessive and dominant",
+              "children": [
+                {
+                  "label": "mutations in",
+                  "children": [
+                    {
+                      "label": "PAX6 gene (11p13)"
+                    },
+                    {
+                      "label": "PITX2 gene (4q25-26)"
+                    },
+                    {
+                      "label": "CYP1B1 gene (2p22-21)"
+                    },
+                    {
+                      "label": "FOXC1 gene (6p25)",
+                      "children": [
+                        {
+                          "label": "See under Axendeld-Rieger"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "central corneal opacity"
+            },
+            {
+              "label": "localized absence of the corneal endothelium and Descemet membrane"
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "type I",
+                  "children": [
+                    {
+                      "label": "iridocorneal adhesions"
+                    },
+                    {
+                      "label": "better prognosis for vision rehabilitation with corneal transplantation"
+                    }
+                  ]
+                },
+                {
+                  "label": "type II",
+                  "children": [
+                    {
+                      "label": "cataractous lens or corneolenticular adhesions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "associated ocular abnormalities",
+              "children": [
+                {
+                  "label": "congenital glaucoma"
+                },
+                {
+                  "label": "microcornea"
+                },
+                {
+                  "label": "aniridia"
+                },
+                {
+                  "label": "bilateral cases associated with systemic malformations"
+                }
+              ]
+            },
+            {
+              "label": "bilateral>unilateral"
+            },
+            {
+              "label": "systemic involvement",
+              "children": [
+                {
+                  "label": "PFV"
+                },
+                {
+                  "label": "Peters plus syndrome",
+                  "children": [
+                    {
+                      "label": "cleft lip/palate"
+                    },
+                    {
+                      "label": "short stature"
+                    },
+                    {
+                      "label": "external ear abnormalities"
+                    },
+                    {
+                      "label": "intellectual disability"
+                    },
+                    {
+                      "label": "other systemic malformations",
+                      "children": [
+                        {
+                          "label": "heart defects"
+                        },
+                        {
+                          "label": "hearing loss"
+                        },
+                        {
+                          "label": "central nervous system deficits"
+                        },
+                        {
+                          "label": "spinal defects"
+                        },
+                        {
+                          "label": "gastrointestinal and genitourinary defects"
+                        },
+                        {
+                          "label": "skeletal anomalies"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "systemic malformations may be associated with genetically transmitted syndromes",
+                      "children": [
+                        {
+                          "label": "trisomy 13–15",
+                          "children": [
+                            {
+                              "label": "not trisomy 21 !"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Peters plus syndrome"
+                        },
+                        {
+                          "label": "Kivlin syndrome"
+                        },
+                        {
+                          "label": "Pfeiffer syndrome"
+                        },
+                        {
+                          "label": "exception rather than the rule"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Keratectasia & congenital anterior staphyloma",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "unilateral"
+        },
+        {
+          "label": "sporadic"
+        },
+        {
+          "label": "cornea",
+          "children": [
+            {
+              "label": "opaque"
+            },
+            {
+              "label": "thin"
+            },
+            {
+              "label": "protruded",
+              "children": [
+                {
+                  "label": "lined by uvea",
+                  "children": [
+                    {
+                      "label": "congenital anterior staphyloma"
+                    }
+                  ]
+                },
+                {
+                  "label": "not lined by uvea",
+                  "children": [
+                    {
+                      "label": "keratectasia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "absent Descemet membrane and endothelium"
+            }
+          ]
+        },
+        {
+          "label": "disorganized anterior segment"
+        },
+        {
+          "label": "lens occasionally adheres to cornea",
+          "children": [
+            {
+              "label": "resembles unilateral Peters anomaly"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "PK"
+            },
+            {
+              "label": "sclerokeratoplasty"
+            },
+            {
+              "label": "poor visual prognosis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.9.3. Congenital Anomalies (III) - Cornea (II) - Anterior Segment Dysgenesis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 239,
+      "connector_rejected": 10,
+      "connector_edges": 164,
+      "connector_width": 1.286,
+      "text_labels": 127,
+      "tree_nodes": 127,
+      "component_roots": 7,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.6862,
+      "root_font_size": 3.643,
+      "warnings": []
+    }
+  }
+}

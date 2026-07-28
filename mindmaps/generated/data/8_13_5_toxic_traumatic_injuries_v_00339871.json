@@ -1,0 +1,349 @@
+{
+  "label": "8.13.5. Toxic & Traumatic Injuries (V)",
+  "root": true,
+  "children": [
+    {
+      "label": "Traumatic Iritis",
+      "children": [
+        {
+          "label": "within 24 hours after injury"
+        },
+        {
+          "label": "photophobia"
+        },
+        {
+          "label": "tearing"
+        },
+        {
+          "label": "ocular pain"
+        },
+        {
+          "label": "diminished vision"
+        },
+        {
+          "label": "perilimbal conjunctival injection"
+        },
+        {
+          "label": "anterior chamber reaction can be surprisingly minimal"
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "topical cycloplegia"
+            },
+            {
+              "label": "topical corticosteroids",
+              "children": [
+                {
+                  "label": "if significant inflammation"
+                },
+                {
+                  "label": "taper slowly to prevent rebound iritis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Subconjunctival Hemorrhage",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "spontaneous",
+              "children": [
+                {
+                  "label": "usually not associated with an underlying systemic disease",
+                  "children": [
+                    {
+                      "label": "uncontrolled hypertension"
+                    },
+                    {
+                      "label": "diabetes mellitus"
+                    },
+                    {
+                      "label": "bleeding diathesis"
+                    }
+                  ]
+                },
+                {
+                  "label": "Valsalva maneuver",
+                  "children": [
+                    {
+                      "label": "vomiting"
+                    },
+                    {
+                      "label": "coughing"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "trauma",
+              "children": [
+                {
+                  "label": "damage to deeper structures of the eye must be ruled out"
+                }
+              ]
+            },
+            {
+              "label": "Table 13-3"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "reassurance",
+              "children": [
+                {
+                  "label": "resolves in 7–12 days"
+                },
+                {
+                  "label": "hemorrhage might spread around the circumference of the globe"
+                },
+                {
+                  "label": "may change in color from red to yellow"
+                }
+              ]
+            },
+            {
+              "label": "medical evaluation",
+              "children": [
+                {
+                  "label": "repeated episodes of spontaneous subconjunctival hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "dellen may occur",
+              "children": [
+                {
+                  "label": "intensive topical lubrication",
+                  "children": [
+                    {
+                      "label": "possible bleeding diathesis (easy bruising, frequent bloody noses)"
+                    }
+                  ]
+                },
+                {
+                  "label": "patching"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Corneal Changes",
+      "children": [
+        {
+          "label": "abrasions"
+        },
+        {
+          "label": "edema"
+        },
+        {
+          "label": "tears in Descemet membrane"
+        },
+        {
+          "label": "corneoscleral lacerations",
+          "children": [
+            {
+              "label": "at the limbus"
+            }
+          ]
+        },
+        {
+          "label": "traumatic corneal endothelial rings (traumatic posterior annular keratopathy)",
+          "children": [
+            {
+              "label": "disrupted and swollen endothelial cells"
+            },
+            {
+              "label": "whitish gray"
+            },
+            {
+              "label": "directly posterior to the traumatic impact"
+            },
+            {
+              "label": "appear within several hours of a contusive injury",
+              "children": [
+                {
+                  "label": "disappear within a few days"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Iridodialysis and Cyclodialysis",
+      "children": [
+        {
+          "label": "Iridodialysis",
+          "children": [
+            {
+              "label": "separation of the iris root from the ciliary body"
+            },
+            {
+              "label": "+- anterior segment hemorrhage"
+            },
+            {
+              "label": "small iridodialysis",
+              "children": [
+                {
+                  "label": "requires no treatment"
+                }
+              ]
+            },
+            {
+              "label": "large dialysis",
+              "children": [
+                {
+                  "label": "polycoria",
+                  "children": [
+                    {
+                      "label": "monocular diplopia"
+                    }
+                  ]
+                },
+                {
+                  "label": "surgical repair"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Cyclodialysis",
+          "children": [
+            {
+              "label": "gonioscopy",
+              "children": [
+                {
+                  "label": "separation of the ciliary body from the scleral spur"
+                },
+                {
+                  "label": "cleft at the junction of the scleral spur and the ciliary body band",
+                  "children": [
+                    {
+                      "label": "sclera may be visible through the disrupted tissue"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ultrasound biomicroscopy",
+              "children": [
+                {
+                  "label": "increased uveoscleral outflow"
+                }
+              ]
+            },
+            {
+              "label": "aqueous hyposecretion",
+              "children": [
+                {
+                  "label": "chronic hypotony",
+                  "children": [
+                    {
+                      "label": "macular edema"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "topical cycloplegia"
+                },
+                {
+                  "label": "argon laser"
+                },
+                {
+                  "label": "diathermy"
+                },
+                {
+                  "label": "cryotherapy"
+                },
+                {
+                  "label": "direct suturing",
+                  "children": [
+                    {
+                      "label": "after the resolution of the hyphema"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Traumatic Mydriasis and Miosis",
+      "children": [
+        {
+          "label": "traumatic mydriasis",
+          "children": [
+            {
+              "label": "associated with iris sphincter tears"
+            }
+          ]
+        },
+        {
+          "label": "traumatic miosis",
+          "children": [
+            {
+              "label": "less common"
+            },
+            {
+              "label": "associated with anterior chamber inflammation (traumatic iritis)"
+            }
+          ]
+        },
+        {
+          "label": "pupillary reactivity may be sluggish in both situations"
+        },
+        {
+          "label": "cycloplegia",
+          "children": [
+            {
+              "label": "to prevent formation of posterior synechiae"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.13.5. Toxic & Traumatic Injuries (V).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 146,
+      "connector_rejected": 5,
+      "connector_edges": 100,
+      "connector_width": 1.708,
+      "text_labels": 86,
+      "tree_nodes": 86,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6849,
+      "root_font_size": 4.839,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "label": "10.6.5. Childhood Glaucoma (V): Medical Management",
+  "root": true,
+  "children": [
+    {
+      "label": "medications can be used",
+      "children": [
+        {
+          "label": "surgical management is the mainstay of PCG care"
+        },
+        {
+          "label": "to lower IOP before surgery",
+          "children": [
+            {
+              "label": "to reduce corneal edema and improve visualization"
+            }
+          ]
+        },
+        {
+          "label": "to provide additional IOP lowering after surgical procedures"
+        },
+        {
+          "label": "for forms of childhood glaucoma other than PCG",
+          "children": [
+            {
+              "label": "JOAG"
+            },
+            {
+              "label": "inflammatory glaucoma"
+            },
+            {
+              "label": "aphakic glaucoma"
+            },
+            {
+              "label": "other secondary glaucomas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "crosses the blood–brain barrier and therefore has significant effects on the central nervous system",
+      "children": [
+        {
+          "label": "apnea"
+        },
+        {
+          "label": "CNS side effects",
+          "children": [
+            {
+              "label": "hypotension"
+            },
+            {
+              "label": "bradycardia"
+            },
+            {
+              "label": "hypotonia"
+            },
+            {
+              "label": "hypothermia"
+            },
+            {
+              "label": "somnolence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "α-Adrenergic agonists",
+      "children": [
+        {
+          "label": "mechanism of action",
+          "children": [
+            {
+              "label": "reduce aqueous production"
+            },
+            {
+              "label": "α2-adrenergic agonist",
+              "children": [
+                {
+                  "label": "increase uveoscleral outflow"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "brimonidine",
+          "children": [
+            {
+              "label": "crosses the blood–brain barrier"
+            },
+            {
+              "label": "caution in children 3-10 years",
+              "children": [
+                {
+                  "label": "contraindicated in children <3 years"
+                },
+                {
+                  "label": "use lowest dose"
+                },
+                {
+                  "label": "use punctal occlusion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "greater affinity for α1-receptors than brimonidine"
+        },
+        {
+          "label": "apraclonidine",
+          "children": [
+            {
+              "label": "better tolerated systemically in children"
+            },
+            {
+              "label": "risk of follicular conjunctivitis",
+              "children": [
+                {
+                  "label": "increases with long-term use"
+                }
+              ]
+            },
+            {
+              "label": "vasoconstrictor",
+              "children": [
+                {
+                  "label": "can be used to minimize bleeding during surgery"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "β-Adrenergic antagonists (blockers)",
+      "children": [
+        {
+          "label": "decrease aqueous production"
+        },
+        {
+          "label": "first-line therapy for glaucoma in children"
+        },
+        {
+          "label": "systemic complications",
+          "children": [
+            {
+              "label": "bronchospasm"
+            },
+            {
+              "label": "bradycardia"
+            },
+            {
+              "label": "hypotension"
+            },
+            {
+              "label": "avoid in children with asthma or significant cardiac disease"
+            },
+            {
+              "label": "risk of adverse effects can be diminished by",
+              "children": [
+                {
+                  "label": "occluding the nasolacrimal drainage system for 3 minutes after administration of the medication"
+                },
+                {
+                  "label": "prescribing timolol 0.25% or levobunolol 0.25%",
+                  "children": [
+                    {
+                      "label": "patients with lighter irides respond as well to 0.25% solutions"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "less selective α2-adrenergic action than brimonidine"
+    },
+    {
+      "label": "Cholinergic agonists",
+      "children": [
+        {
+          "label": "increase aqueous outflow through the trabecular meshwork"
+        },
+        {
+          "label": "rarely used on a long-term basis"
+        },
+        {
+          "label": "induce miosis",
+          "children": [
+            {
+              "label": "facilitate angle surgery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "brinzolamide"
+    },
+    {
+      "label": "Carbonic anhydrase inhibitors",
+      "children": [
+        {
+          "label": "reduce aqueous production"
+        },
+        {
+          "label": "topical",
+          "children": [
+            {
+              "label": "dorzolamide",
+              "children": [
+                {
+                  "label": "no BAK-free"
+                }
+              ]
+            },
+            {
+              "label": "minimal systemic side effects"
+            },
+            {
+              "label": "second-line therapy after topical β-adrenergic antagonists"
+            },
+            {
+              "label": "some concern in eyes with compromised corneas or after corneal transplantation",
+              "children": [
+                {
+                  "label": "not absolute contraindications"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic",
+          "children": [
+            {
+              "label": "acetazolamide"
+            },
+            {
+              "label": "methazolamide"
+            },
+            {
+              "label": "pediatric dosage of acetazolamide",
+              "children": [
+                {
+                  "label": "slightly more IOP lowering than topical preparations"
+                },
+                {
+                  "label": "10–20 mg/kg/day"
+                }
+              ]
+            },
+            {
+              "label": "systemic side effects",
+              "children": [
+                {
+                  "label": "anorexia"
+                },
+                {
+                  "label": "diarrhea"
+                },
+                {
+                  "label": "weight loss"
+                },
+                {
+                  "label": "tingling of the perioral areas and finger"
+                },
+                {
+                  "label": "hypokalemia"
+                },
+                {
+                  "label": "metabolic acidosis"
+                },
+                {
+                  "label": "rare life-threatening reactions",
+                  "children": [
+                    {
+                      "label": "Stevens-Johnson syndrome"
+                    },
+                    {
+                      "label": "aplastic anemia"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Prognosis and Follow-Up",
+      "children": [
+        {
+          "label": "prognosis for pediatric glaucoma has improved",
+          "children": [
+            {
+              "label": "IOP can be controlled with angle surgery in 80%"
+            },
+            {
+              "label": "good prognosis",
+              "children": [
+                {
+                  "label": "asymptomatic at birth with onset of symptoms 3 - 12 months of age"
+                }
+              ]
+            },
+            {
+              "label": "guarded prognosis",
+              "children": [
+                {
+                  "label": "symptoms are present at birth"
+                },
+                {
+                  "label": "disease is diagnosed >12 months of age"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular morbidities",
+          "children": [
+            {
+              "label": "amblyopia",
+              "children": [
+                {
+                  "label": "a common cause of visual compromise"
+                },
+                {
+                  "label": "etiology",
+                  "children": [
+                    {
+                      "label": "corneal opacification",
+                      "children": [
+                        {
+                          "label": "unilateral glaucoma"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "anisometropia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "corneal scarring",
+              "children": [
+                {
+                  "label": "may cause astigmatism"
+                }
+              ]
+            },
+            {
+              "label": "strabismus",
+              "children": [
+                {
+                  "label": "etiology",
+                  "children": [
+                    {
+                      "label": "glaucoma drainage devices"
+                    },
+                    {
+                      "label": "amblyopia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "progressive myopia and anisometropia",
+              "children": [
+                {
+                  "label": "in patients with juvenile glaucoma"
+                },
+                {
+                  "label": "should be corrected with spectacles"
+                }
+              ]
+            },
+            {
+              "label": "buphthalmos",
+              "children": [
+                {
+                  "label": "in patients with PCG"
+                }
+              ]
+            },
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "lens subluxation"
+            },
+            {
+              "label": "susceptibility to trauma",
+              "children": [
+                {
+                  "label": "protective eyewear"
+                }
+              ]
+            },
+            {
+              "label": "recurrent glaucoma",
+              "children": [
+                {
+                  "label": "minimize conjunctival scarring in anticipation of future glaucoma surgeries"
+                },
+                {
+                  "label": "be cognizant of the sites of prior trabeculectomies/glaucoma drainage device implants"
+                },
+                {
+                  "label": "relapses of glaucoma may occur even years later"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lifelong follow-up",
+          "children": [
+            {
+              "label": "educate parents about the need for lifelong care"
+            },
+            {
+              "label": "involve these children in their own care"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Prostaglandin analogues",
+      "children": [
+        {
+          "label": "increase uveoscleral outflow"
+        },
+        {
+          "label": "lower IOP in JOAG"
+        },
+        {
+          "label": "once-daily dosing"
+        },
+        {
+          "label": "adverse effects",
+          "children": [
+            {
+              "label": "minimal systemic side effects in children"
+            },
+            {
+              "label": "can exacerbate uveitis in postoperative glaucoma patients",
+              "children": [
+                {
+                  "label": "should be avoided with uncontrolled uveitis"
+                }
+              ]
+            },
+            {
+              "label": "conjunctival hyperemia"
+            },
+            {
+              "label": "hypertrichiasis"
+            },
+            {
+              "label": "periocular pigmentation (reversible)"
+            },
+            {
+              "label": "darkening of irides (permanent)",
+              "children": [
+                {
+                  "label": "does not develop in blue-eyed patients"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.6.5. Childhood Glaucoma (V) - Medical Management.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 216,
+      "connector_rejected": 0,
+      "connector_edges": 157,
+      "connector_width": 0.995,
+      "text_labels": 131,
+      "tree_nodes": 131,
+      "component_roots": 10,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.7269,
+      "root_font_size": 4.975,
+      "warnings": []
+    }
+  }
+}

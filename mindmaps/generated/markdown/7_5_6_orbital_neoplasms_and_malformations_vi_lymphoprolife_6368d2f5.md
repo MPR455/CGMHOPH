@@ -1,0 +1,243 @@
+---
+title: "7.5.6. Orbital Neoplasms and Malformations (VI): Lymphoproliferative Disorders"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.5.6. Orbital Neoplasms and Malformations (VI) - Lymphoproliferative Disorders.pdf"
+---
+
+# 7.5.6. Orbital Neoplasms and Malformations (VI): Lymphoproliferative Disorders
+
+## Images
+
+![Figure 7.5.13 (© 2020 American Academy of Ophthalmology)](../img/7_5_6_orbital_neoplasms_and_malformations_vi_lymphoprolife_6368d2f5_01.png)
+
+## Hierarchy
+
+- Xanthogranuloma
+  - adult xanthogranuloma of the adnexa and orbit is often associated with systemic manifestations
+  - 4 syndromes
+    - necrobiotic xanthogranuloma (NBX)
+      - subcutaneous lesions
+        - eyelids and anterior orbit
+        - may occur throughout the body
+        - have a propensity to ulcerate and fibrose
+      - systemic findings
+        - paraproteinemia
+        - multiple myeloma
+    - adult-onset asthma with periocular xanthogranuloma (AAPOX)
+      - periocular xanthogranuloma
+      - asthma
+      - lymphadenopathy
+      - increased immunoglobulin G levels
+    - Erdheim-Chester disease (ECD)
+      - most devastating of the adult xanthogranulomas
+        - death frequent
+          - despite aggressive therapy!
+      - dense, progressive, recalcitrant fibrosclerosis of
+        - orbit
+          - diffuse xanthogranuloma of the orbit and adnexa
+            - xanthogranuloma of the orbit and adnexa tends to be anterior in NBX, AAPOX, and AOX
+            - leads to vision loss
+        - internal organs
+        - mediastinum
+        - pericardium
+        - pleural space
+        - perinephric space
+        - retroperitoneal space
+        - bone involvement is common
+    - adult-onset xanthogranuloma (AOX)
+      - isolated xanthogranulomatous lesion without systemic involvement
+      - juvenile xanthogranuloma
+        - focal subcutaneous disease of childhood
+        - self-limited
+        - corticosteroid-sensitive
+- Lymphoid Hyperplasia and Lymphoma
+  - Introduction
+    - 20% of all orbital tumors
+    - % of orbital lymphoproliferative lesions designated as malignant lymphoma
+      - 70%–80% on the basis of monoclonal cell- surface markers
+      - 90% based on molecular genetic studies
+    - over time, some conjunctival lymphoid lesions fluctuate between being monoclonal and polyclonal
+    - incidence of non-Hodgkin lymphoma (NHL) of all anatomical sites has been increasing
+      - 3–4% /year
+      - 50% over the last 20 years
+      - NHL is the 4th most common malignancy among men and women
+      - incidence of orbital lymphomas has been increasing at an even greater rate
+    - risk factors for NHL
+      - older adults
+      - patients with chronic autoimmune diseases
+      - long-term exposure to bioactive solvents and reagents
+  - Classification of NHL
+    - largely based on nodal architecture
+    - Revised European-American Lymphoma (REAL) classification
+      - includes extranodal sites, including orbit
+    - orbital extranodal NHL appears to represent a biological continuum and to behave unpredictably
+      - extraorbital lymphoma can develop in patients with orbital lymphoid infiltrates that appear benign histologically
+      - patients with malignant lymphoma of ocular adnexa may respond satisfactorily to local therapy without subsequent systemic involvement
+    - cell of origin
+      - most orbital lymphomas are derived from B cells
+        - Hodgkin lymphoma
+          - rarely metastasize to the orbit
+        - non-Hodgkin lymphoma
+          - malignant B-cell NHL accounts for >90% of orbital lymphoproliferative disease
+      - T-cell lymphoma is rare
+        - more lethal
+  - 4 most common types of orbital lymphomas
+    - mucosa-associated lymphoid tissue (MALT) lymphomas
+      - 40%–60%
+      - originally described as occurring in the gastrointestinal tract
+      - proliferation of early MALT tumors may be antigen driven
+        - therapy directed at the antigen (eg, against Helicobacter pylori in gastric lymphomas) may result in regression of early lesions
+        - some conjunctival MALT lymphomas are associated with chronic chlamydial infection
+      - in contrast to MALT lymphomas occurring in other areas of the body, those in the ocular adnexa do not appear to be preferentially associated with mucosal tissue (ie, conjunctiva, lacrimal gland)
+      - low grade of malignancy
+      - systemic disease at 10 years
+        - ≥ 50%
+      - spontaneous remission
+        - 5%–15%
+      - transformation to a higher-grade lesion (usually of a large cell type)
+        - 15%–20%
+        - occurs after several years and is not related to therapy
+    - chronic lymphocytic lymphoma (CLL)
+      - low-grade lesion of small, mature-appearing lymphocytes
+    - follicular center lymphoma
+      - low-grade
+      - follicular centers
+    - high-grade lymphomas
+      - large cell lymphoma
+      - lymphoblastic lymphoma
+      - Burkitt lymphoma
+  - Clinical presentation
+    - gradually progressive, painless mass
+      - low-grade lymphomas & reactive lymphoid hyperplasias show slow expansion over a period of months to years
+    - ≈ 17% bilateral
+      - does not necessarily indicate presence of extraorbital disease
+    - location
+      - anterior orbit
+      - beneath the conjunctiva
+        - salmon-patch appearance
+    - mold to surrounding orbital structures rather than invade them
+      - disturbances of extraocular motility or visual function are unusual
+    - ≤50% of orbital lymphoproliferative lesions arise in the lacrimal fossa
+    - orbital imaging
+      - characteristic puttylike molding of the tumor to normal structures
+      - bone erosion or infiltration is usually not seen
+        - except with high-grade malignant lymphomas
+    - lymphomas in the retrobulbar fat may appear more infiltrative
+    - systemic lymphoma
+      - 1/2 of periocular lymphomas
+        - 20%–30% have a history of previous or concomitant systemic disease
+        - 30% develop it over 5 years
+      - anatomical site of origin is predictive of systemic lymphoma
+        - eyelid>orbit>conjunctiva
+          - lymphoid lesions in the lacrimal fossa may carry a greater risk of systemic disease
+      - bilateral periocular involvement markedly increases the risk of systemic disease
+        - not a definitive evidence of systemic disease
+      - the risk of systemic disease is increased for decades after the original lesion is diagnosed, regardless of the initial lesion’s location in the orbit or its clonality
+  - Diagnosis
+    - technique
+      - open biopsy is preferred
+        - light microscopy (fixation)
+          - may reveal a continuum from reactive hyperplasia to low-grade lymphoma to higher- grade malignancy
+          - hypercellular proliferations with sparse or absent stromal components
+            - both reactive hyperplasia and malignant lymphoma
+        - majority of the specimen should be sent fresh to a molecular diagnostics laboratory
+          - for possible flow cytometry and polymerase chain reaction analysis
+      - fine-needle aspiration biopsy
+        - can provide adequate sample volume to establish all but the morphologic characteristics of the lesion
+    - immunologic identification of cell-surface markers on lymphocytes
+      - B cells
+      - T cells
+      - monoclonal
+      - polyclonal
+      - specific monoclonal antibodies directed against surface light-chain (κ or λ) immunoglobulins
+    - DNA hybridization
+      - extracting, amplifying, and hybridizing tumor DNA with radioactively labeled nucleotide probes
+      - more sensitive than cell-surface marker typing
+        - allow more precise identification of tumor clonality
+          - 90% of orbital lymphoproliferative disease is monoclonal
+          - 10% is polyclonal
+      - more time-consuming
+      - expensive
+      - DNA genetic studies have shown that most lymphoproliferative lesions that appear to be immunologically polyclonal actually harbor small monoclonal proliferations of B lymphocytes
+        - does not predict which tumors will ultimately result in systemic disease
+  - Management
+    - all patients with hypercellular lymphoid lesions should be examined by an oncologist
+      - general physical examination
+      - complete blood count
+      - bone marrow biopsy
+      - liver and spleen scan
+      - chest radiograph
+      - serum immunoprotein electrophoresis
+      - CT of the thorax and abdomen
+        - to check for mediastinal and retroperitoneal lymph node involvement
+      - patient should be reexamined periodically
+      - whether monoclonal or polyclonal!
+    - systemic corticosteroids
+      - are not recommended in the treatment of lymphoproliferative lesions
+    - radiotherapy
+      - treatment of choice
+        - achieves local control in virtually all cases
+      - 2000–3000 cGy
+    - surgical excision
+      - usually cannot be achieved because of the infiltrative nature of lymphoid tumors
+    - indolent lymphomas
+      - treatment of low-grade lymphoid lesions that have already undergone systemic dissemination is somewhat controversial
+      - generally refractory to chemotherapy
+      - are associated with long-term survival, even if untreated
+      - many oncologists take a watchful waiting approach
+        - treat only symptomatic disease
+    - agressive lymphomas require treatment
+      - radiotherapy
+      - aggressive chemotherapy
+      - ≤1/3 can be cured
+- Histiocytic Disorders
+  - Langerhans cell histiocytosis
+  - rare disorders of mononuclear phagocytic system
+  - pathogenesis
+    - abnormal immune regulation
+      - accumulation of proliferating dendritic histiocytes
+  - most commonly in children
+    - peak incidence between 5 - 10 years
+  - varies in severity from benign lesions with spontaneous resolution to chronic dissemination resulting in death
+  - classification
+    - unifocal eosinophilic granuloma of bone
+    - multifocal eosinophilic granuloma of bone
+    - diffuse soft tissue histiocytosis
+  - clinical presentation
+    - most frequent presentation in the orbit is a lytic defect
+      - superotemporal orbit
+      - sphenoid wing
+      - may cause proptosis
+    - relapsing episodes of orbital inflammation
+      - often initially misinterpreted as infectious orbital cellulitis
+    - younger children
+      - more often present with significant overlying soft-tissue inflammation
+  - prognosis
+    - survival rate
+      - <2 years
+        - only 50%
+          - more likely to have evidence of multifocal or systemic involvement
+            - younger patients require regular observation for detection of subsequent multiorgan involvement
+      - .>2 years
+        - 87%
+    - spontaneous remission has been reported
+    - involved bone usually reossifies completely
+  - treatment
+    - localized orbital disease
+      - confirmatory biopsy with debulking
+      - intralesional steroid injection
+      - low-dose radiation
+    - systemic disease
+      - aggressive chemotherapy
+- Plasma Cell Tumors
+  - much less common
+  - composed predominantly of mature plasma cells
+    - plasmacytomas
+    - localized plasma cell–rich pseudotumors
+  - some lesions are composed of lymphocytes and lymphoplasmacytoid cells
+  - multiple myeloma should be ruled out
+    - particularly if there is
+      - bone destruction
+      - immaturity or mitotic activity among the plasmacytic elements
+  - display the same spectrum of clinical involvement as do lymphoproliferative lesions

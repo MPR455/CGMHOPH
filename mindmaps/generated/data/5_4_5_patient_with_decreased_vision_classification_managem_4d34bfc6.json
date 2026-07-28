@@ -1,0 +1,479 @@
+{
+  "label": "5.4.5. Patient With Decreased Vision: Classification & Management (V): Optic neuropathy (IV)",
+  "root": true,
+  "children": [
+    {
+      "label": "more common"
+    },
+    {
+      "label": "Optic neuritis",
+      "children": [
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "retrobulbar",
+              "children": [
+                {
+                  "label": "normal optic disc appearance"
+                }
+              ]
+            },
+            {
+              "label": "papillitis",
+              "children": [
+                {
+                  "label": "1/3"
+                },
+                {
+                  "label": "disc edema",
+                  "children": [
+                    {
+                      "label": "hyperemic"
+                    },
+                    {
+                      "label": "diffuse"
+                    }
+                  ]
+                },
+                {
+                  "label": "papillitis more common in postviral & infectious neuritis than in demyelinating neuritis"
+                },
+                {
+                  "label": "children, in particular, manifest postviral optic neuritis and papillitis",
+                  "children": [
+                    {
+                      "label": "bilateral profound vision loss"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "in adults, the management of optic neuritis is similar with or without optic disc edema"
+        },
+        {
+          "label": "Optic Neuritis Treatment Trial",
+          "children": [
+            {
+              "label": "MS did not develop in patients who had normal MRI findings and severe papillitis, peripapillary hemorrhages, or retinal exudates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Anterior orbital compressive or infiltrative lesions",
+      "children": [
+        {
+          "label": "Compressive",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "anterior orbital mass"
+                },
+                {
+                  "label": "compressive lesions at the orbital apex may or may not result in disc edema"
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "optic disc edema"
+                },
+                {
+                  "label": "may occasionally lead to CRVO",
+                  "children": [
+                    {
+                      "label": "± optociliary shunt vessels (retinochoroidal collaterals)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Infiltrative",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "inflammatory",
+                  "children": [
+                    {
+                      "label": "focal granulomatous infiltration",
+                      "children": [
+                        {
+                          "label": "focal nodule on the disc surface"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "infectious"
+                },
+                {
+                  "label": "neoplastic"
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "optic disc edema"
+                },
+                {
+                  "label": "± visible prelaminar cellular infiltrate (diffuse or focal)",
+                  "children": [
+                    {
+                      "label": "grayish or yellowish discoloration",
+                      "children": [
+                        {
+                          "label": "denser and more opaque than in nonspecific edema"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "diagnostic workup for an infiltrative lesion",
+              "children": [
+                {
+                  "label": "indications",
+                  "children": [
+                    {
+                      "label": "edema and vision loss persist or progress in an atypical way"
+                    },
+                    {
+                      "label": "prelaminar infiltrate is visible"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Neuroretinitis",
+      "children": [
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "acute loss of vision associated with disc edema and a star pattern of exudates in the macula"
+            },
+            {
+              "label": "diffuse disc edema",
+              "children": [
+                {
+                  "label": "spreads through the outer plexiform layer along the papillomacular bundle and around the fovea"
+                },
+                {
+                  "label": "as the fluid resorbs, lipid precipitates in a characteristic radial pattern in Henle layer",
+                  "children": [
+                    {
+                      "label": "macular star",
+                      "children": [
+                        {
+                          "label": "can appear at initial presentation or several days later"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "± mild vitritis"
+            },
+            {
+              "label": "± choroidal lesions"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "patients with neuroretinitis do not have an increased risk of multiple sclerosis"
+            },
+            {
+              "label": "cat scratch disease",
+              "children": [
+                {
+                  "label": "most common cause of neuroretinitis"
+                },
+                {
+                  "label": "elevated IgM titers for Bartonella quintana or B henselae"
+                },
+                {
+                  "label": "no definitive evidence exists that corticosteroids and antibiotics reduce the impact of ocular bartonellosis causing neuroretinitis"
+                }
+              ]
+            },
+            {
+              "label": "toxoplasmosis"
+            },
+            {
+              "label": "tuberculosis"
+            },
+            {
+              "label": "syphilis"
+            },
+            {
+              "label": "sarcoidosis"
+            },
+            {
+              "label": "Lyme disease"
+            },
+            {
+              "label": "viruses"
+            }
+          ]
+        },
+        {
+          "label": "serologic testing for specific infections should be considered"
+        }
+      ]
+    },
+    {
+      "label": "Papillophlebitis",
+      "children": [
+        {
+          "label": "subset of CRVO in the young"
+        },
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "healthy, young patient"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "transient visual obscurations",
+                  "children": [
+                    {
+                      "label": "diabetic papillopathy Is unilateral or bilateral"
+                    }
+                  ]
+                },
+                {
+                  "label": "vague blurring of vision"
+                }
+              ]
+            },
+            {
+              "label": "visual acuity is typically normal or mildly diminished",
+              "children": [
+                {
+                  "label": "similar to diabetic papillopathy"
+                }
+              ]
+            },
+            {
+              "label": "pupils and color vision are normal"
+            },
+            {
+              "label": "marked retinal venous engorgement"
+            },
+            {
+              "label": "unusually prominent hyperemic disc edema"
+            },
+            {
+              "label": "retinal hemorrhages extending to the equatorial region"
+            }
+          ]
+        },
+        {
+          "label": "visual field",
+          "children": [
+            {
+              "label": "blind spot enlargement"
+            }
+          ]
+        },
+        {
+          "label": "fluorescein angiography",
+          "children": [
+            {
+              "label": "retinal venous staining and leakage"
+            },
+            {
+              "label": "circulatory slowing"
+            },
+            {
+              "label": "no capillary occlusion"
+            }
+          ]
+        },
+        {
+          "label": "workup for hypercoagulable disorders"
+        },
+        {
+          "label": "natural course",
+          "children": [
+            {
+              "label": "resolves spontaneously over 6–12 months",
+              "children": [
+                {
+                  "label": "similar to diabetic papillopathy"
+                }
+              ]
+            },
+            {
+              "label": "no vision loss or only mild impairment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Diabetic papillopathy",
+      "children": [
+        {
+          "label": "type 1 or type 2 diabetes mellitus"
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "mild, reversible ischemia"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "no symptoms"
+                },
+                {
+                  "label": "no pain"
+                },
+                {
+                  "label": "nonspecific symptoms of “blurred vision” or “distortion”"
+                }
+              ]
+            },
+            {
+              "label": "unilateral or bilateral"
+            },
+            {
+              "label": "hyperemic disc edema",
+              "children": [
+                {
+                  "label": "50% show marked dilation of the disc surface microvasculature",
+                  "children": [
+                    {
+                      "label": "appears similar to NVD",
+                      "children": [
+                        {
+                          "label": "NVD leaks fluorescein into the vitreous"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "diabetic retinopathy",
+              "children": [
+                {
+                  "label": "63%–80%",
+                  "children": [
+                    {
+                      "label": "absence of retinopathy does not preclude a diagnosis of diabetic papillopathy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "papilledema",
+              "children": [
+                {
+                  "label": "bilateral diabetic papillopathy warrants investigation to rule out papilledema"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "no proven therapy"
+        },
+        {
+          "label": "clinical course & prognosis",
+          "children": [
+            {
+              "label": "resolve slowly over 2–10 months",
+              "children": [
+                {
+                  "label": "optic atrophy (20%)"
+                }
+              ]
+            },
+            {
+              "label": "visual prognosis depends on accompanying diabetic retinopathy",
+              "children": [
+                {
+                  "label": "rarely diabetic papillopathy progresses to AION"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.4.5. Patient With Decreased Vision - Classification & Management (V) - Optic neuropathy (IV).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 205,
+      "connector_rejected": 8,
+      "connector_edges": 135,
+      "connector_width": 0.936,
+      "text_labels": 118,
+      "tree_nodes": 118,
+      "component_roots": 6,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6585,
+      "root_font_size": 3.509,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "label": "Traumatic Hyphema",
+  "root": true,
+  "children": [
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "traumatic hyphema"
+        }
+      ]
+    },
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "15-year-old male was struck in the eye with a paint ball"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "anterior segment photo shows hyphema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "traumatic hyphema"
+        },
+        {
+          "label": "recent ocular surgery"
+        },
+        {
+          "label": "iris neovascularization",
+          "children": [
+            {
+              "label": "diabetes"
+            }
+          ]
+        },
+        {
+          "label": "iris microhemangiomatosis"
+        },
+        {
+          "label": "iris tumors (melanoma)"
+        },
+        {
+          "label": "Fuchs heterochromic iridocyclitis"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "bed rest",
+              "children": [
+                {
+                  "label": "or limited activity"
+                }
+              ]
+            },
+            {
+              "label": "elevate head of bed"
+            },
+            {
+              "label": "eye shield",
+              "children": [
+                {
+                  "label": "avoid eye patch"
+                }
+              ]
+            },
+            {
+              "label": "cycloplegia"
+            },
+            {
+              "label": "topical steroid",
+              "children": [
+                {
+                  "label": "indications",
+                  "children": [
+                    {
+                      "label": "deep pain"
+                    },
+                    {
+                      "label": "photophobia"
+                    },
+                    {
+                      "label": "ciliary flush"
+                    },
+                    {
+                      "label": "protein in AC"
+                    },
+                    {
+                      "label": "WBC in AC"
+                    },
+                    {
+                      "label": "lens capsular rupture"
+                    }
+                  ]
+                },
+                {
+                  "label": "taper quickly"
+                }
+              ]
+            },
+            {
+              "label": "tylenol for pain",
+              "children": [
+                {
+                  "label": "avoid sedatives/narcotics",
+                  "children": [
+                    {
+                      "label": "do not abruptly stop ASA without consulting patient's PCP"
+                    }
+                  ]
+                },
+                {
+                  "label": "avoid aspirin/NSAID"
+                }
+              ]
+            },
+            {
+              "label": "glaucoma medication",
+              "children": [
+                {
+                  "label": "no SS",
+                  "children": [
+                    {
+                      "label": "if IOP>30 mm Hg",
+                      "children": [
+                        {
+                          "label": "start with beta-blockers"
+                        },
+                        {
+                          "label": "add",
+                          "children": [
+                            {
+                              "label": "topical CAI"
+                            },
+                            {
+                              "label": "alpha-agonists",
+                              "children": [
+                                {
+                                  "label": "not < age 2 years",
+                                  "children": [
+                                    {
+                                      "label": "oral acetazolamide"
+                                    },
+                                    {
+                                      "label": "IV mannitol"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "SS",
+                  "children": [
+                    {
+                      "label": "if IOP>24 mm Hg",
+                      "children": [
+                        {
+                          "label": "only beta blockers are safe"
+                        },
+                        {
+                          "label": "avoid systemic diuretics",
+                          "children": [
+                            {
+                              "label": "methazolamide safer than acetazolamide"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "avoid CAI if",
+                  "children": [
+                    {
+                      "label": "african-american"
+                    },
+                    {
+                      "label": "mediterranean",
+                      "children": [
+                        {
+                          "label": "SS disease"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "sulfa allergy"
+                    }
+                  ]
+                },
+                {
+                  "label": "do not use",
+                  "children": [
+                    {
+                      "label": "PG analogs"
+                    },
+                    {
+                      "label": "miotics",
+                      "children": [
+                        {
+                          "label": "increase inflammation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "AC washout",
+              "children": [
+                {
+                  "label": "total hyphema with IOP≥25 x ≥5 days",
+                  "children": [
+                    {
+                      "label": "corneal blood staining",
+                      "children": [
+                        {
+                          "label": "avoid miotics for angle recession glaucoma",
+                          "children": [
+                            {
+                              "label": "decrease uveoscleral outflow"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "IOP>60 x ≥48 hours",
+                  "children": [
+                    {
+                      "label": "uncontrolled high IOP",
+                      "children": [
+                        {
+                          "label": "optic nerve damage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "SS disease with IOP≥24 x ≥ 24 hours or ≥30",
+                  "children": [
+                    {
+                      "label": "risk of PAS"
+                    }
+                  ]
+                },
+                {
+                  "label": ".>50% hyphema by day 8"
+                },
+                {
+                  "label": "children at risk of amblyopia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "indications for hospitalization",
+          "children": [
+            {
+              "label": "child abuse"
+            },
+            {
+              "label": "children <7-10 years"
+            },
+            {
+              "label": "non-compliant patient"
+            },
+            {
+              "label": "SS disease"
+            },
+            {
+              "label": "bleeding tendency"
+            },
+            {
+              "label": "severe high IOP"
+            },
+            {
+              "label": "severe orbital/ocular injury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "medical history",
+              "children": [
+                {
+                  "label": "sickle cell disease"
+                },
+                {
+                  "label": "bleeding tendency"
+                },
+                {
+                  "label": "diabetes"
+                },
+                {
+                  "label": "medication use",
+                  "children": [
+                    {
+                      "label": "ASA"
+                    },
+                    {
+                      "label": "NSAID"
+                    },
+                    {
+                      "label": "warfarin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "trauma",
+              "children": [
+                {
+                  "label": "time of onset of visual loss relative to trauma"
+                },
+                {
+                  "label": "mechanism",
+                  "children": [
+                    {
+                      "label": "type of object"
+                    },
+                    {
+                      "label": "force/velocity"
+                    }
+                  ]
+                },
+                {
+                  "label": "protective eyewear"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "BCVA"
+            },
+            {
+              "label": "APD",
+              "children": [
+                {
+                  "label": "r/o traumatic optic neuropathy",
+                  "children": [
+                    {
+                      "label": "if intact globe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "ocular motility"
+            },
+            {
+              "label": "orbital palpation",
+              "children": [
+                {
+                  "label": "orbital fracture"
+                }
+              ]
+            },
+            {
+              "label": "signs of ruptured globe"
+            },
+            {
+              "label": "measure hyphema height",
+              "children": [
+                {
+                  "label": "unless intractable high IOP"
+                }
+              ]
+            },
+            {
+              "label": "avoid gonioscopy"
+            },
+            {
+              "label": "dilated fundus exam",
+              "children": [
+                {
+                  "label": "open globe/globe rupture"
+                },
+                {
+                  "label": "IOFB"
+                },
+                {
+                  "label": "retinal tear/dialysis"
+                },
+                {
+                  "label": "vitreous base avulsion"
+                },
+                {
+                  "label": "commotio"
+                },
+                {
+                  "label": "retinal hemorrhage"
+                },
+                {
+                  "label": "vitreous hemorrhage"
+                },
+                {
+                  "label": "RD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "explain eyedrop regimen"
+            }
+          ]
+        },
+        {
+          "label": "Dos",
+          "children": [
+            {
+              "label": "bed rest"
+            },
+            {
+              "label": "eye protection"
+            }
+          ]
+        },
+        {
+          "label": "Don’ts",
+          "children": [
+            {
+              "label": "avoid strenuous activity x ≥1 week"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "rebleeding"
+            },
+            {
+              "label": "glaucoma"
+            },
+            {
+              "label": "amblyopia in children"
+            },
+            {
+              "label": "corneal blood staining"
+            },
+            {
+              "label": "RD"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "daily x 5 days",
+              "children": [
+                {
+                  "label": "return immediately if",
+                  "children": [
+                    {
+                      "label": "decreased vision"
+                    },
+                    {
+                      "label": "increased eye pain"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "4-week fu",
+              "children": [
+                {
+                  "label": "gonioscopy"
+                },
+                {
+                  "label": "scleral depression"
+                }
+              ]
+            },
+            {
+              "label": "annual exam for angle recession glaucoma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "B-scan",
+          "children": [
+            {
+              "label": "avoid scleral depression"
+            },
+            {
+              "label": "if poor fundus view with intact globe"
+            }
+          ]
+        },
+        {
+          "label": "CT scan",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "orbital fracture"
+                },
+                {
+                  "label": "IOFB"
+                },
+                {
+                  "label": "loss of consciousness"
+                }
+              ]
+            },
+            {
+              "label": "1-mm sections"
+            }
+          ]
+        },
+        {
+          "label": "± UBM"
+        },
+        {
+          "label": "screen for SS disease/trait",
+          "children": [
+            {
+              "label": "Sickledex screen"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Traumatic Hyphema.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 258,
+      "connector_rejected": 3,
+      "connector_edges": 194,
+      "connector_width": 0.867,
+      "text_labels": 155,
+      "tree_nodes": 155,
+      "component_roots": 7,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.7519,
+      "root_font_size": 6.067,
+      "warnings": []
+    }
+  }
+}

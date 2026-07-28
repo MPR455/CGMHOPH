@@ -1,0 +1,429 @@
+{
+  "label": "9.7.12. Infectious Ocular Inflammatory Diseases (XII): Protozoal Uveitis (II): Toxoplasmosis (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "aimed at",
+          "children": [
+            {
+              "label": "shortening the duration of the parasitic replication"
+            },
+            {
+              "label": "causing more rapid cicatrization of the lesions"
+            },
+            {
+              "label": "limiting retinochoroidal scarring"
+            },
+            {
+              "label": "reducing the frequency of inflammatory recurrences"
+            },
+            {
+              "label": "little firm evidence that antimicrobial therapy alters the natural history of toxoplasmic retinochoroiditis in immunocompetent patients"
+            }
+          ]
+        },
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "relative treatment indications",
+              "children": [
+                {
+                  "label": "lesions threatening the optic nerve or fovea"
+                },
+                {
+                  "label": "decreased visual acuity"
+                },
+                {
+                  "label": "lesions associated with moderate to severe vitreous inflammation"
+                },
+                {
+                  "label": "lesions greater than 1 disc diameter in size"
+                },
+                {
+                  "label": "persistence of disease for more than 1 month"
+                },
+                {
+                  "label": "immunocompromised patients",
+                  "children": [
+                    {
+                      "label": "presence of multiple active lesions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "congenital toxoplasmosis"
+            },
+            {
+              "label": "pregnant women with recently acquired disease"
+            }
+          ]
+        },
+        {
+          "label": "regimens",
+          "children": [
+            {
+              "label": "triple therapy",
+              "children": [
+                {
+                  "label": "pyrimethamine (loading dose, 50–100 mg; treatment dose, 25–50 mg/day)"
+                },
+                {
+                  "label": "sulfadiazine (treatment dose, 1 g, 4 times/day)",
+                  "children": [
+                    {
+                      "label": "potential adverse effects",
+                      "children": [
+                        {
+                          "label": "skin rash"
+                        },
+                        {
+                          "label": "gastrointestinal intolerance"
+                        },
+                        {
+                          "label": "crystalluria"
+                        },
+                        {
+                          "label": "kidney stones"
+                        },
+                        {
+                          "label": "Stevens-Johnson syndrome"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "prednisone (treatment dose, 0.5–1 mg/kg/day)",
+                  "children": [
+                    {
+                      "label": "at the time of antimicrobial therapy or within 48 hours"
+                    },
+                    {
+                      "label": "contraindications",
+                      "children": [
+                        {
+                          "label": "systemic corticosteroids without appropriate antimicrobial coverage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "folinic acid (15 mg every day)",
+                  "children": [
+                    {
+                      "label": "to prevent myelosuppression (leukopenia and/ or thrombocytopenia)",
+                      "children": [
+                        {
+                          "label": "use of long-acting periocular and intraocular corticosteroid formulations such as triamcinolone acetonide"
+                        },
+                        {
+                          "label": "leukocyte and platelet counts should be monitored weekly"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "x 5-6 weeks"
+                },
+                {
+                  "label": "topical corticosteroids",
+                  "children": [
+                    {
+                      "label": "prominent anterior segment inflammation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clindamycin",
+              "children": [
+                {
+                  "label": "alone"
+                },
+                {
+                  "label": "in combination with other drugs",
+                  "children": [
+                    {
+                      "label": "“quadruple” therapy"
+                    }
+                  ]
+                },
+                {
+                  "label": "effective in managing acute lesions"
+                },
+                {
+                  "label": "pseudomembranous colitis is a potential complication"
+                }
+              ]
+            },
+            {
+              "label": "trimethoprim-sulfamethoxazole (treatment dose, 160 mg/800 mg twice daily) + prednisone",
+              "children": [
+                {
+                  "label": "? better safety profile",
+                  "children": [
+                    {
+                      "label": "similar efficacy to standard therapy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "azithromycin (250 mg/day) + pyrimethamine (50 mg/day)",
+              "children": [
+                {
+                  "label": "in immunocompetent patients"
+                },
+                {
+                  "label": "similar efficacy to standard therapy"
+                },
+                {
+                  "label": "better tolerated with fewer adverse effects"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "congenital toxoplasmosis in newborns",
+          "children": [
+            {
+              "label": "pyrimethamine + sulfonamides (plus folinic acid) x 1 year"
+            },
+            {
+              "label": "consultation with a specialist in pediatric infectious diseases"
+            }
+          ]
+        },
+        {
+          "label": "newly acquired toxoplasmosis during pregnancy",
+          "children": [
+            {
+              "label": "spiramycin (treatment dose, 400 mg 3 times daily)",
+              "children": [
+                {
+                  "label": "no undue risk of teratogenicity",
+                  "children": [
+                    {
+                      "label": "reduces the rate of tachyzoite transmission to the fetus"
+                    }
+                  ]
+                },
+                {
+                  "label": "unavailable in the United States",
+                  "children": [
+                    {
+                      "label": "alternative medications",
+                      "children": [
+                        {
+                          "label": "azithromycin"
+                        },
+                        {
+                          "label": "clindamycin"
+                        },
+                        {
+                          "label": "atovaquone"
+                        },
+                        {
+                          "label": "sulfonamides",
+                          "children": [
+                            {
+                              "label": "may be used safely in the first 2 trimesters of pregnancy"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "intraocular injections of clindamycin + short- acting periocular corticosteroids",
+              "children": [
+                {
+                  "label": "to reduce systemic adverse effects"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "HIV/AIDS",
+          "children": [
+            {
+              "label": "require extended systemic treatment"
+            },
+            {
+              "label": "atovaquone acts synergistically with pyrimethamine and sulfadiazine",
+              "children": [
+                {
+                  "label": "useful for reducing the dose and toxicity of these drugs"
+                }
+              ]
+            },
+            {
+              "label": "long-term intermittent trimethoprim- sulfamethoxazole (160 mg/800 mg 3x/week)",
+              "children": [
+                {
+                  "label": "to reduce recurrence rate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "recurrent toxoplasmic retinochoroiditis",
+          "children": [
+            {
+              "label": "long-term intermittent trimethoprim- sulfamethoxazole treatment (160 mg/800 mg 3x/week)"
+            }
+          ]
+        },
+        {
+          "label": "prophylactic antimicrobial treatment before/ after intraocular surgery in patients with inactive toxoplasmic scars",
+          "children": [
+            {
+              "label": "increased risk of reactivation of otherwise inactive toxoplasmic retinochoroiditis after cataract surgery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "diagnosis",
+      "children": [
+        {
+          "label": "in most instances, diagnosis is clinical"
+        },
+        {
+          "label": "serologic evaluation is commonly used to confirm exposure to the parasite",
+          "children": [
+            {
+              "label": "tests",
+              "children": [
+                {
+                  "label": "indirect fluorescent antibody"
+                },
+                {
+                  "label": "ELISA"
+                }
+              ]
+            },
+            {
+              "label": "IgM antibody",
+              "children": [
+                {
+                  "label": "levels increase during the acute phase of the infection"
+                },
+                {
+                  "label": "detectable for <1 year"
+                },
+                {
+                  "label": "do not cross the placenta",
+                  "children": [
+                    {
+                      "label": "in newborns confirms congenital infection"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "IgG antibody",
+              "children": [
+                {
+                  "label": "appear after the first 2 weeks of infection",
+                  "children": [
+                    {
+                      "label": "in adults is indicative of acquired disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "remain detectable for life"
+                },
+                {
+                  "label": "cross the placenta"
+                },
+                {
+                  "label": "presence of IgG antibodies supports the diagnosis of toxoplasmic retinochoroiditis in the appropriate clinical context",
+                  "children": [
+                    {
+                      "label": "a negative antibody titer essentially rules out the diagnosis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "IgA antibody",
+              "children": [
+                {
+                  "label": "useful in diagnosis of congenital toxoplasmosis in a fetus or newborn",
+                  "children": [
+                    {
+                      "label": "IgA antibodies disappear by 7 months",
+                      "children": [
+                        {
+                          "label": "IgM production is often weak and IgG antibodies may indicate passive transfer of maternal antibodies in utero"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "intraocular specific anti-Toxoplasma antibodies",
+              "children": [
+                {
+                  "label": "GW coefficient >3 is diagnostic of local antibody production"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PCR-based techniques",
+          "children": [
+            {
+              "label": "to detect T gondii DNA in aqueous/vitreous fluid"
+            },
+            {
+              "label": "atypical presentations"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.12. Infectious Ocular Inflammatory Diseases (XII) - Protozoal Uveitis (II) - Toxoplasmosis (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 206,
+      "connector_rejected": 1,
+      "connector_edges": 137,
+      "connector_width": 0.909,
+      "text_labels": 106,
+      "tree_nodes": 106,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.665,
+      "root_font_size": 3.408,
+      "warnings": []
+    }
+  }
+}

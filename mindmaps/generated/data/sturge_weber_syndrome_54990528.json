@@ -1,0 +1,453 @@
+{
+  "label": "Sturge-Weber Syndrome",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "infant with reddish skin discoloration on one side of face present since birth"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "external photograph shows flat red pigmentation of the left side of facial skin consistent with facial port- wine stain; the left cornea is larger than the right cornea"
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "age of onset/course",
+              "children": [
+                {
+                  "label": "old photographs"
+                }
+              ]
+            },
+            {
+              "label": "signs of glaucoma",
+              "children": [
+                {
+                  "label": "tearing"
+                },
+                {
+                  "label": "photophobia"
+                },
+                {
+                  "label": "blepharospasm"
+                },
+                {
+                  "label": "differences in eye size"
+                },
+                {
+                  "label": "intermittent corneal clouding"
+                }
+              ]
+            },
+            {
+              "label": "mental retardation, seizure"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "ocular motility & alignment",
+              "children": [
+                {
+                  "label": "eye preference",
+                  "children": [
+                    {
+                      "label": "r/o amblyopia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "slit lamp",
+              "children": [
+                {
+                  "label": "conjunctival/episcleral vascular tortuosity"
+                },
+                {
+                  "label": "corneal edema",
+                  "children": [
+                    {
+                      "label": "corneal diameter"
+                    }
+                  ]
+                },
+                {
+                  "label": "Haab striae"
+                },
+                {
+                  "label": "iris heterochromia"
+                }
+              ]
+            },
+            {
+              "label": "funduscopy",
+              "children": [
+                {
+                  "label": "diffuse choroidal hemangioma"
+                },
+                {
+                  "label": "serous RD"
+                },
+                {
+                  "label": "optic nerve cupping",
+                  "children": [
+                    {
+                      "label": "myopia caused by long- standing glaucoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cycloplegic refraction"
+            },
+            {
+              "label": "limb hypertrophy, varicosities",
+              "children": [
+                {
+                  "label": "Klippel-Trénaunay-Weber syndrome"
+                }
+              ]
+            },
+            {
+              "label": "ocular melanocytosis",
+              "children": [
+                {
+                  "label": "phakomatosis pigmentovascularis"
+                },
+                {
+                  "label": "r/o leptomeningeal angiomatosis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "brain MRI or CT"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "Sturge-Weber syndrome with port-wine stain"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "port-wine stain (nevus flammeus)",
+          "children": [
+            {
+              "label": "associated with",
+              "children": [
+                {
+                  "label": "Sturge-Weber syndrome ( cerebrofacial angiomatosis )",
+                  "children": [
+                    {
+                      "label": "non-hereditary"
+                    },
+                    {
+                      "label": "nevus flammeus (portwine stain)",
+                      "children": [
+                        {
+                          "label": "present from birth"
+                        },
+                        {
+                          "label": "usually unilateral"
+                        },
+                        {
+                          "label": "follows the distribution of CN V"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "glaucoma",
+                      "children": [
+                        {
+                          "label": "particularly associated with upper lid hemangioma"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "parieto-occipital leptomeningeal hemangioma",
+                      "children": [
+                        {
+                          "label": "seizure",
+                          "children": [
+                            {
+                              "label": "mental retardation"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "heterochromia iridis"
+                    },
+                    {
+                      "label": "diffuse choroidal hemangioma",
+                      "children": [
+                        {
+                          "label": "“tomato ketchup” appearance"
+                        },
+                        {
+                          "label": "exudative retinal detachment"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Klippel-Trénaunay-Weber syndrome",
+                  "children": [
+                    {
+                      "label": "variant of cerebrofacial angiomatosis",
+                      "children": [
+                        {
+                          "label": "non-hereditary"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "nonocular findings",
+                      "children": [
+                        {
+                          "label": "nevus flammeus (portwine stain) of limb"
+                        },
+                        {
+                          "label": "hemihypertrophy of limb",
+                          "children": [
+                            {
+                              "label": "bone & soft tissues"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "varicosities"
+                        },
+                        {
+                          "label": "intracranial hemangioma"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "ocular findings",
+                      "children": [
+                        {
+                          "label": "nevus flammeus (portwine stain)"
+                        },
+                        {
+                          "label": "conjunctival telangiectasia"
+                        },
+                        {
+                          "label": "congenital glaucoma"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "phakomatosis pigmentovascularis",
+                  "children": [
+                    {
+                      "label": "in combination with ocular melanocytosis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "periocular contact dermatitis"
+        },
+        {
+          "label": "preseptal cellulitis"
+        },
+        {
+          "label": "erysipelas"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "glaucoma",
+              "children": [
+                {
+                  "label": "medical",
+                  "children": [
+                    {
+                      "label": "topical glaucoma medication",
+                      "children": [
+                        {
+                          "label": "avoid brimonidine in infants",
+                          "children": [
+                            {
+                              "label": "can cause CNS depression, apnea"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "oral acetazolamide"
+                    }
+                  ]
+                },
+                {
+                  "label": "Surgical",
+                  "children": [
+                    {
+                      "label": "goniotomy",
+                      "children": [
+                        {
+                          "label": "if medical rx not adequate"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "trabeculotomy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "anisometropia correction"
+            },
+            {
+              "label": "patching for amblyopia"
+            },
+            {
+              "label": "PDT or radiation for symptomatic choroidal hemangioma"
+            },
+            {
+              "label": "lasers can be used to decrease skin pigmentation"
+            }
+          ]
+        },
+        {
+          "label": "Referrals",
+          "children": [
+            {
+              "label": "refer to neurologist for leptomeningeal angiomatosis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education/ Counselling",
+      "children": [
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "discuss SW syndrome and its associations",
+              "children": [
+                {
+                  "label": "glaucoma",
+                  "children": [
+                    {
+                      "label": "30%–70%"
+                    },
+                    {
+                      "label": "treatment of glaucoma associated with SW syndrome is difficult",
+                      "children": [
+                        {
+                          "label": "often requires surgery"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "choroidal hemangioma",
+                  "children": [
+                    {
+                      "label": "≤50%"
+                    },
+                    {
+                      "label": "serous RD"
+                    }
+                  ]
+                },
+                {
+                  "label": "leptomeningeal angiomatosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "monitor for glaucoma",
+              "children": [
+                {
+                  "label": "may occur at any time"
+                },
+                {
+                  "label": "q6 mo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Sturge-Weber Syndrome.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 180,
+      "connector_rejected": 2,
+      "connector_edges": 134,
+      "connector_width": 0.813,
+      "text_labels": 112,
+      "tree_nodes": 112,
+      "component_roots": 8,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.7444,
+      "root_font_size": 5.692,
+      "warnings": []
+    }
+  }
+}

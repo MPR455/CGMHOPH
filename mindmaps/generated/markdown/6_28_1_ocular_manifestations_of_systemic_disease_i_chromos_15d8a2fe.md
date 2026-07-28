@@ -1,0 +1,188 @@
+---
+title: "6.28.1. Ocular Manifestations of Systemic Disease (I): Chromosomal Abnormalities (I)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.28.1. Ocular Manifestations of Systemic Disease (I) - Chromosomal Abnormalities (I).pdf"
+---
+
+# 6.28.1. Ocular Manifestations of Systemic Disease (I): Chromosomal Abnormalities (I)
+
+## Hierarchy
+
+- Introduction
+  - types
+    - abnormalities in number
+      - monosomy
+        - monosomy X
+          - Turner syndrome
+      - trisomy
+        - 13
+        - 18
+        - 21
+    - abnormalities in structure
+      - duplications
+      - deletions
+        - 4p
+        - 5p
+        - 18p
+        - 18q
+      - translocations
+      - inversions
+      - rings
+    - abnormalities in type
+      - autosomal or sex chromosome
+  - incidence
+    - ≈ 1 in 150 live births
+- Inborn Errors of Metabolism
+  - introduction
+    - incidence
+      - 1 in 1400 births
+    - pathogenesis of eye abnormalities
+      - genetic absence, either physical or functional, of 1 or more enzymes
+        - direct toxicity of abnormal metabolic products
+        - accumulation of abnormal (or normal) metabolites
+        - errors of synthetic pathways
+        - deficient production of energy
+    - genetics
+      - usually recessive
+        - autosomal
+        - X-linked
+      - carriers possess half the normal quantity of an enzyme
+        - adequate metabolic function but subnormal serum levels
+      - consultation with a geneticist is warranted
+    - amniocentesis
+      - measurements of enzyme levels in fetal cells
+    - age of onset of eye problems
+      - variable
+        - at birth-early childhood
+    - classification according to affected biochemical pathways
+      - carbohydrate synthesis (galactosemia)
+      - amino acid metabolism (homocystinuria)
+      - organic acid metabolism (methylmalonic aciduria)
+      - mitochondrial metabolism (Kearns-Sayre syndrome)
+      - urea cycle (ornithine transcarbamylase deficiency)
+      - peroxisome function (adrenoleukodystrophy, Zellweger disease)
+      - steroid pathway (Smith-Lemli-Opitz syndrome)
+      - lipid storage (Tay-Sachs disease, Gaucher disease)
+      - transport (cystinosis)
+      - lysosomal storage (mucopolysaccharidoses, cystinosis, neuronal ceroid lipofuscinosis, galactosialidosis)
+      - metal metabolism (Wilson disease)
+  - cornea
+    - corneal cloudiness
+      - accumulation of a pathway product
+        - product produced in the cornea
+          - clouding may be found throughout cornea
+        - product level is elevated in blood
+          - peripheral cornea alone may be involved
+    - mucopolysaccharidoses
+      - types I H, I S, IV, VI, and VII
+    - cystinosis
+      - crystal-like deposits throughout the cornea
+      - photophobia
+    - Wilson disease
+      - peripheral brown Kayser-Fleischer ring
+  - retina
+    - 400 inherited diseases involve the retina
+    - retinitis pigmentosa
+      - most common
+      - primary defect in the photoreceptors
+      - secondary event arising from sensitivity of photoreceptors or the pigment epithelium to a generalized metabolic defect
+    - peroxisomal disorders
+      - Refsum disease
+      - Zellweger disease
+    - lysosomal disorders
+      - neuronal ceroid lipofuscinosis
+    - mitochondrial disorders
+      - Kearns-Sayre syndrome
+  - fovea
+    - cherry-red spot
+      - edema or deposition of abnormal material in perifoveal retinal ganglion cells
+    - metabolic diseases causing a cherry-red spot
+      - GM2 gangliosidosis type I (Tay-Sachs disease)
+      - GM2 gangliosidosis type II (Sandhoff disease)
+      - Niemann-Pick disease
+    - disappears over time as the intumescent ganglion cells die and optic atrophy develops
+      - absence of a cherry-red spot should not be used to rule out a diagnosis, especially in older children
+  - treatment
+    - methods
+      - enzyme replacement therapy
+      - stem cell transplantation
+        - bone marrow
+        - umbilical cord blood
+      - dietary changes
+      - gene therapy
+        - clinical trials have begun for some disorders
+        - the earlier a patient is referred to a geneticist, the better the chances of a beneficial effect from such treatment
+    - treatable metabolic disorders with ocular findings
+      - classic homocystinuria
+        - deficiency of cystathionine β-synthase
+          - increased serum levels of
+            - homocysteine
+              - cysteine deficiency
+        - clinical presentation
+          - cognitive impairment
+          - ectopia lentis
+          - thrombotic events
+        - detected shortly after birth if neonatal screening measures are employed
+        - methods
+          - dietary restriction of methionine
+            - methionine
+          - high-cysteine diet
+          - supplementation with folate, vitamin B6, vitamin B12, or betaine
+        - treatment markedly reduces plasma homocysteine levels
+          - risk of sequelae is greatly decreased by metabolic control
+      - cystinosis
+        - systemic cysteamine
+          - ameliorate renal disease
+        - topical cysteamine eyedrops
+          - prevent/reverse painful crystalline keratopathy
+- Familial Oculorenal Syndromes
+  - Lowe syndrome
+    - X-linked recessive
+    - occurs in first year of life
+    - extraocular presentation
+      - renal tubulopathy (Fanconi type)
+        - aminoaciduria
+        - proteinuria
+        - metabolic acidosis
+        - renal rickets
+          - microspherophakia
+      - severe hypotonia at birth
+      - cognitive impairment
+    - ocular presentation
+      - congenital bilateral cataract
+        - lenses are small, thick, and opaque
+        - bilateral disciform cataract
+        - ± posterior lenticonus
+      - miotic pupils
+      - congenital glaucoma
+      - carriers (mothers of affected children)
+        - punctate snowflake opacities, oriented radially within the lens cortex
+      - congenital corneal keloid
+    - common post-surgical complications
+      - cyclitic membrane formation
+      - recalcitrant glaucoma
+  - Alport syndrome
+    - X-linked disorder
+    - disease of basement membranes
+      - mutation in type IV collagen
+    - extraocular presentation
+      - hematuria
+        - begins in childhood
+      - progressive renal failure
+        - late in the course of the disease
+          - hypertension
+          - kidney failure
+      - sensori-neural deafness
+    - ocular presentation
+      - anterior lenticonus or anterior subcapsular cataract
+      - posterior polymorphous dystrophy
+      - fleck retinopathy
+  - Senior-Loken syndrome
+    - autosomal recessive
+    - nephronophthisis
+      - renal failure
+    - pigmentary retinal degeneration
+      - similar to that of Leber congenital amaurosis (LCA)
+        - children who have received a diagnosis of LCA should undergo renal function studies to rule out Senior-Loken syndrome
+      - flat ERG

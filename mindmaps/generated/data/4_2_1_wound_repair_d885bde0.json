@@ -1,0 +1,387 @@
+{
+  "label": "4.2.1. Wound Repair",
+  "root": true,
+  "children": [
+    {
+      "label": "Eyelid/Orbit",
+      "children": [
+        {
+          "label": "Vascular pericytes",
+          "children": [
+            {
+              "label": "Myofibroblasts",
+              "children": [
+                {
+                  "label": "Wound contraction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Striated muscles",
+          "children": [
+            {
+              "label": "Do not regenerate"
+            },
+            {
+              "label": "Undergo hypertrophy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Phases",
+      "children": [
+        {
+          "label": "Acute Inflammation"
+        },
+        {
+          "label": "Regeneration/Repair",
+          "children": [
+            {
+              "label": "Regeneration",
+              "children": [
+                {
+                  "label": "Replacement of lost (labile) cells"
+                }
+              ]
+            },
+            {
+              "label": "Repair",
+              "children": [
+                {
+                  "label": "Granulation tissue"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Contraction",
+          "children": [
+            {
+              "label": "Fibrous scar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Retina",
+      "children": [
+        {
+          "label": "Retinal cells do not regenerate"
+        },
+        {
+          "label": "Glial cell proliferation —> Glial scar",
+          "children": [
+            {
+              "label": "Muller cells"
+            },
+            {
+              "label": "Fibrous astrocytes"
+            },
+            {
+              "label": "Architectural planes",
+              "children": [
+                {
+                  "label": "Internal limiting membrane",
+                  "children": [
+                    {
+                      "label": "in contrast to"
+                    }
+                  ]
+                },
+                {
+                  "label": "Bruch membrane"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Bruch membrane damage",
+          "children": [
+            {
+              "label": "Choroidal fibrovascular proliferation",
+              "children": [
+                {
+                  "label": "Fibroblasts",
+                  "children": [
+                    {
+                      "label": "Not fibroblasts!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Retinal pigment epithelial proliferation",
+              "children": [
+                {
+                  "label": "medscape.org/viewarticle/744738_2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vitreous",
+      "children": [
+        {
+          "label": "Inflammation",
+          "children": [
+            {
+              "label": "Glial/Fibrous proliferation",
+              "children": [
+                {
+                  "label": "Tractional retinal detachment"
+                }
+              ]
+            },
+            {
+              "label": "Vascular proliferation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lens",
+      "children": [
+        {
+          "label": "Lenticular epithelial cells seal small capsular rents"
+        },
+        {
+          "label": "Posterior synechiae make lenticular epithelium anoxic or hypoxic",
+          "children": [
+            {
+              "label": "Metaplastic response",
+              "children": [
+                {
+                  "label": "Fibrous plaques intermixed with basement membrane"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Uvea",
+      "children": [
+        {
+          "label": "Iris",
+          "children": [
+            {
+              "label": "No healing response"
+            },
+            {
+              "label": "Pigment epithelium may be stimulated to migrate in some circumstances",
+              "children": [
+                {
+                  "label": "Limited to the subjacent surface of the lens capsule",
+                  "children": [
+                    {
+                      "label": "Posterior synechiae"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Ciliary body & choroid",
+          "children": [
+            {
+              "label": "thin fibrous scar develops",
+              "children": [
+                {
+                  "label": "No stromal or melanocytic regeneration"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Corneal healing",
+      "children": [
+        {
+          "label": "Corneal epithelium",
+          "children": [
+            {
+              "label": "Starts in 1 hour",
+              "children": [
+                {
+                  "label": "Parabasilar epithelial cells",
+                  "children": [
+                    {
+                      "label": "Slide"
+                    },
+                    {
+                      "label": "Divide"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Defect covered in 24-48 hours"
+            },
+            {
+              "label": "Complete healing takes 4-6 weeks",
+              "children": [
+                {
+                  "label": "Reformation of anchoring fibrils"
+                },
+                {
+                  "label": "Normal epithelial thickness",
+                  "children": [
+                    {
+                      "label": "4-6 layers"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Corneal stroma",
+          "children": [
+            {
+              "label": "Avascular healing"
+            },
+            {
+              "label": "Tear film",
+              "children": [
+                {
+                  "label": "Neutrophils"
+                },
+                {
+                  "label": "Lysozymes"
+                }
+              ]
+            },
+            {
+              "label": "Epithelial healing",
+              "children": [
+                {
+                  "label": "Growth factors",
+                  "children": [
+                    {
+                      "label": "Stimulate and sustain healing",
+                      "children": [
+                        {
+                          "label": "collagen type III",
+                          "children": [
+                            {
+                              "label": "collagen type I"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Bowman membrane does not regenerate"
+            },
+            {
+              "label": "Stromal fibroblasts become activated and migrate",
+              "children": [
+                {
+                  "label": "Collagen",
+                  "children": [
+                    {
+                      "label": "Replaced by stronger collagen later"
+                    }
+                  ]
+                },
+                {
+                  "label": "Fibronectin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Endothelial healing",
+          "children": [
+            {
+              "label": "Migration (& mitosis)"
+            },
+            {
+              "label": "New Descemet membrane"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Direction of fibroblasts and collagen is not parallel to stromal lamellae",
+      "children": [
+        {
+          "label": "Corneal opacity"
+        }
+      ]
+    },
+    {
+      "label": "Collector channels do not contribute"
+    },
+    {
+      "label": "Limbal healing",
+      "children": [
+        {
+          "label": "Vascular ingrowth from episclara",
+          "children": [
+            {
+              "label": "in contrast to clear corneal wound repair"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "No surface epithelial remodelling"
+    },
+    {
+      "label": "Scleral healing",
+      "children": [
+        {
+          "label": "Episclera"
+        },
+        {
+          "label": "Uvea"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.2.1. Wound Repair.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 147,
+      "connector_rejected": 6,
+      "connector_edges": 87,
+      "connector_width": 1.963,
+      "text_labels": 90,
+      "tree_nodes": 90,
+      "component_roots": 12,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.5918,
+      "root_font_size": 4.579,
+      "warnings": []
+    }
+  }
+}

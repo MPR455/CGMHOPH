@@ -1,0 +1,93 @@
+---
+title: "6.17.3. Eyelid Disorders (III)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.17.3. Eyelid Disorders (III).pdf"
+---
+
+# 6.17.3. Eyelid Disorders (III)
+
+## Hierarchy
+
+- Infectious and Inflammatory Eyelid Disorders
+  - much more common than neoplasms
+  - chalazia/hordeola
+    - chalazia
+      - blocked meibomian glands
+    - hordeola
+      - blocked eccrine or apocrine glands
+    - treatment
+      - warm compresses
+      - management of associated blepharitis
+      - surgical treatment for large, painful, or chronic lesions
+  - pyogenic granuloma
+    - pedunculated
+    - fleshy pink
+    - granulation tissue
+    - overlying a chalazion or site of trauma
+    - can develop rapidly
+  - juvenile xanthogranuloma
+    - eyelid and epibulbar lesions
+  - molluscum contagiosum
+    - eyelids lesions
+    - secondary follicular conjunctivitis
+- Neoplasms and Other Noninfectious Eyelid Lesions
+  - malignant tumors arising from eyelid skin or conjunctiva
+    - extremely rare in children
+    - likely to be associated with underlying systemic disorders
+      - basal cell nevus syndrome
+      - xeroderma pigmentosum
+  - rhabdomyosarcoma
+    - rarely may present as an eyelid or conjunctival mass
+  - capillary malformations
+    - nevus flammeus
+      - port-wine stain
+    - congenital vascular malformation
+    - flat red or pink cutaneous lesion
+      - may lighten during the first year of life
+      - tends to become darker, thicker, and more nodular over time
+    - associated with
+      - Sturge-Weber syndrome
+      - Klippel-Trénaunay-Weber syndrome
+        - variant of cerebrofacial angiomatosis
+        - nonocular findings
+          - intracranial angiomas
+          - cutaneous nevus flammeus and hemangiomas
+            - amenable to laser treatment
+          - varicosities
+          - hemihypertrophy of the limbs
+        - ocular findings
+          - conjunctival telangiectasia
+          - congenital glaucoma
+          - uncommon
+      - phakomatosis pigmentovascularis
+        - in combination with ocular melanosis
+    - ± glaucoma
+      - difficult to treat
+    - lasers can be used to decrease the skin pigmentation
+  - Congenital Nevocellular Nevi of the Skin
+    - ± visual deprivation amblyopia
+    - ± malignant transformation
+      - risk of malignant transformation increases with lesion size
+        - large lesions (>20 cm)
+          - 5%–20% risk of malignant transformation
+    - management
+      - observation is often recommended for small (<1.5 cm) and medium-sized (1.5–20.0 cm) lesions
+- Excessive Blinking
+  - common in children
+  - etiology
+    - psychogenic
+    - stress-related factors
+    - habit and motor tics
+    - uncorrected refractive errors
+    - strabismus
+  - Isolated excessive blinking tends not to be associated with vision-threatening or life- threatening disorders
+- Other Acquired Eyelid Conditions
+  - Trichotillomania
+    - pulling out of one’s hair
+      - frequently including the eyebrows and eyelashes
+    - associated with obsessive-compulsive disorder
+    - clinical presentation
+      - madarosis
+      - broken hairs
+      - regrowth of hairs of varying lengths

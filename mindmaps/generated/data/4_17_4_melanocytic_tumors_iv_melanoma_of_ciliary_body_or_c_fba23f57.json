@@ -1,0 +1,447 @@
+{
+  "label": "4.17.4. Melanocytic Tumors (IV): Melanoma of ciliary body or choroid (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Metastatic evaluation",
+      "children": [
+        {
+          "label": "50% at 25 years"
+        },
+        {
+          "label": "COMS",
+          "children": [
+            {
+              "label": "2% at initial presentation"
+            },
+            {
+              "label": "25% at 5 years"
+            },
+            {
+              "label": "34% at 10 years"
+            }
+          ]
+        },
+        {
+          "label": "interval to metastasis",
+          "children": [
+            {
+              "label": "1-2 years to over 15-20 years"
+            }
+          ]
+        },
+        {
+          "label": "metastatic disease pattern in COMS",
+          "children": [
+            {
+              "label": "liver",
+              "children": [
+                {
+                  "label": "first & most common organ involved",
+                  "children": [
+                    {
+                      "label": "90%"
+                    },
+                    {
+                      "label": "100% on autopsy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lung",
+              "children": [
+                {
+                  "label": "25%"
+                },
+                {
+                  "label": "50% on autopsy"
+                }
+              ]
+            },
+            {
+              "label": "bone",
+              "children": [
+                {
+                  "label": "20%"
+                }
+              ]
+            },
+            {
+              "label": "skin",
+              "children": [
+                {
+                  "label": "10%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "survival with metastatic uveal melanoma is poor",
+          "children": [
+            {
+              "label": "median<6 months"
+            },
+            {
+              "label": "early detection/treatment can increase survival",
+              "children": [
+                {
+                  "label": "1) to detect other medical conditions",
+                  "children": [
+                    {
+                      "label": "COMS found independent primary cancer in 10%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "all patients require metastatic evaluation prior to definitive treatment",
+          "children": [
+            {
+              "label": "2) to detect metastatic melanoma from the eye",
+              "children": [
+                {
+                  "label": "rare"
+                },
+                {
+                  "label": "enucleation inappropriate unless eye is painful"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "frequency",
+          "children": [
+            {
+              "label": "every 6 months to every 12 months"
+            }
+          ]
+        },
+        {
+          "label": "recommended test",
+          "children": [
+            {
+              "label": "physical examination"
+            },
+            {
+              "label": "liver imaging",
+              "children": [
+                {
+                  "label": "ultrasound"
+                },
+                {
+                  "label": "triphasic CT"
+                },
+                {
+                  "label": "MRI"
+                },
+                {
+                  "label": "PET-CT"
+                }
+              ]
+            },
+            {
+              "label": "liver function tests",
+              "children": [
+                {
+                  "label": "less reliable in patients taking statins"
+                }
+              ]
+            },
+            {
+              "label": "CXR",
+              "children": [
+                {
+                  "label": "low yield"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "liver (or other organ biopsy) is needed for confirmation of metastatic disease"
+        },
+        {
+          "label": "treatment options for metastatic disease",
+          "children": [
+            {
+              "label": "resection"
+            },
+            {
+              "label": "chemotherapy",
+              "children": [
+                {
+                  "label": "intra-arterial hepatic chemotherapy/ chemoembolization"
+                }
+              ]
+            },
+            {
+              "label": "immunotherapy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Prognosis",
+      "children": [
+        {
+          "label": "5-year mortality",
+          "children": [
+            {
+              "label": "small choroidal melanoma",
+              "children": [
+                {
+                  "label": "10%"
+                }
+              ]
+            },
+            {
+              "label": "medium choroidal melanoma",
+              "children": [
+                {
+                  "label": "30%"
+                }
+              ]
+            },
+            {
+              "label": "large choroidal melanoma",
+              "children": [
+                {
+                  "label": "50%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "risk factors for metastasis/mortality",
+          "children": [
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "larger tumor size"
+                },
+                {
+                  "label": "tumor growth"
+                },
+                {
+                  "label": "anterior tumor location",
+                  "children": [
+                    {
+                      "label": "ciliary body"
+                    }
+                  ]
+                },
+                {
+                  "label": "extraocular extension"
+                },
+                {
+                  "label": "older age"
+                },
+                {
+                  "label": "tumor regrowth after globe-conserving therapy"
+                },
+                {
+                  "label": "rapid decrease in tumor size after globe- conserving therapy"
+                },
+                {
+                  "label": "juxtapapillary tumor"
+                }
+              ]
+            },
+            {
+              "label": "histologic/molecular",
+              "children": [
+                {
+                  "label": "epithelioid cells"
+                },
+                {
+                  "label": "high mitotic/cell proliferation index"
+                },
+                {
+                  "label": "extracellular matrix patterns",
+                  "children": [
+                    {
+                      "label": "loops/network of loops"
+                    }
+                  ]
+                },
+                {
+                  "label": "mean of 10 largest nuclei"
+                },
+                {
+                  "label": "tumor infiltrating lymphocytes"
+                },
+                {
+                  "label": "monosomy 3"
+                },
+                {
+                  "label": "trisomy 8"
+                },
+                {
+                  "label": "gene expression profiling (class II)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Collaborative Ocular Melanoma Study",
+      "children": [
+        {
+          "label": "COMS large choroidal melanoma trial",
+          "children": [
+            {
+              "label": "1003 patients",
+              "children": [
+                {
+                  "label": "diameter>16 mm &/or thickness >10 mm"
+                }
+              ]
+            },
+            {
+              "label": "2 arms",
+              "children": [
+                {
+                  "label": "enucleation alone"
+                },
+                {
+                  "label": "enucleation + external-beam radiation"
+                },
+                {
+                  "label": "5-year survival rate in both groups ≈ 60%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "COMS medium choroidal melanoma trial",
+          "children": [
+            {
+              "label": "1317 patients",
+              "children": [
+                {
+                  "label": "adjunctive radiotherapy did not improve survival"
+                },
+                {
+                  "label": "diameter 6-16 mm &/or thickness 2.5-10 mm"
+                }
+              ]
+            },
+            {
+              "label": "2 arms",
+              "children": [
+                {
+                  "label": "enucleation"
+                },
+                {
+                  "label": "iodine 125 brachytherapy"
+                },
+                {
+                  "label": "5-year metastasis rate in both groups ≈ 10%",
+                  "children": [
+                    {
+                      "label": "5-year all-cause mortality rate in both groups ≈ 20%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "2/660 misdiagnosis in enucleation arm"
+            },
+            {
+              "label": "brachytherapy arm",
+              "children": [
+                {
+                  "label": "10% local tumor recurrence at 5 years"
+                },
+                {
+                  "label": "13% risk of enucleation at 5 years"
+                },
+                {
+                  "label": "VA<20/200 ≈ 40% at 3 years",
+                  "children": [
+                    {
+                      "label": "local tumor recurrence weakly associated with reduced survival"
+                    }
+                  ]
+                },
+                {
+                  "label": "quadrupling of visual angle (6 lines of visual loss) ≈50% at 3 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "COMS small choroidal tumor trial",
+          "children": [
+            {
+              "label": "204 patients",
+              "children": [
+                {
+                  "label": "diameter 4-8 mm &/or thickness 1.0-2.4 mm"
+                }
+              ]
+            },
+            {
+              "label": "melanoma-specific mortality",
+              "children": [
+                {
+                  "label": "1% at 5 years"
+                }
+              ]
+            },
+            {
+              "label": "clinical factors for growth",
+              "children": [
+                {
+                  "label": "greater initial thickness and diameter"
+                },
+                {
+                  "label": "orange pigment"
+                },
+                {
+                  "label": "absence of drusen/RPE changes"
+                },
+                {
+                  "label": "pinpoint hyperfluorescence on angiography"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.17.4. Melanocytic Tumors (IV) - Melanoma of ciliary body or choroid (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 218,
+      "connector_rejected": 3,
+      "connector_edges": 145,
+      "connector_width": 1.523,
+      "text_labels": 112,
+      "tree_nodes": 112,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6651,
+      "root_font_size": 5.078,
+      "warnings": []
+    }
+  }
+}

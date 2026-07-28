@@ -1,0 +1,133 @@
+{
+  "label": "11.4.2. Pathology (II): Age- related Lens Changes (II): Cortical Cataract",
+  "root": true,
+  "children": [
+    {
+      "label": "pathogenesis",
+      "children": [
+        {
+          "label": "disruption of lens fiber membranes",
+          "children": [
+            {
+              "label": "loss of essential metabolites"
+            },
+            {
+              "label": "protein oxidation and precipitation"
+            }
+          ]
+        },
+        {
+          "label": "bilateral but often asymmetric"
+        }
+      ]
+    },
+    {
+      "label": "symptoms",
+      "children": [
+        {
+          "label": "variable effect on visual function"
+        },
+        {
+          "label": "glare",
+          "children": [
+            {
+              "label": "from intense focal light sources"
+            }
+          ]
+        },
+        {
+          "label": "monocular diplopia"
+        }
+      ]
+    },
+    {
+      "label": "mature",
+      "children": [
+        {
+          "label": "the entire cortex becomes white and opaque"
+        }
+      ]
+    },
+    {
+      "label": "first signs of cortical cataract formation",
+      "children": [
+        {
+          "label": "vacuoles"
+        },
+        {
+          "label": "water clefts"
+        }
+      ]
+    },
+    {
+      "label": "intumescent",
+      "children": [
+        {
+          "label": "mature cortical cataract that has become swollen"
+        }
+      ]
+    },
+    {
+      "label": "hypermature",
+      "children": [
+        {
+          "label": "wrinkled and shrunken capsule"
+        }
+      ]
+    },
+    {
+      "label": "wedge-shaped opacities",
+      "children": [
+        {
+          "label": "cortical spokes or cuneiform opacities"
+        },
+        {
+          "label": "the pointed end of the opacities oriented toward the center"
+        },
+        {
+          "label": "slit-lamp biomicroscope: white opacities"
+        },
+        {
+          "label": "retroillumination: dark shadows"
+        },
+        {
+          "label": "initially affect only the equatorial regions of fiber cells",
+          "children": [
+            {
+              "label": "extend toward visual axis"
+            }
+          ]
+        },
+        {
+          "label": "vary greatly in their rate of progression"
+        }
+      ]
+    },
+    {
+      "label": "morgagnian cataract",
+      "children": [
+        {
+          "label": "free movement of the nucleus within the capsular bag"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.4.2. Pathology (II) - Age- related Lens Changes (II) - Cortical Cataract.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 27,
+      "connector_rejected": 7,
+      "connector_edges": 20,
+      "connector_width": 1.343,
+      "text_labels": 30,
+      "tree_nodes": 30,
+      "component_roots": 8,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.7407,
+      "root_font_size": 6.714,
+      "warnings": []
+    }
+  }
+}

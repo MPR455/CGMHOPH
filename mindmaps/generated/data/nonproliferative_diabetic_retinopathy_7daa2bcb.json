@@ -1,0 +1,303 @@
+{
+  "label": "Nonproliferative Diabetic Retinopathy",
+  "root": true,
+  "children": [
+    {
+      "label": "Definition",
+      "children": [
+        {
+          "label": "microvascular changes are limited to retina and do not extend beyond ILM"
+        }
+      ]
+    },
+    {
+      "label": "Clinical findings",
+      "children": [
+        {
+          "label": "intraretinal hemorrhages"
+        },
+        {
+          "label": "microaneurysms"
+        },
+        {
+          "label": "cotton-wool spots"
+        },
+        {
+          "label": "intraretinal microvascular abnormalities (IRMAs)"
+        },
+        {
+          "label": "dilation and beading of retinal veins"
+        },
+        {
+          "label": "retinal capillary nonperfusion",
+          "children": [
+            {
+              "label": "common finding in DR, especially in more advanced levels"
+            },
+            {
+              "label": "closure of retinal arterioles may result in larger areas of nonperfusion"
+            },
+            {
+              "label": "FAZ may appear increasingly irregular & enlarged on FA or OCTA"
+            },
+            {
+              "label": "peripheral nonperfusion is frequently seen on ultra-wide-field FA",
+              "children": [
+                {
+                  "label": "even in eyes with mild NPDR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "macular edema",
+          "children": [
+            {
+              "label": "caused by increased intraretinal vascular permeability"
+            }
+          ]
+        },
+        {
+          "label": "peripheral DR changes",
+          "children": [
+            {
+              "label": "often present outside of the standard ETDRS fields"
+            },
+            {
+              "label": "suggest greater DR severity in ≈ 10% of eyes"
+            },
+            {
+              "label": "predominantly peripheral DR lesions may be associated with greater risk of subsequent DR progression"
+            }
+          ]
+        },
+        {
+          "label": "2 mechanisms of visual loss",
+          "children": [
+            {
+              "label": "macular edema"
+            },
+            {
+              "label": "macular ischemia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Early Treatment Diabetic Retinopathy Study (ETDRS) findings",
+      "children": [
+        {
+          "label": "Focal photocoagulation for DME",
+          "children": [
+            {
+              "label": "decreased risk of moderate vision loss (doubling of initial visual angle)"
+            },
+            {
+              "label": "increased chance of moderate vision gain (halving of initial visual angle)"
+            },
+            {
+              "label": "reduced retinal thickening"
+            }
+          ]
+        },
+        {
+          "label": "Early scatter photocoagulation",
+          "children": [
+            {
+              "label": "small reduction in risk of severe vision loss (<5/200 for at least 4 months)"
+            },
+            {
+              "label": "not indicated for eyes with mild to moderate diabetic retinopathy."
+            },
+            {
+              "label": "may be most effective in patients with type 2 DM"
+            }
+          ]
+        },
+        {
+          "label": "Aspirin use",
+          "children": [
+            {
+              "label": "did not alter progression of diabetic retinopathy"
+            },
+            {
+              "label": "did not increase risk of vitreous hemorrhage"
+            },
+            {
+              "label": "did not affect visual acuity"
+            },
+            {
+              "label": "reduced risk of cardiovascular morbidity and mortality",
+              "children": [
+                {
+                  "label": "patient has type 2 diabetesis",
+                  "children": [
+                    {
+                      "label": "patient is likely to be nonadherent to recommendations for follow-up or systemic control"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "early treatment with PRP",
+          "children": [
+            {
+              "label": "should be considered for severe NPDR or worse, especially if"
+            }
+          ]
+        },
+        {
+          "label": "anti-VEGF therapy (for DME)",
+          "children": [
+            {
+              "label": "improves DR severity in eyes at all severity levels of NPDR"
+            },
+            {
+              "label": "after 2 years of continuous, monthly anti-VEGF injections, ≈ 40% of eyes will improve by ≥2 or more severity levels"
+            }
+          ]
+        },
+        {
+          "label": "intravitreal steroid therapy (for DME)",
+          "children": [
+            {
+              "label": "improves DR severity level"
+            }
+          ]
+        },
+        {
+          "label": "ACCORD and Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) studies",
+          "children": [
+            {
+              "label": "fenofibrate treatment in patients with type 2 diabetes reduces DR progression"
+            }
+          ]
+        },
+        {
+          "label": "PVD",
+          "children": [
+            {
+              "label": "might improve outcomes in diabetic eyes at risk of developing PDR",
+              "children": [
+                {
+                  "label": "vitreous scaffolding that enables extraretinal neovascular proliferation is removed"
+                }
+              ]
+            },
+            {
+              "label": "currently there is no role for surgery in management of NPDR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "NPDR severity levels",
+      "children": [
+        {
+          "label": "mild",
+          "children": [
+            {
+              "label": ">1 microaneurysm"
+            }
+          ]
+        },
+        {
+          "label": "moderate",
+          "children": [
+            {
+              "label": "more than “mild” but less than “severe”"
+            }
+          ]
+        },
+        {
+          "label": "severe",
+          "children": [
+            {
+              "label": "risk of progression to high-risk PDR",
+              "children": [
+                {
+                  "label": "within 1 year",
+                  "children": [
+                    {
+                      "label": "15%"
+                    }
+                  ]
+                },
+                {
+                  "label": "within 3 years",
+                  "children": [
+                    {
+                      "label": "60%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "has 1 of the “4:2:1 rule” risk factors",
+              "children": [
+                {
+                  "label": "severe intraretinal hemorrhages and microaneurysms in 4 quadrants"
+                },
+                {
+                  "label": "definite venous beading in ≥2 quadrants"
+                },
+                {
+                  "label": "moderate IRMA in ≥1 quadrant"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "very severe",
+          "children": [
+            {
+              "label": "has ≥ 2 of the “4:2:1 rule” risk factors"
+            },
+            {
+              "label": "risk of progression to high-risk PDR within 1 year",
+              "children": [
+                {
+                  "label": "45%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "based on standard photographs from ETDRS"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Nonproliferative Diabetic Retinopathy.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 112,
+      "connector_rejected": 8,
+      "connector_edges": 85,
+      "connector_width": 0.917,
+      "text_labels": 74,
+      "tree_nodes": 74,
+      "component_roots": 5,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.7589,
+      "root_font_size": 6.115,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "label": "4.12.2. Uveal Tract (II): Inflammations",
+  "root": true,
+  "children": [
+    {
+      "label": "Infectious inflammations",
+      "children": [
+        {
+          "label": "exogenous"
+        },
+        {
+          "label": "endogenous"
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "mixed acute and chronic inflammatory infiltrate"
+            },
+            {
+              "label": "granulomatous inflammation (epithelioid histiocytes)",
+              "children": [
+                {
+                  "label": "viral"
+                },
+                {
+                  "label": "fungal"
+                },
+                {
+                  "label": "protozoal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sarcoidosis",
+      "children": [
+        {
+          "label": "uvea is the most common site of ocular involvement",
+          "children": [
+            {
+              "label": "uvea is the most common site of ocular involvement"
+            },
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "iris nodules",
+                  "children": [
+                    {
+                      "label": "at pupillary margin",
+                      "children": [
+                        {
+                          "label": "Keoppe nodules"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "elsewhere on iris",
+                      "children": [
+                        {
+                          "label": "Busacca nodules"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "chorioretinitis"
+                },
+                {
+                  "label": "periphlebitis",
+                  "children": [
+                    {
+                      "label": "candlewax drippings"
+                    }
+                  ]
+                },
+                {
+                  "label": "chorioretinal nodules"
+                },
+                {
+                  "label": "optic nerve inflammation"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "sarcoid nodule",
+                  "children": [
+                    {
+                      "label": "noncaseating granuloma",
+                      "children": [
+                        {
+                          "label": "epithelioid histiocytes"
+                        },
+                        {
+                          "label": "± multinucleated giant cells",
+                          "children": [
+                            {
+                              "label": "star-shaped acidophilic bodies",
+                              "children": [
+                                {
+                                  "label": "asteroid bodies",
+                                  "children": [
+                                    {
+                                      "label": "Schaumann bodies",
+                                      "children": [
+                                        {
+                                          "label": "not pathognomonic"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "label": "spherical, basophilic, calcified bodies"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "cuff of lymphocytes",
+                          "children": [
+                            {
+                              "label": "no central necrosis",
+                              "children": [
+                                {
+                                  "label": "noncaseating"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "granulomatous uveal inflammation",
+                  "children": [
+                    {
+                      "label": "epithelioid histiocytes"
+                    },
+                    {
+                      "label": "lymphocytes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sympathetic ophthalmia",
+      "children": [
+        {
+          "label": "phases",
+          "children": [
+            {
+              "label": "trauma to 1 eye",
+              "children": [
+                {
+                  "label": "exciting/inciting eye"
+                }
+              ]
+            },
+            {
+              "label": "latent period",
+              "children": [
+                {
+                  "label": "9 days - 50 years"
+                }
+              ]
+            },
+            {
+              "label": "uveitis in the other eye",
+              "children": [
+                {
+                  "label": "sympathizing eye"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "diffuse granulomatous inflammation"
+            },
+            {
+              "label": "lymphocytes"
+            },
+            {
+              "label": "epithelioid histiocytes",
+              "children": [
+                {
+                  "label": "contain phagocytosed melanin pigment"
+                }
+              ]
+            },
+            {
+              "label": "scant plasma cells"
+            },
+            {
+              "label": "AC inflammation",
+              "children": [
+                {
+                  "label": "choriocapillaris spared"
+                },
+                {
+                  "label": "histiocyte deposits on corneal endothelium",
+                  "children": [
+                    {
+                      "label": "mutton-fat KP"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Dalen-Fuchs nodules",
+              "children": [
+                {
+                  "label": "between RPE and Bruch membrane",
+                  "children": [
+                    {
+                      "label": "lymphocytes"
+                    },
+                    {
+                      "label": "epithelioid histiocytes"
+                    }
+                  ]
+                },
+                {
+                  "label": "not pathognomonic",
+                  "children": [
+                    {
+                      "label": "VKH syndrome"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Juvenile xanthogranuloma",
+      "children": [
+        {
+          "label": "children"
+        },
+        {
+          "label": "skin"
+        },
+        {
+          "label": "uvea",
+          "children": [
+            {
+              "label": "iris"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "lipid-laden (foamy) histiocytes",
+              "children": [
+                {
+                  "label": "ring of nuclei surrounding a central homogeneous cytoplasm, while foamy cytoplasm surrounds the nuclei"
+                }
+              ]
+            },
+            {
+              "label": "Touton giant cells"
+            },
+            {
+              "label": "lymphocytes"
+            },
+            {
+              "label": "eosinophils"
+            },
+            {
+              "label": "fragile blood vessels",
+              "children": [
+                {
+                  "label": "spontaneous hyphema"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "VKH syndrome",
+      "children": [
+        {
+          "label": "demographics",
+          "children": [
+            {
+              "label": "asian/native american ancestry"
+            },
+            {
+              "label": "30-50 yr"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "diffuse chronic granulomatous uveitis",
+              "children": [
+                {
+                  "label": "does not spare choriocapillaris"
+                }
+              ]
+            },
+            {
+              "label": "+- granulomatous retinal inflammation"
+            },
+            {
+              "label": "RPE hyperplasia/atrophy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.12.2. Uveal Tract (II) - Inflammations.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 172,
+      "connector_rejected": 11,
+      "connector_edges": 107,
+      "connector_width": 1.337,
+      "text_labels": 86,
+      "tree_nodes": 86,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6221,
+      "root_font_size": 4.458,
+      "warnings": []
+    }
+  }
+}

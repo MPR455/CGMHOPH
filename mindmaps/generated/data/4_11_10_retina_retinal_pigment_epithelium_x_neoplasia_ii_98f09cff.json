@@ -1,0 +1,226 @@
+{
+  "label": "4.11.10. Retina & Retinal pigment epithelium (X): Neoplasia (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Fuchs Adenoma",
+      "children": [
+        {
+          "label": "acquired tumor of nonpigmented ciliary body epithelium"
+        },
+        {
+          "label": "may cause sectoral cataract"
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "hyperplastic nonpigmented ciliary epithelium",
+              "children": [
+                {
+                  "label": "arranged in sheets and tubules"
+                }
+              ]
+            },
+            {
+              "label": "alternating areas of PAS-positive basement membrane material"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Combined hamartoma of the retina and retinal pigment epithelium",
+      "children": [
+        {
+          "label": "often diagnosed in childhood"
+        },
+        {
+          "label": "slightly elevated variably pigmented mass"
+        },
+        {
+          "label": "preretinal membrane",
+          "children": [
+            {
+              "label": "distorts the tumor inner retinal surface"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "thickening of optic nerve head and peripapillary retina"
+            },
+            {
+              "label": "increased number of vessels"
+            },
+            {
+              "label": "hyperplastic RPE",
+              "children": [
+                {
+                  "label": "perivascular"
+                }
+              ]
+            },
+            {
+              "label": "vitreous condensation and fibroglial proliferation",
+              "children": [
+                {
+                  "label": "differentiates from RPE hyperplasia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Medulloepithelioma (Diktyoma)",
+      "children": [
+        {
+          "label": "congenital neuroepithelial tumor",
+          "children": [
+            {
+              "label": "arises from primitive medullary epithelium"
+            }
+          ]
+        },
+        {
+          "label": "sites",
+          "children": [
+            {
+              "label": "ciliary body",
+              "children": [
+                {
+                  "label": "most common"
+                }
+              ]
+            },
+            {
+              "label": "retina"
+            },
+            {
+              "label": "optic nerve"
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "non- or lightly pigmented cystic mass"
+            },
+            {
+              "label": "± iris/anterior chamber erosion"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "undifferentiated round-oval cells with little cytoplasm"
+            },
+            {
+              "label": "cell nuclei are stratified in 3-5 layers"
+            },
+            {
+              "label": "ribbonlike structure with distinct cellular polarity"
+            },
+            {
+              "label": "lined on one side by thin basement membrane"
+            },
+            {
+              "label": "secretes mucinous substance rich in hyaluronic acid",
+              "children": [
+                {
+                  "label": "resembles primitive vitreous"
+                },
+                {
+                  "label": "mucinous cysts"
+                }
+              ]
+            },
+            {
+              "label": "± rosettes",
+              "children": [
+                {
+                  "label": "Homer-Wright"
+                },
+                {
+                  "label": "Flexner-Wintersteiner"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Adenoma/Adenocarcinoma of RPE",
+      "children": [
+        {
+          "label": "uncommon"
+        },
+        {
+          "label": "no history of prior trauma or eye disease"
+        },
+        {
+          "label": "adenoma",
+          "children": [
+            {
+              "label": "retain characteristics of RPE cells",
+              "children": [
+                {
+                  "label": "basement membrane"
+                },
+                {
+                  "label": "cell junctions"
+                },
+                {
+                  "label": "microvilli"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "adenocarcinoma",
+          "children": [
+            {
+              "label": "greater anaplasia"
+            },
+            {
+              "label": "mitotic activity"
+            },
+            {
+              "label": "retinal or choroidal invasion"
+            },
+            {
+              "label": "does not metastasize"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.11.10. Retina & Retinal pigment epithelium (X) - Neoplasia (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 100,
+      "connector_rejected": 4,
+      "connector_edges": 70,
+      "connector_width": 2.087,
+      "text_labels": 55,
+      "tree_nodes": 55,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.7,
+      "root_font_size": 6.957,
+      "warnings": []
+    }
+  }
+}

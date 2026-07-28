@@ -1,0 +1,455 @@
+{
+  "label": "7.12.3. Lacrimal System: Congenital Lacrimal Drainage Obstruction (II): Congenital NLDO",
+  "root": true,
+  "children": [
+    {
+      "label": "Dacryocystorhinostomy",
+      "children": [
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "persistent epiphora following intubation and/or balloon dacryoplasty"
+            },
+            {
+              "label": "recurrent dacryocystitis"
+            },
+            {
+              "label": "extensive developmental abnormalities of the nasolacrimal drainage system",
+              "children": [
+                {
+                  "label": "prevent probing and intubation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "General",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "membrane blocking the valve of Hasner at the nasal end of the NLD"
+            }
+          ]
+        },
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "clinically evident in 2%–6% of full-term infants at 3–4 weeks of age"
+            },
+            {
+              "label": "1/3 bilateral"
+            },
+            {
+              "label": "90% of all symptomatic congenital NLDO resolve in the first year of life",
+              "children": [
+                {
+                  "label": "including infants with clinical symptoms at 6 months!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "nonsurgical management",
+          "children": [
+            {
+              "label": "observation"
+            },
+            {
+              "label": "lacrimal sac massage"
+            },
+            {
+              "label": "topical or even oral antibiotics",
+              "children": [
+                {
+                  "label": "to suppress chronic mucoid discharge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "surgical management",
+          "children": [
+            {
+              "label": "probing of the NLD",
+              "children": [
+                {
+                  "label": "in cases with airway obstruction secondary to nasal extension of an enlarged lacrimal sac or dacryocystitis, prompt treatment may be required"
+                },
+                {
+                  "label": "timing",
+                  "children": [
+                    {
+                      "label": "at 1 year",
+                      "children": [
+                        {
+                          "label": "delaying probing past 13 months of age may be associated with a decreased success rate"
+                        },
+                        {
+                          "label": "most cases of congenital NLDO—including infants with clinical symptoms at 6 months— resolve in the first year of life"
+                        },
+                        {
+                          "label": "usually require general anesthesia"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "at 6 months",
+                      "children": [
+                        {
+                          "label": "in the office",
+                          "children": [
+                            {
+                              "label": "with topical anesthesia and swaddling"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "advantages",
+                          "children": [
+                            {
+                              "label": "inexpensive"
+                            },
+                            {
+                              "label": "avoids general anesthesia"
+                            },
+                            {
+                              "label": "relatively safe in well-trained hands"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "limits the acquisition of information about the nature of the obstruction!"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "dacryocystitis",
+          "children": [
+            {
+              "label": "acutely inflamed lacrimal sac with cellulitis of the overlying skin"
+            },
+            {
+              "label": "systemic antibiotics",
+              "children": [
+                {
+                  "label": "should be started promptly"
+                }
+              ]
+            },
+            {
+              "label": "following resolution of the infectious process, elective probing should be performed promptly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Turbinate medial infracture",
+      "children": [
+        {
+          "label": "if inferior turbinate appears to be lateralized against NLD at time of probing and irrigation"
+        },
+        {
+          "label": "should be suspected in patients with recurrent intermittent obstruction",
+          "children": [
+            {
+              "label": "related to infections of upper respiratory tract"
+            }
+          ]
+        },
+        {
+          "label": "blunt end of periosteal elevator is placed within the inferior meatus along lateral surface of inferior turbinate",
+          "children": [
+            {
+              "label": "inferior turbinate is then rotated medially toward the septum"
+            }
+          ]
+        },
+        {
+          "label": "fracturing turbinate at its base significantly enlarges inferior meatus"
+        }
+      ]
+    },
+    {
+      "label": "Balloon dacryoplasty",
+      "children": [
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "complicated cases"
+            },
+            {
+              "label": "recurrence following standard probing techniques"
+            }
+          ]
+        },
+        {
+          "label": "collapsed balloon catheter is placed in a manner similar to probing",
+          "children": [
+            {
+              "label": "inflated inside the NLD at multiple levels"
+            }
+          ]
+        },
+        {
+          "label": "necessary catheter equipment is expensive"
+        }
+      ]
+    },
+    {
+      "label": "Intubation",
+      "children": [
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "recurrent epiphora following nasolacrimal system probing",
+              "children": [
+                {
+                  "label": "success rate >70%"
+                }
+              ]
+            },
+            {
+              "label": "older children with significant stenosis or scarring"
+            },
+            {
+              "label": "upper-system abnormalities",
+              "children": [
+                {
+                  "label": "canalicular stenosis"
+                },
+                {
+                  "label": "trauma"
+                },
+                {
+                  "label": "agenesis of the puncta"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "silicone stent",
+          "children": [
+            {
+              "label": "Crawford stent"
+            }
+          ]
+        },
+        {
+          "label": "shrinkage of nasal mucosa with a topical vasoconstrictor"
+        },
+        {
+          "label": "adequate lighting with a fiber-optic headlight"
+        },
+        {
+          "label": "endoscope for more difficult cases",
+          "children": [
+            {
+              "label": "medialization of the inferior turbinate is sometimes performed"
+            }
+          ]
+        },
+        {
+          "label": "securing the tube in the nose",
+          "children": [
+            {
+              "label": "square knot"
+            },
+            {
+              "label": "direct suturing to lateral wall of nose (without tension)"
+            },
+            {
+              "label": "passing limbs of the stent through either a silicone band or a sponge in the inferior meatus of the nose"
+            }
+          ]
+        },
+        {
+          "label": "monocanalicular stents",
+          "children": [
+            {
+              "label": "for patients with only one patent canaliculus"
+            },
+            {
+              "label": "passed through a single punctum to the nasal cavity",
+              "children": [
+                {
+                  "label": "the end of the stent is simply cut and allowed to retract loosely into the nose"
+                }
+              ]
+            },
+            {
+              "label": "proximal end has a punctal plug and is self- secured at the punctum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Probing and irrigation",
+      "children": [
+        {
+          "label": "facilitated by",
+          "children": [
+            {
+              "label": "immobilization of patient"
+            },
+            {
+              "label": "contraction of nasal mucosa with topical vasoconstrictor",
+              "children": [
+                {
+                  "label": "oxymetazoline hydrochloride"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "punctal dilation"
+        },
+        {
+          "label": "size 00 Bowman lacrimal probe"
+        },
+        {
+          "label": "insert into punctum perpendicular to eyelid margin"
+        },
+        {
+          "label": "turn parallel to lid margin",
+          "children": [
+            {
+              "label": "manual lateral traction of the eyelid with the opposite hand to straighten the canaliculus"
+            },
+            {
+              "label": "resistance to passage of probe, along with medial movement of eyelid soft tissue (“soft stop”) causing wrinkling of overlying skin",
+              "children": [
+                {
+                  "label": "canalicular kinking",
+                  "children": [
+                    {
+                      "label": "withdraw and reinsert while lateral horizontal traction is maintained"
+                    },
+                    {
+                      "label": "most common cause"
+                    }
+                  ]
+                },
+                {
+                  "label": "canalicular obstruction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "medial wall of the lacrimal sac will be encountered resulting in a tactile “hard stop”"
+        },
+        {
+          "label": "probe is then rotated 90° superiorly toward the brow until it lies adjacent to the supraorbital notch",
+          "children": [
+            {
+              "label": "directed posteriorly and slightly laterally"
+            },
+            {
+              "label": "if significant resistance is encountered probe should be repositioned and passage attempted again"
+            },
+            {
+              "label": "creation of false passage makes it difficult to redirect the probe back into native lacrimal system"
+            },
+            {
+              "label": "at some points of narrowing, particularly at the distal end of the NLD, gentle pressure may be necessary to push through the blockage"
+            }
+          ]
+        },
+        {
+          "label": "confirming duct patency",
+          "children": [
+            {
+              "label": "direct visualization of probe tip",
+              "children": [
+                {
+                  "label": "nasal speculum and fiber-optic headlight or endoscope"
+                },
+                {
+                  "label": "under the inferior turbinate"
+                },
+                {
+                  "label": "in children opening of the NLD is usually 20– 22 mm back from the nostril",
+                  "children": [
+                    {
+                      "label": "30-35 mm in adults"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "metal-on-metal contact with another probe inserted through the naris"
+            },
+            {
+              "label": "NLD irrigation with saline mixed with fluorescein",
+              "children": [
+                {
+                  "label": "fluorescein can be retrieved from inferior meatus and visualized with a transparent suction catheter"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "single lacrimal probing successfully resolves congenital NLDO in 90% of patients who are 13 months or younger"
+        },
+        {
+          "label": "adult probing",
+          "children": [
+            {
+              "label": "in adults, irrigation and probing are limited to the canalicular system",
+              "children": [
+                {
+                  "label": "performed for diagnostic purposes only"
+                }
+              ]
+            },
+            {
+              "label": "probing of NLD in adults is potentially traumatic and rarely effective"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.12.3. Lacrimal System - Congenital Lacrimal Drainage Obstruction (II) - Congenital NLDO.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 110,
+      "connector_rejected": 2,
+      "connector_edges": 106,
+      "connector_width": 0.918,
+      "text_labels": 114,
+      "tree_nodes": 114,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.9636,
+      "root_font_size": 3.901,
+      "warnings": []
+    }
+  }
+}

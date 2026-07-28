@@ -1,0 +1,93 @@
+---
+title: "8.3.9. Systemic Conditions Associated With Ocular Surface Disorders (I)"
+category: "External Diseases"
+subcategory: ""
+source_pdf: "MindmapPDF/External Diseases/8.3.9. Systemic Conditions Associated With Ocular Surface Disorders (I).pdf"
+---
+
+# 8.3.9. Systemic Conditions Associated With Ocular Surface Disorders (I)
+
+## Hierarchy
+
+- Sjögren Syndrome
+  - diagnostic criteria
+    - ATD
+    - rheumatoid arthritis
+    - hypergammaglobulinemia
+    - See Table 3-12
+      - circulating autoantibodies
+  - T-cell–mediated inflammatory disease
+    - destruction of the lacrimal glands
+  - classification
+    - primary Sjögren syndrome
+      - ill-defined systemic immune dysfunction or lack of immune dysfunction or connective tissue disease
+    - secondary Sjögren syndrome
+      - well-defined, generalized connective tissue disease
+        - rheumatoid arthritis
+  - etiology
+    - See Table 3-13
+  - clinical presentation
+    - salivary gland involvement is common
+      - dry mouth
+    - mucous membrane involvement (ie, vaginal, gastric, and respiratory mucosae)
+      - periodontal disease
+- Ectodermal Dysplasia
+  - rare
+  - hereditary
+    - various inheritance patterns
+  - clinical features
+    - nonprogressive course
+      - presence of abnormalities at birth
+    - diffuse involvement of the epidermis plus at least 1 of its appendages
+      - hair, nails, teeth, sweat glands
+  - ocular abnormalities
+    - sparse lashes and brows
+    - blepharitis
+    - ankyloblepharon
+    - hypoplastic lacrimal ducts
+    - diminished tear production
+    - abnormal meibomian glands
+    - dry conjunctivae
+    - pterygia
+    - corneal scarring and neovascularization
+    - cataract
+    - glaucoma
+    - ocular surface changes may be due to limbal stem cell deficiency
+  - anhidrotic ectodermal dysplasia
+    - hypotrichosis
+    - anodontia
+    - anhidrosis
+      - sweating is almost completely lacking
+      - hyperpyrexia is a common problem in childhood
+    - ± atopic disease
+  - ectrodactyly–ectodermal dysplasia–clefting syndrome
+    - ectodermal dysplasia
+    - cleft lip and/or palate
+    - clefting deformity of the hands and/or feet
+- Ichthyosis
+  - hereditary skin disorders characterized by excessively dry skin and accumulation of scale
+  - diagnosed during the first year of life
+  - ichthyosis vulgaris
+    - most common hereditary scaling disorder
+      - 1 in 250–300 people
+  - ocular involvement
+    - eyelid scaling
+      - autosomal dominant
+    - cicatricial ectropion
+      - exposure keratopathy
+    - conjunctival thickening
+    - primary corneal opacities
+      - rare in patients with ichthyosis vulgaris
+      - 50% of patients with X-linked ichthyosis
+      - diffuse dots or filament-shaped opacities in pre–Descemet membrane or deep stroma
+        - become more apparent with age without affecting vision
+      - nodular corneal degeneration
+      - band keratopathy
+    - secondary corneal changes
+      - vascularization
+      - scarring
+  - management
+    - hydrating the skin and eyelids
+    - removing scale
+    - slowing the turnover of epidermis
+      - not responsive to corticosteroids

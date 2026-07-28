@@ -1,0 +1,557 @@
+{
+  "label": "4.15.1. Optic Nerve (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Topography",
+      "children": [
+        {
+          "label": "embryology",
+          "children": [
+            {
+              "label": "from optic stalk",
+              "children": [
+                {
+                  "label": "continuation of optic tract"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "portions",
+          "children": [
+            {
+              "label": "intraocular",
+              "children": [
+                {
+                  "label": "0.7-1.0 mm"
+                }
+              ]
+            },
+            {
+              "label": "intraorbital",
+              "children": [
+                {
+                  "label": "25-30 mm"
+                }
+              ]
+            },
+            {
+              "label": "intracanalicular",
+              "children": [
+                {
+                  "label": "4-10 mm"
+                }
+              ]
+            },
+            {
+              "label": "intracranial",
+              "children": [
+                {
+                  "label": "10 mm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "retinal ganglion cell layer axons"
+        },
+        {
+          "label": "myelinated posterior to lamina cribrosa"
+        },
+        {
+          "label": "glial cells",
+          "children": [
+            {
+              "label": "oligodendrocytes",
+              "children": [
+                {
+                  "label": "myelin production"
+                }
+              ]
+            },
+            {
+              "label": "astrocytes",
+              "children": [
+                {
+                  "label": "support & nutrition"
+                }
+              ]
+            },
+            {
+              "label": "microglial cells",
+              "children": [
+                {
+                  "label": "phagocytic function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "meningeal coat",
+          "children": [
+            {
+              "label": "dura mater",
+              "children": [
+                {
+                  "label": "merges with sclera"
+                }
+              ]
+            },
+            {
+              "label": "arachnoid layer",
+              "children": [
+                {
+                  "label": "subarachnoid space"
+                }
+              ]
+            },
+            {
+              "label": "pia mater",
+              "children": [
+                {
+                  "label": "pial vessels extend into the optic nerve"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Optic atrophy",
+      "children": [
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "ascending atrophy",
+              "children": [
+                {
+                  "label": "injury to",
+                  "children": [
+                    {
+                      "label": "retinal ganglion cells"
+                    },
+                    {
+                      "label": "peripheral optic nerve axons",
+                      "children": [
+                        {
+                          "label": "axonal swelling",
+                          "children": [
+                            {
+                              "label": "optic disc edema",
+                              "children": [
+                                {
+                                  "label": "retrograde degeneration of axons"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "descending atrophy",
+              "children": [
+                {
+                  "label": "optic nerve pathologies in intracranial cavity or orbit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "axonal degeneration"
+            },
+            {
+              "label": "loss of oligodendrocytes/myelin"
+            },
+            {
+              "label": "proliferation of astrocytes/fibroconnective tissue in pial septa"
+            },
+            {
+              "label": "optic nerve shrinks"
+            }
+          ]
+        },
+        {
+          "label": "Cavernous optic atrophy of Schnabel",
+          "children": [
+            {
+              "label": "large cystic spaces posterior to lamina cribrosa",
+              "children": [
+                {
+                  "label": "contain mucopolysaccharide material",
+                  "children": [
+                    {
+                      "label": "alcian blue stain"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "acute intraocular pressure elevation"
+                },
+                {
+                  "label": "elderly with arteriosclerotic disease"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congenital anomalies",
+      "children": [
+        {
+          "label": "Coloboma",
+          "children": [
+            {
+              "label": "defective closure of embryonic fissure",
+              "children": [
+                {
+                  "label": "inferonasal"
+                },
+                {
+                  "label": "associated with colobomas of retina/choroid/ ciliary body/iris"
+                }
+              ]
+            },
+            {
+              "label": "atrophic/gliotic retina lines the defect"
+            },
+            {
+              "label": "ectatic sclera"
+            },
+            {
+              "label": "wall may contain",
+              "children": [
+                {
+                  "label": "adipose tissue"
+                },
+                {
+                  "label": "smooth muscle"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Infections",
+      "children": [
+        {
+          "label": "origin",
+          "children": [
+            {
+              "label": "secondary to infections of adjacent anatomical structures"
+            },
+            {
+              "label": "systemic infection",
+              "children": [
+                {
+                  "label": "immunocompromised patient"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "organism",
+          "children": [
+            {
+              "label": "bacterial"
+            },
+            {
+              "label": "fungal",
+              "children": [
+                {
+                  "label": "mucromycosis",
+                  "children": [
+                    {
+                      "label": "from sinus infection"
+                    }
+                  ]
+                },
+                {
+                  "label": "cryptococcosis",
+                  "children": [
+                    {
+                      "label": "from CNS infection"
+                    },
+                    {
+                      "label": "multiple foci of necrosis",
+                      "children": [
+                        {
+                          "label": "little inflammation"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "coccidiomycosis",
+                  "children": [
+                    {
+                      "label": "necrotizing granulomas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "viral",
+              "children": [
+                {
+                  "label": "associated with CNS lesions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "multifactorial with autoimmune and infectious causes",
+          "children": [
+            {
+              "label": "multiple sclerosis",
+              "children": [
+                {
+                  "label": "damaged myelin removed by macrophages"
+                },
+                {
+                  "label": "astrocytic proliferaton",
+                  "children": [
+                    {
+                      "label": "plaque"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "acute disseminated encephalomyelitis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Optic disc drusen",
+      "children": [
+        {
+          "label": "+- dominantly inherited"
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "small crowded discs"
+            },
+            {
+              "label": "abnormal vasculature"
+            },
+            {
+              "label": "location",
+              "children": [
+                {
+                  "label": "superficial",
+                  "children": [
+                    {
+                      "label": "round"
+                    },
+                    {
+                      "label": "refractile, pale yellow/white"
+                    }
+                  ]
+                },
+                {
+                  "label": "deep",
+                  "children": [
+                    {
+                      "label": "pseudopapilledema"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "otherwise normal eyes",
+              "children": [
+                {
+                  "label": "most common"
+                }
+              ]
+            },
+            {
+              "label": "angioid streaks"
+            },
+            {
+              "label": "papillitis"
+            },
+            {
+              "label": "optic atrophy"
+            },
+            {
+              "label": "chronic glaucoma"
+            },
+            {
+              "label": "vascular occlusions"
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "abnormal axonal metabolism",
+              "children": [
+                {
+                  "label": "mitochondrial calcification"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "basophilic"
+            },
+            {
+              "label": "calcific"
+            },
+            {
+              "label": "acellular"
+            },
+            {
+              "label": "anterior to lamina, posterior to Bruch membrane"
+            },
+            {
+              "label": "contain",
+              "children": [
+                {
+                  "label": "mucopolysaccharide"
+                },
+                {
+                  "label": "amino acids"
+                },
+                {
+                  "label": "DNA/RNA"
+                },
+                {
+                  "label": "iron"
+                },
+                {
+                  "label": "calcium"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Noninfectious inflammatory disorders",
+      "children": [
+        {
+          "label": "giant cell arteritis",
+          "children": [
+            {
+              "label": "granulomatous inflammation",
+              "children": [
+                {
+                  "label": "multinucleated giant cells"
+                }
+              ]
+            },
+            {
+              "label": "occlusion of posterior ciliary vessels",
+              "children": [
+                {
+                  "label": "liquefactive necrosis"
+                }
+              ]
+            },
+            {
+              "label": "temporal artery biopsy",
+              "children": [
+                {
+                  "label": "skip lesions"
+                },
+                {
+                  "label": "2 cm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "sarcoidosis",
+          "children": [
+            {
+              "label": "associated with lesion of",
+              "children": [
+                {
+                  "label": "retina"
+                },
+                {
+                  "label": "vitreous"
+                },
+                {
+                  "label": "uvea"
+                }
+              ]
+            },
+            {
+              "label": "optic nerve lesions feature necrosis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.15.1. Optic Nerve (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 280,
+      "connector_rejected": 17,
+      "connector_edges": 165,
+      "connector_width": 1.169,
+      "text_labels": 136,
+      "tree_nodes": 136,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.5893,
+      "root_font_size": 3.897,
+      "warnings": []
+    }
+  }
+}

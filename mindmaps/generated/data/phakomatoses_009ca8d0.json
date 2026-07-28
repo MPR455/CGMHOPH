@@ -1,0 +1,436 @@
+{
+  "label": "Phakomatoses",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "group of disorders with common features of ocular and extraocular/systemic involvement of a congenital nature"
+        },
+        {
+          "label": "most are hereditary"
+        },
+        {
+          "label": "involve the neuroretina",
+          "children": [
+            {
+              "label": "exception Sturge-Weber syndrome"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Retinal Cavernous Hemangioma",
+      "children": [
+        {
+          "label": "2 types",
+          "children": [
+            {
+              "label": "isolated",
+              "children": [
+                {
+                  "label": "most cases"
+                },
+                {
+                  "label": "restricted to the retina or optic nerve head",
+                  "children": [
+                    {
+                      "label": "autosomal-dominant",
+                      "children": [
+                        {
+                          "label": "non-hereditary"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "as part of Wyburn-Mason syndrome",
+              "children": [
+                {
+                  "label": "retina/optic nerve head hemangioma"
+                },
+                {
+                  "label": "skin hemangiomas",
+                  "children": [
+                    {
+                      "label": "1/2 patients"
+                    },
+                    {
+                      "label": "on the face"
+                    }
+                  ]
+                },
+                {
+                  "label": "intracranial hemangiomas",
+                  "children": [
+                    {
+                      "label": "seizures"
+                    },
+                    {
+                      "label": "mental changes"
+                    },
+                    {
+                      "label": "hemiparesis"
+                    },
+                    {
+                      "label": "papilledema"
+                    },
+                    {
+                      "label": "frequently a source of hemorrhage"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "usually asymptomatic"
+        },
+        {
+          "label": "retinal findings",
+          "children": [
+            {
+              "label": "grapelike clusters of thin-walled saccular angiomatous lesions",
+              "children": [
+                {
+                  "label": "unlike the vascular brain lesions of SWS"
+                },
+                {
+                  "label": "inner retina"
+                },
+                {
+                  "label": "optic nerve head"
+                }
+              ]
+            },
+            {
+              "label": "blood flow is derived from the retinal circulation",
+              "children": [
+                {
+                  "label": "relatively stagnant"
+                }
+              ]
+            },
+            {
+              "label": "absence of subretinal fluid and exudate"
+            },
+            {
+              "label": "fluorescein angiography",
+              "children": [
+                {
+                  "label": "dilated saccular lesions fill slowly"
+                },
+                {
+                  "label": "plasma-erythrocyte layering",
+                  "children": [
+                    {
+                      "label": "characteristic"
+                    }
+                  ]
+                },
+                {
+                  "label": "no leakage",
+                  "children": [
+                    {
+                      "label": "differentiates from retinal telangiectasia, retinal capillary hemangioblastomas, and racemose aneurysm of the retina"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "vitreous hemorrhage",
+              "children": [
+                {
+                  "label": "rare"
+                },
+                {
+                  "label": "caused by vitreous traction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Treatment",
+          "children": [
+            {
+              "label": "usually not indicated"
+            },
+            {
+              "label": "recurrent vitreous hemorrhage",
+              "children": [
+                {
+                  "label": "photocoagulation"
+                },
+                {
+                  "label": "cryotherapy"
+                },
+                {
+                  "label": "vitrectomy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Von Hippel–Lindau Disease",
+      "children": [
+        {
+          "label": "VHL gene mutation",
+          "children": [
+            {
+              "label": "short arm of chromosome 3",
+              "children": [
+                {
+                  "label": "3p26–p25"
+                }
+              ]
+            },
+            {
+              "label": "tumor suppressor gene"
+            },
+            {
+              "label": "autosomal dominant",
+              "children": [
+                {
+                  "label": "incomplete penetrance"
+                },
+                {
+                  "label": "variable expression"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "central nervous system tumors",
+          "children": [
+            {
+              "label": "hemangioblastomas of the cerebellum, medulla, pons, and spinal cord"
+            },
+            {
+              "label": "20%"
+            }
+          ]
+        },
+        {
+          "label": "retinal manifestations",
+          "children": [
+            {
+              "label": "spherical orange-red tumor"
+            },
+            {
+              "label": "feeded by dilated, tortuous retinal artery"
+            },
+            {
+              "label": "drained by an engorged vein"
+            },
+            {
+              "label": "± multiple in the same eye"
+            },
+            {
+              "label": "± bilateral",
+              "children": [
+                {
+                  "label": "50%"
+                }
+              ]
+            },
+            {
+              "label": "lipid exudates"
+            },
+            {
+              "label": "exudative retinal detachment",
+              "children": [
+                {
+                  "label": "cause decreased vision if macula involved"
+                }
+              ]
+            },
+            {
+              "label": "tractional detachment"
+            },
+            {
+              "label": "vitreous hemorrhage",
+              "children": [
+                {
+                  "label": "rare"
+                }
+              ]
+            },
+            {
+              "label": "may occur sporadically without systemic involvement",
+              "children": [
+                {
+                  "label": "von Hippel lesions"
+                }
+              ]
+            },
+            {
+              "label": "optic nerve head/peripapillary hemangioblastomas",
+              "children": [
+                {
+                  "label": "flat"
+                },
+                {
+                  "label": "difficult to recognize"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Visceral manifestations",
+          "children": [
+            {
+              "label": "renal cell carcinoma"
+            },
+            {
+              "label": "meningiomas"
+            },
+            {
+              "label": "pheochromocytomas"
+            },
+            {
+              "label": "cysts of the kidney, pancreas, liver, epididymis, and ovary"
+            },
+            {
+              "label": "leading causes of death",
+              "children": [
+                {
+                  "label": "cerebellar hemangioblastoma"
+                },
+                {
+                  "label": "renal cell carcinoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Testing",
+          "children": [
+            {
+              "label": "wide-angle fluorescein angiography",
+              "children": [
+                {
+                  "label": "allows detecting small, early lesions"
+                }
+              ]
+            },
+            {
+              "label": "genetic testing"
+            },
+            {
+              "label": "diagnosis of a retinal hemangioblastoma warrants systemic workup ± genetic testing"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "treatment of all identified retinal angiomas",
+              "children": [
+                {
+                  "label": "lesions usually enlarge with time"
+                }
+              ]
+            },
+            {
+              "label": "photocoagulation"
+            },
+            {
+              "label": "photodynamic therapy"
+            },
+            {
+              "label": "cryotherapy",
+              "children": [
+                {
+                  "label": "larger lesions"
+                },
+                {
+                  "label": "can cause temporary and marked increase in the amount of exudation/exudative retinal detachment"
+                }
+              ]
+            },
+            {
+              "label": "successful treatment",
+              "children": [
+                {
+                  "label": "shrinkage of angioma"
+                },
+                {
+                  "label": "attenuation of afferent vessels"
+                },
+                {
+                  "label": "resorption of subretinal fluid"
+                }
+              ]
+            },
+            {
+              "label": "careful follow-up",
+              "children": [
+                {
+                  "label": "to detect recurrence"
+                },
+                {
+                  "label": "to detect new lesions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Vasoproliferative tumors",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "idiopathic"
+                },
+                {
+                  "label": "ROP"
+                },
+                {
+                  "label": "retinitis pigmentosa"
+                }
+              ]
+            },
+            {
+              "label": "the feeder artery and draining veins are not dilated"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Phakomatoses.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 205,
+      "connector_rejected": 9,
+      "connector_edges": 145,
+      "connector_width": 1.08,
+      "text_labels": 111,
+      "tree_nodes": 111,
+      "component_roots": 3,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7073,
+      "root_font_size": 4.68,
+      "warnings": []
+    }
+  }
+}

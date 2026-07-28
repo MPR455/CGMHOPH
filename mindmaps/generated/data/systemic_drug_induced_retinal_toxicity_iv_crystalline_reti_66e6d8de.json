@@ -1,0 +1,244 @@
+{
+  "label": "Systemic Drug-Induced Retinal Toxicity IV: Crystalline Retinopathy",
+  "root": true,
+  "children": [
+    {
+      "label": "Systemic diseases",
+      "children": [
+        {
+          "label": "Primary hereditary hyperoxaluria"
+        },
+        {
+          "label": "Cystinosis"
+        },
+        {
+          "label": "Secondary oxalosis",
+          "children": [
+            {
+              "label": "chronic renal failure"
+            },
+            {
+              "label": "hemodialysis"
+            }
+          ]
+        },
+        {
+          "label": "Sjogren-Larsson syndrome"
+        }
+      ]
+    },
+    {
+      "label": "Canthaxantine",
+      "children": [
+        {
+          "label": "carotenoid to stimulate tanning"
+        },
+        {
+          "label": "crystalline maculopathy",
+          "children": [
+            {
+              "label": "after high dose therapy"
+            },
+            {
+              "label": "asymptomatic"
+            },
+            {
+              "label": "inner-retinal, glistening deposits",
+              "children": [
+                {
+                  "label": "doughnut pattern around macula",
+                  "children": [
+                    {
+                      "label": "predilection for juxtapapillary region"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "crystals resolve when drug stopped"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ocular diseases",
+      "children": [
+        {
+          "label": "Bietti crystalline dystrophy"
+        },
+        {
+          "label": "Calcific drusen"
+        },
+        {
+          "label": "Gyrate atrophy"
+        },
+        {
+          "label": "Retinal telangiectasia"
+        }
+      ]
+    },
+    {
+      "label": "Talc",
+      "children": [
+        {
+          "label": "injected along with drugs such as methylphenidate",
+          "children": [
+            {
+              "label": "long-term intravenous drug abusers"
+            }
+          ]
+        },
+        {
+          "label": "deposits",
+          "children": [
+            {
+              "label": "intravascular",
+              "children": [
+                {
+                  "label": "embolize smaller-caliber perifoveal retinal arterioles",
+                  "children": [
+                    {
+                      "label": "do not typically cause vision loss"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "refractile"
+            },
+            {
+              "label": "peripheral retinal neovascularization",
+              "children": [
+                {
+                  "label": "rare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ethylene glycol"
+    },
+    {
+      "label": "methoxyflurane anesthesia with renal dysfunction",
+      "children": [
+        {
+          "label": "intravascular crystalline deposits of oxalate"
+        }
+      ]
+    },
+    {
+      "label": "Tamoxifen",
+      "children": [
+        {
+          "label": "antiestrogen agent",
+          "children": [
+            {
+              "label": "adjuvant therapy for breast cancer"
+            }
+          ]
+        },
+        {
+          "label": "crystalline maculopathy",
+          "children": [
+            {
+              "label": "high dose therapy",
+              "children": [
+                {
+                  "label": "rare at standard doses",
+                  "children": [
+                    {
+                      "label": "20 mg/day"
+                    }
+                  ]
+                },
+                {
+                  "label": ".>200 mg/day"
+                },
+                {
+                  "label": ".>100 g"
+                }
+              ]
+            },
+            {
+              "label": "brilliant inner-retinal crystalline deposits",
+              "children": [
+                {
+                  "label": "clustered around the fovea"
+                }
+              ]
+            },
+            {
+              "label": "± CME"
+            },
+            {
+              "label": "significant vision loss in severe cases"
+            },
+            {
+              "label": "± irreversible"
+            },
+            {
+              "label": "rarely SD-OCT shows central loss of ellipsoid band after low-dose tamoxifen therapy, without visible crystals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "West African crystalline maculopathy",
+      "children": [
+        {
+          "label": "elderly persons from Igbo tribe of Nigeria",
+          "children": [
+            {
+              "label": "typically diabetic"
+            },
+            {
+              "label": "other countries in that region"
+            }
+          ]
+        },
+        {
+          "label": "inner-retinal refractile crystals of the fovea",
+          "children": [
+            {
+              "label": "yellow-green in color"
+            },
+            {
+              "label": "no vision loss"
+            }
+          ]
+        },
+        {
+          "label": "long-term ingestion of kola nuts"
+        }
+      ]
+    },
+    {
+      "label": "Nitrofurantoin"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Systemic Drug-Induced Retinal Toxicity IV - Crystalline Retinopathy.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 88,
+      "connector_rejected": 5,
+      "connector_edges": 64,
+      "connector_width": 0.886,
+      "text_labels": 59,
+      "tree_nodes": 59,
+      "component_roots": 8,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.7273,
+      "root_font_size": 6.2,
+      "warnings": []
+    }
+  }
+}

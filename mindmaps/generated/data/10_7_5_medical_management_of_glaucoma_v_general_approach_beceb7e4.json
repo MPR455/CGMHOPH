@@ -1,0 +1,544 @@
+{
+  "label": "10.7.5. Medical Management of Glaucoma (V): General Approach",
+  "root": true,
+  "children": [
+    {
+      "label": "Compliance",
+      "children": [
+        {
+          "label": "patient education",
+          "children": [
+            {
+              "label": "first step"
+            },
+            {
+              "label": "understanding the disease and benefits of treatment enhances compliance",
+              "children": [
+                {
+                  "label": "when patients are aware of the possible side effects of a medication, compliance is enhanced"
+                }
+              ]
+            },
+            {
+              "label": "include a discussion of treatment alternatives"
+            }
+          ]
+        },
+        {
+          "label": "teach patients how to properly instill medications"
+        },
+        {
+          "label": "make drug regimen as simple as possible",
+          "children": [
+            {
+              "label": "fewest number of medications with the least frequency"
+            },
+            {
+              "label": "coordinate administration with daily events"
+            }
+          ]
+        },
+        {
+          "label": "written schedule"
+        }
+      ]
+    },
+    {
+      "label": "Generic Medications",
+      "children": [
+        {
+          "label": "may be less expensive"
+        },
+        {
+          "label": "little data are available to prove or disprove equivalent efficacy and safety"
+        }
+      ]
+    },
+    {
+      "label": "Use of Glaucoma Medications in Elderly Patients",
+      "children": [
+        {
+          "label": "elderly patients have greater difficulty instilling their medications",
+          "children": [
+            {
+              "label": "tremor"
+            },
+            {
+              "label": "poor coordination"
+            },
+            {
+              "label": "arthritis"
+            },
+            {
+              "label": "reduced mental capacity"
+            },
+            {
+              "label": "poor memory"
+            },
+            {
+              "label": "complicated drug regimen"
+            }
+          ]
+        },
+        {
+          "label": "elderly persons have a greater susceptibility to the systemic adverse effects of glaucoma medications",
+          "children": [
+            {
+              "label": "α2-agonists"
+            },
+            {
+              "label": "β-adrenergic antagonists",
+              "children": [
+                {
+                  "label": "significant proportion of asymptomatic elderly patients suffer a significant, but reversible, reduction in pulmonary function"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Open-Angle Glaucoma",
+      "children": [
+        {
+          "label": "establish target IOP range"
+        },
+        {
+          "label": "initiate treatment with a single topical medication",
+          "children": [
+            {
+              "label": "unless the starting IOP is extremely high"
+            },
+            {
+              "label": "initial medical therapy should be individualized based on the efficacy, safety, and tolerability of the drug and the patient’s status and needs"
+            },
+            {
+              "label": "briefly discuss treatment options with the patient"
+            }
+          ]
+        },
+        {
+          "label": "first-line therapy",
+          "children": [
+            {
+              "label": "drugs",
+              "children": [
+                {
+                  "label": "prostaglandin analogues",
+                  "children": [
+                    {
+                      "label": "most effective agents to lower IOP"
+                    },
+                    {
+                      "label": "best systemic safety profile"
+                    },
+                    {
+                      "label": "once-daily"
+                    },
+                    {
+                      "label": "commonly the first class of medications used"
+                    }
+                  ]
+                },
+                {
+                  "label": "β-blockers",
+                  "children": [
+                    {
+                      "label": "best tolerated locally"
+                    }
+                  ]
+                },
+                {
+                  "label": "α2-agonists",
+                  "children": [
+                    {
+                      "label": "have significant systemic side effects"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical CAIs"
+                }
+              ]
+            },
+            {
+              "label": "test the medication in 1 eye until the effectiveness of therapy has been established",
+              "children": [
+                {
+                  "label": "unless the IOP is extremely high"
+                }
+              ]
+            },
+            {
+              "label": "if 1 drug is not adequate, the initial agent may be discontinued and another tried"
+            },
+            {
+              "label": "if no single agent controls the pressure, a combination of topical agents should be used"
+            }
+          ]
+        },
+        {
+          "label": "second-line therapy",
+          "children": [
+            {
+              "label": "also includes",
+              "children": [
+                {
+                  "label": "miotic therapy for nonphakic patients"
+                },
+                {
+                  "label": "in rare instances, systemic CAIs for short periods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "if the patient requires ≥3 medications",
+          "children": [
+            {
+              "label": "compliance becomes more difficult"
+            },
+            {
+              "label": "potential for local ocular and systemic side effects increases"
+            },
+            {
+              "label": "patients may not tolerate multiple topical agents because of preservative toxicity",
+              "children": [
+                {
+                  "label": "benzalkonium chloride",
+                  "children": [
+                    {
+                      "label": "most commonly used preservative"
+                    }
+                  ]
+                },
+                {
+                  "label": "if a reaction is suspected, an alternative can be used",
+                  "children": [
+                    {
+                      "label": "preservative-free timolol maleate"
+                    },
+                    {
+                      "label": "preservative-free tafluprost"
+                    },
+                    {
+                      "label": "preservative-free dorzolamide"
+                    },
+                    {
+                      "label": "BAK-free travoprost"
+                    },
+                    {
+                      "label": "timolol in gel-forming solution preserved with benzododecinium bromide"
+                    },
+                    {
+                      "label": "brimonidine 0.1% preserved with Purite"
+                    },
+                    {
+                      "label": "preservative-free timolol/dorzolamide fixed combination"
+                    }
+                  ]
+                },
+                {
+                  "label": "it may be beneficial, for rehabilitation of the ocular surface, to stop all topical medications and to use unpreserved artificial tears frequently",
+                  "children": [
+                    {
+                      "label": "temporary use of oral CAIs may be useful to lower IOP during this period"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ophthalmologist must inquire about systemic side effects",
+          "children": [
+            {
+              "label": "modification of systemic β-blocker therapy for hypertension may affect glaucoma control"
+            }
+          ]
+        },
+        {
+          "label": "patient compliance may decline as the complexity and expense of the medical regimen increase"
+        },
+        {
+          "label": "monitor patient’s optic nerve and visual field status",
+          "children": [
+            {
+              "label": "IOP, though important, is only one of several factors to monitor"
+            },
+            {
+              "label": "optic nerve photographs"
+            },
+            {
+              "label": "visual fields"
+            },
+            {
+              "label": "must be compared periodically to ensure that the disease is stable",
+              "children": [
+                {
+                  "label": "condition of the patient and severity of the disease determine how often each of these parameters must be checked"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "if cupping or visual field damage shows evidence of progression despite apparent control of acceptable IOP, consider other diseases",
+          "children": [
+            {
+              "label": "IOP level that is too high for the particular patient’s optic nerve"
+            },
+            {
+              "label": "IOP that may be spiking at times when the patient is not in the physician’s office"
+            },
+            {
+              "label": "low central corneal thickness"
+            },
+            {
+              "label": "sleep apnea"
+            },
+            {
+              "label": "concomitant angle closure"
+            },
+            {
+              "label": "poor patient compliance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "B for Brimonidine"
+    },
+    {
+      "label": "Use of Glaucoma Medications During Pregnancy or by Nursing Mothers",
+      "children": [
+        {
+          "label": "little definitive information concerning the use of glaucoma medications in pregnant women or nursing mothers"
+        },
+        {
+          "label": "FDA classification system for potential teratogenicity of approved medications",
+          "children": [
+            {
+              "label": "A, B, C, D, or X"
+            },
+            {
+              "label": "pregnancy Category B",
+              "children": [
+                {
+                  "label": "definition",
+                  "children": [
+                    {
+                      "label": "animal studies have revealed no harm to the fetus, but no adequate and well-controlled studies have been done in pregnant women",
+                      "children": [
+                        {
+                          "label": "animal studies have shown an adverse effect, but adequate and well-controlled studies in pregnant woman have failed to demonstrate a risk to the fetus"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "brimonidine",
+                      "children": [
+                        {
+                          "label": "can cause respiratory arrest in infants and young children",
+                          "children": [
+                            {
+                              "label": "should not be used in these patients"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pregnancy Category C",
+              "children": [
+                {
+                  "label": "definition",
+                  "children": [
+                    {
+                      "label": "no animal studies have been conducted and it is not known whether the drug can cause harm when given to a pregnant woman"
+                    },
+                    {
+                      "label": "adverse effect in animal studies, but there are no adequate and well-controlled studies of these drugs in pregnant women"
+                    }
+                  ]
+                },
+                {
+                  "label": "all other glaucoma agents",
+                  "children": [
+                    {
+                      "label": "timolol",
+                      "children": [
+                        {
+                          "label": "tends to be used during pregnancy, because of its long track record"
+                        },
+                        {
+                          "label": "β-adrenergic antagonists are concentrated 5x in breast milk",
+                          "children": [
+                            {
+                              "label": "should be avoided in nursing mothers because of their potential adverse effects on infants"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "CAIs",
+                      "children": [
+                        {
+                          "label": "teratogenic in rodents",
+                          "children": [
+                            {
+                              "label": "oral CAIs should not be used by women in their childbearing years or by those who are pregnant"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "prostaglandins",
+                      "children": [
+                        {
+                          "label": "increase uterine contractility and may induce labor",
+                          "children": [
+                            {
+                              "label": "should not be used during pregnancy"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "should be used during pregnancy only if clearly indicated"
+                }
+              ]
+            },
+            {
+              "label": "X",
+              "children": [
+                {
+                  "label": "the most teratogenic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "minimize the use of medications in pregnant women whenever possible"
+        },
+        {
+          "label": "consider laser trabeculoplasty or surgical intervention in cases where vision loss is a concern"
+        }
+      ]
+    },
+    {
+      "label": "Administration of Ocular Medications",
+      "children": [
+        {
+          "label": "show patients how to instill eyedrops properly"
+        },
+        {
+          "label": "methods to promote corneal penetration and reduce systemic absorption of the drug",
+          "children": [
+            {
+              "label": "nasolacrimal occlusion"
+            },
+            {
+              "label": "closure of the eyes for 1–3 minutes after instillation of the eyedrop"
+            },
+            {
+              "label": "especially important with the use of β-blockers"
+            }
+          ]
+        },
+        {
+          "label": "ensure that there is a sufficient amount of time between the instillation of different medications",
+          "children": [
+            {
+              "label": "≥5 minutes"
+            }
+          ]
+        },
+        {
+          "label": "coordinate the administration of medication with a part of the daily routine"
+        },
+        {
+          "label": "dosing aid device",
+          "children": [
+            {
+              "label": "especially for patients who live alone or who are unable to successfully instill eyedrops"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Angle-Closure Glaucoma",
+      "children": [
+        {
+          "label": "lower the IOP in preparation for laser iridotomy"
+        },
+        {
+          "label": "rapid IOP reduction is required in order to",
+          "children": [
+            {
+              "label": "prevent further damage to the optic nerve"
+            },
+            {
+              "label": "clear the cornea of edema"
+            },
+            {
+              "label": "reduce intraocular inflammation"
+            },
+            {
+              "label": "allow pupillary constriction"
+            },
+            {
+              "label": "prevent formation of posterior and peripheral anterior synechiae"
+            }
+          ]
+        },
+        {
+          "label": "medical therapy for chronic angle closure is the same as that for POAG",
+          "children": [
+            {
+              "label": "miotics play a greater role",
+              "children": [
+                {
+                  "label": "use of miotics may induce a paradoxical increase in IOP if the angle is closed and the trabecular meshwork is nonfunctional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.7.5. Medical Management of Glaucoma (V) - General Approach.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 231,
+      "connector_rejected": 0,
+      "connector_edges": 175,
+      "connector_width": 0.778,
+      "text_labels": 139,
+      "tree_nodes": 139,
+      "component_roots": 8,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7576,
+      "root_font_size": 3.892,
+      "warnings": []
+    }
+  }
+}

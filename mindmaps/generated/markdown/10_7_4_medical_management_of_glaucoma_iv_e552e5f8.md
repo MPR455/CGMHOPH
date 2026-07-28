@@ -1,0 +1,145 @@
+---
+title: "10.7.4. Medical Management of Glaucoma (IV)"
+category: "Glaucoma"
+subcategory: ""
+source_pdf: "MindmapPDF/Glaucoma/10.7.4. Medical Management of Glaucoma (IV).pdf"
+---
+
+# 10.7.4. Medical Management of Glaucoma (IV)
+
+## Hierarchy
+
+- Hyperosmotic Agents
+  - drugs
+    - oral glycerol
+    - intravenous mannitol
+    - distributed only in extracellular water
+  - mechanism
+    - increase blood osmolality
+      - osmotic gradient between blood and vitreous humor
+        - draw water from the vitreous cavity
+    - the larger and the more rapid the dose the greater the IOP reduction
+    - when the blood–aqueous barrier is disrupted, the osmotic agent enters the eye faster reducing the effect
+  - indications
+    - to control acute episodes of elevated IOP
+    - rarely administered for > few hours
+      - become less effective over time
+      - rebound elevation in IOP may occur if the agent penetrates the eye and reverses the osmotic gradient
+  - adverse effects
+    - headache
+    - backache
+    - mental confusion
+    - acute congestive heart failure
+      - rapid increase in extracellular volume and cardiac preload
+      - more likely with IV administration
+    - myocardial infarction
+    - subdural and subarachnoid hemorrhages
+    - hyperosmotics (& oral CAIs) contraindicated in patients in renal failure or on dialysis
+    - in patients with diabetes, glycerol can precipitate
+      - hyperglycemia
+      - ketoacidosis
+- Carbonic Anhydrase Inhibitors (CAIs)
+  - IOP lowering mechanism
+    - generalized acidosis
+      - inhibition of ciliary epithelial carbonic anhydrase
+        - decreased aqueous humor formation
+          - .>90% of ciliary epithelial enzyme activity must be abolished to decrease aqueous production
+      - only with systemic administration!
+  - carbonic anhydrase is present in many other tissues
+    - corneal endothelium
+    - iris
+    - retinal pigment epithelium
+    - red blood cells
+    - brain
+    - kidney
+  - topical CAI agents
+    - drugs
+      - dorzolamide
+      - brinzolamide
+    - sulfonamide derivatives
+    - fewer systemic side effects than the oral agents
+    - 3x/day is only slightly more effective than 2x/ day
+    - no additive effect to oral CAI
+    - common adverse effects
+      - bitter taste
+      - blurred vision
+      - dorzolamide
+        - punctate keratopathy
+        - transient burning because of its lower pH
+      - brinzolamide
+        - is a suspension, resulting in white deposits in the tear film
+      - corneal decompensation
+        - eyes with compromised endothelial cell function
+  - systemic agents
+    - routes of administration
+      - orally
+        - act within 1 hour
+        - peak effect 2–4 hours
+        - sustained-release acetazolamide
+          - peak effect 3–6 hours
+      - intramuscularly
+      - intravenously
+    - drugs
+      - acetazolamide
+        - not metabolized and is excreted in urine
+      - methazolamide
+        - less bound to serum protein
+        - less effective than acetazolamide
+        - longer duration of action
+        - metabolized by the liver
+          - less systemic adverse effects
+      - dichlorphenamide
+    - adverse effects
+      - dose-related
+        - use lowest effective dose
+          - METAzolaide is METAbolized
+          - methazolamide
+            - effective in doses as low as 25–50 mg 2-3x/ day
+          - acetazolamide
+            - 250 mg 4x/day
+          - sustained release
+            - 250–500 mg 2x/day
+        - sustained-release formulations may have fewer side effects
+        - methazolamide and sustained-release acetazolamide are the best tolerated of the systemic CAIs
+      - lassitude
+        - paresthesias of the fingers or toes
+      - loss of energy
+      - anorexia
+      - weight loss
+      - abdominal discomfort
+      - diarrhea
+      - loss of libido
+      - impotence
+      - unpleasant taste in the mouth
+      - severe mental depression
+      - calcium oxylate and calcium phosphate renal stones
+        - methazolamide<acetazolamide
+      - allergic reaction in individuals with sulfa allergy
+        - cross-reactivity is low!
+      - hypokalemia
+        - especially when used with another drug that causes potassium loss (eg, a thiazide diuretic)
+          - serum potassium should be monitored regularly in such patients
+      - aplastic anemia
+        - rare
+          - routine CBC not predictive of this idiosyncratic reaction and not routinely recommended
+      - thrombocytopenia
+      - agranulocytosis
+    - useful in acute situations
+      - long-term therapy with these agents should be reserved for
+        - glaucoma not controlled with topical therapy
+        - patient refuses surgery/surgery not appropriate
+- Combined Medications
+  - drugs
+    - timolol + CAI (dorzolamide, brinzolamide)
+    - timolol + α2-adrenergic agonist (brimonidine)
+      - efficacy similar to that of these components given separately
+        - slightly less effective than their individual components given separately
+    - timolol + prostaglandin analogue (latanoprost, travoprost, bimatoprost)
+  - benefits
+    - reduced cost
+    - improved convenience and compliance
+  - disadvantages
+    - twice-daily dosing may increase the risk of systemic β-blocker side effects
+      - the full effect of a β-blocker can be achieved with once-daily dosing
+    - side effects are the same as for both drugs individually
+  - do not use unless timolol alone does not sufficiently lower the IOP

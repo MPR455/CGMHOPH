@@ -1,0 +1,386 @@
+{
+  "label": "Pterygium",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "45-year-old sailor has noted a slowly enlarging pinkish spot on the surface of his left eye"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "wing-shaped growth of conjunctiva and fibrovascular tissue on the superficial cornea; no leukoplakia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & progression"
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "redness"
+                },
+                {
+                  "label": "irritation/foreign-body sensation"
+                },
+                {
+                  "label": "poor cosmetic appearance"
+                },
+                {
+                  "label": "contact lens intolerance"
+                }
+              ]
+            },
+            {
+              "label": "sunlight exposure"
+            },
+            {
+              "label": "sunglass wear"
+            },
+            {
+              "label": "prior eye trauma/surgery"
+            },
+            {
+              "label": "prior eye diseases"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "slit lamp exam",
+              "children": [
+                {
+                  "label": "corneal thinning",
+                  "children": [
+                    {
+                      "label": "pseudopterygium"
+                    }
+                  ]
+                },
+                {
+                  "label": "anterior edge vs whole lesion adherent to cornea",
+                  "children": [
+                    {
+                      "label": "pseudopterygium vs pterygium"
+                    }
+                  ]
+                },
+                {
+                  "label": "leukoplakia"
+                },
+                {
+                  "label": "gelatinous appearance",
+                  "children": [
+                    {
+                      "label": "OSSN"
+                    }
+                  ]
+                },
+                {
+                  "label": "location not at 3 & 9"
+                }
+              ]
+            },
+            {
+              "label": "refraction for corneal astigmatism"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "pterygium"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "eye protection from",
+              "children": [
+                {
+                  "label": "sun"
+                },
+                {
+                  "label": "dust"
+                },
+                {
+                  "label": "wind",
+                  "children": [
+                    {
+                      "label": "UV-blocking sunglasses"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "eye lubrication"
+            },
+            {
+              "label": "dellen",
+              "children": [
+                {
+                  "label": "artificial tear ointment q2h"
+                }
+              ]
+            },
+            {
+              "label": "inflamed pterygium",
+              "children": [
+                {
+                  "label": "mild topical steroid"
+                },
+                {
+                  "label": "topical NSAID"
+                },
+                {
+                  "label": "topical antihistamine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "indications for excision",
+              "children": [
+                {
+                  "label": "threatens visual axis"
+                },
+                {
+                  "label": "significant astigmatism"
+                },
+                {
+                  "label": "excessive irritation"
+                },
+                {
+                  "label": "interferes with contact lens wear"
+                },
+                {
+                  "label": "prior to cataract or refractive surgery"
+                },
+                {
+                  "label": "poor cosmesis"
+                },
+                {
+                  "label": "atypical appearance"
+                },
+                {
+                  "label": "fast growth"
+                }
+              ]
+            },
+            {
+              "label": "conjunctival autograft transplantation"
+            },
+            {
+              "label": "amniotic membrane graft"
+            },
+            {
+              "label": "± MMC",
+              "children": [
+                {
+                  "label": "for recurrent pterygia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "pterygium",
+          "children": [
+            {
+              "label": "sunlight exposure"
+            },
+            {
+              "label": "equatorial regions"
+            },
+            {
+              "label": "3 & 9 o'clock positions"
+            }
+          ]
+        },
+        {
+          "label": "pseudopterygium",
+          "children": [
+            {
+              "label": "conjunctival scarring",
+              "children": [
+                {
+                  "label": "trauma/surgery"
+                },
+                {
+                  "label": "chemical burn"
+                },
+                {
+                  "label": "corneal ulcer"
+                }
+              ]
+            },
+            {
+              "label": "pannus from",
+              "children": [
+                {
+                  "label": "contact lens wear"
+                },
+                {
+                  "label": "blepharitis, rosacea"
+                },
+                {
+                  "label": "SLK"
+                },
+                {
+                  "label": "herpes"
+                },
+                {
+                  "label": "molluscum contagiosum"
+                },
+                {
+                  "label": "trachoma"
+                },
+                {
+                  "label": "atopy/vernal keratoconjunctivitis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "sclerokeratitis"
+        },
+        {
+          "label": "tumors",
+          "children": [
+            {
+              "label": "ocular surface squamous neoplasia (OSSN)"
+            },
+            {
+              "label": "limbal dermoid",
+              "children": [
+                {
+                  "label": "congenital"
+                },
+                {
+                  "label": "inferotemporal limbus"
+                },
+                {
+                  "label": "± Goldenhar syndrome"
+                }
+              ]
+            },
+            {
+              "label": "other conjunctival tumors",
+              "children": [
+                {
+                  "label": "papilloma"
+                },
+                {
+                  "label": "melanoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "can recur after surgery"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "interference with contact lens wear"
+            },
+            {
+              "label": "involvement of visual axis"
+            },
+            {
+              "label": "astigmatism"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "asymptomatic",
+              "children": [
+                {
+                  "label": "q1 year"
+                },
+                {
+                  "label": "measure rate of progression"
+                }
+              ]
+            },
+            {
+              "label": "topical steroid",
+              "children": [
+                {
+                  "label": "check in a few weeks for improvement and to monitor IOP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Pterygium.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 180,
+      "connector_rejected": 12,
+      "connector_edges": 131,
+      "connector_width": 1.457,
+      "text_labels": 99,
+      "tree_nodes": 99,
+      "component_roots": 6,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7278,
+      "root_font_size": 6.798,
+      "warnings": []
+    }
+  }
+}

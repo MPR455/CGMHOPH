@@ -1,0 +1,337 @@
+{
+  "label": "Conjunctival Lymphoma",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "elderly man with painless slowly enlarging pink-red lesion on the surface of his left eye"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "orbital imaging"
+        },
+        {
+          "label": "biopsy",
+          "children": [
+            {
+              "label": "histologic examination",
+              "children": [
+                {
+                  "label": "diffuse monomorphic sheet of lymphocytes in the stroma without well-defined follicles"
+                }
+              ]
+            },
+            {
+              "label": "immunohistochemistry",
+              "children": [
+                {
+                  "label": "predominance of B lymphocytes that are kappa or lambda light chain restricted",
+                  "children": [
+                    {
+                      "label": "require fresh tissue"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "flow cytometry",
+              "children": [
+                {
+                  "label": "to show clonality"
+                }
+              ]
+            },
+            {
+              "label": "molecular genetic testing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "conjunctival lymphoma"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "conjunctival lymphoma",
+          "children": [
+            {
+              "label": "age > 50 yr",
+              "children": [
+                {
+                  "label": "relatively well-defined salmon-pink subconjunctival mass involving the bulbar conjunctiva of the left eye"
+                }
+              ]
+            },
+            {
+              "label": "usually unilateral",
+              "children": [
+                {
+                  "label": "20% are bilateral"
+                }
+              ]
+            },
+            {
+              "label": "soft & mobile"
+            },
+            {
+              "label": "± orbital component"
+            },
+            {
+              "label": "most are extranodal marginal zone B-cell lymphoma (MALT type)"
+            }
+          ]
+        },
+        {
+          "label": "conjunctival lymphoid hyperplasia",
+          "children": [
+            {
+              "label": "clinically similar to lymphoma"
+            }
+          ]
+        },
+        {
+          "label": "extrascleral extension of uveal lymphoma",
+          "children": [
+            {
+              "label": "subconjunctival salmon- colored mass fixed to the underlying sclera"
+            }
+          ]
+        },
+        {
+          "label": "conjunctival amyloidosis",
+          "children": [
+            {
+              "label": "salmon-colored nodular elevation that may be associated with hemorrhage"
+            }
+          ]
+        },
+        {
+          "label": "episcleritis/scleritis"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "biopsy",
+          "children": [
+            {
+              "label": "excisional if small"
+            },
+            {
+              "label": "incisional if large"
+            },
+            {
+              "label": "± supplemental cryotherapy"
+            }
+          ]
+        },
+        {
+          "label": "EBRT",
+          "children": [
+            {
+              "label": "if complete excision not possible"
+            }
+          ]
+        },
+        {
+          "label": "intralesional interferon-α2b"
+        },
+        {
+          "label": "systemic rituximab"
+        },
+        {
+          "label": "chemotherapy",
+          "children": [
+            {
+              "label": "if systemic disease",
+              "children": [
+                {
+                  "label": "underlying systemic lymphoma may be present or develop in ≤ 31%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "refer to oncologist for systemic evaluation"
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "explain importance of long- term medical evaluation for lymphoma"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good prognosis if localized"
+            },
+            {
+              "label": "more guarded prognosis if systemic",
+              "children": [
+                {
+                  "label": "higher risk if bilateral"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "systemic lymphoma may develop!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course"
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "decreased vision",
+                  "children": [
+                    {
+                      "label": "orbital involvement"
+                    }
+                  ]
+                },
+                {
+                  "label": "double vision"
+                },
+                {
+                  "label": "pain",
+                  "children": [
+                    {
+                      "label": "scleritis"
+                    }
+                  ]
+                },
+                {
+                  "label": "redness"
+                }
+              ]
+            },
+            {
+              "label": "skin lesions elsewhere"
+            },
+            {
+              "label": "systemic lymphoma"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "APD"
+            },
+            {
+              "label": "EOM",
+              "children": [
+                {
+                  "label": "orbital involvement"
+                }
+              ]
+            },
+            {
+              "label": "Hertel"
+            },
+            {
+              "label": "optic disc swelling"
+            },
+            {
+              "label": "attachment to underlying sclera",
+              "children": [
+                {
+                  "label": "extrascleral extension of uveal lymphoma"
+                }
+              ]
+            },
+            {
+              "label": "AC rxn"
+            },
+            {
+              "label": "lid lesions"
+            },
+            {
+              "label": "iris, CB, or choroidal lesions",
+              "children": [
+                {
+                  "label": "uveal lymphoma"
+                }
+              ]
+            },
+            {
+              "label": "systemic adenopathy",
+              "children": [
+                {
+                  "label": "systemic lymphoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Conjunctival Lymphoma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 123,
+      "connector_rejected": 12,
+      "connector_edges": 90,
+      "connector_width": 1.519,
+      "text_labels": 82,
+      "tree_nodes": 82,
+      "component_roots": 7,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.7317,
+      "root_font_size": 7.087,
+      "warnings": []
+    }
+  }
+}

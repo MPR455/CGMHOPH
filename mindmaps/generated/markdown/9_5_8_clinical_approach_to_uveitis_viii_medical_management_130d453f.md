@@ -1,0 +1,188 @@
+---
+title: "9.5.8. Clinical approach to uveitis (VIII): Medical Management (III): Immunomodulatory Medications (I)"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.5.8. Clinical approach to uveitis (VIII) - Medical Management (III) - Immunomodulatory Medications (I).pdf"
+---
+
+# 9.5.8. Clinical approach to uveitis (VIII): Medical Management (III): Immunomodulatory Medications (I)
+
+## Hierarchy
+
+- Introduction to Immunomodulatory Medications
+  - indications
+    - inadequate/failed response to corticosteroid treatment
+    - corticosteroids contraindicated because of systemic problems
+    - early use of IMT is indicated in certain uveitic entities
+      - initial treatment of these entities with IMT has been shown to improve long-term prognosis
+      - necrotizing scleritis associated with systemic vasculitis
+      - ocular cicatricial pemphigoid
+      - serpiginous choroiditis
+      - Behçet disease
+      - sympathetic ophthalmia
+      - VKH syndrome
+    - severe vision-threatening uveitis
+    - disease process that is likely reversible
+    - serious corticosteroid-induced adverse effects
+      - .>3 months at doses greater than 5–10 mg/ day
+    - long-term corticosteroid dependence
+      - patients requiring repeat corticosteroid injections
+  - general
+    - before initiating IMT, the physician should ensure
+      - an absence of hepatic and hematologic contraindications
+      - meticulous follow-up by a practitioner experienced with IMT
+      - objective longitudinal evaluation of the disease process
+      - an absence of infection
+      - delay in therapeutic response for weeks - months after initiation of IMT
+        - informed consent
+        - most patients need to be on corticosteroids until the immunomodulatory effect begins
+    - classes of immunomodulatory medications
+      - antimetabolites
+      - inhibitors of T-cell signaling
+      - alkylating agents
+      - biologic response modifiers
+    - serious complications
+      - renal and hepatic toxicity
+        - liver and renal function tests
+      - bone marrow suppression
+        - complete blood count
+      - increased susceptibility to infection
+        - trimethoprim-sulfamethoxazole prophylaxis against Pneumocystis jirovecii (Pneumocystis carinii) in patients on alkylating agents
+      - potentially teratogenic
+        - avoid becoming pregnant
+      - alkylating agents
+        - increased risk of future malignancies (leukemia or lymphoma)
+          - study of 7957 patients with noninfectious uveitis treated with IMT
+            - no overall cancer mortality rates
+              - tumor necrosis factor inhibitors were associated with increased overall (x2) and cancer (x3.8) risk of mortality
+        - sterility
+- Alkylating agents
+  - introduction
+    - indications
+      - use only if other immunomodulators fail to control uveitis
+        - should be used with great caution and only by clinicians experienced in their dosing and potential toxicity
+      - first line of therapy for necrotizing scleritis associated with systemic vasculitides
+        - granulomatosis with polyangiitis (Wegener granulomatosis)
+        - relapsing polychondritis
+      - intermediate uveitis
+      - VKH syndrome
+      - sympathetic ophthalmia
+      - Behçet disease
+    - adverse effect
+      - increased risk of malignancy
+        - with doses/durations used for the treatment of uveitis, the risk is probably low
+        - patients with granulomatosis with polyangiitis treated with cyclophosphamide
+          - 2.4x increased risk of cancer
+        - patients with polycythemia rubra vera treated with chlorambucil
+          - 33x increased risk of bladder cancer
+          - 13.5x greater risk of leukemia
+      - high rate of sterility
+        - consider sperm or embryo banking
+  - cyclophosphamide
+    - metabolized in the liver into active metabolites
+      - alkylate purines in DNA and RNA
+        - impaired DNA replication and cell death
+          - cytotoxic to resting and actively dividing lymphocytes
+    - 1/3 of patients discontinue therapy within 1 year because of reversible adverse effects
+      - hemorrhagic cystitis
+        - more common when cyclophosphamide is administered orally
+        - drink >2 liters of fluid per day
+        - urinalysis
+          - microscopic hematuria
+            - a warning for the patient to increase hydration
+          - gross hematuria
+            - an indication to discontinue therapy
+      - myelosuppression
+        - CBC
+          - leukocyte count <2500 cells/μL
+            - discontinue cyclophosphamide until cell count recovers
+      - teratogenicity
+      - sterility
+      - reversible alopecia
+      - opportunistic infections
+        - Pneumocystis jirovecii pneumonia
+        - trimethoprim-sulfamethoxazole prophylaxis is recommended
+    - routes
+      - oral
+      - intravenous
+        - more effective in controlling ocular inflammation when given orally (2 mg/kg/day) than intermittent intravenous pulses
+    - indications
+      - necrotizing scleritis
+      - retinal vasculitis
+      - other uveitic conditions
+    - treat x 1 year
+      - adjust dose to maintain leukocyte counts between 3000 and 4000 cells/μL after the patient has been tapered off corticosteroids
+      - inflammation control is achieved in 3/4 of patients within 12 months
+      - disease remission occurs in two-thirds of patients within 2 years
+  - Chlorambucil
+    - long-term, drug-free remissions in 66%–75% of patients with
+      - sympathetic ophthalmia
+      - Behçet disease
+      - other sight-threatening uveitic syndromes
+    - very long-acting alkylating agent
+      - interferes with DNA replication
+    - absorbed well when administered orally
+      - single daily dose of 0.1–0.2 mg/kg
+    - adverse effects
+      - myelosuppression
+      - sterility
+      - teratogenicity
+- Inhibitors of T-cell signaling
+  - cyclosporine
+    - macrolide product of fungus Beauveria nivea
+    - calcineurin inhibitor
+      - eliminates T-cell receptor signal transduction
+        - downregulates interleukin-2 (IL-2) gene transcription
+          - downregulates receptor expression of CD4+ T lymphocytes
+    - 2 oral preparations
+      - Neoral
+        - better bioavailability
+        - initiated at 2 mg/kg/day
+          - adjusted based on toxicity and clinical response to 1–5 mg/kg/day
+      - Sandimmune
+        - initiated at 2.5 mg/kg/day
+    - adverse effects
+      - paresthesia
+      - gastrointestinal upset
+      - fatigue
+      - primary skin cancers
+        - higher risk in patients with psoriasis
+      - usually not necessary to monitor drug levels
+      - hypertrichosis
+      - gingival hyperplasia
+      - most common
+        - systemic hypertension
+        - nephrotoxicity
+          - increased serum creatinine by 30%
+            - uncontrolled hypertension is an absolute contraindication
+            - dose adjustment
+          - sustained elevation of serum creatinine
+            - cessation of medication until levels return to baseline
+            - abnormal renal function is an absolute contraindication
+      - toxicity necessitating cessation of therapy is more common in patients >55 years
+    - indications
+      - intermediate uveitis
+      - several types of posterior uveitis
+        - VKH syndrome
+        - Behçet uveitis
+          - control of inflammation in 50%
+            - dose used in this study was 10 mg/kg/day
+            - substantial nephrotoxicity
+      - cyclosporine + corticosteroids modestly effective in controlling uveitis in up to 33% of patients
+  - tacrolimus
+    - product of Streptomyces tsukubaensis
+    - oral
+      - calcineurin inhibitor
+    - excellent long-term tolerability and efficacy
+      - 85% chance of reducing prednisone dosage to less than 10 mg/day
+    - main adverse effect
+      - nephrotoxicity
+        - monitor serum creatinine level
+          - less common than cyclosporine!
+    - in a prospective trial compared with cyclosporine
+      - equal efficacy in controlling chronic posterior and intermediate uveitis
+  - sirolimus
+    - noncalcineurin inhibitor of T-cell signaling
+      - greater safety (lower risk of hypertension and hyperlipidemia)
+      - inhibits antibody production and B lymphocytes
+    - antifungal product of Streptomyces hygroscopicus

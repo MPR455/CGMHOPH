@@ -1,0 +1,208 @@
+{
+  "label": "8.13.9. Toxic & Traumatic Injuries (IX): Surgical Trauma",
+  "root": true,
+  "children": [
+    {
+      "label": "Corneal Epithelial Changes From Intraocular Surgery",
+      "children": [
+        {
+          "label": "pathogenesis of epithelial breakdown",
+          "children": [
+            {
+              "label": "inadvertent intraoperative trauma to the epithelium by surgical instruments"
+            },
+            {
+              "label": "desiccation of the epithelium through inadequate intraoperative hydration"
+            },
+            {
+              "label": "toxic keratopathy resulting from excessive preoperative instillation of topical ophthalmic preparations (and their preservatives)"
+            },
+            {
+              "label": "accidental instillation of preoperative periocular facial scrub detergents"
+            }
+          ]
+        },
+        {
+          "label": "endothelial damage has a far greater effect on corneal edema than does epithelial damage"
+        },
+        {
+          "label": "damage to endothelium and/or Descemet membrane can result in epithelial edema",
+          "children": [
+            {
+              "label": "corneal surface becomes irregular",
+              "children": [
+                {
+                  "label": "glare"
+                },
+                {
+                  "label": "photophobia"
+                },
+                {
+                  "label": "halos around lights"
+                },
+                {
+                  "label": "decreased vision",
+                  "children": [
+                    {
+                      "label": "epithelial edema is more damaging to vision than stromal edema or scarring"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Conjunctival and Corneal Changes From Extraocular Surgery",
+      "children": [
+        {
+          "label": "orbital surgery and trauma",
+          "children": [
+            {
+              "label": "conjunctival chemosis with prolapse",
+              "children": [
+                {
+                  "label": "exposed conjunctiva should not be excised but rather be reposited",
+                  "children": [
+                    {
+                      "label": "kept in place with",
+                      "children": [
+                        {
+                          "label": "patching"
+                        },
+                        {
+                          "label": "mattress sutures"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "proptosis of the globe",
+              "children": [
+                {
+                  "label": "exposure keratopathy",
+                  "children": [
+                    {
+                      "label": "lubricants"
+                    },
+                    {
+                      "label": "eyelid patching or taping"
+                    },
+                    {
+                      "label": "moist-chamber dressings"
+                    },
+                    {
+                      "label": "temporary tarsorrhaphy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Corneal Endothelial Changes From Intraocular Surgery",
+      "children": [
+        {
+          "label": "corneal hydration involves the following factors",
+          "children": [
+            {
+              "label": "stromal swelling pressure"
+            },
+            {
+              "label": "barrier function of the epithelium and endothelium"
+            },
+            {
+              "label": "the endothelial pump"
+            },
+            {
+              "label": "evaporation from the corneal surface"
+            },
+            {
+              "label": "IOP"
+            }
+          ]
+        },
+        {
+          "label": "causes of endothelial damage",
+          "children": [
+            {
+              "label": "cataract surgery and IOL implantation"
+            },
+            {
+              "label": "laser burns",
+              "children": [
+                {
+                  "label": "iris photocoagulation"
+                },
+                {
+                  "label": "endothelial burns are usually dense white with sharp margins"
+                },
+                {
+                  "label": "in follow-up periods of ≤1 year, endothelial cell loss following laser iridectomy has not been found to be statistically significant"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Descemet Membrane Changes During Intraocular Surgery",
+      "children": [
+        {
+          "label": "stromal edema",
+          "children": [
+            {
+              "label": "bowing and folding of Descemet membrane (striate keratopathy)"
+            }
+          ]
+        },
+        {
+          "label": "Detachment of Descemet membrane",
+          "children": [
+            {
+              "label": "stromal swelling and epithelial bullae localized in the area of detachment"
+            },
+            {
+              "label": "Descemet membrane can be stripped off the stroma during reintroduction of the keratome through the incision"
+            },
+            {
+              "label": "membrane can be reattached with air tamponade",
+              "children": [
+                {
+                  "label": "recurrence may require suturing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.13.9. Toxic & Traumatic Injuries (IX) - Surgical Trauma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 86,
+      "connector_rejected": 6,
+      "connector_edges": 60,
+      "connector_width": 1.37,
+      "text_labels": 49,
+      "tree_nodes": 49,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6977,
+      "root_font_size": 3.882,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,733 @@
+{
+  "label": "7.2.1. Evaluation of Orbital Disorders (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "5 basic clinical patterns",
+      "children": [
+        {
+          "label": "(1) inflammatory",
+          "children": [
+            {
+              "label": "acute, subacute, and chronic"
+            }
+          ]
+        },
+        {
+          "label": "(2) mass effect",
+          "children": [
+            {
+              "label": "globe displacement with axial or nonaxial proptosis"
+            }
+          ]
+        },
+        {
+          "label": "(3) structural",
+          "children": [
+            {
+              "label": "congenital or acquired change in the bony orbital structure"
+            }
+          ]
+        },
+        {
+          "label": "(4) vascular",
+          "children": [
+            {
+              "label": "venous or arterial lesions with characteristic dynamic changes"
+            }
+          ]
+        },
+        {
+          "label": "(5) functional",
+          "children": [
+            {
+              "label": "sensory and/or motor dysfunction of neurovascular structures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "History",
+      "children": [
+        {
+          "label": "onset, course, and duration of symptoms and signs",
+          "children": [
+            {
+              "label": "pain",
+              "children": [
+                {
+                  "label": "inflammatory or infectious lesions"
+                },
+                {
+                  "label": "orbital hemorrhage"
+                },
+                {
+                  "label": "malignant lacrimal gland tumors"
+                },
+                {
+                  "label": "invasion from adjacent nasopharyngeal carcinoma"
+                },
+                {
+                  "label": "metastatic lesions"
+                }
+              ]
+            },
+            {
+              "label": "progression",
+              "children": [
+                {
+                  "label": "onset occurring over days to weeks",
+                  "children": [
+                    {
+                      "label": "nonspecific orbital inflammation"
+                    },
+                    {
+                      "label": "scleritis"
+                    },
+                    {
+                      "label": "myositis"
+                    },
+                    {
+                      "label": "dacryoadenitis"
+                    },
+                    {
+                      "label": "orbital cellulitis"
+                    },
+                    {
+                      "label": "hemorrhage"
+                    },
+                    {
+                      "label": "thrombophlebitis"
+                    },
+                    {
+                      "label": "fulminant neoplasia",
+                      "children": [
+                        {
+                          "label": "rhabdomyosarcoma"
+                        },
+                        {
+                          "label": "neuroblastoma"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "metastatic tumors"
+                    }
+                  ]
+                },
+                {
+                  "label": "onset occurring over months to years",
+                  "children": [
+                    {
+                      "label": "dermoid cyst"
+                    },
+                    {
+                      "label": "benign mixed tumor"
+                    },
+                    {
+                      "label": "neurogenic tumor"
+                    },
+                    {
+                      "label": "cavernous hemangioma"
+                    },
+                    {
+                      "label": "lymphoma"
+                    },
+                    {
+                      "label": "fibrous histiocytoma"
+                    },
+                    {
+                      "label": "fibrous dysplasia"
+                    },
+                    {
+                      "label": "osteoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "periorbital changes",
+              "children": [
+                {
+                  "label": "ecchymosis of the eyelid skin",
+                  "children": [
+                    {
+                      "label": "metastatic neuroblastoma"
+                    },
+                    {
+                      "label": "leukemia"
+                    },
+                    {
+                      "label": "amyloidosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "optociliary shunt vessels on the disc",
+                  "children": [
+                    {
+                      "label": "\"retinociliary venous collaterals\""
+                    },
+                    {
+                      "label": "meningioma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prior disease",
+          "children": [
+            {
+              "label": "thyroid eye disease"
+            },
+            {
+              "label": "sinus disease"
+            }
+          ]
+        },
+        {
+          "label": "injury",
+          "children": [
+            {
+              "label": "head or facial trauma"
+            }
+          ]
+        },
+        {
+          "label": "systemic disease",
+          "children": [
+            {
+              "label": "especially cancer"
+            }
+          ]
+        },
+        {
+          "label": "family history"
+        },
+        {
+          "label": "old photographs for establishing a timeline of the process"
+        }
+      ]
+    },
+    {
+      "label": "Inspection",
+      "children": [
+        {
+          "label": "proptosis (exophthalmos)",
+          "children": [
+            {
+              "label": "forward displacement"
+            },
+            {
+              "label": "asymmetry >2 mm suggests proptosis or enophthalmos"
+            },
+            {
+              "label": "worm’s-eye view",
+              "children": [
+                {
+                  "label": "proptosis best appreciated when the examiner looks up from below with the patient’s head tilted back"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "enophthalmos",
+          "children": [
+            {
+              "label": "retrodisplacement of the eye into the orbit",
+              "children": [
+                {
+                  "label": "volume expansion of the orbit",
+                  "children": [
+                    {
+                      "label": "fracture"
+                    }
+                  ]
+                },
+                {
+                  "label": "orbital varix"
+                },
+                {
+                  "label": "sclerosing orbital tumors",
+                  "children": [
+                    {
+                      "label": "metastatic breast carcinoma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "exorbitism",
+          "children": [
+            {
+              "label": "angle between lateral orbital walls >90°"
+            },
+            {
+              "label": "± associated with shallow orbits"
+            },
+            {
+              "label": "congenital or traumatic abnormalities"
+            }
+          ]
+        },
+        {
+          "label": "hypertelorism (telorbitism)",
+          "children": [
+            {
+              "label": "wider-than-normal separation between the medial orbital walls"
+            },
+            {
+              "label": "congenital or traumatic abnormalities"
+            }
+          ]
+        },
+        {
+          "label": "telecanthus",
+          "children": [
+            {
+              "label": "abnormal increased distance between the medial canthi"
+            }
+          ]
+        },
+        {
+          "label": "hyperglobus or hypoglobus",
+          "children": [
+            {
+              "label": "vertical displacement"
+            }
+          ]
+        },
+        {
+          "label": "globe is usually displaced away from the site of the mass",
+          "children": [
+            {
+              "label": "axial displacement",
+              "children": [
+                {
+                  "label": "intraconal mass behind the globe",
+                  "children": [
+                    {
+                      "label": "cavernous hemangioma"
+                    },
+                    {
+                      "label": "glioma"
+                    },
+                    {
+                      "label": "meningioma"
+                    },
+                    {
+                      "label": "metastases"
+                    },
+                    {
+                      "label": "arteriovenous malformations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nonaxial displacement",
+              "children": [
+                {
+                  "label": "lesion with a prominent component outside the muscle cone",
+                  "children": [
+                    {
+                      "label": "superior displacement",
+                      "children": [
+                        {
+                          "label": "maxillary sinus tumors invading the orbital floor"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "inferomedial displacement",
+                      "children": [
+                        {
+                          "label": "orbital dermoid cysts"
+                        },
+                        {
+                          "label": "lacrimal gland tumors"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "inferolateral displacement",
+                      "children": [
+                        {
+                          "label": "frontoethmoidal mucoceles, abscesses, osteomas"
+                        },
+                        {
+                          "label": "ethmoid sinus carcinomas"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "bilateral proptosis in adults",
+          "children": [
+            {
+              "label": "thyroid eye disease (TED)",
+              "children": [
+                {
+                  "label": "most common cause"
+                }
+              ]
+            },
+            {
+              "label": "lymphoma"
+            },
+            {
+              "label": "vasculitis"
+            },
+            {
+              "label": "NSOI"
+            },
+            {
+              "label": "metastatic tumors"
+            },
+            {
+              "label": "carotid-cavernous fistulas"
+            },
+            {
+              "label": "cavernous sinus thrombosis"
+            },
+            {
+              "label": "leukemic infiltrates"
+            }
+          ]
+        },
+        {
+          "label": "unilateral proptosis in adults",
+          "children": [
+            {
+              "label": "most frequently caused by TED"
+            }
+          ]
+        },
+        {
+          "label": "bilateral proptosis in children",
+          "children": [
+            {
+              "label": "TED"
+            },
+            {
+              "label": "NSOI"
+            },
+            {
+              "label": "metastatic neuroblastoma"
+            },
+            {
+              "label": "leukemic infiltrates"
+            }
+          ]
+        },
+        {
+          "label": "exophthalmometry",
+          "children": [
+            {
+              "label": "Hertel exophthalmometry",
+              "children": [
+                {
+                  "label": "from the lateral orbital rim to the anterior corneal surface"
+                }
+              ]
+            },
+            {
+              "label": "Naugle exophthalmometer",
+              "children": [
+                {
+                  "label": "uses the frontal and maxillary bones as its reference structure",
+                  "children": [
+                    {
+                      "label": "useful in fracture patients when the lateral canthus has been displaced"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "globes are more prominent in",
+          "children": [
+            {
+              "label": "men"
+            },
+            {
+              "label": "black patients"
+            }
+          ]
+        },
+        {
+          "label": "pseudoproptosis",
+          "children": [
+            {
+              "label": "simulation of abnormal prominence of the eye",
+              "children": [
+                {
+                  "label": "asymmetric palpebral fissures",
+                  "children": [
+                    {
+                      "label": "ipsilateral eyelid retraction"
+                    },
+                    {
+                      "label": "contralateral ptosis"
+                    },
+                    {
+                      "label": "facial nerve paralysis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "true asymmetry that is not the result of increased orbital contents",
+              "children": [
+                {
+                  "label": "asymmetric orbital size"
+                },
+                {
+                  "label": "enlarged globe",
+                  "children": [
+                    {
+                      "label": "myopia"
+                    }
+                  ]
+                },
+                {
+                  "label": "contralateral enophthalmos (silent sinus syndrome)"
+                }
+              ]
+            },
+            {
+              "label": "diagnosis should be postponed until a mass lesion has been ruled out"
+            }
+          ]
+        },
+        {
+          "label": "restriction of ocular motility",
+          "children": [
+            {
+              "label": "TED",
+              "children": [
+                {
+                  "label": "inferior rectus is the muscle most commonly affected",
+                  "children": [
+                    {
+                      "label": "limited globe elevation"
+                    },
+                    {
+                      "label": "may cause hypotropia in primary gaze"
+                    }
+                  ]
+                },
+                {
+                  "label": "eyelid abnormalities are common",
+                  "children": [
+                    {
+                      "label": "lid lag",
+                      "children": [
+                        {
+                          "label": "highly suggestive of a diagnosis of TED"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lid lag and retraction of upper and lower eyelids are the most common physical signs of TED"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "large or rapidly enlarging orbital mass",
+              "children": [
+                {
+                  "label": "even in the absence of direct muscle invasion!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Palpation",
+      "children": [
+        {
+          "label": "mass in the anterior orbit",
+          "children": [
+            {
+              "label": "palpable mass in the superonasal quadrant",
+              "children": [
+                {
+                  "label": "mucocele"
+                },
+                {
+                  "label": "mucopyocele"
+                },
+                {
+                  "label": "encephalocele"
+                },
+                {
+                  "label": "neurofibroma"
+                },
+                {
+                  "label": "dermoid cyst"
+                },
+                {
+                  "label": "rhabdomyosarcoma"
+                },
+                {
+                  "label": "lymphoma"
+                }
+              ]
+            },
+            {
+              "label": "palpable mass in the superotemporal quadrant",
+              "children": [
+                {
+                  "label": "prolapsed lacrimal gland"
+                },
+                {
+                  "label": "dermoid cyst"
+                },
+                {
+                  "label": "lacrimal gland tumor"
+                },
+                {
+                  "label": "lymphoma"
+                },
+                {
+                  "label": "NSOI"
+                }
+              ]
+            },
+            {
+              "label": "lesion behind the equator of the globe is usually not palpable"
+            }
+          ]
+        },
+        {
+          "label": "increased resistance to retrodisplacement of the globe",
+          "children": [
+            {
+              "label": "retrobulbar tumor"
+            },
+            {
+              "label": "diffuse inflammation",
+              "children": [
+                {
+                  "label": "TED"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pulsations of the eye",
+          "children": [
+            {
+              "label": "abnormal vascular flow",
+              "children": [
+                {
+                  "label": "arteriovenous communications",
+                  "children": [
+                    {
+                      "label": "carotid-cavernous fistulas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "transmission of normal intracranial pulsations through a bony defect",
+              "children": [
+                {
+                  "label": "sinus mucoceles"
+                },
+                {
+                  "label": "surgical removal of bone"
+                },
+                {
+                  "label": "trauma"
+                },
+                {
+                  "label": "developmental abnormalities",
+                  "children": [
+                    {
+                      "label": "encephalocele"
+                    },
+                    {
+                      "label": "meningocele"
+                    },
+                    {
+                      "label": "sphenoid wing dysplasia (associated with neurofibromatosis)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "regional lymph nodes"
+        }
+      ]
+    },
+    {
+      "label": "Auscultation",
+      "children": [
+        {
+          "label": "stethoscope over the globe or on the mastoid bone"
+        },
+        {
+          "label": "may detect bruits",
+          "children": [
+            {
+              "label": "carotid-cavernous fistula"
+            },
+            {
+              "label": "± subjective audible bruit"
+            },
+            {
+              "label": "often associated with tortuous dilated epibulbar vessels"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.2.1. Evaluation of Orbital Disorders (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 188,
+      "connector_rejected": 1,
+      "connector_edges": 186,
+      "connector_width": 0.69,
+      "text_labels": 190,
+      "tree_nodes": 190,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9894,
+      "root_font_size": 2.932,
+      "warnings": []
+    }
+  }
+}

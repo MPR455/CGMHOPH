@@ -1,0 +1,105 @@
+---
+title: "9.9.3. Masquerade Syndromes (III): Non-neoplastic Masquerade Syndromes"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.9.3. Masquerade Syndromes (III) - Non-neoplastic Masquerade Syndromes.pdf"
+---
+
+# 9.9.3. Masquerade Syndromes (III): Non-neoplastic Masquerade Syndromes
+
+## Hierarchy
+
+- Retinitis Pigmentosa
+  - variable numbers of vitreous and anterior chamber cells
+  - ± CME
+  - features of RP
+    - positive family history
+    - nyctalopia
+    - waxy disc pallor
+    - attenuation of arterioles
+    - bone-spicule pattern of pigmentary changes
+    - ERG
+      - severely depressed/extinguished in RP
+    - can be found in late posterior uveitis!
+- Infectious Uveitic Entities
+  - bacterial uveitis
+    - Nocardia species
+    - Tropheryma whipplei (Whipple disease)
+  - fungal endophthalmitis
+    - Candida species
+    - Aspergillus species
+    - Coccidioides immitis
+- cataract
+- Pigment Dispersion Syndrome
+  - pigment granules released from the iris, ciliary body, or both
+    - floating in the anterior chamber
+    - may be confused with the cells of anterior uveitis
+- Ocular Ischemic Syndrome
+  - hypoperfusion of the entire eye
+    - secondary to carotid artery obstruction
+  - men >65 years
+  - clinical presentation
+    - symptoms
+      - decreased vision
+        - mild ocular pain
+      - corneal edema
+    - anterior chamber cells
+    - anterior chamber moderate flare
+      - greater than and out of proportion to number of cells
+    - iris neovascularization
+    - IOP may be
+      - low from decreased aqueous production
+      - high due to neovascular glaucoma
+    - vitreous is usually clear
+    - mild disc edema
+    - dilated tortuous retinal venules, narrowed arterioles
+    - NVD/NVE
+      - medium-large intraretinal scattered blot hemorrhages
+        - in the midperiphery and far periphery
+  - diagnostic workup
+    - FA
+      - delayed arteriolar filling
+      - diffuse leakage from optic disc and posterior pole
+      - signs of capillary nonperfusion
+      - retinal vascular staining
+    - carotid Doppler ultrasonography
+      - ipsilateral carotid stenosis > 90%
+        - in the absence of vascular sheathing on examination
+  - treatment
+    - definitive treatment
+      - carotid endarterectomy
+    - local treatment
+      - topical corticosteroids and cycloplegics
+      - panretinal photocoagulation
+        - especially if NVI or NVE/NVD is present
+      - Intraocular injection of VEGF inhibitors
+  - prognosis
+    - 5-year mortality rate
+      - 40%
+        - from cardiovascular disease and myocardial infarction
+    - visual prognosis is guarded
+      - many patients improve transiently with treatment but eventually worsen
+- Intraocular Foreign Bodies
+  - may produce chronic intraocular inflammation
+    - mechanical, chemical, toxic, or inflammatory irritation of uveal tissues
+  - high index of suspicion
+  - careful history & clinical examination
+  - ancillary testing
+    - gonioscopy
+    - ultrasonography
+    - CT of the eye and orbits
+- Chronic Peripheral Rhegmatogenous Retinal Detachment
+  - anterior segment cell and flare
+    - Schwartz syndrome
+      - photoreceptor outer segments liberated from the subretinal space in the anterior chamber
+        - phagocytosed by the endothelial cells in the trabecular meshwork
+          - secondary open-angle glaucoma
+  - often have good vision
+    - vitreous inflammatory and pigment cells
+    - ± deteriorate because of CME
+  - dilated fundus examination with scleral depression
+    - peripheral pigment demarcation lines
+    - subretinal fluid
+    - retinal breaks
+    - subretinal fibrosis
+    - peripheral retinal cysts

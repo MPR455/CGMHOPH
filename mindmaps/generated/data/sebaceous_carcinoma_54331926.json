@@ -1,0 +1,329 @@
+{
+  "label": "Sebaceous Carcinoma",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "elderly woman complains of unilateral lid redness and irritation of 2 years duration"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course"
+            },
+            {
+              "label": "prior conjunctivitis"
+            },
+            {
+              "label": "chronic use of topical medications"
+            },
+            {
+              "label": "previous treatments"
+            },
+            {
+              "label": "prior radiation exposure"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "complete eye exam",
+              "children": [
+                {
+                  "label": "loss of eyelashes"
+                },
+                {
+                  "label": "destruction of meibomian gland orifices"
+                },
+                {
+                  "label": "orbital signs"
+                }
+              ]
+            },
+            {
+              "label": "regional lymphadenopathy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "lid biopsy",
+          "children": [
+            {
+              "label": "send specimen fresh"
+            },
+            {
+              "label": "coordinate with ocular pathologist"
+            }
+          ]
+        },
+        {
+          "label": "orbital imaging",
+          "children": [
+            {
+              "label": "if orbital signs"
+            }
+          ]
+        },
+        {
+          "label": "consider sentinel lymph node biopsy"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "sebaceous carcinoma"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "sebaceous carcinoma",
+          "children": [
+            {
+              "label": "middle-aged or elderly",
+              "children": [
+                {
+                  "label": "diffuse eyelid erythema and eyelid thickening with loss of eyelashes"
+                }
+              ]
+            },
+            {
+              "label": "F>M"
+            },
+            {
+              "label": "prior radiation exposure"
+            },
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "upper eyelid",
+              "children": [
+                {
+                  "label": "masquerades as recurrent chalazia or chronic blepharoconjunctivitis"
+                }
+              ]
+            },
+            {
+              "label": "lash loss"
+            },
+            {
+              "label": "regional lymph node or distant metastasis"
+            },
+            {
+              "label": "± orbital extension"
+            },
+            {
+              "label": "Muir-Torre syndrome",
+              "children": [
+                {
+                  "label": "autosomal dominant"
+                },
+                {
+                  "label": "multiple acquired",
+                  "children": [
+                    {
+                      "label": "sebaceous adenomas"
+                    },
+                    {
+                      "label": "sebaceous hyperplasia"
+                    },
+                    {
+                      "label": "basal cell carcinomas with sebaceous differentiation"
+                    }
+                  ]
+                },
+                {
+                  "label": "increased incidence of visceral malignancy",
+                  "children": [
+                    {
+                      "label": "especially colorectal"
+                    },
+                    {
+                      "label": "genitourinary"
+                    }
+                  ]
+                },
+                {
+                  "label": "± lid sebaceous carcinoma",
+                  "children": [
+                    {
+                      "label": "rare"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "BCC"
+        },
+        {
+          "label": "SCC"
+        },
+        {
+          "label": "unilateral blepharoconjunctivitis",
+          "children": [
+            {
+              "label": "infectious"
+            },
+            {
+              "label": "toxic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "stage 1",
+              "children": [
+                {
+                  "label": "map biopsy"
+                }
+              ]
+            },
+            {
+              "label": "stage 2",
+              "children": [
+                {
+                  "label": "excision + cryotherapy",
+                  "children": [
+                    {
+                      "label": "subsequent lid reconstruction",
+                      "children": [
+                        {
+                          "label": "if negative margins"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "exenteration",
+                  "children": [
+                    {
+                      "label": "for orbital invasion",
+                      "children": [
+                        {
+                          "label": "especially if no metastatic disease"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "for extensive disease"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Referrals",
+          "children": [
+            {
+              "label": "refer to oncologist for metastatic work-up",
+              "children": [
+                {
+                  "label": "lymph nodes, brain, lung, liver, bone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "discuss risk of",
+              "children": [
+                {
+                  "label": "local recurrence"
+                },
+                {
+                  "label": "orbital extension"
+                },
+                {
+                  "label": "lymph node metastasis"
+                },
+                {
+                  "label": "distant metastasis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "q 1 week after surgery",
+              "children": [
+                {
+                  "label": "q 3-4 months",
+                  "children": [
+                    {
+                      "label": "monitor closely for recurrence"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Sebaceous Carcinoma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 131,
+      "connector_rejected": 13,
+      "connector_edges": 91,
+      "connector_width": 1.567,
+      "text_labels": 80,
+      "tree_nodes": 80,
+      "component_roots": 7,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.6947,
+      "root_font_size": 7.311,
+      "warnings": []
+    }
+  }
+}

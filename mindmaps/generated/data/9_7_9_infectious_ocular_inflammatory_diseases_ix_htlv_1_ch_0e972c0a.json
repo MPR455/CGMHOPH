@@ -1,0 +1,642 @@
+{
+  "label": "9.7.9. Infectious Ocular Inflammatory Diseases (IX): HTLV-1 Chikungunya Dengue fever",
+  "root": true,
+  "children": [
+    {
+      "label": "Human T-lymphotropic virus type 1 (HTLV-1)",
+      "children": [
+        {
+          "label": "endemic in Japan, the Caribbean islands, and parts of Central and South America",
+          "children": [
+            {
+              "label": "retrovirus of the Oncovirinae subfamily"
+            }
+          ]
+        },
+        {
+          "label": "major target cell of HTLV-1 is the CD4+ T cell"
+        },
+        {
+          "label": "transmission",
+          "children": [
+            {
+              "label": "transplacental"
+            },
+            {
+              "label": "sexual contact"
+            },
+            {
+              "label": "blood transfusion"
+            },
+            {
+              "label": "breast feeding",
+              "children": [
+                {
+                  "label": "adult T-cell leukemia/lymphoma (ATL)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diseases",
+          "children": [
+            {
+              "label": "HTLV-1–associated myelopathy/tropical spastic paralysis (HAM/TSP)"
+            },
+            {
+              "label": "HTLV-1 uveitis (HU)"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic tests",
+          "children": [
+            {
+              "label": "serologic testing"
+            },
+            {
+              "label": "Western blot analysis",
+              "children": [
+                {
+                  "label": "confirmatory"
+                }
+              ]
+            },
+            {
+              "label": "PCR"
+            }
+          ]
+        },
+        {
+          "label": "ocular manifestations",
+          "children": [
+            {
+              "label": "ATL",
+              "children": [
+                {
+                  "label": "retinal infiltrates"
+                }
+              ]
+            },
+            {
+              "label": "HAM/TSP",
+              "children": [
+                {
+                  "label": "retinal degeneration"
+                },
+                {
+                  "label": "optic neuropathy"
+                },
+                {
+                  "label": "keratoconjunctivitis sicca"
+                }
+              ]
+            },
+            {
+              "label": "HTLV-1 uveitis (HU)",
+              "children": [
+                {
+                  "label": "uveitis of undetermined origin in an HTLV-1 carrier"
+                },
+                {
+                  "label": "epidemiology",
+                  "children": [
+                    {
+                      "label": "1% of uveitis cases in Japan"
+                    },
+                    {
+                      "label": "F>M"
+                    },
+                    {
+                      "label": "mean age of onset is earlier in men (35 years) than in women (48 years)"
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical presentation",
+                  "children": [
+                    {
+                      "label": "blurred vision and floaters"
+                    },
+                    {
+                      "label": "mild granulomatous anterior uveitis (20%)"
+                    },
+                    {
+                      "label": "unilateral vitritis (60%)",
+                      "children": [
+                        {
+                          "label": "intermediate uveitis",
+                          "children": [
+                            {
+                              "label": "75%"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "membranous vitreous opacities"
+                    },
+                    {
+                      "label": "snowballs"
+                    },
+                    {
+                      "label": "retinal vasculitis (60%)"
+                    },
+                    {
+                      "label": "exudative retinal lesions (25%)"
+                    },
+                    {
+                      "label": "optic disc abnormalities (20%)"
+                    },
+                    {
+                      "label": "CME (3%)"
+                    }
+                  ]
+                },
+                {
+                  "label": "ICG angiography",
+                  "children": [
+                    {
+                      "label": "choroidal inflammatory involvement"
+                    }
+                  ]
+                },
+                {
+                  "label": "sight-threatening ocular complications",
+                  "children": [
+                    {
+                      "label": "≤ 1/3 of cases",
+                      "children": [
+                        {
+                          "label": "poor visual outcomes in ≤10% of affected eyes"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "cataract"
+                    },
+                    {
+                      "label": "epiretinal membrane"
+                    },
+                    {
+                      "label": "glaucoma"
+                    },
+                    {
+                      "label": "persistent vitreous opacification"
+                    },
+                    {
+                      "label": "retinal vascular occlusion"
+                    },
+                    {
+                      "label": "retinochoroidal degeneration"
+                    },
+                    {
+                      "label": "optic atrophy"
+                    }
+                  ]
+                },
+                {
+                  "label": "management",
+                  "children": [
+                    {
+                      "label": "many cases of HU respond to topical, periocular, or systemic steroid therapy",
+                      "children": [
+                        {
+                          "label": "resolve completely within 1–2 months"
+                        },
+                        {
+                          "label": "≤ 1/2 of patients experience recurrent disease"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "cases that progress despite adequate therapy",
+                      "children": [
+                        {
+                          "label": "consider a masquerade syndrome",
+                          "children": [
+                            {
+                              "label": "retinal infiltration caused by ATL",
+                              "children": [
+                                {
+                                  "label": "can mimic HU"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "retinal degeneration associated with HAM/TSP",
+                              "children": [
+                                {
+                                  "label": "can mimic HU"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "HTLV-1–associated keratopathy",
+              "children": [
+                {
+                  "label": "\"HTLV-1–related chronic interstitial keratitis\""
+                },
+                {
+                  "label": "in Brazilian and Caribbean patients",
+                  "children": [
+                    {
+                      "label": "not among Japanese patients"
+                    }
+                  ]
+                },
+                {
+                  "label": "uniformly asymptomatic",
+                  "children": [
+                    {
+                      "label": "does not affect vision"
+                    }
+                  ]
+                },
+                {
+                  "label": "lymphoplasmacytic infiltrates"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Dengue Fever",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "member of the Flaviviridae family"
+            },
+            {
+              "label": "most common mosquito-borne viral disease in humans",
+              "children": [
+                {
+                  "label": "endemic to more than 100 countries in the tropical and subtropical regions"
+                }
+              ]
+            },
+            {
+              "label": "transmitted by the Aedes aegypti mosquito"
+            }
+          ]
+        },
+        {
+          "label": "systemic signs and symptoms",
+          "children": [
+            {
+              "label": "fever"
+            },
+            {
+              "label": "headache"
+            },
+            {
+              "label": "myalgia"
+            },
+            {
+              "label": "purpuric rash"
+            },
+            {
+              "label": "petechial subconjunctival hemorrhages",
+              "children": [
+                {
+                  "label": "other bleeding manifestations secondary to thrombocytopenia"
+                },
+                {
+                  "label": "most common ocular manifestation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular manifestation",
+          "children": [
+            {
+              "label": "maculopathy",
+              "children": [
+                {
+                  "label": "10%"
+                },
+                {
+                  "label": "1 month after the onset of systemic disease"
+                },
+                {
+                  "label": "bilateral (73%)",
+                  "children": [
+                    {
+                      "label": "asymmetric"
+                    }
+                  ]
+                },
+                {
+                  "label": "sudden decrease in vision and central scotoma",
+                  "children": [
+                    {
+                      "label": "mean visual acuity is 20/40"
+                    }
+                  ]
+                },
+                {
+                  "label": "involving both the retinal and choroidal vessel"
+                },
+                {
+                  "label": "Intraretinal hemorrhages",
+                  "children": [
+                    {
+                      "label": "45%"
+                    },
+                    {
+                      "label": "usually in association with venous sheathing",
+                      "children": [
+                        {
+                          "label": "http://amaprod.silverchaircdn.com/data/ Journals/OPHTH/9984/m_ecs60059f1.png"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "RPE mottling (17%)",
+                  "children": [
+                    {
+                      "label": "yellow subretinal dots (28%)"
+                    }
+                  ]
+                },
+                {
+                  "label": "foveal changes (16%)"
+                },
+                {
+                  "label": "disc hyperemia (14%) and edema (11%)"
+                },
+                {
+                  "label": "arteriolar sheathing (4%)"
+                },
+                {
+                  "label": "variable degree of anterior chamber and vitreous cells"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic tests",
+          "children": [
+            {
+              "label": "FA",
+              "children": [
+                {
+                  "label": "venous occlusive disease in 25%"
+                },
+                {
+                  "label": "arteriolar and/or venular leakage"
+                }
+              ]
+            },
+            {
+              "label": "ICG angiography",
+              "children": [
+                {
+                  "label": "hypofluorescent spots corresponding to yellow subretinal lesions",
+                  "children": [
+                    {
+                      "label": "more numerous than FA or clinical examination",
+                      "children": [
+                        {
+                          "label": "http://amaprod.silverchaircdn.com/data/ Journals/OPHTH/9984/m_ecs60059f3.png"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "OCT",
+              "children": [
+                {
+                  "label": "foveal changes"
+                }
+              ]
+            },
+            {
+              "label": "serology",
+              "children": [
+                {
+                  "label": "positive IgM antibody"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "topical, periocular, and systemic steroids; immunoglobulins"
+            },
+            {
+              "label": "variable success"
+            },
+            {
+              "label": "the disease may be self-limiting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Other Viral Diseases",
+      "children": [
+        {
+          "label": "acute anterior uveitis",
+          "children": [
+            {
+              "label": "influenza"
+            },
+            {
+              "label": "adenovirus infection",
+              "children": [
+                {
+                  "label": "secondary to corneal disease"
+                }
+              ]
+            },
+            {
+              "label": "IM"
+            },
+            {
+              "label": "mild and transient"
+            },
+            {
+              "label": "synechiae and ocular damage seldom occur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chikungunya Fever",
+      "children": [
+        {
+          "label": "arthropod-borne Alphavirus in the family Togaviridae"
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "potentially fatal",
+              "children": [
+                {
+                  "label": "fever, headache, fatigue, nausea, vomiting, myalgia, arthralgia, and skin rash"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular manifestations",
+          "children": [
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "anterior uveitis",
+              "children": [
+                {
+                  "label": "granulomatous or nongranulomatous"
+                },
+                {
+                  "label": "diffuse pigmented KPs, iris pigment release, elevated IOP, and, infrequently, posterior synechiae",
+                  "children": [
+                    {
+                      "label": "both appear several weeks after the primary illness"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "retinitis",
+              "children": [
+                {
+                  "label": "resembles herpetic retinitis in an immunocompetent host"
+                },
+                {
+                  "label": "retinal hemorrhage",
+                  "children": [
+                    {
+                      "label": "focal, multifocal, or confluent retinochoroiditis in the posterior pole"
+                    }
+                  ]
+                },
+                {
+                  "label": "retinal edema",
+                  "children": [
+                    {
+                      "label": "minimal vitritis"
+                    }
+                  ]
+                },
+                {
+                  "label": "differences with herpetic retinitis",
+                  "children": [
+                    {
+                      "label": "peripheral retinal involvement"
+                    },
+                    {
+                      "label": "more intense vitreous reaction"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nodular episcleritis"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic tests",
+          "children": [
+            {
+              "label": "serology",
+              "children": [
+                {
+                  "label": "benign course"
+                },
+                {
+                  "label": "Chikungunya-specific IgM antibodies",
+                  "children": [
+                    {
+                      "label": "no evidence that such therapy improves visual outcome"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "virus isolation"
+            },
+            {
+              "label": "reverse transcription PCR"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "confluent retinitis"
+            },
+            {
+              "label": "anterior uveitis",
+              "children": [
+                {
+                  "label": "topical steroids",
+                  "children": [
+                    {
+                      "label": "systemic acyclovir and prednisone"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.9. Infectious Ocular Inflammatory Diseases (IX) - HTLV-1 Chikungunya Dengue fever.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 312,
+      "connector_rejected": 24,
+      "connector_edges": 201,
+      "connector_width": 0.723,
+      "text_labels": 163,
+      "tree_nodes": 163,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6442,
+      "root_font_size": 2.712,
+      "warnings": []
+    }
+  }
+}

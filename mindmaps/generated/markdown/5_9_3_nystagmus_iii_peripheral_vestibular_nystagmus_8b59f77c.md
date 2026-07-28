@@ -1,0 +1,103 @@
+---
+title: "5.9.3. Nystagmus (III): Peripheral Vestibular Nystagmus"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.9.3. Nystagmus (III) - Peripheral Vestibular Nystagmus.pdf"
+---
+
+# 5.9.3. Nystagmus (III): Peripheral Vestibular Nystagmus
+
+## Hierarchy
+
+- clinical presentation
+  - See Table 9-1
+  - symptoms worsened by particular head movements or postures
+  - acute phase
+    - lasts days
+  - slow period
+    - weeks to months
+    - gradually waning symptoms
+    - may experience discomfort months to years later when their vestibular system is challenged
+  - sudden onset of dysequilibrium
+    - ±
+      - vertigo
+      - nausea
+      - vomiting
+      - oscillopsia
+      - tinnitus
+      - hearing loss
+  - nystagmus
+    - nystagmus may be evident in primary position
+      - a purely vertical or torsional nystagmus almost always signifies a central lesion
+      - mixed horizontal-torsional nystagmus
+    - slow phase is toward the side of involvement
+      - a left-sided lesion would produce leftward slow phases and right jerk nystagmus
+    - follows Alexander’s law
+      - nystagmus is more pronounced when gaze is directed toward the side of the fast-beating component
+    - visual fixation dampens the nystagmus
+      - evaluated during direct ophthalmoscopy by temporarily covering the contralateral fixating eye
+      - INS worsens with visual attention & distant fixation
+        - other methods for enhancing vestibular nystagmus
+          - vigorous head shaking
+          - hyperventilation
+          - mastoid vibration
+          - valsalva maneuver
+  - ± skew deviation
+- 4 clinical patterns
+  - acute, monophasic
+    - (presumed viral) vestibular neuronitis
+  - recurrent
+    - usually progressive
+      - auditory symptoms (tinnitus and hearing loss)
+      - long symptom-free intervals
+    - Ménière disease
+  - paroxysmal
+    - benign paroxysmal positional vertigo (BPPV)
+    - vertigo in response to certain postures of the head
+    - free movement of otoconia particles, which act as foreign debris within a semicircular canal
+    - Dix-Hallpike maneuver
+      - patient’s head is turned 45° to the right or left and lowered below the horizontal plane of an examining table
+    - repositioning treatments
+      - Epley maneuver
+      - recurrence is not unusual
+  - toxic
+    - agents
+      - aminoglycosides
+      - chemotherapeutics
+    - head movement–related oscillopsia
+    - decreased vestibular ocular reflex (VOR) gain bilaterally with little or no nystagmus
+      - fast phase to opposite side
+        - worsens with gaze to opposite side
+- very large cerebellopontine angle tumor
+  - vestibular schwannoma or meningioma
+  - Bruns nystagmus
+    - combination of
+      - peripheral vestibular nystagmus
+        - initially, the vestibular nerve is affected
+          - eyes drift toward the side of the lesion
+          - corrective fast phase in the opposite direction
+        - small-amplitude, high-frequency vestibular nystagmus develops as the patient looks to the opposite side (direction of fast phase)
+          - Alexander's law
+            - fast phase to the opposite side
+      - gaze-evoked nystagmus
+        - as the tumor enlarges, the ipsilateral brainstem is compressed
+          - problems in maintaining ipsilateral eccentric gaze
+        - large-amplitude, lower-frequency gaze-evoked nystagmus develops as the patient looks to the side of the lesion
+    - worsens with gaze to same side
+- fast phase to same side side
+- pathogenesis
+  - end-organ origin
+    - components
+      - semicircular canals
+      - otolithic structures
+      - vestibular nerve
+    - unilateral or asymmetric
+      - except in cases of toxicity
+  - disruption of the normally symmetric vestibular afferent input to the neural integrator
+    - disrupts the output of the neural integrator to the contralateral PPRF
+      - produces a directional bias toward the diseased side
+      - neural control of eye movements
+        - • nucleus prepositus hypoglossi: neural integrator for horizontal eye movements:
+          - • PPRF: saccadic generator for horizontal eye movements (pons )
+        - • interstitial nucleus of Cajal: neural integrator for vertical and torsional eye movements:
+          - • riMLF: saccadic generator for vertical (and torsional) eye movements (midbrain)

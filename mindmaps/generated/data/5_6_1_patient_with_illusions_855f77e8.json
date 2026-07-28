@@ -1,0 +1,308 @@
+{
+  "label": "5.6.1. Patient With Illusions, Hallucinations, and Disorders of Higher Cortical Function (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Visual Illusions and Distortions",
+      "children": [
+        {
+          "label": "Ocular Origin",
+          "children": [
+            {
+              "label": "Optical causes",
+              "children": [
+                {
+                  "label": "irregularities of eye’s refracting elements",
+                  "children": [
+                    {
+                      "label": "visual distortion and resulting illusions",
+                      "children": [
+                        {
+                          "label": "ghost images"
+                        },
+                        {
+                          "label": "multiple images"
+                        },
+                        {
+                          "label": "movement"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "alterations in the tear film"
+                },
+                {
+                  "label": "alterations of corneal surface",
+                  "children": [
+                    {
+                      "label": "keratoconus"
+                    },
+                    {
+                      "label": "scarring"
+                    }
+                  ]
+                },
+                {
+                  "label": "early cataract"
+                },
+                {
+                  "label": "cataract extraction",
+                  "children": [
+                    {
+                      "label": "changes in brightness and color perception"
+                    },
+                    {
+                      "label": "intraocular lens implantation",
+                      "children": [
+                        {
+                          "label": "temporal field visual disturbances after intraocular lens implantation",
+                          "children": [
+                            {
+                              "label": "positive or negative dysphotopsias"
+                            },
+                            {
+                              "label": "resolve spontaneously"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Retinal causes",
+              "children": [
+                {
+                  "label": "disruption of normal foveal architecture",
+                  "children": [
+                    {
+                      "label": "epiretinal membrane"
+                    },
+                    {
+                      "label": "macular edema"
+                    },
+                    {
+                      "label": "macular hole"
+                    },
+                    {
+                      "label": "subretinal disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "metamorphopsia",
+                  "children": [
+                    {
+                      "label": "perceptual distortion",
+                      "children": [
+                        {
+                          "label": "linear objects appear curved or discontinuous"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "micropsia",
+                  "children": [
+                    {
+                      "label": "intraretinal edema"
+                    }
+                  ]
+                },
+                {
+                  "label": "macropsia",
+                  "children": [
+                    {
+                      "label": "much rarer"
+                    }
+                  ]
+                },
+                {
+                  "label": "dyschromatopsia",
+                  "children": [
+                    {
+                      "label": "drug effects",
+                      "children": [
+                        {
+                          "label": "digoxin-induced yellowing"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "hypovitaminosis A",
+                      "children": [
+                        {
+                          "label": "sildenafil citrate–induced blue tinge"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "choroidal or retinal ischemia",
+                      "children": [
+                        {
+                          "label": "can also lead to persistent afterimages"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Optic Nerve Origin",
+          "children": [
+            {
+              "label": "demyelinating optic neuritis",
+              "children": [
+                {
+                  "label": "relative conduction delay within the affected optic nerve",
+                  "children": [
+                    {
+                      "label": "altered perception of motion",
+                      "children": [
+                        {
+                          "label": "a pendulum may appear to trace an elliptical path",
+                          "children": [
+                            {
+                              "label": "Pulfrich phenomenon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Cortical Origin",
+          "children": [
+            {
+              "label": "primary visual cortex (V1) or associative areas (V2, V3, and V4)",
+              "children": [
+                {
+                  "label": "alteration in the perceived shape and position of an object"
+                },
+                {
+                  "label": "alteration in the perception of motion"
+                },
+                {
+                  "label": "loss of color vision"
+                }
+              ]
+            },
+            {
+              "label": "parietal lobe abnormalities",
+              "children": [
+                {
+                  "label": "micropsia",
+                  "children": [
+                    {
+                      "label": "multiplicity of images"
+                    }
+                  ]
+                },
+                {
+                  "label": "macropsia"
+                },
+                {
+                  "label": "teleopsia",
+                  "children": [
+                    {
+                      "label": "objects appearing too distant"
+                    }
+                  ]
+                },
+                {
+                  "label": "pelopsia",
+                  "children": [
+                    {
+                      "label": "objects appearing too close"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "illusion",
+          "children": [
+            {
+              "label": "false perception of visual information that is present in the external environment"
+            },
+            {
+              "label": "disappear with eye closure"
+            }
+          ]
+        },
+        {
+          "label": "hallucination",
+          "children": [
+            {
+              "label": "subjective perception of an object or event when no sensory stimulus is present"
+            },
+            {
+              "label": "do not disappear with eye closure"
+            },
+            {
+              "label": "patients with dementia or altered sensorium are prone to hallucinations"
+            }
+          ]
+        },
+        {
+          "label": "reduced visual acuity or visual field loss often leads to positive visual phenomena"
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "best-corrected visual acuity"
+            },
+            {
+              "label": "color perception"
+            },
+            {
+              "label": "perimetry"
+            }
+          ]
+        },
+        {
+          "label": "See Table 6-1"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.6.1. Patient With Illusions, .pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 133,
+      "connector_rejected": 0,
+      "connector_edges": 91,
+      "connector_width": 1.094,
+      "text_labels": 73,
+      "tree_nodes": 73,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6842,
+      "root_font_size": 3.828,
+      "warnings": []
+    }
+  }
+}

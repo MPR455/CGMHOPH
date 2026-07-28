@@ -1,0 +1,277 @@
+{
+  "label": "8.12.5. Degenerative Changes in the Cornea (IV)",
+  "root": true,
+  "children": [
+    {
+      "label": "Scleral Degenerations",
+      "children": [
+        {
+          "label": "decrease in scleral hydration"
+        },
+        {
+          "label": "decrease in scleral mucopolysaccharide"
+        },
+        {
+          "label": "calcium deposition",
+          "children": [
+            {
+              "label": "diffuse"
+            },
+            {
+              "label": "(focal) senile plaques",
+              "children": [
+                {
+                  "label": "anterior to the horizontal rectus muscle insertions"
+                },
+                {
+                  "label": "ovoid or rectangular zones of grayish translucency"
+                },
+                {
+                  "label": "rarely extrude",
+                  "children": [
+                    {
+                      "label": "midportion of involved sclera contains a focal calcified plaque",
+                      "children": [
+                        {
+                          "label": "surrounded by relatively acellular collagen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "may be visualized on CT scan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "increase in scleral rigidity"
+        },
+        {
+          "label": "subconjunctival fat deposition",
+          "children": [
+            {
+              "label": "gives the sclera a yellowish appearance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Endothelial Degenerations",
+      "children": [
+        {
+          "label": "Iridocorneal endothelial syndrome",
+          "children": [
+            {
+              "label": "endothelial cells take on the ultrastructural characteristics of epithelial cells",
+              "children": [
+                {
+                  "label": "progressive endothelialization",
+                  "children": [
+                    {
+                      "label": "anterior chamber angle",
+                      "children": [
+                        {
+                          "label": "peripheral anterior synechiae",
+                          "children": [
+                            {
+                              "label": "glaucoma"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "iris surface",
+                      "children": [
+                        {
+                          "label": "iris changes"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "herpesvirus DNA has been identified in cornea & aqueous humor"
+            },
+            {
+              "label": "middle-aged females"
+            },
+            {
+              "label": "almost always unilateral"
+            },
+            {
+              "label": "clinical variations",
+              "children": [
+                {
+                  "label": "Chandler variant",
+                  "children": [
+                    {
+                      "label": "disease is confined to the inner corneal surface",
+                      "children": [
+                        {
+                          "label": "corneal edema from subnormal endothelial pump function"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "essential iris atrophy variant",
+                  "children": [
+                    {
+                      "label": "abnormal endothelium spreads onto the surface of the iris",
+                      "children": [
+                        {
+                          "label": "iris atrophy"
+                        },
+                        {
+                          "label": "corectopia"
+                        },
+                        {
+                          "label": "polycoria"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Cogan-Reese variant (iris nevus syndrome)",
+                  "children": [
+                    {
+                      "label": "membrane grows on the anterior iris surface",
+                      "children": [
+                        {
+                          "label": "pinches off islands of the normal iris stroma",
+                          "children": [
+                            {
+                              "label": "nodular/nevus-like appearance",
+                              "children": [
+                                {
+                                  "label": "tan pedunculated nodules or diffuse pigmented lesions on the anterior iris surface"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "penetrating keratoplasty"
+                },
+                {
+                  "label": "endothelial keratoplasty"
+                },
+                {
+                  "label": "control of intraocular pressure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Peripheral cornea guttae (Hassall-Henle bodies",
+          "children": [
+            {
+              "label": "normal aging change"
+            },
+            {
+              "label": "small, wartlike excrescences of Descemet membrane",
+              "children": [
+                {
+                  "label": "protrude toward the anterior chamber"
+                }
+              ]
+            },
+            {
+              "label": "slit lamp exam",
+              "children": [
+                {
+                  "label": "small, dark dimples within the endothelial mosaic"
+                }
+              ]
+            },
+            {
+              "label": "best seen by specular reflection"
+            },
+            {
+              "label": "increase steadily in number with age",
+              "children": [
+                {
+                  "label": "rarely < age 20"
+                }
+              ]
+            },
+            {
+              "label": "in the central cornea, they are pathologic",
+              "children": [
+                {
+                  "label": "\"cornea guttae\""
+                },
+                {
+                  "label": "associated with progressive stromal and eventually epithelial edema",
+                  "children": [
+                    {
+                      "label": "Fuchs endothelial dystrophy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Melanin pigmentation",
+          "children": [
+            {
+              "label": "Krukenberg spindle",
+              "children": [
+                {
+                  "label": "pigment dispersion syndrome"
+                },
+                {
+                  "label": "pigment on the corneal endothelium",
+                  "children": [
+                    {
+                      "label": "vertically oriented"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.12.5. Degenerative Changes in the Cornea (IV).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 120,
+      "connector_rejected": 5,
+      "connector_edges": 74,
+      "connector_width": 1.23,
+      "text_labels": 64,
+      "tree_nodes": 64,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6167,
+      "root_font_size": 3.486,
+      "warnings": []
+    }
+  }
+}

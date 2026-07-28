@@ -1,0 +1,141 @@
+---
+title: "10.6.5. Childhood Glaucoma (V): Medical Management"
+category: "Glaucoma"
+subcategory: ""
+source_pdf: "MindmapPDF/Glaucoma/10.6.5. Childhood Glaucoma (V) - Medical Management.pdf"
+---
+
+# 10.6.5. Childhood Glaucoma (V): Medical Management
+
+## Hierarchy
+
+- medications can be used
+  - surgical management is the mainstay of PCG care
+  - to lower IOP before surgery
+    - to reduce corneal edema and improve visualization
+  - to provide additional IOP lowering after surgical procedures
+  - for forms of childhood glaucoma other than PCG
+    - JOAG
+    - inflammatory glaucoma
+    - aphakic glaucoma
+    - other secondary glaucomas
+- crosses the blood–brain barrier and therefore has significant effects on the central nervous system
+  - apnea
+  - CNS side effects
+    - hypotension
+    - bradycardia
+    - hypotonia
+    - hypothermia
+    - somnolence
+- α-Adrenergic agonists
+  - mechanism of action
+    - reduce aqueous production
+    - α2-adrenergic agonist
+      - increase uveoscleral outflow
+  - brimonidine
+    - crosses the blood–brain barrier
+    - caution in children 3-10 years
+      - contraindicated in children <3 years
+      - use lowest dose
+      - use punctal occlusion
+  - greater affinity for α1-receptors than brimonidine
+  - apraclonidine
+    - better tolerated systemically in children
+    - risk of follicular conjunctivitis
+      - increases with long-term use
+    - vasoconstrictor
+      - can be used to minimize bleeding during surgery
+- β-Adrenergic antagonists (blockers)
+  - decrease aqueous production
+  - first-line therapy for glaucoma in children
+  - systemic complications
+    - bronchospasm
+    - bradycardia
+    - hypotension
+    - avoid in children with asthma or significant cardiac disease
+    - risk of adverse effects can be diminished by
+      - occluding the nasolacrimal drainage system for 3 minutes after administration of the medication
+      - prescribing timolol 0.25% or levobunolol 0.25%
+        - patients with lighter irides respond as well to 0.25% solutions
+- less selective α2-adrenergic action than brimonidine
+- Cholinergic agonists
+  - increase aqueous outflow through the trabecular meshwork
+  - rarely used on a long-term basis
+  - induce miosis
+    - facilitate angle surgery
+- brinzolamide
+- Carbonic anhydrase inhibitors
+  - reduce aqueous production
+  - topical
+    - dorzolamide
+      - no BAK-free
+    - minimal systemic side effects
+    - second-line therapy after topical β-adrenergic antagonists
+    - some concern in eyes with compromised corneas or after corneal transplantation
+      - not absolute contraindications
+  - systemic
+    - acetazolamide
+    - methazolamide
+    - pediatric dosage of acetazolamide
+      - slightly more IOP lowering than topical preparations
+      - 10–20 mg/kg/day
+    - systemic side effects
+      - anorexia
+      - diarrhea
+      - weight loss
+      - tingling of the perioral areas and finger
+      - hypokalemia
+      - metabolic acidosis
+      - rare life-threatening reactions
+        - Stevens-Johnson syndrome
+        - aplastic anemia
+- Prognosis and Follow-Up
+  - prognosis for pediatric glaucoma has improved
+    - IOP can be controlled with angle surgery in 80%
+    - good prognosis
+      - asymptomatic at birth with onset of symptoms 3 - 12 months of age
+    - guarded prognosis
+      - symptoms are present at birth
+      - disease is diagnosed >12 months of age
+  - ocular morbidities
+    - amblyopia
+      - a common cause of visual compromise
+      - etiology
+        - corneal opacification
+          - unilateral glaucoma
+        - anisometropia
+    - corneal scarring
+      - may cause astigmatism
+    - strabismus
+      - etiology
+        - glaucoma drainage devices
+        - amblyopia
+    - progressive myopia and anisometropia
+      - in patients with juvenile glaucoma
+      - should be corrected with spectacles
+    - buphthalmos
+      - in patients with PCG
+    - cataract
+    - lens subluxation
+    - susceptibility to trauma
+      - protective eyewear
+    - recurrent glaucoma
+      - minimize conjunctival scarring in anticipation of future glaucoma surgeries
+      - be cognizant of the sites of prior trabeculectomies/glaucoma drainage device implants
+      - relapses of glaucoma may occur even years later
+  - lifelong follow-up
+    - educate parents about the need for lifelong care
+    - involve these children in their own care
+- Prostaglandin analogues
+  - increase uveoscleral outflow
+  - lower IOP in JOAG
+  - once-daily dosing
+  - adverse effects
+    - minimal systemic side effects in children
+    - can exacerbate uveitis in postoperative glaucoma patients
+      - should be avoided with uncontrolled uveitis
+    - conjunctival hyperemia
+    - hypertrichiasis
+    - periocular pigmentation (reversible)
+    - darkening of irides (permanent)
+      - does not develop in blue-eyed patients

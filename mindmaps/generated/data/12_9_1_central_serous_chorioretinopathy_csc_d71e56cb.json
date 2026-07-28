@@ -1,0 +1,676 @@
+{
+  "label": "12.9.1. Central Serous Chorioretinopathy (CSC)",
+  "root": true,
+  "children": [
+    {
+      "label": "BCSC 2020-2021",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "hyperpermeability of choroid (choriocapillaris)",
+              "children": [
+                {
+                  "label": "leakage at level of RPE"
+                }
+              ]
+            },
+            {
+              "label": "leakage into subretinal space"
+            },
+            {
+              "label": "impaired fluid removal from subretinal space"
+            }
+          ]
+        },
+        {
+          "label": "demographics",
+          "children": [
+            {
+              "label": "healthy"
+            },
+            {
+              "label": "35-55 years"
+            },
+            {
+              "label": "M>F",
+              "children": [
+                {
+                  "label": "3:1"
+                }
+              ]
+            },
+            {
+              "label": "no racial predilection"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "personality type",
+              "children": [
+                {
+                  "label": "stress"
+                },
+                {
+                  "label": "tense driven personality (type A)"
+                }
+              ]
+            },
+            {
+              "label": "elevated levels of corticosteroids",
+              "children": [
+                {
+                  "label": "endogenous hypercortisolism (Cushing syndrome)"
+                },
+                {
+                  "label": "corticosteroid administration",
+                  "children": [
+                    {
+                      "label": "systemic"
+                    },
+                    {
+                      "label": "not intravitreal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic hypertension"
+            },
+            {
+              "label": "sleep apnea"
+            },
+            {
+              "label": "psychopharmacologic medications"
+            },
+            {
+              "label": "pregnancy"
+            }
+          ]
+        },
+        {
+          "label": "other imaging modalities",
+          "children": [
+            {
+              "label": "OCT",
+              "children": [
+                {
+                  "label": "neurosensory RD"
+                },
+                {
+                  "label": "EDI-OCT",
+                  "children": [
+                    {
+                      "label": "thick choroid"
+                    },
+                    {
+                      "label": "posterior loculation of fluid in deep choroid irregular wavy, shallow elevation of the RPE by a layer of material with heterogeneous reflectivity",
+                      "children": [
+                        {
+                          "label": "in areas where thickening is most prominent"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "CNV"
+                }
+              ]
+            },
+            {
+              "label": "fundus autofluorescence",
+              "children": [
+                {
+                  "label": "accumulation of shed outer segments in subretinal space",
+                  "children": [
+                    {
+                      "label": "white dots under retina are macrophages with fluorophores from phagocytized outer segments"
+                    }
+                  ]
+                },
+                {
+                  "label": "focal hypoautofluorescence",
+                  "children": [
+                    {
+                      "label": "RPE defects"
+                    }
+                  ]
+                },
+                {
+                  "label": "descending tracts",
+                  "children": [
+                    {
+                      "label": "chronic CSC"
+                    }
+                  ]
+                },
+                {
+                  "label": "lower levels of central macular autofluorescence",
+                  "children": [
+                    {
+                      "label": "poorer vision"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "indocyanine green angiography",
+              "children": [
+                {
+                  "label": "choroidal vascular hyperpermeability"
+                },
+                {
+                  "label": "CNV"
+                },
+                {
+                  "label": "choroidal vascular abnormalities",
+                  "children": [
+                    {
+                      "label": "venous dilation",
+                      "children": [
+                        {
+                          "label": "filling delays in choroidal arteries & choriocapillaris"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "hyperpermeability of choroidal vessels"
+                    },
+                    {
+                      "label": "hyperfluorescent patches",
+                      "children": [
+                        {
+                          "label": "multifocal"
+                        },
+                        {
+                          "label": "appear early"
+                        },
+                        {
+                          "label": "slowly enlarge during angiogram"
+                        },
+                        {
+                          "label": "less prominent in late views"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "washout pattern",
+                      "children": [
+                        {
+                          "label": "unchanged during clinically inactive phases"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "helps to differentiate atypical diffuse CSC in older patients from",
+                  "children": [
+                    {
+                      "label": "occult CNV"
+                    },
+                    {
+                      "label": "polypoidal choroidal vasculopathy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "OCT angiography",
+              "children": [
+                {
+                  "label": "detecting type 1 CNV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "+- bilateral",
+              "children": [
+                {
+                  "label": "aymmetric"
+                }
+              ]
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "suggen onset",
+                  "children": [
+                    {
+                      "label": "blurred vision"
+                    },
+                    {
+                      "label": "dim vision"
+                    },
+                    {
+                      "label": "micropsia"
+                    },
+                    {
+                      "label": "metamorphopsia"
+                    },
+                    {
+                      "label": "paracentral scotoma"
+                    },
+                    {
+                      "label": "decreased color vision"
+                    },
+                    {
+                      "label": "prolonged afterimages"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "visual acuity",
+              "children": [
+                {
+                  "label": "20/20-20/200",
+                  "children": [
+                    {
+                      "label": "usually >20/30"
+                    }
+                  ]
+                },
+                {
+                  "label": "improves with hyperopic correction"
+                }
+              ]
+            },
+            {
+              "label": "acute findings",
+              "children": [
+                {
+                  "label": "serous detachment of sensory retina",
+                  "children": [
+                    {
+                      "label": "round or oval"
+                    },
+                    {
+                      "label": "localized",
+                      "children": [
+                        {
+                          "label": "often involves fovea"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "small whitish subretinal precipitates"
+                },
+                {
+                  "label": "serous RPE detachment",
+                  "children": [
+                    {
+                      "label": "under superior half of serous retinal detachment"
+                    },
+                    {
+                      "label": "without serous retinal detachment"
+                    }
+                  ]
+                },
+                {
+                  "label": "gray-white feather-edge subretinal material",
+                  "children": [
+                    {
+                      "label": "fibrin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "chronic findings",
+              "children": [
+                {
+                  "label": "granular RPE pigmentation"
+                },
+                {
+                  "label": "widespread shallow detachment"
+                },
+                {
+                  "label": "photoreceptors atrophy"
+                },
+                {
+                  "label": "multiple small leaks on IVFA"
+                },
+                {
+                  "label": "RPE atrophic areas",
+                  "children": [
+                    {
+                      "label": "evidence of prior episodes"
+                    },
+                    {
+                      "label": "run-off/guttering"
+                    },
+                    {
+                      "label": "pachychoroidal pigment retinopathy",
+                      "children": [
+                        {
+                          "label": "thick choroid"
+                        },
+                        {
+                          "label": "RPE alterations"
+                        },
+                        {
+                          "label": "no serous retinal detachment"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "CNV",
+              "children": [
+                {
+                  "label": "in ≤ 20% of patients >50 yr",
+                  "children": [
+                    {
+                      "label": "even without laser"
+                    }
+                  ]
+                },
+                {
+                  "label": "easy to detect with OCT angiography"
+                },
+                {
+                  "label": "in 2% of eyes treated with photocoagulation"
+                },
+                {
+                  "label": "in the immediate postoperative period in 2% of eyes after photocoagulation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "type 1 CNV",
+              "children": [
+                {
+                  "label": "OCT demonstrates an irregular wavy, shallow elevation of the RPE by a layer of material with heterogeneous reflectivity"
+                },
+                {
+                  "label": "FA findings overlap with CSC"
+                }
+              ]
+            },
+            {
+              "label": "polypoidal choroidal vasculopathy (PCV)"
+            }
+          ]
+        },
+        {
+          "label": "natural course",
+          "children": [
+            {
+              "label": "good visual prognosis except",
+              "children": [
+                {
+                  "label": "chronic recurrent CSC"
+                }
+              ]
+            },
+            {
+              "label": "spontaneous resolution",
+              "children": [
+                {
+                  "label": "80-90%",
+                  "children": [
+                    {
+                      "label": "bullous CSC"
+                    }
+                  ]
+                },
+                {
+                  "label": "within 3-4 months"
+                },
+                {
+                  "label": "visual recovery within 1 year"
+                },
+                {
+                  "label": "residual symptoms",
+                  "children": [
+                    {
+                      "label": "mild metamorphopsia"
+                    },
+                    {
+                      "label": "faint scotomata"
+                    },
+                    {
+                      "label": "abnormal contrast sensitivity"
+                    },
+                    {
+                      "label": "mild color vision defictits"
+                    },
+                    {
+                      "label": "permanent diminished visual acuity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "recurrence",
+              "children": [
+                {
+                  "label": "40-50%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fluorescein angiography",
+          "children": [
+            {
+              "label": "leakage from RPE",
+              "children": [
+                {
+                  "label": "appears early"
+                }
+              ]
+            },
+            {
+              "label": "patterns",
+              "children": [
+                {
+                  "label": "dot form",
+                  "children": [
+                    {
+                      "label": "expansile dot",
+                      "children": [
+                        {
+                          "label": "+- multiple",
+                          "children": [
+                            {
+                              "label": "most common"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "early phase of angiogram",
+                          "children": [
+                            {
+                              "label": "focal leak through RPE",
+                              "children": [
+                                {
+                                  "label": "dot"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "late phase of angiogram",
+                          "children": [
+                            {
+                              "label": "pooling of dye in subretinal space"
+                            },
+                            {
+                              "label": "10-15 min"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "smokestack form",
+                  "children": [
+                    {
+                      "label": "tree-shaped"
+                    },
+                    {
+                      "label": "uncommon",
+                      "children": [
+                        {
+                          "label": "10%"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "diffuse",
+                  "children": [
+                    {
+                      "label": "extensive gravity-dependent serous retinal detachment"
+                    },
+                    {
+                      "label": "extensive RPE changes"
+                    },
+                    {
+                      "label": "without obvious leakage point"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "laser photocoagulation",
+              "children": [
+                {
+                  "label": "more rapid resorption of subretinal fluid",
+                  "children": [
+                    {
+                      "label": "5 weeks vs 23 weeks"
+                    }
+                  ]
+                },
+                {
+                  "label": "no improvement in final visual acuity"
+                },
+                {
+                  "label": "no effect on choroidal thickness",
+                  "children": [
+                    {
+                      "label": "no decrease in recurrence rate"
+                    }
+                  ]
+                },
+                {
+                  "label": "sub-threshold laser photocoagulation"
+                }
+              ]
+            },
+            {
+              "label": "photodynamic therapy with verteporfin",
+              "children": [
+                {
+                  "label": "reduces or eliminates subretinal fluid"
+                },
+                {
+                  "label": "few complications",
+                  "children": [
+                    {
+                      "label": "atrophy",
+                      "children": [
+                        {
+                          "label": "4%"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "recurrence after successful PDT is rare"
+                },
+                {
+                  "label": "decreases choroidal thickness and reduces choroidal vascular hyperpermeability"
+                },
+                {
+                  "label": "standard (600 mW/cm2) to reduced fluence (300 mW/cm2)"
+                }
+              ]
+            },
+            {
+              "label": "medical treatment",
+              "children": [
+                {
+                  "label": "mineralocorticoid receptor antagonists",
+                  "children": [
+                    {
+                      "label": "eplerenone",
+                      "children": [
+                        {
+                          "label": "resolution of subretinal fluid in 25%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "spironolactone"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/12.9.1. Central Serous Chorioretinopathy (CSC).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 308,
+      "connector_rejected": 96,
+      "connector_edges": 182,
+      "connector_width": 0.885,
+      "text_labels": 171,
+      "tree_nodes": 171,
+      "component_roots": 1,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.5909,
+      "root_font_size": 2.951,
+      "warnings": []
+    }
+  }
+}

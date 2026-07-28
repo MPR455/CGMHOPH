@@ -1,0 +1,122 @@
+---
+title: "7.12.6. Lacrimal System"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.12.6. Lacrimal System.pdf"
+---
+
+# 7.12.6. Lacrimal System
+
+## Hierarchy
+
+- Trauma
+  - Canaliculus
+    - pathogenesis
+      - direct laceration
+      - traction
+        - sudden lateral displacement of the eyelid
+          - tears the medial canthal tendon and associated canaliculus
+        - canaliculus lies within the weakest part of the eyelid
+          - lacks tarsal support!
+        - avulsion injury often appears trivial on superficial inspection
+          - when possible, diagnostic canalicular probing and irrigation should be performed
+    - surgical repair
+      - most surgeons recommend repair of all canalicular lacerations
+        - some patients with only one functioning canaliculus may experience symptomatic epiphora
+          - especially with ocular irritation
+        - success rate of primary repair is much higher than that of secondary reconstruction
+      - preferably within 48 hours
+      - locate severed ends of canalicular system
+        - general anesthesia
+        - magnification with optimal illumination
+        - laterally, canaliculus is located near eyelid margin
+        - for lacerations close to lacrimal sac, canaliculus is deep to anterior limb of medial canthal tendon
+        - irrigation using air, fluorescein, or yellow viscoelastic material through an intact adjacent canaliculus may be helpful
+          - methylene blue should be avoided, as it tends to stain the entire operative field
+        - careful use of a smooth-tipped pigtail probe may help identify medial cut end
+          - introduced through opposite, uninvolved punctum; passed through common canaliculus; and finally passed through medial cut end
+      - stenting of injured canaliculus
+        - put the stent on traction
+          - draws together severed canalicular ends and other soft-tissue structures
+          - lacrimal intubation also facilitates the soft- tissue reconstruction of the medial canthal tendon and eyelid margin
+        - bicanalicular stents
+          - cut at the medial canthus and retrieved from the nose
+        - monocanalicular stents
+          - with metal guiding probe
+            - retrieved intranasally
+          - without metallic probe
+            - inserted into the punctum and into the lacerated canaliculus but does not extend into the nose
+            - can be performed under local anesthesia
+          - simply pulled through the punctum
+        - stents are usually left in place for ≥2 months
+        - complications
+          - cheese-wiring
+          - ocular irritation
+          - infection
+          - local inflammation
+          - pyogenic granuloma
+      - direct anastomosis of cut canaliculus over silicone tube can be accomplished with closure of pericanalicular tissues
+        - direct suturing of canaliculi is probably not necessary
+  - Lacrimal Sac and Nasolacrimal Duct
+    - etiology
+      - direct laceration
+      - fracture of surrounding bones
+      - during rhinoplasty
+      - endoscopic sinus surgery when the physiologic maxillary sinus ostium is being enlarged anteriorly
+    - treatment
+      - early treatment
+        - fracture reduction
+        - soft-tissue repair
+        - silicone intubation of the entire lacrimal drainage system
+      - late treatment
+        - DCR
+- Therapeutic Closure of the Lacrimal Drainage System
+  - indication
+    - severe dry eye
+  - dissolvable collagen plugs
+    - used on a trial basis
+  - permanent plugs
+    - silicone
+    - advantages
+      - placement is fairly straightforward
+      - can be removed, if necessary
+      - usually well tolerated
+    - complications
+      - minor
+        - ocular surface irritation
+        - foreign-body reaction
+        - pyogenic granuloma
+          - requiring removal of the plug
+            - usually regress once plug is removed
+          - surgical excision needed on occasion
+      - serious
+        - plug extrusion or migration
+          - a plug that is too small will usually be extruded
+          - if plug migrates within lacrimal drainage system, obstruction of either canaliculus or NLD may result
+          - most instances of canalicular obstruction are caused by plugs designed to be placed within canaliculus
+            - use of these plugs is not recommended!
+        - canaliculitis
+          - may also result from canalicular plugs or from punctal plugs that have migrated to the canaliculus
+  - surgical occlusion
+    - indications
+      - occlusion with plugs is not successful
+      - reserved for severe cases
+    - almost always permanent
+      - if patient suffers from subsequent epiphora, no simple solution is available
+        - most cases require a CDCR
+      - all patients should undergo a trial of temporary closure before permanent closure
+    - puncta should be closed in a stepwise fashion
+      - one punctum at a time!
+        - upper and lower puncta of the same eye should never be closed simultaneously
+          - complete loss of lacrimal outflow can result in epiphora even in patients with fairly severe dry eye disease
+    - techniques
+      - thermal obliteration
+        - puncta and adjacent canaliculi
+        - often, despite fairly aggressive attempts, the puncta persist or reform
+        - handheld cautery unit
+        - needle-tip unipolar cautery unit
+        - argon laser
+      - ampullectomy
+        - with either direct closure or placement of an overlying conjunctival graft
+      - excision of punctal and adjacent canalicular epithelium
+        - for recalcitrant cases

@@ -1,0 +1,302 @@
+{
+  "label": "Ocular Surface Squamous Neoplasia (OSSN)",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "55-year-old man has noted a raised red spot on the surface of this left eye for the past 3 months"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "ocular history",
+              "children": [
+                {
+                  "label": "onset & course",
+                  "children": [
+                    {
+                      "label": "slow vs fast"
+                    }
+                  ]
+                },
+                {
+                  "label": "diplopia"
+                }
+              ]
+            },
+            {
+              "label": "medical history",
+              "children": [
+                {
+                  "label": "sunlight exposure"
+                },
+                {
+                  "label": "smoking"
+                },
+                {
+                  "label": "AIDS/immunodeficiency",
+                  "children": [
+                    {
+                      "label": "young patient"
+                    },
+                    {
+                      "label": "mutifocal/bilateral OSSN"
+                    }
+                  ]
+                },
+                {
+                  "label": "cutaneous cancers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "intrinsic/feeder vessels"
+            },
+            {
+              "label": "leukoplakia"
+            },
+            {
+              "label": "corneal involvement"
+            },
+            {
+              "label": "adherence to underlying sclera"
+            },
+            {
+              "label": "other eye",
+              "children": [
+                {
+                  "label": "pinguecula/pterygium"
+                }
+              ]
+            },
+            {
+              "label": "ocular motility"
+            },
+            {
+              "label": "preauricular adenopathy"
+            },
+            {
+              "label": "Hertel exophthalmometry"
+            },
+            {
+              "label": "gonioscopy"
+            },
+            {
+              "label": "other lid/skin lesions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "if intraorbital extension suspected",
+          "children": [
+            {
+              "label": "orbital imaging"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "Ocular Surface Squamous Neoplasia (OSSN)"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "Ocular Surface Squamous Neoplasia (OSSN)",
+          "children": [
+            {
+              "label": "middle aged-elderly",
+              "children": [
+                {
+                  "label": "red, raised limbal lesion of the conjunctiva with tortuous intrinsic vessels and prominent feeder vessels laterally in the interpalpebral fissure; the lesion extends onto the peripheral cornea with focal overlying leukoplakia"
+                }
+              ]
+            },
+            {
+              "label": "uilateral & unifocal"
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "gelatinous"
+                },
+                {
+                  "label": "leukoplakic"
+                },
+                {
+                  "label": "papillomatous"
+                }
+              ]
+            },
+            {
+              "label": "risk factors",
+              "children": [
+                {
+                  "label": "ultraviolet light exposure"
+                },
+                {
+                  "label": "immunosuppression"
+                },
+                {
+                  "label": "fair complexion"
+                },
+                {
+                  "label": "smoking"
+                },
+                {
+                  "label": "HPV infection"
+                },
+                {
+                  "label": "aging"
+                }
+              ]
+            },
+            {
+              "label": "complications",
+              "children": [
+                {
+                  "label": "corneal invasion"
+                },
+                {
+                  "label": "intraocular invasion"
+                },
+                {
+                  "label": "orbital invasion"
+                },
+                {
+                  "label": "lymph node metastasis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "inflammed pterygium/ pinguecula"
+        },
+        {
+          "label": "papilloma"
+        },
+        {
+          "label": "amelanotic nevus/ melanoma"
+        },
+        {
+          "label": "sclerokeratitis"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "topical mitomycin"
+            },
+            {
+              "label": "topical 5-FU"
+            },
+            {
+              "label": "topical/subconjunctival interferon"
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "excisional biopsy",
+              "children": [
+                {
+                  "label": "no touch technique"
+                },
+                {
+                  "label": "wide margins"
+                },
+                {
+                  "label": "corneal epitheliectomy"
+                },
+                {
+                  "label": "double freeze thaw cryotherapy to conjunctival edges"
+                },
+                {
+                  "label": "± lamellar sclerectomy/ keratectomy"
+                },
+                {
+                  "label": "± topical mitomycin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good prognosis with complete excision"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "regular follow-up for recurrence"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Ocular Surface Squamous Neoplasia (OSSN).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 139,
+      "connector_rejected": 20,
+      "connector_edges": 93,
+      "connector_width": 1.613,
+      "text_labels": 77,
+      "tree_nodes": 77,
+      "component_roots": 7,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6691,
+      "root_font_size": 7.526,
+      "warnings": []
+    }
+  }
+}

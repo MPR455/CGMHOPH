@@ -1,0 +1,211 @@
+{
+  "label": "7.10.9. Eyelid Neoplasms (VI)",
+  "root": true,
+  "children": [
+    {
+      "label": "Merkel cell carcinoma",
+      "children": [
+        {
+          "label": "dendritic (neuroendocrine) skin cells",
+          "children": [
+            {
+              "label": "role in mediating sense of touch"
+            },
+            {
+              "label": "can give rise to malignant neoplasms",
+              "children": [
+                {
+                  "label": "10% occur in the eyelid and periocular area"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "painless, erythematous nodules"
+            },
+            {
+              "label": "overlying telangiectatic blood vessels"
+            },
+            {
+              "label": "can mimic other malignant lesions",
+              "children": [
+                {
+                  "label": "diagnosis can be difficult"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "1/3 of tumors recur after excision"
+        },
+        {
+          "label": "estimated 5-year survival rate",
+          "children": [
+            {
+              "label": "50%"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "should be aggressive"
+            },
+            {
+              "label": "wide surgical resection"
+            },
+            {
+              "label": "±postoperative radiation and/or chemotherapy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Squamous cell carcinoma",
+      "children": [
+        {
+          "label": "40 times less common than basal cell carcinoma"
+        },
+        {
+          "label": "predisposing factors",
+          "children": [
+            {
+              "label": "spontaneous"
+            },
+            {
+              "label": "from areas of solar injury and actinic keratosis"
+            },
+            {
+              "label": "immunodeficiency"
+            }
+          ]
+        },
+        {
+          "label": "more aggressive",
+          "children": [
+            {
+              "label": "may metastasize",
+              "children": [
+                {
+                  "label": "lymphatic transmission"
+                },
+                {
+                  "label": "blood-borne transmission"
+                },
+                {
+                  "label": "direct extension, often along nerves"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "similar to those for basal cell carcinoma"
+            },
+            {
+              "label": "Mohs micrographic resection"
+            },
+            {
+              "label": "surgical excision with wide margins and frozen sections"
+            },
+            {
+              "label": "recurrent squamous cell carcinoma",
+              "children": [
+                {
+                  "label": "wide surgical resection"
+                },
+                {
+                  "label": "orbital exenteration"
+                },
+                {
+                  "label": "± neck dissection",
+                  "children": [
+                    {
+                      "label": "may require collaboration with a head and neck cancer surgeon"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "hedgehog pathway and epidermal growth factor receptor (EGFR) inhibitors",
+              "children": [
+                {
+                  "label": "for patients who are not candidates for surgery"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Kaposi sarcoma",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "manifestation of AIDS"
+        },
+        {
+          "label": "chronic reddish dermal mass"
+        },
+        {
+          "label": "conjunctival lesions can be mistaken for foreign-body granuloma or cavernous hemangioma"
+        },
+        {
+          "label": "composed of spindle cells of probable endothelial origin"
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "cryotherapy"
+            },
+            {
+              "label": "excision"
+            },
+            {
+              "label": "radiation"
+            },
+            {
+              "label": "intralesional chemotherapeutic agents"
+            },
+            {
+              "label": "may regress with adequate antiviral treatment of the HIV infection"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.10.9. Eyelid Neoplasms (VI).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 49,
+      "connector_rejected": 1,
+      "connector_edges": 48,
+      "connector_width": 1.172,
+      "text_labels": 52,
+      "tree_nodes": 52,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9796,
+      "root_font_size": 4.982,
+      "warnings": []
+    }
+  }
+}

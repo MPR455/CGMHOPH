@@ -1,0 +1,365 @@
+{
+  "label": "4.11.5. Retina & Retinal pigment Epithelium (V): Ischemia",
+  "root": true,
+  "children": [
+    {
+      "label": "etiology",
+      "children": [
+        {
+          "label": "diabetes mellitus"
+        },
+        {
+          "label": "retinal artery & vein occlusion"
+        },
+        {
+          "label": "radiation retinopathy"
+        },
+        {
+          "label": "retinopathy of prematurity"
+        },
+        {
+          "label": "sickle cell retinopathy"
+        },
+        {
+          "label": "vasculitis"
+        },
+        {
+          "label": "carotid occlusive disease"
+        }
+      ]
+    },
+    {
+      "label": "vascular response",
+      "children": [
+        {
+          "label": "vascular endothelial growth factor (VEGF)",
+          "children": [
+            {
+              "label": "increases vascular permeability"
+            },
+            {
+              "label": "induces angiogenesis"
+            },
+            {
+              "label": "VEGF inhibitors",
+              "children": [
+                {
+                  "label": "pegaptanib",
+                  "children": [
+                    {
+                      "label": "RNA aptamer"
+                    },
+                    {
+                      "label": "binds to VEGF165 isoform"
+                    }
+                  ]
+                },
+                {
+                  "label": "ranibizumab",
+                  "children": [
+                    {
+                      "label": "recombinant humanized monoclonal antibody fragment"
+                    }
+                  ]
+                },
+                {
+                  "label": "bevacizumab",
+                  "children": [
+                    {
+                      "label": "full length monoclonal antibody",
+                      "children": [
+                        {
+                          "label": "inhibit all isoforms of VEGF-A"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "retinal edema",
+          "children": [
+            {
+              "label": "increased permeability of inner blood-retina barrier"
+            }
+          ]
+        },
+        {
+          "label": "hard exudates",
+          "children": [
+            {
+              "label": "intraretinal eosinophilic sharply demarcated deposits of lipid & protein",
+              "children": [
+                {
+                  "label": "extracellular"
+                },
+                {
+                  "label": "within microglial cells",
+                  "children": [
+                    {
+                      "label": "indicates chronic edema!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "macular star",
+              "children": [
+                {
+                  "label": "deposits in the outer plexiform layer (Henle layer) of macula"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "retinal hemorrhages",
+          "children": [
+            {
+              "label": "nerve fiber layer",
+              "children": [
+                {
+                  "label": "flame-shaped"
+                }
+              ]
+            },
+            {
+              "label": "nuclear/inner plexiform layers",
+              "children": [
+                {
+                  "label": "dot & blot"
+                }
+              ]
+            },
+            {
+              "label": "subhyaloid/sub-ILM",
+              "children": [
+                {
+                  "label": "boat-shaped"
+                }
+              ]
+            },
+            {
+              "label": "white-centered hemorrhages",
+              "children": [
+                {
+                  "label": "Roth spots"
+                },
+                {
+                  "label": "central aggregates of",
+                  "children": [
+                    {
+                      "label": "WBC"
+                    },
+                    {
+                      "label": "platelets"
+                    },
+                    {
+                      "label": "fibrin"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "architectural vascular changes",
+          "children": [
+            {
+              "label": "area of infarction",
+              "children": [
+                {
+                  "label": "acellular capillaries"
+                }
+              ]
+            },
+            {
+              "label": "adjacent areas",
+              "children": [
+                {
+                  "label": "intraretinal microvascular abnormalities"
+                },
+                {
+                  "label": "microaneurysms",
+                  "children": [
+                    {
+                      "label": "fusiform/saccular outpouchings of capillaries",
+                      "children": [
+                        {
+                          "label": "PAS-stained trypsin digest preparations"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "neovascularization",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "diabetic retinopathy"
+                },
+                {
+                  "label": "central retinal vein occlusion"
+                }
+              ]
+            },
+            {
+              "label": "growth of new vessels on vitreous side of ILM",
+              "children": [
+                {
+                  "label": "preretinal/vitreous hemorrhage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "cellular response",
+      "children": [
+        {
+          "label": "prolonged oxygen deprivation (>90 min)",
+          "children": [
+            {
+              "label": "rerinal infarction",
+              "children": [
+                {
+                  "label": "neuronal cell degeneration",
+                  "children": [
+                    {
+                      "label": "pyknosis"
+                    },
+                    {
+                      "label": "phagocytosis"
+                    },
+                    {
+                      "label": "+- proliferation of adjacent glial cells",
+                      "children": [
+                        {
+                          "label": "neuronal cells do not regenerate"
+                        },
+                        {
+                          "label": "glial scar"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "glial cell degeneration"
+                },
+                {
+                  "label": "microglial cells",
+                  "children": [
+                    {
+                      "label": "resistant to ischemia"
+                    },
+                    {
+                      "label": "tissue macrophages",
+                      "children": [
+                        {
+                          "label": "phagocytose",
+                          "children": [
+                            {
+                              "label": "necrotic cells"
+                            },
+                            {
+                              "label": "extracellular material"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "retinal circulation infarction",
+          "children": [
+            {
+              "label": "inner ischemic retinal atrophy",
+              "children": [
+                {
+                  "label": "nerve fiber layer ischemic infarcts",
+                  "children": [
+                    {
+                      "label": "cytoid bodies",
+                      "children": [
+                        {
+                          "label": "swollen axons",
+                          "children": [
+                            {
+                              "label": "accumulations of axoplasmic material",
+                              "children": [
+                                {
+                                  "label": "filled with proteinaceous fluid"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "cotton-wool spots"
+                        },
+                        {
+                          "label": "resolve in 4-12 weeks",
+                          "children": [
+                            {
+                              "label": "area of inner retinal atrophy"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "choroidal circulation infarction",
+          "children": [
+            {
+              "label": "outer ischemic retinal atrophy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.11.5. Retina & Retinal pigment Epithelium (V) - Ischemia.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 185,
+      "connector_rejected": 17,
+      "connector_edges": 108,
+      "connector_width": 0.739,
+      "text_labels": 86,
+      "tree_nodes": 86,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.5838,
+      "root_font_size": 3.14,
+      "warnings": []
+    }
+  }
+}

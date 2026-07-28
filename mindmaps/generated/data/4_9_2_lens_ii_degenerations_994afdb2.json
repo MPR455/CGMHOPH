@@ -1,0 +1,361 @@
+{
+  "label": "4.9.2. Lens (II): Degenerations",
+  "root": true,
+  "children": [
+    {
+      "label": "Capsule",
+      "children": [
+        {
+          "label": "thickening",
+          "children": [
+            {
+              "label": "chronic inflammation"
+            },
+            {
+              "label": "pathologic proliferation of lens epithelium"
+            }
+          ]
+        },
+        {
+          "label": "pigmented deposits",
+          "children": [
+            {
+              "label": "copper (chalcosis)"
+            },
+            {
+              "label": "silver (argyrosis)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cortex",
+      "children": [
+        {
+          "label": "cortical degenerative changes",
+          "children": [
+            {
+              "label": "ultraviolet light exposure"
+            },
+            {
+              "label": "2 categories",
+              "children": [
+                {
+                  "label": "generalized discoloration with loss of transparency",
+                  "children": [
+                    {
+                      "label": "cannot be diagnosed histologically"
+                    }
+                  ]
+                },
+                {
+                  "label": "focal opacifications",
+                  "children": [
+                    {
+                      "label": "hydropic swelling of lens fibers",
+                      "children": [
+                        {
+                          "label": "decreased intensity of eosinophilic staining of lens fibers"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "liquefactive change",
+                      "children": [
+                        {
+                          "label": "focal opacities become more apparent"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "accumulation of eosinophilic globules",
+                      "children": [
+                        {
+                          "label": "morgagnian globules"
+                        },
+                        {
+                          "label": "in slit-like spaces between lens fibers"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "morgagnian cataract",
+                      "children": [
+                        {
+                          "label": "liquefied cortex"
+                        },
+                        {
+                          "label": "sunken nucleus"
+                        },
+                        {
+                          "label": "wrinkled capsule"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "phacolytic glaucoma",
+          "children": [
+            {
+              "label": "denatured lens protein escapes though intact lens capsule"
+            },
+            {
+              "label": "anterior chamber macrophagic inflammatory reaction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Epithelium",
+      "children": [
+        {
+          "label": "glaukomflecken",
+          "children": [
+            {
+              "label": "severe elevation of intraocular pressure"
+            },
+            {
+              "label": "white flecks beneath lens capsule"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "necrotic epithelial cells"
+                },
+                {
+                  "label": "degenerated subepithelial cortical material"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "anterior subcapsular fibrous plaque",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "inflammation"
+                },
+                {
+                  "label": "ischemia"
+                },
+                {
+                  "label": "trauma"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "epithelial hyperplasia"
+                },
+                {
+                  "label": "epithelial metaplasia",
+                  "children": [
+                    {
+                      "label": "fibroblast-like cells",
+                      "children": [
+                        {
+                          "label": "collagen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "duplication cataract",
+                  "children": [
+                    {
+                      "label": "new capsule surrounding fibrous plaque"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "siderosis",
+          "children": [
+            {
+              "label": "iron-containing foreign bodies"
+            },
+            {
+              "label": "iron within epithelial cells",
+              "children": [
+                {
+                  "label": "lens epithelial degeneration/necrosis"
+                }
+              ]
+            },
+            {
+              "label": "Perls Prussian blue stain"
+            }
+          ]
+        },
+        {
+          "label": "posterior subcapsular cataract",
+          "children": [
+            {
+              "label": "risk factors",
+              "children": [
+                {
+                  "label": "chronic inflammation"
+                },
+                {
+                  "label": "diabetes mellitus"
+                },
+                {
+                  "label": "ionizing radiation"
+                },
+                {
+                  "label": "smoking"
+                },
+                {
+                  "label": "prolonged corticosteroid use"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "epithelial disarray at the equator"
+                },
+                {
+                  "label": "posterior migration of lens epithelium"
+                },
+                {
+                  "label": "enlargement & swelling of posteriorly migrating epithelial cells",
+                  "children": [
+                    {
+                      "label": "5-6 x normal size"
+                    },
+                    {
+                      "label": "bladder cells of Wedl"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Elschnig pearls",
+          "children": [
+            {
+              "label": "after cataract surgery"
+            },
+            {
+              "label": "collections of proliferating epithelial cells",
+              "children": [
+                {
+                  "label": "partially transparent globular masses"
+                },
+                {
+                  "label": "identical to bladder cells of Wedl"
+                }
+              ]
+            },
+            {
+              "label": "inner surface of posterior lens capsule",
+              "children": [
+                {
+                  "label": "posterior capsular opacity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Soemmering ring cataract",
+          "children": [
+            {
+              "label": "incomplete cortical removal during cataract surgery"
+            },
+            {
+              "label": "proliferating lens fibers in equatorial region"
+            },
+            {
+              "label": "doughnut-shaped configuration"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nucleus",
+      "children": [
+        {
+          "label": "aging",
+          "children": [
+            {
+              "label": "nuclear sclerosis",
+              "children": [
+                {
+                  "label": "compression/hardening of lens nucleus"
+                },
+                {
+                  "label": "nuclear discoloration",
+                  "children": [
+                    {
+                      "label": "urochrome pigment"
+                    }
+                  ]
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "homogeneous eosinophilic appearance"
+                    },
+                    {
+                      "label": "loss of cellular laminations"
+                    },
+                    {
+                      "label": "crystalline deposits of calcium oxalate",
+                      "children": [
+                        {
+                          "label": "birefringent under polarized light"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.9.2. Lens (II) - Degenerations.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 185,
+      "connector_rejected": 14,
+      "connector_edges": 113,
+      "connector_width": 1.551,
+      "text_labels": 88,
+      "tree_nodes": 88,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6108,
+      "root_font_size": 5.168,
+      "warnings": []
+    }
+  }
+}

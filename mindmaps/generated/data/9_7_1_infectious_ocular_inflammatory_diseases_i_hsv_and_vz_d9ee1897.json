@@ -1,0 +1,186 @@
+{
+  "label": "9.7.1. Infectious Ocular Inflammatory Diseases (I): HSV and VZV (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Nonnecrotizing herpetic retinitis",
+      "children": [
+        {
+          "label": "children",
+          "children": [
+            {
+              "label": "acute retinochoroiditis with diffuse hemorrhages",
+              "children": [
+                {
+                  "label": "following acute VZV infection"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "adults",
+          "children": [
+            {
+              "label": "chronic choroiditis or retinal vasculitis"
+            }
+          ]
+        },
+        {
+          "label": "viral etiology in 13% of cases diagnosed as “idiopathic posterior uveitis”"
+        },
+        {
+          "label": "may present with",
+          "children": [
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "cystoid macular edema (CME)"
+            },
+            {
+              "label": "birdshot uveitis–like retinochoroidopathy"
+            },
+            {
+              "label": "occlusive bilateral retinitis"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "resistant to systemic corticosteroids and/or IMT"
+            },
+            {
+              "label": "favorable response to systemic antiviral medication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Progressive outer retinal necrosis (PORN)",
+      "children": [
+        {
+          "label": "variant of acute necrotizing herpetic retinopathy"
+        },
+        {
+          "label": "profoundly immunosuppressed patients"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "VZV",
+              "children": [
+                {
+                  "label": "most common",
+                  "children": [
+                    {
+                      "label": "advanced AIDS (CD4+ T lymphocytes ≤50 cells/μL)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "HSV"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "patchy areas of outer retinal whitening that coalesce rapidly"
+            },
+            {
+              "label": "differences with ARN",
+              "children": [
+                {
+                  "label": "early involvement of posterior pole"
+                },
+                {
+                  "label": "absent vitreous inflammatory cells"
+                },
+                {
+                  "label": "minimal involvement of retinal vasculature",
+                  "children": [
+                    {
+                      "label": "at least initially"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "patients with PORN + AIDS",
+              "children": [
+                {
+                  "label": "history of cutaneous zoster (67%)"
+                },
+                {
+                  "label": "bilateral involvement (71%)"
+                },
+                {
+                  "label": "high rate (70%) of retinal detachment as in ARN",
+                  "children": [
+                    {
+                      "label": "Similar to ARN"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "visual prognosis is poor",
+          "children": [
+            {
+              "label": "visual acuity of no light perception in 75%"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "often resistant to intravenous acyclovir alone"
+            },
+            {
+              "label": "combination systemic and intraocular therapy using foscarnet and ganciclovir",
+              "children": [
+                {
+                  "label": "successful management has been reported"
+                }
+              ]
+            },
+            {
+              "label": "long-term suppressive antiviral therapy is required in patients with HIV/AIDS who are not able to achieve immune reconstitution"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.1. Infectious Ocular Inflammatory Diseases (I) - HSV and VZV (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 79,
+      "connector_rejected": 3,
+      "connector_edges": 47,
+      "connector_width": 1.172,
+      "text_labels": 43,
+      "tree_nodes": 43,
+      "component_roots": 2,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.5949,
+      "root_font_size": 4.982,
+      "warnings": []
+    }
+  }
+}

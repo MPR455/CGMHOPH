@@ -1,0 +1,411 @@
+{
+  "label": "Coats Disease & Parafoveal Retinal Telangiectasia",
+  "root": true,
+  "children": [
+    {
+      "label": "Coats Disease",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "male predominance (85%)"
+            },
+            {
+              "label": "only 1 eye is involved"
+            },
+            {
+              "label": "not hereditary",
+              "children": [
+                {
+                  "label": "an associated gene has been identified on chromosome 4"
+                }
+              ]
+            },
+            {
+              "label": "not associated with systemic disease"
+            }
+          ]
+        },
+        {
+          "label": "Pathogenesis",
+          "children": [
+            {
+              "label": "abnormal vessels are incompetent",
+              "children": [
+                {
+                  "label": "leakage of serum and other blood components"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Clinical",
+          "children": [
+            {
+              "label": "peripheral and macular capillary system may be involved",
+              "children": [
+                {
+                  "label": "vascular dilatations (retinal telangiectasia)"
+                },
+                {
+                  "label": "ectatic arterioles"
+                },
+                {
+                  "label": "microaneurysms"
+                },
+                {
+                  "label": "venous dilations (phlebectasias)"
+                },
+                {
+                  "label": "fusiform capillary dilatations"
+                }
+              ]
+            },
+            {
+              "label": "exudative retinal detachment"
+            },
+            {
+              "label": "lipid exudation",
+              "children": [
+                {
+                  "label": "lipid may deposit in an otherwise angiographically normal macula",
+                  "children": [
+                    {
+                      "label": "submacular lipogranuloma"
+                    },
+                    {
+                      "label": "subretinal fibrosis",
+                      "children": [
+                        {
+                          "label": "may simulate retinoblastoma"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fluorescein angiography",
+              "children": [
+                {
+                  "label": "retinal capillary nonperfusion"
+                }
+              ]
+            },
+            {
+              "label": "posterior segment neovascularization is unusual"
+            },
+            {
+              "label": "severity and rate of progression greater in children < 4 years",
+              "children": [
+                {
+                  "label": "massive exudative retinal detachment",
+                  "children": [
+                    {
+                      "label": "retina apposed to the lens"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Differential Diagnosis",
+          "children": [
+            {
+              "label": "dominant (familial) exudative vitreoretinopathy"
+            },
+            {
+              "label": "facioscapulohumeral muscular dystrophy"
+            },
+            {
+              "label": "retinopathy of prematurity (ROP)"
+            },
+            {
+              "label": "diabetic retinopathy"
+            },
+            {
+              "label": "BRVO"
+            },
+            {
+              "label": "juxtafoveal retinal telangiectasia"
+            },
+            {
+              "label": "radiation retinopathy"
+            }
+          ]
+        },
+        {
+          "label": "Treatment",
+          "children": [
+            {
+              "label": "photocoagulation"
+            },
+            {
+              "label": "cryotherapy"
+            },
+            {
+              "label": "retinal reattachment surgery"
+            },
+            {
+              "label": "several treatments may be necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Parafoveal (Juxtafoveal) Retinal Telangiectasia",
+      "children": [
+        {
+          "label": "Clinical findings",
+          "children": [
+            {
+              "label": "telangiectasia of the capillary bed"
+            },
+            {
+              "label": "focal retinal gliosis"
+            },
+            {
+              "label": "juxtafoveolar region of 1 or both eyes"
+            },
+            {
+              "label": "capillary incompetence and exudation"
+            },
+            {
+              "label": "refractile changes (“retinal crystals”)",
+              "children": [
+                {
+                  "label": "advanced cases"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "not a true telangiectasia"
+        },
+        {
+          "label": "Histology",
+          "children": [
+            {
+              "label": "structural abnormalities similar to those of diabetic microangiopathy",
+              "children": [
+                {
+                  "label": "deposits of excess basement membrane within the retinal capillaries"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "3 types",
+          "children": [
+            {
+              "label": "Type 1",
+              "children": [
+                {
+                  "label": "aneurysmal telangiectasia"
+                },
+                {
+                  "label": "males"
+                },
+                {
+                  "label": "unilateral"
+                },
+                {
+                  "label": "congenital or acquired"
+                },
+                {
+                  "label": "circinate type of exudate"
+                },
+                {
+                  "label": "resembles macular variant of Coats disease",
+                  "children": [
+                    {
+                      "label": "Leber miliary aneurysm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Type 2",
+              "children": [
+                {
+                  "label": "perifoveal telangiectasia"
+                },
+                {
+                  "label": "bilateral"
+                },
+                {
+                  "label": "no sex predilection"
+                },
+                {
+                  "label": "retinal changes",
+                  "children": [
+                    {
+                      "label": "thickening"
+                    },
+                    {
+                      "label": "loss of transparency with a grayish appearance"
+                    },
+                    {
+                      "label": "small telangiectatic vessels"
+                    },
+                    {
+                      "label": "cystic appearance of the fovea"
+                    },
+                    {
+                      "label": "temporal fovea"
+                    },
+                    {
+                      "label": "chronic changes",
+                      "children": [
+                        {
+                          "label": "intralesional retinal pigment epithelium (RPE) migration"
+                        },
+                        {
+                          "label": "choroidal neovascularization"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "vision loss ranges from mild to severe"
+                },
+                {
+                  "label": "abnormal glucose tolerance test",
+                  "children": [
+                    {
+                      "label": "1/3"
+                    }
+                  ]
+                },
+                {
+                  "label": "right-angle retinal venules",
+                  "children": [
+                    {
+                      "label": "dive at a right angle into deeper retinal layers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Type 3",
+              "children": [
+                {
+                  "label": "bilateral parafoveal telangiectasia with retinal capillary obliteration",
+                  "children": [
+                    {
+                      "label": "progressive vision loss from perifoveal capillary occlusion"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Imaging",
+          "children": [
+            {
+              "label": "fluorescein angiography",
+              "children": [
+                {
+                  "label": "leakage of telangiectatic vessels"
+                }
+              ]
+            },
+            {
+              "label": "OCT",
+              "children": [
+                {
+                  "label": "thinned central macular retina"
+                },
+                {
+                  "label": "inner lamellar oblong foveal cavitations",
+                  "children": [
+                    {
+                      "label": "long axis is parallel to the retinal surface"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Differential diagnosis",
+          "children": [
+            {
+              "label": "branch retinal vein or venule obstruction"
+            },
+            {
+              "label": "diabetes mellitus"
+            },
+            {
+              "label": "radiation retinopathy"
+            },
+            {
+              "label": "cystoid macular edema (especially chronic)"
+            },
+            {
+              "label": "carotid artery disease"
+            }
+          ]
+        },
+        {
+          "label": "Treatment",
+          "children": [
+            {
+              "label": "Photocoagulation",
+              "children": [
+                {
+                  "label": "for type 1"
+                }
+              ]
+            },
+            {
+              "label": "anti-VEGF drugs",
+              "children": [
+                {
+                  "label": "limited success",
+                  "children": [
+                    {
+                      "label": "Type 2 and type 3 eyes typically do not respond to photocoagulation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Coats Disease & Parafoveal Retinal Telangiectasia.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 195,
+      "connector_rejected": 5,
+      "connector_edges": 141,
+      "connector_width": 1.191,
+      "text_labels": 104,
+      "tree_nodes": 104,
+      "component_roots": 2,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7231,
+      "root_font_size": 5.16,
+      "warnings": []
+    }
+  }
+}

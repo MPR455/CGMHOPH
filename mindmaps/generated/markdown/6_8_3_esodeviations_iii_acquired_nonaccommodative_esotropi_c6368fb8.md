@@ -1,0 +1,141 @@
+---
+title: "6.8.3. Esodeviations (III): Acquired Nonaccommodative Esotropias"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.8.3. Esodeviations (III) - Acquired Nonaccommodative Esotropias.pdf"
+---
+
+# 6.8.3. Esodeviations (III): Acquired Nonaccommodative Esotropias
+
+## Hierarchy
+
+- Basic Acquired Nonaccommodative Esotropia
+  - .> age 6 months
+  - ± acute onset
+    - precipitating factor
+      - temporary but prolonged disruption of binocular vision
+        - hyphema
+        - preseptal cellulitis
+        - mechanical ptosis
+        - prolonged patching
+        - tenuous fusion!
+    - patient immediately becomes aware of deviation
+    - ± diplopia
+  - comitant
+  - no accommodative component
+    - hyperopia is not significant
+    - deviation is similar at distance and near
+    - careful motility evaluation is important to rule out an accommodative or paretic component
+  - onset of nonaccommodative esotropia in an older child may be a sign of an underlying neurologic disorder
+    - neuroimaging and neurologic evaluation may be indicated when other symptoms or signs of neurologic abnormality are present
+      - lateral incomitance
+      - deviation greater at distance than near
+      - abnormal head position
+      - diplopia
+      - concomitant headache
+  - treatment
+    - amblyopia treatment
+    - surgical correction
+      - as soon as possible after the onset of the deviation
+    - botulinum toxin injection
+    - smaller undercorrection rate (≤10%) with surgery based on the prism-adapted angle
+  - many patients with acquired nonaccommodative esotropia have a history of normal binocular vision
+    - good prognosis for restoration of single binocular vision with prisms and/or surgery
+  - references
+- Consecutive Esotropia
+  - esotropia following a history of exotropia
+  - types
+    - spontaneous
+      - rare
+      - neurologic disorders
+        - cerebral palsy
+      - very poor vision in 1 eye
+    - after surgery for exotropia
+      - not uncommon
+      - often resolves over time
+        - an initial small overcorrection is desirable after surgery for exotropia, as it is associated with an improved long-term success rate
+  - Treatment
+    - hyperopic correction
+    - base-out prisms
+    - alternating occlusion
+    - botulinum injection
+    - strabismus surgery
+      - in postsurgical consecutive esotropia surgery or botulinum toxin injection should be postponed for several months
+        - unless the deviation is very large or a slipped or lost muscle is suspected
+    - slipped or lost lateral rectus muscle
+      - varying amounts of esotropia
+      - should be suspected following lateral rectus recession surgery if a significant abduction deficit is present
+        - if the ipsilateral medial rectus muscle was resected at the time of the lateral rectus recession, the consecutive esotropia could be due to a tight medial rectus muscle
+          - forced-duction testing helps differentiate between these two causes
+      - surgical exploration is required
+        - for slipped muscles, the true muscle should be identified and secured back to the sclera
+        - transposition procedures may be necessary when lost muscles cannot be found
+- Cyclic Esotropia
+  - rare
+    - 1:3000–1:5000 strabismus cases
+  - Onset typically during preschool years
+  - occurs intermittently, usually every other day (48-hour cycle)
+    - Variable intervals
+    - 24-hour cycles
+  - comitant
+  - Fusion and binocular vision are usually absent/defective on strabismic day
+    - ± diplopia
+      - more prominent in older patients
+  - marked improvement or normalization on orthotropic day
+  - occlusion therapy may convert the cyclic deviation into a constant one
+  - surgical treatment of cyclic esotropia is usually effective
+    - based on the maximum angle of deviation present when the eyes are esotropic
+- Sensory Esotropia
+  - deprivation esotropia
+  - monocular vision loss
+  - restoration of the best-possible visual input must be accomplished at an early age if irreversible amblyopia is to be avoided
+  - if surgery or botulinum toxin injection is indicated for strabismus, it is generally performed only on the eye with a significant deficit
+- Spasm of the Near Reflex
+  - etiology
+    - psychological factors
+      - stress
+      - anxiety
+    - organic disease
+      - rare
+  - varying combinations of excessive
+    - convergence
+      - acute esotropia alternating at other times with orthotropia
+      - substitution of a convergence movement for a gaze movement on horizontal versions is characteristic
+      - monocular abduction is normal in spite of marked abduction limitation on version testing
+    - accommodation
+      - pseudomyopia
+    - miosis
+  - treatment
+    - cycloplegic agents
+      - atropine
+      - homatropine
+    - hyperopic correction for patients with significant hyperopia
+      - bifocals
+    - counseling to address underlying issues
+    - considered with caution if spasm cannot be broken
+      - botulinum toxin injections of the medial rectus muscles
+      - strabismus surgery
+- Divergence Insufficiency
+  - fusional divergence is reduced
+  - divergence paralysis
+    - more severe form of divergence insufficiency
+  - esodeviation greater at distance than at near
+  - comitant in vertical and horizontal gaze
+  - 2 forms
+    - primary, isolated form
+      - benign condition
+      - .>50 years
+      - symptoms sometimes resolve within several months
+    - secondary form
+      - pathogenesis
+        - associated with neurologic abnormalities
+          - pontine tumors
+          - increased intracranial pressure
+          - severe head trauma
+        - sixth nerve paresis that is so mild that abduction deficit has not yet become clinically evident
+      - require neuroimaging
+      - treatment
+        - treatment of the underlying neurologic disorder
+        - base-out prisms
+        - botulinum toxin injection of the medial rectus muscles
+        - strabismus surgery

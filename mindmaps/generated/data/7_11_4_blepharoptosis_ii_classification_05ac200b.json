@@ -1,0 +1,288 @@
+{
+  "label": "7.11.4. Blepharoptosis (II): Classification",
+  "root": true,
+  "children": [
+    {
+      "label": "Pseudoptosis",
+      "children": [
+        {
+          "label": "hypertropia"
+        },
+        {
+          "label": "enophthalmos"
+        },
+        {
+          "label": "microphthalmia"
+        },
+        {
+          "label": "anophthalmia"
+        },
+        {
+          "label": "phthisis bulbi"
+        },
+        {
+          "label": "superior sulcus defect secondary to trauma or other causes"
+        },
+        {
+          "label": "contralateral upper eyelid retraction"
+        },
+        {
+          "label": "dermatochalasis",
+          "children": [
+            {
+              "label": "excess upper eyelid skin overhangs the eyelid margin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Myogenic ptosis",
+      "children": [
+        {
+          "label": "Congenital myogenic ptosis",
+          "children": [
+            {
+              "label": "dysgenesis of the levator muscle",
+              "children": [
+                {
+                  "label": "fibrous or adipose tissue is present in the muscle belly"
+                }
+              ]
+            },
+            {
+              "label": "decreased levator function",
+              "children": [
+                {
+                  "label": "amount of levator function is an indication of the amount of normal muscle"
+                }
+              ]
+            },
+            {
+              "label": "lid lag"
+            },
+            {
+              "label": "lagophthalmos"
+            },
+            {
+              "label": "upper eyelid crease is often absent or poorly formed"
+            },
+            {
+              "label": "monocular elevation deficiency",
+              "children": [
+                {
+                  "label": "congenital myogenic ptosis + poor Bell phenomenon or vertical strabismus",
+                  "children": [
+                    {
+                      "label": "may indicate concomitant maldevelopment of the superior rectus and levator muscles"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Acquired myogenic ptosis",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "muscular dystrophy"
+                },
+                {
+                  "label": "chronic progressive external ophthalmoplegia"
+                },
+                {
+                  "label": "MG"
+                },
+                {
+                  "label": "oculopharyngeal dystrophy"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "frontalis sling procedures"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Traumatic ptosis",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "myogenic"
+            },
+            {
+              "label": "aponeurotic",
+              "children": [
+                {
+                  "label": "eyelid lacerations exposing preaponeurotic fat indicate that orbital septum has been transected and suggest possible damage to the levator aponeurosis",
+                  "children": [
+                    {
+                      "label": "exploration of levator muscle or aponeurosis may be indicated in these patients if levator function is diminished or ptosis is present"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "neurogenic"
+            },
+            {
+              "label": "mechanical"
+            }
+          ]
+        },
+        {
+          "label": "orbital and neurosurgical procedures may also lead to traumatic ptosis"
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "may resolve or improve spontaneously",
+              "children": [
+                {
+                  "label": "observe the patient for 6 months before considering surgical intervention"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Aponeurotic ptosis (acquired)",
+      "children": [
+        {
+          "label": "most common form of ptosis"
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "stretching or dehiscence of the levator aponeurosis or disinsertion from its normal position"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "involutional"
+            },
+            {
+              "label": "repetitive traction on the eyelid",
+              "children": [
+                {
+                  "label": "frequent eye rubbing"
+                }
+              ]
+            },
+            {
+              "label": "prolonged use of rigid contact lenses"
+            },
+            {
+              "label": "intraocular surgery"
+            },
+            {
+              "label": "eyelid surgery"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "high or an absent upper eyelid crease",
+              "children": [
+                {
+                  "label": "upward displacement or loss of the insertion of levator fibers into the skin"
+                }
+              ]
+            },
+            {
+              "label": "thinning of the eyelid superior to the upper tarsal plate"
+            },
+            {
+              "label": "normal levator function (12–15 mm)"
+            },
+            {
+              "label": "limits the superior visual field"
+            },
+            {
+              "label": "worse in downgaze",
+              "children": [
+                {
+                  "label": "interferes with patient’s ability to read"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mechanical ptosis",
+      "children": [
+        {
+          "label": "eyelid or orbital mass weighs or pulls down the upper eyelid"
+        },
+        {
+          "label": "congenital abnormality",
+          "children": [
+            {
+              "label": "plexiform neurofibroma"
+            },
+            {
+              "label": "hemangioma"
+            }
+          ]
+        },
+        {
+          "label": "acquired neoplasm",
+          "children": [
+            {
+              "label": "large chalazion"
+            },
+            {
+              "label": "skin carcinoma"
+            },
+            {
+              "label": "postsurgical/posttraumatic edema"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.11.4. Blepharoptosis (II) - Classification.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 67,
+      "connector_rejected": 2,
+      "connector_edges": 65,
+      "connector_width": 1.058,
+      "text_labels": 71,
+      "tree_nodes": 71,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9701,
+      "root_font_size": 4.498,
+      "warnings": []
+    }
+  }
+}

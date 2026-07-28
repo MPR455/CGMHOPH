@@ -1,0 +1,410 @@
+{
+  "label": "5.6.3. Disorders of Higher Cortical Function",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "visual information is projected from primary visual (occipital striate) cortex (area V1) to associative visual cortical areas (V2–V5)"
+        },
+        {
+          "label": "2 pathways",
+          "children": [
+            {
+              "label": "ventral occipitotemporal pathway",
+              "children": [
+                {
+                  "label": "processes the physical attributes of an image",
+                  "children": [
+                    {
+                      "label": "\"what\"",
+                      "children": [
+                        {
+                          "label": "shape"
+                        },
+                        {
+                          "label": "pattern"
+                        },
+                        {
+                          "label": "color"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "dorsal occipitoparietal pathway",
+              "children": [
+                {
+                  "label": "visuospatial analysis",
+                  "children": [
+                    {
+                      "label": "\"where\""
+                    }
+                  ]
+                },
+                {
+                  "label": "guiding movements toward items of interest"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cortical syndromes",
+          "children": [
+            {
+              "label": "2 mechanisms",
+              "children": [
+                {
+                  "label": "damage to specific cortical areas"
+                },
+                {
+                  "label": "interrruption of information flow between such areas",
+                  "children": [
+                    {
+                      "label": "disconnection syndromes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "See Table 6-2"
+        }
+      ]
+    },
+    {
+      "label": "Disorders of Awareness of Vision or Visual Deficit",
+      "children": [
+        {
+          "label": "Anton syndrome",
+          "children": [
+            {
+              "label": "patient with cortical blindness denies blindness",
+              "children": [
+                {
+                  "label": "patient hallucinates and confabulates"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "bilateral occipital infarctions",
+                  "children": [
+                    {
+                      "label": "most common"
+                    }
+                  ]
+                },
+                {
+                  "label": "blindness from bilateral optic nerve lesions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Riddoch phenomenon",
+          "children": [
+            {
+              "label": "preservation of the perception of motion in a blind hemifield",
+              "children": [
+                {
+                  "label": "staticokinetic dissociation"
+                }
+              ]
+            },
+            {
+              "label": "when present in an otherwise complete homonymous hemianopia, it is thought to portend a better visual prognosis"
+            }
+          ]
+        },
+        {
+          "label": "Blindsight",
+          "children": [
+            {
+              "label": "an unconscious rudimentary visual perception in cortically blind patients"
+            },
+            {
+              "label": "damage to",
+              "children": [
+                {
+                  "label": "visual pathways through the superior colliculus"
+                },
+                {
+                  "label": "connections between the lateral geniculate body and the extrastriate visual cortex"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Hemispatial neglect",
+          "children": [
+            {
+              "label": "patient will not acknowledge seeing objects in an area of vision known to be intact"
+            },
+            {
+              "label": "confrontation testing using double simultaneous stimulation"
+            },
+            {
+              "label": "damage in the right hemisphere",
+              "children": [
+                {
+                  "label": "posterior parietal cortex"
+                },
+                {
+                  "label": "frontal eye field"
+                },
+                {
+                  "label": "cingulate gyrus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Disorders of Recognition",
+      "children": [
+        {
+          "label": "Object agnosia",
+          "children": [
+            {
+              "label": "inability to recognize objects by sight",
+              "children": [
+                {
+                  "label": "can identify objects by touch or by description but not by sight!"
+                }
+              ]
+            },
+            {
+              "label": "bilateral occipitotemporal (ventral) pathway dysfunction",
+              "children": [
+                {
+                  "label": "affecting the inferior longitudinal fasciculi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Prosopagnosia",
+          "children": [
+            {
+              "label": "inability to recognize familiar faces",
+              "children": [
+                {
+                  "label": "patients with advanced Alzheimer disease do not recognize their relatives",
+                  "children": [
+                    {
+                      "label": "connect occipital lobe to temporal lobe on each side"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "have difficulty with other visual memory tasks"
+            },
+            {
+              "label": "bilateral occipital lobe damage"
+            },
+            {
+              "label": "right inferior occipital lobe damage",
+              "children": [
+                {
+                  "label": "accompanying superior homonymous visual field defect"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Akinetopsia",
+          "children": [
+            {
+              "label": "loss of the perception of visual motion",
+              "children": [
+                {
+                  "label": "can perceive form, texture, and color"
+                }
+              ]
+            },
+            {
+              "label": "dorsal pathway damage"
+            }
+          ]
+        },
+        {
+          "label": "Alexia without agraphia",
+          "children": [
+            {
+              "label": "patient cannot read but can write",
+              "children": [
+                {
+                  "label": "cannot read what he/she has just written!"
+                }
+              ]
+            },
+            {
+              "label": "during the act of reading visual information is relayed anteriorly through the corpus callosum to the dominant angular gyrus of the parietal lobe for comprehension"
+            },
+            {
+              "label": "infarction of the left occipital lobe & fibers crossing in the splenium of the corpus callosum"
+            },
+            {
+              "label": "damage to left angular gyrus",
+              "children": [
+                {
+                  "label": "both reading and writing will be affected",
+                  "children": [
+                    {
+                      "label": "alexia with agraphia"
+                    }
+                  ]
+                },
+                {
+                  "label": "also often have",
+                  "children": [
+                    {
+                      "label": "acalculia"
+                    },
+                    {
+                      "label": "right–left confusion"
+                    },
+                    {
+                      "label": "finger agnosia",
+                      "children": [
+                        {
+                          "label": "Gerstmann syndrome"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Disorders of Visual–Spatial Relationships",
+      "children": [
+        {
+          "label": "Simultanagnosia",
+          "children": [
+            {
+              "label": "failure to integrate multiple elements of a scene to form the total picture"
+            },
+            {
+              "label": "patient is asked to describe a picture scene",
+              "children": [
+                {
+                  "label": "Figure 6-2"
+                },
+                {
+                  "label": "patient will describe only part of the picture"
+                }
+              ]
+            },
+            {
+              "label": "Ishihara pseudoisochromatic color plates",
+              "children": [
+                {
+                  "label": "patient can identify colors but not the shapes of numbers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Balint syndrome",
+          "children": [
+            {
+              "label": "rare",
+              "children": [
+                {
+                  "label": "bilateral occipitoparietal lesions"
+                }
+              ]
+            },
+            {
+              "label": "triad of",
+              "children": [
+                {
+                  "label": "simultanagnosia"
+                },
+                {
+                  "label": "optic ataxia",
+                  "children": [
+                    {
+                      "label": "disconnection between visual input and the motor system"
+                    }
+                  ]
+                },
+                {
+                  "label": "acquired ocular motor apraxia",
+                  "children": [
+                    {
+                      "label": "loss of voluntary movement of the eyes while fixating on a target"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Visual allesthesia",
+          "children": [
+            {
+              "label": "see their environment rotated, flipped, or inverted"
+            },
+            {
+              "label": "damage to",
+              "children": [
+                {
+                  "label": "occipitoparietal area",
+                  "children": [
+                    {
+                      "label": "lateral medullary region (Wallenberg syndrome)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.6.3. Disorders of Higher Cortical Function.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 174,
+      "connector_rejected": 2,
+      "connector_edges": 108,
+      "connector_width": 1.019,
+      "text_labels": 97,
+      "tree_nodes": 97,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6207,
+      "root_font_size": 3.565,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,169 @@
+---
+title: "6.4.1. Amblyopia (I)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.4.1. Amblyopia (I).pdf"
+---
+
+# 6.4.1. Amblyopia (I)
+
+## Hierarchy
+
+- Introduction
+  - unilateral or, less commonly, bilateral reduction of best-corrected visual acuity that cannot be attributed directly to the effect of any structural abnormality of the eye or visual pathways
+  - pathogenesis
+    - abnormal visual experience early in life
+      - failure of normal neural development in the immature visual system
+  - etiology
+    - strabismus
+    - refractive error: anisometropia or high bilateral refractive errors (isoametropia)
+    - visual deprivation
+- Epidemiology
+  - prevalence
+    - 2%–4% in North America
+    - prevalence is increased in children with
+      - family history of amblyopia
+      - premature birth
+      - developmental delay
+  - responsible for more cases of childhood-onset unilateral decreased vision than all other causes combined
+  - most common cause of unilateral visual impairment in adults <60 years
+- Detection and Screening
+  - risk factors for amblyopia
+    - strabismus
+    - ocular media opacities
+    - anisometropia
+    - isoametropia
+  - regular screening throughout childhood
+    - in primary care offices
+    - as part of community-based programs
+    - screening techniques vary based on age of the child
+      - direct measurement of visual acuity
+      - testing for risk factors
+        - corneal light reflex tests
+        - cover testing for detection of strabismus
+        - Brückner test
+          - for detection of ocular media opacities, strabismus, anisometropia, and isoametropia
+        - instrument-based pediatric vision screening
+          - portable autorefraction devices
+          - photoscreening devices
+            - use optical images of eye to detect strabismus, refractive errors, and abnormalities of red reflex
+          - effective in preschool-aged and younger children
+    - allows for timely detection of vision problems
+  - references
+- Classification
+  - Strabismic Amblyopia
+    - develops in the deviating eye of a child with strabismus
+      - constant, nonalternating heterotropias
+        - most likely to cause significant amblyopia
+    - pathogenesis
+      - competitive or inhibitory interaction between neurons carrying nonfusible input from the 2 eyes
+        - domination of cortical vision centers by input from the fixating eye
+        - reduced responsiveness to input from the nonfixating eye
+          - to avoid diplopia and visual confusion
+          - amblyopia does not always prevent diplopia
+            - older patients with long-standing strabismus have a small risk of developing diplopia after strabismus surgery, despite the presence of significant amblyopia
+    - features typical of strabismic amblyopia
+      - grating acuity is reduced considerably less than recognition acuity
+        - recognition acuity: measured with optotype charts
+        - grating acuity: ability to detect patterns composed of uniformly spaced stripes
+          - Teller Acuity Cards II
+          - LEA Grating Acuity Test
+      - neutral density filter effect
+        - visual acuity measured through a neutral density filter tends to decline less sharply than that of an eye with organic disease
+      - eccentric fixation
+        - consistent use of a nonfoveal region for monocular viewing
+        - minor degrees of eccentric fixation, are present in many patients with strabismic amblyopia and relatively mild vision loss
+        - clinically evident eccentric fixation
+          - implies visual acuity of ≤20/200
+          - poorer prognosis for visual recovery
+  - Refractive Amblyopia
+    - anisometropic amblyopia
+      - dissimilar refractive errors in the 2 eyes cause the image on 1 retina to be chronically defocused
+        - direct effect of image blur
+          - amblyopia
+        - interocular competition or inhibition
+      - more prevalent than strabismic amblyopia
+      - eyes of a child with anisometropic amblyopia usually appear normal
+      - levels of anisometropia leading to amblyopia
+        - anisohyperopia
+          - .>1.50 D
+        - anisoastigmatism
+          - .>2.00 D
+        - anisomyopia
+          - .>3.00 D
+        - higher levels are associated with greater risk
+    - Isoametropic amblyopia
+      - large, approximately equal, uncorrected refractive errors in the 2 eyes
+        - blurred retinal images
+          - amblyopia
+      - levels of isoametropia leading to amblyopia
+        - astigmatism
+          - most ophthalmologists recommend correction when there is >2.00–3.00 D of cylinder
+          - meridional amblyopia
+        - hyperopia
+          - .>4.00–5.00 D
+        - myopia
+          - .>5.00–6.00 D
+  - Visual Deprivation Amblyopia
+    - least common form of amblyopia
+    - most severe and difficult to treat form of amblyopia
+    - pathogenesis
+      - eye abnormality that obstructs the visual axis or otherwise interferes with central vision
+    - etiology
+      - congenital or early-acquired cataract
+        - most common cause
+        - dense cataracts occupying the central 3 mm or more of lens
+          - are capable of causing severe visual deprivation amblyopia in children <6 years
+          - similar lens opacities >6 years are generally less harmful
+        - small anterior polar cataracts
+          - around which retinoscopy can be readily performed
+        - lamellar cataracts
+          - through which a reasonably good view of fundus can be obtained
+        - unilateral anterior polar cataracts
+          - are associated with anisometropia and subtle optical distortion of surrounding clear portion of lens
+            - anisometropic and/or mild visual deprivation amblyopia
+      - blepharoptosis
+      - periocular lesions that obstruct the visual axis
+      - corneal opacities
+      - vitreous hemorrhage
+    - unilateral visual deprivation amblyopia tends to be worse than amblyopia produced by bilateral deprivation of similar degree
+      - interocular competition adds to the direct developmental impact
+      - even in bilateral cases visual acuity can be ≤20/200
+    - reverse amblyopia
+      - occlusion amblyopia
+      - develops in the fellow eye as a result of patching or penalization
+- Pathophysiology
+  - primarily a defect of central vision
+    - peripheral visual field is usually normal
+  - critical periods of cortical development
+    - early postnatal development
+    - neural circuits display a heightened sensitivity to environmental stimuli
+    - critical period for development of visual deprivation amblyopia is earlier than that of strabismic or anisometropic amblyopia
+      - amblyopia due to visual deprivation develops more rapidly and is deeper than that due to strabismus or anisometropia
+  - abnormal early visual experience can result in profound disturbances of neuron function
+    - cells of primary visual cortex lose their innate ability to respond to stimulation of 1 or both eyes
+      - cells that remain responsive can show significant functional deficiencies
+    - abnormalities also occur in neurons within the lateral geniculate body
+    - very little change has been found in the retinas of subjects with amblyopia
+    - receptive fields of neurons in the amblyopic visual system are abnormally large
+      - crowding phenomenon
+        - optotypes of a given size are easier to recognize when presented singly than when closely surrounded by similar forms
+- Evaluation
+  - characteristics of vision alone cannot reliably differentiate amblyopia from other forms of vision loss
+  - crowding phenomenon
+    - not pathognomonic or uniformly demonstrable
+  - subtle afferent pupillary defects
+    - in severe cases of amblyopia
+    - rare
+  - amblyopia sometimes coexists with vision loss directly caused by an uncorrectable structural abnormality
+    - trial of amblyopia treatment
+  - multiple assessments of visual acuity are sometimes required to determine presence/ severity of amblyopia
+    - in some circumstances, assume that amblyopia is present and begin treatment even before decreased vision has been conclusively determined
+      - high degree of anisometropia
+      - shortly after surgery for a unilateral cataract
+  - assessment of fixation preference is sensitive for detecting amblyopia
+    - false-positive results can occur!
+      - child with small-angle strabismus may show strong fixation preference despite equal visual acuity in the 2 eyes
+  - young child’s brief attention span frequently results in measurements that fall short of the true limits of acuity
+    - ± mimic those of bilateral amblyopia
+    - ± obscure or falsely suggest a significant interocular difference

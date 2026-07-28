@@ -1,0 +1,329 @@
+{
+  "label": "Systemic Drug-Induced Retinal Toxicity I: Chloroquine derivatives",
+  "root": true,
+  "children": [
+    {
+      "label": "drugs",
+      "children": [
+        {
+          "label": "chloroquine"
+        },
+        {
+          "label": "hydroxychloroquine",
+          "children": [
+            {
+              "label": "much safer"
+            }
+          ]
+        },
+        {
+          "label": "for treatment of malaria and rheumatologic and dermatologic disorders"
+        },
+        {
+          "label": "bind to melanin in RPE"
+        }
+      ]
+    },
+    {
+      "label": "symptoms",
+      "children": [
+        {
+          "label": "reading difficulty"
+        },
+        {
+          "label": "central visual decline"
+        },
+        {
+          "label": "paracentral scotomas"
+        }
+      ]
+    },
+    {
+      "label": "Risk factors",
+      "children": [
+        {
+          "label": "daily dose",
+          "children": [
+            {
+              "label": "low-risk",
+              "children": [
+                {
+                  "label": "hydroxychloroquine",
+                  "children": [
+                    {
+                      "label": "daily dose <6.5 mg/kg ideal body weight",
+                      "children": [
+                        {
+                          "label": "daily dose of ≤5.0 mg/kg based on the patient’s real body weight may be safer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "chloroquine",
+                  "children": [
+                    {
+                      "label": "daily dose <3 mg/kg ideal body weight",
+                      "children": [
+                        {
+                          "label": "daily dose of ≤2.3 mg/kg based on the patient’s real body weight may be safer"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "<460 g cumulative dose"
+                    }
+                  ]
+                },
+                {
+                  "label": "Cumulative total doses greater than 1000 g of hydroxychloroquine and 460 g of chloroquine place patients at high risk of toxicity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "duration of use",
+          "children": [
+            {
+              "label": "incidence of toxicity",
+              "children": [
+                {
+                  "label": ".< 5 years",
+                  "children": [
+                    {
+                      "label": ".<1%",
+                      "children": [
+                        {
+                          "label": "rare cases of toxicity have occurred with “safe” daily doses & in the absence of other risk factors"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": ".<10 years",
+                  "children": [
+                    {
+                      "label": ".<2%"
+                    }
+                  ]
+                },
+                {
+                  "label": ".>20 years",
+                  "children": [
+                    {
+                      "label": "20%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "high-risk cumulative total doses",
+              "children": [
+                {
+                  "label": ".> 460 g chloroquine"
+                },
+                {
+                  "label": ".> 1000 g hydroxychloroquine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "additional risk factors",
+          "children": [
+            {
+              "label": "obesity",
+              "children": [
+                {
+                  "label": "safe daily doses are based on lean body weight"
+                }
+              ]
+            },
+            {
+              "label": "kidney disease"
+            },
+            {
+              "label": "concomitant use of tamoxifen (5-fold increase)"
+            },
+            {
+              "label": "liver disease"
+            },
+            {
+              "label": "older age (>60 years)"
+            },
+            {
+              "label": "concomitant retinal disease",
+              "children": [
+                {
+                  "label": "AMD"
+                }
+              ]
+            },
+            {
+              "label": "start annual examinations with initiation of drug use"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical signs",
+      "children": [
+        {
+          "label": "earliest signs of toxicity",
+          "children": [
+            {
+              "label": "bilateral paracentral scotoma",
+              "children": [
+                {
+                  "label": "most patients of Asian descent show initial damage in a more peripheral extramacular distribution"
+                }
+              ]
+            },
+            {
+              "label": "paracentral inner segment ellipsoid loss",
+              "children": [
+                {
+                  "label": "“flying saucer” sign on SD-OCT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "progressive pigmentary changes",
+          "children": [
+            {
+              "label": "subtle granular depigmentation of paracentral RPE"
+            },
+            {
+              "label": "atrophic bull's-eye maculopathy"
+            },
+            {
+              "label": "end-stage cases simulate retinitis pigmentosa"
+            }
+          ]
+        },
+        {
+          "label": "corneal verticillata"
+        }
+      ]
+    },
+    {
+      "label": "screening",
+      "children": [
+        {
+          "label": "baseline examination",
+          "children": [
+            {
+              "label": "complete eye exam"
+            },
+            {
+              "label": "within the first year of use"
+            }
+          ]
+        },
+        {
+          "label": "follow-up examination",
+          "children": [
+            {
+              "label": "annual screening after 5 years of use in patients at low risk for toxicity",
+              "children": [
+                {
+                  "label": "many practitioners screen patients every 6-12 months for the first 5 years and then every 6 months"
+                }
+              ]
+            },
+            {
+              "label": "SD-OCT"
+            },
+            {
+              "label": "automated threshold field testing",
+              "children": [
+                {
+                  "label": "central 10o with white test target"
+                },
+                {
+                  "label": "scotomata",
+                  "children": [
+                    {
+                      "label": "precede symptomatic visual loss",
+                      "children": [
+                        {
+                          "label": "Humphrey 10-2 program"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "precede fundus changes"
+                    },
+                    {
+                      "label": "reversible"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "patients at risk or with unclear symptomatology",
+          "children": [
+            {
+              "label": "fundus autofluorescence",
+              "children": [
+                {
+                  "label": "paracentral ring of hyperautofluorescence or hypoautofluorescence"
+                }
+              ]
+            },
+            {
+              "label": "multifocal ERG",
+              "children": [
+                {
+                  "label": "paracentral mfERG depressions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "cessation of drug at first sign of toxicity",
+          "children": [
+            {
+              "label": "visual loss rarely recovers and may even progress"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Systemic Drug-Induced Retinal Toxicity I - Chloroquine derivatives.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 116,
+      "connector_rejected": 5,
+      "connector_edges": 82,
+      "connector_width": 0.641,
+      "text_labels": 78,
+      "tree_nodes": 78,
+      "component_roots": 6,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.7069,
+      "root_font_size": 4.485,
+      "warnings": []
+    }
+  }
+}

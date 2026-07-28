@@ -1,0 +1,582 @@
+{
+  "label": "Lens Subluxation",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "young child with tall stature and long fingers complains of decreased vision of his right eye",
+          "children": [
+            {
+              "label": "slit lamp photograph shows upward subluxation of the lens"
+            }
+          ]
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course of visual symptoms",
+              "children": [
+                {
+                  "label": "decreased vision"
+                },
+                {
+                  "label": "monocular diplopia"
+                }
+              ]
+            },
+            {
+              "label": "eye trauma"
+            },
+            {
+              "label": "child abuse"
+            },
+            {
+              "label": "family history"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "signs of child abuse"
+            },
+            {
+              "label": "uni- or bilateral"
+            },
+            {
+              "label": "systemic findings",
+              "children": [
+                {
+                  "label": "tall slender body, arachnodactyly",
+                  "children": [
+                    {
+                      "label": "Marfan syndrome"
+                    }
+                  ]
+                },
+                {
+                  "label": "tall, mental retardation, seizure, light colored hair",
+                  "children": [
+                    {
+                      "label": "homocystinuria"
+                    }
+                  ]
+                },
+                {
+                  "label": "elastic skin",
+                  "children": [
+                    {
+                      "label": "Ehlers-Danlos syndrome"
+                    }
+                  ]
+                },
+                {
+                  "label": "short stature, stubby fingers",
+                  "children": [
+                    {
+                      "label": "Weill-Marchesani syndrome"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "slit lamp exam",
+              "children": [
+                {
+                  "label": "blue sclera",
+                  "children": [
+                    {
+                      "label": "Ehlers-Danlos syndrome"
+                    }
+                  ]
+                },
+                {
+                  "label": "direction of subluxation",
+                  "children": [
+                    {
+                      "label": "up & out",
+                      "children": [
+                        {
+                          "label": "Marfan syndrome"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "down & in",
+                      "children": [
+                        {
+                          "label": "homocystinuria"
+                        },
+                        {
+                          "label": "Ehlers-Danlos syndrome"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "microspherophakia",
+                  "children": [
+                    {
+                      "label": "Weill-Marchesani syndrome"
+                    }
+                  ]
+                },
+                {
+                  "label": "pseudoexfoliation"
+                },
+                {
+                  "label": "lens capsule violation"
+                }
+              ]
+            },
+            {
+              "label": "dilated funduscopy",
+              "children": [
+                {
+                  "label": "signs of trauma",
+                  "children": [
+                    {
+                      "label": "vitreous/retinal hemorrhage"
+                    },
+                    {
+                      "label": "retinal tear/RD/vitreous base avulsion"
+                    },
+                    {
+                      "label": "commotio retina"
+                    }
+                  ]
+                },
+                {
+                  "label": "myopic retinopathy"
+                },
+                {
+                  "label": "RD"
+                }
+              ]
+            },
+            {
+              "label": "refraction",
+              "children": [
+                {
+                  "label": "before dilation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "sodium nitroprusside test",
+          "children": [
+            {
+              "label": "homocystinuria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "Marfan syndrome"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "Marfan syndrome",
+          "children": [
+            {
+              "label": "AD"
+            },
+            {
+              "label": "lens subluxated superiorly and temporally",
+              "children": [
+                {
+                  "label": "bilateral",
+                  "children": [
+                    {
+                      "label": "examination shows long and slender fingers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "tall stature"
+            },
+            {
+              "label": "long fingers"
+            },
+            {
+              "label": "kyphoscoliosis"
+            },
+            {
+              "label": "increased risk of RD"
+            }
+          ]
+        },
+        {
+          "label": "homocystinuria",
+          "children": [
+            {
+              "label": "AR"
+            },
+            {
+              "label": "inferonasal lens subluxation",
+              "children": [
+                {
+                  "label": "bilateral"
+                }
+              ]
+            },
+            {
+              "label": "increased risk of RD"
+            },
+            {
+              "label": "tall"
+            },
+            {
+              "label": "light-colored hair"
+            },
+            {
+              "label": "seizures"
+            },
+            {
+              "label": "mental retardation",
+              "children": [
+                {
+                  "label": "can be excluded in absence of mental retardation"
+                }
+              ]
+            },
+            {
+              "label": "thromboembolic episodes",
+              "children": [
+                {
+                  "label": "surgery and general anesthesia increase the risk of thromboembolism"
+                },
+                {
+                  "label": "anticoagulant prophylaxis"
+                }
+              ]
+            },
+            {
+              "label": "diet",
+              "children": [
+                {
+                  "label": "methionine restriction"
+                },
+                {
+                  "label": "vitamin B6 & cysteine supplementation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Weill-Marchesani syndrome",
+          "children": [
+            {
+              "label": "AR"
+            },
+            {
+              "label": "small lens",
+              "children": [
+                {
+                  "label": "microspherophakia",
+                  "children": [
+                    {
+                      "label": "PALMaR (Peters, Alport, Lowe, Marfan, Rubella) + Weill-Marchesani"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "short stature/fingers"
+            },
+            {
+              "label": "lenticular myopia"
+            },
+            {
+              "label": "no mental retardation"
+            },
+            {
+              "label": "prophylactic peripheral iridotomy"
+            }
+          ]
+        },
+        {
+          "label": "Ehlers-Danlos syndrome",
+          "children": [
+            {
+              "label": "AD>AR"
+            }
+          ]
+        },
+        {
+          "label": "congenital syphilis"
+        },
+        {
+          "label": "ocular diseases",
+          "children": [
+            {
+              "label": "trauma",
+              "children": [
+                {
+                  "label": "child abuse"
+                }
+              ]
+            },
+            {
+              "label": "PXF"
+            },
+            {
+              "label": "aniridia"
+            },
+            {
+              "label": "hereditary ectopia lentis"
+            },
+            {
+              "label": "ectopia lentis et pupillae"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "observation",
+          "children": [
+            {
+              "label": "if asymptomatic",
+              "children": [
+                {
+                  "label": "good vision"
+                },
+                {
+                  "label": "no diplopia"
+                },
+                {
+                  "label": "no capsular violation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "non-surgical",
+          "children": [
+            {
+              "label": "monocular diplopia",
+              "children": [
+                {
+                  "label": "miosis + phakic correction"
+                }
+              ]
+            },
+            {
+              "label": "cataract",
+              "children": [
+                {
+                  "label": "mydriasis + aphakic correction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "surgical",
+          "children": [
+            {
+              "label": "lens extraction + intraocular lens + anterior vitrectomy",
+              "children": [
+                {
+                  "label": "indications",
+                  "children": [
+                    {
+                      "label": "uncorrectable astigmatism"
+                    },
+                    {
+                      "label": "unstable refraction"
+                    },
+                    {
+                      "label": "monocular diplopia"
+                    },
+                    {
+                      "label": "capsular violation"
+                    },
+                    {
+                      "label": "cataract"
+                    }
+                  ]
+                },
+                {
+                  "label": "IOL location",
+                  "children": [
+                    {
+                      "label": "in-the-bag",
+                      "children": [
+                        {
+                          "label": "capsular support system"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "sulcus",
+                      "children": [
+                        {
+                          "label": "scleral fixation"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "anterior chamber"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cataract",
+              "children": [
+                {
+                  "label": "large optical iridectomy+ aphakic correction"
+                },
+                {
+                  "label": "surgical removal of lens"
+                }
+              ]
+            },
+            {
+              "label": "pupillary block",
+              "children": [
+                {
+                  "label": "laser PI"
+                }
+              ]
+            },
+            {
+              "label": "anticoagulant prophylaxis for homocystinuria"
+            }
+          ]
+        },
+        {
+          "label": "Referrals",
+          "children": [
+            {
+              "label": "genetic consultation"
+            },
+            {
+              "label": "consult with internist/pediatrician for systemic evaluation"
+            },
+            {
+              "label": "refer Marfan patients to cardiologist",
+              "children": [
+                {
+                  "label": "cardiac echo for aortic valve involvement/aortic aneurysm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good prognosis with appropriate treatment"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "prophylactic systemic antibiotics before surgery"
+            },
+            {
+              "label": "retinal detachment",
+              "children": [
+                {
+                  "label": "homocystinuria",
+                  "children": [
+                    {
+                      "label": "review RD warning symptoms"
+                    }
+                  ]
+                },
+                {
+                  "label": "Marfan's"
+                },
+                {
+                  "label": "trauma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "life-long follow-up"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Lens Subluxation.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 242,
+      "connector_rejected": 8,
+      "connector_edges": 182,
+      "connector_width": 0.799,
+      "text_labels": 147,
+      "tree_nodes": 147,
+      "component_roots": 7,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.7521,
+      "root_font_size": 5.592,
+      "warnings": []
+    }
+  }
+}

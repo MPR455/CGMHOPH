@@ -1,0 +1,180 @@
+{
+  "label": "9.6.6. Intermediate Uveitis (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Multiple Sclerosis",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "20–50 year old white women"
+            },
+            {
+              "label": "uveitis is 10x more common in MS patients",
+              "children": [
+                {
+                  "label": "≤30%"
+                }
+              ]
+            },
+            {
+              "label": "onset of uveitis may precede the diagnosis of MS in 25%",
+              "children": [
+                {
+                  "label": "by 5–10 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "immunoreactivity against myelin",
+              "children": [
+                {
+                  "label": "cross-reactivity between myelin-associated glycoprotein and Müller cells"
+                }
+              ]
+            },
+            {
+              "label": "HLA-DR15",
+              "children": [
+                {
+                  "label": "associated with the combination of MS and uveitis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "intermediate uveitis is the most common manifestation of MS-associated uveitis",
+          "children": [
+            {
+              "label": "≤15% of patients with pars planitis eventually develop MS"
+            },
+            {
+              "label": "95% bilateral"
+            },
+            {
+              "label": "milder severity in MS",
+              "children": [
+                {
+                  "label": "mild vitritis"
+                },
+                {
+                  "label": "macular edema is less common"
+                }
+              ]
+            },
+            {
+              "label": "periphlebitis",
+              "children": [
+                {
+                  "label": "not related to optic neuritis, systemic exacerbations, or disease severity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "unclear whether treatment of MS with interferon has any effect on intermediate uveitis"
+        },
+        {
+          "label": "anti-TNF drugs associated with exacerbations of MS",
+          "children": [
+            {
+              "label": "infliximab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Intermediate Uveitis",
+      "children": [
+        {
+          "label": "ocular inflammation concentrated in the vitreous and the vitreous base overlying the ciliary body and peripheral retina"
+        },
+        {
+          "label": "inflammatory cells may aggregate in the vitreous",
+          "children": [
+            {
+              "label": "up to 15% of all cases of uveitis"
+            },
+            {
+              "label": "“snowballs”"
+            }
+          ]
+        },
+        {
+          "label": "inflammatory exudative accumulation on the inferior pars plana",
+          "children": [
+            {
+              "label": "“snowbanking”"
+            },
+            {
+              "label": "correlate with a more severe disease"
+            }
+          ]
+        },
+        {
+          "label": "peripheral retinal phlebitis"
+        },
+        {
+          "label": "AC reaction of varying severity"
+        },
+        {
+          "label": "associated conditions",
+          "children": [
+            {
+              "label": "sarcoidosis"
+            },
+            {
+              "label": "multiple sclerosis (MS)"
+            },
+            {
+              "label": "Lyme disease"
+            },
+            {
+              "label": "peripheral toxocariasis"
+            },
+            {
+              "label": "syphilis"
+            },
+            {
+              "label": "tuberculosis"
+            },
+            {
+              "label": "primary Sjögren syndrome"
+            },
+            {
+              "label": "infection with human T-cell lymphotropic virus type 1 (HTLV-1)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.6. Intermediate Uveitis (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 78,
+      "connector_rejected": 1,
+      "connector_edges": 53,
+      "connector_width": 1.385,
+      "text_labels": 43,
+      "tree_nodes": 43,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6795,
+      "root_font_size": 5.886,
+      "warnings": []
+    }
+  }
+}

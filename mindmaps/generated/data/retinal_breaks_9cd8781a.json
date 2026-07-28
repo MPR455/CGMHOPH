@@ -1,0 +1,327 @@
+{
+  "label": "Retinal Breaks",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "definition",
+          "children": [
+            {
+              "label": "full-thickness defect in the neurosensory retina"
+            }
+          ]
+        },
+        {
+          "label": "allows liquid from vitreous cavity to enter the potential space between sensory retina and RPE",
+          "children": [
+            {
+              "label": "rhegmatogenous retinal detachment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Traumatic Breaks",
+      "children": [
+        {
+          "label": "penetrating trauma",
+          "children": [
+            {
+              "label": "direct retinal perforation"
+            },
+            {
+              "label": "late fibrocellular proliferation",
+              "children": [
+                {
+                  "label": "tractional RD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "blunt trauma",
+          "children": [
+            {
+              "label": "Mechanism",
+              "children": [
+                {
+                  "label": "coup",
+                  "children": [
+                    {
+                      "label": "adjacent to the point of trauma"
+                    }
+                  ]
+                },
+                {
+                  "label": "contrecoup",
+                  "children": [
+                    {
+                      "label": "opposite the point of trauma"
+                    },
+                    {
+                      "label": "rapid compression of eye along its anteroposterior axis",
+                      "children": [
+                        {
+                          "label": "rapid expansion in the equatorial plane",
+                          "children": [
+                            {
+                              "label": "severe traction on the vitreous base"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Clinical Features",
+              "children": [
+                {
+                  "label": "types of break",
+                  "children": [
+                    {
+                      "label": "large, ragged equatorial breaks"
+                    },
+                    {
+                      "label": "dialysis",
+                      "children": [
+                        {
+                          "label": "most common"
+                        },
+                        {
+                          "label": "usually at posterior border of vitreous base but can also occur at anterior border"
+                        },
+                        {
+                          "label": "± avulsion of the vitreous base",
+                          "children": [
+                            {
+                              "label": "can be avulsed from underlying retina and nonpigmented epithelium of pars plana without tearing either one"
+                            },
+                            {
+                              "label": "generally one or both are also torn in the process"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "macular hole",
+                      "children": [
+                        {
+                          "label": "pathognomonic of ocular contusion"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "horseshoe-shaped tears",
+                      "children": [
+                        {
+                          "label": "at posterior margin of the vitreous base"
+                        },
+                        {
+                          "label": "at posterior end of a meridional fold"
+                        },
+                        {
+                          "label": "at equator"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "operculated holes"
+                    }
+                  ]
+                },
+                {
+                  "label": "often multiple"
+                },
+                {
+                  "label": "commonly in inferotemporal and superonasal quadrants"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Types",
+      "children": [
+        {
+          "label": "flap/horseshoe tears",
+          "children": [
+            {
+              "label": "strip of retina is pulled anteriorly by vitreoretinal traction"
+            },
+            {
+              "label": "a result of posterior vitreous detachment or trauma"
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "floaters"
+                },
+                {
+                  "label": "photopsias"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "giant retinal tears",
+          "children": [
+            {
+              "label": "extends ≥90° (3 clock-hours) circumferentially"
+            },
+            {
+              "label": "along the posterior edge of the vitreous base"
+            }
+          ]
+        },
+        {
+          "label": "operculated holes",
+          "children": [
+            {
+              "label": "traction tears a piece of retina completely free"
+            }
+          ]
+        },
+        {
+          "label": "retinal dialyses",
+          "children": [
+            {
+              "label": "after blunt trauma",
+              "children": [
+                {
+                  "label": "circumferential, linear break at ora serrata, with vitreous base attached to retina posterior to tear’s edge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "atrophic retinal holes",
+          "children": [
+            {
+              "label": "atrophy of inner retinal layers"
+            },
+            {
+              "label": "not associated with vitreoretinal traction"
+            },
+            {
+              "label": "not linked to increased risk of retinal detachment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trauma in Young Eyes",
+      "children": [
+        {
+          "label": "vitreous has not yet undergone syneresis/liquefaction",
+          "children": [
+            {
+              "label": "does not allow fluid movement through retinal tears or dialyses"
+            }
+          ]
+        },
+        {
+          "label": "retinal detachment is usually delayed",
+          "children": [
+            {
+              "label": "immediate",
+              "children": [
+                {
+                  "label": "12%"
+                }
+              ]
+            },
+            {
+              "label": "< 1month",
+              "children": [
+                {
+                  "label": "30%"
+                }
+              ]
+            },
+            {
+              "label": "< 8 months",
+              "children": [
+                {
+                  "label": "50%"
+                }
+              ]
+            },
+            {
+              "label": "< 24 months",
+              "children": [
+                {
+                  "label": "80%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Clinical Features",
+          "children": [
+            {
+              "label": "shallow RD"
+            },
+            {
+              "label": "signs of chronicity",
+              "children": [
+                {
+                  "label": "multiple demarcation lines"
+                },
+                {
+                  "label": "subretinal deposits"
+                },
+                {
+                  "label": "intraretinal schisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "if PVD present or develops later after trauma",
+          "children": [
+            {
+              "label": "retinal breaks resemble nontraumatic breaks"
+            },
+            {
+              "label": "RD may be acute"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Retinal Breaks.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 124,
+      "connector_rejected": 1,
+      "connector_edges": 86,
+      "connector_width": 0.939,
+      "text_labels": 78,
+      "tree_nodes": 78,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6935,
+      "root_font_size": 6.57,
+      "warnings": []
+    }
+  }
+}

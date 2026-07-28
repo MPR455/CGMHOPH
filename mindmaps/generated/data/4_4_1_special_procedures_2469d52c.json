@@ -1,0 +1,503 @@
+{
+  "label": "4.4.1. Special Procedures",
+  "root": true,
+  "children": [
+    {
+      "label": "Immunohistochemistry",
+      "children": [
+        {
+          "label": "Components",
+          "children": [
+            {
+              "label": "Cell antigen",
+              "children": [
+                {
+                  "label": "Cytokeratin",
+                  "children": [
+                    {
+                      "label": "Epithelial cells",
+                      "children": [
+                        {
+                          "label": "Adenoma"
+                        },
+                        {
+                          "label": "Carcinoma"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Desmin, Myoglobin, Actin",
+                  "children": [
+                    {
+                      "label": "Smooth/Skeletal muscle",
+                      "children": [
+                        {
+                          "label": "Leiomyoma"
+                        },
+                        {
+                          "label": "Rhabdomyosarcoma"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "S-100 protein",
+                  "children": [
+                    {
+                      "label": "Neuroectodermal origin",
+                      "children": [
+                        {
+                          "label": "Schwannoma"
+                        },
+                        {
+                          "label": "Neurofibroma"
+                        },
+                        {
+                          "label": "Melanoma"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "HMB-45, Melan-A",
+                  "children": [
+                    {
+                      "label": "Melanocytic lesions",
+                      "children": [
+                        {
+                          "label": "Nevus"
+                        },
+                        {
+                          "label": "Melanoma"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chromogranin, Synaptophysin",
+                  "children": [
+                    {
+                      "label": "Neuroendocrine",
+                      "children": [
+                        {
+                          "label": "Carcinoid"
+                        },
+                        {
+                          "label": "Small cell carcinoma"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Leukocyte common antigen",
+                  "children": [
+                    {
+                      "label": "Hematopoietic cells",
+                      "children": [
+                        {
+                          "label": "Leukemia"
+                        },
+                        {
+                          "label": "Lymphoma"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "CD antigens",
+                  "children": [
+                    {
+                      "label": "White blood cells"
+                    }
+                  ]
+                },
+                {
+                  "label": "Her2Neu, c-Kit",
+                  "children": [
+                    {
+                      "label": "Prognosis & treatment",
+                      "children": [
+                        {
+                          "label": "Breast carcinoma"
+                        },
+                        {
+                          "label": "Mastocytosis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Primary antibody"
+            },
+            {
+              "label": "Secondary antibody"
+            },
+            {
+              "label": "Chromogen/Enzyme",
+              "children": [
+                {
+                  "label": "Brown"
+                },
+                {
+                  "label": "Red",
+                  "children": [
+                    {
+                      "label": "Especially helpful in working with ocular pigmented tissues and melanomas"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Types",
+          "children": [
+            {
+              "label": "Direct"
+            },
+            {
+              "label": "Indirect",
+              "children": [
+                {
+                  "label": "More sensitive than direct method"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Molecular Pathology",
+      "children": [
+        {
+          "label": "To detect",
+          "children": [
+            {
+              "label": "Tumor-promoting genes"
+            },
+            {
+              "label": "Tumor-inhibitor genes"
+            },
+            {
+              "label": "Viral DNA"
+            },
+            {
+              "label": "Viral RNA"
+            }
+          ]
+        },
+        {
+          "label": "Clinical uses",
+          "children": [
+            {
+              "label": "Leukemias"
+            },
+            {
+              "label": "Lymphomas"
+            },
+            {
+              "label": "Soft tissue tumors",
+              "children": [
+                {
+                  "label": "Rhabdomyosarcomas"
+                },
+                {
+                  "label": "Neuroblastomas"
+                },
+                {
+                  "label": "Peripheral neuroectodermal tumors"
+                }
+              ]
+            },
+            {
+              "label": "Tumors with nondiagnostic histopathology"
+            }
+          ]
+        },
+        {
+          "label": "Polymerase Chain Reaction",
+          "children": [
+            {
+              "label": "Amplifies a single strand of nucleic acid"
+            },
+            {
+              "label": "Provides supplementary information"
+            },
+            {
+              "label": "Steps",
+              "children": [
+                {
+                  "label": "Heat sample to 95C",
+                  "children": [
+                    {
+                      "label": "DNA strands separate"
+                    }
+                  ]
+                },
+                {
+                  "label": "Cool sample to 55C",
+                  "children": [
+                    {
+                      "label": "Primers bind to template strands"
+                    }
+                  ]
+                },
+                {
+                  "label": "Heat sample to 72C",
+                  "children": [
+                    {
+                      "label": "Taq DNA polymerase synthesizes new DNA strands"
+                    }
+                  ]
+                },
+                {
+                  "label": "Cycle is repeated"
+                }
+              ]
+            },
+            {
+              "label": "Components",
+              "children": [
+                {
+                  "label": "Primers",
+                  "children": [
+                    {
+                      "label": "Short DNA fragments complimentary to the target region"
+                    }
+                  ]
+                },
+                {
+                  "label": "DNA polymerase"
+                },
+                {
+                  "label": "Nucleotides"
+                }
+              ]
+            },
+            {
+              "label": "Multiplex ligation-dependent probe amplification",
+              "children": [
+                {
+                  "label": "Multiple targets amplified simultaneously with a single primer pair"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Microarray",
+          "children": [
+            {
+              "label": "To survey the expression of thousands of genes in a single assay",
+              "children": [
+                {
+                  "label": "Gene expression profiling"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Steps & components",
+          "children": [
+            {
+              "label": "Chip",
+              "children": [
+                {
+                  "label": "Glass slide"
+                }
+              ]
+            },
+            {
+              "label": "Probes",
+              "children": [
+                {
+                  "label": "DNA fragments (Oligonucleotides)"
+                }
+              ]
+            },
+            {
+              "label": "Target",
+              "children": [
+                {
+                  "label": "Fluorescent or chemiluminescent labeled purified cDNA or cRNA",
+                  "children": [
+                    {
+                      "label": "Hybridized to the \"arrayed\" chip"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Laser scanning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Flow Cytometry",
+      "children": [
+        {
+          "label": "Immunophenotyping of hematopoietic proliferations (Lymphomas)"
+        },
+        {
+          "label": "Fresh tissue"
+        },
+        {
+          "label": "Shows percentage of specific cells (e.g. CD4+ lymphocytes)"
+        },
+        {
+          "label": "Components",
+          "children": [
+            {
+              "label": "Antigens on surface of lymphoid cells"
+            },
+            {
+              "label": "Fluorochrome-labeled specific antibodies"
+            },
+            {
+              "label": "Light source (Argon laser)"
+            },
+            {
+              "label": "Photodetector"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fine-Needle Aspiration Biopsy",
+      "children": [
+        {
+          "label": "Cytopathology",
+          "children": [
+            {
+              "label": "Uveal melanoma vs uveal metastasis"
+            },
+            {
+              "label": "Intraocular lymphoma"
+            },
+            {
+              "label": "Orbital tumors"
+            }
+          ]
+        },
+        {
+          "label": "Cytogenetics",
+          "children": [
+            {
+              "label": "Monosomy of chromosone 3 in uveal melanoma",
+              "children": [
+                {
+                  "label": "High risk of metastasis"
+                },
+                {
+                  "label": "Microsatellite assay"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "No significant risk of tumor seeding",
+          "children": [
+            {
+              "label": "Except retinoblastoma!"
+            }
+          ]
+        },
+        {
+          "label": "Techniques",
+          "children": [
+            {
+              "label": "Liquid-based preperation (Cytospin)"
+            },
+            {
+              "label": "Cell block",
+              "children": [
+                {
+                  "label": "Allows performance of special stains, etc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Frozen Section",
+      "children": [
+        {
+          "label": "Only when results affect management of patient in operating room",
+          "children": [
+            {
+              "label": "Are margins free to tumor?",
+              "children": [
+                {
+                  "label": "Lid tumors"
+                }
+              ]
+            },
+            {
+              "label": "Is sample representative?"
+            },
+            {
+              "label": "Do not proceed with surgery before receiving result of frozen section"
+            }
+          ]
+        },
+        {
+          "label": "Techniques",
+          "children": [
+            {
+              "label": "Routine frozen section"
+            },
+            {
+              "label": "Mohs micrographic surgery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Electron microscopy",
+      "children": [
+        {
+          "label": "To determine cell of origin of a tumor of questionable differentiation"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.4.1. Special procedures.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 248,
+      "connector_rejected": 11,
+      "connector_edges": 156,
+      "connector_width": 1.495,
+      "text_labels": 124,
+      "tree_nodes": 124,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.629,
+      "root_font_size": 3.488,
+      "warnings": []
+    }
+  }
+}

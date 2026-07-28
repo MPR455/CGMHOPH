@@ -1,0 +1,315 @@
+{
+  "label": "11.4.7. Pathology (VII): Lens-induced Glaucoma & Uveitis",
+  "root": true,
+  "children": [
+    {
+      "label": "Phacolytic Glaucoma",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "mature/hypermature cataract"
+            },
+            {
+              "label": "denatured, liquefied high-molecular-mass lens proteins leak through an intact but permeable lens capsule",
+              "children": [
+                {
+                  "label": "immune response is not elicited!"
+                }
+              ]
+            },
+            {
+              "label": "macrophages ingest these lens proteins"
+            },
+            {
+              "label": "trabecular meshwork becomes clogged with lens proteins and engorged macrophages"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "abrupt onset of pain and redness"
+            },
+            {
+              "label": "significant flare reaction in anterior chamber"
+            },
+            {
+              "label": "white flocculent material in",
+              "children": [
+                {
+                  "label": "anterior chamber"
+                },
+                {
+                  "label": "adherent to lens capsule"
+                },
+                {
+                  "label": "trabecular meshwork"
+                }
+              ]
+            },
+            {
+              "label": "anterior chamber angle is open"
+            },
+            {
+              "label": "+- corneal edema"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "surgical removal of the lens"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Phacoantigenic Uveitis (Phacoanaphylactic Uveitis)",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "in the normal eye, minute amounts of lens proteins leak out through the lens capsule",
+              "children": [
+                {
+                  "label": "immunologic tolerance"
+                }
+              ]
+            },
+            {
+              "label": "release of lens proteins into the anterior chamber through ruptured lens capsule",
+              "children": [
+                {
+                  "label": "trauma"
+                },
+                {
+                  "label": "following cataract surgery"
+                },
+                {
+                  "label": "days to weeks after the injury or surgery"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "pain"
+            },
+            {
+              "label": "injection"
+            },
+            {
+              "label": "chemosis"
+            },
+            {
+              "label": "anterior chamber inflammation with cells & flare"
+            },
+            {
+              "label": "keratic precipitates"
+            },
+            {
+              "label": "posterior synechiae",
+              "children": [
+                {
+                  "label": "unlike phacolytic uveitis"
+                }
+              ]
+            },
+            {
+              "label": "glaucoma",
+              "children": [
+                {
+                  "label": "blockage of the trabecular meshwork"
+                },
+                {
+                  "label": "formation of synechiae"
+                }
+              ]
+            },
+            {
+              "label": "cyclitic membrane"
+            },
+            {
+              "label": "hypotony",
+              "children": [
+                {
+                  "label": "phthisis bulbi"
+                }
+              ]
+            },
+            {
+              "label": "inflammatory reaction in the fellow eye",
+              "children": [
+                {
+                  "label": "rare"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "zonal granulomatous inflammation surrounding a breach of the lens capsule"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "lens extraction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lens Particle Glaucoma",
+      "children": [
+        {
+          "label": "penetrating lens injury/surgical trauma",
+          "children": [
+            {
+              "label": "lens cortex particles enter anterior chamber",
+              "children": [
+                {
+                  "label": "obstruct trabecular meshwork"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "glaucoma is delayed by days or weeks after the surgical event"
+            },
+            {
+              "label": "angle is open",
+              "children": [
+                {
+                  "label": "cortical material along the trabecular meshwork"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "antiglaucoma medications"
+            },
+            {
+              "label": "topical corticosteroids"
+            },
+            {
+              "label": "surgical removal of the retained lens material",
+              "children": [
+                {
+                  "label": "if IOP and inflammation do not respond quickly to medical treatment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Glaukomflecken",
+      "children": [
+        {
+          "label": "after an episode of markedly elevated IOP"
+        },
+        {
+          "label": "gray-white epithelial/anterior cortical lens opacities",
+          "children": [
+            {
+              "label": "necrotic lens epithelial cells"
+            },
+            {
+              "label": "degenerated subepithelial cortex"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Phacomorphic Glaucoma",
+      "children": [
+        {
+          "label": "intumescent cataractous lens"
+        },
+        {
+          "label": "secondary angle-closure glaucoma",
+          "children": [
+            {
+              "label": "pupillary block"
+            },
+            {
+              "label": "direct shallowing of the anterior chamber"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "red, painful eye"
+            },
+            {
+              "label": "closed anterior chamber angle"
+            },
+            {
+              "label": "+- corneal edema"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "antiglaucoma medications"
+            },
+            {
+              "label": "laser iridotomy"
+            },
+            {
+              "label": "cataract extraction"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.4.7. Pathology (VII) - Lens-induced Glaucoma & Uveitis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 72,
+      "connector_rejected": 0,
+      "connector_edges": 72,
+      "connector_width": 0.559,
+      "text_labels": 78,
+      "tree_nodes": 78,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 1.0,
+      "root_font_size": 5.589,
+      "warnings": []
+    }
+  }
+}

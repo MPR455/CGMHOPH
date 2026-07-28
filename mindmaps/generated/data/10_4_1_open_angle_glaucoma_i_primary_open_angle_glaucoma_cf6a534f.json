@@ -1,0 +1,573 @@
+{
+  "label": "10.4.1. Open Angle Glaucoma (I): Primary Open-Angle Glaucoma",
+  "root": true,
+  "children": [
+    {
+      "label": "Clinical Features",
+      "children": [
+        {
+          "label": "insidious onset"
+        },
+        {
+          "label": "slow progression"
+        },
+        {
+          "label": "painless"
+        },
+        {
+          "label": "usually bilateral",
+          "children": [
+            {
+              "label": "± asymmetric"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Gonioscopic findings",
+      "children": [
+        {
+          "label": "gonioscopy should be performed",
+          "children": [
+            {
+              "label": "in all patients evaluated for glaucoma"
+            },
+            {
+              "label": "periodically in patients with established open- angle glaucoma (OAG)"
+            },
+            {
+              "label": "when the chamber becomes shallow"
+            },
+            {
+              "label": "when strong miotics are prescribed"
+            },
+            {
+              "label": "after laser trabeculoplasty or iridotomy"
+            },
+            {
+              "label": "when IOP rises"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Prognosis",
+      "children": [
+        {
+          "label": "most patients with POAG will retain useful vision for their entire lives"
+        },
+        {
+          "label": "prevalence of bilateral blindness among persons with OAG",
+          "children": [
+            {
+              "label": "8% in black persons"
+            },
+            {
+              "label": "4% in white persons"
+            }
+          ]
+        },
+        {
+          "label": "patients at greatest risk of blindness have visual field loss at the time of diagnosis of glaucoma"
+        },
+        {
+          "label": "treatment with medication, laser surgery, or incisional surgery to lower IOP has been shown to significantly reduce the risk of progression of the disease"
+        },
+        {
+          "label": "Early Manifest Glaucoma Trial (EMGT)",
+          "children": [
+            {
+              "label": "mean IOP reduction of 25% reduced the risk of progression of OAG from 62% to 45% of patients at 6 years’ follow-up"
+            }
+          ]
+        },
+        {
+          "label": "Collaborative Initial Glaucoma Treatment Study (CIGTS)",
+          "children": [
+            {
+              "label": "medical therapy was essentially equally as effective as surgical therapy in preventing POAG progression"
+            },
+            {
+              "label": "initial medical therapy and initial surgical therapy for OAG resulted in relatively equivalent outcomes after 5 years"
+            },
+            {
+              "label": "significant visual field progression in only 10%–13%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Intraocular pressure",
+      "children": [
+        {
+          "label": "IOP distribution in the general population",
+          "children": [
+            {
+              "label": "mean IOP=15.5 mm Hg"
+            },
+            {
+              "label": "standard deviation=2.6 mm Hg"
+            },
+            {
+              "label": "mean IOP ± 2 standard deviations = 10–21 mm Hg"
+            }
+          ]
+        },
+        {
+          "label": "definition of IOP >21 mm Hg as “abnormal\" has a number of shortcomings",
+          "children": [
+            {
+              "label": "IOP in the general population is not represented by a Gaussian distribution but is skewed toward higher pressures"
+            },
+            {
+              "label": "IOP distribution curves in glaucomatous and nonglaucomatous eyes show a great deal of overlap"
+            },
+            {
+              "label": "30%–50% of individuals with glaucomatous optic neuropathy and/or visual field loss have initial screening IOPs below 22 mm Hg"
+            }
+          ]
+        },
+        {
+          "label": "diurnal fluctuation of IOP",
+          "children": [
+            {
+              "label": "patients with glaucoma"
+            },
+            {
+              "label": "patients without glaucoma",
+              "children": [
+                {
+                  "label": "2–6 mm Hg"
+                }
+              ]
+            },
+            {
+              "label": "most individuals demonstrate similar fluctuation patterns from day to day",
+              "children": [
+                {
+                  "label": "10%–20% of patients are “erratic”"
+                }
+              ]
+            },
+            {
+              "label": "single measurements of IOP during office hours do not adequately depict the degree of fluctuation of IOP"
+            },
+            {
+              "label": "spontaneous asymmetric fluctuations of IOP between fellow eyes occur commonly in individuals without glaucoma and in glaucoma patients"
+            },
+            {
+              "label": "large diurnal IOP fluctuation has been identified as an independent risk factor for progression of glaucoma"
+            },
+            {
+              "label": "shift from upright posture during the day to supine posture at night may be associated with increased nocturnal IOP measurements",
+              "children": [
+                {
+                  "label": "peak IOP in early morning hours while still in bed"
+                }
+              ]
+            },
+            {
+              "label": "because of diurnal fluctuation, elevations of IOP may occur only intermittently in some glaucomatous eyes",
+              "children": [
+                {
+                  "label": "≤1/3 of the measurements are normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "alcohol decreases IOP"
+        },
+        {
+          "label": "corneal thickness",
+          "children": [
+            {
+              "label": "average corneal thickness in adults",
+              "children": [
+                {
+                  "label": "530–545 μm"
+                }
+              ]
+            },
+            {
+              "label": "persons of African ancestry have lower mean CCT"
+            },
+            {
+              "label": "thicker corneas resist the indentation, resulting in artificially high measurements"
+            },
+            {
+              "label": "true IOP in eyes with lower CCT is higher than that measured by Goldmann tonometry"
+            },
+            {
+              "label": "lower CCT has been found to be an important risk factor for progression of ocular hypertension to glaucoma"
+            },
+            {
+              "label": "among patients with OAG, lower CCT is a risk factor for disease progression"
+            }
+          ]
+        },
+        {
+          "label": "elevation of IOP is a strong risk factor for glaucoma progression"
+        },
+        {
+          "label": "agents increasing IOP",
+          "children": [
+            {
+              "label": "LSD"
+            },
+            {
+              "label": "ketamine"
+            }
+          ]
+        },
+        {
+          "label": "agents decreasing IOP",
+          "children": [
+            {
+              "label": "heroin",
+              "children": [
+                {
+                  "label": "HAC"
+                }
+              ]
+            },
+            {
+              "label": "alcohol"
+            },
+            {
+              "label": "cannabis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Associated Disorders",
+      "children": [
+        {
+          "label": "myopia",
+          "children": [
+            {
+              "label": "association between POAG and myopia"
+            },
+            {
+              "label": "Beaver Dam Eye Study",
+              "children": [
+                {
+                  "label": "myopia (≤–1 D spherical equivalent) was a significant risk factor for glaucoma prevalence"
+                }
+              ]
+            },
+            {
+              "label": "Rotterdam follow-up study",
+              "children": [
+                {
+                  "label": "high myopia (≤–4 D spherical equivalent) was associated with a hazard ratio of 2.31 for the development of incident glaucoma"
+                }
+              ]
+            },
+            {
+              "label": "concurrence of POAG and myopia may complicate diagnosis",
+              "children": [
+                {
+                  "label": "evaluation of the optic disc is complicated in highly myopic eyes that have tilted discs or posterior staphylomas"
+                },
+                {
+                  "label": "magnification of the disc associated with the myopic refractive error interferes with optic disc evaluation"
+                },
+                {
+                  "label": "myopia-related retinal anomalies can cause visual field abnormalities"
+                },
+                {
+                  "label": "high refractive error may make it difficult to perform accurate perimetric measurement and to interpret visual field abnormalities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diabetes mellitus",
+          "children": [
+            {
+              "label": "controversy as to whether diabetes is a risk factor for glaucoma",
+              "children": [
+                {
+                  "label": "Beaver Dam Eye Study",
+                  "children": [
+                    {
+                      "label": "association between diabetes and OAG"
+                    }
+                  ]
+                },
+                {
+                  "label": "Blue Mountains Eye Study",
+                  "children": [
+                    {
+                      "label": "association between diabetes and OAG"
+                    }
+                  ]
+                },
+                {
+                  "label": "Los Angeles Latino Eye Study",
+                  "children": [
+                    {
+                      "label": "association between diabetes and OAG"
+                    }
+                  ]
+                },
+                {
+                  "label": "Framingham Study",
+                  "children": [
+                    {
+                      "label": "did not find significant association between diabetes and OAG"
+                    }
+                  ]
+                },
+                {
+                  "label": "Baltimore Eye Survey",
+                  "children": [
+                    {
+                      "label": "did not find significant association between diabetes and OAG"
+                    }
+                  ]
+                },
+                {
+                  "label": "Barbados Eye Study",
+                  "children": [
+                    {
+                      "label": "did not find significant association between diabetes and OAG"
+                    }
+                  ]
+                },
+                {
+                  "label": "revised analysis of the Rotterdam Study",
+                  "children": [
+                    {
+                      "label": "did not find significant association between diabetes and OAG"
+                    }
+                  ]
+                },
+                {
+                  "label": "OHTS",
+                  "children": [
+                    {
+                      "label": "diabetes was associated with a reduced risk of glaucoma development"
+                    },
+                    {
+                      "label": "patients with any retinopathy were not enrolled in the trial"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "references"
+            }
+          ]
+        },
+        {
+          "label": "blood pressure",
+          "children": [
+            {
+              "label": "Baltimore Eye Survey",
+              "children": [
+                {
+                  "label": "systemic hypertension was associated with",
+                  "children": [
+                    {
+                      "label": "lower risk of glaucoma in younger (<65 years) subjects",
+                      "children": [
+                        {
+                          "label": "higher blood pressure --> improved perfusion of the optic nerve"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "increased risk of glaucoma in older subjects",
+                      "children": [
+                        {
+                          "label": "chronic hypertension --> increases optic nerve’s susceptibility to the development of glaucomatous optic neuropathy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Barbados Eye Studies",
+              "children": [
+                {
+                  "label": "relative risk of incident glaucoma among subjects with systemic hypertension was <1.0 in all age groups"
+                }
+              ]
+            },
+            {
+              "label": "ocular perfusion pressure",
+              "children": [
+                {
+                  "label": "= blood pressure (systolic, diastolic, or mean arterial) minus IOP"
+                },
+                {
+                  "label": "lower ocular perfusion pressure is a strong risk factor for the development of glaucoma, independent of IOP"
+                },
+                {
+                  "label": "overtreatment of systemic hypertension may be a contributing factor to glaucoma progression"
+                }
+              ]
+            },
+            {
+              "label": "references"
+            }
+          ]
+        },
+        {
+          "label": "retinal vein occlusion",
+          "children": [
+            {
+              "label": "after CRVO (hemicentral retinal vein occlusion), patients may develop angle- closure glaucoma or, at a later stage, neovascular glaucoma"
+            },
+            {
+              "label": "glaucoma and OHT are risk factors for the development of CRVO (hemicentral retinal vein occlusion)"
+            },
+            {
+              "label": "OHTS",
+              "children": [
+                {
+                  "label": "occurrence of vein occlusions was higher in observation group than in treatment group"
+                }
+              ]
+            },
+            {
+              "label": "consideration should be given to treating elevated IOP in patients with a history of CRVO",
+              "children": [
+                {
+                  "label": "to reduce the risk of CRVO in the fellow eye"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "other associated conditions",
+          "children": [
+            {
+              "label": "sleep apnea"
+            },
+            {
+              "label": "thyroid disorders"
+            },
+            {
+              "label": "hypercholesterolemia"
+            },
+            {
+              "label": "migraine"
+            },
+            {
+              "label": "Raynaud phenomenon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Optic disc appearance and visual field loss",
+      "children": [
+        {
+          "label": "diagnosis of POAG is based primarily on",
+          "children": [
+            {
+              "label": "appearance of the optic disc"
+            },
+            {
+              "label": "performance on visual field testing",
+              "children": [
+                {
+                  "label": "visual field loss should correlate with the appearance of the optic disc",
+                  "children": [
+                    {
+                      "label": "significant discrepancies in the pattern of field loss and optic nerve damage warrant additional investigation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Risk Factors for POAG Other Than IOP",
+      "children": [
+        {
+          "label": "advanced age",
+          "children": [
+            {
+              "label": "prevalence of glaucoma increases dramatically with age (particularly among black persons)",
+              "children": [
+                {
+                  "label": "11% in those 80 years or older"
+                }
+              ]
+            },
+            {
+              "label": "visual field defects were 7 x more likely to progress in patients ≥60 years than in those ≤40 years"
+            },
+            {
+              "label": "studies in Japan have shown a relationship between glaucoma and age even with no increase in IOP",
+              "children": [
+                {
+                  "label": "age appears to be an independent risk factor for the development of glaucoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "race",
+          "children": [
+            {
+              "label": "prevalence of POAG is 3-4 x greater in black and Hispanic persons"
+            },
+            {
+              "label": "blindness from glaucoma is ≥4 times more common in blacks"
+            },
+            {
+              "label": "glaucoma is more likely to be diagnosed at a younger age and to be at a more advanced stage at the time of diagnosis in black patients"
+            }
+          ]
+        },
+        {
+          "label": "positive family history",
+          "children": [
+            {
+              "label": "relative risk of POAG is increased ≈ 3.7x for individuals who have a sibling with POAG"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.4.1. Open Angle Glaucoma (I) - Primary Open-Angle Glaucoma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 140,
+      "connector_rejected": 0,
+      "connector_edges": 140,
+      "connector_width": 0.825,
+      "text_labels": 146,
+      "tree_nodes": 146,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 1.0,
+      "root_font_size": 4.123,
+      "warnings": []
+    }
+  }
+}

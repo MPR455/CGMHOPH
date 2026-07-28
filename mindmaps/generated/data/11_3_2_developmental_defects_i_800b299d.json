@@ -1,0 +1,275 @@
+{
+  "label": "11.3.2. Developmental Defects (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Microspherophakia",
+      "children": [
+        {
+          "label": "faulty development of secondary lens fibers"
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "small spherical lens"
+            },
+            {
+              "label": "high myopia"
+            },
+            {
+              "label": "secondary angle-closure glaucoma",
+              "children": [
+                {
+                  "label": "miotics aggravate this condition"
+                },
+                {
+                  "label": "cycloplegics are the medical treatment of choice"
+                },
+                {
+                  "label": "laser iridotomy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "associated syndromes",
+          "children": [
+            {
+              "label": "Weill-Marchesani syndrome",
+              "children": [
+                {
+                  "label": "most common associated syndrome"
+                },
+                {
+                  "label": "autosomal recessive"
+                },
+                {
+                  "label": "small stature"
+                },
+                {
+                  "label": "short and stubby fingers"
+                },
+                {
+                  "label": "broad hands with reduced joint mobility"
+                }
+              ]
+            },
+            {
+              "label": "Marfan syndrome"
+            },
+            {
+              "label": "Peters anomaly"
+            },
+            {
+              "label": "Alport syndrome"
+            },
+            {
+              "label": "Lowe syndrome",
+              "children": [
+                {
+                  "label": "oculocerebrorenal syndrome of Lowe",
+                  "children": [
+                    {
+                      "label": "x-linked"
+                    },
+                    {
+                      "label": "systemic acidosis"
+                    },
+                    {
+                      "label": "renal rickets"
+                    },
+                    {
+                      "label": "hypotonia"
+                    },
+                    {
+                      "label": "congenital cataract",
+                      "children": [
+                        {
+                          "label": "focal, internally directed excrescences of lens capsule"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "microspherophakia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "congenital rubella"
+            },
+            {
+              "label": "isolated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lenticonus and Lentiglobus",
+      "children": [
+        {
+          "label": "lenticonus",
+          "children": [
+            {
+              "label": "localized, cone-shaped deformation of the lens surface"
+            },
+            {
+              "label": "anterior lenticonus",
+              "children": [
+                {
+                  "label": "often bilateral"
+                },
+                {
+                  "label": "may be associated with Alport syndrome",
+                  "children": [
+                    {
+                      "label": "Alport syndrome",
+                      "children": [
+                        {
+                          "label": "X-linked > AR > AD"
+                        },
+                        {
+                          "label": "disease of basement membranes",
+                          "children": [
+                            {
+                              "label": "collagen type IV"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "extraocular presentation",
+                          "children": [
+                            {
+                              "label": "progressive renal failure",
+                              "children": [
+                                {
+                                  "label": "late in the course of the disease",
+                                  "children": [
+                                    {
+                                      "label": "hypertension"
+                                    },
+                                    {
+                                      "label": "kidney failure"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "label": "hematuria",
+                              "children": [
+                                {
+                                  "label": "begins in childhood"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "sensori-neural deafness"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "ocular presentation",
+                          "children": [
+                            {
+                              "label": "anterior lenticonus or anterior subcapsular cataract"
+                            },
+                            {
+                              "label": "posterior polymorphous dystrophy"
+                            },
+                            {
+                              "label": "fleck retinopathy"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "posterior lenticonus",
+              "children": [
+                {
+                  "label": "more common"
+                },
+                {
+                  "label": "usually unilateral"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lentiglobus",
+          "children": [
+            {
+              "label": "localized spherical deformation of the lens surface"
+            },
+            {
+              "label": "posterior lentiglobus is more common than anterior lentiglobus",
+              "children": [
+                {
+                  "label": "often associated with posterior pole opacities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "retinoscopy",
+          "children": [
+            {
+              "label": "distorted and myopic reflex in both lenticonus and lentiglobus"
+            }
+          ]
+        },
+        {
+          "label": "retroillumination",
+          "children": [
+            {
+              "label": "“oil droplet” reflex"
+            }
+          ]
+        },
+        {
+          "label": "posterior bulging may progress",
+          "children": [
+            {
+              "label": "worsening myopia"
+            },
+            {
+              "label": "opacification of the defect"
+            },
+            {
+              "label": "+- opacification of surrounding cortical lamellae"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.3.2. Developmental Defects (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 67,
+      "connector_rejected": 2,
+      "connector_edges": 65,
+      "connector_width": 1.201,
+      "text_labels": 68,
+      "tree_nodes": 68,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9701,
+      "root_font_size": 3.802,
+      "warnings": []
+    }
+  }
+}

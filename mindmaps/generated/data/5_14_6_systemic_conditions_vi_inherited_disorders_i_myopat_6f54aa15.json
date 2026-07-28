@@ -1,0 +1,430 @@
+{
+  "label": "5.14.6. Systemic Conditions (VI): Inherited Disorders (I): Myopathies",
+  "root": true,
+  "children": [
+    {
+      "label": "Oculopharyngeal dystrophy",
+      "children": [
+        {
+          "label": "onset in the fifth and sixth decades",
+          "children": [
+            {
+              "label": "older patients than CPEO"
+            }
+          ]
+        },
+        {
+          "label": "French-Canadian ancestry"
+        },
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "hereditary",
+              "children": [
+                {
+                  "label": "autosomal dominant",
+                  "children": [
+                    {
+                      "label": "not mitochondrial"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "mutation"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "proximal muscle weakness",
+              "children": [
+                {
+                  "label": "progressive dysphagia",
+                  "children": [
+                    {
+                      "label": "triplet repeat expansion in exon 1 of the polyadenine binding protein nuclear 1 (PABPN1) gene"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ptosis"
+            },
+            {
+              "label": "external ophthalmoplegia",
+              "children": [
+                {
+                  "label": "± diplopia if asymmetric"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "vacuolar myopathy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "oculopharyngeal dystrophy affects proximal muscles first",
+      "children": [
+        {
+          "label": "symptoms start in late childhood or early adulthood",
+          "children": [
+            {
+              "label": "exacerbated by",
+              "children": [
+                {
+                  "label": "excitement"
+                },
+                {
+                  "label": "cold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chronic progressive external ophthalmoplegia (CPEO)",
+      "children": [
+        {
+          "label": "2nd decade of life"
+        },
+        {
+          "label": "mitochondrial myopathy"
+        },
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "mode of inheritance",
+              "children": [
+                {
+                  "label": "mitochondrial",
+                  "children": [
+                    {
+                      "label": "mitochondrial DNA point deletion"
+                    },
+                    {
+                      "label": "most common",
+                      "children": [
+                        {
+                          "label": "maternal transmission"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "autosomal"
+                },
+                {
+                  "label": "sporadic",
+                  "children": [
+                    {
+                      "label": "nuclear DNA mutations can drive mtDNA mutation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "may not be transmissible to the next generation"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "± ptosis",
+              "children": [
+                {
+                  "label": "slowly progressive, symmetric ophthalmoplegia",
+                  "children": [
+                    {
+                      "label": "do not generally complain of diplopia",
+                      "children": [
+                        {
+                          "label": "ophthalmoplegia is usually symmetric"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "often initially present with ptosis"
+                }
+              ]
+            },
+            {
+              "label": "majority of patients have difficulty with visual impairment and reading"
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "myasthenia gravis",
+              "children": [
+                {
+                  "label": "in contrast to CPEO, MG patients have variable signs and symptoms"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic symptoms"
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "genetic testing",
+              "children": [
+                {
+                  "label": "generalized muscle weakness"
+                }
+              ]
+            },
+            {
+              "label": "histologic examination of muscle biopsy",
+              "children": [
+                {
+                  "label": "characteristic “ragged red fibers”"
+                },
+                {
+                  "label": "mitochondrial proliferation"
+                }
+              ]
+            },
+            {
+              "label": "electron microscopy",
+              "children": [
+                {
+                  "label": "inclusion body abnormalities of the affected mitochondria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Kearns-Sayre syndrome",
+          "children": [
+            {
+              "label": "inherited"
+            },
+            {
+              "label": "mitochondrial myopathy",
+              "children": [
+                {
+                  "label": "CPEO"
+                }
+              ]
+            },
+            {
+              "label": "clinical features",
+              "children": [
+                {
+                  "label": "pigmentary retinopathy"
+                },
+                {
+                  "label": "cardiac conduction abnormalities",
+                  "children": [
+                    {
+                      "label": "cardiac evaluation is essential"
+                    }
+                  ]
+                },
+                {
+                  "label": "cerebellar ataxia"
+                },
+                {
+                  "label": "deafness"
+                },
+                {
+                  "label": "elevated CSF protein levels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ptosis"
+    },
+    {
+      "label": "Myotonic dystrophy",
+      "children": [
+        {
+          "label": "hereditary"
+        },
+        {
+          "label": "2 types",
+          "children": [
+            {
+              "label": "type 1",
+              "children": [
+                {
+                  "label": "autosomal dominant"
+                },
+                {
+                  "label": "mutation on chromosome 19"
+                }
+              ]
+            },
+            {
+              "label": "type 2",
+              "children": [
+                {
+                  "label": "mutation on chromosome 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "affects distal limb musculature first",
+              "children": [
+                {
+                  "label": "ask the patient to shake hands",
+                  "children": [
+                    {
+                      "label": "fatigue"
+                    },
+                    {
+                      "label": "patient will not be able to quickly release his or her grasp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "myopathic facies",
+              "children": [
+                {
+                  "label": "wasting of the temporalis and masseter muscles",
+                  "children": [
+                    {
+                      "label": "“hatchet face”"
+                    }
+                  ]
+                },
+                {
+                  "label": "frontal balding"
+                }
+              ]
+            },
+            {
+              "label": "ophthalmoplegia",
+              "children": [
+                {
+                  "label": "may mimic CPEO"
+                }
+              ]
+            },
+            {
+              "label": "ocular findings",
+              "children": [
+                {
+                  "label": "ptosis"
+                },
+                {
+                  "label": "ophthalmoparesis",
+                  "children": [
+                    {
+                      "label": "similar to CPEO"
+                    }
+                  ]
+                },
+                {
+                  "label": "pigmentary retinopathy"
+                },
+                {
+                  "label": "polychromatic lenticular deposits",
+                  "children": [
+                    {
+                      "label": "“Christmas tree” cataracts"
+                    }
+                  ]
+                },
+                {
+                  "label": "pupils",
+                  "children": [
+                    {
+                      "label": "miotic"
+                    },
+                    {
+                      "label": "respond sluggishly to light"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "multisystem disorder",
+              "children": [
+                {
+                  "label": "testicular atrophy"
+                },
+                {
+                  "label": "uterine atony"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "electromyography",
+          "children": [
+            {
+              "label": "provides definite diagnosis",
+              "children": [
+                {
+                  "label": "typical myotonic discharges"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.14.6. Systemic Conditions (VI) - Inherited Disorders (I) - Myopathies (2).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 175,
+      "connector_rejected": 1,
+      "connector_edges": 119,
+      "connector_width": 1.014,
+      "text_labels": 103,
+      "tree_nodes": 103,
+      "component_roots": 5,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.68,
+      "root_font_size": 3.55,
+      "warnings": []
+    }
+  }
+}

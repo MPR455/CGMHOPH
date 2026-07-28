@@ -1,0 +1,893 @@
+{
+  "label": "4.12.1. Uveal Tract (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Infectious inflammations",
+      "children": [
+        {
+          "label": "exogenous"
+        },
+        {
+          "label": "endogenous"
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "mixed acute and chronic inflammatory infiltrate"
+            },
+            {
+              "label": "granulomatous inflammation (epithelioid histiocytes)",
+              "children": [
+                {
+                  "label": "viral"
+                },
+                {
+                  "label": "fungal"
+                },
+                {
+                  "label": "protozoal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Topography",
+      "children": [
+        {
+          "label": "embryology",
+          "children": [
+            {
+              "label": "mesoderm"
+            },
+            {
+              "label": "neural crest"
+            }
+          ]
+        },
+        {
+          "label": "strongest uveoscleral attachments",
+          "children": [
+            {
+              "label": "major emissary channels",
+              "children": [
+                {
+                  "label": "vortex vein exit points"
+                }
+              ]
+            },
+            {
+              "label": "anterior base of ciliary body",
+              "children": [
+                {
+                  "label": "scleral spur"
+                }
+              ]
+            },
+            {
+              "label": "juxtapapillary region"
+            }
+          ]
+        },
+        {
+          "label": "iris",
+          "children": [
+            {
+              "label": "anterior border layer",
+              "children": [
+                {
+                  "label": "condensation of iris stroma & melanocytes"
+                },
+                {
+                  "label": "crypts"
+                }
+              ]
+            },
+            {
+              "label": "stroma",
+              "children": [
+                {
+                  "label": "blood vessels",
+                  "children": [
+                    {
+                      "label": "thick collar of collagen"
+                    }
+                  ]
+                },
+                {
+                  "label": "nerves"
+                },
+                {
+                  "label": "melanocytes",
+                  "children": [
+                    {
+                      "label": "determine iris color"
+                    }
+                  ]
+                },
+                {
+                  "label": "fibrocytes"
+                },
+                {
+                  "label": "clump cells",
+                  "children": [
+                    {
+                      "label": "macrophages",
+                      "children": [
+                        {
+                          "label": "type I clump cells of Koganei"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "smooth muscle cells",
+                      "children": [
+                        {
+                          "label": "type II clump cells"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "muscular layer",
+              "children": [
+                {
+                  "label": "sphincter muscle"
+                },
+                {
+                  "label": "dilator muscle",
+                  "children": [
+                    {
+                      "label": "derived from anterior layer of pigment epithelium"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "anterior & posterior pigment epithelium",
+              "children": [
+                {
+                  "label": "double layer of cuboidal cells"
+                },
+                {
+                  "label": "apex-to-apex configuration"
+                },
+                {
+                  "label": "packed with melanin granules"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ciliary body",
+          "children": [
+            {
+              "label": "double layer of epithelial cells",
+              "children": [
+                {
+                  "label": "inner nonpigmented layer"
+                },
+                {
+                  "label": "outer pigmented layer"
+                }
+              ]
+            },
+            {
+              "label": "smooth muscle",
+              "children": [
+                {
+                  "label": "radial"
+                },
+                {
+                  "label": "longitudinal (Brucke muscle)"
+                },
+                {
+                  "label": "circular (Muller muscle)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "choroid",
+          "children": [
+            {
+              "label": "lamina fusca (suprachoroid layer)"
+            },
+            {
+              "label": "stroma"
+            },
+            {
+              "label": "choriocarpillaris"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Degenerations",
+      "children": [
+        {
+          "label": "Iris neovascularization (rubeosis iridis)",
+          "children": [
+            {
+              "label": "lack supporting fibrous cuff"
+            },
+            {
+              "label": "fibrous membrane component",
+              "children": [
+                {
+                  "label": "myofibroblasts"
+                }
+              ]
+            },
+            {
+              "label": "neovascularization of angle",
+              "children": [
+                {
+                  "label": "peripheral anterior synechiae",
+                  "children": [
+                    {
+                      "label": "neovascular glaucoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ectropion uveae"
+            },
+            {
+              "label": "flattened iris surface"
+            },
+            {
+              "label": "atrophy of dilator muscle"
+            },
+            {
+              "label": "attenuation of iris pigment epithelium"
+            },
+            {
+              "label": "iris stromal fibrosis"
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "CRVO"
+                },
+                {
+                  "label": "CRAO"
+                },
+                {
+                  "label": "BRVO"
+                },
+                {
+                  "label": "carotid occlusive disease"
+                },
+                {
+                  "label": "infectious/noninfectious uveitis"
+                },
+                {
+                  "label": "retinal detachment"
+                },
+                {
+                  "label": "Coats disease"
+                },
+                {
+                  "label": "secondary glaucoma"
+                },
+                {
+                  "label": "retinal detachment surgery"
+                },
+                {
+                  "label": "radiation"
+                },
+                {
+                  "label": "diabetes mellitus"
+                },
+                {
+                  "label": "sickle cell disease"
+                },
+                {
+                  "label": "retinoblastoma"
+                },
+                {
+                  "label": "uveal melanoma"
+                },
+                {
+                  "label": "metastatic carcinoma"
+                },
+                {
+                  "label": "trauma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "not pathognomonic",
+      "children": [
+        {
+          "label": "VKH syndrome"
+        }
+      ]
+    },
+    {
+      "label": "Congenital anomalies",
+      "children": [
+        {
+          "label": "Aniridia",
+          "children": [
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "usually incomplete",
+              "children": [
+                {
+                  "label": "rudimentary rim of iris tissue"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "rim of underdeveloped ectodermal- mesodermal neural crest elements"
+                },
+                {
+                  "label": "underdeveloped angle"
+                },
+                {
+                  "label": "peripheral anterior synechiae",
+                  "children": [
+                    {
+                      "label": "overgrowth of corneal endothelium"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ocular associations",
+              "children": [
+                {
+                  "label": "glaucoma",
+                  "children": [
+                    {
+                      "label": "50%–75%"
+                    },
+                    {
+                      "label": "rudimentary iris stump rotates anteriorly to progressively cover the trabecular meshwork",
+                      "children": [
+                        {
+                          "label": "synechial angle closure"
+                        },
+                        {
+                          "label": "second decade of life or later"
+                        },
+                        {
+                          "label": "closely follow the angle with serial gonioscopy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "primary maldevelopment of the drainage angle",
+                      "children": [
+                        {
+                          "label": "elevated IOP at a younger age"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "cataract",
+                  "children": [
+                    {
+                      "label": "anterior and posterior polar lens opacities",
+                      "children": [
+                        {
+                          "label": "present at birth"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "cortical, subcapsular, and lamellar opacities",
+                      "children": [
+                        {
+                          "label": "develop in 50%–85%"
+                        },
+                        {
+                          "label": "within the first 2 decades"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "ectopia lentis",
+                  "children": [
+                    {
+                      "label": "poor zonular integrity"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal pannus"
+                },
+                {
+                  "label": "foveal and optic nerve hypoplasia"
+                },
+                {
+                  "label": "nystagmus"
+                }
+              ]
+            },
+            {
+              "label": "genetics",
+              "children": [
+                {
+                  "label": "familial",
+                  "children": [
+                    {
+                      "label": "2/3"
+                    },
+                    {
+                      "label": "AD",
+                      "children": [
+                        {
+                          "label": "PAX6"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "few cases of Wilms tumor are seen in the familial form"
+                    }
+                  ]
+                },
+                {
+                  "label": "sporadic",
+                  "children": [
+                    {
+                      "label": "1/3"
+                    },
+                    {
+                      "label": "20% associated with a large chromosomal deletion that includes the Wilms tumor 1 gene (WT1)",
+                      "children": [
+                        {
+                          "label": "11p13 deletion"
+                        },
+                        {
+                          "label": "tumor suppressor gene",
+                          "children": [
+                            {
+                              "label": "increased risk of Wilms tumor"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "aniridia associated with systemic abnormalities",
+              "children": [
+                {
+                  "label": "WAGR syndrome",
+                  "children": [
+                    {
+                      "label": "13% of patients with aniridia"
+                    },
+                    {
+                      "label": "autosomal dominant"
+                    },
+                    {
+                      "label": "Wilms tumor"
+                    },
+                    {
+                      "label": "aniridia"
+                    },
+                    {
+                      "label": "genitourinary anomalies"
+                    },
+                    {
+                      "label": "mental retardation"
+                    }
+                  ]
+                },
+                {
+                  "label": "Gillespie syndrome",
+                  "children": [
+                    {
+                      "label": "2% of patients with aniridia"
+                    },
+                    {
+                      "label": "autosomal recessive"
+                    },
+                    {
+                      "label": "cerebellar ataxia"
+                    },
+                    {
+                      "label": "intellectual disability"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "prophylactic goniosurgery",
+                  "children": [
+                    {
+                      "label": "infants with a strong family history of aniridic glaucoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "goniosurgery",
+                  "children": [
+                    {
+                      "label": "young children with progressive angle narrowing"
+                    },
+                    {
+                      "label": "if the angle is not fully closed"
+                    }
+                  ]
+                },
+                {
+                  "label": "trabeculectomy"
+                },
+                {
+                  "label": "glaucoma drainage devices"
+                },
+                {
+                  "label": "cyclophotocoagulation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Coloboma",
+          "children": [
+            {
+              "label": "absence of part or all of iris, ciliary body, choroid or all 3 layers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Noninfectious inflammations",
+      "children": [
+        {
+          "label": "Sympathetic ophthalmia",
+          "children": [
+            {
+              "label": "phases",
+              "children": [
+                {
+                  "label": "trauma to 1 eye",
+                  "children": [
+                    {
+                      "label": "exciting/inciting eye"
+                    }
+                  ]
+                },
+                {
+                  "label": "latent period",
+                  "children": [
+                    {
+                      "label": "9 days - 50 years"
+                    }
+                  ]
+                },
+                {
+                  "label": "uveitis in the other eye",
+                  "children": [
+                    {
+                      "label": "sympathizing eye"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "diffuse granulomatous inflammation",
+                  "children": [
+                    {
+                      "label": "lymphocytes"
+                    },
+                    {
+                      "label": "epithelioid histiocytes",
+                      "children": [
+                        {
+                          "label": "contain phagocytosed melanin pigment"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "scant plasma cells",
+                      "children": [
+                        {
+                          "label": "choriocapillaris spared"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "AC inflammation",
+                      "children": [
+                        {
+                          "label": "histiocyte deposits on corneal endothelium",
+                          "children": [
+                            {
+                              "label": "mutton-fat KP"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Dalen-Fuchs nodules",
+                      "children": [
+                        {
+                          "label": "between RPE and Bruch membrane",
+                          "children": [
+                            {
+                              "label": "lymphocytes"
+                            },
+                            {
+                              "label": "epithelioid histiocytes"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "VKH syndrome",
+          "children": [
+            {
+              "label": "demographics",
+              "children": [
+                {
+                  "label": "asian/native american ancestry"
+                },
+                {
+                  "label": "30-50 yr"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "diffuse chronic granulomatous uveitis",
+                  "children": [
+                    {
+                      "label": "does not spare choriocapillaris"
+                    }
+                  ]
+                },
+                {
+                  "label": "+- granulomatous retinal inflammation"
+                },
+                {
+                  "label": "RPE hyperplasia/atrophy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Sarcoidosis",
+          "children": [
+            {
+              "label": "uvea is the most common site of ocular involvement",
+              "children": [
+                {
+                  "label": "clinical",
+                  "children": [
+                    {
+                      "label": "iris nodules",
+                      "children": [
+                        {
+                          "label": "at pupillary margin",
+                          "children": [
+                            {
+                              "label": "Keoppe nodules"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "elsewhere on iris",
+                          "children": [
+                            {
+                              "label": "Busacca nodules"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "chorioretinitis"
+                    },
+                    {
+                      "label": "periphlebitis",
+                      "children": [
+                        {
+                          "label": "candlewax drippings"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "chorioretinal nodules"
+                    },
+                    {
+                      "label": "optic nerve inflammation"
+                    }
+                  ]
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "sarcoid nodule",
+                      "children": [
+                        {
+                          "label": "noncaseating granuloma",
+                          "children": [
+                            {
+                              "label": "epithelioid histiocytes"
+                            },
+                            {
+                              "label": "± multinucleated giant cells",
+                              "children": [
+                                {
+                                  "label": "star-shaped acidophilic bodies"
+                                },
+                                {
+                                  "label": "spherical, basophilic, calcified bodies",
+                                  "children": [
+                                    {
+                                      "label": "asteroid bodies",
+                                      "children": [
+                                        {
+                                          "label": "not pathognomonic"
+                                        },
+                                        {
+                                          "label": "Schaumann bodies"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "label": "cuff of lymphocytes"
+                            },
+                            {
+                              "label": "no central necrosis",
+                              "children": [
+                                {
+                                  "label": "noncaseating"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "granulomatous uveal inflammation",
+                      "children": [
+                        {
+                          "label": "epithelioid histiocytes"
+                        },
+                        {
+                          "label": "lymphocytes"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Juvenile xanthogranuloma",
+          "children": [
+            {
+              "label": "children"
+            },
+            {
+              "label": "skin"
+            },
+            {
+              "label": "uvea",
+              "children": [
+                {
+                  "label": "iris",
+                  "children": [
+                    {
+                      "label": "spontaneous hyphema"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "lipid-laden (foamy) histiocytes"
+                },
+                {
+                  "label": "Touton giant cells"
+                },
+                {
+                  "label": "lymphocytes"
+                },
+                {
+                  "label": "eosinophils",
+                  "children": [
+                    {
+                      "label": "ring of nuclei surrounding a central homogeneous cytoplasm, while foamy cytoplasm surrounds the nuclei"
+                    }
+                  ]
+                },
+                {
+                  "label": "fragile blood vessels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.12.1. Uveal Tract (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 224,
+      "connector_rejected": 0,
+      "connector_edges": 222,
+      "connector_width": 0.788,
+      "text_labels": 228,
+      "tree_nodes": 228,
+      "component_roots": 6,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.9911,
+      "root_font_size": 2.757,
+      "warnings": []
+    }
+  }
+}

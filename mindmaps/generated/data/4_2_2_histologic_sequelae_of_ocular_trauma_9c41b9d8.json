@@ -1,0 +1,351 @@
+{
+  "label": "4.2.2. Histologic Sequelae of Ocular Trauma",
+  "root": true,
+  "children": [
+    {
+      "label": "Rupture of the Descemet membrane",
+      "children": [
+        {
+          "label": "keratoconus"
+        },
+        {
+          "label": "forceps trauma"
+        }
+      ]
+    },
+    {
+      "label": "Fibrocellular proliferation",
+      "children": [
+        {
+          "label": "Penetrating trauma",
+          "children": [
+            {
+              "label": "Tractional retinal detachment"
+            },
+            {
+              "label": "Hemorrhage",
+              "children": [
+                {
+                  "label": "Hemosiderin at 72 hours"
+                },
+                {
+                  "label": "Sequelae",
+                  "children": [
+                    {
+                      "label": "Siderosis bulbi"
+                    },
+                    {
+                      "label": "Cholesterolosis"
+                    },
+                    {
+                      "label": "Hemoglobin spherulosis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Proliferative vitreoretinopathy"
+            },
+            {
+              "label": "Hypotony & phthisis bulbi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cyclodialysis",
+      "children": [
+        {
+          "label": "Disinsertion of longitudinal muscle of ciliary body from scleral spur"
+        },
+        {
+          "label": "Hypotony",
+          "children": [
+            {
+              "label": "Increased aqueous drainage"
+            },
+            {
+              "label": "Decreased aqueous production"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bruch membrane/choroidal rupture",
+      "children": [
+        {
+          "label": "Direct/Indirect trauma"
+        },
+        {
+          "label": "Sequelae",
+          "children": [
+            {
+              "label": "Choroidal neovascularization"
+            },
+            {
+              "label": "Granulation tissue proliferation"
+            },
+            {
+              "label": "Focal post-traumatic choroidal granulomatous inflammation",
+              "children": [
+                {
+                  "label": "After projectile injury"
+                }
+              ]
+            },
+            {
+              "label": "Sclopetaria",
+              "children": [
+                {
+                  "label": "Chorioretinal rupture & necrosis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Anterior chamber angle recession",
+      "children": [
+        {
+          "label": "Tear between longitudinal and circular muscles of ciliary body"
+        },
+        {
+          "label": "Posterior displacement of the iris root"
+        },
+        {
+          "label": "Concurrent damage to the trabecular meshwork"
+        }
+      ]
+    },
+    {
+      "label": "Attachments between uvea and sclera",
+      "children": [
+        {
+          "label": "1. Scleral spur"
+        },
+        {
+          "label": "2. Ostia of vortex veins"
+        },
+        {
+          "label": "3. Peripapillary area"
+        },
+        {
+          "label": "Borders of a dome-shaped choroidal hemorrhage are defined by the position of vortex veins and scleral spur"
+        }
+      ]
+    },
+    {
+      "label": "Phthisis bulbi",
+      "children": [
+        {
+          "label": "Atrophia bulbia without shrinkage",
+          "children": [
+            {
+              "label": "Loss of nutrition",
+              "children": [
+                {
+                  "label": "Cataract"
+                },
+                {
+                  "label": "Serous retinal detachment"
+                },
+                {
+                  "label": "Anterior/Posterior synechiae",
+                  "children": [
+                    {
+                      "label": "High intraocular pressure"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Atrophia bulbia with shrinkage",
+          "children": [
+            {
+              "label": "Ciliary body dysfunction",
+              "children": [
+                {
+                  "label": "Low intraocular pressure",
+                  "children": [
+                    {
+                      "label": "Small, squared-off eyeball"
+                    }
+                  ]
+                },
+                {
+                  "label": "Corneal edema/scarring/vascularization"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Phthisis bulbi",
+          "children": [
+            {
+              "label": "16-19 mm eyeball"
+            },
+            {
+              "label": "Disorganized intraocular structures"
+            },
+            {
+              "label": "Retinal pigment epithelial proliferation/Drusen"
+            },
+            {
+              "label": "Osseous metaplasia of retinal pigment epithelium",
+              "children": [
+                {
+                  "label": "Retina"
+                }
+              ]
+            },
+            {
+              "label": "Scleral thickening"
+            },
+            {
+              "label": "Calcification",
+              "children": [
+                {
+                  "label": "Bowman layer"
+                },
+                {
+                  "label": "Lens"
+                },
+                {
+                  "label": "Drusen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Iridodialysis",
+      "children": [
+        {
+          "label": "Tear at iris base"
+        }
+      ]
+    },
+    {
+      "label": "Iris sphincter rupture",
+      "children": [
+        {
+          "label": "Notch at pupillary margin"
+        }
+      ]
+    },
+    {
+      "label": "Vossius ring",
+      "children": [
+        {
+          "label": "Iris pigment epithelial damage",
+          "children": [
+            {
+              "label": "Ring of pigment on anterior lens surface"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lens damage",
+      "children": [
+        {
+          "label": "Cataract",
+          "children": [
+            {
+              "label": "Lens capsule thinnest at posterior pole"
+            }
+          ]
+        },
+        {
+          "label": "Anterior lenticular fibrous plaque"
+        },
+        {
+          "label": "Zonular rupture",
+          "children": [
+            {
+              "label": "Subluxation/Dislocation of lens"
+            },
+            {
+              "label": "Vitreous prolapse into anterior chamber"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Commotio retinae",
+      "children": [
+        {
+          "label": "Blunt trauma",
+          "children": [
+            {
+              "label": "Disruption in architecture of photoreceptors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Retinal dialysis",
+      "children": [
+        {
+          "label": "Blunt trauma",
+          "children": [
+            {
+              "label": "Tear at:",
+              "children": [
+                {
+                  "label": "Ora"
+                },
+                {
+                  "label": "Posterior margin of vitreous base"
+                },
+                {
+                  "label": "Circumferential location",
+                  "children": [
+                    {
+                      "label": "Inferotemporal"
+                    },
+                    {
+                      "label": "Superonasal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.2.2. Histologic Sequelae of Ocular Trauma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 164,
+      "connector_rejected": 18,
+      "connector_edges": 102,
+      "connector_width": 1.619,
+      "text_labels": 86,
+      "tree_nodes": 86,
+      "component_roots": 13,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.622,
+      "root_font_size": 3.777,
+      "warnings": []
+    }
+  }
+}

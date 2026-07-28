@@ -1,0 +1,403 @@
+{
+  "label": "8.13.1. Toxic & Traumatic Injuries (I): Thermal Burns",
+  "root": true,
+  "children": [
+    {
+      "label": "Heat",
+      "children": [
+        {
+          "label": "defense mechanisms",
+          "children": [
+            {
+              "label": "rapid-reflex eyelid closure"
+            },
+            {
+              "label": "Bell phenomenon"
+            },
+            {
+              "label": "reflex movement away from the source of intense heat"
+            }
+          ]
+        },
+        {
+          "label": "hair-curling irons",
+          "children": [
+            {
+              "label": "epithelium burn"
+            }
+          ]
+        },
+        {
+          "label": "molten metal that stays in contact with the eye",
+          "children": [
+            {
+              "label": "more likely to cause corneal injuries with permanent scarring"
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "inflammation"
+            },
+            {
+              "label": "stromal protease expression",
+              "children": [
+                {
+                  "label": "collagen melt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "objectives of treatment",
+          "children": [
+            {
+              "label": "relieve discomfort"
+            },
+            {
+              "label": "prevent secondary corneal inflammation, ulceration, and perforation from infection or from exposure (eyelid damage)"
+            },
+            {
+              "label": "minimize eyelid scarring and resultant malfunction"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "cycloplegic agent"
+            },
+            {
+              "label": "prophylactic antibiotics (topical and/or systemic)"
+            },
+            {
+              "label": "limited debridement of devitalized tissues",
+              "children": [
+                {
+                  "label": "full-thickness skin grafts"
+                },
+                {
+                  "label": "tarsorrhaphy"
+                },
+                {
+                  "label": "minimize eyelid scarring and ectropion"
+                }
+              ]
+            },
+            {
+              "label": "lubricant",
+              "children": [
+                {
+                  "label": "sterile plastic wrap"
+                }
+              ]
+            },
+            {
+              "label": "topical corticosteroids",
+              "children": [
+                {
+                  "label": "inhibit corneal wound healing"
+                },
+                {
+                  "label": "for short periods"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ionizing Radiation",
+      "children": [
+        {
+          "label": "causes",
+          "children": [
+            {
+              "label": "nuclear explosions"
+            },
+            {
+              "label": "x-rays"
+            },
+            {
+              "label": "radioisotopes"
+            }
+          ]
+        },
+        {
+          "label": "mechanism of damage",
+          "children": [
+            {
+              "label": "direct killing of cells"
+            },
+            {
+              "label": "cellular DNA changes that produce lethal or other mutations"
+            },
+            {
+              "label": "radiation damage to blood vessels",
+              "children": [
+                {
+                  "label": "secondary ischemic necrosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "level of tissue damage",
+          "children": [
+            {
+              "label": "longer wavelengths",
+              "children": [
+                {
+                  "label": "penetrate less deeply",
+                  "children": [
+                    {
+                      "label": "superficial damage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "shorter wavelengths",
+              "children": [
+                {
+                  "label": "penetrate to deeper tissues"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "acute",
+              "children": [
+                {
+                  "label": "conjunctiva",
+                  "children": [
+                    {
+                      "label": "edema"
+                    },
+                    {
+                      "label": "scarring & shrinkage"
+                    },
+                    {
+                      "label": "loss of tear production"
+                    },
+                    {
+                      "label": "alterations in blood vessels with telangiectasia"
+                    },
+                    {
+                      "label": "necrosis of the conjunctiva and underlying sclera",
+                      "children": [
+                        {
+                          "label": "if radioactive material embedded in the conjunctiva"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "punctate corneal epithelial erosions",
+                  "children": [
+                    {
+                      "label": "acutely"
+                    }
+                  ]
+                },
+                {
+                  "label": "perforation of ocular tissues",
+                  "children": [
+                    {
+                      "label": "explosions involving ionizing radiation"
+                    }
+                  ]
+                },
+                {
+                  "label": "poor wound healing"
+                }
+              ]
+            },
+            {
+              "label": "late",
+              "children": [
+                {
+                  "label": "lack of tears"
+                },
+                {
+                  "label": "loss of corneal sensation"
+                },
+                {
+                  "label": "loss of corneal epithelium and its failure to heal"
+                },
+                {
+                  "label": "secondary microbial keratitis"
+                },
+                {
+                  "label": "vascularization"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "artificial tears"
+            },
+            {
+              "label": "bandage soft contact lens"
+            },
+            {
+              "label": "tissue adhesive"
+            },
+            {
+              "label": "tarsorrhaphy"
+            },
+            {
+              "label": "contralateral autologous conjunctival flap"
+            },
+            {
+              "label": "mucous membrane graft"
+            },
+            {
+              "label": "amniotic membrane transplant"
+            },
+            {
+              "label": "limbal stem cell transplant"
+            },
+            {
+              "label": "penetrating keratoplasty",
+              "children": [
+                {
+                  "label": "poor prognosis"
+                }
+              ]
+            },
+            {
+              "label": "scarring precludes the use of a conjunctival flap"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Freezing",
+      "children": [
+        {
+          "label": "transient corneal stromal edema"
+        },
+        {
+          "label": "predisposing conditions",
+          "children": [
+            {
+              "label": "raynaud disease"
+            },
+            {
+              "label": "cranial nerve V (trigeminal) dysfunction",
+              "children": [
+                {
+                  "label": "sensory denervation",
+                  "children": [
+                    {
+                      "label": "influences ocular temperature regulation"
+                    },
+                    {
+                      "label": "alters morphology and function of corneal cells, including endothelium"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ultraviolet Radiation",
+      "children": [
+        {
+          "label": "corneal epithelium is highly susceptible to UV radiation"
+        },
+        {
+          "label": "painful foreign-body sensation and photophobia",
+          "children": [
+            {
+              "label": "self-limited",
+              "children": [
+                {
+                  "label": "begin a few hours after exposure"
+                },
+                {
+                  "label": "<24 hours"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "unprotected exposure to sunlamps"
+            },
+            {
+              "label": "arc welding"
+            },
+            {
+              "label": "prolonged outdoor exposure to reflected sunlight",
+              "children": [
+                {
+                  "label": "snow blindness"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "patching"
+            },
+            {
+              "label": "topical antibiotic ointment"
+            },
+            {
+              "label": "cycloplegia"
+            },
+            {
+              "label": "oral analgesics"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.13.1. Toxic & Traumatic Injuries (I) - Thermal Burns.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 179,
+      "connector_rejected": 2,
+      "connector_edges": 136,
+      "connector_width": 1.689,
+      "text_labels": 102,
+      "tree_nodes": 102,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7598,
+      "root_font_size": 4.784,
+      "warnings": []
+    }
+  }
+}

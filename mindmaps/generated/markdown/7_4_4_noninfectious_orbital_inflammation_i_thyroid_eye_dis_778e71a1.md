@@ -1,0 +1,293 @@
+---
+title: "7.4.4. Noninfectious Orbital Inflammation (I): Thyroid Eye Disease (TED)"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.4.4. Noninfectious Orbital Inflammation (I) - Thyroid Eye Disease (TED).pdf"
+---
+
+# 7.4.4. Noninfectious Orbital Inflammation (I): Thyroid Eye Disease (TED)
+
+## Hierarchy
+
+- Introduction
+  - autoimmune inflammatory disorder
+  - clinical signs
+    - eyelid retraction
+    - von graefe sign (lid lag)
+    - proptosis
+    - restrictive extraocular myopathy
+    - compressive optic neuropathy
+    - exposure keratopathy
+    - conjunctival erythema and chemosis
+  - thyroid dysfunction
+    - typically associated with graves hyperthyroidism
+    - Hashimoto thyroiditis (immune-induced hypothyroidism)
+    - normal thyroid function
+  - course of eye disease does not necessarily parallel the activity of the thyroid gland or treatment of thyroid abnormalities
+  - essential points
+    - eyelid retraction is the most common clinical feature of TED (TED is the most common cause of eyelid retraction).
+    - TED is the most common cause of unilateral or bilateral proptosis.
+    - TED may be markedly asymmetric
+    - TED is associated with hyperthyroidism in 90% of patients, but 6% of patients may be euthyroid
+    - severity of TED usually does not parallel serum levels of T4 or T3
+    - TED is 6 times as common in women as in men
+    - smoking is associated with increased risk and severity of TED
+    - urgent care may be required for optic neuropathy or severe proptosis with corneal decompensation
+    - if surgery is needed, the usual order is orbital decompression, followed by strabismus surgery, followed by eyelid retraction repair
+- diagnosis
+  - requires presence of 2 of the following 3 signs
+    - concurrent or recently treated immune-related thyroid dysfunction
+      - graves hyperthyroidism
+      - hashimoto thyroiditis
+      - circulating thyroid antibodies without a coexisting dysthyroid state
+        - thyroid-stimulating hormone–receptor (TSH-R) antibodies
+        - thyroid-binding inhibitory immunoglobulins
+        - thyroid-stimulating immunoglobulins
+        - antimicrosomal antibody
+    - typical ocular signs (≥1 of the following)
+      - unilateral or bilateral eyelid retraction with typical temporal flare
+        - ± lagophthalmos
+      - unilateral or bilateral proptosis
+        - comparison with patient’s old photos
+      - restrictive strabismus in a typical pattern
+      - compressive optic neuropathy
+      - fluctuating eyelid edema and/or erythema
+      - chemosis and/or caruncular edema
+    - radiographic evidence of TED
+      - unilateral or bilateral fusiform enlargement of one or more of the following
+        - inferior rectus muscle
+        - medial rectus muscle
+        - superior rectus and/or levator muscle complex
+        - lateral rectus muscle
+  - if only orbital signs are present, the patient should be observed for other orbital diseases and for future development of a dysthyroid state
+- treatment and prognosis
+  - self-limiting
+    - active disease lasts ≈
+      - 1 year in nonsmokers
+      - 2-3 years in smokers
+    - quiescent burnt-out phase
+    - lifetime risk of reactivation
+      - 5%–10%
+  - stepwise and graded approach
+  - mild-moderate TED
+    - most patients require only supportive care
+    - topical ocular lubricants
+    - lifestyle changes
+      - eating a reduced-salt diet
+        - limits water retention and orbital edema
+      - sleeping with the head of the bed elevated
+        - reduces fluid retention within the orbit
+      - wearing wraparound sunglasses
+        - relieves symptoms of dry eye and photophobia
+    - topical cyclosporine
+      - reduce ocular surface irritation
+    - temporary prism lenses
+      - to relieve diplopia
+  - severe TED
+    - decrease orbital congestion and inflammation
+      - periocular corticosteroids
+      - systemic corticosteroids
+        - indications
+          - acute-phase TED with compressive optic neuropathy
+          - flare-ups deemed clinically significant based on scoring systems
+        - IV corticosteroids
+          - monitor hepatic function
+            - association with fatal hepatotoxicity !
+          - starting dose = 500 mg to 1 g methylprednisolone weekly
+            - x 6–12 weeks
+        - oral corticosteroids
+          - starting dose = 1 mg/kg of prednisone
+            - x 2–4 weeks
+        - effective at reversing optic nerve compression
+          - dose is reduced as rapidly as possible based on the clinical response of optic nerve function
+        - poorly tolerated
+          - limited long-term use!
+        - adjunctive use of orbital radiotherapy
+          - 2000 cGy
+          - temporary lymphocyte sterilization
+          - terminal differentiation of fibroblasts
+          - killing of tissue-bound monocytes
+      - periocular radiotherapy
+    - expanding the orbital bony volume
+      - surgical orbital decompression
+  - establish euthyroid state
+    - antithyroid drugs
+    - radioactive iodine (RAI)
+      - TED can worsen after RAI treatment
+        - pathogenesis
+          - release of TSH-R antigens incites an enhanced immune response
+          - hypothyroidism occurring after RAI treatment stimulates TSH-R
+        - risk factors
+          - severe, active TED
+          - elevated T3 levels
+          - smoking
+        - prevention
+          - concurrent treatment with oral corticosteroids
+            - regular use of moderate-dose prednisone for 3 months (during which time the thyroid gland involutes) is not indicated for the average patient
+          - block-and-replace therapy with
+            - iodine 131
+            - methimazole
+            - thyroxine
+            - may prevent exacerbation of eye findings by limiting posttreatment TSH spikes
+    - thyroidectomy
+      - for severe TED (rapidly progressive and congestive, with compressive optic neuropathy)
+      - renders patient hypothyroid without extended antigen release
+      - alternative to RAI
+  - rituximab
+    - blocks the CD20 receptor on B lymphocytes
+      - reduces inflammation and proptosis
+    - recent cochrane review suggests that there is not currently enough evidence to support the use of rituximab in treating TED
+  - surgical treatment
+    - 20%
+    - eyelid retraction repair
+      - 13%
+      - levator recession
+      - müllerectomy
+      - extraocular muscle surgery may affect eyelid retraction
+        - strabismus surgery should precede eyelid surgery
+    - strabismus surgery
+      - 9%
+      - diplopia in primary gaze or reading position
+    - orbital decompression
+      - 7%
+      - indications
+        - optic neuropathy
+        - severe orbital congestion
+        - advanced proptosis
+        - to restore normal globe position in patients without sight-threatening ophthalmopathy
+      - in stable phase of disease
+      - preoperative review of the patient’s old photos
+      - preoperative CT scan
+        - determines the effectiveness of bone versus fat decompression surgery
+          - patients <40 years
+            - enlargement of orbital fat compartment
+          - patients >40 years
+            - more significant extraocular muscle enlargement
+      - orbital decompression may alter extraocular motility
+        - orbital surgery should precede strabismus surgery
+    - 2% required all 3 types of surgery
+    - risk factors for surgical intervention
+      - men
+      - older patients
+    - surgery should be delayed until
+      - euthyroid state has been maintained
+      - ophthalmic signs have been stable
+        - x 6–9 months
+          - unless urgent intervention is required to reverse vision loss due to compressive optic neuropathy or corneal exposure unresponsive to maximal medical measures
+  - prisms
+    - diplopia in primary gaze or reading position
+  - botulinum toxin
+    - to temporarily paralyze a tight extraocular muscle in restrictive strabismus
+    - to weaken the levator palpebrae superioris muscle to treat eyelid retraction
+  - orbital radiotherapy
+    - for treatment of compressive optic neuropathy
+    - literature lacks consensus on this topic
+    - carries the rare risk of exacerbating retinopathy
+      - particularly in patients with diabetes mellitus or other risk factors for ischemic retinopathy
+  - long-term follow-up
+    - vision loss from optic neuropathy was uncommon
+    - persistent diplopia usually could be treated with prism spectacles
+    - 50% of patients thought that their eyes looked abnormal
+    - 38% of patients were dissatisfied with the appearance of their eyes
+    - few patients experience long-term functional impairment from TED
+    - psychological and aesthetic sequelae of the disease are considerable
+- pathogenesis
+  - orbital fibroblasts
+    - primary target of inflammatory process associated with TED
+      - play an active role in modulating the inflammatory process
+    - express CD40 receptors
+      - generally found on B cells
+      - unlike fibroblasts from other parts of the body
+    - T-cell–bound CD154 upregulates several fibroblast proinflammatory genes
+      - IL-6
+      - IL-8
+      - prostaglandin E2
+      - synthesis of hyaluronan and glycosaminoglycan (GAG) is increased
+        - 100 X
+    - embryologically derived from the neural crest
+      - possess developmental plasticity
+        - capable of undergoing adipocyte differentiation
+          - fatty hypertrophy that predominates in some patients
+            - particularly those <40 years
+  - circulating autoantibodies (IgG)
+    - have been found in a majority of patients with Graves disease
+    - recognizes and activates the insulin-like growth factor I receptor expressed on the surface of numerous cell types, including fibroblasts
+    - stimulate orbital fibroblasts to secrete GAGs, cytokines, and chemoattractants
+      - orbital inflammation and congestion
+      - drugs acting on this pathway
+        - rituximab
+        - monoclonal antibodies against TNF-α
+          - infliximab
+          - adalimumab
+          - etanercept
+- epidemiology
+  - incidence rate
+    - F:M = 6:1
+      - 86% versus 14%
+      - women
+        - 16/ 100,000/ year
+      - men
+        - 3/ 100,000/ year
+  - peak incidence
+    - women
+      - 40–44 years
+      - 60–64 years
+    - men
+      - 45–49 years
+      - 65–69 years
+    - median age at diagnosis = 43 years (range, 8– 88 years)
+  - smoking
+    - 7x higher incidence
+- clinical features
+  - thyroid dysfunction
+    - Graves hyperthyroidism
+      - 90%
+    - euthyroid
+      - 6%
+    - Hashimoto thyroiditis
+      - 3%
+    - primary hypothyroidism
+      - 1%
+    - close temporal relationship between hyperthyroidism and onset of TED
+      - 20% at the same time
+      - 60% develop TED <1 year of thyroid dysfunction
+    - no thyroid dysfunction at diagnosis of TED
+      - 25% develop thyroid dysfunction <1 year
+      - 50% develop thyroid dysfunction <5 year
+    - TED is present or will develop in only ≈30% of patients with autoimmune hyperthyroidism
+  - symptoms
+    - dull, deep orbital pain or discomfort
+      - 30%
+        - most frequent ocular symptom
+    - lacrimation or photophobia
+      - 15%–20%
+    - diplopia
+      - 17%
+    - blurred vision
+      - 7%
+  - ophthalmic features can be unilateral or bilateral
+  - eyelid retraction
+    - 90%
+      - most common ophthalmic feature
+    - upper eyelid retraction
+      - 75%
+  - exophthalmos
+    - 60%
+  - lid lag in downgaze
+    - 50%
+  - restrictive extraocular myopathy
+    - 40%
+  - optic nerve dysfunction
+    - 5%
+  - only 5% have the complete constellation of classic findings
+    - eyelid retraction, exophthalmos, optic nerve dysfunction, extraocular muscle involvement, and hyperthyroidism
+  - pretibial myxedema
+    - 4%
+  - acropathy
+    - 1%
+  - decreased vision attributable to optic neuropathy
+    - <2% at diagnosis of ted
+  - myasthenia gravis
+    - 1%
+- associated with a poor prognosis for the orbitopathy
+- soft-tissue swelling and periosteal changes affecting the distal extremities, principally fingers and toes

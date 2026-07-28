@@ -1,0 +1,467 @@
+{
+  "label": "5.4.9. Patient With Decreased Vision: Optic Neuropathy (VIII): Posterior Optic Neuropathies (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Intraorbital or intracanalicular compressive optic neuropathy",
+      "children": [
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "monocular"
+            },
+            {
+              "label": "slowly progressive vision loss"
+            },
+            {
+              "label": "RAPD"
+            },
+            {
+              "label": "visual field loss (usually central or diffuse)"
+            },
+            {
+              "label": "associated signs of orbital disease",
+              "children": [
+                {
+                  "label": "eyelid edema"
+                },
+                {
+                  "label": "retraction"
+                },
+                {
+                  "label": "lag"
+                },
+                {
+                  "label": "ptosis"
+                },
+                {
+                  "label": "proptosis"
+                },
+                {
+                  "label": "ophthalmoplegia"
+                }
+              ]
+            },
+            {
+              "label": "optic disc",
+              "children": [
+                {
+                  "label": "normal or mildly atrophic at presentation"
+                },
+                {
+                  "label": "optic disc edema",
+                  "children": [
+                    {
+                      "label": "anterior orbital lesions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "± choroidal folds",
+              "children": [
+                {
+                  "label": "± optociliary shunt vessels (retinochoroidal collaterals)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "optic nerve sheath meningioma"
+            },
+            {
+              "label": "glioma"
+            },
+            {
+              "label": "cavernous hemangioma",
+              "children": [
+                {
+                  "label": "produces compressive optic neuropathy only occasionally"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "MRI",
+              "children": [
+                {
+                  "label": "particularly in differentiating meningioma from glioma"
+                },
+                {
+                  "label": "best for evaluating soft-tissue abnormalities in the orbit"
+                }
+              ]
+            },
+            {
+              "label": "thin-section CT scan",
+              "children": [
+                {
+                  "label": "preferred for evaluation of calcification and bony abnormalities"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Neuromyelitis optica (NMO)",
+      "children": [
+        {
+          "label": "\"Devic syndrome\""
+        },
+        {
+          "label": "diagnostic criteria",
+          "children": [
+            {
+              "label": "optic neuritis (unilateral or bilateral)",
+              "children": [
+                {
+                  "label": "simultaneously bilateral optic neuritis"
+                },
+                {
+                  "label": "episodes of myelitis and optic neuritis occur within weeks to months of each other",
+                  "children": [
+                    {
+                      "label": "may be separated by several years"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "myelitis"
+            },
+            {
+              "label": "≥2 of the following",
+              "children": [
+                {
+                  "label": "a contiguous spinal cord lesion on MRI involving 3 or more vertebral segments"
+                },
+                {
+                  "label": "a brain MRI scan nondiagnostic for MS"
+                },
+                {
+                  "label": "a positive NMO-IgG serologic test result (autoantibody)",
+                  "children": [
+                    {
+                      "label": "76% sensitivity",
+                      "children": [
+                        {
+                          "label": "94% specificity"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "binds to aquaporin-4",
+                      "children": [
+                        {
+                          "label": "principal water channel protein expressed in astroglial foot processes",
+                          "children": [
+                            {
+                              "label": "involved in fluid homeostasis in the CNS"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "indications for NMO-IgG testing in patients with optic neuritis",
+                      "children": [
+                        {
+                          "label": "progressive vision loss for more than 2 weeks"
+                        },
+                        {
+                          "label": "lack of vision improvement by 1 month"
+                        },
+                        {
+                          "label": "recurrent optic neuritis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "99% sensitivity"
+            },
+            {
+              "label": "90% specificity"
+            }
+          ]
+        },
+        {
+          "label": "clinical course & prognosis",
+          "children": [
+            {
+              "label": "recurrent episodes of vision loss"
+            },
+            {
+              "label": "vision and neurologic prognoses in NMO are poorer than in MS",
+              "children": [
+                {
+                  "label": "severe visual impairment (<20/200) common in at least 1 eye"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "poorly responsive cases",
+              "children": [
+                {
+                  "label": "high-dose intravenous corticosteroids"
+                }
+              ]
+            },
+            {
+              "label": "immunosuppressive drugs",
+              "children": [
+                {
+                  "label": "azathioprine"
+                },
+                {
+                  "label": "mycophenolate"
+                },
+                {
+                  "label": "rituximab"
+                },
+                {
+                  "label": "reduce the risk of relapse"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Thyroid eye disease (TED)",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "extraocular muscle enlargement & orbital fat hypertrophy",
+              "children": [
+                {
+                  "label": "proptosis",
+                  "children": [
+                    {
+                      "label": "stretching of the optic nerve"
+                    }
+                  ]
+                },
+                {
+                  "label": "optic nerve compression at the orbital apex"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "signs",
+          "children": [
+            {
+              "label": "eyelid retraction"
+            },
+            {
+              "label": "eyelid lag"
+            },
+            {
+              "label": "eyelid and conjunctival edema"
+            },
+            {
+              "label": "proptosis"
+            },
+            {
+              "label": "vision loss",
+              "children": [
+                {
+                  "label": "slowly progressive"
+                }
+              ]
+            },
+            {
+              "label": "RAPD",
+              "children": [
+                {
+                  "label": "if optic neuropathy is asymmetric or unilateral"
+                }
+              ]
+            },
+            {
+              "label": "dyschromatopsia",
+              "children": [
+                {
+                  "label": "early sign of optic neuropathy"
+                }
+              ]
+            },
+            {
+              "label": "optic disc is commonly normal",
+              "children": [
+                {
+                  "label": "± edematous"
+                },
+                {
+                  "label": "optic atrophy in chronic cases"
+                }
+              ]
+            },
+            {
+              "label": "visual field loss",
+              "children": [
+                {
+                  "label": "central or diffuse depression"
+                }
+              ]
+            },
+            {
+              "label": "some patients present with only minimal orbital findings"
+            }
+          ]
+        },
+        {
+          "label": "treatment of acute optic neuropathy",
+          "children": [
+            {
+              "label": "systemic steroids",
+              "children": [
+                {
+                  "label": "reduce optic nerve compression"
+                },
+                {
+                  "label": "temporizing measure!"
+                }
+              ]
+            },
+            {
+              "label": "surgical decompression of the posterior orbit"
+            },
+            {
+              "label": "radiation therapy",
+              "children": [
+                {
+                  "label": "not indicated for acute optic neuropathy!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Optic perineuritis",
+      "children": [
+        {
+          "label": "generally older than optic neuritis",
+          "children": [
+            {
+              "label": "36% are >50 years"
+            }
+          ]
+        },
+        {
+          "label": "F>M"
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "inflammation of the optic nerve sheath",
+              "children": [
+                {
+                  "label": "in contrast to optic neuritis, pain persists until treated"
+                }
+              ]
+            },
+            {
+              "label": "acute painful vision loss",
+              "children": [
+                {
+                  "label": "in contrast to optic neuritis, vision loss progresses over several weeks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "orbital MRI",
+          "children": [
+            {
+              "label": "enhancement of the dural sheath rather than the optic nerve itself",
+              "children": [
+                {
+                  "label": "can appear similar to optic nerve sheath meningioma",
+                  "children": [
+                    {
+                      "label": "pain helps differentiate optic perineuritis from optic nerve sheath meningioma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical course & prognosis",
+          "children": [
+            {
+              "label": "in contrast to optic neuritis, not associated with increased risk of demyelinating disease"
+            },
+            {
+              "label": "progressive vision loss without treatment"
+            },
+            {
+              "label": "relapses are common with short courses of treatment"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "respond immediately and dramatically to corticosteroid treatment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "most often bilateral"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.4.9. Patient With Decreased Vision - Optic Neuropathy (VIII) - Posterior Optic Neuropathies (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 207,
+      "connector_rejected": 2,
+      "connector_edges": 152,
+      "connector_width": 0.833,
+      "text_labels": 116,
+      "tree_nodes": 116,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.7343,
+      "root_font_size": 3.125,
+      "warnings": []
+    }
+  }
+}

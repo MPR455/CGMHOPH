@@ -1,0 +1,481 @@
+{
+  "label": "4.9.1. Lens (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Topography",
+      "children": [
+        {
+          "label": "size",
+          "children": [
+            {
+              "label": "diameter = 9-10 mm"
+            },
+            {
+              "label": "thickness = 5 mm"
+            }
+          ]
+        },
+        {
+          "label": "embryology",
+          "children": [
+            {
+              "label": "from surface ectoderm"
+            }
+          ]
+        },
+        {
+          "label": "Capsule",
+          "children": [
+            {
+              "label": "thick basement membrane",
+              "children": [
+                {
+                  "label": "type IV collagen fibers"
+                }
+              ]
+            },
+            {
+              "label": "thickest",
+              "children": [
+                {
+                  "label": "anteriorly = 12-21 micron"
+                },
+                {
+                  "label": "peripherally"
+                }
+              ]
+            },
+            {
+              "label": "thinnest posteriorly = 2-9 micron"
+            }
+          ]
+        },
+        {
+          "label": "Epithelium",
+          "children": [
+            {
+              "label": "from original lens vesicle"
+            },
+            {
+              "label": "anterior",
+              "children": [
+                {
+                  "label": "single layer of cuboidal cells"
+                },
+                {
+                  "label": "base toward anterior lens capsule"
+                }
+              ]
+            },
+            {
+              "label": "equatorial",
+              "children": [
+                {
+                  "label": "mitotically active"
+                },
+                {
+                  "label": "more elongated"
+                },
+                {
+                  "label": "differentiate into lens fibers",
+                  "children": [
+                    {
+                      "label": "equatorial lens bow"
+                    }
+                  ]
+                },
+                {
+                  "label": "no epithelial cells posterior to equator"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Cortex & nucleus",
+          "children": [
+            {
+              "label": "center of the lens",
+              "children": [
+                {
+                  "label": "embryonic/fetal lens fibers"
+                }
+              ]
+            },
+            {
+              "label": "equatorial lens bow",
+              "children": [
+                {
+                  "label": "epithelial cells",
+                  "children": [
+                    {
+                      "label": "move centrally"
+                    },
+                    {
+                      "label": "elongate"
+                    },
+                    {
+                      "label": "acquire crystallins"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Zonular fibers",
+          "children": [
+            {
+              "label": "attach to anterior and posterior lens capsule",
+              "children": [
+                {
+                  "label": "lose organelles"
+                }
+              ]
+            },
+            {
+              "label": "attach to ciliary processes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Inflammations",
+      "children": [
+        {
+          "label": "Phacoantigenic uveitis",
+          "children": [
+            {
+              "label": "also known as",
+              "children": [
+                {
+                  "label": "phacoanaphylactic endophthalmitis"
+                },
+                {
+                  "label": "lens-induced granulomatous endophthalmitis"
+                }
+              ]
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "accidental/surgical lens trauma"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "central nidus of lens material"
+                },
+                {
+                  "label": "zonal granuloma",
+                  "children": [
+                    {
+                      "label": "inner: multinucleated giant cells & neutrophils"
+                    },
+                    {
+                      "label": "middle: lymphocytes & plasma cells"
+                    },
+                    {
+                      "label": "outer: fibrovascular connective tissue"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Phacolytic glaucoma"
+        },
+        {
+          "label": "Propionibacterium acnes endophthalmitis",
+          "children": [
+            {
+              "label": "following cataract surgery",
+              "children": [
+                {
+                  "label": "2 mo - 2 years"
+                },
+                {
+                  "label": "after nd:YAG laser capsulotomy"
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "granulomatous keratic precipitates"
+                },
+                {
+                  "label": "small hypopyon"
+                },
+                {
+                  "label": "vitritis"
+                },
+                {
+                  "label": "white plaque within the capsular bag",
+                  "children": [
+                    {
+                      "label": "bacteria",
+                      "children": [
+                        {
+                          "label": "gram-positive pleomorphic rod"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "residual lens material"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congenital anomalies",
+      "children": [
+        {
+          "label": "Congenital aphakia",
+          "children": [
+            {
+              "label": "primary",
+              "children": [
+                {
+                  "label": "failed induction of surface ectoderm"
+                },
+                {
+                  "label": "PAX6 gene mutations"
+                },
+                {
+                  "label": "severe ocular and systemic developmental anomalies"
+                }
+              ]
+            },
+            {
+              "label": "secondary",
+              "children": [
+                {
+                  "label": "resorption/extrusion of lens before or during birth"
+                },
+                {
+                  "label": "congenital infections",
+                  "children": [
+                    {
+                      "label": "congenital rubella"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Lens coloboma",
+          "children": [
+            {
+              "label": "notch in the lens"
+            },
+            {
+              "label": "inferonasal location"
+            },
+            {
+              "label": "associated with ciliary body coloboma"
+            },
+            {
+              "label": "abnormal development of zonular fibers"
+            }
+          ]
+        },
+        {
+          "label": "Anterior lenticonus (lentiglobus)",
+          "children": [
+            {
+              "label": "usually bilateral",
+              "children": [
+                {
+                  "label": "Alport syndrome",
+                  "children": [
+                    {
+                      "label": "autosomal dominant"
+                    },
+                    {
+                      "label": "mutation in type IV collagen"
+                    },
+                    {
+                      "label": "clinical findings",
+                      "children": [
+                        {
+                          "label": "hemorrhagic nephritis"
+                        },
+                        {
+                          "label": "retinal flecks",
+                          "children": [
+                            {
+                              "label": "deafness"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "retinal/iris neovascularization"
+                        },
+                        {
+                          "label": "anterior polar cataract"
+                        },
+                        {
+                          "label": "anterior lenticonus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "oil droplet red reflex"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "abnormal type IV collagen",
+                  "children": [
+                    {
+                      "label": "thinning/dehiscence of anterior lens capsule",
+                      "children": [
+                        {
+                          "label": "bulging of anterior lens cortex"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "decreased number of anterior lens epithelial cells"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Posterior lenticonus (Lentiglobus)",
+          "children": [
+            {
+              "label": "more common than anterior lenticonus",
+              "children": [
+                {
+                  "label": "sporadic"
+                }
+              ]
+            },
+            {
+              "label": "usually unilateral"
+            },
+            {
+              "label": "+- bilateral",
+              "children": [
+                {
+                  "label": "systemic associations",
+                  "children": [
+                    {
+                      "label": "Alport syndrome"
+                    },
+                    {
+                      "label": "oculocerebrorenal syndrome of Lowe",
+                      "children": [
+                        {
+                          "label": "x-linked"
+                        },
+                        {
+                          "label": "systemic acidosis"
+                        },
+                        {
+                          "label": "renal rickets"
+                        },
+                        {
+                          "label": "hypotonia"
+                        },
+                        {
+                          "label": "congenital cataract",
+                          "children": [
+                            {
+                              "label": "focal, internally directed excrescences of lens capsule"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "microspherophakia"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "congenital cataract",
+                  "children": [
+                    {
+                      "label": "oil droplet red reflex"
+                    }
+                  ]
+                },
+                {
+                  "label": "rare",
+                  "children": [
+                    {
+                      "label": "microphthalmos"
+                    },
+                    {
+                      "label": "microcornea"
+                    },
+                    {
+                      "label": "uveal coloboma"
+                    },
+                    {
+                      "label": "persistent anterior hyaloid vasculature"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "unlike anterior lenticonus"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.9.1. Lens (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 242,
+      "connector_rejected": 10,
+      "connector_edges": 157,
+      "connector_width": 1.156,
+      "text_labels": 120,
+      "tree_nodes": 120,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6488,
+      "root_font_size": 3.854,
+      "warnings": []
+    }
+  }
+}

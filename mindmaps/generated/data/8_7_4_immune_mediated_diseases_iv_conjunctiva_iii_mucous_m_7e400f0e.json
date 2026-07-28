@@ -1,0 +1,636 @@
+{
+  "label": "8.7.4. Immune-mediated diseases (IV): Conjunctiva (III): Mucous Membrane Pemphigoid (MMP)",
+  "root": true,
+  "children": [
+    {
+      "label": "SJS is primarily type III",
+      "children": [
+        {
+          "label": "atopic keratoconjunctivitis is primarily type IV"
+        }
+      ]
+    },
+    {
+      "label": "induces expression of"
+    },
+    {
+      "label": "pathogenesis",
+      "children": [
+        {
+          "label": "cytotoxic (type II) hypersensitivity",
+          "children": [
+            {
+              "label": "autoantibodies directed against a cell surface antigen in the basement membrane zone (bmz)",
+              "children": [
+                {
+                  "label": "bullous pemphigoid antigen II"
+                },
+                {
+                  "label": "antibody activates complement",
+                  "children": [
+                    {
+                      "label": "membrane breakdown"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "proinflammatory cytokines",
+          "children": [
+            {
+              "label": "IL-1"
+            },
+            {
+              "label": "tumor necrosis factor α",
+              "children": [
+                {
+                  "label": "migration inhibition factor"
+                }
+              ]
+            },
+            {
+              "label": "macrophage colony-stimulating factor",
+              "children": [
+                {
+                  "label": "HLA typing is not useful!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cellular immunity",
+          "children": [
+            {
+              "label": "HLA-DR4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "differential diagnosis of cicatrizing conjunctivitis",
+      "children": [
+        {
+          "label": "infectious",
+          "children": [
+            {
+              "label": "trachoma"
+            },
+            {
+              "label": "adenovirus"
+            },
+            {
+              "label": "corynebacterium diphtheriae"
+            },
+            {
+              "label": "streptococcal conjunctivitis"
+            }
+          ]
+        },
+        {
+          "label": "allergic",
+          "children": [
+            {
+              "label": "atopic keratoconjunctivitis"
+            },
+            {
+              "label": "Stevens-Johnson syndrome"
+            }
+          ]
+        },
+        {
+          "label": "autoimmune",
+          "children": [
+            {
+              "label": "mucous membrane pemphigoid"
+            },
+            {
+              "label": "sarcoidosis"
+            },
+            {
+              "label": "lupus"
+            },
+            {
+              "label": "scleroderma"
+            },
+            {
+              "label": "lichen planus"
+            },
+            {
+              "label": "graft-vs-host disease"
+            }
+          ]
+        },
+        {
+          "label": "miscellaneous",
+          "children": [
+            {
+              "label": "rosacea"
+            },
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "chemical burn"
+            },
+            {
+              "label": "radiation"
+            },
+            {
+              "label": "neoplasia"
+            },
+            {
+              "label": "medicamentosa"
+            }
+          ]
+        },
+        {
+          "label": "linear IgA dermatosis",
+          "children": [
+            {
+              "label": "can result in an ocular syndrome that is clinically identical to MMP"
+            }
+          ]
+        },
+        {
+          "label": "diagnosis of unilateral MMP should be made with caution"
+        }
+      ]
+    },
+    {
+      "label": "pseudopemphigoid",
+      "children": [
+        {
+          "label": "long-term use of certain topical ophthalmic medications",
+          "children": [
+            {
+              "label": "pilocarpine"
+            },
+            {
+              "label": "echothiophate iodide"
+            },
+            {
+              "label": "demecarium bromide"
+            },
+            {
+              "label": "epinephrine"
+            },
+            {
+              "label": "timolol"
+            },
+            {
+              "label": "idoxuridine"
+            }
+          ]
+        },
+        {
+          "label": "progression ceases once the offending agent is recognized and removed"
+        }
+      ]
+    },
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "F>M"
+        },
+        {
+          "label": "usually >60 years",
+          "children": [
+            {
+              "label": "rarely younger than 30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "laboratory evaluation",
+      "children": [
+        {
+          "label": "conjunctival biopsy",
+          "children": [
+            {
+              "label": "direct immunofluorescent staining"
+            },
+            {
+              "label": "immunoperoxidase staining"
+            },
+            {
+              "label": "immunohistochemical staining",
+              "children": [
+                {
+                  "label": "complement 3"
+                },
+                {
+                  "label": "IgG"
+                },
+                {
+                  "label": "IgM"
+                },
+                {
+                  "label": "IgA"
+                },
+                {
+                  "label": "in the BMZ of the conjunctiva"
+                }
+              ]
+            },
+            {
+              "label": "false-negative results are not uncommon",
+              "children": [
+                {
+                  "label": "from an actively affected area"
+                },
+                {
+                  "label": "if involvement is diffuse, from the inferior fornix"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "oral mucosal biopsies"
+        },
+        {
+          "label": "circulating anti–basement membrane antibody",
+          "children": [
+            {
+              "label": "may be negative in end-stage disease"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "mucous membranes",
+          "children": [
+            {
+              "label": "conjunctiva"
+            },
+            {
+              "label": "mouth and oropharynx",
+              "children": [
+                {
+                  "label": "difficulty swallowing"
+                },
+                {
+                  "label": "oral mucosal lesions may be a clue that can lead to early diagnosis"
+                }
+              ]
+            },
+            {
+              "label": "genitalia"
+            },
+            {
+              "label": "anus"
+            }
+          ]
+        },
+        {
+          "label": "skin",
+          "children": [
+            {
+              "label": "15%"
+            }
+          ]
+        },
+        {
+          "label": "recurrent attacks of mild and nonspecific conjunctival inflammation",
+          "children": [
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "conjunctival hyperemia",
+              "children": [
+                {
+                  "label": "chronic red eye"
+                }
+              ]
+            },
+            {
+              "label": "edema"
+            },
+            {
+              "label": "ulceration"
+            },
+            {
+              "label": "tear dysfunction"
+            },
+            {
+              "label": "occasional mucopurulent discharge"
+            },
+            {
+              "label": "transient bullae of the conjunctiva"
+            }
+          ]
+        },
+        {
+          "label": "stage I",
+          "children": [
+            {
+              "label": "subepithelial fibrosis",
+              "children": [
+                {
+                  "label": "fine gray-white linear opacities"
+                },
+                {
+                  "label": "best seen with an intense but thin slit beam"
+                },
+                {
+                  "label": "deep conjunctiva"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "stage II",
+          "children": [
+            {
+              "label": "shortening of the fornices",
+              "children": [
+                {
+                  "label": "inferior forniceal depth < 8 mm",
+                  "children": [
+                    {
+                      "label": "should prompt further evaluation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "stage III",
+          "children": [
+            {
+              "label": "symblepharon formation",
+              "children": [
+                {
+                  "label": "subtle inferior symblephara",
+                  "children": [
+                    {
+                      "label": "lower eyelid is pulled down while the patient looks up"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "stage IV",
+          "children": [
+            {
+              "label": "restricted ocular motility with extensive adhesions between the eyelid and the globe"
+            }
+          ]
+        },
+        {
+          "label": "chronic cicatrizing conjunctivitis",
+          "children": [
+            {
+              "label": "loss of goblet cells"
+            },
+            {
+              "label": "obstruction of the lacrimal gland ductules"
+            },
+            {
+              "label": "keratinization/epidermalization of the conjunctiva"
+            },
+            {
+              "label": "entropion"
+            },
+            {
+              "label": "trichiasis"
+            },
+            {
+              "label": "corneal changes",
+              "children": [
+                {
+                  "label": "abrasion"
+                },
+                {
+                  "label": "vascularization"
+                },
+                {
+                  "label": "ulceration"
+                },
+                {
+                  "label": "scarring"
+                }
+              ]
+            },
+            {
+              "label": "aqueous and mucous tear deficiency"
+            }
+          ]
+        },
+        {
+          "label": "remissions and exacerbations are common",
+          "children": [
+            {
+              "label": "surgical intervention can incite further scarring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "management",
+      "children": [
+        {
+          "label": "multidisciplinary approach"
+        },
+        {
+          "label": "high-risk",
+          "children": [
+            {
+              "label": "criteria",
+              "children": [
+                {
+                  "label": "ocular, genital, nasopharyngeal, esophageal, and laryngeal mucosae"
+                },
+                {
+                  "label": "rapidly progressing disease"
+                }
+              ]
+            },
+            {
+              "label": "mild disease",
+              "children": [
+                {
+                  "label": "dapsone",
+                  "children": [
+                    {
+                      "label": "initial drug of choice in mild cases",
+                      "children": [
+                        {
+                          "label": "may cause hemolytic anemia"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "avoid in patients with",
+                      "children": [
+                        {
+                          "label": "glucose-6-phosphate dehydrogenase (g6pd) deficiency",
+                          "children": [
+                            {
+                              "label": "test for g6pd deficiency"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "sulfa allergy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "severe disease",
+              "children": [
+                {
+                  "label": "cyclophosphamide",
+                  "children": [
+                    {
+                      "label": "mainstay of therapy in severe disease"
+                    },
+                    {
+                      "label": "1.5–2.0 mg/kg per day in divided doses"
+                    },
+                    {
+                      "label": "target white blood cell count of 2000–3000 cells/μl"
+                    }
+                  ]
+                },
+                {
+                  "label": "azathioprine"
+                }
+              ]
+            },
+            {
+              "label": "patients not responding to conventional therapies",
+              "children": [
+                {
+                  "label": "intravenous immunoglobulin"
+                },
+                {
+                  "label": "biologic agents",
+                  "children": [
+                    {
+                      "label": "rituximab"
+                    },
+                    {
+                      "label": "infliximab"
+                    },
+                    {
+                      "label": "etanercept"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "low-risk",
+          "children": [
+            {
+              "label": "much lower incidence of scarring"
+            },
+            {
+              "label": "progression is often slow"
+            },
+            {
+              "label": "topical vitamin A"
+            }
+          ]
+        },
+        {
+          "label": "surgical correction of eyelid deformities"
+        },
+        {
+          "label": "eyelash ablation for trichiasis"
+        },
+        {
+          "label": "hard palate and buccal mucosal grafting",
+          "children": [
+            {
+              "label": "fornix reconstruction in severe cases"
+            },
+            {
+              "label": "higher rate of spontaneous extrusion of silicone punctal plugs",
+              "children": [
+                {
+                  "label": "intraocular surgery is best delayed until disease activity has been under control for an extended period"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "dry eye",
+          "children": [
+            {
+              "label": "punctal occlusion"
+            },
+            {
+              "label": "permanent punctal occlusion with cautery"
+            }
+          ]
+        },
+        {
+          "label": "standard PK",
+          "children": [
+            {
+              "label": "very guarded prognosis"
+            }
+          ]
+        },
+        {
+          "label": "boston keratoprosthesis"
+        }
+      ]
+    },
+    {
+      "label": "criteria",
+      "children": [
+        {
+          "label": "disease occurring only in the oral mucosa or oral mucosa and skin"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.7.4. Immune-mediated diseases (IV) - Conjunctiva (III) - Mucous Membrane Pemphigoid (MMP).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 279,
+      "connector_rejected": 5,
+      "connector_edges": 207,
+      "connector_width": 1.317,
+      "text_labels": 165,
+      "tree_nodes": 165,
+      "component_roots": 9,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.7419,
+      "root_font_size": 3.733,
+      "warnings": []
+    }
+  }
+}

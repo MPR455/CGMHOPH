@@ -1,0 +1,174 @@
+---
+title: "6.12.3. Special Forms of Strabismus (III)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.12.3. Special Forms of Strabismus (III).pdf"
+---
+
+# 6.12.3. Special Forms of Strabismus (III)
+
+## Hierarchy
+
+- Brown Syndrome
+  - introduction
+    - restriction of elevation in adduction
+    - pathogenesis
+      - abnormalities of the superior oblique tendon– trochlea complex
+      - structural problems remote from superior oblique tendon, including instability of lateral rectus pulley, can present an identical clinical picture
+        - pseudo–Brown syndrome
+    - types
+      - congenital
+        - most cases
+      - acquired
+        - trauma in region of trochlea
+        - iatrogenic causes
+          - scleral buckles
+          - glaucoma drainage devices
+        - orbital tumors
+        - systemic inflammatory conditions
+          - often result in intermittent Brown syndrome
+            - may resolve spontaneously
+        - sinusitis
+          - patients with acute-onset presentation of Brown syndrome of undetermined cause should undergo imaging of the orbits and paranasal sinuses
+    - bilateral in ≈ 10%
+    - spontaneous improvement in 75%
+      - often over many years
+  - clinical features
+    - deficient elevation in adduction
+      - improves in abduction but often not completely
+    - positive forced-duction test demonstrating restricted passive elevation in adduction is essential for diagnosis
+      - retropulsion of globe during this test stretches the superior oblique tendon and accentuates the restriction
+        - in restrictions involving inferior rectus muscle the limitation of passive elevation is accentuated by forceps-induced proptosis of the eye rather than by retropulsion
+    - attempts at elevation straight upward usually cause divergence (V pattern)
+      - inferior oblique muscle paralysis usually exhibits an A pattern
+    - widening of palpebral fissure in adduction
+    - hypotropia in primary position
+      - in severe cases
+        - unlike Duane retraction syndrome
+      - chin-up head posture or head turn away from affected eye
+    - downshoot of involved eye on gaze to opposite side (overdepression in adduction)
+      - in severe cases
+      - in true superior oblique muscle overaction downshoot occurs less abruptly as adduction is increased
+  - management
+    - mild congenital cases
+      - observation
+    - cases secondary to rheumatoid arthritis or other systemic inflammatory diseases
+      - systemic treatment of underlying disease
+      - corticosteroids injection near trochlea
+    - more severe congenital cases
+      - ipsilateral superior oblique tenotomy nasal to the superior rectus muscle
+        - complications
+          - iatrogenic superior oblique muscle paresis
+            - prevention
+              - careful handling of intermuscular septum
+              - avoidance of complete tenotomy as a sole procedure
+                - insertion of an inert spacer or suture between the cut ends of the superior oblique tendon
+                - Z-plasty of tendon on the medial side
+                - partial (80%) tenectomy of the posterior portion of the tendon on the temporal side
+              - some surgeons perform simultaneous ipsilateral inferior oblique muscle weakening
+          - downgaze restriction due to adhesions
+            - repair the intermuscular septum to prevent contact of spacer or suture with nearby structures
+- Thyroid Eye Disease
+  - introduction
+    - lymphocytic infiltration of the EOMs
+      - Edema
+      - inflammation
+      - fibrosis
+      - restrict motility
+    - thyroid-stimulating immunoglobulins (TSIs) mediate thyroid eye disease
+    - some patients also have myasthenia gravis
+    - association between severity of thyroid eye disease and smoking
+      - hazard ratio for strabismus surgery is ≈ double in patients with thyroid disease who smoke
+  - clinical features
+    - inferior rectus>medial rectus>superior rectus>lateral rectus
+      - hypotropia
+        - common cause of acquired vertical deviation in adults
+          - especially women
+          - rare in children
+      - esotropia
+    - most often bilateral
+      - often asymmetric
+    - positive forced-duction test
+    - upper eyelid retraction
+    - proptosis
+  - management
+    - botulinum toxin
+      - may reduce the severity of fibrosis when injected into tight muscles in the acute phase
+    - prisms
+      - may alleviate diplopia
+    - indications for strabismus surgery
+      - diplopia
+      - abnormal head position
+    - surgery rarely restores normal motility
+    - 1/2 patients who had surgery before stability was achieved required further surgery
+    - recession of the affected tight muscles in 1 or both eyes is the preferred surgical treatment
+      - slight initial undercorrection is desirable
+        - late progressive overcorrection is common, especially with large inferior rectus muscle recessions
+    - strengthening procedures usually worsen restriction
+      - unlike XT repair
+    - adjustable sutures can be helpful in these difficult cases
+    - limited depression of the eyes after inferior rectus muscle recessions can interfere with patients’ bifocal use
+    - proptosis can become worse after EOM recessions
+    - postpone strabismus surgery until decompression has been accomplished
+    - perform surgery after strabismus measurements and thyroid function tests have been stable for ≥6-12 months
+    - postpone eyelid surgery until the strabismus is treated
+      - upper eyelid retraction may improve once the patient no longer strains to elevate the eye
+    - large recessions of very tight inferior rectus muscles can cause lower eyelid retraction
+      - severe lower eyelid retractors as part of strabismus surgery
+      - place spacer of banked sclera or synthetic material to vertically lengthen lower eyelid tarsus
+- Third Nerve Palsy
+  - etiology
+    - children
+      - congenital
+        - 40%–50%
+      - trauma
+      - inflammation
+      - viral infection
+      - ophthalmoplegic migraine
+      - after vaccination
+      - neoplastic lesion
+    - adults
+      - intracranial aneurysm
+      - microvascular infarction
+      - inflammation
+      - trauma
+      - infection
+      - tumor
+  - clinical features
+    - ischemic (microvascular) causes
+      - ± pupil-sparing
+    - compressive lesions
+      - cause mydriasis
+    - complete paralysis
+      - limited adduction, elevation, and depression of the eye
+        - causing exotropia and often hypotropia
+        - adults report incapacitating diplopia
+          - incidence of diplopia in patients <8 years is low
+        - amblyopia is common in children
+      - upper eyelid ptosis
+        - often with pseudoptosis
+    - misdirection (aberrant regeneration) of the damaged nerve
+      - anomalous eyelid elevation, pupil constriction, or vertical excursion of the globe
+      - on attempted rotation into field of action of EOMs supplied by injured nerve
+    - miotic pupil sometimes seen in congenital cases
+  - management
+    - wait ≥6 months (even up to 12 months) for spontaneous recovery
+      - except in congenital cases
+    - patients with at least partial recovery have much better functional and cosmetic results
+    - prism adaptation testing
+      - adult patients who can achieve single binocular vision with prisms of any power before surgery are most likely to do well
+    - goal of surgery
+      - adequate alignment for binocular function in primary position and in slight downgaze for reading
+    - incomplete paralysis
+      - large recession-resection of the horizontal rectus muscles to correct the exodeviation
+      - supraplacement of both to correct the hypotropia
+    - complete paralysis
+      - large lateral rectus muscle recession + fixation of the globe to nasal orbital periosteum
+      - disinsertion of lateral rectus muscle and reattachment to lateral orbital periosteum can maximize muscle inactivation
+    - hypotropia
+      - concurrent superior oblique tenotomy
+      - transfer of superior oblique tendon to upper nasal quadrant of globe
+        - anomalous eye movements can result from this procedure
+    - reserve correction of ptosis for a subsequent procedure
+- Sixth Nerve Palsy
+  - less common in children than in adults

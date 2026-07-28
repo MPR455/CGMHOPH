@@ -1,0 +1,678 @@
+{
+  "label": "9.7.18. Infectious Ocular Inflammatory Diseases (XVIII): Bacterial Uveitis (III): Lyme Disease (LD)",
+  "root": true,
+  "children": [
+    {
+      "label": "Epidemiology",
+      "children": [
+        {
+          "label": "most common tick-borne illness in the United States"
+        },
+        {
+          "label": "spirochete Borrelia burgdorferi"
+        },
+        {
+          "label": "animal reservoirs",
+          "children": [
+            {
+              "label": "deer"
+            },
+            {
+              "label": "horses"
+            },
+            {
+              "label": "cows"
+            },
+            {
+              "label": "rodents"
+            },
+            {
+              "label": "birds"
+            },
+            {
+              "label": "cats"
+            },
+            {
+              "label": "dogs"
+            }
+          ]
+        },
+        {
+          "label": "transmitted to humans through the bite of infected ticks",
+          "children": [
+            {
+              "label": "Ixodes scapularis",
+              "children": [
+                {
+                  "label": "northeast, mid-Atlantic, and midwestern United State"
+                }
+              ]
+            },
+            {
+              "label": "I pacificus",
+              "children": [
+                {
+                  "label": "western United States"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "2011: 10.8 cases per 100,000 persons per year"
+        },
+        {
+          "label": "M (53%)>F (47%)"
+        },
+        {
+          "label": "bimodal distribution",
+          "children": [
+            {
+              "label": "children aged 5–14 years"
+            },
+            {
+              "label": "adults aged 50–59 years"
+            }
+          ]
+        },
+        {
+          "label": "whites>other races"
+        },
+        {
+          "label": "seasonal variation",
+          "children": [
+            {
+              "label": "May - August"
+            }
+          ]
+        },
+        {
+          "label": "worldwide distribution",
+          "children": [
+            {
+              "label": "caused by different species of Borrelia outside United States"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ocular disease",
+      "children": [
+        {
+          "label": "stage 1",
+          "children": [
+            {
+              "label": "follicular conjunctivitis",
+              "children": [
+                {
+                  "label": "11%",
+                  "children": [
+                    {
+                      "label": "most common ocular manifestation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "episcleritis"
+            }
+          ]
+        },
+        {
+          "label": "stage 2",
+          "children": [
+            {
+              "label": "intraocular inflammatory disease",
+              "children": [
+                {
+                  "label": "anterior uveitis",
+                  "children": [
+                    {
+                      "label": "granulomatous anterior chamber reaction"
+                    }
+                  ]
+                },
+                {
+                  "label": "intermediate uveitis",
+                  "children": [
+                    {
+                      "label": "vitritis",
+                      "children": [
+                        {
+                          "label": "one of the most common intraocular presentations"
+                        },
+                        {
+                          "label": "may be severe"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "posterior uveitis",
+                  "children": [
+                    {
+                      "label": "choroiditis"
+                    },
+                    {
+                      "label": "peripheral multifocal choroiditis",
+                      "children": [
+                        {
+                          "label": "multiple, small, round, punched-out lesions",
+                          "children": [
+                            {
+                              "label": "similar to sarcoidosis"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "associated with vitritis"
+                        },
+                        {
+                          "label": "RPE clumping",
+                          "children": [
+                            {
+                              "label": "resembling the inflammatory changes that occur with syphilis or rubella"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "retinal vasculitis",
+                      "children": [
+                        {
+                          "label": "vasculitic branch retinal vein occlusion"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "papillitis",
+                      "children": [
+                        {
+                          "label": "neuroretinitis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "exudative retinal detachment"
+                    }
+                  ]
+                },
+                {
+                  "label": "panuveitis"
+                }
+              ]
+            },
+            {
+              "label": "neuro-ophthalmic manifestations",
+              "children": [
+                {
+                  "label": "unilaterally or bilaterally"
+                },
+                {
+                  "label": "sequentially or simultaneously"
+                },
+                {
+                  "label": "involvement of multiple cranial nerves (II, III, IV, V, VI, and, most commonly, VII)"
+                },
+                {
+                  "label": "optic nerve findings",
+                  "children": [
+                    {
+                      "label": "optic neuritis"
+                    },
+                    {
+                      "label": "papillitis"
+                    },
+                    {
+                      "label": "papilledema associated with meningitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "Horner syndrome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "stage 3",
+          "children": [
+            {
+              "label": "keratitis",
+              "children": [
+                {
+                  "label": "months-years after the onset of infection",
+                  "children": [
+                    {
+                      "label": "most common ocular manifestation of stage 3"
+                    }
+                  ]
+                },
+                {
+                  "label": "immune phenomenon",
+                  "children": [
+                    {
+                      "label": "responds to topical corticosteroids alone"
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical presentation",
+                  "children": [
+                    {
+                      "label": "bilateral, patchy, focal, and stromal"
+                    },
+                    {
+                      "label": "subepithelial infiltrates with indistinct borders"
+                    },
+                    {
+                      "label": "peripheral keratitis with stromal edema"
+                    },
+                    {
+                      "label": "corneal neovascularization"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "episcleritis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "several weeks-4 months"
+    },
+    {
+      "label": "Systemic manifestations",
+      "children": [
+        {
+          "label": "stage 1 (local disease)",
+          "children": [
+            {
+              "label": "erythema chronicum migrans",
+              "children": [
+                {
+                  "label": "70%"
+                },
+                {
+                  "label": "site of the tick bite",
+                  "children": [
+                    {
+                      "label": "within 2–28 days"
+                    }
+                  ]
+                },
+                {
+                  "label": "macular rash",
+                  "children": [
+                    {
+                      "label": "lesion enlarges and becomes papular",
+                      "children": [
+                        {
+                          "label": "paracentral area may clear, forming a “bull’s eye” lesion"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "constitutional symptoms",
+              "children": [
+                {
+                  "label": "fever"
+                },
+                {
+                  "label": "malaise"
+                },
+                {
+                  "label": "fatigue"
+                },
+                {
+                  "label": "myalgias"
+                },
+                {
+                  "label": "arthralgias"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Stage 2 (disseminated disease)",
+          "children": [
+            {
+              "label": "hematogenous spread to the skin, CNS, joints, heart, and eyes"
+            },
+            {
+              "label": "secondary erythema chronicum migrans rash",
+              "children": [
+                {
+                  "label": "at sites remote from the tick bite"
+                }
+              ]
+            },
+            {
+              "label": "joint involvement",
+              "children": [
+                {
+                  "label": "monoarthritis or oligoarthritis"
+                },
+                {
+                  "label": "large joints",
+                  "children": [
+                    {
+                      "label": "typically the knee"
+                    }
+                  ]
+                },
+                {
+                  "label": "≤80% (if untreated)"
+                },
+                {
+                  "label": "differential diagnosis",
+                  "children": [
+                    {
+                      "label": "may be the only manifestation of Lyme disease in children"
+                    },
+                    {
+                      "label": "juvenile idiopathic arthritis (JIA)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "neurologic involvement",
+              "children": [
+                {
+                  "label": "40%",
+                  "children": [
+                    {
+                      "label": "meningitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "encephalitis"
+                },
+                {
+                  "label": "painful radiculitis"
+                },
+                {
+                  "label": "unilateral or bilateral Bell palsy",
+                  "children": [
+                    {
+                      "label": "in endemic areas, ≤25% of cranial nerve VII palsies may be attributed to LD"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "stage 3 (persistent disease)",
+          "children": [
+            {
+              "label": "≥5 months"
+            },
+            {
+              "label": "episodic arthritis",
+              "children": [
+                {
+                  "label": "most frequent systemic manifestation"
+                },
+                {
+                  "label": "may become chronic",
+                  "children": [
+                    {
+                      "label": "HLA-DR4 and -DR2 haplotypes in North America",
+                      "children": [
+                        {
+                          "label": "patients with HLA-DR4 have poorer response to antibiotics"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "acrodermatitis chronica atrophicans",
+              "children": [
+                {
+                  "label": "bluish red lesion on the extremities"
+                },
+                {
+                  "label": "may progress to fibrous bands and nodules"
+                }
+              ]
+            },
+            {
+              "label": "chronic neurologic syndromes",
+              "children": [
+                {
+                  "label": "neuropsychiatric disease"
+                },
+                {
+                  "label": "memory loss"
+                },
+                {
+                  "label": "chronic fatigue"
+                },
+                {
+                  "label": "radiculopathy"
+                },
+                {
+                  "label": "peripheral neuropathy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "intraocular inflammation is regarded a manifestation of CNS involvement",
+          "children": [
+            {
+              "label": "warrants careful neurologic evaluation, including a lumbar puncture"
+            }
+          ]
+        },
+        {
+          "label": "intravenous antibiotic therapy with neurologic dosing regimens",
+          "children": [
+            {
+              "label": "severe posterior segment manifestations"
+            },
+            {
+              "label": "confirmed CNS involvement"
+            },
+            {
+              "label": "less-severe disease that responds incompletely or relapses when oral antibiotics are discontinued"
+            },
+            {
+              "label": "carditis"
+            },
+            {
+              "label": "admit to the hospital",
+              "children": [
+                {
+                  "label": "atrioventricular block"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "topical corticosteroids and mydriatics",
+          "children": [
+            {
+              "label": "anterior segment inflammation"
+            },
+            {
+              "label": "after the initiation of appropriate antibiotic therapy"
+            }
+          ]
+        },
+        {
+          "label": "routine use of systemic corticosteroids is controversial",
+          "children": [
+            {
+              "label": "associated with an increase in antibiotic treatment failures"
+            }
+          ]
+        },
+        {
+          "label": "Jarisch-Herxheimer reaction may complicate antibiotic therapy"
+        },
+        {
+          "label": "may become reinfected after successful antibiotic therapy"
+        },
+        {
+          "label": "may experience a more severe or chronic course by virtue of concomitant",
+          "children": [
+            {
+              "label": "babesiosis",
+              "children": [
+                {
+                  "label": "intraerythrocytic parasitic infection caused by protozoa of the genus Babesia"
+                },
+                {
+                  "label": "transmitted by Ixodes species ticks"
+                }
+              ]
+            },
+            {
+              "label": "human granulocytic anaplasmosis",
+              "children": [
+                {
+                  "label": "caused by obligate intracellular bacterium Anaplasma phagocytophilum"
+                },
+                {
+                  "label": "transmitted by Ixodes species ticks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prevention strategies",
+          "children": [
+            {
+              "label": "avoiding tick-infested habitats"
+            },
+            {
+              "label": "using tick repellents",
+              "children": [
+                {
+                  "label": "onchocerciasis may be associated with Wolbachia"
+                }
+              ]
+            },
+            {
+              "label": "wearing protective outer garments"
+            },
+            {
+              "label": "removing ticks promptly"
+            },
+            {
+              "label": "reducing tick populations"
+            }
+          ]
+        },
+        {
+          "label": "See Table 7-4"
+        }
+      ]
+    },
+    {
+      "label": "Diagnosis",
+      "children": [
+        {
+          "label": "in the appropriate clinical context, erythema chronicum migrans is diagnostic"
+        },
+        {
+          "label": "serology",
+          "children": [
+            {
+              "label": "interpreting serologic data is problematic",
+              "children": [
+                {
+                  "label": "lack of standardization"
+                },
+                {
+                  "label": "cross-reactivity with other spirochetes",
+                  "children": [
+                    {
+                      "label": "frequent false-positive and false-negative test results"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "CDC recommends a 2-step protocol",
+              "children": [
+                {
+                  "label": "ELISA for IgM and IgG"
+                },
+                {
+                  "label": "Western immunoblot testing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PCR-based assays",
+          "children": [
+            {
+              "label": "amplify both genomic and plasmid DNA from a variety of tissues",
+              "children": [
+                {
+                  "label": "ocular fluids"
+                },
+                {
+                  "label": "highest yields obtained from the skin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.18. Infectious Ocular Inflammatory Diseases (XVIII) - Bacterial Uveitis (III) - Lyme Disease (LD).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 342,
+      "connector_rejected": 11,
+      "connector_edges": 220,
+      "connector_width": 0.779,
+      "text_labels": 173,
+      "tree_nodes": 173,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6433,
+      "root_font_size": 2.726,
+      "warnings": []
+    }
+  }
+}

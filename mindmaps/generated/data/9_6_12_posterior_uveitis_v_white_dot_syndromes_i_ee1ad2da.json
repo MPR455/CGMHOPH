@@ -1,0 +1,601 @@
+{
+  "label": "9.6.12. Posterior Uveitis (V): White Dot Syndromes (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "CME"
+    },
+    {
+      "label": "Birdshot uveitis",
+      "children": [
+        {
+          "label": "birdshot chorioretinopathy"
+        },
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "F>M",
+              "children": [
+                {
+                  "label": "white women of northern European descent"
+                },
+                {
+                  "label": "past the fourth decade of life"
+                }
+              ]
+            },
+            {
+              "label": "highly correlated with the HLA-A29 gene",
+              "children": [
+                {
+                  "label": "sensitivity of 96%"
+                },
+                {
+                  "label": "specificity of 93%"
+                },
+                {
+                  "label": "increased (224x) relative risk"
+                },
+                {
+                  "label": "7% of the general population are HLA-A29 (+)",
+                  "children": [
+                    {
+                      "label": "HLA-A29 is confirmatory rather than diagnostic!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "blurred vision"
+            },
+            {
+              "label": "floaters",
+              "children": [
+                {
+                  "label": "nyctalopia"
+                }
+              ]
+            },
+            {
+              "label": "disturbance of color vision"
+            },
+            {
+              "label": "unusual peripheral visual phenomena",
+              "children": [
+                {
+                  "label": "pinwheels"
+                },
+                {
+                  "label": "sparkles"
+                },
+                {
+                  "label": "flickering lights"
+                }
+              ]
+            },
+            {
+              "label": "visual complaints out of proportion to visual acuity"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "multifocal, hypopigmented, ovoid, cream- colored lesions (50–1500 μm)",
+              "children": [
+                {
+                  "label": "nasal and radial distribution emanating from the optic nerve"
+                },
+                {
+                  "label": "postequatorial"
+                },
+                {
+                  "label": "at the level of the choroid and RPE"
+                },
+                {
+                  "label": "frequently follow the underlying choroidal vessels"
+                },
+                {
+                  "label": "may not be readily apparent at first"
+                }
+              ]
+            },
+            {
+              "label": "minimal or absent anterior uveitis"
+            },
+            {
+              "label": "varying degrees of vitritis"
+            },
+            {
+              "label": "retinal vasculitis"
+            },
+            {
+              "label": "optic nerve head inflammation"
+            },
+            {
+              "label": "late complications",
+              "children": [
+                {
+                  "label": "optic atrophy"
+                },
+                {
+                  "label": "epiretinal membrane"
+                },
+                {
+                  "label": "CNV",
+                  "children": [
+                    {
+                      "label": "rare"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lab evaluation",
+          "children": [
+            {
+              "label": "fluorescein angiography",
+              "children": [
+                {
+                  "label": "early disease",
+                  "children": [
+                    {
+                      "label": "initial hypofluorescence with subtle late staining"
+                    },
+                    {
+                      "label": "does not typically highlight the lesions",
+                      "children": [
+                        {
+                          "label": "useful in identifying signs of active inflammation",
+                          "children": [
+                            {
+                              "label": "retinal vasculitis"
+                            },
+                            {
+                              "label": "CME"
+                            },
+                            {
+                              "label": "optic nerve head leakage"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "late disease",
+                  "children": [
+                    {
+                      "label": "hypopigmented lesions do not show transmission defects",
+                      "children": [
+                        {
+                          "label": "loss of pigment concurrent with loss of choriocapillaris"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "indocyanine green angiography",
+              "children": [
+                {
+                  "label": "multiple hypofluorescent spots"
+                }
+              ]
+            },
+            {
+              "label": "fundus autofluorescence imaging",
+              "children": [
+                {
+                  "label": "hypoautofluorescence",
+                  "children": [
+                    {
+                      "label": "more numerous than on clinical examination or FA"
+                    }
+                  ]
+                },
+                {
+                  "label": "more numerous and not uniformly correspondent with the birdshot lesions"
+                },
+                {
+                  "label": "placoid macular hypoautofluorescence",
+                  "children": [
+                    {
+                      "label": "important predictor of central vision loss"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "OCT imaging",
+              "children": [
+                {
+                  "label": "macular edema"
+                },
+                {
+                  "label": "patchy or diffuse loss of photoreceptors",
+                  "children": [
+                    {
+                      "label": "macular thinning"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnostic",
+          "children": [
+            {
+              "label": "pars planitis"
+            },
+            {
+              "label": "VKH syndrome"
+            },
+            {
+              "label": "sympathetic ophthalmia"
+            },
+            {
+              "label": "OHS"
+            },
+            {
+              "label": "intraocular lymphoma"
+            },
+            {
+              "label": "sarcoidosis"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "natural course",
+              "children": [
+                {
+                  "label": "insidiously progressive (chronic)",
+                  "children": [
+                    {
+                      "label": "progressive worsening of the visual field"
+                    },
+                    {
+                      "label": "abnormal electroretinogram (ERG) with extended follow-up"
+                    },
+                    {
+                      "label": "majority of patients require treatment"
+                    }
+                  ]
+                },
+                {
+                  "label": "self-limited",
+                  "children": [
+                    {
+                      "label": "a subset of patients"
+                    },
+                    {
+                      "label": "do well without treatment",
+                      "children": [
+                        {
+                          "label": "any patient who is not treated should be monitored closely"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "monitoring of disease course",
+              "children": [
+                {
+                  "label": "full-field ERG",
+                  "children": [
+                    {
+                      "label": "30-Hz flicker implicit time"
+                    },
+                    {
+                      "label": "scotopic b-wave amplitudes"
+                    },
+                    {
+                      "label": "more useful for monitoring disease course than changes in visual acuity or funduscopic appearance"
+                    }
+                  ]
+                },
+                {
+                  "label": "Goldmann/automated visual field (30-2)",
+                  "children": [
+                    {
+                      "label": "more useful for monitoring disease course than changes in visual acuity or funduscopic appearance"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic corticosteroids",
+              "children": [
+                {
+                  "label": "typically incompletely responsive to corticosteroids alone"
+                },
+                {
+                  "label": "extended treatment is anticipated in most patients"
+                }
+              ]
+            },
+            {
+              "label": "early introduction of corticosteroid-sparing IMT",
+              "children": [
+                {
+                  "label": "low-dose cyclosporine (2–5 mg/kg/day)"
+                },
+                {
+                  "label": "mycophenolate mofetil"
+                },
+                {
+                  "label": "azathioprine"
+                },
+                {
+                  "label": "methotrexate"
+                },
+                {
+                  "label": "TNF-α inhibitors"
+                },
+                {
+                  "label": "intravenous polyclonal immunoglobulin"
+                }
+              ]
+            },
+            {
+              "label": "periocular/intravitreal corticosteroid injections",
+              "children": [
+                {
+                  "label": "adjunctive therapy for CME and inflammatory recurrences"
+                }
+              ]
+            },
+            {
+              "label": "intravitreal fluocinolone acetonide implant",
+              "children": [
+                {
+                  "label": "systemic therapy not tolerated or has failed"
+                }
+              ]
+            },
+            {
+              "label": "≤88% of patients maintain vision with aggressive, long-term control of inflammation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Inflammatory Chorioretinopathies of Unknown Etiology",
+      "children": [
+        {
+          "label": "See Table 6-2"
+        },
+        {
+          "label": "white dot syndromes",
+          "children": [
+            {
+              "label": "group of inflammatory disorders with discrete, multiple, well-circumscribed, yellow-white lesions at the level of the retina/outer retina/ RPE/choriocapillaris or choroid during some phase of their course"
+            }
+          ]
+        },
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "< 50 years",
+              "children": [
+                {
+                  "label": "except",
+                  "children": [
+                    {
+                      "label": "birdshot uveitis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "female predominance",
+              "children": [
+                {
+                  "label": "MEWDS",
+                  "children": [
+                    {
+                      "label": "serpiginous choroiditis"
+                    }
+                  ]
+                },
+                {
+                  "label": "birdshot uveitis"
+                },
+                {
+                  "label": "multifocal choroiditis and panuveitis"
+                },
+                {
+                  "label": "punctate inner choroiditis (PIC)"
+                },
+                {
+                  "label": "subretinal fibrosis and uveitis syndrome"
+                },
+                {
+                  "label": "acute zonal occult outer retinopathy"
+                },
+                {
+                  "label": "except",
+                  "children": [
+                    {
+                      "label": "APMPPE",
+                      "children": [
+                        {
+                          "label": "M=F"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "serpiginous choroidopathy",
+                      "children": [
+                        {
+                          "label": "M=F"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "autoimmune/inflammatory",
+              "children": [
+                {
+                  "label": "increased prevalence of systemic autoimmunity both in patients with WWS and their first/second-degree relatives"
+                },
+                {
+                  "label": "inherited immune dysregulation that predisposes to autoimmunity"
+                }
+              ]
+            },
+            {
+              "label": "infectious cause"
+            },
+            {
+              "label": "unknown"
+            }
+          ]
+        },
+        {
+          "label": "prodromal viral syndrome",
+          "children": [
+            {
+              "label": "APMPPE"
+            },
+            {
+              "label": "MEWDS"
+            }
+          ]
+        },
+        {
+          "label": "bilateral +- asymmetrical",
+          "children": [
+            {
+              "label": "with the exception of",
+              "children": [
+                {
+                  "label": "ARPE",
+                  "children": [
+                    {
+                      "label": "multiple evanescent white dot syndrome [MEWDS]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "presenting symptoms",
+          "children": [
+            {
+              "label": "photopsias"
+            },
+            {
+              "label": "blurred vision"
+            },
+            {
+              "label": "nyctalopia",
+              "children": [
+                {
+                  "label": "birdshot"
+                }
+              ]
+            },
+            {
+              "label": "floaters"
+            },
+            {
+              "label": "visual field loss contiguous with the blind spot"
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "infectious entities",
+              "children": [
+                {
+                  "label": "syphilis"
+                },
+                {
+                  "label": "diffuse unilateral subacute neuroretinitis (DUSN)"
+                },
+                {
+                  "label": "ocular histoplasmosis syndrome (OHS)"
+                }
+              ]
+            },
+            {
+              "label": "noninfectious entities",
+              "children": [
+                {
+                  "label": "sarcoidosis"
+                },
+                {
+                  "label": "sympathetic ophthalmia"
+                },
+                {
+                  "label": "Vogt-Koyanagi-Harada (VKH) syndrome"
+                },
+                {
+                  "label": "intraocular lymphoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.12. Posterior Uveitis (V) - White Dot Syndromes (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 314,
+      "connector_rejected": 8,
+      "connector_edges": 209,
+      "connector_width": 0.739,
+      "text_labels": 154,
+      "tree_nodes": 154,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6656,
+      "root_font_size": 3.324,
+      "warnings": []
+    }
+  }
+}

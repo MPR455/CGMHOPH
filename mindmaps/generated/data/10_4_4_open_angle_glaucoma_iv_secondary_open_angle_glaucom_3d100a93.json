@@ -1,0 +1,269 @@
+{
+  "label": "10.4.4. Open Angle Glaucoma (IV): Secondary Open-Angle Glaucoma (II): Lens-Induced Glaucoma",
+  "root": true,
+  "children": [
+    {
+      "label": "Lens particle glaucoma",
+      "children": [
+        {
+          "label": "lens cortex particles obstruct the trabecular meshwork"
+        },
+        {
+          "label": "following",
+          "children": [
+            {
+              "label": "cataract extraction"
+            },
+            {
+              "label": "capsulotomy"
+            },
+            {
+              "label": "ocular trauma"
+            }
+          ]
+        },
+        {
+          "label": "severity of IOP elevation depends on",
+          "children": [
+            {
+              "label": "quantity of lens material released"
+            },
+            {
+              "label": "degree of inflammation"
+            },
+            {
+              "label": "ability of the trabecular meshwork to clear the lens material"
+            },
+            {
+              "label": "functional status of the ciliary body"
+            }
+          ]
+        },
+        {
+          "label": "clinical findings",
+          "children": [
+            {
+              "label": "within weeks of the initial surgery or trauma",
+              "children": [
+                {
+                  "label": "± months or years later"
+                }
+              ]
+            },
+            {
+              "label": "free cortical material in the anterior chamber"
+            },
+            {
+              "label": "elevated IOP"
+            },
+            {
+              "label": "moderate anterior chamber reaction"
+            },
+            {
+              "label": "microcystic corneal edema"
+            },
+            {
+              "label": "posterior synechiae and peripheral anterior synechiae"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "medications to decrease aqueous formation"
+            },
+            {
+              "label": "mydriatics to inhibit posterior synechiae formation"
+            },
+            {
+              "label": "topical corticosteroids to reduce inflammation"
+            },
+            {
+              "label": "If IOP cannot be controlled, surgical removal of the lens material is necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Phacolytic glaucoma",
+      "children": [
+        {
+          "label": "mature or hypermature cataract",
+          "children": [
+            {
+              "label": "leakage of lens protein through microscopic openings in the lens capsule",
+              "children": [
+                {
+                  "label": "obstruction of TM by",
+                  "children": [
+                    {
+                      "label": "lens proteins"
+                    },
+                    {
+                      "label": "phagocytizing macrophages"
+                    },
+                    {
+                      "label": "other inflammatory debris"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lens aging",
+          "children": [
+            {
+              "label": "increased concentration of high-molecular- weight lens protein"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "elderly patient with a history of poor vision"
+            },
+            {
+              "label": "sudden onset of pain, conjunctival hyperemia, and worsening vision"
+            },
+            {
+              "label": "markedly elevated IOP"
+            },
+            {
+              "label": "microcystic corneal edema"
+            },
+            {
+              "label": "prominent cell and flare reaction",
+              "children": [
+                {
+                  "label": "cellular debris in the anterior chamber angle"
+                },
+                {
+                  "label": "± pseudohypopyon"
+                }
+              ]
+            },
+            {
+              "label": "large white particles (clumps of lens protein) may also be seen in the anterior chamber"
+            },
+            {
+              "label": "open anterior chamber angle"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "medications to control the IOP"
+            },
+            {
+              "label": "definitive therapy requires cataract extraction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "NO keratic precipitates (KP)",
+      "children": [
+        {
+          "label": "helps distinguish phacolytic glaucoma from phacoantigenic glaucoma"
+        }
+      ]
+    },
+    {
+      "label": "Phacoantigenic glaucoma",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "following surgery or penetrating trauma"
+            },
+            {
+              "label": "sensitization to lens protein"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "granulomatous inflammation"
+            },
+            {
+              "label": "moderate anterior chamber reaction"
+            },
+            {
+              "label": "KP on both the corneal endothelium and the anterior lens surface"
+            },
+            {
+              "label": "low-grade vitritis",
+              "children": [
+                {
+                  "label": "differentiates from phacolytic glaucoma"
+                }
+              ]
+            },
+            {
+              "label": "synechial formation"
+            },
+            {
+              "label": "residual lens material in the anterior chamber"
+            },
+            {
+              "label": "glaucomatous optic neuropathy",
+              "children": [
+                {
+                  "label": "not common"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "corticosteroids and aqueous suppressants"
+            },
+            {
+              "label": "removal of residual lens material",
+              "children": [
+                {
+                  "label": "If medical treatment is unsuccessful"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.4.4. Open Angle Glaucoma (IV) - Secondary Open-Angle Glaucoma (II) - Lens-Induced Glaucoma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 69,
+      "connector_rejected": 6,
+      "connector_edges": 62,
+      "connector_width": 0.548,
+      "text_labels": 68,
+      "tree_nodes": 68,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.8986,
+      "root_font_size": 4.661,
+      "warnings": []
+    }
+  }
+}

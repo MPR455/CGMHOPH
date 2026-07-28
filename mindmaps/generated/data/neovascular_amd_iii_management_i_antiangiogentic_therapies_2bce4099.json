@@ -1,0 +1,573 @@
+{
+  "label": "Neovascular AMD (III): Management (I): Antiangiogentic Therapies",
+  "root": true,
+  "children": [
+    {
+      "label": "Angiogenesis",
+      "children": [
+        {
+          "label": "Angiogenesis cascade",
+          "children": [
+            {
+              "label": "vasodilation of existing vessels"
+            },
+            {
+              "label": "increased vascular permeability of existing vessels"
+            },
+            {
+              "label": "degradation of surrounding extracellular matrix"
+            },
+            {
+              "label": "migration and proliferation of endothelial cells"
+            },
+            {
+              "label": "endothelial cells join to create lumen"
+            },
+            {
+              "label": "new capillaries develop and mature"
+            }
+          ]
+        },
+        {
+          "label": "Activators of angiogenesis",
+          "children": [
+            {
+              "label": "vascular endothelial growth factor(VEGF)",
+              "children": [
+                {
+                  "label": "homodimeric glycoprotein"
+                },
+                {
+                  "label": "has a heparin-binding growth factor specificity for vascular endothelial cells"
+                },
+                {
+                  "label": "functions",
+                  "children": [
+                    {
+                      "label": "lymphangiogenesis"
+                    },
+                    {
+                      "label": "angiogenesis"
+                    },
+                    {
+                      "label": "increased vascular permeability"
+                    },
+                    {
+                      "label": "prevents endothelial cell apoptosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "role in AMD",
+                  "children": [
+                    {
+                      "label": "increases in RPE cells in early stages of AMD"
+                    },
+                    {
+                      "label": "high concentrations in excised CNV"
+                    },
+                    {
+                      "label": "high concentration in vitreous of eyes with AMD"
+                    }
+                  ]
+                },
+                {
+                  "label": "4 major VEGF isoforms",
+                  "children": [
+                    {
+                      "label": "VEGF165 is the most dominant in AMD"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fibroblast growth factor (FGF)"
+            },
+            {
+              "label": "transforming growth factor α (TGF-α)"
+            },
+            {
+              "label": "TGF-β"
+            },
+            {
+              "label": "angiopoietin-1"
+            },
+            {
+              "label": "angiopoietin-2"
+            }
+          ]
+        },
+        {
+          "label": "Inhibitors of angiogenesis",
+          "children": [
+            {
+              "label": "thrombospondin"
+            },
+            {
+              "label": "angiostatin"
+            },
+            {
+              "label": "endostatin"
+            },
+            {
+              "label": "pigment epithelium–derived factor (PEDF)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Antiangiogenic Therapies",
+      "children": [
+        {
+          "label": "Anti-VEGF dosing intervals",
+          "children": [
+            {
+              "label": "fixed interval",
+              "children": [
+                {
+                  "label": "monthly",
+                  "children": [
+                    {
+                      "label": "ranibizumab"
+                    },
+                    {
+                      "label": "MARINA & ANCHOR studies",
+                      "children": [
+                        {
+                          "label": "loss of fewer than 15 ETDRS letters",
+                          "children": [
+                            {
+                              "label": "95% of ranibizumab-treated patients"
+                            },
+                            {
+                              "label": "62% of sham-treated patients and",
+                              "children": [
+                                {
+                                  "label": "at 12 months"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "64% of PDT-treated patients"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "improvement of ≥15 letters",
+                          "children": [
+                            {
+                              "label": "30%–40% of ranibizumab-treated patients"
+                            },
+                            {
+                              "label": "≤ 5% in the control participants",
+                              "children": [
+                                {
+                                  "label": "at 24 months"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "90% of ranibizumab-treated eyes lost < 15 ETDRS letters"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "q 3 month",
+                  "children": [
+                    {
+                      "label": "ranibizumab"
+                    },
+                    {
+                      "label": "EXCITE & PIER studies",
+                      "children": [
+                        {
+                          "label": "improvements (similar to MARINA and ANCHOR studies) over the first 3 months"
+                        },
+                        {
+                          "label": "treatment effects declined in participants undergoing quarterly (every 3 months) dosing as opposed to monthly dosing",
+                          "children": [
+                            {
+                              "label": "quarterly treatment is suboptimal"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "“as-needed”",
+              "children": [
+                {
+                  "label": "dosing",
+                  "children": [
+                    {
+                      "label": "regular monthly treatment until macula is dry"
+                    },
+                    {
+                      "label": "resume injections only when signs of recurrent exudation appear",
+                      "children": [
+                        {
+                          "label": "ranibizumab"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "studies",
+                  "children": [
+                    {
+                      "label": "PrONTO"
+                    },
+                    {
+                      "label": "SAILOR",
+                      "children": [
+                        {
+                          "label": "3 monthly injections, followed by various as-needed regimens"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "SUSTAIN"
+                    },
+                    {
+                      "label": "HORIZON"
+                    },
+                    {
+                      "label": "all of these studies had vision and OCT outcomes comparable to or reduced compared to MARINA and ANCHOR"
+                    },
+                    {
+                      "label": "in HORIZON study patients lost ≈ 8 letters once regimen was switched from monthly injections to as-needed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "“treat and extend”",
+              "children": [
+                {
+                  "label": "regular monthly treatment until macula is dry"
+                },
+                {
+                  "label": "treatment continues at progressively increasing intervals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Treatment effect modifiers",
+          "children": [
+            {
+              "label": "vitreoretinal interface status",
+              "children": [
+                {
+                  "label": "hyaloidal separation",
+                  "children": [
+                    {
+                      "label": "facilitates drug penetration"
+                    },
+                    {
+                      "label": "fewer injections needed"
+                    },
+                    {
+                      "label": "VA is not affected"
+                    }
+                  ]
+                },
+                {
+                  "label": "epiretinal membrane",
+                  "children": [
+                    {
+                      "label": "more injections needed"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "minor ocular complications",
+              "children": [
+                {
+                  "label": "local irritation"
+                },
+                {
+                  "label": "subconjunctival hemorrhage",
+                  "children": [
+                    {
+                      "label": "common"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "rare"
+            },
+            {
+              "label": "serious ocular complications",
+              "children": [
+                {
+                  "label": "vitreous hemorrhage"
+                },
+                {
+                  "label": "retinal detachment"
+                },
+                {
+                  "label": "persistent ocular hypertension"
+                },
+                {
+                  "label": "inflammation"
+                },
+                {
+                  "label": "endophthalmitis",
+                  "children": [
+                    {
+                      "label": "≤ 1/2000"
+                    }
+                  ]
+                },
+                {
+                  "label": "RPE tear",
+                  "children": [
+                    {
+                      "label": "anti-VEGF therapy in eyes with fibrovascular PED",
+                      "children": [
+                        {
+                          "label": "especially for PEDs > 600 μm in height"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "contraction of underlying type 1 CNV"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic complications",
+              "children": [
+                {
+                  "label": "systemic administration of bevacizumab increases risk of",
+                  "children": [
+                    {
+                      "label": "hypertension"
+                    },
+                    {
+                      "label": "thromboembolic events",
+                      "children": [
+                        {
+                          "label": "MI & CVA",
+                          "children": [
+                            {
+                              "label": "conflicting evidence whether intravitreal injections increase the rate of these complications"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "GI perforations and bleeding"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Antiangiogenic Agents",
+      "children": [
+        {
+          "label": "Pegaptanib",
+          "children": [
+            {
+              "label": "RNA oligonucleotide ligand (or aptamer)"
+            },
+            {
+              "label": "binds human VEGF165"
+            }
+          ]
+        },
+        {
+          "label": "Ranibizumab",
+          "children": [
+            {
+              "label": "recombinant humanized antibody fragment (Fab)"
+            },
+            {
+              "label": "binds to and inhibits all active isoforms of VEGF-A as well as their active degradation products"
+            },
+            {
+              "label": "HARBOR",
+              "children": [
+                {
+                  "label": "compared higher-dose (2.0 mg) with standard-dose (0.5 mg)"
+                },
+                {
+                  "label": "found no difference in visual acuity or anatomical outcomes between higher-dose and standard-dose"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Bevacizumab",
+          "children": [
+            {
+              "label": "full-length monoclonal antibody against VEGF"
+            },
+            {
+              "label": "used “off-label” for the treatment of AMD"
+            },
+            {
+              "label": "clusters of severe vision loss due to endophthalmitis",
+              "children": [
+                {
+                  "label": "secondary to substandard and erroneous compounding practices"
+                }
+              ]
+            },
+            {
+              "label": "comparison",
+              "children": [
+                {
+                  "label": "bevacizumab",
+                  "children": [
+                    {
+                      "label": "larger"
+                    },
+                    {
+                      "label": "2 antigen-binding domains"
+                    },
+                    {
+                      "label": "longer systemic half-life after intravitreal injections",
+                      "children": [
+                        {
+                          "label": "~21 days"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "costs substantially less",
+                      "children": [
+                        {
+                          "label": "40x lower"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "ranibizumab",
+                  "children": [
+                    {
+                      "label": "smaller"
+                    },
+                    {
+                      "label": "single doma"
+                    },
+                    {
+                      "label": "shorter systemic half-life after intravitreal injections",
+                      "children": [
+                        {
+                          "label": "2.2 hours"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "CATT",
+              "children": [
+                {
+                  "label": "bevacizumab was noninferior to ranibizumab therapy in monthly or as-needed delivery schedules over 2 years"
+                },
+                {
+                  "label": "systemic adverse events were significantly greater in bevacizumab (39.9%) than in ranibizumab (31.7%) group"
+                },
+                {
+                  "label": "death and arteriothrombotic events were not statistically different"
+                },
+                {
+                  "label": "geographic atrophy development or increase appeared to be stimulated by anti-VEGF therapy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Aflibercept",
+          "children": [
+            {
+              "label": "ligand-binding elements of extracellular domains of VEGFR1 and VEGFR2 fused to constant region (Fc) of IgG"
+            },
+            {
+              "label": "binds both VEGF and placental-like growth factor"
+            },
+            {
+              "label": "fully penetrates all retinal layers"
+            },
+            {
+              "label": "VIEW 1 and VIEW 2 studies",
+              "children": [
+                {
+                  "label": "all aflibercept regimens demonstrated noninferiority to ranibizumab monthly regimen"
+                },
+                {
+                  "label": "after 3 monthly doses, aflibercept administered every 2 months showed similar efficacy to ranibizumab administered monthly"
+                },
+                {
+                  "label": "safety profiles were similar for both aflibercept and ranibizumab",
+                  "children": [
+                    {
+                      "label": "patients receiving monthly aflibercept (2 mg) gained 10.9 letters of visual acuity, whereas those receiving monthly ranibizumab (0.5 mg) gained 8.1 letters (P< .01)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Neovascular AMD (III) - Management (I) - Antiangiogentic Therapies.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 255,
+      "connector_rejected": 1,
+      "connector_edges": 188,
+      "connector_width": 0.586,
+      "text_labels": 146,
+      "tree_nodes": 146,
+      "component_roots": 3,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.7373,
+      "root_font_size": 5.865,
+      "warnings": []
+    }
+  }
+}

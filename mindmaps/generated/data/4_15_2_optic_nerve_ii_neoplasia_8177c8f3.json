@@ -1,0 +1,307 @@
+{
+  "label": "4.15.2. Optic Nerve (II): Neoplasia",
+  "root": true,
+  "children": [
+    {
+      "label": "from arachnoid sheath"
+    },
+    {
+      "label": "Melanocytoma",
+      "children": [
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "deeply pigmented"
+            },
+            {
+              "label": "eccentric optic disc location"
+            },
+            {
+              "label": "slightly elevated"
+            },
+            {
+              "label": "extends into",
+              "children": [
+                {
+                  "label": "adjacent retina"
+                },
+                {
+                  "label": "optic nerve"
+                }
+              ]
+            },
+            {
+              "label": "+- slow growth"
+            },
+            {
+              "label": "rare malignant transformation"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "magnocellular nevus",
+              "children": [
+                {
+                  "label": "plump polyhedral melanocytes",
+                  "children": [
+                    {
+                      "label": "bland cytologic features (bleached preparations)",
+                      "children": [
+                        {
+                          "label": "abundant cytoplasm"
+                        },
+                        {
+                          "label": "small nuclei"
+                        },
+                        {
+                          "label": "small nucleoli"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "closely packed"
+                },
+                {
+                  "label": "maximally pigmented"
+                }
+              ]
+            },
+            {
+              "label": "necrosis"
+            },
+            {
+              "label": "melanophagic infiltration",
+              "children": [
+                {
+                  "label": "not indicative of aggressive behavior"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Meningioma",
+      "children": [
+        {
+          "label": "primary optic nerve sheath meningioma",
+          "children": [
+            {
+              "label": "rare association with neurofibromatosis 1",
+              "children": [
+                {
+                  "label": "younger age group"
+                }
+              ]
+            },
+            {
+              "label": "invade",
+              "children": [
+                {
+                  "label": "optic nerve"
+                },
+                {
+                  "label": "eye"
+                },
+                {
+                  "label": "dura"
+                },
+                {
+                  "label": "orbit"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "meningothelial type",
+                  "children": [
+                    {
+                      "label": "plump cells"
+                    },
+                    {
+                      "label": "indistinct cytoplamic margins",
+                      "children": [
+                        {
+                          "label": "similar to Antoni-A pattern of Schwannoma",
+                          "children": [
+                            {
+                              "label": "spindle cells in Schwammoma vs plump cells in meningioma"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "arranged in whorls"
+                    },
+                    {
+                      "label": "psammoma bodies",
+                      "children": [
+                        {
+                          "label": "round calcifications"
+                        },
+                        {
+                          "label": "extracellular"
+                        },
+                        {
+                          "label": "surrounded by meningioma cells"
+                        },
+                        {
+                          "label": "sparse"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "secondary optic nerve meningioma",
+          "children": [
+            {
+              "label": "extension of intracranial meningioma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Rosenthal fibers",
+      "children": [
+        {
+          "label": "enlarged, deeply eosinophilic filaments"
+        }
+      ]
+    },
+    {
+      "label": "Glioma (astrocytoma, juvenile pilocytic astrocytoma)",
+      "children": [
+        {
+          "label": "low-grade glioma",
+          "children": [
+            {
+              "label": "1st decade of life",
+              "children": [
+                {
+                  "label": "neurofibromatosis 1"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "spindle-shaped astrocytes",
+                  "children": [
+                    {
+                      "label": "hairlike (pilocytic) cytoplasmic processes"
+                    }
+                  ]
+                },
+                {
+                  "label": "+- microcystic degeneration"
+                },
+                {
+                  "label": "+- calcification"
+                },
+                {
+                  "label": "thickened pial septae"
+                },
+                {
+                  "label": "meninges",
+                  "children": [
+                    {
+                      "label": "reactive hyperplasia"
+                    },
+                    {
+                      "label": "astrocytic infiltration"
+                    },
+                    {
+                      "label": "intact dura mater"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fusiform nerve enlargement"
+            }
+          ]
+        },
+        {
+          "label": "high-grade glioma",
+          "children": [
+            {
+              "label": "other names",
+              "children": [
+                {
+                  "label": "grade 4 astrocytoma"
+                },
+                {
+                  "label": "glioblastoma multiforme"
+                },
+                {
+                  "label": "malignant glioma"
+                }
+              ]
+            },
+            {
+              "label": "rare"
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "primary",
+                  "children": [
+                    {
+                      "label": "adults"
+                    },
+                    {
+                      "label": "nuclear pleomorphism, high mitotic activity, necrosis, hemorrhage"
+                    }
+                  ]
+                },
+                {
+                  "label": "secondary to brain glioma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "more common"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.15.2. Optic Nerve (II) - Neoplasia.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 151,
+      "connector_rejected": 9,
+      "connector_edges": 97,
+      "connector_width": 1.606,
+      "text_labels": 76,
+      "tree_nodes": 76,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6424,
+      "root_font_size": 5.354,
+      "warnings": []
+    }
+  }
+}

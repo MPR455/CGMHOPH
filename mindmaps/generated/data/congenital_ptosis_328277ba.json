@@ -1,0 +1,410 @@
+{
+  "label": "Congenital Ptosis",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "young child with droopy eyelid since birth"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "age of onset & course",
+              "children": [
+                {
+                  "label": "review old photographs"
+                }
+              ]
+            },
+            {
+              "label": "trauma/surgery"
+            },
+            {
+              "label": "variation with chewing or with eye movement"
+            },
+            {
+              "label": "family history of congenital ptosis",
+              "children": [
+                {
+                  "label": "blepharophimosis syndrome"
+                },
+                {
+                  "label": "r/o amblyopia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "EOM",
+              "children": [
+                {
+                  "label": "r/o CN 3 palsy"
+                }
+              ]
+            },
+            {
+              "label": "brow & head position"
+            },
+            {
+              "label": "look for corneal exposure",
+              "children": [
+                {
+                  "label": "lagophthalmos"
+                }
+              ]
+            },
+            {
+              "label": "check corneal sensation"
+            },
+            {
+              "label": "Bell phenomenon"
+            },
+            {
+              "label": "eyelid exam",
+              "children": [
+                {
+                  "label": "lid position",
+                  "children": [
+                    {
+                      "label": "measure vertical palpebral fissure"
+                    },
+                    {
+                      "label": "distance between corneal light reflex and upper lid margin",
+                      "children": [
+                        {
+                          "label": "margin-reflex distance 1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "levator function",
+                  "children": [
+                    {
+                      "label": "manually fix eyebrow"
+                    },
+                    {
+                      "label": "decreased levator function in upgaze"
+                    }
+                  ]
+                },
+                {
+                  "label": "indistinct/absent eyelid crease"
+                },
+                {
+                  "label": "remains elevated with downgaze",
+                  "children": [
+                    {
+                      "label": "lid lag"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "examine pupils",
+              "children": [
+                {
+                  "label": "miosis with anisocoria worse in dark",
+                  "children": [
+                    {
+                      "label": "Horner syndrome"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "heterochromia",
+              "children": [
+                {
+                  "label": "Congenital Horner syndrome"
+                }
+              ]
+            },
+            {
+              "label": "cycloplegic refraction",
+              "children": [
+                {
+                  "label": "anisometropia with high cylinder"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "simple congenital ptosis",
+          "children": [
+            {
+              "label": "unilateral or bilateral",
+              "children": [
+                {
+                  "label": "external photograph shows left-sided ptosis of ≈ 5 mm (margin-reflex distance 1 of 0.5 mm)"
+                }
+              ]
+            },
+            {
+              "label": "present at birth and stable"
+            },
+            {
+              "label": "decreased levator function"
+            },
+            {
+              "label": "poorly formed (or absent) upper eyelid crease"
+            },
+            {
+              "label": "involved eyelid may be higher in downgaze",
+              "children": [
+                {
+                  "label": "eyelid lag"
+                },
+                {
+                  "label": "lagophthalmos"
+                }
+              ]
+            },
+            {
+              "label": "compensatory brow elevation or chin up position"
+            }
+          ]
+        },
+        {
+          "label": "Marcus Gunn jaw winking",
+          "children": [
+            {
+              "label": "most common form of congenital synkinetic neurogenic ptosis"
+            },
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "ptosis",
+              "children": [
+                {
+                  "label": "none - severe"
+                }
+              ]
+            },
+            {
+              "label": "winking while chewing",
+              "children": [
+                {
+                  "label": "eyelid elevates",
+                  "children": [
+                    {
+                      "label": "movement of the mandible to the opposite side"
+                    },
+                    {
+                      "label": "jaw protrusion"
+                    },
+                    {
+                      "label": "wide opening of the mouth",
+                      "children": [
+                        {
+                          "label": "when the teeth are clenched"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "traumatic ptosis"
+        },
+        {
+          "label": "CN 3 palsy"
+        },
+        {
+          "label": "Horner syndrome",
+          "children": [
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "2-3 mm"
+            },
+            {
+              "label": "lower eyelid reverse ptosis"
+            },
+            {
+              "label": "miosis"
+            }
+          ]
+        },
+        {
+          "label": "blepharophimosis syndrome",
+          "children": [
+            {
+              "label": "AD"
+            },
+            {
+              "label": "ptosis"
+            },
+            {
+              "label": "blepharophimosis"
+            },
+            {
+              "label": "telecanthus"
+            },
+            {
+              "label": "epicanthus inversus"
+            }
+          ]
+        },
+        {
+          "label": "pseudoptosis",
+          "children": [
+            {
+              "label": "dermatochalasis"
+            },
+            {
+              "label": "enophthalmos"
+            },
+            {
+              "label": "hypotropia"
+            },
+            {
+              "label": "contralateral proptosis/lid retraction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "Congenital ptosis"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "refractive correction",
+          "children": [
+            {
+              "label": "spectacles"
+            }
+          ]
+        },
+        {
+          "label": "amblyopia treatment"
+        },
+        {
+          "label": "mild, no amblyopia, no abnormal head position",
+          "children": [
+            {
+              "label": "observation"
+            }
+          ]
+        },
+        {
+          "label": "severe/amblyopia/ abnormal head position",
+          "children": [
+            {
+              "label": "frontalis suspension",
+              "children": [
+                {
+                  "label": "autologus fascia lata"
+                },
+                {
+                  "label": "artificial material"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good prognosis with timely treatment of ptosis & amblyopia"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "astigmatism"
+            },
+            {
+              "label": "strabismus"
+            },
+            {
+              "label": "amblyopia"
+            },
+            {
+              "label": "corneal exposure after ptosis surgery"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "observation",
+              "children": [
+                {
+                  "label": "q 3-12 months"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Congenital Ptosis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 163,
+      "connector_rejected": 4,
+      "connector_edges": 120,
+      "connector_width": 0.855,
+      "text_labels": 103,
+      "tree_nodes": 103,
+      "component_roots": 6,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.7362,
+      "root_font_size": 5.987,
+      "warnings": []
+    }
+  }
+}

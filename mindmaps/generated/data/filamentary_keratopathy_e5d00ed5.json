@@ -1,0 +1,476 @@
+{
+  "label": "Filamentary Keratopathy",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "70-year-old woman complains of burning, light sensitivity, and dry sensation of both eyes"
+        }
+      ]
+    },
+    {
+      "label": "Image Description",
+      "children": [
+        {
+          "label": "of filamentary keratopathy"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "stare test",
+          "children": [
+            {
+              "label": "after a few blinks, patient is asked to look at a visual acuity chart",
+              "children": [
+                {
+                  "label": "normally the time until the image blurs should be > 8 seconds"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "tear break-up time",
+          "children": [
+            {
+              "label": "appearance of dry spots in <10 seconds is considered abnormal"
+            }
+          ]
+        },
+        {
+          "label": "basal tear secretion",
+          "children": [
+            {
+              "label": "topical anesthetic"
+            },
+            {
+              "label": "inferior cul-de-sac is dried"
+            },
+            {
+              "label": "strip is left in place for 5 minutes",
+              "children": [
+                {
+                  "label": "Schirmer strip is bent at the notch and placed with the short end resting on the conjunctiva and the fold crease on the eyelid margin",
+                  "children": [
+                    {
+                      "label": "at the lateral one-third of the lower eyelid"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "normal",
+              "children": [
+                {
+                  "label": "≈10–15 mm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Schirmer I and Schirmer II tests",
+          "children": [
+            {
+              "label": "Schirmer I test",
+              "children": [
+                {
+                  "label": "to evaluate both basic and reflex tearing"
+                }
+              ]
+            },
+            {
+              "label": "Schirmer II test",
+              "children": [
+                {
+                  "label": "no anesthetic"
+                },
+                {
+                  "label": "tear strip in place",
+                  "children": [
+                    {
+                      "label": "cotton-tipped applicator is placed in the nostril and moved back and forth for 2 minutes"
+                    }
+                  ]
+                },
+                {
+                  "label": "to distinguish between fatigue block (when reflex secretion is suppressed because of chronic irritation) and a lack of function of the reflex secretors"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "dry eye syndrome (DES)",
+          "children": [
+            {
+              "label": "most common cause",
+              "children": [
+                {
+                  "label": "corneal filaments and corneal vascularization"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prolonged patching"
+        },
+        {
+          "label": "topical drug toxicity"
+        },
+        {
+          "label": "SLK",
+          "children": [
+            {
+              "label": "superior cornea",
+              "children": [
+                {
+                  "label": "pannus"
+                },
+                {
+                  "label": "punctuate epithelial erosions"
+                },
+                {
+                  "label": "filaments"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "recurrent corneal erosion"
+        },
+        {
+          "label": "exposure keratopathy"
+        },
+        {
+          "label": "neurotrophic keratopathy"
+        },
+        {
+          "label": "irregular corneal surface",
+          "children": [
+            {
+              "label": "surgical wound"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "like basal tear secretion test, but no topical anesthetic is used"
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "filamentary keratitis secondary to dry eye"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "artificial tear drops",
+              "children": [
+                {
+                  "label": "preservative-free"
+                },
+                {
+                  "label": "6-8x/day"
+                }
+              ]
+            },
+            {
+              "label": "artificial tear ointment",
+              "children": [
+                {
+                  "label": "qhs"
+                }
+              ]
+            },
+            {
+              "label": "punctal plug"
+            },
+            {
+              "label": "restasis"
+            },
+            {
+              "label": "autologous serum"
+            },
+            {
+              "label": "oral fish oil"
+            },
+            {
+              "label": "moisture chamber goggles"
+            },
+            {
+              "label": "therapeutic contact lens",
+              "children": [
+                {
+                  "label": "monitor closely",
+                  "children": [
+                    {
+                      "label": "not for patients with severe dry eye"
+                    }
+                  ]
+                },
+                {
+                  "label": "+- topical antibiotic"
+                }
+              ]
+            },
+            {
+              "label": "topical mucomyst (acetylcysteine ) 10%",
+              "children": [
+                {
+                  "label": "qid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "mechanical removal of filaments",
+              "children": [
+                {
+                  "label": "jeweler forceps"
+                },
+                {
+                  "label": "cotton-tipped applicator"
+                }
+              ]
+            },
+            {
+              "label": "tarsorrhaphy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "medical history",
+              "children": [
+                {
+                  "label": "autoimmune disorders",
+                  "children": [
+                    {
+                      "label": "DES"
+                    }
+                  ]
+                },
+                {
+                  "label": "diabetes"
+                },
+                {
+                  "label": "cigarette smoking"
+                }
+              ]
+            },
+            {
+              "label": "consider neurotrophic keratopathy, if asymptotic"
+            },
+            {
+              "label": "ocular history",
+              "children": [
+                {
+                  "label": "symptoms",
+                  "children": [
+                    {
+                      "label": "onset & course of symptoms",
+                      "children": [
+                        {
+                          "label": "worse toward the end of the day",
+                          "children": [
+                            {
+                              "label": "worse with prolonged use of the eyes"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "FB sensation"
+                    },
+                    {
+                      "label": "pain"
+                    },
+                    {
+                      "label": "red eye"
+                    },
+                    {
+                      "label": "tearing"
+                    },
+                    {
+                      "label": "photophobia"
+                    },
+                    {
+                      "label": "eye pain/FB sensation upon waking",
+                      "children": [
+                        {
+                          "label": "recurrent corneal erosion"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "dry eye",
+                  "children": [
+                    {
+                      "label": "treatment for dry eye"
+                    }
+                  ]
+                },
+                {
+                  "label": "dry mouth"
+                },
+                {
+                  "label": "eye patching"
+                },
+                {
+                  "label": "topical medication"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "blepharitis"
+            },
+            {
+              "label": "lagophthalmos"
+            },
+            {
+              "label": "conjunctival papillary (or follicular) hypertrophy"
+            },
+            {
+              "label": "tear film height",
+              "children": [
+                {
+                  "label": "<0.3 mm is abnormal"
+                }
+              ]
+            },
+            {
+              "label": "location of corneal filaments",
+              "children": [
+                {
+                  "label": "superior",
+                  "children": [
+                    {
+                      "label": "SLK"
+                    }
+                  ]
+                },
+                {
+                  "label": "inferior",
+                  "children": [
+                    {
+                      "label": "exposure keratopathy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fluorescein staining",
+              "children": [
+                {
+                  "label": "look for punctate/gross epithelial erosions",
+                  "children": [
+                    {
+                      "label": "neurotrophic keratopathy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "corneal sensation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good"
+            }
+          ]
+        },
+        {
+          "label": "Course",
+          "children": [
+            {
+              "label": "chronic disease",
+              "children": [
+                {
+                  "label": "may need treatment for life"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "corneal infection"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Filamentary Keratopathy.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 175,
+      "connector_rejected": 2,
+      "connector_edges": 133,
+      "connector_width": 0.98,
+      "text_labels": 117,
+      "tree_nodes": 117,
+      "component_roots": 9,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.76,
+      "root_font_size": 6.861,
+      "warnings": []
+    }
+  }
+}

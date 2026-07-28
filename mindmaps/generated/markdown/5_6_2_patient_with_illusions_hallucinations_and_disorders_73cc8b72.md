@@ -1,0 +1,169 @@
+---
+title: "5.6.2. Patient With Illusions, Hallucinations, and Disorders of Higher Cortical Function (II): Visual Hallucinations"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.6.2. Patient With Illusions, Hallucinations, and Disorders of Higher Cortical Function (II) - Visual Hallucinations.pdf"
+---
+
+# 5.6.2. Patient With Illusions, Hallucinations, and Disorders of Higher Cortical Function (II): Visual Hallucinations
+
+## Hierarchy
+
+- Introduction
+  - originate anywhere along the visual pathway
+    - most commonly within globe or cortex
+  - types
+    - formed
+      - real objects
+    - unformed
+      - light, spots, etc
+- Ocular Origin
+  - no optical causes
+  - vitreous detachment with persistent vitreoretinal adhesions
+    - colored shapes
+    - vertical white flashes
+      - lightning streaks of Moore
+    - most apparent in a dark environment
+  - retinal detachment
+    - persistent flashes and floaters
+  - outer retinal diseases
+    - photopsias (flashing lights)
+      - simple white lights
+      - geometric webs that may take on colors
+      - continuous and persistent
+  - autoimmune retinopathy
+    - photopsias
+  - a variety of retinal, retinal pigment epithelium, and choroidal abnormalities
+    - multiple evanescent white dot syndrome
+    - acute zonal occult outer retinopathy
+    - birdshot chorioretinopathy
+    - photopsias
+  - retinal vasospasm
+    - loss of vision
+    - unformed monocular images
+      - colors
+      - lines
+      - phosphenes (fleeting, bright flashes of light)
+      - ≤ 45 minutes
+      - ± permanent scotoma
+        - may be followed by a headache
+- Cortical Origin
+  - lesions affecting the anterior optic radiations (temporal lobe)
+    - formed hallucinations
+      - has many exceptions
+  - more posterior lesions (parietal and occipital lobes)
+    - unformed hallucinations
+      - has many exceptions
+  - mesencephalon lesions
+    - formed hallucinations
+      - rare
+      - ± constant
+      - associated with an inverted sleep-wake cycle
+  - palinopsia
+    - = visual perseveration after the removal of the original stimulus (multiple afterimages)
+    - etiology
+      - disorders of nondominant parieto-occipital area
+        - may be associated with a homonymous hemianopia
+          - palinoptic images appear in the blind hemifield
+        - ± visual hallucinations
+      - migraine
+      - hallucinogenic drugs
+        - LSD
+      - medications
+        - topiramate
+          - indications
+            - epilepsy
+            - depression
+            - headaches
+            - pseudotumor cerebri
+          - also causes secondary angle-closure glaucoma
+        - clomiphene
+        - trazodone
+        - nefazodone
+  - temporal, parietal, and occipital lobe lesions
+    - temporal lobe
+      - olfactory and gustatory hallucinations
+      - formed complex visual hallucinations
+        - ipsilateral or contralateral visual field
+      - epilepsy is the most common cause of hallucinations traced to this region
+        - visual aura
+          - implies that the seizure began focally
+    - parietal lobe
+      - formed or unformed hallucinations
+    - occipital lobe
+      - unformed hallucinations
+        - white or colored flashes of light
+        - kaleidoscopic colors
+        - moving discs
+        - flickering
+        - hexagonal array (chicken-wire or honeycomb pattern)
+      - complete whiteout of vision suggests bilateral occipital lobe ischemia
+    - hallucinations within a homonymous hemianopia or quadrantanopia
+      - complex
+      - ± static or move throughout the visual field
+  - migraine
+    - abnormal excitatory activity in the cerebral cortex
+      - followed by a wave of depressed neuronal function
+        - spreading depression of Leão
+    - visual aura
+      - followed by a typical headache
+      - hallucinations are binocular
+        - fortification spectra (teichopsia)
+        - formed or unformed images
+          - “Alice in Wonderland effect” (micropsia/ macropsia)
+        - visual distortions
+          - kaleidoscopic vision
+          - heat waves
+          - cracked glass
+          - fragmented vision
+      - visual phenomena without headache
+        - acephalgic migraine
+  - persistent positive visual phenomena
+    - visual phenomena
+      - TV snow
+      - TV static
+      - dots (black-and-white or colored)
+      - rainlike pattern affecting the entire visual fields
+    - for months to years
+    - rarely interfere with visual function
+      - GO to sleep
+    - personal or family history of migraine
+  - Sleep-associated visual hallucinations
+    - hypnagogic hallucinations
+      - vivid perceptual experiences occurring at sleep onset
+    - hypnopompic hallucinations
+      - experiences occuring during awakening
+    - associated with sleep disorders
+      - insomnia
+      - daytime sleepiness
+      - ± suggestive of narcolepsy
+  - Charles Bonnet syndrome
+    - visually impaired patients
+      - preserved cognitive status
+        - are aware that the visions are not real
+    - formed or unformed hallucinations
+      - ± persistent
+      - ± come and go abruptly
+      - elementary or highly complex
+    - neuroimaging is not necessary
+      - if the cause of the vision loss is known
+      - if no homonymous visual field defect is present
+    - common underlying conditions
+      - age-related macular degeneration
+      - glaucoma
+      - diabetic retinopathy
+    - medical treatment is often disappointing
+      - cerebral infarction
+- 10–30 minutes
+- Optic Nerve Origin
+  - optic neuritis
+    - phosphenes
+      - induced by
+        - eye movement
+        - dark setting
+  - subacute or long-standing optic neuropathy
+    - sound-induced photisms
+      - sensations of color or light induced by stimulus to another sense
+      - unformed
+      - triggered by various sounds in the ipsilateral ear
+      - attributed to discharges from the lateral geniculate nucleus, which is also responsive to sound

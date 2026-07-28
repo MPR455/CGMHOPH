@@ -1,0 +1,278 @@
+{
+  "label": "4.14.2. Orbit (II): Infections",
+  "root": true,
+  "children": [
+    {
+      "label": "bacterial",
+      "children": [
+        {
+          "label": "causes",
+          "children": [
+            {
+              "label": "bacteremia"
+            },
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "retained surgical hardware"
+            },
+            {
+              "label": "spread from sinuses"
+            }
+          ]
+        },
+        {
+          "label": "organisms",
+          "children": [
+            {
+              "label": "haemophilus influenzae"
+            },
+            {
+              "label": "streptococcus"
+            },
+            {
+              "label": "staphylococcus aureus"
+            },
+            {
+              "label": "clostridium"
+            },
+            {
+              "label": "bacteroides"
+            },
+            {
+              "label": "klebsiella"
+            },
+            {
+              "label": "proteus"
+            },
+            {
+              "label": "tuberculosis",
+              "children": [
+                {
+                  "label": "necrotizing granulomatous reaction"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fungal",
+      "children": [
+        {
+          "label": "rhinocerebral (rhino-orbitocerebral) zygomycosis (mucormycosis)",
+          "children": [
+            {
+              "label": "predisposing conditions",
+              "children": [
+                {
+                  "label": "poorly controlled diabetes (ketoacidosis)"
+                },
+                {
+                  "label": "corticosteroid use"
+                },
+                {
+                  "label": "neutropenia"
+                }
+              ]
+            },
+            {
+              "label": "starts from adjacent sinus infection"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "acute & chronic inflammation",
+                  "children": [
+                    {
+                      "label": "granulomatous"
+                    }
+                  ]
+                },
+                {
+                  "label": "necrosis"
+                },
+                {
+                  "label": "direct vessel invasion",
+                  "children": [
+                    {
+                      "label": "thrombosing vasculitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "hyphae",
+                  "children": [
+                    {
+                      "label": "broad",
+                      "children": [
+                        {
+                          "label": "nonseptated"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "stains",
+                      "children": [
+                        {
+                          "label": "H&E"
+                        },
+                        {
+                          "label": "PAS"
+                        },
+                        {
+                          "label": "GMS"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "diagnosis",
+              "children": [
+                {
+                  "label": "nasopharyngeal biopsy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "sino-orbital aspergillosis",
+          "children": [
+            {
+              "label": "starts from adjacent sinus infection"
+            },
+            {
+              "label": "in healthy or immunocompromised individuals"
+            },
+            {
+              "label": "slowly progressive"
+            },
+            {
+              "label": "sclerosing granulomatous disease"
+            },
+            {
+              "label": "aspergillus",
+              "children": [
+                {
+                  "label": "difficult to culture",
+                  "children": [
+                    {
+                      "label": "mucor is non-septated"
+                    },
+                    {
+                      "label": "septated"
+                    }
+                  ]
+                },
+                {
+                  "label": "hyphae",
+                  "children": [
+                    {
+                      "label": "45o angle branching"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "aggressive surgical therapy"
+                },
+                {
+                  "label": "antifungal agents"
+                }
+              ]
+            },
+            {
+              "label": "+- fatal with brain extension"
+            }
+          ]
+        },
+        {
+          "label": "allergic fungal sinusitis",
+          "children": [
+            {
+              "label": "several species of fungi"
+            },
+            {
+              "label": "noninvasive"
+            },
+            {
+              "label": "IgE-mediated hypersensitivity reaction in atopic individuals"
+            },
+            {
+              "label": "may extend into orbit and intracranially"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "parasitic",
+      "children": [
+        {
+          "label": "echinococcus",
+          "children": [
+            {
+              "label": "orbital hydatid cyst"
+            }
+          ]
+        },
+        {
+          "label": "taenia solium",
+          "children": [
+            {
+              "label": "cysticercosis"
+            }
+          ]
+        },
+        {
+          "label": "loa loa ocular filariasis",
+          "children": [
+            {
+              "label": "loiasis"
+            }
+          ]
+        },
+        {
+          "label": "diagnosis",
+          "children": [
+            {
+              "label": "ELISA"
+            },
+            {
+              "label": "serum antibodies"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.14.2. Orbit (II) - Infections.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 128,
+      "connector_rejected": 3,
+      "connector_edges": 88,
+      "connector_width": 2.521,
+      "text_labels": 69,
+      "tree_nodes": 69,
+      "component_roots": 3,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6875,
+      "root_font_size": 8.402,
+      "warnings": []
+    }
+  }
+}

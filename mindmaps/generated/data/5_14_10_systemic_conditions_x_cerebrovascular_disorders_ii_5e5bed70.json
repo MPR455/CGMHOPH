@@ -1,0 +1,582 @@
+{
+  "label": "5.14.10. Systemic Conditions (X): Cerebrovascular Disorders (II): Cerebral Aneurysms",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "demographics",
+          "children": [
+            {
+              "label": "5% of the population"
+            },
+            {
+              "label": "rarely become symptomatic <20 years"
+            },
+            {
+              "label": "± familial occurrence"
+            }
+          ]
+        },
+        {
+          "label": "predisposing conditions",
+          "children": [
+            {
+              "label": "commonly associated with hypertension"
+            },
+            {
+              "label": "arteriovenous malformations"
+            },
+            {
+              "label": "coarctation of the aorta"
+            },
+            {
+              "label": "polycystic kidney disease"
+            },
+            {
+              "label": "connective tissue diseases",
+              "children": [
+                {
+                  "label": "fibromuscular dysplasia"
+                },
+                {
+                  "label": "Marfan syndrome"
+                },
+                {
+                  "label": "Ehlers-Danlos syndrome"
+                }
+              ]
+            },
+            {
+              "label": "tobacco use"
+            }
+          ]
+        },
+        {
+          "label": "saccular/“berry” aneurysm",
+          "children": [
+            {
+              "label": "at arterial bifurcations",
+              "children": [
+                {
+                  "label": "most common type"
+                }
+              ]
+            },
+            {
+              "label": "locations",
+              "children": [
+                {
+                  "label": "supratentorial"
+                },
+                {
+                  "label": "infratentorial",
+                  "children": [
+                    {
+                      "label": "10%",
+                      "children": [
+                        {
+                          "label": "90%"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "size",
+              "children": [
+                {
+                  "label": "“giant aneurysms”",
+                  "children": [
+                    {
+                      "label": "aneurysms >10 mm are most likely to rupture"
+                    },
+                    {
+                      "label": "≥25 mm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "aneurysms arising from the internal carotid artery and basilar artery may produce neuro- ophthalmic manifestations"
+        },
+        {
+          "label": "high morbidity and mortality result from aneurysm rupture",
+          "children": [
+            {
+              "label": "early detection and surgical intervention can be life-saving"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Diagnosis",
+      "children": [
+        {
+          "label": "suspected aneurysm requires urgent neuroradiologic imaging",
+          "children": [
+            {
+              "label": "consult the neuroradiologist !"
+            }
+          ]
+        },
+        {
+          "label": "4-vessel study of both carotid and vertebral arteries is imperative",
+          "children": [
+            {
+              "label": "10% of patients have multiple aneurysms !"
+            }
+          ]
+        },
+        {
+          "label": "CTA",
+          "children": [
+            {
+              "label": "imaging modality of choice"
+            }
+          ]
+        },
+        {
+          "label": "MRA",
+          "children": [
+            {
+              "label": "shows aneurysms ≥3 mm"
+            }
+          ]
+        },
+        {
+          "label": "MRI",
+          "children": [
+            {
+              "label": "shows most aneurysms >5 mm"
+            }
+          ]
+        },
+        {
+          "label": "conventional cerebral arteriography",
+          "children": [
+            {
+              "label": "high level of suspicion for aneurysm + negative finding on MRA or CTA"
+            }
+          ]
+        },
+        {
+          "label": "CT scan",
+          "children": [
+            {
+              "label": "immediately after aneurysm rupture to detect the presence of intraparenchymal and subarachnoid blood"
+            },
+            {
+              "label": "suspected subarachnoid hemorrhage + negative CT finding",
+              "children": [
+                {
+                  "label": "CTA"
+                },
+                {
+                  "label": "lumbar puncture",
+                  "children": [
+                    {
+                      "label": "should not be attempted in the presence of midline shift or evidence of cerebral (uncal) herniation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "enhanced CT scan can show large aneurysms",
+              "children": [
+                {
+                  "label": "not an acceptable screening test for unruptured aneurysms !"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "to screen for unruptured aneurysms",
+          "children": [
+            {
+              "label": "less expensive and associated with lower morbidity than conventional angiography"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Prognosis",
+      "children": [
+        {
+          "label": "risk of rupture is related to size",
+          "children": [
+            {
+              "label": "<10 mm",
+              "children": [
+                {
+                  "label": "<0.05% per year"
+                }
+              ]
+            },
+            {
+              "label": "≥25 mm",
+              "children": [
+                {
+                  "label": "6% rupture in the first year"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "once an aneurysm has ruptured, morbidity and mortality are high",
+          "children": [
+            {
+              "label": "30% die at the time of rupture"
+            },
+            {
+              "label": "untreated, another 33% die within 6 months"
+            },
+            {
+              "label": "15% more die within 10 years"
+            },
+            {
+              "label": "many of those who survive suffer severe neurologic deficits"
+            }
+          ]
+        },
+        {
+          "label": "references"
+        }
+      ]
+    },
+    {
+      "label": "Clinical presentation",
+      "children": [
+        {
+          "label": "unruptured aneurysms",
+          "children": [
+            {
+              "label": "progressive neurologic dysfunction",
+              "children": [
+                {
+                  "label": "particularly giant aneurysms"
+                },
+                {
+                  "label": "ophthalmic artery aneurysm",
+                  "children": [
+                    {
+                      "label": "progressive unilateral optic neuropathy"
+                    },
+                    {
+                      "label": "ipsilateral periocular pain"
+                    }
+                  ]
+                },
+                {
+                  "label": "anterior communicating artery aneurysm",
+                  "children": [
+                    {
+                      "label": "optic chiasm or optic tract compression"
+                    }
+                  ]
+                },
+                {
+                  "label": "aneurysm at the junction of the internal carotid and posterior communicating arteries",
+                  "children": [
+                    {
+                      "label": "ipsilateral third nerve palsy"
+                    }
+                  ]
+                },
+                {
+                  "label": "intracavernous carotid artery aneurysm",
+                  "children": [
+                    {
+                      "label": "fusiform enlargement (dolichoectasia)",
+                      "children": [
+                        {
+                          "label": "not berry type",
+                          "children": [
+                            {
+                              "label": "complete third nerve palsy with pupil involvement or partial third nerve palsy ± pupil involvement should raise suspicion of an aneurysm and prompt immediate neuroimaging"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "cavernous sinus syndrome",
+                      "children": [
+                        {
+                          "label": "CN III, IV, VI and ophthalmic branch of CN V",
+                          "children": [
+                            {
+                              "label": "singly or in combination"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "often produce facial pain",
+                      "children": [
+                        {
+                          "label": "typically do not rupture but cause progressive neurologic dysfunction"
+                        },
+                        {
+                          "label": "consider in the differential diagnosis of painful ophthalmoplegia"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pain is not a helpful symptom",
+              "children": [
+                {
+                  "label": "may be absent with unruptured aneurysms"
+                }
+              ]
+            },
+            {
+              "label": "other neurologic findings",
+              "children": [
+                {
+                  "label": "TIA",
+                  "children": [
+                    {
+                      "label": "may occur with cranial nerve palsies from microvascular ischemia"
+                    }
+                  ]
+                },
+                {
+                  "label": "cerebral infarction"
+                },
+                {
+                  "label": "seizures"
+                },
+                {
+                  "label": "may be caused by flow phenomena or distal embolization"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ruptured aneurysm",
+          "children": [
+            {
+              "label": "neurosurgical emergency"
+            },
+            {
+              "label": "subarachnoid or intraparenchymal hemorrhage"
+            },
+            {
+              "label": "± “sentinel bleed” before the major rupture"
+            },
+            {
+              "label": "headache",
+              "children": [
+                {
+                  "label": "“the worst of my life”"
+                },
+                {
+                  "label": "localized or generalized"
+                }
+              ]
+            },
+            {
+              "label": "nausea, vomiting"
+            },
+            {
+              "label": "fever",
+              "children": [
+                {
+                  "label": "neck stiffness",
+                  "children": [
+                    {
+                      "label": "meningeal irritation from subarachnoid blood"
+                    }
+                  ]
+                },
+                {
+                  "label": "rare"
+                }
+              ]
+            },
+            {
+              "label": "elevated intracranial pressure",
+              "children": [
+                {
+                  "label": "papilledema"
+                },
+                {
+                  "label": "sixth nerve palsies"
+                }
+              ]
+            },
+            {
+              "label": "altered mental status",
+              "children": [
+                {
+                  "label": "disoriented, lethargic, or comatose"
+                }
+              ]
+            },
+            {
+              "label": "ocular hemorrhage",
+              "children": [
+                {
+                  "label": "may accompany subarachnoid hemorrhage"
+                },
+                {
+                  "label": "location",
+                  "children": [
+                    {
+                      "label": "Intraretinal"
+                    },
+                    {
+                      "label": "preretinal",
+                      "children": [
+                        {
+                          "label": "subhyaloid"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "vitreous"
+                    },
+                    {
+                      "label": "subconjunctival"
+                    },
+                    {
+                      "label": "orbital"
+                    },
+                    {
+                      "label": "optic nerve sheath"
+                    }
+                  ]
+                },
+                {
+                  "label": "Terson syndrome",
+                  "children": [
+                    {
+                      "label": "subarachnoid hemorrhage + ocular hemorrhage"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "treatment of symptomatic aneurysms before rupture is ideal"
+        },
+        {
+          "label": "supportive treatment to stabilize the patient",
+          "children": [
+            {
+              "label": "lower intracranial pressure",
+              "children": [
+                {
+                  "label": "hyperventilation"
+                },
+                {
+                  "label": "mannitol",
+                  "children": [
+                    {
+                      "label": "calcium channel blockers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment of cerebral vasospasm",
+              "children": [
+                {
+                  "label": "blood volume expansion"
+                },
+                {
+                  "label": "control of blood pressure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "definitive treatment",
+          "children": [
+            {
+              "label": "surgical clipping of the aneurysm"
+            },
+            {
+              "label": "intravascular techniques",
+              "children": [
+                {
+                  "label": "coil embolization"
+                },
+                {
+                  "label": "stent placement"
+                },
+                {
+                  "label": "are replacing clipping as the preferred treatment"
+                }
+              ]
+            },
+            {
+              "label": "wrapping of the aneurysm wall",
+              "children": [
+                {
+                  "label": "when aneurysm clipping is technically impossible"
+                }
+              ]
+            },
+            {
+              "label": "ligation of the feeding artery or carotid artery",
+              "children": [
+                {
+                  "label": "when aneurysm clipping is technically impossible"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "poor prognostic sign"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.14.10. Systemic Conditions (X) - Cerebrovascular Disorders (II) Cerebral aneurysm.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 262,
+      "connector_rejected": 13,
+      "connector_edges": 175,
+      "connector_width": 0.731,
+      "text_labels": 145,
+      "tree_nodes": 145,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6679,
+      "root_font_size": 2.557,
+      "warnings": []
+    }
+  }
+}

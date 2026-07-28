@@ -1,0 +1,354 @@
+{
+  "label": "Chemical Injury",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "young lab technician was splashed in the eye with an alkaline solution"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "diffuse conjunctival injection with corneal edema and haze"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "chemical burn"
+        },
+        {
+          "label": "AACG"
+        },
+        {
+          "label": "traumatic iritis"
+        },
+        {
+          "label": "globe trauma"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "start rx at the scene"
+            },
+            {
+              "label": "copious irrigation",
+              "children": [
+                {
+                  "label": "lactated ringer"
+                },
+                {
+                  "label": "saline"
+                },
+                {
+                  "label": "tap water"
+                },
+                {
+                  "label": "until pH is 7.0",
+                  "children": [
+                    {
+                      "label": "check PH 10 min after irrigation ends"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "sweep & irrigate fornices"
+            },
+            {
+              "label": "cycloplegia"
+            },
+            {
+              "label": "topical antibiotic",
+              "children": [
+                {
+                  "label": "for severe burns",
+                  "children": [
+                    {
+                      "label": "q1h"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "preservative-free artifical tears",
+              "children": [
+                {
+                  "label": "q1h"
+                }
+              ]
+            },
+            {
+              "label": "oral pain medication"
+            },
+            {
+              "label": "lower eye pressure",
+              "children": [
+                {
+                  "label": "start if IOP elevated or cannot be measured"
+                },
+                {
+                  "label": "oral acetazolamide"
+                },
+                {
+                  "label": "topical timolol"
+                }
+              ]
+            },
+            {
+              "label": "topical steroids",
+              "children": [
+                {
+                  "label": "x 7 days",
+                  "children": [
+                    {
+                      "label": "taper after 7 days"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "oral doxycycline",
+              "children": [
+                {
+                  "label": "even in presence of CED"
+                },
+                {
+                  "label": "MMP inhibitor"
+                }
+              ]
+            },
+            {
+              "label": "oral ascorbate & citrate",
+              "children": [
+                {
+                  "label": "for alkali burns"
+                },
+                {
+                  "label": "promote collagen synthesis"
+                }
+              ]
+            },
+            {
+              "label": "avoid phenylephrine"
+            },
+            {
+              "label": "avoid alpha-agonsist",
+              "children": [
+                {
+                  "label": "if limbal ischemia"
+                }
+              ]
+            },
+            {
+              "label": "lysis of conjunctival adhesions",
+              "children": [
+                {
+                  "label": "bid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "amniotic membrane graft"
+            },
+            {
+              "label": "tarsorrhaphy"
+            },
+            {
+              "label": "PK",
+              "children": [
+                {
+                  "label": "12-18 months after injury"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "time of injury"
+            },
+            {
+              "label": "type of chemical"
+            },
+            {
+              "label": "eye protection"
+            },
+            {
+              "label": "time to irrigation"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "facial & lid burns"
+            },
+            {
+              "label": "inspect fornices for debris"
+            },
+            {
+              "label": "eyelid eversion",
+              "children": [
+                {
+                  "label": "Desmarres eyelid retractor"
+                }
+              ]
+            },
+            {
+              "label": "chemosis"
+            },
+            {
+              "label": "conjunctival or corneal ulcer"
+            },
+            {
+              "label": "limbal blanching"
+            },
+            {
+              "label": "fluorescein staining"
+            },
+            {
+              "label": "corneal stromal edema & opacity"
+            },
+            {
+              "label": "AC rxn"
+            },
+            {
+              "label": "retinal necrosis",
+              "children": [
+                {
+                  "label": "severe alkali burns"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "conjunctival scarring/ symblepharon"
+            },
+            {
+              "label": "entropion/trichiasis"
+            },
+            {
+              "label": "dry eye"
+            },
+            {
+              "label": "corneal melting"
+            },
+            {
+              "label": "corneal scarring"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "daily, then every few days until CED heals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "chemical injury",
+          "children": [
+            {
+              "label": "mild-moderate"
+            },
+            {
+              "label": "severe",
+              "children": [
+                {
+                  "label": "2nd-3rd degree skin burn"
+                },
+                {
+                  "label": "high IOP"
+                },
+                {
+                  "label": "severe chemosis"
+                },
+                {
+                  "label": "conjunctival/limbal blanching"
+                },
+                {
+                  "label": "corneal edema/opacification"
+                },
+                {
+                  "label": "moderate/severe AC rxn"
+                },
+                {
+                  "label": "local necrotic retinopathy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Chemical Injury.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 159,
+      "connector_rejected": 9,
+      "connector_edges": 124,
+      "connector_width": 1.901,
+      "text_labels": 91,
+      "tree_nodes": 91,
+      "component_roots": 6,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7799,
+      "root_font_size": 8.873,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,131 @@
+---
+title: "9.7.17. Infectious Ocular Inflammatory Diseases (XVII): Bacterial Uveitis (II): Ocular Syphilis (II)"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.7.17. Infectious Ocular Inflammatory Diseases (XVII) - Bacterial Uveitis (II) - Ocular Syphilis (II).pdf"
+---
+
+# 9.7.17. Infectious Ocular Inflammatory Diseases (XVII): Bacterial Uveitis (II): Ocular Syphilis (II)
+
+## Hierarchy
+
+- Treatment
+  - parenteral penicillin G
+    - preferred treatment for all stages of syphilis
+  - syphilitic uveitis requires neurologic dosing regimens
+  - CDC recommendation for the treatment of neurosyphilis
+    - 18–24 million units (MU) of aqueous crystalline penicillin G/day
+      - 3–4 MU intravenously every 4 hours
+      - continuous infusion
+    - +- supplemented with intramuscular benzathine penicillin G, 2.4 MU weekly for 3 weeks
+      - 10–14 days
+    - no proven alternatives to penicillin for the treatment of
+      - neurosyphilis
+      - congenital infection
+      - disease in pregnant women
+      - patients coinfected with HIV
+      - patients with penicillin allergy require desensitization and then treatment with penicillin
+    - alternative treatments in penicillin-allergic patients without neurosyphilis who are HIV- seronegative
+      - doxycycline
+      - tetracycline
+    - See Table 7-3
+      - effective alternatives in patients with ocular syphilis + HIV coinfection who are penicillin- allergic
+        - ceftriaxone
+        - chloramphenicol
+  - congenital syphilis
+    - infants during the first months of life
+    - intravenous aqueous crystalline penicillin G, 100,000–150,000 units/kg/day
+      - 50,000 units/kg/dose every 12 hours during the first 7 days of life
+      - 50,000 units/kg/dose every 8 hours after the first 7 days of life
+      - 10 days
+    - intramuscular procaine penicillin G, 50,000 units/kg/dose in a single daily dose
+      - 10 days
+  - topical, periocular, and/or systemic corticosteroids
+    - under appropriate antibiotic cover
+    - for treating the anterior and posterior segment inflammation
+  - Jarisch-Herxheimer reaction
+    - hypersensitivity response to treponemal antigens released as spirochetes are killed
+    - first 24 hours of treatment
+    - findings
+      - fever
+      - chills
+      - hypotension
+      - tachycardia
+      - malaise
+      - increase in the severity of ocular inflammation
+        - may require local and/or systemic corticosteroids
+    - supportive care and observation
+  - nationally “notifiable” disease
+    - appropriate health authorities should be notified
+  - sexual contacts must be identified and treated
+- Diagnosis
+  - history and clinical presentation
+  - direct visualization of spirochetes in lesion (exudates or tissue)
+    - primary syphilis
+      - dark-field microscopy
+      - direct fluorescent antibody test
+  - serologic testing
+    - nontreponemal tests
+      - Venereal Disease Research Laboratory (VDRL)
+      - rapid plasma reagin (RPR)
+      - correlate with disease activity
+        - increase during primary or secondary syphilis
+        - decrease when the spirochetes are not active
+          - latent syphilis
+          - after adequate antibiotic treatment
+      - for screening large populations with a relatively lower risk for syphilis
+        - useful for monitoring therapy for both systemic and ocular disease
+      - false+ nontreponemal test results
+        - SLE
+        - leprosy
+        - advanced age
+        - intravenous drug abuse
+        - bacterial endocarditis
+        - tuberculosis
+        - vaccinations
+        - infectious mononucleosis
+        - HIV infection
+        - atypical pneumonia
+        - malaria
+        - rickettsial infections
+    - treponemal tests
+      - fluorescent treponemal antibody absorption (FTA-ABS)
+        - other spirochetal infections (eg, Lyme disease)
+      - microhemagglutination assay for T pallidum antibodies (MHA-TP)
+      - secondary syphilis
+      - remain positive throughout life
+        - not useful in assessing therapeutic response
+      - false-positive treponemal test results
+        - other spirochetal infections (Lyme disease, leptospirosis)
+        - autoimmune disease (SLE, primary biliary cirrhosis, and rheumatoid arthritis)
+        - leprosy
+        - malaria
+        - rare
+          - advanced age
+          - 1%–2%
+      - higher predictive value in patients with uveitis
+      - should be used in conjunction with nontreponemal tests in diagnosing and treating ocular syphilis
+    - congenital syphilis
+      - VDRL and FTA-ABS IgG test results are positive among infants born to mothers with syphilis
+      - serodiagnosis of congenital syphilis is made using the FTA-ABS IgM test
+  - testing for HIV infection
+    - should be performed in all patients with syphilis
+    - every case of syphilitic uveitis
+      - false-positive and false-negative rates of serologic testing may be greater in HIV- infected patients
+  - CSF examination
+    - (+) CSF VDRL
+      - diagnostic of neurosyphilis
+        - high specificity
+          - VDRL is non-treponemal but more specific for neurosyphylis
+      - +- nonreactive in some cases of neurosyphilis
+        - low sensitivity
+      - repeat every 6 months until the cell count, protein, and VDRL results return to normal
+    - CSF FTA-ABS
+      - highly sensitive
+        - useful in excluding neurosyphilis
+  - specific ELISA- and PCR-based DNA amplification techniques
+    - high sensitivity and specificity
+    - on intraocular/cerebrospinal fluids
+      - valuable in confirming the diagnosis in atypical cases
+        - FTA-ABS is treponemal but less specific for neurosyphylis
+  - references

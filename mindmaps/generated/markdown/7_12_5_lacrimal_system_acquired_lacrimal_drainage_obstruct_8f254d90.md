@@ -1,0 +1,323 @@
+---
+title: "7.12.5. Lacrimal System: Acquired Lacrimal Drainage Obstruction (II)"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.12.5. Lacrimal System - Acquired Lacrimal Drainage Obstruction (II).pdf"
+---
+
+# 7.12.5. Lacrimal System: Acquired Lacrimal Drainage Obstruction (II)
+
+## Hierarchy
+
+- Punctal Disorders
+  - punctal stenosis and occlusion
+    - etiology
+      - congenital
+      - inflammatory
+        - Stevens-Johnson syndrome
+        - mucous membrane pemphigoid
+        - infectious
+          - herpes
+      - iatrogenic
+        - glaucoma medications
+        - deliberate occlusion
+      - punctal ectropion
+    - treatment
+      - dilation
+        - benefits of dilation are short-lived
+      - punctoplasty
+        - snip procedure
+          - small portion of the ampulla is excised
+      - stenting
+        - recurrent stenosis after punctoplasty
+        - complete occlusion
+          - surgical canalization + stenting
+  - punctal enlargement
+    - prevent formation of adequate seal
+      - lacrimal pump disruption
+        - suctioning of tears does not occur
+    - almost exclusively the result of iatrogenic injury
+      - stenting of lacrimal drainage system
+        - “cheese-wiring” of puncta and adjacent canaliculi
+          - patients with stents require periodic monitoring
+            - stents should be removed if punctal deformation is detected
+      - overly aggressive punctoplasty
+      - excision of adjacent neoplasms
+      - treatment
+        - damage to puncta should be avoided because no consistently effective treatment is available
+          - CDCR is the only reasonable alternative
+  - punctal malposition
+    - medial ectropion repair
+      - resection of a horizontal ellipse of conjunctival and subconjunctival connective tissue below the punctum, with reapposition of the edges
+      - ± horizontal eyelid tightening if laxity is present
+      - ± punctoplasty
+  - punctal obstruction/malposition by adjacent structures
+    - hypertrophied caruncle
+    - conjunctivochalasis
+- Acquired Nasolacrimal Duct Obstruction
+  - Etiology
+    - Involutional stenosis
+      - most common cause of NLDO in older persons
+      - F:M=2:1
+      - cause
+        - inflammatory infiltrates and edema
+          - unidentified infection
+          - ? autoimmune disease
+        - anatomical predisposition
+      - treatment
+        - DCR
+    - Dacryolith (concretions)
+      - form within the lacrimal sac
+      - pathogenesis
+        - infection with Actinomyces israelii
+        - infection with Candida species
+        - long-term administration of topical medications
+        - preexisting NLD obstruction
+          - symptoms are unremitting
+        - can form in patients with otherwise normal lacrimal drainage systems
+      - histology
+        - shed epithelial cells, lipids, and amorphous debris with or without calcium
+      - acute impaction of dacryolith in NLD
+        - intermittent symptoms
+          - lacrimal sac distension and substantial pain
+      - treatment
+        - external DCR
+    - Sinus disease
+      - may contribute to development of NLDO
+      - previous sinus surgery
+        - NLD is sometimes inadvertently damaged during sinus procedures
+    - Trauma
+      - naso-orbital fractures
+        - early fracture reduction
+          - +.
+            - stenting of the entire lacrimal drainage system
+        - late treatment of persistent epiphora usually requires DCR
+      - rhinoplasty
+      - endoscopic sinus surgery
+    - Inflammatory disease
+      - granulomatous disease
+        - sarcoidosis
+        - granulomatosis with polyangiitis (formerly, Wegener granulomatosis)
+        - lethal midline granuloma
+      - biopsy of lacrimal sac/NLD
+        - performed at time of DCR
+    - Lacrimal plugs
+      - dislodged punctal and canalicular plugs
+      - partially removed silicone stent
+      - treatment consists of DCR
+    - Radioactive iodine
+      - for treatment of thyroid cancer
+        - may lead to closure of lacrimal apparatus, specifically sac and duct
+        - not seen with lower dosages used for treatment of Graves hyperthyroidism
+    - Neoplasm
+      - atypical presentation
+        - younger age
+        - male sex
+        - bloody punctal discharge
+        - lacrimal sac distension above medial canthal tendon
+        - history of malignancy
+          - sinus or nasopharyngeal origin
+      - diagnostic workup
+        - CT or MRI
+        - preoperative endoscopy to evaluate for intranasal neoplasm
+        - biopsy
+          - if unexpected mass or other suggestive abnormality is encountered during surgery
+      - treatment
+        - initial treatment should focus on the neoplasm
+          - benign tumors
+            - DCR or CDCR
+          - malignant tumors
+            - surgical correction of nasolacrimal drainage system (DCR or CDCR) should be postponed until there is certainty of clear margins or freedom from recurrence
+  - Management
+    - intubation and stenting
+      - indication
+        - partial stenosis of the NLD with symptomatic epiphora
+      - surgical intubation of entire lacrimal drainage system
+        - only if the tubes can be passed easily
+      - ± balloon catheter
+      - intubation alone is not effective for complete NLDO
+        - DCR should be considered
+    - dacryocystorhinostomy (DCR)
+      - treatment of choice for most patients with acquired NLDO
+      - indications
+        - recurrent dacryocystitis
+          - active infection should be treated, if possible, before DCR is performed
+        - chronic mucoid reflux
+        - painful distension of the lacrimal sac
+        - bothersome epiphora
+      - technique
+        - anesthesia
+          - local anesthesia with intravenous sedation (monitored anesthesia care)
+            - most commonly used
+          - general anesthesia
+        - intraoperative hemostasis
+          - preoperative injection of lidocaine with epinephrine into medial canthal soft tissues
+          - intranasally injected anesthetic and nasal packing with vasoconstrictive agents
+            - oxymetazoline hydrochloride
+            - phenylephrine
+        - creating an anastomosis between lacrimal sac and nasal cavity through a bony ostium
+        - internal (intranasal) approach
+          - advantages
+            - lack of a visible scar
+            - shorter recovery period
+            - less discomfort
+          - technique
+            - approach
+              - endoscopic DCR
+              - direct visualization
+                - Internal DCRs through the nostril may also be performed under direct visualization
+            - removal of a nasal mucosal flap or en bloc resection
+            - osteotomy
+            - lacrimal sac is opened
+            - medial wall of the sac is removed
+              - preservation of the lacrimal and nasal mucosa may result in less scarring and a higher success rate
+            - sac is marsupialized into nose
+            - bicanalicular intubation
+            - ± fiber-optic probe passed through a canaliculus to transilluminate the lacrimal sac
+              - helps identify the thin lacrimal bone
+            - careful selection of patients with an adequate normal nasal cavity is crucial for success
+            - surgeon should be prepared to modify the nasal anatomy
+        - external (transcutaneous) approach
+          - better exposure for management of
+            - canalicular stenosis
+            - unexpected neoplasm
+            - dacryoliths
+          - skin incision
+            - avoid angular blood vessels
+            - avoid wound contractures leading to epicanthal folds
+          - osteotomy
+            - adjacent to the medial wall of the lacrimal sac
+              - hemostat
+              - rongeur
+              - trephine
+              - drill
+            - large osteotomy site facilitates the formation of posterior and anterior mucosal flaps from both lacrimal sac and nasal mucosa
+          - suturing of corresponding posterior flaps and anterior flaps is common
+            - sometimes only anterior flaps are anastomosed
+          - ± simultaneous stenting of the canaliculi with silicone tubes
+            - especially in patients who have common canalicular stenosis
+      - second attempts following failed DCR—no matter which approach was used—have a higher failure rate
+        - if an internal DCR fails, the likelihood of a successful external DCR is somewhat decreased
+      - biopsy with frozen section examination
+        - if abnormal tissue is found
+          - in the absence of a grossly visible abnormality or an indicative history, lacrimal sac biopsies are unlikely to reveal occult disease
+      - DCRs are successful in most patients
+      - failures are caused by
+        - fibrosis
+        - occlusion of the osteotomy
+        - common canalicular obstruction
+        - inappropriate placement or size of the bony ostium
+        - patient’s history of trauma
+        - coexisting autoimmune inflammatory disease
+        - active dacryocystitis
+        - postoperative infection
+        - hypersensitivity or foreign-body reactions to the stent
+      - when an initial DCR fails
+        - attempt a second DCR before resorting to CDCR
+      - some surgeons apply topical mitomycin C
+        - potent antiproliferative alkylating agent
+        - to prevent fibrosis at the osteotomy site
+- Canalicular Obstruction
+  - Evaluation
+    - lacrimal system irrigation
+      - partial obstruction
+        - partial fluid flow into nose + partial reflux
+        - what appears to be a partial obstruction may sometimes be a total functional occlusion
+      - total obstruction
+        - upper/lower canaliculus
+          - cannula is advanced with difficulty, and irrigation fluid refluxes from the same canaliculus
+        - common canaliculus
+          - high-velocity reflux from the opposite canaliculus
+    - lacrimal system probing
+      - upper/lower canalicular obstruction
+        - reveals canalicular obstruction proximal to common canaliculus
+      - total common canalicular obstruction
+        - lacrimal probe advances ≈8 mm from punctum before encountering a tactile soft stop
+  - Etiology
+    - Lacrimal plugs
+      - intracanalicular plugs
+        - most common
+        - permanent intracanalicular plug is a poorly conceived device that leads to partial canalicular obstruction and infection
+      - small punctal plugs
+        - may migrate into canaliculi and result in obstruction
+      - even temporary or absorbable plugs can cause local inflammatory response and canalicular constriction
+      - diagnostic workup
+        - canalicular probing
+        - high-frequency ultrasound
+      - treatment
+        - problematic plug is surgically excised
+        - ± excision of a short segment of scarred canaliculus
+          - reanastomosis over a stent
+      - references
+    - Infection
+      - diffuse conjunctival infection
+        - more common
+        - vaccinia virus
+        - herpes simplex virus
+      - Isolated canalicular infection
+        - canaliculitis
+    - Inflammatory disease
+      - mucous membrane pemphigoid
+      - Stevens-Johnson syndrome
+      - graft-vs-host disease
+      - because of concurrent loss of tear secretion, patients often do not experience epiphora
+    - Trauma
+    - Neoplasm
+      - complete resection of neoplasms in the medial canthal area may include removal of the puncta and canaliculi
+      - remaining portion of canaliculi may be marsupialized to the conjunctival surface
+        - ± intubation
+      - complete tumor excision must be confirmed by histologic examination before connection of lacrimal drainage system with the middle meatus is considered
+  - Management
+    - canalicular stenting (intubation)
+      - first-line therapy
+      - indication
+        - symptomatic canalicular constriction
+          - not complete occlusion!
+    - reconstruction
+      - successful when only a few millimeters are involved
+      - near the punctum
+        - occluded canaliculus is resected and cut ends are anastomosed over a stent
+      - distally or within the common canaliculus
+        - trephination of scarred segment to establish a patent lumen
+          - stenting to prevent contracture and to provide a scaffold for proper epithelialization
+      - during removal of a punctal or canalicular plug, a small segment of scarred canaliculus is often excised
+        - canaliculus is reconstructed over a stent
+      - laser canaliculoplasty
+        - holmium laser
+        - followed by stenting
+    - canaliculodacryocystorhinostomy
+      - common canaliculus is totally obstructed
+        - canaliculodacryocystorhinostomy
+          - area of total common canalicular obstruction is removed
+          - remaining patent canalicular system is directly anastomosed to the lacrimal sac mucosa
+          - silicone stent
+      - lacrimal sac is sclerotic
+        - canaliculorhinostomy
+          - remaining patent canalicular system is directly anastomosed to lateral nasal wall mucosa
+    - conjunctivodacryocystorhinostomy (CDCR)
+      - canalicular abnormality is so severe that canalicular system cannot be used or reconstructed
+      - technique
+        - rhinostomy
+        - Jones tube is placed through an opening created at inferior half of caruncle and then through osteotomy site into middle nasal meatus
+          - ± partial carunculectomy
+        - Gold dilators
+          - to enlarge mucosal opening prior to insertion of Jones tube
+        - desired tube length can be determined with a sizer
+          - have tubes of different lengths available at time of surgery
+        - ocular end of tube must be situated in tear lake
+        - nasal end must clear the anterior end of middle turbinate
+        - subtotal resection of anterior middle turbinate may be necessary
+      - complications
+        - obstruction of the tube with mucus
+          - forced inspiration, with mouth and nose manually closed, creates significant airflow through tube into nasal airway
+            - patients should be instructed to perform this maneuver daily
+        - migration of the tube
+          - loss of the tube, even if only for a few days, may lead to closure of the soft-tissue tract
+          - recurrent migration or loss of the tube
+            - use frosted, angled, or modified Jones tube
+            - porous polyethylene-coated tube
+              - allows ingrowth of fibrous tissue into its outer covering
+        - chronic foreign-body sensation
+        - mucus production
+        - pyogenic granuloma formation
+        - periodic removal, cleaning, and replacement of the Jones tube in the office may be necessary

@@ -1,0 +1,438 @@
+{
+  "label": "8.10.6. Ectatic Disorders (I): Keratoconus",
+  "root": true,
+  "children": [
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "common disorder",
+          "children": [
+            {
+              "label": "prevalence of ≈ 1/2000"
+            }
+          ]
+        },
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "positive family histories have been reported in 6%–8%",
+              "children": [
+                {
+                  "label": "hereditary pattern is not prominent or predictable",
+                  "children": [
+                    {
+                      "label": "multiple chromosomal loci have been reported"
+                    },
+                    {
+                      "label": "no specific genes have been identified"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinically unaffected first-degree relatives have a higher incidence of subclinical topographic abnormalities"
+            }
+          ]
+        },
+        {
+          "label": "environmental risk factors",
+          "children": [
+            {
+              "label": "eye rubbing"
+            },
+            {
+              "label": "inflammation"
+            },
+            {
+              "label": "atopy"
+            },
+            {
+              "label": "hard contact lens wear"
+            },
+            {
+              "label": "oxidative stress"
+            }
+          ]
+        },
+        {
+          "label": "increased prevalence of keratoconus",
+          "children": [
+            {
+              "label": "Down syndrome"
+            },
+            {
+              "label": "atopy"
+            },
+            {
+              "label": "floppy eyelid syndrome"
+            },
+            {
+              "label": "Leber congenital hereditary optic neuropathy"
+            },
+            {
+              "label": "numerous congenital anomalies of the eye"
+            },
+            {
+              "label": "vernal keratoconjunctivitis (VKC)"
+            },
+            {
+              "label": "Ehlers-Danlos syndrome type VI"
+            },
+            {
+              "label": "xeroderma pigmentosum",
+              "children": [
+                {
+                  "label": "mitral valve prolapse"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Marfan syndrome"
+    },
+    {
+      "label": "evaluation",
+      "children": [
+        {
+          "label": "computerized videokeratography",
+          "children": [
+            {
+              "label": "shows inferior steepening in the power map"
+            },
+            {
+              "label": "useful for",
+              "children": [
+                {
+                  "label": "detecting early keratoconus",
+                  "children": [
+                    {
+                      "label": "algorithms to diagnose forme fruste, or subclinical, keratoconus"
+                    }
+                  ]
+                },
+                {
+                  "label": "following progression"
+                },
+                {
+                  "label": "fitting contact lenses"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pachymetry mapping",
+          "children": [
+            {
+              "label": "shows the thin zone to be paracentral",
+              "children": [
+                {
+                  "label": "not at the steepest point!"
+                }
+              ]
+            },
+            {
+              "label": "ultrasonic pachymetry",
+              "children": [
+                {
+                  "label": "more accurate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "scanning slit and other elevation-based systems"
+        }
+      ]
+    },
+    {
+      "label": "pathology",
+      "children": [
+        {
+          "label": "fragmentation of the Bowman layer"
+        },
+        {
+          "label": "folds or breaks in the Descemet membrane"
+        },
+        {
+          "label": "thinning of the stroma and overlying epithelium"
+        },
+        {
+          "label": "variable amounts of diffuse scarring"
+        }
+      ]
+    },
+    {
+      "label": "management",
+      "children": [
+        {
+          "label": "glasses"
+        },
+        {
+          "label": "rigid or gas-permeable contact lenses",
+          "children": [
+            {
+              "label": "far more helpful in all but the mildest cases",
+              "children": [
+                {
+                  "label": "able to neutralize irregular corneal astigmatism"
+                }
+              ]
+            },
+            {
+              "label": "central subepithelial scar can, on occasion, be removed (nodulectomy) allowing continued wear of contact lenses"
+            }
+          ]
+        },
+        {
+          "label": "intrastromal rings & collagen crosslinking",
+          "children": [
+            {
+              "label": "flatten and centralize the cone",
+              "children": [
+                {
+                  "label": "improve vision"
+                },
+                {
+                  "label": "facilitate use of contact lenses"
+                }
+              ]
+            },
+            {
+              "label": "stabilize progression"
+            }
+          ]
+        },
+        {
+          "label": "corneal transplantation",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "contact lens intolerance even with good vision"
+                },
+                {
+                  "label": "poor vision even with a comfortable contact lens fit (usually due to scarring)"
+                },
+                {
+                  "label": "unstable contact lens fit (even with good vision and tolerance)"
+                },
+                {
+                  "label": "progressive thinning to the periphery approaching the limbus, requiring a very large graft (with increased risk)"
+                }
+              ]
+            },
+            {
+              "label": "PK",
+              "children": [
+                {
+                  "label": "most widely performed surgical procedure"
+                },
+                {
+                  "label": "prognosis is excellent"
+                }
+              ]
+            },
+            {
+              "label": "DALK",
+              "children": [
+                {
+                  "label": "wound integrity with DALK is superior",
+                  "children": [
+                    {
+                      "label": "leaves host’s endothelium untouched, decreasing rejection episodes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "hydrops",
+          "children": [
+            {
+              "label": "topical hypertonic agents"
+            },
+            {
+              "label": "patching or a soft contact lens"
+            },
+            {
+              "label": "cycloplegic agent"
+            },
+            {
+              "label": "aqueous suppressants"
+            },
+            {
+              "label": "x several months",
+              "children": [
+                {
+                  "label": "intracameral injection of gas"
+                }
+              ]
+            },
+            {
+              "label": "not an indication for immediate surgery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "bilateral",
+          "children": [
+            {
+              "label": "± asymmetrical",
+              "children": [
+                {
+                  "label": "less affected eye may show",
+                  "children": [
+                    {
+                      "label": "high astigmatism"
+                    },
+                    {
+                      "label": "enantiomorphism (a mirror image) on videokeratoscopy"
+                    },
+                    {
+                      "label": "mild steepening"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "early signs of keratoconus",
+          "children": [
+            {
+              "label": "scissoring of the red reflex on ophthalmoscopy or retinoscopy"
+            },
+            {
+              "label": "Rizzutti sign",
+              "children": [
+                {
+                  "label": "conical reflection on the nasal cornea when a penlight is shone from the temporal side"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "tends to progress during adolescence and mid-20s - 30s",
+          "children": [
+            {
+              "label": "central or paracentral cornea undergoes progressive thinning and bulging",
+              "children": [
+                {
+                  "label": "cornea takes on the shape of a cone"
+                },
+                {
+                  "label": "extreme degrees of irregular astigmatism can develop",
+                  "children": [
+                    {
+                      "label": "focal ruptures and flecklike scars in Bowman layer"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Munson sign",
+          "children": [
+            {
+              "label": "protrusion of the lower eyelid upon downgaze"
+            }
+          ]
+        },
+        {
+          "label": "Fleischer ring",
+          "children": [
+            {
+              "label": "brown iron deposit ring within the epithelium around base of cone"
+            },
+            {
+              "label": "best seen with cobalt blue filter"
+            }
+          ]
+        },
+        {
+          "label": "Vogt lines",
+          "children": [
+            {
+              "label": "fine, relucent, and roughly parallel striations of posterior stroma"
+            }
+          ]
+        },
+        {
+          "label": "spontaneous perforation",
+          "children": [
+            {
+              "label": "extremely rare"
+            }
+          ]
+        },
+        {
+          "label": "acute hydrops",
+          "children": [
+            {
+              "label": "tear in Descemet membrane",
+              "children": [
+                {
+                  "label": "sudden development of corneal edema"
+                },
+                {
+                  "label": "usually heals spontaneously in 6–12 weeks",
+                  "children": [
+                    {
+                      "label": "corneal edema disappears",
+                      "children": [
+                        {
+                          "label": "± stromal scarring"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "no associated inflammation"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.10.6. Ectatic Disorders (I) - Keratoconus.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 190,
+      "connector_rejected": 7,
+      "connector_edges": 130,
+      "connector_width": 1.241,
+      "text_labels": 109,
+      "tree_nodes": 109,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6842,
+      "root_font_size": 3.517,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "label": "8.10.2. Corneal Dystrophies (II): Bowman Layer Dystrophies",
+  "root": true,
+  "children": [
+    {
+      "label": "See Table 10-1"
+    },
+    {
+      "label": "Thiel-Behnke corneal dystrophy (TBCD)",
+      "children": [
+        {
+          "label": "autosomal dominant",
+          "children": [
+            {
+              "label": "5q31",
+              "children": [
+                {
+                  "label": "TGFBI",
+                  "children": [
+                    {
+                      "label": "similar to Reis-Bucklers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "10q24",
+              "children": [
+                {
+                  "label": "unknown gene"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "Bowman layer is replaced by fibrocellular material",
+              "children": [
+                {
+                  "label": "pathognomonic wavy, “saw-toothed” pattern"
+                }
+              ]
+            },
+            {
+              "label": "thickening of epithelial layer",
+              "children": [
+                {
+                  "label": "allows for ridges and furrows in underlying stroma"
+                }
+              ]
+            },
+            {
+              "label": "focal absences of the epithelial basement membrane"
+            }
+          ]
+        },
+        {
+          "label": "electron microscopy",
+          "children": [
+            {
+              "label": "curly fibers (9–15 nm) distinguish this dystrophy from RBCD"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "onset is in the first or second decade of life",
+              "children": [
+                {
+                  "label": "immunopositive for the TGFBI protein keratoepithelin associated with the 5q31 genetic locus"
+                },
+                {
+                  "label": "similar to Reis-Bucklers"
+                }
+              ]
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "reduced vision"
+                },
+                {
+                  "label": "discomfort and pain"
+                },
+                {
+                  "label": "clinically distinguishing TBCD from RBCD is difficult"
+                }
+              ]
+            },
+            {
+              "label": "symmetric subepithelial reticular (honeycomb) opacities",
+              "children": [
+                {
+                  "label": "initially spare the peripheral cornea",
+                  "children": [
+                    {
+                      "label": "may progress to deep stromal layers and corneal periphery"
+                    },
+                    {
+                      "label": "unlike granular dystrophy",
+                      "children": [
+                        {
+                          "label": "similar to Reis-Bucklers"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "recurrent erosions"
+            },
+            {
+              "label": "corneal opacification",
+              "children": [
+                {
+                  "label": "erosions in TBCD are less frequent and less severe than those with RBCD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "similar to that used in RBCD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Reis-Bücklers corneal dystrophy (RBCD)",
+      "children": [
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "autosomal dominant",
+              "children": [
+                {
+                  "label": "5q31",
+                  "children": [
+                    {
+                      "label": "gene TGFBI",
+                      "children": [
+                        {
+                          "label": "TGFBI protein keratoepithelin"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "Bowman layer is disrupted or absent",
+              "children": [
+                {
+                  "label": "replaced by a sheetlike connective tissue layer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "electron microscopy",
+          "children": [
+            {
+              "label": "electron-dense, rod-shaped bodies",
+              "children": [
+                {
+                  "label": "granular Masson trichrome-red deposits"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "electron microscopy is needed to histologically distinguish RBCD from Thiel- Behnke corneal dystrophy, which has curly fibers"
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "appears in the first few years of life"
+            },
+            {
+              "label": "confluent, irregular, and coarse geographic opacities with varying densities",
+              "children": [
+                {
+                  "label": "mainly affects the Bowman layer"
+                },
+                {
+                  "label": "mostly centrally",
+                  "children": [
+                    {
+                      "label": "with time, opacities extend to limbus and deeper stroma",
+                      "children": [
+                        {
+                          "label": "unlike granular dystrophy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "stromal scarring can lead to surface irregularity"
+            }
+          ]
+        },
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "begin in first or second decade of life",
+              "children": [
+                {
+                  "label": "painful recurrent epithelial erosions",
+                  "children": [
+                    {
+                      "label": "occur less often over time",
+                      "children": [
+                        {
+                          "label": "usually more severe and frequent than those in Thiel-Behnke corneal dystrophy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "decreased vision",
+              "children": [
+                {
+                  "label": "anterior scarring with surface irregularity"
+                },
+                {
+                  "label": "anterior stromal edema"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "treat recurrent erosions"
+            },
+            {
+              "label": "technique",
+              "children": [
+                {
+                  "label": "superficial keratectomy"
+                },
+                {
+                  "label": "LK"
+                },
+                {
+                  "label": "PTK"
+                },
+                {
+                  "label": "PK"
+                }
+              ]
+            },
+            {
+              "label": "recurrence in the graft is common"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.10.2. Corneal Dystrophies (II) - Bowman Layer Dystrophies.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 115,
+      "connector_rejected": 5,
+      "connector_edges": 76,
+      "connector_width": 1.406,
+      "text_labels": 72,
+      "tree_nodes": 72,
+      "component_roots": 2,
+      "spatially_recovered_labels": 9,
+      "connector_match_ratio": 0.6609,
+      "root_font_size": 3.984,
+      "warnings": []
+    }
+  }
+}

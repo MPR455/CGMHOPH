@@ -1,0 +1,151 @@
+---
+title: "5.14.11. Systemic Conditions (XI): Cerebrovascular Disorders (III)"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.14.11. Systemic Conditions (XI) - Cerebrovascular Disorders (III).pdf"
+---
+
+# 5.14.11. Systemic Conditions (XI): Cerebrovascular Disorders (III)
+
+## Hierarchy
+
+- supratentorial
+- 50%
+- Arteriovenous Malformations
+  - demographics
+    - congenital
+    - ± familial
+    - slight male preponderance
+      - onset of symptoms < 30 years of age
+      - 90%
+        - cortical (70%)>deep (20%)
+  - location
+    - posterior fossa or dura mater
+      - 10%
+  - clinical presentation
+    - initial manifestation
+      - Intracranial hemorrhage ± subarachnoid hemorrhage
+        - ≤20% early mortality
+        - rebleeding rate is 2.5% each year
+        - headaches and focal neurologic deficits
+      - seizures
+        - 30%
+      - headaches or other focal neurologic deficits
+        - 20%
+        - neurologic symptoms may be progressive or transient
+      - in contrast to patients with saccular aneurysms, patients with AVMs are much more likely to become symptomatic before a hemorrhage occurs
+    - neuro-ophthalmic manifestations of an AVM depend on its location
+      - occipital lobe AVMs
+        - visual symptoms and headaches that resemble migraine
+          - visual phenomena are usually brief and unformed
+        - hemispheric AVMs may produce homonymous visual field defects
+          - typical migrainous scintillating scotomata are rare
+      - brainstem AVMs
+        - diplopia
+        - nystagmus
+        - dizziness
+        - ocular motor nerve palsy
+        - gaze palsy
+        - anisocoria
+        - pupillary light–near dissociation
+      - transient monocular visual loss caused by a steal phenomenon from an intracranial AVM
+        - rare
+    - subjective intracranial bruit (tinnitus)
+      - ± audible bruit
+    - 6% of patients also have an intracranial aneurysm
+    - dural AVMs
+      - abnormal arterial communication with one of the dural venous sinuses
+        - account for 10%–15% of intracranial AVMs
+      - elevated venous pressure
+        - increased intracranial pressure
+          - may be mistaken for typical idiopathic intracranial hypertension (IIH)
+            - AVMs should be considered in patients who do not fit the usual IIH demographics and who have no other demonstrable cause of increased intracranial pressure
+      - tinnitus
+        - audible bruit
+      - difficult to diagnose without catheter angiography
+  - diagnosis
+    - CT scan
+      - unenhanced
+        - will show intracranial hemorrhage
+      - enhanced
+        - unruptured AVMs
+    - MRI
+      - more sensitive for visualizing small AVMs
+      - heterogeneous signals representing the various elements of the lesion
+    - cerebral angiography
+      - is required
+    - calcified AVMs are sometimes identifiable on plain radiograph or CT scan
+  - treatment
+    - surgical resection
+    - ligation of feeding vessels
+    - embolization
+    - stereotactic radiosurgery
+    - anticonvulsant therapy for seizure
+- Arterial Dissection
+  - Introduction
+    - involved vessels
+      - internal carotid artery or its branches
+      - vertebral and basilar arteries
+    - extracranial or intracranial
+    - traumatic or spontaneous
+      - symptoms may be delayed for weeks or months after trauma
+  - Clinical presentation
+    - Internal carotid artery dissection
+      - headache
+        - ipsilateral forehead, around the orbit
+        - ± neck pain
+      - ipsilateral ophthalmic signs
+        - amaurosis fugax
+        - monocular blindness
+          - embolic occlusion
+          - direct ophthalmic artery occlusion by the dissection
+        - Horner syndrome
+      - ± cranial neuropathies
+        - diplopia
+          - ocular ischemic syndrome
+          - altered taste
+        - dysgeusia
+        - tongue paralysis
+        - facial numbness
+        - if the dissection extends intracranially
+      - contralateral neurologic deficits
+        - acute stroke
+          - within the first 30 days of the dissection
+        - transient or permanent
+      - ± bruit
+    - Vertebral and basilar artery dissection
+      - 40%
+      - headache/neck pain
+      - brainstem and cerebellar dysfunction
+        - quadriplegia
+          - ocular motor cranial nerve palsies
+            - common
+        - coma
+        - death
+  - Diagnosis
+    - MRI
+      - false lumen (area of clotting)
+        - diagnostic test of choice for extracranial carotid artery dissection
+        - “crescent moon” sign
+      - may identify areas of brain infarction
+    - CT angiography
+      - sensitivity of 87%–100%
+        - allows visualization of the vertebrobasilar system
+    - MRI/MRA
+      - sensitivity of 87%–100%
+    - digital subtraction angiography
+      - not sufficient
+        - can give false-negative result
+          - 1/3
+    - ultrasonography
+  - Treatment
+    - extracranial carotid artery dissection
+      - medical
+        - antiplatelet drugs
+        - anticoagulants
+      - surgical
+        - endovascular therapy with stent placement
+        - bypass procedures
+    - vertebrobasilar dissection
+      - bypass procedures are sometimes employed
+- cannot be approached surgically

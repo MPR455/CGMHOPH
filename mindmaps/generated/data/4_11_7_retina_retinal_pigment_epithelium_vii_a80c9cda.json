@@ -1,0 +1,189 @@
+{
+  "label": "4.11.7. Retina & Retinal pigment Epithelium (VII)",
+  "root": true,
+  "children": [
+    {
+      "label": "Polypoidal choroidal vasculopathy",
+      "children": [
+        {
+          "label": "dilated, thin-walled vascular channels",
+          "children": [
+            {
+              "label": "from short posterior ciliary arteries",
+              "children": [
+                {
+                  "label": "penetrate into Bruch membrane"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "associated CNVM"
+        }
+      ]
+    },
+    {
+      "label": "Diabetic retinopathy",
+      "children": [
+        {
+          "label": "leading cause of blindness among 20-60 year- olds"
+        },
+        {
+          "label": "early physiologic changes",
+          "children": [
+            {
+              "label": "impaired autoregulation of retinal vessels",
+              "children": [
+                {
+                  "label": "alteration in retinal blood flow"
+                }
+              ]
+            },
+            {
+              "label": "breakdown of blood-retina barrier"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "thickening of basement membrane of retinal capillaries"
+            },
+            {
+              "label": "microaneurysm formation",
+              "children": [
+                {
+                  "label": "selective loss of pericytes of retinal capillaries"
+                }
+              ]
+            },
+            {
+              "label": "retinal capillary closure"
+            },
+            {
+              "label": "intraretinal microvascular abnormalities"
+            },
+            {
+              "label": "NFL infarcts (cotton-wool spots)",
+              "children": [
+                {
+                  "label": "focal inner retinal ischemic atrophy"
+                }
+              ]
+            },
+            {
+              "label": "thick corneal epithelial basement membrane",
+              "children": [
+                {
+                  "label": "inadequate adherence of epithelium to Bowman layer"
+                }
+              ]
+            },
+            {
+              "label": "lacy vacuolation of iris pigment epithelium",
+              "children": [
+                {
+                  "label": "glycogen",
+                  "children": [
+                    {
+                      "label": "PAS-positive"
+                    },
+                    {
+                      "label": "diastase-sensitive"
+                    }
+                  ]
+                },
+                {
+                  "label": "thick basement membrane of pigmented ciliary epithelium"
+                }
+              ]
+            },
+            {
+              "label": "laser photocoagulation scar",
+              "children": [
+                {
+                  "label": "outer retinal atrophy",
+                  "children": [
+                    {
+                      "label": "glial scarring"
+                    }
+                  ]
+                },
+                {
+                  "label": "RPE loss",
+                  "children": [
+                    {
+                      "label": "proliferation of adjacent RPE cells"
+                    }
+                  ]
+                },
+                {
+                  "label": "choriocapillaris occlusion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Retinopathy of Prematurity",
+      "children": [
+        {
+          "label": "oxygen-induced peripheral retinal vasoconstriction"
+        },
+        {
+          "label": "retinal vascular dilation",
+          "children": [
+            {
+              "label": "no retinal edema"
+            },
+            {
+              "label": "plus or rush disease"
+            }
+          ]
+        },
+        {
+          "label": "neovascularization of retina/vitreous",
+          "children": [
+            {
+              "label": "at the border between vascularized and avascular peripheral retina"
+            }
+          ]
+        },
+        {
+          "label": "fibrovascular proliferation"
+        },
+        {
+          "label": "tractional retinal detachment"
+        },
+        {
+          "label": "macular heterotopia"
+        },
+        {
+          "label": "high myopia"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.11.7. Retina & Retinal pigment Epithelium (VII).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 90,
+      "connector_rejected": 11,
+      "connector_edges": 57,
+      "connector_width": 1.341,
+      "text_labels": 44,
+      "tree_nodes": 44,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6333,
+      "root_font_size": 5.7,
+      "warnings": []
+    }
+  }
+}

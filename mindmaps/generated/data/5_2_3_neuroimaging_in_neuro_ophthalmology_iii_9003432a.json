@@ -1,0 +1,449 @@
+{
+  "label": "5.2.3. Neuroimaging in Neuro- Ophthalmology (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Fundamental Concepts in Localization",
+      "children": [
+        {
+          "label": "first goal of neuro-ophthalmic evaluation is clinical localization of the lesion",
+          "children": [
+            {
+              "label": "See Table 2-5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Negative Study Results",
+      "children": [
+        {
+          "label": "when an imaging study fails to demonstrate expected pathology",
+          "children": [
+            {
+              "label": "first step is to reexamine the study parameters",
+              "children": [
+                {
+                  "label": "speaking directly with the radiologist",
+                  "children": [
+                    {
+                      "label": "can provide the clinical information required to enhance the radiographic report’s accuracy and usefulness"
+                    }
+                  ]
+                },
+                {
+                  "label": "ideally with a neuroradiologist"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "were the appropriate studies performed, including required sequences and orientations?"
+        },
+        {
+          "label": "was the area of interest adequately imaged?"
+        },
+        {
+          "label": "are the study results really negative?"
+        }
+      ]
+    },
+    {
+      "label": "How to Order",
+      "children": [
+        {
+          "label": "provide pertinent clinical information to the radiologist",
+          "children": [
+            {
+              "label": "expected location of the pathology"
+            },
+            {
+              "label": "suspected differential diagnosis"
+            }
+          ]
+        },
+        {
+          "label": "inappropriate images are often worse than no images at all",
+          "children": [
+            {
+              "label": "provide a false sense of security"
+            },
+            {
+              "label": "create third-party–payer barriers to the required reimaging"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "When to Order",
+      "children": [
+        {
+          "label": "information acquired by imaging should",
+          "children": [
+            {
+              "label": "have some influence on patient management"
+            },
+            {
+              "label": "provide a more accurate prognosis of the disease’s natural history"
+            },
+            {
+              "label": "not be available by simpler or less expensive means"
+            }
+          ]
+        },
+        {
+          "label": "transient visual phenomena without residual deficit",
+          "children": [
+            {
+              "label": "most frequently related to large-vessel disease",
+              "children": [
+                {
+                  "label": "require assessment of the vascular structures"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "suspicion of a neoplastic mass lesion",
+          "children": [
+            {
+              "label": "order imaging study"
+            }
+          ]
+        },
+        {
+          "label": "optic neuropathy that is not otherwise clinically explained (decreased vision)",
+          "children": [
+            {
+              "label": "imaging of the course of the optic nerve"
+            }
+          ]
+        },
+        {
+          "label": "unilateral disc edema",
+          "children": [
+            {
+              "label": "anterior ischemic optic neuropathy (AION)",
+              "children": [
+                {
+                  "label": "imaging not required in classic nonarteritic AION"
+                }
+              ]
+            },
+            {
+              "label": "papillitis (acute optic neuritis)",
+              "children": [
+                {
+                  "label": "cerebral MRI",
+                  "children": [
+                    {
+                      "label": "cerebral white matter signal abnormalities typical of multiple sclerosis",
+                      "children": [
+                        {
+                          "label": "best demonstrated on",
+                          "children": [
+                            {
+                              "label": "T2-weighted images"
+                            },
+                            {
+                              "label": "FLAIR images"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "specific orbital MRI sequences",
+                  "children": [
+                    {
+                      "label": "postcontrast T1-weighted with fat saturation"
+                    },
+                    {
+                      "label": "T2-weighted"
+                    },
+                    {
+                      "label": "signal abnormalities within the affected optic nerve"
+                    }
+                  ]
+                },
+                {
+                  "label": "CT scan has very limited value in demyelinating disease"
+                }
+              ]
+            },
+            {
+              "label": "intraorbital compression"
+            }
+          ]
+        },
+        {
+          "label": "central visual function is affected without disc edema"
+        },
+        {
+          "label": "field defects respect the vertical midline",
+          "children": [
+            {
+              "label": "parachiasmal or retrochiasmal pathology"
+            }
+          ]
+        },
+        {
+          "label": "bitemporal visual field defects",
+          "children": [
+            {
+              "label": "chiasm or parasellar region",
+              "children": [
+                {
+                  "label": "pituitary adenoma with suprasellar extension"
+                },
+                {
+                  "label": "meningioma"
+                },
+                {
+                  "label": "craniopharyngioma"
+                },
+                {
+                  "label": "chiasmatic glioma"
+                },
+                {
+                  "label": "aneurysm"
+                },
+                {
+                  "label": "metastases"
+                },
+                {
+                  "label": "chordomas"
+                },
+                {
+                  "label": "dysgerminomas"
+                },
+                {
+                  "label": "lymphomas"
+                },
+                {
+                  "label": "histiocytoses"
+                },
+                {
+                  "label": "epidermoids"
+                },
+                {
+                  "label": "Rathke cleft cysts"
+                },
+                {
+                  "label": "granulomatous inflammatory disease",
+                  "children": [
+                    {
+                      "label": "most commonly vascular in origin",
+                      "children": [
+                        {
+                          "label": "should be imaged unless clearly associated with a prior stroke syndrome"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "homonymous visual field defects",
+          "children": [
+            {
+              "label": "retrochiasmal visual pathway"
+            }
+          ]
+        },
+        {
+          "label": "binocular double vision",
+          "children": [
+            {
+              "label": "both CT and MRI may provide necessary information regarding the extraocular muscles",
+              "children": [
+                {
+                  "label": "MRI is somewhat more sensitive to changes associated with inflammation or infiltration"
+                },
+                {
+                  "label": "CT delineates the size of the extraocular muscles well",
+                  "children": [
+                    {
+                      "label": "particularly on direct (ie, not reformatted) coronal images"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "acute onset of isolated ocular motor cranial nerve palsy",
+              "children": [
+                {
+                  "label": "most likely due to microvascular ischemia",
+                  "children": [
+                    {
+                      "label": "especially",
+                      "children": [
+                        {
+                          "label": "age >50 year"
+                        },
+                        {
+                          "label": "when associated with a history of diabetes mellitus, hypertension, or vascular disease"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "emergent imaging may not be required"
+                }
+              ]
+            },
+            {
+              "label": "pupil involving CN III palsy",
+              "children": [
+                {
+                  "label": "requires immediate imaging"
+                }
+              ]
+            },
+            {
+              "label": "simultaneously occurring ocular motor cranial nerve palsies",
+              "children": [
+                {
+                  "label": "especially when the fifth nerve is involved"
+                },
+                {
+                  "label": "cavernous sinus location is most likely"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "skew deviation",
+          "children": [
+            {
+              "label": "supranuclear lesion producing a vertical misalignment that does not fit the pattern of CN III or CN IV palsy"
+            },
+            {
+              "label": "MRI of the posterior fossa should be obtained"
+            }
+          ]
+        },
+        {
+          "label": "pain associated with ptosis and miosis (Horner syndrome)",
+          "children": [
+            {
+              "label": "carotid artery dissection should be suspected",
+              "children": [
+                {
+                  "label": "MRI/MRA"
+                },
+                {
+                  "label": "CT/CTA"
+                },
+                {
+                  "label": "through the carotid artery"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "conditions associated with negative imaging",
+          "children": [
+            {
+              "label": "AION (nonarteritic or arteritic)"
+            },
+            {
+              "label": "eye pain in a patient with normal findings on neuro-ophthalmic examination",
+              "children": [
+                {
+                  "label": "isolated microvascular ischemic ocular motor cranial neuropathy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "What to Order",
+      "children": [
+        {
+          "label": "MRI is usually more valuable than CT in detecting a lesion and narrowing the differential diagnosis"
+        },
+        {
+          "label": "suspected large-vessel disease",
+          "children": [
+            {
+              "label": "MRA"
+            },
+            {
+              "label": "CTA"
+            },
+            {
+              "label": "digital angiography"
+            }
+          ]
+        },
+        {
+          "label": "imaging should be done of brain and orbits",
+          "children": [
+            {
+              "label": "orbital imaging provides details of the optic nerves and surrounding tissues that are often not detected with brain imaging alone"
+            }
+          ]
+        },
+        {
+          "label": "pathology localized to the orbit",
+          "children": [
+            {
+              "label": "either CT or MRI can provide useful information"
+            },
+            {
+              "label": "orbital fat produces excellent contrast with the other orbital components on CT and MRI"
+            },
+            {
+              "label": "direct coronal images are useful in most orbital disorders",
+              "children": [
+                {
+                  "label": "with MRI, direct coronal imaging is not a problem"
+                },
+                {
+                  "label": "CT may require specific positioning (eg, neck extension)"
+                }
+              ]
+            },
+            {
+              "label": "MRI of the orbit should be done with fat- saturation techniques"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.2.3. Neuroimaging in Neuro- Ophthalmology (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 198,
+      "connector_rejected": 10,
+      "connector_edges": 136,
+      "connector_width": 0.917,
+      "text_labels": 112,
+      "tree_nodes": 112,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6869,
+      "root_font_size": 3.438,
+      "warnings": []
+    }
+  }
+}

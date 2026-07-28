@@ -1,0 +1,216 @@
+{
+  "label": "11.3.5. Developmental Defects (IV): Congenital Cataract (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Coronary",
+      "children": [
+        {
+          "label": "club-shaped cortical opacities arranged around the equator of the lens like a crown, or corona"
+        },
+        {
+          "label": "autosomal dominant"
+        },
+        {
+          "label": "cannot be seen unless the pupil is dilated"
+        },
+        {
+          "label": "do not affect visual acuity"
+        }
+      ]
+    },
+    {
+      "label": "Membranous",
+      "children": [
+        {
+          "label": "lens proteins are resorbed from either an intact or a traumatized lens",
+          "children": [
+            {
+              "label": "the anterior and posterior lens capsules fuse into a dense white membrane"
+            }
+          ]
+        },
+        {
+          "label": "significant visual disability"
+        }
+      ]
+    },
+    {
+      "label": "Cerulean",
+      "children": [
+        {
+          "label": "small bluish opacities located in the lens cortex",
+          "children": [
+            {
+              "label": "blue-dot cataracts"
+            }
+          ]
+        },
+        {
+          "label": "nonprogressive"
+        },
+        {
+          "label": "do not cause visual symptoms"
+        }
+      ]
+    },
+    {
+      "label": "Complete (total)",
+      "children": [
+        {
+          "label": "all of the lens fibers are opacified",
+          "children": [
+            {
+              "label": "may be subtotal at birth and progress rapidly"
+            }
+          ]
+        },
+        {
+          "label": "unilateral or bilateral"
+        },
+        {
+          "label": "red reflex is completely obscured"
+        },
+        {
+          "label": "profound visual impairment"
+        }
+      ]
+    },
+    {
+      "label": "Nuclear",
+      "children": [
+        {
+          "label": "opacities of the embryonic nucleus alone or of both embryonic and fetal nuclei"
+        },
+        {
+          "label": "complete nucleus or discrete layers within the nucleus"
+        },
+        {
+          "label": "bilateral"
+        },
+        {
+          "label": "+- microphthalmia"
+        },
+        {
+          "label": "risk of developing aphakic glaucoma"
+        }
+      ]
+    },
+    {
+      "label": "Congenital rubella syndrome",
+      "children": [
+        {
+          "label": "maternal infection with the rubella virus (RNA togavirus)",
+          "children": [
+            {
+              "label": "especially if the infection occurs during the first trimester"
+            }
+          ]
+        },
+        {
+          "label": "systemic manifestations",
+          "children": [
+            {
+              "label": "cardiac defects"
+            },
+            {
+              "label": "deafness"
+            },
+            {
+              "label": "mental disability"
+            }
+          ]
+        },
+        {
+          "label": "ocular manifestations",
+          "children": [
+            {
+              "label": "cataract",
+              "children": [
+                {
+                  "label": "pearly white nuclear opacifications"
+                },
+                {
+                  "label": "+- complete cataract",
+                  "children": [
+                    {
+                      "label": "the cortex may liquefy"
+                    }
+                  ]
+                },
+                {
+                  "label": "lens-fiber nuclei are retained deep within the lens substance"
+                },
+                {
+                  "label": "live virus particles may be recovered from the lens as late as 3 years after birth"
+                },
+                {
+                  "label": "cataract removal may be complicated by excessive postoperative inflammation",
+                  "children": [
+                    {
+                      "label": "release of live virus particles!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "diffuse pigmentary retinopathy"
+            },
+            {
+              "label": "microphthalmos"
+            },
+            {
+              "label": "glaucoma",
+              "children": [
+                {
+                  "label": "cataract and glaucoma are not present simultaneously!"
+                }
+              ]
+            },
+            {
+              "label": "transient or permanent corneal clouding"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Capsular",
+      "children": [
+        {
+          "label": "small opacifications of the lens epithelium and anterior lens capsule",
+          "children": [
+            {
+              "label": "spare the cortex"
+            },
+            {
+              "label": "differentiated from anterior polar cataracts by their protrusion into the anterior chamber"
+            }
+          ]
+        },
+        {
+          "label": "generally do not adversely affect vision"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.3.5. Developmental Defects (IV) - Congenital Cataract (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 49,
+      "connector_rejected": 4,
+      "connector_edges": 45,
+      "connector_width": 0.598,
+      "text_labels": 53,
+      "tree_nodes": 53,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9184,
+      "root_font_size": 5.683,
+      "warnings": []
+    }
+  }
+}

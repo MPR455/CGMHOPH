@@ -1,0 +1,428 @@
+{
+  "label": "5.4.8. Patient With Decreased Vision: Posterior Optic Neuropathies (I): Retrobulbar Optic Neuritis",
+  "root": true,
+  "children": [
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "young (mean age, 32 years)"
+        },
+        {
+          "label": "female (77%)"
+        }
+      ]
+    },
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "subacute visual loss",
+          "children": [
+            {
+              "label": "over several days"
+            }
+          ]
+        },
+        {
+          "label": "monocular"
+        },
+        {
+          "label": "65% retrobulbar",
+          "children": [
+            {
+              "label": "optic disc appears normal"
+            }
+          ]
+        },
+        {
+          "label": "periorbital pain",
+          "children": [
+            {
+              "label": "92%"
+            },
+            {
+              "label": "with eye movement"
+            }
+          ]
+        },
+        {
+          "label": "dyschromatopsia",
+          "children": [
+            {
+              "label": "nearly universal",
+              "children": [
+                {
+                  "label": "often precedes vision loss"
+                }
+              ]
+            },
+            {
+              "label": "particularly for red"
+            },
+            {
+              "label": "out of proportion to the visual acuity loss"
+            }
+          ]
+        },
+        {
+          "label": "RAPD"
+        },
+        {
+          "label": "atypical features that should prompt further evaluation",
+          "children": [
+            {
+              "label": "lack of pain"
+            },
+            {
+              "label": "protracted pain"
+            },
+            {
+              "label": "protracted vision loss",
+              "children": [
+                {
+                  "label": "lack of any vision recovery by 1 month"
+                }
+              ]
+            },
+            {
+              "label": "bilateral vision loss"
+            },
+            {
+              "label": "significant swelling of the optic disc"
+            },
+            {
+              "label": "inflammatory ocular features",
+              "children": [
+                {
+                  "label": "uveitis"
+                },
+                {
+                  "label": "phlebitis"
+                },
+                {
+                  "label": "choroiditis"
+                },
+                {
+                  "label": "pars planitis"
+                }
+              ]
+            },
+            {
+              "label": "involvement of other cranial nerves"
+            },
+            {
+              "label": "steroid-responsive optic neuropathy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "prognosis",
+      "children": [
+        {
+          "label": "improvement within 1 month"
+        },
+        {
+          "label": "ONTT 10-year follow-up study",
+          "children": [
+            {
+              "label": "recurrence in the affected or fellow eye",
+              "children": [
+                {
+                  "label": "overall",
+                  "children": [
+                    {
+                      "label": "35%"
+                    }
+                  ]
+                },
+                {
+                  "label": "in patients with conversion to MS",
+                  "children": [
+                    {
+                      "label": "48%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "most eyes with a recurrence regained normal or almost-normal vision",
+          "children": [
+            {
+              "label": "recovery of visual acuity to ≥20/40",
+              "children": [
+                {
+                  "label": "92%"
+                }
+              ]
+            },
+            {
+              "label": "final visual acuities of ≤20/200",
+              "children": [
+                {
+                  "label": "3%"
+                }
+              ]
+            },
+            {
+              "label": "25%",
+              "children": [
+                {
+                  "label": "studies using measures of visual function other than Snellen visual acuity show residual abnormalities in ≤90% of patients with ≥20/30 visual acuity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "risk for MS",
+          "children": [
+            {
+              "label": "zero lesions on MRI",
+              "children": [
+                {
+                  "label": "predictors of lower risk of future MS in patients with normal baseline MRI",
+                  "children": [
+                    {
+                      "label": "male sex"
+                    },
+                    {
+                      "label": "optic disc swelling"
+                    },
+                    {
+                      "label": "atypical features of optic neuritis",
+                      "children": [
+                        {
+                          "label": "absence of pain"
+                        },
+                        {
+                          "label": "no light perception vision"
+                        },
+                        {
+                          "label": "peripapillary hemorrhages"
+                        },
+                        {
+                          "label": "retinal exudates"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "≥1 lesion on MRI",
+              "children": [
+                {
+                  "label": "72%"
+                }
+              ]
+            },
+            {
+              "label": "highest rate of conversion to MS is within the first 5 years",
+              "children": [
+                {
+                  "label": "patients with normal MRI and no conversion to MS by year 10",
+                  "children": [
+                    {
+                      "label": "2% risk of conversion by year 15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "corticosteroid therapy",
+          "children": [
+            {
+              "label": "intravenous methylprednisolone",
+              "children": [
+                {
+                  "label": "250 mg every 6 hours for 3 days",
+                  "children": [
+                    {
+                      "label": "followed by oral prednisone, 1 mg/kg/day for 11 days"
+                    }
+                  ]
+                },
+                {
+                  "label": "no long-term beneficial effect on vision"
+                },
+                {
+                  "label": "sped recovery by 1–2 weeks"
+                },
+                {
+                  "label": "reduces the rate of clinically definite MS after the initial optic neuritis only in patients with ≥2 white matter lesions",
+                  "children": [
+                    {
+                      "label": "at 2 years",
+                      "children": [
+                        {
+                          "label": "36% untreated"
+                        },
+                        {
+                          "label": "16% treated"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "consider treatment for cases in which a rapid return of vision is essential",
+                  "children": [
+                    {
+                      "label": "monocular patient",
+                      "children": [
+                        {
+                          "label": "by follow-up year 3, this protective effect was lost",
+                          "children": [
+                            {
+                              "label": "value to reduce the long-term risk of MS is unproven"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "occupational need"
+                    },
+                    {
+                      "label": "intravenous methylprednisolone on an outpatient basis may be considered"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "oral prednisone alone",
+              "children": [
+                {
+                  "label": "did not have any benefit to vision"
+                },
+                {
+                  "label": "incurred a recurrence rate double that of the other groups"
+                },
+                {
+                  "label": "not recommended"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Immunomodulatory therapy",
+          "children": [
+            {
+              "label": "proven benefit for reducing morbidity in the relapsing-remitting form of MS"
+            },
+            {
+              "label": "delay conversion of patients with acute optic neuritis to definite MS"
+            }
+          ]
+        },
+        {
+          "label": "the value of therapy and of additional diagnostic evaluation for MS must be assessed individually"
+        },
+        {
+          "label": "references"
+        }
+      ]
+    },
+    {
+      "label": "diagnostic workup",
+      "children": [
+        {
+          "label": "MRI of the brain",
+          "children": [
+            {
+              "label": "to evaluate for periventricular white matter lesions"
+            },
+            {
+              "label": "recommended in every case of retrobulbar neuritis without known diagnosis of MS"
+            }
+          ]
+        },
+        {
+          "label": "perimetry",
+          "children": [
+            {
+              "label": "generalized reduction of sensitivity",
+              "children": [
+                {
+                  "label": "48%"
+                }
+              ]
+            },
+            {
+              "label": "any pattern of visual field loss may appear"
+            }
+          ]
+        },
+        {
+          "label": "additional testing for atypical cases",
+          "children": [
+            {
+              "label": "serum and CSF rapid plasma reagin and fluorescent treponemal antibody absorption testing (for syphilis)",
+              "children": [
+                {
+                  "label": "for CSF analysis, refer to a consulting neurologist"
+                }
+              ]
+            },
+            {
+              "label": "chest x-ray, gallium scan, serum angiotensin- converting enzyme testing (for sarcoidosis)"
+            },
+            {
+              "label": "ESR determination, ANA testing, and anti-DNA antibody testing (for systemic lupus erythematosus or vasculitis)"
+            },
+            {
+              "label": "serum neuromyelitis optica IgG testing and spinal MRI (for neuromyelitis)"
+            },
+            {
+              "label": "brain and orbit MRI with gadolinium contrast (for compressive, infiltrative disorders)"
+            },
+            {
+              "label": "testing of antibody titers for Lyme disease (if endemic)"
+            },
+            {
+              "label": "Leber hereditary optic neuropathy testing"
+            },
+            {
+              "label": "serum Quantiferon Gold testing or purified protein derivative skin test (for tuberculosis)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.4.8. Patient With Decreased Vision - Posterior Optic Neuropathies (I) - Retrobulbar Optic Neuritis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 184,
+      "connector_rejected": 3,
+      "connector_edges": 127,
+      "connector_width": 0.955,
+      "text_labels": 107,
+      "tree_nodes": 107,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6902,
+      "root_font_size": 3.582,
+      "warnings": []
+    }
+  }
+}

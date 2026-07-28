@@ -1,0 +1,534 @@
+{
+  "label": "4.13.2. Eyelids (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Degenerations",
+      "children": [
+        {
+          "label": "Xanthelasma",
+          "children": [
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "single or multiple"
+                },
+                {
+                  "label": "soft"
+                },
+                {
+                  "label": "yellow plaques"
+                },
+                {
+                  "label": "medial canthal region"
+                }
+              ]
+            },
+            {
+              "label": "hyperlipoproteinemia (types II & III)",
+              "children": [
+                {
+                  "label": "30-40%"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "in dermis",
+                  "children": [
+                    {
+                      "label": "foamy histiocytes"
+                    },
+                    {
+                      "label": "around blood vessels"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Amyloid",
+          "children": [
+            {
+              "label": "extracellular proteins",
+              "children": [
+                {
+                  "label": "ß-pleated sheath",
+                  "children": [
+                    {
+                      "label": "congo red stain + polarized light",
+                      "children": [
+                        {
+                          "label": "birefringence"
+                        },
+                        {
+                          "label": "dichroism"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "examples",
+              "children": [
+                {
+                  "label": "Ig light chain fragments (AL amyloid)",
+                  "children": [
+                    {
+                      "label": "plasma cell dyscrasia"
+                    }
+                  ]
+                },
+                {
+                  "label": "transthyretin mutations",
+                  "children": [
+                    {
+                      "label": "familial amyloid polyneuropathy (FAP) (types 1 & 2)"
+                    }
+                  ]
+                },
+                {
+                  "label": "gelsolin mutations",
+                  "children": [
+                    {
+                      "label": "FAP (type IV) (Meretoja syndrome)",
+                      "children": [
+                        {
+                          "label": "lattice corneal dystrophy type II"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "eyelid skin",
+              "children": [
+                {
+                  "label": "systemic disease"
+                }
+              ]
+            },
+            {
+              "label": "eyelid skin amyloidosis",
+              "children": [
+                {
+                  "label": "elsewhere in ocular adnexa",
+                  "children": [
+                    {
+                      "label": "localized disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "multiple, bilateral, symmetric, waxy yellow- white nodules"
+                },
+                {
+                  "label": "intradermal hemorrhage (purpura)"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "amorphous eosinophilic extracellular material",
+                  "children": [
+                    {
+                      "label": "within vessel walls"
+                    },
+                    {
+                      "label": "around peripheral nerves"
+                    },
+                    {
+                      "label": "around sweat glands"
+                    }
+                  ]
+                },
+                {
+                  "label": "stains",
+                  "children": [
+                    {
+                      "label": "congo red"
+                    },
+                    {
+                      "label": "crystal violet"
+                    },
+                    {
+                      "label": "thioflavin T"
+                    },
+                    {
+                      "label": "See Table 13-2"
+                    }
+                  ]
+                },
+                {
+                  "label": "electron microscopy",
+                  "children": [
+                    {
+                      "label": "randomly oriented extracellular fibrils",
+                      "children": [
+                        {
+                          "label": "7-10 nm"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Eyelid manifestations of systemic disease",
+              "children": [
+                {
+                  "label": "Erdheim-Chester disease",
+                  "children": [
+                    {
+                      "label": "Xanthelasma, xanthogranuloma"
+                    }
+                  ]
+                },
+                {
+                  "label": "Hyperlipoproteinemia",
+                  "children": [
+                    {
+                      "label": "Xanthelasma"
+                    }
+                  ]
+                },
+                {
+                  "label": "Amyloidosis",
+                  "children": [
+                    {
+                      "label": "Waxy papules, ptosis, purpura"
+                    }
+                  ]
+                },
+                {
+                  "label": "Sarcoidosis",
+                  "children": [
+                    {
+                      "label": "Papules"
+                    }
+                  ]
+                },
+                {
+                  "label": "Wegener granulomatosis",
+                  "children": [
+                    {
+                      "label": "Edema, ptosis, lower lid retraction"
+                    }
+                  ]
+                },
+                {
+                  "label": "Scleroderma",
+                  "children": [
+                    {
+                      "label": "Reduced mobility, taut skin"
+                    }
+                  ]
+                },
+                {
+                  "label": "Polyarteritis nodosa",
+                  "children": [
+                    {
+                      "label": "Focal infarct"
+                    }
+                  ]
+                },
+                {
+                  "label": "Systemic lupus erythematosus",
+                  "children": [
+                    {
+                      "label": "Telangiectasis, edema"
+                    }
+                  ]
+                },
+                {
+                  "label": "Dermatomyositis",
+                  "children": [
+                    {
+                      "label": "Edema, erythema"
+                    }
+                  ]
+                },
+                {
+                  "label": "Relapsing polychondritis",
+                  "children": [
+                    {
+                      "label": "Papules"
+                    }
+                  ]
+                },
+                {
+                  "label": "Carney complex",
+                  "children": [
+                    {
+                      "label": "Myxoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "Fraser syndrome",
+                  "children": [
+                    {
+                      "label": "autosomal recessive"
+                    },
+                    {
+                      "label": "Cryptophthalmos"
+                    },
+                    {
+                      "label": "partial syndactyly"
+                    },
+                    {
+                      "label": "genitourinary anomalies"
+                    }
+                  ]
+                },
+                {
+                  "label": "Treacher Collins syndrome",
+                  "children": [
+                    {
+                      "label": "Lower lid coloboma"
+                    },
+                    {
+                      "label": "downward palpebral fissure"
+                    },
+                    {
+                      "label": "mandibulofacial dysostosis (Treacher Collins– Franceschetti syndrome)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Inflammations",
+      "children": [
+        {
+          "label": "Infectious",
+          "children": [
+            {
+              "label": "Hordeolum (stye)",
+              "children": [
+                {
+                  "label": "glands of Zeis"
+                },
+                {
+                  "label": "meibomian glands"
+                },
+                {
+                  "label": "small abscess",
+                  "children": [
+                    {
+                      "label": "neutrophils"
+                    },
+                    {
+                      "label": "necrotic debris"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Cellulitis",
+              "children": [
+                {
+                  "label": "preseptal cellulitis",
+                  "children": [
+                    {
+                      "label": "anterior to orbital septum"
+                    },
+                    {
+                      "label": "bacterial infection",
+                      "children": [
+                        {
+                          "label": "paranasal sinus infection"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "histology",
+                      "children": [
+                        {
+                          "label": "neutrophilic infiltration"
+                        },
+                        {
+                          "label": "interstitial edema"
+                        },
+                        {
+                          "label": "+- necrosis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Viral infections",
+              "children": [
+                {
+                  "label": "Verruca vulgaris (wart)",
+                  "children": [
+                    {
+                      "label": "human papillomavirus"
+                    },
+                    {
+                      "label": "histology",
+                      "children": [
+                        {
+                          "label": "hyperkeratosis"
+                        },
+                        {
+                          "label": "acanthosis",
+                          "children": [
+                            {
+                              "label": "koilocytosis",
+                              "children": [
+                                {
+                                  "label": "cytoplasmic clearing (perinuclear halo)"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "papillary growth pattern"
+                        },
+                        {
+                          "label": "mixed inflammatory infiltrate in superficial dermis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Molluscum contagiosum",
+                  "children": [
+                    {
+                      "label": "poxvirus"
+                    },
+                    {
+                      "label": "clinical",
+                      "children": [
+                        {
+                          "label": "epidermal nodules",
+                          "children": [
+                            {
+                              "label": "dome-shaped"
+                            },
+                            {
+                              "label": "waxy"
+                            },
+                            {
+                              "label": "central umbilication"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "secondary follicular conjunctivitis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "histology",
+                      "children": [
+                        {
+                          "label": "nodule of infected epidermis",
+                          "children": [
+                            {
+                              "label": "central focus of necrotic cells"
+                            },
+                            {
+                              "label": "central crater"
+                            },
+                            {
+                              "label": "viral inclusions (molluscum bodies)",
+                              "children": [
+                                {
+                                  "label": "eosinophilic"
+                                },
+                                {
+                                  "label": "become basophilic as they move to the surface"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Noninfectious",
+          "children": [
+            {
+              "label": "Chalazion",
+              "children": [
+                {
+                  "label": "lipid discharged into surrounding tissues",
+                  "children": [
+                    {
+                      "label": "meibomian glands"
+                    },
+                    {
+                      "label": "glands of zeis"
+                    }
+                  ]
+                },
+                {
+                  "label": "lipogranulomatous reaction",
+                  "children": [
+                    {
+                      "label": "epithelioid histiocytes"
+                    },
+                    {
+                      "label": "multinucleated giant cells"
+                    },
+                    {
+                      "label": "central clear spaces (lipid dropout)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.13.2. Eyelids (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 270,
+      "connector_rejected": 14,
+      "connector_edges": 167,
+      "connector_width": 1.327,
+      "text_labels": 131,
+      "tree_nodes": 131,
+      "component_roots": 2,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6185,
+      "root_font_size": 4.424,
+      "warnings": []
+    }
+  }
+}

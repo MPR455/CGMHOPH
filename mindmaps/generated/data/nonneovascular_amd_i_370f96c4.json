@@ -1,0 +1,595 @@
+{
+  "label": "Nonneovascular AMD (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction to AMD",
+      "children": [
+        {
+          "label": "Normal aging changes in the macula",
+          "children": [
+            {
+              "label": "reduction in density & distribution of photoreceptors"
+            },
+            {
+              "label": "RPE changes",
+              "children": [
+                {
+                  "label": "loss of melanin granules"
+                },
+                {
+                  "label": "formation of lipofuscin granules"
+                },
+                {
+                  "label": "accumulation of residual bodies"
+                }
+              ]
+            },
+            {
+              "label": "accumulation of basal laminar/linear deposits",
+              "children": [
+                {
+                  "label": "granular lipid-rich material"
+                },
+                {
+                  "label": "widely spaced collagen fibers",
+                  "children": [
+                    {
+                      "label": "between plasma membrane of RPE cells and inner collagenous layer of Bruch membrane on either side of basement membrane of RPE"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "involutional changes in the choriocapillaris"
+            }
+          ]
+        },
+        {
+          "label": "Demographics of AMD",
+          "children": [
+            {
+              "label": "leading cause of blindness in the developed world after age 50"
+            },
+            {
+              "label": "North America",
+              "children": [
+                {
+                  "label": "“dry” (nonneovascular, or non-exudative) AMD",
+                  "children": [
+                    {
+                      "label": "11 million (85%–90%)"
+                    }
+                  ]
+                },
+                {
+                  "label": "“wet” (neovascular) AMD",
+                  "children": [
+                    {
+                      "label": "1.5 million (10%–15%)"
+                    },
+                    {
+                      "label": "71,000 new cases each year"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "risk factors for AMD",
+              "children": [
+                {
+                  "label": "age",
+                  "children": [
+                    {
+                      "label": ".>65 years",
+                      "children": [
+                        {
+                          "label": "10%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": ".>75 years",
+                      "children": [
+                        {
+                          "label": "25%"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "female sex"
+                },
+                {
+                  "label": "hypertension"
+                },
+                {
+                  "label": "hypercholesterolemia"
+                },
+                {
+                  "label": "cardiovascular disease"
+                },
+                {
+                  "label": "higher waist-to-hip ratio in men"
+                },
+                {
+                  "label": "positive family history"
+                },
+                {
+                  "label": "cigarette smoking"
+                },
+                {
+                  "label": "elevated levels of C-reactive protein and other inflammatory markers"
+                },
+                {
+                  "label": "hyperopia"
+                },
+                {
+                  "label": "light iris color"
+                },
+                {
+                  "label": "race",
+                  "children": [
+                    {
+                      "label": "lowest in African Americans (2.4%)"
+                    },
+                    {
+                      "label": "intermediate in Hispanics (4.2%) and Asians (4.6%)",
+                      "children": [
+                        {
+                          "label": "Multi-Ethnic Study of Atherosclerosis (MESA)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "highest in whites (5.4%)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Genetics of AMD",
+          "children": [
+            {
+              "label": "genetic mutations responsible for AMD affect various biochemical pathways",
+              "children": [
+                {
+                  "label": "alternate complement pathway",
+                  "children": [
+                    {
+                      "label": "CFH, CFI, C2/CFB, C3, and C7"
+                    }
+                  ]
+                },
+                {
+                  "label": "lipid transport and metabolism",
+                  "children": [
+                    {
+                      "label": "APOE"
+                    }
+                  ]
+                },
+                {
+                  "label": "modulation of the extracellular collagen matrix",
+                  "children": [
+                    {
+                      "label": "COL8A1, COL10A1, TIMP3"
+                    }
+                  ]
+                },
+                {
+                  "label": "clearance of all-trans-retinaldehyde from photoreceptors",
+                  "children": [
+                    {
+                      "label": "ABCA4"
+                    }
+                  ]
+                },
+                {
+                  "label": "angiogenesis",
+                  "children": [
+                    {
+                      "label": "MMP9, VEGFA"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "2 major susceptibility genes for AMD",
+              "children": [
+                {
+                  "label": "CFH (1q31)",
+                  "children": [
+                    {
+                      "label": "codes for complement factor H"
+                    },
+                    {
+                      "label": "CFH Y402H mutation increases risk for AMD",
+                      "children": [
+                        {
+                          "label": "4.6-fold when heterozygous"
+                        },
+                        {
+                          "label": "7.4-fold when homozygous"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "ARMS2 (10q26)",
+                  "children": [
+                    {
+                      "label": "gene product and function are poorly understood"
+                    },
+                    {
+                      "label": "ARMS2 A69S mutation increases risk for AMD",
+                      "children": [
+                        {
+                          "label": "2.7-fold when heterozygous"
+                        },
+                        {
+                          "label": "8.2-fold when homozygous"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "ARMS2/HTRA1 and MMP20 are associated with CNV lesion size",
+                      "children": [
+                        {
+                          "label": "AAO recommends deferring genetic testing until replicable studies have confirmed its value"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Genetic testing",
+              "children": [
+                {
+                  "label": "interpretation and usefulness is controversial"
+                },
+                {
+                  "label": "unhealthy lifestyle increases AMD risk regardless of genotype"
+                },
+                {
+                  "label": "risk models are poorly validated"
+                },
+                {
+                  "label": "risk models add little to the risk estimated from clinical findings and non-genetic risk factors"
+                }
+              ]
+            },
+            {
+              "label": "Pharmacogenomic testing",
+              "children": [
+                {
+                  "label": "to predict the optimal pharmacologic or nutritional-supplement interventions for a given patient"
+                },
+                {
+                  "label": "validation studies are lacking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Drusen",
+      "children": [
+        {
+          "label": "Symptoms",
+          "children": [
+            {
+              "label": "typically asymptomatic"
+            },
+            {
+              "label": "mild to moderate vision loss"
+            },
+            {
+              "label": "decreased contrast sensitivity and color vision"
+            },
+            {
+              "label": "impairment of dark adaptation"
+            }
+          ]
+        },
+        {
+          "label": "Clinical appearance",
+          "children": [
+            {
+              "label": "small, round, yellow lesions"
+            },
+            {
+              "label": "along basal surface of RPE"
+            },
+            {
+              "label": "postequatorial"
+            }
+          ]
+        },
+        {
+          "label": "Size",
+          "children": [
+            {
+              "label": "small",
+              "children": [
+                {
+                  "label": "<63 micron"
+                }
+              ]
+            },
+            {
+              "label": "intermediate",
+              "children": [
+                {
+                  "label": "63-124 micron"
+                }
+              ]
+            },
+            {
+              "label": "large",
+              "children": [
+                {
+                  "label": "≥125 micron"
+                }
+              ]
+            },
+            {
+              "label": "drusenoid PED",
+              "children": [
+                {
+                  "label": ".>350 micron"
+                }
+              ]
+            },
+            {
+              "label": "risk of progression to advanced AMD after 5 years (AREDS)",
+              "children": [
+                {
+                  "label": "stage 2 (early AMD)",
+                  "children": [
+                    {
+                      "label": "many small or few intermediate drusen",
+                      "children": [
+                        {
+                          "label": "1.3%"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "stage 3",
+                  "children": [
+                    {
+                      "label": "many intermediate drusen or even a single few large druse (stage 3)",
+                      "children": [
+                        {
+                          "label": "18%"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Boundaries",
+          "children": [
+            {
+              "label": "hard",
+              "children": [
+                {
+                  "label": "discrete and well demarcated"
+                },
+                {
+                  "label": "well-defined focal areas of lipidization or hyalinization of the RPE– Bruch membrane complex"
+                }
+              ]
+            },
+            {
+              "label": "soft",
+              "children": [
+                {
+                  "label": "amorphous and poorly demarcated"
+                },
+                {
+                  "label": "basal linear deposits"
+                },
+                {
+                  "label": "more likely to progress to atrophy or CNV"
+                }
+              ]
+            },
+            {
+              "label": "confluent",
+              "children": [
+                {
+                  "label": "contiguous drusen without clear boundaries"
+                },
+                {
+                  "label": "± more likely to progress to atrophy or CNV"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "RPE abnormalities",
+      "children": [
+        {
+          "label": "focal hyperpigmentation",
+          "children": [
+            {
+              "label": "FA",
+              "children": [
+                {
+                  "label": "blockage"
+                }
+              ]
+            },
+            {
+              "label": "SD-OCT",
+              "children": [
+                {
+                  "label": "hyperreflective outer retinal foci"
+                }
+              ]
+            },
+            {
+              "label": "incidence increases with age"
+            },
+            {
+              "label": "increased risk of progressing to advanced AMD"
+            }
+          ]
+        },
+        {
+          "label": "focal atrophy",
+          "children": [
+            {
+              "label": "noncontiguous pigment mottling or RPE atrophy"
+            }
+          ]
+        },
+        {
+          "label": "geographic atrophy",
+          "children": [
+            {
+              "label": "contiguous RPE atrophy",
+              "children": [
+                {
+                  "label": ".> 175 μm"
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "increased visibility of underlying choroidal vessels"
+                },
+                {
+                  "label": "thinning of overlying retina"
+                },
+                {
+                  "label": "attenuation of underlying choriocapillaris"
+                },
+                {
+                  "label": "gradual enlargement",
+                  "children": [
+                    {
+                      "label": "≈1.79 mm2/year"
+                    },
+                    {
+                      "label": "often spares the fovea until late",
+                      "children": [
+                        {
+                          "label": "10% of patients with AMD and a VA of ≤20/200 have GA"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "12-20% severe vision loss"
+                }
+              ]
+            },
+            {
+              "label": "FA",
+              "children": [
+                {
+                  "label": "well-circumscribed round to oval window defects"
+                }
+              ]
+            },
+            {
+              "label": "SD-OCT",
+              "children": [
+                {
+                  "label": "progressive loss of RPE, overlying inner segment ellipsoid, and photoreceptor layers"
+                }
+              ]
+            },
+            {
+              "label": "fundus autofluorescence",
+              "children": [
+                {
+                  "label": "densely hypoautofluorescent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "other abnormalities caused by RPE atrophy",
+          "children": [
+            {
+              "label": "resorption of drusen",
+              "children": [
+                {
+                  "label": "residual RPE atrophy"
+                }
+              ]
+            },
+            {
+              "label": "dystrophic calcification & lipidization",
+              "children": [
+                {
+                  "label": "refractile or crystalline appearance",
+                  "children": [
+                    {
+                      "label": "“refractile” or “calcific” drusen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "focal clumps or reticulated hyperpigmentation",
+              "children": [
+                {
+                  "label": "RPE cells/pigment-laden macrophages migrate to photoreceptor level"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Nonneovascular AMD (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 267,
+      "connector_rejected": 114,
+      "connector_edges": 148,
+      "connector_width": 0.473,
+      "text_labels": 148,
+      "tree_nodes": 148,
+      "component_roots": 3,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.5543,
+      "root_font_size": 4.733,
+      "warnings": []
+    }
+  }
+}

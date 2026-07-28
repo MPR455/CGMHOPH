@@ -1,0 +1,144 @@
+{
+  "label": "5.11.3. Eyelid or Facial Abnormalities (III): Eyelid Retraction",
+  "root": true,
+  "children": [
+    {
+      "label": "Causes",
+      "children": [
+        {
+          "label": "Mechanical"
+        },
+        {
+          "label": "Myogenic"
+        },
+        {
+          "label": "Neurogenic"
+        },
+        {
+          "label": "See Table 11-2"
+        }
+      ]
+    },
+    {
+      "label": "bilateral eyelid retraction",
+      "children": [
+        {
+          "label": "thyroid eye disease"
+        },
+        {
+          "label": "familial periodic paralysis"
+        },
+        {
+          "label": "Cushing syndrome"
+        },
+        {
+          "label": "midbrain disease"
+        },
+        {
+          "label": "hydrocephalus with vertical nystagmus"
+        }
+      ]
+    },
+    {
+      "label": "preterm infants",
+      "children": [
+        {
+          "label": "with the eyes in primary position, the sclera is visible above the superior corneal limbus"
+        },
+        {
+          "label": "± benign transient conjugate downgaze associated with upper eyelid retraction"
+        }
+      ]
+    },
+    {
+      "label": "normal infants",
+      "children": [
+        {
+          "label": "80% of children 14–18 weeks of age"
+        },
+        {
+          "label": "eye-popping reflex when ambient lighting levels are reduced"
+        }
+      ]
+    },
+    {
+      "label": "unilateral eyelid retraction",
+      "children": [
+        {
+          "label": "thyroid eye disease"
+        },
+        {
+          "label": "aberrant regeneration of the third nerve"
+        },
+        {
+          "label": "Marcus Gunn jaw-winking syndrome"
+        },
+        {
+          "label": "idiopathic levator fibrosis"
+        },
+        {
+          "label": "carcinomatous infiltration"
+        }
+      ]
+    },
+    {
+      "label": "thyroid eye disease",
+      "children": [
+        {
+          "label": "most common cause"
+        }
+      ]
+    },
+    {
+      "label": "dorsal midbrain syndrome",
+      "children": [
+        {
+          "label": "Collier sign"
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "subconjunctival or transcutaneous injections of botulinum toxin"
+        },
+        {
+          "label": "several surgical procedures"
+        },
+        {
+          "label": "in patients with thyroid eye disease"
+        }
+      ]
+    },
+    {
+      "label": "unilateral eyelid retraction as a result of contralateral ptosis",
+      "children": [
+        {
+          "label": "patients with levator aponeurotic defects"
+        },
+        {
+          "label": "Hering’s law of equal innervation"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.11.3. Eyelid or Facial Abnormalities (III) - Eyelid Retraction.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 24,
+      "connector_rejected": 0,
+      "connector_edges": 24,
+      "connector_width": 1.9,
+      "text_labels": 35,
+      "tree_nodes": 35,
+      "component_roots": 9,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 1.0,
+      "root_font_size": 6.651,
+      "warnings": []
+    }
+  }
+}

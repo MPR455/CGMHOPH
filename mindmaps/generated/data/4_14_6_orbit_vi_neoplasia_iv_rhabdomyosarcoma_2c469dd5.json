@@ -1,0 +1,418 @@
+{
+  "label": "4.14.6. Orbit (VI): Neoplasia (IV): Rhabdomyosarcoma",
+  "root": true,
+  "children": [
+    {
+      "label": "origin",
+      "children": [
+        {
+          "label": "most common primary malignant orbital tumor of childhood"
+        },
+        {
+          "label": "primitive undifferentiated pluripotential mesenchymal cells that differentiate toward skeletal muscle",
+          "children": [
+            {
+              "label": "not from the extraocular muscles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "average age=7-8 years"
+        },
+        {
+          "label": "sudden onset and rapid progression of unilateral proptosis"
+        },
+        {
+          "label": "less dramatic course in patients in their early teens",
+          "children": [
+            {
+              "label": "gradually progressive proptosis lasting weeks to > 1 month"
+            }
+          ]
+        },
+        {
+          "label": "edema & reddish discoloration of eyelids",
+          "children": [
+            {
+              "label": "NOT accompanied by local heat or fever"
+            }
+          ]
+        },
+        {
+          "label": "ptosis"
+        },
+        {
+          "label": "strabismus"
+        },
+        {
+          "label": "± palpable mass",
+          "children": [
+            {
+              "label": "particularly in the superonasal quadrant of the eyelid"
+            },
+            {
+              "label": "may be retrobulbar"
+            },
+            {
+              "label": "may involve any quadrant of the orbit"
+            },
+            {
+              "label": "may rarely arise from the conjunctiva"
+            }
+          ]
+        },
+        {
+          "label": "unrelated history of trauma can lead to delay in diagnosis and treatment"
+        }
+      ]
+    },
+    {
+      "label": "diagnostic workup",
+      "children": [
+        {
+          "label": "should proceed urgently"
+        },
+        {
+          "label": "CT and MRI",
+          "children": [
+            {
+              "label": "to define the location and extent of the tumor"
+            }
+          ]
+        },
+        {
+          "label": "biopsy",
+          "children": [
+            {
+              "label": "anterior orbitotomy"
+            },
+            {
+              "label": "often possible to completely remove a rhabdomyosarcoma if it has a pseudocapsule"
+            },
+            {
+              "label": "in diffusely infiltrating tumors, a large biopsy specimen should be obtained so that adequate material is available for",
+              "children": [
+                {
+                  "label": "frozen sections",
+                  "children": [
+                    {
+                      "label": "the smaller the residual tumor, the more effective the combination of adjuvant radiation and chemotherapy in achieving a cure"
+                    },
+                    {
+                      "label": "permanent light-microscopy sections"
+                    }
+                  ]
+                },
+                {
+                  "label": "electron microscopy",
+                  "children": [
+                    {
+                      "label": "immunohistochemistry"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cross-striations are often not visible on light microscopy",
+              "children": [
+                {
+                  "label": "more readily apparent on electron microscopy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "palpate the cervical and preauricular lymph nodes",
+          "children": [
+            {
+              "label": "to evaluate for regional metastases"
+            }
+          ]
+        },
+        {
+          "label": "chest radiography"
+        },
+        {
+          "label": "bone marrow aspiration and biopsy",
+          "children": [
+            {
+              "label": "under anesthesia at the time of the initial orbital biopsy"
+            }
+          ]
+        },
+        {
+          "label": "lumbar puncture"
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "Intergroup Rhabdomyosarcoma Study Group guidelines"
+        },
+        {
+          "label": "radiation therapy",
+          "children": [
+            {
+              "label": "4500 to 6000 cGy"
+            },
+            {
+              "label": "x 6 weeks"
+            },
+            {
+              "label": "adverse effects of radiation",
+              "children": [
+                {
+                  "label": "common in children"
+                },
+                {
+                  "label": "radiation dermatitis"
+                },
+                {
+                  "label": "bony hypoplasia"
+                },
+                {
+                  "label": "cataract"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic chemotherapy",
+          "children": [
+            {
+              "label": "to eliminate microscopic cellular metastases"
+            }
+          ]
+        },
+        {
+          "label": "exenteration",
+          "children": [
+            {
+              "label": "for recurrent cases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "histologic types",
+      "children": [
+        {
+          "label": "4 categories",
+          "children": [
+            {
+              "label": "Embryonal",
+              "children": [
+                {
+                  "label": "most common type",
+                  "children": [
+                    {
+                      "label": "80%"
+                    }
+                  ]
+                },
+                {
+                  "label": "may develop in conjunctiva",
+                  "children": [
+                    {
+                      "label": "grapelike submucosal clusters",
+                      "children": [
+                        {
+                          "label": "botryoid variant"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "predilection for the superonasal quadrant of the orbit"
+                },
+                {
+                  "label": "loose fascicles of undifferentiated spindle cells",
+                  "children": [
+                    {
+                      "label": "immature rhabdomyosarcomas",
+                      "children": [
+                        {
+                          "label": "occasional cells show cross-striations (60%)",
+                          "children": [
+                            {
+                              "label": "trichrome staining"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "well-differentiated rhabdomyosarcoma",
+                      "children": [
+                        {
+                          "label": "numerous cells with striking cross-striations"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "immunohistochemistry",
+                  "children": [
+                    {
+                      "label": "desmin"
+                    },
+                    {
+                      "label": "muscle-specific actin"
+                    },
+                    {
+                      "label": "vimentin"
+                    },
+                    {
+                      "label": "± myogenin"
+                    }
+                  ]
+                },
+                {
+                  "label": "electron microscopy",
+                  "children": [
+                    {
+                      "label": "sarcomeric banding pattern",
+                      "children": [
+                        {
+                          "label": "A, B, C: Embryonal; D: Alveolar"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "94% 5-year survival"
+                }
+              ]
+            },
+            {
+              "label": "Alveolar",
+              "children": [
+                {
+                  "label": "9%",
+                  "children": [
+                    {
+                      "label": "predilection for the inferior orbit"
+                    }
+                  ]
+                },
+                {
+                  "label": "poorly cohesive rhabdomyoblasts",
+                  "children": [
+                    {
+                      "label": "separated by fibrous septa into alveoli"
+                    },
+                    {
+                      "label": "rounded rhabdomyoblasts either line up along the connective tissue strands or float freely in the alveolar spaces"
+                    }
+                  ]
+                },
+                {
+                  "label": "most malignant form",
+                  "children": [
+                    {
+                      "label": "65% 5-year survival"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Pleomorphic",
+              "children": [
+                {
+                  "label": "straplike or rounded cells"
+                },
+                {
+                  "label": "most differentiated"
+                }
+              ]
+            },
+            {
+              "label": "Botryoid",
+              "children": [
+                {
+                  "label": "rare variant of embryonal rhabdomyosarcoma"
+                },
+                {
+                  "label": "grapelike"
+                },
+                {
+                  "label": "not found in the orbit as a primary tumor",
+                  "children": [
+                    {
+                      "label": "secondary invader from the paranasal sinuses or from the conjunctiva"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "prognosis",
+      "children": [
+        {
+          "label": "survival rate >90%",
+          "children": [
+            {
+              "label": "if the orbital tumor has not invaded or extended beyond the bony orbital walls"
+            },
+            {
+              "label": "orbital rhabdomyosarcoma better than extraorbital"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "least common"
+    },
+    {
+      "label": "best prognosis",
+      "children": [
+        {
+          "label": "97% 5-year survival",
+          "children": [
+            {
+              "label": "cross-striations are easily visualized with trichrome stain"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.14.6. Orbit (VI) - Neoplasia (IV) - Rhabdomyosarcoma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 196,
+      "connector_rejected": 7,
+      "connector_edges": 132,
+      "connector_width": 1.494,
+      "text_labels": 103,
+      "tree_nodes": 103,
+      "component_roots": 8,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.6735,
+      "root_font_size": 4.98,
+      "warnings": []
+    }
+  }
+}

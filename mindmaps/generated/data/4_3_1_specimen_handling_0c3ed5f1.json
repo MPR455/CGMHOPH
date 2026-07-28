@@ -1,0 +1,454 @@
+{
+  "label": "4.3.1. Specimen Handling",
+  "root": true,
+  "children": [
+    {
+      "label": "Communication with pathologist",
+      "children": [
+        {
+          "label": "Pathology request form",
+          "children": [
+            {
+              "label": "Relevant and detailed clinical history",
+              "children": [
+                {
+                  "label": "Patient age"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Direct communication"
+        },
+        {
+          "label": "Review previous biopsies"
+        }
+      ]
+    },
+    {
+      "label": "Globe orientation",
+      "children": [
+        {
+          "label": "Rectus muscle distance from limbus",
+          "children": [
+            {
+              "label": "MR<IR<LR<SR"
+            }
+          ]
+        },
+        {
+          "label": "Inferior oblique muscle",
+          "children": [
+            {
+              "label": "Right vs left eye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Transillumination",
+      "children": [
+        {
+          "label": "Intraocular tumors"
+        }
+      ]
+    },
+    {
+      "label": "Stains",
+      "children": [
+        {
+          "label": "H&E",
+          "children": [
+            {
+              "label": "Nucleus: Blue; Cytoplasm: Red"
+            },
+            {
+              "label": "General stain"
+            }
+          ]
+        },
+        {
+          "label": "PAS",
+          "children": [
+            {
+              "label": "Glycogen and proteoglycans: Magenta"
+            },
+            {
+              "label": "Basement membranes",
+              "children": [
+                {
+                  "label": "Descemet membrane"
+                }
+              ]
+            },
+            {
+              "label": "Mucin in goblet cells"
+            },
+            {
+              "label": "Fungi"
+            },
+            {
+              "label": "Acanthamoeba keratitis"
+            },
+            {
+              "label": "PXF material"
+            },
+            {
+              "label": "Drusen"
+            },
+            {
+              "label": "Fundus flavimaculatus/Stargardt disease"
+            }
+          ]
+        },
+        {
+          "label": "Alcian blue",
+          "children": [
+            {
+              "label": "Acid mucopolysaccharide: Blue",
+              "children": [
+                {
+                  "label": "Macular dystrophy"
+                }
+              ]
+            },
+            {
+              "label": "Cavernous optic atrophy"
+            },
+            {
+              "label": "Asteroid hyalosis"
+            }
+          ]
+        },
+        {
+          "label": "Colloidal iron",
+          "children": [
+            {
+              "label": "Acid mucopolysaccharide: Blue",
+              "children": [
+                {
+                  "label": "Macular dystrophy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Congo red",
+          "children": [
+            {
+              "label": "Amyloid: Orange; Red-green dichroism; birefringence",
+              "children": [
+                {
+                  "label": "Lattice dystrophy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Crystal violet",
+          "children": [
+            {
+              "label": "Amyloid: Purple, violet",
+              "children": [
+                {
+                  "label": "Lattice dystrophy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Thioflavin T",
+          "children": [
+            {
+              "label": "Amyloid: Fluorescent yellow",
+              "children": [
+                {
+                  "label": "Lattice dystrophy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Masson trichrome",
+          "children": [
+            {
+              "label": "Collagen: Blue"
+            },
+            {
+              "label": "Hyaline: Bright red",
+              "children": [
+                {
+                  "label": "Granular dystrophy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Alizarin red",
+          "children": [
+            {
+              "label": "Calcium: Red",
+              "children": [
+                {
+                  "label": "Band keratopathy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "von Kossa",
+          "children": [
+            {
+              "label": "Calcium phosphate salts: Black",
+              "children": [
+                {
+                  "label": "Band keratopathy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Gram stain",
+          "children": [
+            {
+              "label": "Gram positive bacteria: Blue; Gram negative bacteria: Red"
+            },
+            {
+              "label": "Bacterial infection"
+            }
+          ]
+        },
+        {
+          "label": "Ziehl-Neelsen",
+          "children": [
+            {
+              "label": "Acid-fast organisms: Red"
+            },
+            {
+              "label": "Atypical mycobacteria"
+            }
+          ]
+        },
+        {
+          "label": "GMS",
+          "children": [
+            {
+              "label": "Fungal elements: Black"
+            },
+            {
+              "label": "Fusarium"
+            }
+          ]
+        },
+        {
+          "label": "Perls Prussian blue",
+          "children": [
+            {
+              "label": "Iron: Blue"
+            },
+            {
+              "label": "Hemosiderosis bulbi"
+            }
+          ]
+        },
+        {
+          "label": "Verhoeff-van Gieson",
+          "children": [
+            {
+              "label": "Elastic fibers: Black"
+            },
+            {
+              "label": "Temporal artery elastic layer"
+            },
+            {
+              "label": "Elastotic degeneration of stromal collagen"
+            }
+          ]
+        },
+        {
+          "label": "Giemsa",
+          "children": [
+            {
+              "label": "intranuclear viral inclusions"
+            }
+          ]
+        },
+        {
+          "label": "Calcoflour white"
+        },
+        {
+          "label": "Acridine blue",
+          "children": [
+            {
+              "label": "Acanthamoeba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Gross dissection",
+      "children": [
+        {
+          "label": "2 calottes are removed"
+        },
+        {
+          "label": "Pupil-Optic nerve (PO) Section",
+          "children": [
+            {
+              "label": "No prior surgery/trauma or intraocular tumor",
+              "children": [
+                {
+                  "label": "Horizontal PO section",
+                  "children": [
+                    {
+                      "label": "Includes macula"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Prior surgery/Trauma",
+              "children": [
+                {
+                  "label": "PO section perpendicular to wound",
+                  "children": [
+                    {
+                      "label": "Vertical cut"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Intraocular tumor",
+              "children": [
+                {
+                  "label": "PO section through the center of the tumor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fixatives",
+      "children": [
+        {
+          "label": "Fixatives",
+          "children": [
+            {
+              "label": "Formalin",
+              "children": [
+                {
+                  "label": "Clear"
+                },
+                {
+                  "label": "Routine fixation of all tissues"
+                }
+              ]
+            },
+            {
+              "label": "Bouin solution",
+              "children": [
+                {
+                  "label": "Yellow"
+                },
+                {
+                  "label": "Small biopsies"
+                }
+              ]
+            },
+            {
+              "label": "B5",
+              "children": [
+                {
+                  "label": "Clear"
+                },
+                {
+                  "label": "Lymphoproliferative tissue"
+                }
+              ]
+            },
+            {
+              "label": "Glutaraldehyde",
+              "children": [
+                {
+                  "label": "Clear"
+                },
+                {
+                  "label": "Electron microscopy"
+                }
+              ]
+            },
+            {
+              "label": "Ethanol/Methanol",
+              "children": [
+                {
+                  "label": "Clear"
+                },
+                {
+                  "label": "Crystals"
+                }
+              ]
+            },
+            {
+              "label": "Michel fixative",
+              "children": [
+                {
+                  "label": "Light pink"
+                },
+                {
+                  "label": "Immunofluorescence"
+                }
+              ]
+            },
+            {
+              "label": "Zenker acetic fixative",
+              "children": [
+                {
+                  "label": "Orange"
+                },
+                {
+                  "label": "Muscle differentiation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "4-6 micron sections"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.3.1. Specimen Handling.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 216,
+      "connector_rejected": 6,
+      "connector_edges": 140,
+      "connector_width": 1.867,
+      "text_labels": 111,
+      "tree_nodes": 111,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6481,
+      "root_font_size": 4.357,
+      "warnings": []
+    }
+  }
+}

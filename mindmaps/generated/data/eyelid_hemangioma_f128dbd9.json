@@ -1,0 +1,429 @@
+{
+  "label": "Eyelid Hemangioma",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "2-month-old infant has been brought for evaluation of an enlarging reddish lump on her left upper lid"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "eyelid hemangioma"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "eyelid hemangioma",
+          "children": [
+            {
+              "label": "risk factors",
+              "children": [
+                {
+                  "label": "female",
+                  "children": [
+                    {
+                      "label": "external photograph shows reddish-blue mass of left upper lid"
+                    }
+                  ]
+                },
+                {
+                  "label": "low birth weight"
+                },
+                {
+                  "label": "prematurity"
+                },
+                {
+                  "label": "maternal chorionic villus sampling"
+                }
+              ]
+            },
+            {
+              "label": "natural course",
+              "children": [
+                {
+                  "label": "present at birth or in the first few weeks of life"
+                },
+                {
+                  "label": "enlarge dramatically over 6–12 months"
+                },
+                {
+                  "label": "involute after the first year of life",
+                  "children": [
+                    {
+                      "label": "75% resolve during the first 3–7 years"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "± hemangiomas of other parts of the body",
+              "children": [
+                {
+                  "label": "lesions involving neck can compromise airway"
+                },
+                {
+                  "label": "multiple large visceral lesions can produce thrombocytopenia",
+                  "children": [
+                    {
+                      "label": "Kasabach-Merritt syndrome"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lymphangioma"
+        },
+        {
+          "label": "preseptal cellulitis"
+        },
+        {
+          "label": "port-wine stain"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "indications for treatment",
+          "children": [
+            {
+              "label": "occlusion of the visual axis (severe ptosis)"
+            },
+            {
+              "label": "anisometropia",
+              "children": [
+                {
+                  "label": "cause amblyopia"
+                }
+              ]
+            },
+            {
+              "label": "strabismus"
+            },
+            {
+              "label": "significant disfigurement"
+            }
+          ]
+        },
+        {
+          "label": "methods of treatment",
+          "children": [
+            {
+              "label": "observation",
+              "children": [
+                {
+                  "label": "refractive correction",
+                  "children": [
+                    {
+                      "label": "defer treatment until it is clear that the natural course will not lead to the desired result"
+                    }
+                  ]
+                },
+                {
+                  "label": "amblyopia therapy"
+                }
+              ]
+            },
+            {
+              "label": "beta-blockers",
+              "children": [
+                {
+                  "label": "first line of treatment"
+                },
+                {
+                  "label": "topical timolol gel",
+                  "children": [
+                    {
+                      "label": "for superficial tumors"
+                    }
+                  ]
+                },
+                {
+                  "label": "oral propranolol",
+                  "children": [
+                    {
+                      "label": "for larger and deeper lesions"
+                    },
+                    {
+                      "label": "fewer adverse effects than systemic steroids",
+                      "children": [
+                        {
+                          "label": "bradycardia"
+                        },
+                        {
+                          "label": "hypoglycemia"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "steroids",
+              "children": [
+                {
+                  "label": "for lesions unresponsive to β-blockers"
+                },
+                {
+                  "label": "systemic steroid",
+                  "children": [
+                    {
+                      "label": "growth retardation"
+                    }
+                  ]
+                },
+                {
+                  "label": "intralesional steroid",
+                  "children": [
+                    {
+                      "label": "skin necrosis"
+                    },
+                    {
+                      "label": "subcutaneous fat atrophy"
+                    },
+                    {
+                      "label": "growth retardation"
+                    },
+                    {
+                      "label": "CRAO"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "excision",
+              "children": [
+                {
+                  "label": "for nodular lesions that are smaller, subcutaneous, or refractory to medical treatment"
+                }
+              ]
+            },
+            {
+              "label": "radiation therapy",
+              "children": [
+                {
+                  "label": "complications",
+                  "children": [
+                    {
+                      "label": "cataract formation"
+                    },
+                    {
+                      "label": "bony hypoplasia"
+                    },
+                    {
+                      "label": "future malignancy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pulsed-dye laser therapy",
+              "children": [
+                {
+                  "label": "superficial components of the hemangioma"
+                }
+              ]
+            },
+            {
+              "label": "sclerosing solutions",
+              "children": [
+                {
+                  "label": "severe scarring",
+                  "children": [
+                    {
+                      "label": "not recommended !"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course",
+              "children": [
+                {
+                  "label": "see old photos"
+                }
+              ]
+            },
+            {
+              "label": "change in lesion size/ appearance with crying"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "APD"
+            },
+            {
+              "label": "lid position",
+              "children": [
+                {
+                  "label": "blocking visual axis"
+                }
+              ]
+            },
+            {
+              "label": "head position",
+              "children": [
+                {
+                  "label": "chin-up"
+                }
+              ]
+            },
+            {
+              "label": "proptosis"
+            },
+            {
+              "label": "extraocular motility/alignment"
+            },
+            {
+              "label": "dilated fundus exam"
+            },
+            {
+              "label": "cycloplegic refraction",
+              "children": [
+                {
+                  "label": "astigmatism"
+                }
+              ]
+            },
+            {
+              "label": "warmth/tenderness",
+              "children": [
+                {
+                  "label": "preseptal cellulitis"
+                }
+              ]
+            },
+            {
+              "label": "fever"
+            },
+            {
+              "label": "hemangiomas elsewhere in the body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education/ Counselling",
+      "children": [
+        {
+          "label": "Disease course",
+          "children": [
+            {
+              "label": "enlargement during the first year"
+            },
+            {
+              "label": "spontaneous resolution after a few years (4 years)"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good if amblyopia prevented/treated"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "amblyopia",
+              "children": [
+                {
+                  "label": "ptosis"
+                },
+                {
+                  "label": "astigmatism"
+                },
+                {
+                  "label": "strabismus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "orbital imaging",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "proptosis"
+                },
+                {
+                  "label": "limitation of extraocular motility/strabismus"
+                },
+                {
+                  "label": "optic neuropathy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Eyelid Hemangioma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 169,
+      "connector_rejected": 3,
+      "connector_edges": 126,
+      "connector_width": 0.928,
+      "text_labels": 106,
+      "tree_nodes": 106,
+      "component_roots": 7,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.7456,
+      "root_font_size": 6.493,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "label": "7.1.3. Orbital Anatomy (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Nerves",
+      "children": [
+        {
+          "label": "Sensory innervation",
+          "children": [
+            {
+              "label": "ophthalmic and maxillary divisions of CN V",
+              "children": [
+                {
+                  "label": "trigeminal ganglion",
+                  "children": [
+                    {
+                      "label": "ophthalmic division of CN V (V1)",
+                      "children": [
+                        {
+                          "label": "travels in the lateral wall of the cavernous sinus",
+                          "children": [
+                            {
+                              "label": "divides into 3 main branches",
+                              "children": [
+                                {
+                                  "label": "frontal",
+                                  "children": [
+                                    {
+                                      "label": "enter through the superior orbital fissure above the annulus of Zinn",
+                                      "children": [
+                                        {
+                                          "label": "medial canthus",
+                                          "children": [
+                                            {
+                                              "label": "supratrochlear branch"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "label": "upper eyelid",
+                                          "children": [
+                                            {
+                                              "label": "lacrimal and supratrochlear branches"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "label": "forehead",
+                                          "children": [
+                                            {
+                                              "label": "supraorbital branch"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "label": "lacrimal"
+                                },
+                                {
+                                  "label": "nasociliary",
+                                  "children": [
+                                    {
+                                      "label": "enters through the superior orbital fissure within the annulus of Zinn",
+                                      "children": [
+                                        {
+                                          "label": "innervates the eye via the ciliary branches",
+                                          "children": [
+                                            {
+                                              "label": "short ciliary nerves",
+                                              "children": [
+                                                {
+                                                  "label": "pass through the ciliary ganglion without synapse",
+                                                  "children": [
+                                                    {
+                                                      "label": "penetrate the sclera"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "label": "long ciliary nerves",
+                                              "children": [
+                                                {
+                                                  "label": "pass by the ciliary ganglion",
+                                                  "children": [
+                                                    {
+                                                      "label": "enter the sclera",
+                                                      "children": [
+                                                        {
+                                                          "label": "extend anteriorly to supply the iris, cornea, and ciliary muscle"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "maxillary division of CN V (V2)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "parasympathetic innervation",
+          "children": [
+            {
+              "label": "functions",
+              "children": [
+                {
+                  "label": "accommodation"
+                },
+                {
+                  "label": "pupillary constriction"
+                },
+                {
+                  "label": "lacrimal gland stimulation"
+                }
+              ]
+            },
+            {
+              "label": "parasympathetic fibers synapse within the ciliary ganglion",
+              "children": [
+                {
+                  "label": "enter the eye as the short posterior ciliary nerves"
+                },
+                {
+                  "label": "parasympathetic innervation to the lacrimal gland",
+                  "children": [
+                    {
+                      "label": "originates in the lacrimal nucleus of the pons"
+                    },
+                    {
+                      "label": "joins the lacrimal nerve to enter the lacrimal gland"
+                    }
+                  ]
+                },
+                {
+                  "label": "only the parasympathetic fibers synapse in the ciliary ganglion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "sympathetic innervation",
+          "children": [
+            {
+              "label": "sympathetic fibers originate in the hypothalamus",
+              "children": [
+                {
+                  "label": "descend through the brainstem to the spinal cord",
+                  "children": [
+                    {
+                      "label": "synapse in the ciliospinal center of Budge- Waller",
+                      "children": [
+                        {
+                          "label": "travel with branches of the carotid artery to the orbit",
+                          "children": [
+                            {
+                              "label": "pass through ciliary ganglion without synapse",
+                              "children": [
+                                {
+                                  "label": "short ciliary nerves"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "nasociliary nerve",
+                              "children": [
+                                {
+                                  "label": "long ciliary nerves"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "follow arterial supply to pupil, eyelids, and orbit"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "carry innervation for",
+              "children": [
+                {
+                  "label": "pupillary dilation"
+                },
+                {
+                  "label": "vasoconstriction"
+                },
+                {
+                  "label": "hidrosis"
+                },
+                {
+                  "label": "smooth muscle function of the eyelids and orbit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "motor supply to muscles of facial expression",
+          "children": [
+            {
+              "label": "CN VII (facial nerve)",
+              "children": [
+                {
+                  "label": "branches enter on the undersurface of each muscle"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nose and Paranasal Sinuses",
+      "children": [
+        {
+          "label": "diseases",
+          "children": [
+            {
+              "label": "sinonasal carcinomas"
+            },
+            {
+              "label": "inverted papillomas"
+            },
+            {
+              "label": "zygomycoses"
+            },
+            {
+              "label": "granulomatosis with polyangiitis (Wegener granulomatosis)"
+            },
+            {
+              "label": "mucoceles"
+            },
+            {
+              "label": "sinusitis"
+            }
+          ]
+        },
+        {
+          "label": "functions",
+          "children": [
+            {
+              "label": "decrease the weight of the skull"
+            },
+            {
+              "label": "function as resonators for the voice"
+            },
+            {
+              "label": "trap irritants"
+            },
+            {
+              "label": "warm and humidify the air"
+            }
+          ]
+        },
+        {
+          "label": "nasal cavity",
+          "children": [
+            {
+              "label": "nasal septum"
+            },
+            {
+              "label": "lateral wall",
+              "children": [
+                {
+                  "label": "has 3 bony projections",
+                  "children": [
+                    {
+                      "label": "superior, middle, and inferior conchae (turbinates)"
+                    }
+                  ]
+                },
+                {
+                  "label": "meatuses",
+                  "children": [
+                    {
+                      "label": "superior",
+                      "children": [
+                        {
+                          "label": "posterior ethmoid air cells"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "middle",
+                      "children": [
+                        {
+                          "label": "openings for",
+                          "children": [
+                            {
+                              "label": "frontal sinus"
+                            },
+                            {
+                              "label": "maxillary sinus"
+                            },
+                            {
+                              "label": "anterior and middle ethmoid air cells"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "inferior",
+                      "children": [
+                        {
+                          "label": "nasolacrimal duct opening"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "sphenoethmoidal recess",
+                  "children": [
+                    {
+                      "label": "cephalad to the superior concha"
+                    },
+                    {
+                      "label": "sphenoid sinus opening"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lined by a pseudostratified, ciliated columnar epithelium",
+              "children": [
+                {
+                  "label": "copious goblet cells"
+                },
+                {
+                  "label": "mucous membrane overlying the lateral alar cartilage is hair bearing",
+                  "children": [
+                    {
+                      "label": "less suitable for use as a composite graft in eyelid reconstruction",
+                      "children": [
+                        {
+                          "label": "can use the mucoperichondrium over the nasal septum"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "frontal sinuses",
+          "children": [
+            {
+              "label": "not seen radiographically until the sixth year of life",
+              "children": [
+                {
+                  "label": "pneumatization continues through childhood",
+                  "children": [
+                    {
+                      "label": "complete by early adulthood"
+                    }
+                  ]
+                },
+                {
+                  "label": "sinuses can develop asymmetrically"
+                }
+              ]
+            },
+            {
+              "label": "each frontal sinus drains through a separate frontonasal duct",
+              "children": [
+                {
+                  "label": "anterior portion of the middle meatus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ethmoid air cells",
+          "children": [
+            {
+              "label": "thin-walled cavities",
+              "children": [
+                {
+                  "label": "between the medial orbital wall and the lateral wall of the nose"
+                }
+              ]
+            },
+            {
+              "label": "present at birth",
+              "children": [
+                {
+                  "label": "expand as the child grows"
+                },
+                {
+                  "label": "can extend into frontal, lacrimal, and maxillary bones",
+                  "children": [
+                    {
+                      "label": "may extend into the orbital roof",
+                      "children": [
+                        {
+                          "label": "supraorbital ethmoids"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "divided into anterior, middle, and posterior air cells",
+              "children": [
+                {
+                  "label": "drainage",
+                  "children": [
+                    {
+                      "label": "anterior and middle air cells into middle meatus"
+                    },
+                    {
+                      "label": "posterior air cells into superior meatus"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "sinusitis in the ethmoids is a common cause of",
+              "children": [
+                {
+                  "label": "orbital cellulitis"
+                },
+                {
+                  "label": "medial orbital subperiosteal effusions or abscesses"
+                },
+                {
+                  "label": "inflammation or infection spreads through the thin bone or the vascular foramina of the medial orbital wall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "maxillary sinuses",
+          "children": [
+            {
+              "label": "largest of the paranasal sinuses",
+              "children": [
+                {
+                  "label": "extend posteriorly to the inferior orbital fissure"
+                }
+              ]
+            },
+            {
+              "label": "roof of each maxillary sinus forms the floor of each orbit",
+              "children": [
+                {
+                  "label": "infraorbital nerve and artery travel along the roof of the sinus"
+                },
+                {
+                  "label": "orbital blowout fractures",
+                  "children": [
+                    {
+                      "label": "disrupt the floor of the orbit medial to the infraorbital canal",
+                      "children": [
+                        {
+                          "label": "infraorbital nerve is often compromised",
+                          "children": [
+                            {
+                              "label": "hypoesthesia of the cheek, upper lip, and maxillary teeth"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "drains into the middle meatus",
+              "children": [
+                {
+                  "label": "maxillary ostium"
+                }
+              ]
+            },
+            {
+              "label": "bony nasolacrimal canal lies within the medial wall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lacrimal Gland",
+      "children": [
+        {
+          "label": "2 lobes",
+          "children": [
+            {
+              "label": "orbital lobe",
+              "children": [
+                {
+                  "label": "located within a fossa of frontal bone (lacrimal fossa)"
+                },
+                {
+                  "label": "may prolapse inferiorly out of the fossa and present as a mass in lateral upper eyelid"
+                }
+              ]
+            },
+            {
+              "label": "smaller palpebral lobe",
+              "children": [
+                {
+                  "label": "ducts from both lobes pass through the palpebral lobe",
+                  "children": [
+                    {
+                      "label": "empty into the upper conjunctival fornix"
+                    },
+                    {
+                      "label": "biopsy is generally not performed on the palpebral lobe or temporal conjunctival fornix because it can interfere with lacrimal drainage"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.1.3. Orbital Anatomy (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 137,
+      "connector_rejected": 0,
+      "connector_edges": 136,
+      "connector_width": 0.551,
+      "text_labels": 137,
+      "tree_nodes": 137,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9927,
+      "root_font_size": 2.341,
+      "warnings": []
+    }
+  }
+}

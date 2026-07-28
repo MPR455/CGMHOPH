@@ -1,0 +1,360 @@
+{
+  "label": "4.11.2. Retina & Retinal pigment Epithelium (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "outer plexiform layer"
+    },
+    {
+      "label": "Peripheral retinal degenerations",
+      "children": [
+        {
+          "label": "Peripheral cystoid degeneration",
+          "children": [
+            {
+              "label": "Typical peripheral cystoid degeneration",
+              "children": [
+                {
+                  "label": "all eyes after age 20 years"
+                },
+                {
+                  "label": "causes typical degenerative retinoschisis",
+                  "children": [
+                    {
+                      "label": "inferotemporal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Reticular peripheral cystoid degeneration",
+              "children": [
+                {
+                  "label": "less common"
+                },
+                {
+                  "label": "nerve fiber layer"
+                },
+                {
+                  "label": "posterior to areas of typical peripheral cystoid degeneration"
+                },
+                {
+                  "label": "causes reticular degenerative retinoschisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Lattice degeneration",
+          "children": [
+            {
+              "label": "demographics",
+              "children": [
+                {
+                  "label": "10% of general population"
+                },
+                {
+                  "label": "+- familial",
+                  "children": [
+                    {
+                      "label": "40% of rhegmatogenous retinal detachments"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "ILM discontinuity"
+                },
+                {
+                  "label": "variable inner retinal atrophy"
+                },
+                {
+                  "label": "overlying pocket of liquefied vitreous"
+                },
+                {
+                  "label": "sclerosis of retinal vessels",
+                  "children": [
+                    {
+                      "label": "patent"
+                    }
+                  ]
+                },
+                {
+                  "label": "condensation & adherence of vitreous at margins of lattice"
+                }
+              ]
+            },
+            {
+              "label": "complications",
+              "children": [
+                {
+                  "label": "atrophic holes",
+                  "children": [
+                    {
+                      "label": "in the center of lattice"
+                    },
+                    {
+                      "label": "rare cause of RD"
+                    }
+                  ]
+                },
+                {
+                  "label": "retinal tear",
+                  "children": [
+                    {
+                      "label": "at margin of lattice"
+                    },
+                    {
+                      "label": "can cause RD"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "radial perivascular lattice degeneration",
+              "children": [
+                {
+                  "label": "more posteriorly"
+                },
+                {
+                  "label": "along retinal vessels"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Paving-stone (cobblestone) degeneration",
+          "children": [
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "peripheral retina"
+                },
+                {
+                  "label": "well-demarcated"
+                },
+                {
+                  "label": "flat"
+                },
+                {
+                  "label": "pale"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "RPE atrophy",
+                  "children": [
+                    {
+                      "label": "lattice degeneration causes inner retinal atrophy"
+                    }
+                  ]
+                },
+                {
+                  "label": "outer retinal atrophy"
+                },
+                {
+                  "label": "adherence of inner nuclear layer to Bruch membrane"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congenital Anomalies",
+      "children": [
+        {
+          "label": "Albinism",
+          "children": [
+            {
+              "label": "true albinism",
+              "children": [
+                {
+                  "label": "oculocutaneous",
+                  "children": [
+                    {
+                      "label": "autosomal recessive"
+                    },
+                    {
+                      "label": "X-linked recessive",
+                      "children": [
+                        {
+                          "label": "decreased melanin in melanosomes"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "ocular",
+                  "children": [
+                    {
+                      "label": "mild cutaneous albinism",
+                      "children": [
+                        {
+                          "label": "decreased # of melanosomes"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "oligodendroglial cells"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Myelinated nerve fibers",
+          "children": [
+            {
+              "label": "usually contiguous with the optic nerve head"
+            },
+            {
+              "label": "scotoma if large"
+            },
+            {
+              "label": "associated with",
+              "children": [
+                {
+                  "label": "myopia"
+                },
+                {
+                  "label": "amblyopia"
+                },
+                {
+                  "label": "strabismus"
+                },
+                {
+                  "label": "nystagmus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Vascular anomalies",
+          "children": [
+            {
+              "label": "Coats disease",
+              "children": [
+                {
+                  "label": "subretinal space",
+                  "children": [
+                    {
+                      "label": "foamy macrophages"
+                    },
+                    {
+                      "label": "cholesterol crystals"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Congenital hypertrophy of RPE",
+          "children": [
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "flat"
+                },
+                {
+                  "label": "dark black"
+                },
+                {
+                  "label": "few-10 mm"
+                },
+                {
+                  "label": "lacunae",
+                  "children": [
+                    {
+                      "label": "enlarged (hypertrophic) RPE cells",
+                      "children": [
+                        {
+                          "label": "hamartoma"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "melanin granules",
+                  "children": [
+                    {
+                      "label": "densely packed"
+                    },
+                    {
+                      "label": "spherical",
+                      "children": [
+                        {
+                          "label": "large"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "rare adenoma/adenocarcinoma of RPE"
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "familial adenomatous polyposis (Gardner syndrome)",
+                  "children": [
+                    {
+                      "label": "hyperplasia of RPE"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.11.2. Retina & Retinal pigment Epithelium (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 182,
+      "connector_rejected": 10,
+      "connector_edges": 115,
+      "connector_width": 1.596,
+      "text_labels": 87,
+      "tree_nodes": 87,
+      "component_roots": 3,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6319,
+      "root_font_size": 5.321,
+      "warnings": []
+    }
+  }
+}

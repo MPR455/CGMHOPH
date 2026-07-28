@@ -1,0 +1,331 @@
+{
+  "label": "Retinopathy of Prematurity (III): Treatment",
+  "root": true,
+  "children": [
+    {
+      "label": "Prevention and Risk Factors",
+      "children": [
+        {
+          "label": "risk factors",
+          "children": [
+            {
+              "label": "prematurity"
+            },
+            {
+              "label": "extremely low birth weight"
+            },
+            {
+              "label": "supplemental oxygen administration"
+            },
+            {
+              "label": "postnatal sickness",
+              "children": [
+                {
+                  "label": "sepsis"
+                },
+                {
+                  "label": "blood transfusion"
+                },
+                {
+                  "label": "slow rate of postnatal weight gain"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prevention",
+          "children": [
+            {
+              "label": "avoiding extremely low birth weight and short gestational ages"
+            },
+            {
+              "label": "optimal pre-, peri-, and postnatal care"
+            },
+            {
+              "label": "diet",
+              "children": [
+                {
+                  "label": "addition of inositol"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cryotherapy for ROP study",
+      "children": [
+        {
+          "label": "cryotherapy of avascular anterior retina in ROP eyes with threshold disease reduced the incidence of unfavorable outcome by ≈ 50%",
+          "children": [
+            {
+              "label": "from 47% to 25% at 1 year follow-up"
+            },
+            {
+              "label": "visual results paralleled anatomical results"
+            },
+            {
+              "label": "at 10 years, eyes that received cryotherapy were much less likely to be blind"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Laser and Cryoablation Surgery",
+      "children": [
+        {
+          "label": "laser preferred over cryoablation surgery",
+          "children": [
+            {
+              "label": "laser surgery has less treatment-related morbidity"
+            }
+          ]
+        },
+        {
+          "label": "indications for retinal cryoablation",
+          "children": [
+            {
+              "label": "laser is not available"
+            },
+            {
+              "label": "media opacities or persistent tunica vasculosa lentis"
+            }
+          ]
+        },
+        {
+          "label": "technique",
+          "children": [
+            {
+              "label": "start treatment within 72 hours"
+            },
+            {
+              "label": "indirect ophthalmoscopy"
+            },
+            {
+              "label": "avascular retina anterior to the ridge"
+            },
+            {
+              "label": "confluent or subconfluent scatter fashion"
+            },
+            {
+              "label": "apply lighter pattern to horizontal meridia",
+              "children": [
+                {
+                  "label": "can damage the long ciliary vessels and nerves"
+                },
+                {
+                  "label": "can lead to severe anterior segment ischemia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "respiratory or cardiorespiratory arrest can occur",
+          "children": [
+            {
+              "label": "≤ 5%"
+            },
+            {
+              "label": "pediatric consultation with systemic monitoring"
+            },
+            {
+              "label": "systemic analgesia"
+            },
+            {
+              "label": "± general anesthesia in an operating room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ETROP trial",
+      "children": [
+        {
+          "label": "classified eyes with prethreshold ROP as high-risk or low-risk",
+          "children": [
+            {
+              "label": "based on computational model using demographic and clinical features"
+            }
+          ]
+        },
+        {
+          "label": "patients with bilateral, high-risk, prethreshold ROP",
+          "children": [
+            {
+              "label": "random assignment",
+              "children": [
+                {
+                  "label": "1 eye",
+                  "children": [
+                    {
+                      "label": "early ablation of avascular retina"
+                    }
+                  ]
+                },
+                {
+                  "label": "fellow eye",
+                  "children": [
+                    {
+                      "label": "conventional management according to Cryotherapy for ROP study"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "earlier treatment",
+              "children": [
+                {
+                  "label": "reduction in unfavorable grating visual acuity outcomes",
+                  "children": [
+                    {
+                      "label": "from 19.5% to 14.5%"
+                    }
+                  ]
+                },
+                {
+                  "label": "reduction in unfavorable structural outcomes",
+                  "children": [
+                    {
+                      "label": "from 15.6% to 9.1%",
+                      "children": [
+                        {
+                          "label": "at 9 months"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "conclusion",
+          "children": [
+            {
+              "label": "clinical categorization of prethreshold eyes into type 1 vs. type 2 ROP achieved similar results to the computational model (high-risk vs. low-risk)",
+              "children": [
+                {
+                  "label": "type 1 ROP eyes should be considered for peripheral retinal ablative treatment"
+                }
+              ]
+            },
+            {
+              "label": "type 2 ROP eyes can be monitored in short intervals and laser ablative treatment considered if they progress to type 1 ROP or threshold ROP"
+            },
+            {
+              "label": "prethreshold treatment algorithm did not take into account all other known risk factors for progression and clinical judgment is still required"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vitrectomy and Scleral Buckling Surgery",
+      "children": [
+        {
+          "label": "stage 4 ROP (progressive, active-phase ROP)",
+          "children": [
+            {
+              "label": "scleral buckling"
+            },
+            {
+              "label": "lens-sparing vitrectomy"
+            },
+            {
+              "label": "stage 4A has more favorable outcome than stages 4B or 5"
+            }
+          ]
+        },
+        {
+          "label": "stage 5 disease",
+          "children": [
+            {
+              "label": "vitrectomy with dissection of fibrovascular membranes and adherent vitreous",
+              "children": [
+                {
+                  "label": "full or partial reattachment in ≈ 30% of eyes",
+                  "children": [
+                    {
+                      "label": "only 25% of these eyes remained fully attached 5 years later"
+                    },
+                    {
+                      "label": "only 10% of these eyes eventually had ambulatory vision"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "drainage retinotomy or iatrogenic retinal break associated with uniformly poor prognosis"
+        }
+      ]
+    },
+    {
+      "label": "Anti-VEGF Drugs",
+      "children": [
+        {
+          "label": "BEAT-ROP (Bevacizumab Eliminates the Angiogenic Threat of Retinopathy of Prematurity) Cooperative Group",
+          "children": [
+            {
+              "label": "zone I or zone II posterior stage 3 ROP with plus disease"
+            },
+            {
+              "label": "intravitreal bevacizumab monotherapy",
+              "children": [
+                {
+                  "label": "compared with conventional laser therapy, bevacizumab was significantly more benefitial for zone I ROP, whereas zone II disease had similar outcomes",
+                  "children": [
+                    {
+                      "label": "laser therapy led to permanent destruction of the peripheral retina",
+                      "children": [
+                        {
+                          "label": "prolonged, close follow-up is essential"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "normal peripheral retinal vascularization continued after treatment with intravitreal bevacizumab"
+            },
+            {
+              "label": "recurrences occurred significantly later with bevacizumab than with laser therapy"
+            }
+          ]
+        },
+        {
+          "label": "use of bevacizumab in eyes previously treated with laser is not recommended"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Retinopathy of Prematurity (III) - Treatment.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 141,
+      "connector_rejected": 15,
+      "connector_edges": 96,
+      "connector_width": 1.365,
+      "text_labels": 80,
+      "tree_nodes": 80,
+      "component_roots": 6,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6809,
+      "root_font_size": 5.915,
+      "warnings": []
+    }
+  }
+}

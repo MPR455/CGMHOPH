@@ -1,0 +1,736 @@
+{
+  "label": "4.13.3. Eyelids (III): Neoplasia (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Seborrheic keratosis",
+      "children": [
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "middle age"
+            },
+            {
+              "label": "\"stuck-on\" papule"
+            },
+            {
+              "label": "dome-shaped to verrucoid"
+            },
+            {
+              "label": "pink to brown"
+            }
+          ]
+        },
+        {
+          "label": "systemic association",
+          "children": [
+            {
+              "label": "malignancy (gastrointesinal malignancy)",
+              "children": [
+                {
+                  "label": "sudden onset of multiple seborrheic keratosis",
+                  "children": [
+                    {
+                      "label": "Leser-Trelat sign"
+                    },
+                    {
+                      "label": "evolving acanthosis nigricans"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "hyperkeratosis"
+            },
+            {
+              "label": "acanthosis",
+              "children": [
+                {
+                  "label": "proliferation of polygonal or basaloid squamous cells without dysplasia"
+                }
+              ]
+            },
+            {
+              "label": "papillomatosis"
+            },
+            {
+              "label": "pseudohorn cysts",
+              "children": [
+                {
+                  "label": "concentrically laminated collections of surface keratin in acanthotic epithelium"
+                },
+                {
+                  "label": "are in fact crevices/infoldings of surface epidermis"
+                }
+              ]
+            },
+            {
+              "label": "melanin phagocytosis by keratinocytes",
+              "children": [
+                {
+                  "label": "brown color"
+                }
+              ]
+            },
+            {
+              "label": "inverted follicular keratosis (irritated seborrheic keratosis)",
+              "children": [
+                {
+                  "label": "squamous eddies",
+                  "children": [
+                    {
+                      "label": "nonkeratinizing squamous epithelial whorling"
+                    },
+                    {
+                      "label": "no pseudohorn cysts"
+                    }
+                  ]
+                },
+                {
+                  "label": "clinically appear as cutaneous horn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Eyelid neoplasms in association with systemic malignancies",
+          "children": [
+            {
+              "label": "Muir-Torre syndrome",
+              "children": [
+                {
+                  "label": "keratoacanthoma; sebaceous adenoma/ carcinoma"
+                },
+                {
+                  "label": "autosomal dominant; visceral (colon) carcinoma"
+                }
+              ]
+            },
+            {
+              "label": "Cowden disease",
+              "children": [
+                {
+                  "label": "Multiple trichilemmomas"
+                },
+                {
+                  "label": "Autosomal dominant; fibrous hamartomas (breast, thyroid, GI); breast carcinoma"
+                }
+              ]
+            },
+            {
+              "label": "Basal cell nevus syndrome (Gorlin syndrome)",
+              "children": [
+                {
+                  "label": "multiple basal cell carcinomas"
+                },
+                {
+                  "label": "autosomal dominant; medulloblastoma, fibrosarcoma"
+                },
+                {
+                  "label": "skeletal anomalies",
+                  "children": [
+                    {
+                      "label": "mandible"
+                    },
+                    {
+                      "label": "maxilla"
+                    },
+                    {
+                      "label": "vertebrae"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Basal cell carcinoma",
+      "children": [
+        {
+          "label": "demographics",
+          "children": [
+            {
+              "label": "most common malignant neoplasm of eyelids",
+              "children": [
+                {
+                  "label": "90%"
+                }
+              ]
+            },
+            {
+              "label": "sites",
+              "children": [
+                {
+                  "label": "lower lid"
+                },
+                {
+                  "label": "medial canthus",
+                  "children": [
+                    {
+                      "label": "risk of orbital invasion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "predisposing conditions",
+              "children": [
+                {
+                  "label": "fair-skinned"
+                },
+                {
+                  "label": "blue-eyed"
+                },
+                {
+                  "label": "red-haired or blond"
+                },
+                {
+                  "label": "middle-aged and elderly persons",
+                  "children": [
+                    {
+                      "label": "seen with increasing frequency in younger patients"
+                    }
+                  ]
+                },
+                {
+                  "label": "English, Irish, Scottish, or Scandinavian ancestry"
+                },
+                {
+                  "label": "prolonged sun exposure during the first 2 decades of life"
+                },
+                {
+                  "label": "cigarette smoking"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "nodular type",
+                  "children": [
+                    {
+                      "label": "elevated lesion",
+                      "children": [
+                        {
+                          "label": "ulceration"
+                        },
+                        {
+                          "label": "pearly raised rolled edges"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "slowly enlarging"
+                    }
+                  ]
+                },
+                {
+                  "label": "morpheaform",
+                  "children": [
+                    {
+                      "label": "flat-slightly depressed pale yellow indurated plaque"
+                    },
+                    {
+                      "label": "infiltrative growth pattern"
+                    },
+                    {
+                      "label": "histology",
+                      "children": [
+                        {
+                          "label": "no peripheral palisading"
+                        },
+                        {
+                          "label": "thin cords that radiate peripherally"
+                        },
+                        {
+                          "label": "surrounding stroma may show proliferation of connective tissue into a pattern of fibrosis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "multicentric"
+                }
+              ]
+            },
+            {
+              "label": "local spread",
+              "children": [
+                {
+                  "label": "pigmented"
+                },
+                {
+                  "label": "rarely metastasize"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "originates from stratum basale/germinativum",
+              "children": [
+                {
+                  "label": "only hair-bearing tissue"
+                }
+              ]
+            },
+            {
+              "label": "cohesive tumor cell islands",
+              "children": [
+                {
+                  "label": "bland monomorphous nuclei + high N/C ratio"
+                },
+                {
+                  "label": "clear space surrounds the islands",
+                  "children": [
+                    {
+                      "label": "nuclear palisading of peripheral cell layer"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histologic patterns",
+              "children": [
+                {
+                  "label": "keratotic (hair follicle)"
+                },
+                {
+                  "label": "squamous (metatypical)"
+                },
+                {
+                  "label": "sebaceous"
+                },
+                {
+                  "label": "adenoid"
+                },
+                {
+                  "label": "eccrine (syringoid)"
+                },
+                {
+                  "label": "morphea (sclerosing)",
+                  "children": [
+                    {
+                      "label": "thin cords/strands in fibrotic stroma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "complete excision with surgical margin control"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Keratoacanthoma",
+      "children": [
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "dome-shaped nodule",
+              "children": [
+                {
+                  "label": "≤ 2.5 cm"
+                }
+              ]
+            },
+            {
+              "label": "keratin-filled central crater"
+            },
+            {
+              "label": "rapid growth",
+              "children": [
+                {
+                  "label": "over weeks to months"
+                }
+              ]
+            },
+            {
+              "label": "spontaneous resolution",
+              "children": [
+                {
+                  "label": "over several months",
+                  "children": [
+                    {
+                      "label": "depressed scar"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "cup-shaped proliferation of well-differentiated squamous cells",
+              "children": [
+                {
+                  "label": "variant of well-differentiated squamous cell carcinoma"
+                },
+                {
+                  "label": "irregularly configured nests/strands"
+                },
+                {
+                  "label": "chronic inflammatory response"
+                }
+              ]
+            },
+            {
+              "label": "undermine adjacent normal epidermis"
+            },
+            {
+              "label": "deep aspect",
+              "children": [
+                {
+                  "label": "+- mitotic activity"
+                },
+                {
+                  "label": "+- nuclear atypia"
+                }
+              ]
+            },
+            {
+              "label": "if definite invasion, lesion should be considered a well-differentiated keratinizing squamous cell carcinoma"
+            }
+          ]
+        },
+        {
+          "label": "treatment"
+        }
+      ]
+    },
+    {
+      "label": "Squamous cell carcinoma",
+      "children": [
+        {
+          "label": "demographics",
+          "children": [
+            {
+              "label": "10-40 x less common than BCC"
+            },
+            {
+              "label": "solar damaged skin",
+              "children": [
+                {
+                  "label": "lower lid>upper lid"
+                },
+                {
+                  "label": "proportion of upper lid SCC>proportion of upper lid BCC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "diverse appearance",
+              "children": [
+                {
+                  "label": "ulcer"
+                },
+                {
+                  "label": "plaque"
+                },
+                {
+                  "label": "fungating"
+                },
+                {
+                  "label": "nodular"
+                }
+              ]
+            },
+            {
+              "label": "regional lymph node metastasis",
+              "children": [
+                {
+                  "label": "20%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "atypical squamous cells",
+              "children": [
+                {
+                  "label": "extend beyond basement membrane",
+                  "children": [
+                    {
+                      "label": "fibrotic reaction in dermis"
+                    }
+                  ]
+                },
+                {
+                  "label": "variable differentiation",
+                  "children": [
+                    {
+                      "label": "well-differentiated",
+                      "children": [
+                        {
+                          "label": "keratin formation"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "moderately differentiated"
+                    },
+                    {
+                      "label": "poorly differentiated"
+                    }
+                  ]
+                },
+                {
+                  "label": "intercellular bridges"
+                }
+              ]
+            },
+            {
+              "label": "perineural invasion"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "complete excision with surgical margin control"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "lymphatic invasion"
+    },
+    {
+      "label": "Actinic keratosis",
+      "children": [
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "erythematous scaly macules/papules",
+              "children": [
+                {
+                  "label": "few mm to 1 cm"
+                }
+              ]
+            },
+            {
+              "label": "hyperkeratotic type",
+              "children": [
+                {
+                  "label": "cutaneous horn"
+                }
+              ]
+            },
+            {
+              "label": "hyperpigmented type",
+              "children": [
+                {
+                  "label": "simulates lentigo maligna"
+                }
+              ]
+            },
+            {
+              "label": "middle age"
+            },
+            {
+              "label": "sun-exposed skin"
+            },
+            {
+              "label": "precancerous",
+              "children": [
+                {
+                  "label": "squamous cell carcinoma",
+                  "children": [
+                    {
+                      "label": "0.5-3% metastasis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "epidermis",
+              "children": [
+                {
+                  "label": "hyperkeratosis"
+                },
+                {
+                  "label": "parakeratosis"
+                },
+                {
+                  "label": "dyskeratosis"
+                },
+                {
+                  "label": "mitotic figures"
+                },
+                {
+                  "label": "cellular atypia"
+                }
+              ]
+            },
+            {
+              "label": "dermis",
+              "children": [
+                {
+                  "label": "solar elastosis of underlying dermis",
+                  "children": [
+                    {
+                      "label": "fragmentation/clumping/loss of eosinophilia of dermal collagen"
+                    }
+                  ]
+                },
+                {
+                  "label": "chronic inflammatory infiltrate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "shave biopsy not including the base is contraindicated!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Capillary neoplasm",
+      "children": [
+        {
+          "label": "appear at/shortly after birth"
+        },
+        {
+          "label": "bright red"
+        },
+        {
+          "label": "grow over weeks to months"
+        },
+        {
+          "label": "involute by school age"
+        },
+        {
+          "label": "treat if interfere with vision (amblyopia)",
+          "children": [
+            {
+              "label": "ptosis"
+            },
+            {
+              "label": "astigmatism"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "early lesions",
+              "children": [
+                {
+                  "label": "very cellular",
+                  "children": [
+                    {
+                      "label": "solid nests of plump endothelial cells"
+                    }
+                  ]
+                },
+                {
+                  "label": "little vascular luminal formation"
+                }
+              ]
+            },
+            {
+              "label": "established lesions",
+              "children": [
+                {
+                  "label": "well-developed flattened endothelium-lined capillary channels"
+                }
+              ]
+            },
+            {
+              "label": "involuting lesions",
+              "children": [
+                {
+                  "label": "increased fibrosis"
+                },
+                {
+                  "label": "hyalinization of capillary walls"
+                },
+                {
+                  "label": "luminal occlusion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.13.3. Eyelids (III) - Neoplasia (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 378,
+      "connector_rejected": 13,
+      "connector_edges": 246,
+      "connector_width": 1.177,
+      "text_labels": 187,
+      "tree_nodes": 187,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6508,
+      "root_font_size": 3.923,
+      "warnings": []
+    }
+  }
+}

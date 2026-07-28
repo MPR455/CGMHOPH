@@ -1,0 +1,393 @@
+{
+  "label": "5.8.3. Diplopia (III): Nuclear & Internuclear Causes",
+  "root": true,
+  "children": [
+    {
+      "label": "Nuclear Causes of Diplopia",
+      "children": [
+        {
+          "label": "third cranial nerve nuclear complex",
+          "children": [
+            {
+              "label": "anatomy",
+              "children": [
+                {
+                  "label": "subnuclei for 4 extraocular muscles",
+                  "children": [
+                    {
+                      "label": "superior rectus fascicles decussate just after emerging from their subnuclei",
+                      "children": [
+                        {
+                          "label": "nuclear lesions may bilaterally affect the superior rectus muscles"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "single subnucleus for the levator palpebrae muscles",
+                  "children": [
+                    {
+                      "label": "central caudal nucleus",
+                      "children": [
+                        {
+                          "label": "nuclear lesions affect or spare both upper eyelids"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "paired subnuclei for the pupillary constrictor muscles",
+                  "children": [
+                    {
+                      "label": "Edinger-Westphal nuclei"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lesions",
+              "children": [
+                {
+                  "label": "uncommon"
+                },
+                {
+                  "label": "reduced perfusion through a small, paramedian-penetrating blood vessel",
+                  "children": [
+                    {
+                      "label": "affects the oculomotor nerve nucleus & fascicle on one side"
+                    },
+                    {
+                      "label": "asymmetric"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fourth cranial nerve nucleus",
+          "children": [
+            {
+              "label": "short course within the brainstem"
+            },
+            {
+              "label": "decussates in anterior medullary velum",
+              "children": [
+                {
+                  "label": "intraparenchymal lesions of the fourth nerve are rare!"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "microvascular"
+                },
+                {
+                  "label": "inflammatory"
+                },
+                {
+                  "label": "demyelinating"
+                }
+              ]
+            },
+            {
+              "label": "descending sympathetic pathway is close to the caudal portion of the nucleus",
+              "children": [
+                {
+                  "label": "nuclear lesion is clinically identical to fascicular lesion"
+                },
+                {
+                  "label": "fourth nerve palsy + contralateral Horner syndrome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "sixth cranial nerve nucleus",
+          "children": [
+            {
+              "label": "2 populations of neurons",
+              "children": [
+                {
+                  "label": "primary motoneurons",
+                  "children": [
+                    {
+                      "label": "innervate the ipsilateral lateral rectus muscle"
+                    }
+                  ]
+                },
+                {
+                  "label": "internuclear motoneurons",
+                  "children": [
+                    {
+                      "label": "innervate the contralateral medial rectus subnucleus (via contralateral MLF)"
+                    }
+                  ]
+                },
+                {
+                  "label": "ipsilateral horizontal gaze palsy",
+                  "children": [
+                    {
+                      "label": "not an isolated abduction paresis!"
+                    },
+                    {
+                      "label": "patients may not experience diplopia!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "surrounded by the looping fibers (genu) of CN VII",
+              "children": [
+                {
+                  "label": "ipsilateral upper and lower facial weakness",
+                  "children": [
+                    {
+                      "label": "facial colliculus syndrome"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Internuclear Causes of Diplopia",
+      "children": [
+        {
+          "label": "medial longitudinal fasciculus (MLF)",
+          "children": [
+            {
+              "label": "connects the sixth nerve nucleus on one side of the pons to the medial rectus subnucleus on the contralateral side of the midbrain"
+            }
+          ]
+        },
+        {
+          "label": "internuclear Ophthalmoplegia (INO)",
+          "children": [
+            {
+              "label": "slow adducting saccadic velocity in 1 eye",
+              "children": [
+                {
+                  "label": "± adduction limitation",
+                  "children": [
+                    {
+                      "label": "± horizontal diplopia"
+                    }
+                  ]
+                },
+                {
+                  "label": "± convergence limitation"
+                },
+                {
+                  "label": "difficulty tracking fast-moving objects"
+                },
+                {
+                  "label": "INO is named for the side of limited adduction",
+                  "children": [
+                    {
+                      "label": "lesion of right MLF causes right INO"
+                    },
+                    {
+                      "label": "skew deviation without INO: hyperdeviation contralateral to lesion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "abducting nystagmus of the fellow eye"
+            },
+            {
+              "label": "± skew deviation",
+              "children": [
+                {
+                  "label": "± vertical-oblique diplopia",
+                  "children": [
+                    {
+                      "label": "hyperdeviation ipsilateral to the lesion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "bilateral INO",
+              "children": [
+                {
+                  "label": "bilateral adduction lag",
+                  "children": [
+                    {
+                      "label": "bilateral abducting nystagmus"
+                    }
+                  ]
+                },
+                {
+                  "label": "vertical, gaze-evoked nystagmus",
+                  "children": [
+                    {
+                      "label": "disruption of vertical vestibular pursuit and gaze-holding pathways",
+                      "children": [
+                        {
+                          "label": "ascend from the vestibular nuclei through the MLF"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "large-angle exodeviation",
+                  "children": [
+                    {
+                      "label": "“wall-eyed” bilateral INO, or WEBINO, syndrome",
+                      "children": [
+                        {
+                          "label": "midbrain lesion near the third nerve nuclei"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "2 most common causes",
+                  "children": [
+                    {
+                      "label": "demyelination",
+                      "children": [
+                        {
+                          "label": "adolescents and younger adults"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "stroke",
+                      "children": [
+                        {
+                          "label": "older adults"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "myasthenia gravis",
+                  "children": [
+                    {
+                      "label": "pseudo-INO",
+                      "children": [
+                        {
+                          "label": "myasthenic eyelid signs"
+                        },
+                        {
+                          "label": "no vertical gaze–evoked nystagmus"
+                        },
+                        {
+                          "label": "adduction paresis may resolve transiently after intravenous edrophonium (edrophonium test)"
+                        },
+                        {
+                          "label": "responds to appropriate systemic therapy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "references"
+            }
+          ]
+        },
+        {
+          "label": "One-and-a-Half Syndrome",
+          "children": [
+            {
+              "label": "WEBINO is midbrain"
+            },
+            {
+              "label": "pontine abnormality large enough to involve ipsilateral",
+              "children": [
+                {
+                  "label": "MLF",
+                  "children": [
+                    {
+                      "label": "ipsilateral INO"
+                    }
+                  ]
+                },
+                {
+                  "label": "PPRF (or sixth nerve nucleus)",
+                  "children": [
+                    {
+                      "label": "ipsilateral horizontal gaze palsy"
+                    }
+                  ]
+                },
+                {
+                  "label": "only horizontal eye movement remaining is abduction of the contralateral eye"
+                }
+              ]
+            },
+            {
+              "label": "one-and-a-half syndrome + involvement of intra-axial portion of the facial nerve",
+              "children": [
+                {
+                  "label": "eight-and-a-half syndrome (7 + 1.5 = 8.5)"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "stroke"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "vertical gaze is preserved"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.8.3. Diplopia (III) - Nuclear & Internuclear Causes.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 179,
+      "connector_rejected": 8,
+      "connector_edges": 105,
+      "connector_width": 0.781,
+      "text_labels": 92,
+      "tree_nodes": 92,
+      "component_roots": 3,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.5866,
+      "root_font_size": 3.709,
+      "warnings": []
+    }
+  }
+}

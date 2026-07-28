@@ -1,0 +1,226 @@
+{
+  "label": "9.7.23. Infectious Ocular Inflammatory Diseases (XXIII): Infectious Scleritis",
+  "root": true,
+  "children": [
+    {
+      "label": "organisms",
+      "children": [
+        {
+          "label": "Pseudomonas",
+          "children": [
+            {
+              "label": "most common after pterygium excision"
+            }
+          ]
+        },
+        {
+          "label": "Actinomyces"
+        },
+        {
+          "label": "Nocardia"
+        },
+        {
+          "label": "mycobacteria"
+        },
+        {
+          "label": "fungi",
+          "children": [
+            {
+              "label": "Fusarium and Aspergillus species"
+            }
+          ]
+        },
+        {
+          "label": "gram-positive cocci",
+          "children": [
+            {
+              "label": "Staphylococcus pneumococcus and Streptococcus"
+            }
+          ]
+        },
+        {
+          "label": "HSV and VZV"
+        }
+      ]
+    },
+    {
+      "label": "diagnostic Workup",
+      "children": [
+        {
+          "label": "culture",
+          "children": [
+            {
+              "label": "base and edges"
+            }
+          ]
+        },
+        {
+          "label": "lamellar scleral biopsy",
+          "children": [
+            {
+              "label": "if the condition worsens on anti-inflammatory therapy alone"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic evaluation for noninfectious necrotizing scleritis"
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "debridement of infected tissues"
+        },
+        {
+          "label": "antibiotics",
+          "children": [
+            {
+              "label": "topically (including by drop or continuous lavage)"
+            },
+            {
+              "label": "subconjunctivally"
+            },
+            {
+              "label": "systemically"
+            }
+          ]
+        },
+        {
+          "label": "corticosteroids"
+        },
+        {
+          "label": "scleral patch grafting",
+          "children": [
+            {
+              "label": "avoided initially"
+            },
+            {
+              "label": "if there is severe thinning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "predisposing conditions",
+      "children": [
+        {
+          "label": "previous ocular surgery",
+          "children": [
+            {
+              "label": "pterygium surgery",
+              "children": [
+                {
+                  "label": "especially when beta irradiation or mitomycin C is utilized"
+                }
+              ]
+            },
+            {
+              "label": "scleral buckling"
+            },
+            {
+              "label": "cataract surgery"
+            },
+            {
+              "label": "pars plana vitrectomy"
+            },
+            {
+              "label": "precipitating surgery may be recent or remote"
+            }
+          ]
+        },
+        {
+          "label": "penetrating injury contaminated by soil or vegetable matter"
+        }
+      ]
+    },
+    {
+      "label": "prognosis",
+      "children": [
+        {
+          "label": "difficult to treat",
+          "children": [
+            {
+              "label": "inadequate excision of infected tissues can result in disease recurrence"
+            },
+            {
+              "label": "long-term treatment may be necessary"
+            }
+          ]
+        },
+        {
+          "label": "complications are common",
+          "children": [
+            {
+              "label": "+- globe perforation with surgery"
+            },
+            {
+              "label": "extension of the infection to the cornea"
+            },
+            {
+              "label": "endophthalmitis",
+              "children": [
+                {
+                  "label": "marginal corneal infiltrates"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "pain"
+            },
+            {
+              "label": "redness"
+            },
+            {
+              "label": "decreased vision"
+            }
+          ]
+        },
+        {
+          "label": "sclera appears necrotic, thin, and avascular",
+          "children": [
+            {
+              "label": "inflammation at the edges"
+            },
+            {
+              "label": "at the site of a surgical or traumatic wound"
+            }
+          ]
+        },
+        {
+          "label": "+- mucopurulent discharge"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.23. Infectious Ocular Inflammatory Diseases (XXIII) - Infectious Scleritis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 94,
+      "connector_rejected": 0,
+      "connector_edges": 65,
+      "connector_width": 1.221,
+      "text_labels": 55,
+      "tree_nodes": 55,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6915,
+      "root_font_size": 4.273,
+      "warnings": []
+    }
+  }
+}

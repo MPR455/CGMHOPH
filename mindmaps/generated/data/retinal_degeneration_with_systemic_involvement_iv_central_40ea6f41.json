@@ -1,0 +1,903 @@
+{
+  "label": "Retinal Degeneration With Systemic Involvement IV: Central Nervous System Peroxisomal disorders",
+  "root": true,
+  "children": [
+    {
+      "label": "Neuronal ceroid lipofuscinoses (NCLs)/Batten disease",
+      "children": [
+        {
+          "label": "Introduction",
+          "children": [
+            {
+              "label": "autosomal recessive"
+            },
+            {
+              "label": "accumulation of waxy lipopigments",
+              "children": [
+                {
+                  "label": "within lysosomes of neurons and other cells"
+                }
+              ]
+            },
+            {
+              "label": "usually evident in early childhood"
+            },
+            {
+              "label": "belong to a larger group of diseases known as lysosomal storage disorders"
+            }
+          ]
+        },
+        {
+          "label": "Clinical",
+          "children": [
+            {
+              "label": "Systemic",
+              "children": [
+                {
+                  "label": "progressive dementia",
+                  "children": [
+                    {
+                      "label": "differentiate from primary Leber congenital amaurosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "seizures"
+                }
+              ]
+            },
+            {
+              "label": "Ocular",
+              "children": [
+                {
+                  "label": "ocular findings are seen in infantile & juvenile types of NCL"
+                },
+                {
+                  "label": "loss of vision"
+                },
+                {
+                  "label": "pigmentary retinopathy",
+                  "children": [
+                    {
+                      "label": "macular pigmentary changes",
+                      "children": [
+                        {
+                          "label": "bull’s-eye atrophic maculopathy",
+                          "children": [
+                            {
+                              "label": "2 adult forms of NCL do not have ocular manifestations"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "mottling of the fundus periphery"
+                    }
+                  ]
+                },
+                {
+                  "label": "retinal vascular attenuation"
+                },
+                {
+                  "label": "optic atrophy"
+                },
+                {
+                  "label": "reduced or absent ERG signals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Diagnosis",
+          "children": [
+            {
+              "label": "genetic testing"
+            },
+            {
+              "label": "peripheral blood smear"
+            },
+            {
+              "label": "biopsy of conjunctival or other tissues",
+              "children": [
+                {
+                  "label": "curvilinear, fingerprint-like or granular inclusions on electron microscopy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "The term Batten disease originally referred to juvenile and most common form of NCL but is used increasingly to describe all forms of NCL"
+    },
+    {
+      "label": "Other lysosomal metabolic disorders",
+      "children": [
+        {
+          "label": "Tay-Sachs disease",
+          "children": [
+            {
+              "label": "deficient subunit A of hexosaminidase A",
+              "children": [
+                {
+                  "label": "glycolipid accumulation"
+                }
+              ]
+            },
+            {
+              "label": "most common ganglioside storage disease"
+            },
+            {
+              "label": "brain",
+              "children": [
+                {
+                  "label": "cognitive disability"
+                }
+              ]
+            },
+            {
+              "label": "retina",
+              "children": [
+                {
+                  "label": "cherry-red spot",
+                  "children": [
+                    {
+                      "label": "ganglion cells surrounding fovea become filled with ganglioside"
+                    }
+                  ]
+                },
+                {
+                  "label": "blindness"
+                }
+              ]
+            },
+            {
+              "label": "death between 2-5 years"
+            }
+          ]
+        },
+        {
+          "label": "Gaucher disease",
+          "children": [
+            {
+              "label": "chronic nonneuronopathic adult form",
+              "children": [
+                {
+                  "label": "no cerebral involvement"
+                }
+              ]
+            },
+            {
+              "label": "accumulation of glucosylceramide",
+              "children": [
+                {
+                  "label": "spleen"
+                },
+                {
+                  "label": "liver"
+                },
+                {
+                  "label": "lymph nodes"
+                },
+                {
+                  "label": "skin"
+                },
+                {
+                  "label": "bone marrow"
+                },
+                {
+                  "label": "+- cherry-red spot"
+                }
+              ]
+            },
+            {
+              "label": "SD-OCT",
+              "children": [
+                {
+                  "label": "multiple hyperreflective lesions along retinal surface"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Niemann-Pick disease",
+          "children": [
+            {
+              "label": "absent sphingomyelinase isoenzymes"
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "type A",
+                  "children": [
+                    {
+                      "label": "acute neuronopathic"
+                    },
+                    {
+                      "label": "cherry-red spot",
+                      "children": [
+                        {
+                          "label": "50%"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "type B",
+                  "children": [
+                    {
+                      "label": "chronic Niemann-Pick",
+                      "children": [
+                        {
+                          "label": "sea-blue histiocyte syndrome"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "mildest",
+                      "children": [
+                        {
+                          "label": "no functional involvement of CNS"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "macular halo",
+                      "children": [
+                        {
+                          "label": "diagnostic!"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Fabry disease",
+          "children": [
+            {
+              "label": "angiokeratoma corporis diffusum"
+            },
+            {
+              "label": "X-linked recessive"
+            },
+            {
+              "label": "alpha-galactosidase A gene mutation"
+            },
+            {
+              "label": "ceramide trihexoside accumulation in smooth muscle of blood vessels",
+              "children": [
+                {
+                  "label": "kidney"
+                },
+                {
+                  "label": "skin",
+                  "children": [
+                    {
+                      "label": "burning paresthesias/pain in extremities",
+                      "children": [
+                        {
+                          "label": "late childhood"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "gastrointestinal tract"
+                },
+                {
+                  "label": "CNS"
+                },
+                {
+                  "label": "heart"
+                },
+                {
+                  "label": "reticuloendothelial system"
+                },
+                {
+                  "label": "eye",
+                  "children": [
+                    {
+                      "label": "corneal verticillata"
+                    },
+                    {
+                      "label": "tortuous conjunctival vessels"
+                    },
+                    {
+                      "label": "tortuous/dilated retinal vessels"
+                    },
+                    {
+                      "label": "lens changes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fucosidosis",
+          "children": [
+            {
+              "label": "reduced activity of alpha-l-fucosidase enzyme"
+            },
+            {
+              "label": "tortuous conjunctival vessels"
+            },
+            {
+              "label": "tortuous/dilated retinal vessels"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Abetalipoproteinemia and vitamin A deficiency",
+      "children": [
+        {
+          "label": "Abetalipoproteinemia",
+          "children": [
+            {
+              "label": "autosomal recessive"
+            },
+            {
+              "label": "apolipoprotein B is not synthesized",
+              "children": [
+                {
+                  "label": "fat malabsorption",
+                  "children": [
+                    {
+                      "label": "fat-soluble vitamin deficiency"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "retinal and spinocerebellar degeneration"
+            },
+            {
+              "label": "RBC acanthocytosis"
+            },
+            {
+              "label": "vitamin A and E supplementation"
+            }
+          ]
+        },
+        {
+          "label": "Acquired vitamin A deficiency",
+          "children": [
+            {
+              "label": "gastric bypass surgery for obesity"
+            },
+            {
+              "label": "small-bowel resection for Crohn disease",
+              "children": [
+                {
+                  "label": "most common causes of vitamin A deficiency retinopathy"
+                }
+              ]
+            },
+            {
+              "label": "blind loop syndrome",
+              "children": [
+                {
+                  "label": "overgrowth of bacteria consumes vitamin A",
+                  "children": [
+                    {
+                      "label": "malabsorption of fat-soluble vitamins"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Retinopathy",
+          "children": [
+            {
+              "label": "night blindness"
+            },
+            {
+              "label": "vision loss"
+            },
+            {
+              "label": "diffuse, drusenlike spots",
+              "children": [
+                {
+                  "label": "similar to retinitis punctata albescens"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "autosomal recessive"
+        },
+        {
+          "label": "dysfunction or absence of peroxisomes or peroxisomal enzymes"
+        },
+        {
+          "label": "defective oxidation and accumulation of very-long-chain fatty acids"
+        },
+        {
+          "label": "Neonatal adrenoleukodystrophy",
+          "children": [
+            {
+              "label": "presents in infancy"
+            },
+            {
+              "label": "survive until age of 7–10 years"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Zellweger syndrome",
+      "children": [
+        {
+          "label": "severe infantile-onset retinal degeneration"
+        },
+        {
+          "label": "hypotonia"
+        },
+        {
+          "label": "psychomotor impairment"
+        },
+        {
+          "label": "seizures"
+        },
+        {
+          "label": "characteristic facies"
+        },
+        {
+          "label": "renal cysts"
+        },
+        {
+          "label": "hepatic interstitial fibrosis"
+        },
+        {
+          "label": "death in infancy"
+        }
+      ]
+    },
+    {
+      "label": "Infantile Refsum Disease",
+      "children": [
+        {
+          "label": "reduced phytanic acid oxidase activity"
+        },
+        {
+          "label": "increased levels of phytanic acid in blood and tissues"
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "pigmentary retinopathy with reduced ERG"
+            },
+            {
+              "label": "peripheral neuropathy"
+            },
+            {
+              "label": "cerebellar ataxia"
+            },
+            {
+              "label": "elevated protein levels in CSF"
+            },
+            {
+              "label": "anosmia"
+            },
+            {
+              "label": "hearing loss",
+              "children": [
+                {
+                  "label": "slows or stabilizes neuropathy but typically not the retinal degeneration"
+                }
+              ]
+            },
+            {
+              "label": "cardiomyopathy"
+            }
+          ]
+        },
+        {
+          "label": "similar but less severe finding"
+        },
+        {
+          "label": "limit intake of foods high in phytanic acid precursors"
+        }
+      ]
+    },
+    {
+      "label": "Mitochondrial Disorders",
+      "children": [
+        {
+          "label": "mitochondrial myopathies",
+          "children": [
+            {
+              "label": "pathology",
+              "children": [
+                {
+                  "label": "increased number of abnormally shaped mitochondria"
+                },
+                {
+                  "label": "\"ragged-red\" fibers on muscle biopsy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Chronic progressive external ophthalmoplegia",
+          "children": [
+            {
+              "label": "progressive external ophthalmoplegia"
+            },
+            {
+              "label": "pigmentary retinopathy (atypical RP)",
+              "children": [
+                {
+                  "label": "mottled macular pigmentary change",
+                  "children": [
+                    {
+                      "label": "early"
+                    }
+                  ]
+                },
+                {
+                  "label": "bone-spicule changes",
+                  "children": [
+                    {
+                      "label": "rare"
+                    }
+                  ]
+                },
+                {
+                  "label": "variable severity",
+                  "children": [
+                    {
+                      "label": "many patients retain good visual function with normal ERG"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic abnormalities",
+              "children": [
+                {
+                  "label": "chronic progressive external ophthalmoplegia",
+                  "children": [
+                    {
+                      "label": "Kearns-sayre syndrome"
+                    }
+                  ]
+                },
+                {
+                  "label": "retinal pigmentary degeneration"
+                },
+                {
+                  "label": "heart block (cardiac conduction abnormalities)"
+                },
+                {
+                  "label": "onset < age 10 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "MELAS syndrome",
+          "children": [
+            {
+              "label": "mitochondrial encephalomyopathy"
+            },
+            {
+              "label": "lactic acidosis"
+            },
+            {
+              "label": "stroke"
+            },
+            {
+              "label": "pigmentary retinopathy"
+            }
+          ]
+        },
+        {
+          "label": "NARP syndrome",
+          "children": [
+            {
+              "label": "neurogenic muscle weakness"
+            },
+            {
+              "label": "ataxia"
+            },
+            {
+              "label": "retinitis pigmentosa"
+            }
+          ]
+        },
+        {
+          "label": "MIDD",
+          "children": [
+            {
+              "label": "maternally inherited diabetes"
+            },
+            {
+              "label": "deafness"
+            },
+            {
+              "label": "pigmentary retinopathy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mucopolysaccharidoses",
+      "children": [
+        {
+          "label": "inherited defects in catabolic lysosomal enzymes that degrade glycosaminoglycans",
+          "children": [
+            {
+              "label": "heparan sulfate"
+            },
+            {
+              "label": "keratan sulfate"
+            },
+            {
+              "label": "dermatan sulfate"
+            }
+          ]
+        },
+        {
+          "label": "autosomal recessive",
+          "children": [
+            {
+              "label": "except for type II (Hunter)",
+              "children": [
+                {
+                  "label": "X-linked recessive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "only those MPSs in which heparan sulfate is stored are associated with retinal dystrophy",
+          "children": [
+            {
+              "label": "MPS type I S (Scheie syndrome)",
+              "children": [
+                {
+                  "label": "clinical",
+                  "children": [
+                    {
+                      "label": "coarse facies"
+                    },
+                    {
+                      "label": "cognitive disabilities"
+                    },
+                    {
+                      "label": "corneal clouding"
+                    },
+                    {
+                      "label": "retinal degeneration"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "MPS type I H (Hurler syndrome)"
+            },
+            {
+              "label": "MPS type II (Hunter syndrome)",
+              "children": [
+                {
+                  "label": "X-linked recessive"
+                },
+                {
+                  "label": "pigmentary retinopathy",
+                  "children": [
+                    {
+                      "label": "retinal pigmentary changes may be subtle, but the ERG response is abnormal"
+                    }
+                  ]
+                },
+                {
+                  "label": "± mild corneal clouding"
+                },
+                {
+                  "label": "coarse facies"
+                },
+                {
+                  "label": "short stature"
+                },
+                {
+                  "label": "± cognitive disabilities"
+                }
+              ]
+            },
+            {
+              "label": "MPS type III (Sanfilippo syndrome)",
+              "children": [
+                {
+                  "label": "mild somatic stigmata"
+                },
+                {
+                  "label": "pigmentary retinopathy is severe"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Amino acid disorders",
+      "children": [
+        {
+          "label": "Cystinosis",
+          "children": [
+            {
+              "label": "deficient carrier protein cystinosin",
+              "children": [
+                {
+                  "label": "defective cystine transport out of lysosomes",
+                  "children": [
+                    {
+                      "label": "all 3 types develop corneal/conjunctival crystals"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "autosomal recessive"
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "nephropathic",
+                  "children": [
+                    {
+                      "label": "corneal/conjunctival crystals"
+                    },
+                    {
+                      "label": "only nephropathic type develops retinopathy"
+                    },
+                    {
+                      "label": "retinopathy",
+                      "children": [
+                        {
+                          "label": "patchy RPE depigmentation"
+                        },
+                        {
+                          "label": "irregularly distributed pigment clumps"
+                        },
+                        {
+                          "label": "fine retinal crystals"
+                        },
+                        {
+                          "label": "no significant visual disturbance"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "progressive renal failure",
+                      "children": [
+                        {
+                          "label": "age 8-15 months"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "growth retardation"
+                    },
+                    {
+                      "label": "renal rickets"
+                    },
+                    {
+                      "label": "hypothyroidism"
+                    }
+                  ]
+                },
+                {
+                  "label": "late-onset",
+                  "children": [
+                    {
+                      "label": "corneal/conjunctival crystals"
+                    }
+                  ]
+                },
+                {
+                  "label": "benign",
+                  "children": [
+                    {
+                      "label": "corneal/conjunctival crystals"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "cysteamine",
+                  "children": [
+                    {
+                      "label": "forms mixed disulfide with cystine",
+                      "children": [
+                        {
+                          "label": "can leave the lysosome"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "Bietti crystalline dystrophy",
+                  "children": [
+                    {
+                      "label": "crystalline keratopathy and retinopathy"
+                    },
+                    {
+                      "label": "patchy loss of the choriocapillaris and RPE"
+                    },
+                    {
+                      "label": "associated photoreceptor loss"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Retinal Degeneration With Systemic Involvement IV - Central Nervous System.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 404,
+      "connector_rejected": 182,
+      "connector_edges": 222,
+      "connector_width": 0.489,
+      "text_labels": 234,
+      "tree_nodes": 234,
+      "component_roots": 9,
+      "spatially_recovered_labels": 9,
+      "connector_match_ratio": 0.5495,
+      "root_font_size": 3.302,
+      "warnings": []
+    }
+  }
+}

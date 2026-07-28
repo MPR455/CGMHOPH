@@ -1,0 +1,285 @@
+{
+  "label": "5.14.15. Systemic Conditions (XV): Neuro-Ophthalmic Manifestations of Infectious Diseases (III): Lyme Disease",
+  "root": true,
+  "children": [
+    {
+      "label": "Borrelia burgdorferi",
+      "children": [
+        {
+          "label": "spirochete"
+        },
+        {
+          "label": "transmitted by deer ticks"
+        }
+      ]
+    },
+    {
+      "label": "stage 1",
+      "children": [
+        {
+          "label": "localized infection"
+        },
+        {
+          "label": "within days or weeks of infection"
+        },
+        {
+          "label": "skin rash (erythema chronicum migrans)",
+          "children": [
+            {
+              "label": "60-80%"
+            }
+          ]
+        },
+        {
+          "label": "± systemic findings",
+          "children": [
+            {
+              "label": "fever"
+            },
+            {
+              "label": "minor constitutional symptoms"
+            }
+          ]
+        },
+        {
+          "label": "ocular findings",
+          "children": [
+            {
+              "label": "photophobia"
+            },
+            {
+              "label": "periorbital edema"
+            },
+            {
+              "label": "conjunctivitis"
+            },
+            {
+              "label": "iridocyclitis"
+            },
+            {
+              "label": "diffuse choroiditis"
+            },
+            {
+              "label": "exudative retinal detachment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Stage 3",
+      "children": [
+        {
+          "label": "persistent infection"
+        },
+        {
+          "label": "keratitis"
+        },
+        {
+          "label": "systemic findings",
+          "children": [
+            {
+              "label": "arthritis"
+            },
+            {
+              "label": "scleroderma-like skin lesions"
+            }
+          ]
+        },
+        {
+          "label": "neurologic findings",
+          "children": [
+            {
+              "label": "chronic encephalomyelitis"
+            },
+            {
+              "label": "spastic paraparesis"
+            },
+            {
+              "label": "ataxic gait"
+            },
+            {
+              "label": "subtle mental disorders"
+            },
+            {
+              "label": "chronic radiculopathy"
+            },
+            {
+              "label": "neurologic picture may resemble that of MS",
+              "children": [
+                {
+                  "label": "clinically and radiographically"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "diagnosis",
+      "children": [
+        {
+          "label": "exposure to endemic area",
+          "children": [
+            {
+              "label": "patient might not recall a tick bite"
+            }
+          ]
+        },
+        {
+          "label": "typical rash"
+        },
+        {
+          "label": "elevated Lyme antibody titer in the serum or CSF",
+          "children": [
+            {
+              "label": "ELISA",
+              "children": [
+                {
+                  "label": "for screening"
+                }
+              ]
+            },
+            {
+              "label": "Western blot",
+              "children": [
+                {
+                  "label": "confirms the diagnosis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "orchestrated by a specialist in infectious diseases"
+        }
+      ]
+    },
+    {
+      "label": "Stage 2",
+      "children": [
+        {
+          "label": "disseminated infection through the blood or lymphatic system"
+        },
+        {
+          "label": "within days or weeks"
+        },
+        {
+          "label": "systemic findings",
+          "children": [
+            {
+              "label": "annular or malar rash"
+            },
+            {
+              "label": "arthralgia"
+            },
+            {
+              "label": "pancarditis"
+            },
+            {
+              "label": "lymphadenopathy"
+            },
+            {
+              "label": "splenomegaly"
+            },
+            {
+              "label": "hepatitis"
+            },
+            {
+              "label": "hematuria"
+            },
+            {
+              "label": "proteinuria"
+            },
+            {
+              "label": "malaise",
+              "children": [
+                {
+                  "label": "similar to sarcoidosis"
+                }
+              ]
+            },
+            {
+              "label": "fatigue"
+            }
+          ]
+        },
+        {
+          "label": "neurologic findings",
+          "children": [
+            {
+              "label": "cranial neuropathies",
+              "children": [
+                {
+                  "label": "most commonly facial nerve palsy"
+                }
+              ]
+            },
+            {
+              "label": "meningitis with headache and neck stiffness"
+            },
+            {
+              "label": "radiculopathies"
+            },
+            {
+              "label": "optic neuritis"
+            }
+          ]
+        },
+        {
+          "label": "ocular findings",
+          "children": [
+            {
+              "label": "2/3 of patients have ocular findings"
+            },
+            {
+              "label": "keratitis"
+            },
+            {
+              "label": "granulomatous iritis"
+            },
+            {
+              "label": "pars planitis"
+            },
+            {
+              "label": "vitritis"
+            },
+            {
+              "label": "panophthalmitis"
+            },
+            {
+              "label": "papilledema (IIH-like syndrome)"
+            },
+            {
+              "label": "orbital myositis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.14.15. Systemic Conditions (XV) - Neuro-Ophthalmic Manifestations of Infectious Diseases (III) - Lyme Disease.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 114,
+      "connector_rejected": 1,
+      "connector_edges": 97,
+      "connector_width": 1.156,
+      "text_labels": 74,
+      "tree_nodes": 74,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.8509,
+      "root_font_size": 4.622,
+      "warnings": []
+    }
+  }
+}

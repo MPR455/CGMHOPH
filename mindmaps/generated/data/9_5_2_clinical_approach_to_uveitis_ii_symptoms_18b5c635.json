@@ -1,0 +1,229 @@
+{
+  "label": "9.5.2. Clinical Approach to Uveitis (II): Symptoms",
+  "root": true,
+  "children": [
+    {
+      "label": "Symptoms of Uveitis",
+      "children": [
+        {
+          "label": "acute-onset anterior uveitis",
+          "children": [
+            {
+              "label": "pain",
+              "children": [
+                {
+                  "label": "ciliary spasm"
+                },
+                {
+                  "label": "secondary glaucoma"
+                },
+                {
+                  "label": "radiates over the trigeminal nerve area"
+                }
+              ]
+            },
+            {
+              "label": "photophobia"
+            },
+            {
+              "label": "redness"
+            },
+            {
+              "label": "blurred vision"
+            },
+            {
+              "label": "epiphora",
+              "children": [
+                {
+                  "label": "may not be associated with any symptoms"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "chronic anterior uveitis",
+          "children": [
+            {
+              "label": "blurred vision",
+              "children": [
+                {
+                  "label": "calcific band keratopathy"
+                },
+                {
+                  "label": "cataract"
+                },
+                {
+                  "label": "CME"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "intermediate uveitis",
+          "children": [
+            {
+              "label": "floaters"
+            },
+            {
+              "label": "blurred vision",
+              "children": [
+                {
+                  "label": "CME"
+                },
+                {
+                  "label": "vitreous opacities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "posterior uveitis",
+          "children": [
+            {
+              "label": "floaters"
+            },
+            {
+              "label": "photopsia"
+            },
+            {
+              "label": "metamorphopsia"
+            },
+            {
+              "label": "scotomata"
+            },
+            {
+              "label": "nyctalopia"
+            },
+            {
+              "label": "painless decreased visual acuity",
+              "children": [
+                {
+                  "label": "retinitis and/or choroiditis directly affecting macula"
+                },
+                {
+                  "label": "vitreous debris"
+                },
+                {
+                  "label": "opacities in the visual axis",
+                  "children": [
+                    {
+                      "label": "inflammatory cells, fibrin, or protein in the anterior chamber"
+                    }
+                  ]
+                },
+                {
+                  "label": "CME"
+                },
+                {
+                  "label": "epiretinal membrane"
+                },
+                {
+                  "label": "retinal ischemia"
+                },
+                {
+                  "label": "choroidal neovascularization"
+                },
+                {
+                  "label": "myopic or hyperopic shift"
+                },
+                {
+                  "label": "keratic precipitates"
+                },
+                {
+                  "label": "secondary cataract"
+                },
+                {
+                  "label": "macular edema"
+                },
+                {
+                  "label": "retinal atrophy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Review of the patient’s health and other associated factors",
+      "children": [
+        {
+          "label": "See Table 5-10",
+          "children": [
+            {
+              "label": "Medical history factors",
+              "children": [
+                {
+                  "label": "time course"
+                },
+                {
+                  "label": "onset"
+                },
+                {
+                  "label": "duration"
+                },
+                {
+                  "label": "severity"
+                },
+                {
+                  "label": "distribution"
+                },
+                {
+                  "label": "sex, age, race"
+                },
+                {
+                  "label": "immune system status"
+                },
+                {
+                  "label": "systemic medications"
+                },
+                {
+                  "label": "trauma history"
+                },
+                {
+                  "label": "travel history"
+                },
+                {
+                  "label": "social history"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "comprehensive history and review of systems"
+        },
+        {
+          "label": "diagnostic survey for uveitis"
+        },
+        {
+          "label": "ocular inflammation frequently does not correlate with inflammatory activity elsewhere in the body"
+        },
+        {
+          "label": "uveitis may precede the development of inflammation at other body sites"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.5.2. Clinical Approach to Uveitis (II) - Symptoms.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 116,
+      "connector_rejected": 4,
+      "connector_edges": 91,
+      "connector_width": 1.294,
+      "text_labels": 60,
+      "tree_nodes": 60,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7845,
+      "root_font_size": 5.498,
+      "warnings": []
+    }
+  }
+}

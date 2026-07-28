@@ -1,0 +1,642 @@
+{
+  "label": "6.4.1. Amblyopia (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "unilateral or, less commonly, bilateral reduction of best-corrected visual acuity that cannot be attributed directly to the effect of any structural abnormality of the eye or visual pathways"
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "abnormal visual experience early in life",
+              "children": [
+                {
+                  "label": "failure of normal neural development in the immature visual system"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "strabismus"
+            },
+            {
+              "label": "refractive error: anisometropia or high bilateral refractive errors (isoametropia)"
+            },
+            {
+              "label": "visual deprivation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Epidemiology",
+      "children": [
+        {
+          "label": "prevalence",
+          "children": [
+            {
+              "label": "2%–4% in North America"
+            },
+            {
+              "label": "prevalence is increased in children with",
+              "children": [
+                {
+                  "label": "family history of amblyopia"
+                },
+                {
+                  "label": "premature birth"
+                },
+                {
+                  "label": "developmental delay"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "responsible for more cases of childhood-onset unilateral decreased vision than all other causes combined"
+        },
+        {
+          "label": "most common cause of unilateral visual impairment in adults <60 years"
+        }
+      ]
+    },
+    {
+      "label": "Detection and Screening",
+      "children": [
+        {
+          "label": "risk factors for amblyopia",
+          "children": [
+            {
+              "label": "strabismus"
+            },
+            {
+              "label": "ocular media opacities"
+            },
+            {
+              "label": "anisometropia"
+            },
+            {
+              "label": "isoametropia"
+            }
+          ]
+        },
+        {
+          "label": "regular screening throughout childhood",
+          "children": [
+            {
+              "label": "in primary care offices"
+            },
+            {
+              "label": "as part of community-based programs"
+            },
+            {
+              "label": "screening techniques vary based on age of the child",
+              "children": [
+                {
+                  "label": "direct measurement of visual acuity"
+                },
+                {
+                  "label": "testing for risk factors",
+                  "children": [
+                    {
+                      "label": "corneal light reflex tests"
+                    },
+                    {
+                      "label": "cover testing for detection of strabismus"
+                    },
+                    {
+                      "label": "Brückner test",
+                      "children": [
+                        {
+                          "label": "for detection of ocular media opacities, strabismus, anisometropia, and isoametropia"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "instrument-based pediatric vision screening",
+                      "children": [
+                        {
+                          "label": "portable autorefraction devices"
+                        },
+                        {
+                          "label": "photoscreening devices",
+                          "children": [
+                            {
+                              "label": "use optical images of eye to detect strabismus, refractive errors, and abnormalities of red reflex"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "effective in preschool-aged and younger children"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "allows for timely detection of vision problems"
+            }
+          ]
+        },
+        {
+          "label": "references"
+        }
+      ]
+    },
+    {
+      "label": "Classification",
+      "children": [
+        {
+          "label": "Strabismic Amblyopia",
+          "children": [
+            {
+              "label": "develops in the deviating eye of a child with strabismus",
+              "children": [
+                {
+                  "label": "constant, nonalternating heterotropias",
+                  "children": [
+                    {
+                      "label": "most likely to cause significant amblyopia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "competitive or inhibitory interaction between neurons carrying nonfusible input from the 2 eyes",
+                  "children": [
+                    {
+                      "label": "domination of cortical vision centers by input from the fixating eye"
+                    },
+                    {
+                      "label": "reduced responsiveness to input from the nonfixating eye",
+                      "children": [
+                        {
+                          "label": "to avoid diplopia and visual confusion"
+                        },
+                        {
+                          "label": "amblyopia does not always prevent diplopia",
+                          "children": [
+                            {
+                              "label": "older patients with long-standing strabismus have a small risk of developing diplopia after strabismus surgery, despite the presence of significant amblyopia"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "features typical of strabismic amblyopia",
+              "children": [
+                {
+                  "label": "grating acuity is reduced considerably less than recognition acuity",
+                  "children": [
+                    {
+                      "label": "recognition acuity: measured with optotype charts"
+                    },
+                    {
+                      "label": "grating acuity: ability to detect patterns composed of uniformly spaced stripes",
+                      "children": [
+                        {
+                          "label": "Teller Acuity Cards II"
+                        },
+                        {
+                          "label": "LEA Grating Acuity Test"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "neutral density filter effect",
+                  "children": [
+                    {
+                      "label": "visual acuity measured through a neutral density filter tends to decline less sharply than that of an eye with organic disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "eccentric fixation",
+                  "children": [
+                    {
+                      "label": "consistent use of a nonfoveal region for monocular viewing"
+                    },
+                    {
+                      "label": "minor degrees of eccentric fixation, are present in many patients with strabismic amblyopia and relatively mild vision loss"
+                    },
+                    {
+                      "label": "clinically evident eccentric fixation",
+                      "children": [
+                        {
+                          "label": "implies visual acuity of ≤20/200"
+                        },
+                        {
+                          "label": "poorer prognosis for visual recovery"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Refractive Amblyopia",
+          "children": [
+            {
+              "label": "anisometropic amblyopia",
+              "children": [
+                {
+                  "label": "dissimilar refractive errors in the 2 eyes cause the image on 1 retina to be chronically defocused",
+                  "children": [
+                    {
+                      "label": "direct effect of image blur",
+                      "children": [
+                        {
+                          "label": "amblyopia"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "interocular competition or inhibition"
+                    }
+                  ]
+                },
+                {
+                  "label": "more prevalent than strabismic amblyopia"
+                },
+                {
+                  "label": "eyes of a child with anisometropic amblyopia usually appear normal"
+                },
+                {
+                  "label": "levels of anisometropia leading to amblyopia",
+                  "children": [
+                    {
+                      "label": "anisohyperopia",
+                      "children": [
+                        {
+                          "label": ".>1.50 D"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "anisoastigmatism",
+                      "children": [
+                        {
+                          "label": ".>2.00 D"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "anisomyopia",
+                      "children": [
+                        {
+                          "label": ".>3.00 D"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "higher levels are associated with greater risk"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Isoametropic amblyopia",
+              "children": [
+                {
+                  "label": "large, approximately equal, uncorrected refractive errors in the 2 eyes",
+                  "children": [
+                    {
+                      "label": "blurred retinal images",
+                      "children": [
+                        {
+                          "label": "amblyopia"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "levels of isoametropia leading to amblyopia",
+                  "children": [
+                    {
+                      "label": "astigmatism",
+                      "children": [
+                        {
+                          "label": "most ophthalmologists recommend correction when there is >2.00–3.00 D of cylinder"
+                        },
+                        {
+                          "label": "meridional amblyopia"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "hyperopia",
+                      "children": [
+                        {
+                          "label": ".>4.00–5.00 D"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "myopia",
+                      "children": [
+                        {
+                          "label": ".>5.00–6.00 D"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Visual Deprivation Amblyopia",
+          "children": [
+            {
+              "label": "least common form of amblyopia"
+            },
+            {
+              "label": "most severe and difficult to treat form of amblyopia"
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "eye abnormality that obstructs the visual axis or otherwise interferes with central vision"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "congenital or early-acquired cataract",
+                  "children": [
+                    {
+                      "label": "most common cause"
+                    },
+                    {
+                      "label": "dense cataracts occupying the central 3 mm or more of lens",
+                      "children": [
+                        {
+                          "label": "are capable of causing severe visual deprivation amblyopia in children <6 years"
+                        },
+                        {
+                          "label": "similar lens opacities >6 years are generally less harmful"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "small anterior polar cataracts",
+                      "children": [
+                        {
+                          "label": "around which retinoscopy can be readily performed"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lamellar cataracts",
+                      "children": [
+                        {
+                          "label": "through which a reasonably good view of fundus can be obtained"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "unilateral anterior polar cataracts",
+                      "children": [
+                        {
+                          "label": "are associated with anisometropia and subtle optical distortion of surrounding clear portion of lens",
+                          "children": [
+                            {
+                              "label": "anisometropic and/or mild visual deprivation amblyopia"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "blepharoptosis"
+                },
+                {
+                  "label": "periocular lesions that obstruct the visual axis"
+                },
+                {
+                  "label": "corneal opacities"
+                },
+                {
+                  "label": "vitreous hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "unilateral visual deprivation amblyopia tends to be worse than amblyopia produced by bilateral deprivation of similar degree",
+              "children": [
+                {
+                  "label": "interocular competition adds to the direct developmental impact"
+                },
+                {
+                  "label": "even in bilateral cases visual acuity can be ≤20/200"
+                }
+              ]
+            },
+            {
+              "label": "reverse amblyopia",
+              "children": [
+                {
+                  "label": "occlusion amblyopia"
+                },
+                {
+                  "label": "develops in the fellow eye as a result of patching or penalization"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pathophysiology",
+      "children": [
+        {
+          "label": "primarily a defect of central vision",
+          "children": [
+            {
+              "label": "peripheral visual field is usually normal"
+            }
+          ]
+        },
+        {
+          "label": "critical periods of cortical development",
+          "children": [
+            {
+              "label": "early postnatal development"
+            },
+            {
+              "label": "neural circuits display a heightened sensitivity to environmental stimuli"
+            },
+            {
+              "label": "critical period for development of visual deprivation amblyopia is earlier than that of strabismic or anisometropic amblyopia",
+              "children": [
+                {
+                  "label": "amblyopia due to visual deprivation develops more rapidly and is deeper than that due to strabismus or anisometropia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "abnormal early visual experience can result in profound disturbances of neuron function",
+          "children": [
+            {
+              "label": "cells of primary visual cortex lose their innate ability to respond to stimulation of 1 or both eyes",
+              "children": [
+                {
+                  "label": "cells that remain responsive can show significant functional deficiencies"
+                }
+              ]
+            },
+            {
+              "label": "abnormalities also occur in neurons within the lateral geniculate body"
+            },
+            {
+              "label": "very little change has been found in the retinas of subjects with amblyopia"
+            },
+            {
+              "label": "receptive fields of neurons in the amblyopic visual system are abnormally large",
+              "children": [
+                {
+                  "label": "crowding phenomenon",
+                  "children": [
+                    {
+                      "label": "optotypes of a given size are easier to recognize when presented singly than when closely surrounded by similar forms"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Evaluation",
+      "children": [
+        {
+          "label": "characteristics of vision alone cannot reliably differentiate amblyopia from other forms of vision loss"
+        },
+        {
+          "label": "crowding phenomenon",
+          "children": [
+            {
+              "label": "not pathognomonic or uniformly demonstrable"
+            }
+          ]
+        },
+        {
+          "label": "subtle afferent pupillary defects",
+          "children": [
+            {
+              "label": "in severe cases of amblyopia"
+            },
+            {
+              "label": "rare"
+            }
+          ]
+        },
+        {
+          "label": "amblyopia sometimes coexists with vision loss directly caused by an uncorrectable structural abnormality",
+          "children": [
+            {
+              "label": "trial of amblyopia treatment"
+            }
+          ]
+        },
+        {
+          "label": "multiple assessments of visual acuity are sometimes required to determine presence/ severity of amblyopia",
+          "children": [
+            {
+              "label": "in some circumstances, assume that amblyopia is present and begin treatment even before decreased vision has been conclusively determined",
+              "children": [
+                {
+                  "label": "high degree of anisometropia"
+                },
+                {
+                  "label": "shortly after surgery for a unilateral cataract"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "assessment of fixation preference is sensitive for detecting amblyopia",
+          "children": [
+            {
+              "label": "false-positive results can occur!",
+              "children": [
+                {
+                  "label": "child with small-angle strabismus may show strong fixation preference despite equal visual acuity in the 2 eyes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "young child’s brief attention span frequently results in measurements that fall short of the true limits of acuity",
+          "children": [
+            {
+              "label": "± mimic those of bilateral amblyopia"
+            },
+            {
+              "label": "± obscure or falsely suggest a significant interocular difference"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Ped ophthalmology/6.4.1. Amblyopia (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 153,
+      "connector_rejected": 0,
+      "connector_edges": 153,
+      "connector_width": 0.791,
+      "text_labels": 159,
+      "tree_nodes": 159,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 1.0,
+      "root_font_size": 2.768,
+      "warnings": []
+    }
+  }
+}

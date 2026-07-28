@@ -1,0 +1,260 @@
+{
+  "label": "4.12.2. Uveal Tract (II): Aniridia",
+  "root": true,
+  "children": [
+    {
+      "label": "bilateral"
+    },
+    {
+      "label": "usually incomplete",
+      "children": [
+        {
+          "label": "rudimentary rim of iris tissue"
+        }
+      ]
+    },
+    {
+      "label": "histology",
+      "children": [
+        {
+          "label": "rim of underdeveloped ectodermal- mesodermal neural crest elements"
+        },
+        {
+          "label": "underdeveloped angle"
+        },
+        {
+          "label": "peripheral anterior synechiae",
+          "children": [
+            {
+              "label": "overgrowth of corneal endothelium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "aniridia associated with systemic abnormalities",
+      "children": [
+        {
+          "label": "WAGR syndrome",
+          "children": [
+            {
+              "label": "13% of patients with aniridia"
+            },
+            {
+              "label": "autosomal dominant"
+            },
+            {
+              "label": "Wilms tumor"
+            },
+            {
+              "label": "aniridia"
+            },
+            {
+              "label": "genitourinary anomalies"
+            },
+            {
+              "label": "mental retardation"
+            }
+          ]
+        },
+        {
+          "label": "Gillespie syndrome",
+          "children": [
+            {
+              "label": "2% of patients with aniridia"
+            },
+            {
+              "label": "autosomal recessive"
+            },
+            {
+              "label": "cerebellar ataxia"
+            },
+            {
+              "label": "intellectual disability"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ocular associations",
+      "children": [
+        {
+          "label": "glaucoma",
+          "children": [
+            {
+              "label": "50%–75%"
+            },
+            {
+              "label": "rudimentary iris stump rotates anteriorly to progressively cover the trabecular meshwork",
+              "children": [
+                {
+                  "label": "synechial angle closure"
+                },
+                {
+                  "label": "second decade of life or later"
+                },
+                {
+                  "label": "closely follow the angle with serial gonioscopy"
+                }
+              ]
+            },
+            {
+              "label": "primary maldevelopment of the drainage angle",
+              "children": [
+                {
+                  "label": "elevated IOP at a younger age"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cataract",
+          "children": [
+            {
+              "label": "anterior and posterior polar lens opacities",
+              "children": [
+                {
+                  "label": "present at birth"
+                }
+              ]
+            },
+            {
+              "label": "cortical, subcapsular, and lamellar opacities",
+              "children": [
+                {
+                  "label": "develop in 50%–85%"
+                },
+                {
+                  "label": "within the first 2 decades"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "corneal pannus",
+          "children": [
+            {
+              "label": "ectopia lentis",
+              "children": [
+                {
+                  "label": "poor zonular integrity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "foveal and optic nerve hypoplasia"
+        },
+        {
+          "label": "nystagmus"
+        }
+      ]
+    },
+    {
+      "label": "management",
+      "children": [
+        {
+          "label": "prophylactic goniosurgery",
+          "children": [
+            {
+              "label": "infants with a strong family history of aniridic glaucoma"
+            }
+          ]
+        },
+        {
+          "label": "goniosurgery",
+          "children": [
+            {
+              "label": "young children with progressive angle narrowing"
+            }
+          ]
+        },
+        {
+          "label": "trabeculectomy",
+          "children": [
+            {
+              "label": "if the angle is not fully closed"
+            }
+          ]
+        },
+        {
+          "label": "glaucoma drainage devices"
+        },
+        {
+          "label": "cyclophotocoagulation"
+        }
+      ]
+    },
+    {
+      "label": "genetics",
+      "children": [
+        {
+          "label": "familial",
+          "children": [
+            {
+              "label": "2/3"
+            },
+            {
+              "label": "AD",
+              "children": [
+                {
+                  "label": "PAX6"
+                }
+              ]
+            },
+            {
+              "label": "few cases of Wilms tumor are seen in the familial form"
+            }
+          ]
+        },
+        {
+          "label": "sporadic",
+          "children": [
+            {
+              "label": "1/3"
+            },
+            {
+              "label": "20% associated with a large chromosomal deletion that includes the Wilms tumor 1 gene (WT1)",
+              "children": [
+                {
+                  "label": "11p13 deletion"
+                },
+                {
+                  "label": "tumor suppressor gene",
+                  "children": [
+                    {
+                      "label": "increased risk of Wilms tumor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.12.2. Uveal Tract (II) - Aniridia.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 111,
+      "connector_rejected": 1,
+      "connector_edges": 77,
+      "connector_width": 2.105,
+      "text_labels": 63,
+      "tree_nodes": 63,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6937,
+      "root_font_size": 7.018,
+      "warnings": []
+    }
+  }
+}

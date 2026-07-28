@@ -1,0 +1,607 @@
+{
+  "label": "4.18.1. Angiomatous Tumors",
+  "root": true,
+  "children": [
+    {
+      "label": "Retinal capillary hemangioblastoma",
+      "children": [
+        {
+          "label": "1:40,000",
+          "children": [
+            {
+              "label": "autosomal dominant"
+            }
+          ]
+        },
+        {
+          "label": "2nd to 3rd decade of life"
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "red-orange"
+            },
+            {
+              "label": "large-caliber tortuous afferent & efferent retinal vessels"
+            },
+            {
+              "label": "retinal/subretinal exudation",
+              "children": [
+                {
+                  "label": "predilection for foveal involvement"
+                }
+              ]
+            },
+            {
+              "label": "exudative retinal detachment"
+            },
+            {
+              "label": "atypical variations",
+              "children": [
+                {
+                  "label": "optic disc hemangioblastoma"
+                },
+                {
+                  "label": "free-floating vitreous mass",
+                  "children": [
+                    {
+                      "label": "due to vitreous traction"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fluorescein angiography",
+          "children": [
+            {
+              "label": "immediate filling of feeding arteriole"
+            },
+            {
+              "label": "rapid arteriovenous transit"
+            },
+            {
+              "label": "massive dye leakage"
+            }
+          ]
+        },
+        {
+          "label": "systemic association",
+          "children": [
+            {
+              "label": "von Hippel disease",
+              "children": [
+                {
+                  "label": "isolated retinal capillary hemangioblastoma"
+                }
+              ]
+            },
+            {
+              "label": "von Hippel-Lindau syndrome",
+              "children": [
+                {
+                  "label": "chromosome 3",
+                  "children": [
+                    {
+                      "label": "genetic consultation"
+                    }
+                  ]
+                },
+                {
+                  "label": "systemic findings",
+                  "children": [
+                    {
+                      "label": "cerebellar hemangioblastoma"
+                    },
+                    {
+                      "label": "renal cell carcinoma"
+                    },
+                    {
+                      "label": "pheochromocytoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "systemic screening",
+                  "children": [
+                    {
+                      "label": "may reduce mortality"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "small lesions",
+              "children": [
+                {
+                  "label": "laser photocoagulation"
+                }
+              ]
+            },
+            {
+              "label": "larger & more peripheral",
+              "children": [
+                {
+                  "label": "cryotherapy"
+                }
+              ]
+            },
+            {
+              "label": "extremely large lesions with extensive retinal detachment",
+              "children": [
+                {
+                  "label": "scleral buckling + cryotherapy/penetrating diathermy"
+                }
+              ]
+            },
+            {
+              "label": "radiation",
+              "children": [
+                {
+                  "label": "external beam"
+                },
+                {
+                  "label": "charged-particle"
+                }
+              ]
+            },
+            {
+              "label": "PDT"
+            },
+            {
+              "label": "VEGF inhibitors",
+              "children": [
+                {
+                  "label": "reduce macular edema"
+                },
+                {
+                  "label": "variable impact on size of hemangioma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prognosis",
+          "children": [
+            {
+              "label": "guarded with large lesions"
+            },
+            {
+              "label": "early treatment",
+              "children": [
+                {
+                  "label": "may improve long-term visual outcome"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Choroidal hemangioma",
+      "children": [
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "circumscribed",
+              "children": [
+                {
+                  "label": "no systemic disorder"
+                },
+                {
+                  "label": "symptoms",
+                  "children": [
+                    {
+                      "label": "blurred vision"
+                    },
+                    {
+                      "label": "metamorphopsia"
+                    },
+                    {
+                      "label": "micropsia"
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical",
+                  "children": [
+                    {
+                      "label": "orange-red"
+                    },
+                    {
+                      "label": "post-equatorial fundus"
+                    },
+                    {
+                      "label": "retinal detachment (serous)"
+                    },
+                    {
+                      "label": "cystoid degeneration of outer retina"
+                    },
+                    {
+                      "label": "RPE alterations"
+                    }
+                  ]
+                },
+                {
+                  "label": "differential diangnosis",
+                  "children": [
+                    {
+                      "label": "amelanotic choroidal melanoma"
+                    },
+                    {
+                      "label": "choroidal osteoma"
+                    },
+                    {
+                      "label": "metastatic carcinoma"
+                    },
+                    {
+                      "label": "choroidal granuloma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "diffuse",
+              "children": [
+                {
+                  "label": "Sturge-Weber syndrome (encephalotrigeminal angiomatosis)"
+                },
+                {
+                  "label": "clinical",
+                  "children": [
+                    {
+                      "label": "diffuse orange-red thickening of entire fundus",
+                      "children": [
+                        {
+                          "label": "tomato ketchup fundus"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "retinal detachment (serous)"
+                    },
+                    {
+                      "label": "glaucoma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ancillary testing",
+          "children": [
+            {
+              "label": "fluorescein angiography",
+              "children": [
+                {
+                  "label": "prearterial/arterial",
+                  "children": [
+                    {
+                      "label": "large choroidal vessels"
+                    }
+                  ]
+                },
+                {
+                  "label": "late",
+                  "children": [
+                    {
+                      "label": "staining"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ultrasonography",
+              "children": [
+                {
+                  "label": "A-scan",
+                  "children": [
+                    {
+                      "label": "high-amplitude initial echo"
+                    }
+                  ]
+                },
+                {
+                  "label": "B-scan",
+                  "children": [
+                    {
+                      "label": "prominent internal reflections (acoustic heterogeneity)",
+                      "children": [
+                        {
+                          "label": "high-amplitude broad internal echoes (high internal reflectivity)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "no choroidal excavation"
+                    },
+                    {
+                      "label": "no orbital shadowing"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "CT",
+              "children": [
+                {
+                  "label": "to differentiate from choroidal osteoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "observation",
+              "children": [
+                {
+                  "label": "asymptomic patients"
+                }
+              ]
+            },
+            {
+              "label": "laser photocoagulation",
+              "children": [
+                {
+                  "label": "unsuccessful with extensive retinal detachment"
+                },
+                {
+                  "label": "recurrent detachments are common"
+                }
+              ]
+            },
+            {
+              "label": "photodynamic therapy (PDT)",
+              "children": [
+                {
+                  "label": "treatment of choice"
+                },
+                {
+                  "label": "intravenous verteporfin",
+                  "children": [
+                    {
+                      "label": "6 mg/m2"
+                    },
+                    {
+                      "label": "x10 minutes"
+                    }
+                  ]
+                },
+                {
+                  "label": "diode laser",
+                  "children": [
+                    {
+                      "label": "689 nm"
+                    },
+                    {
+                      "label": "15 min after starting verteporfin infusion"
+                    },
+                    {
+                      "label": "light dose",
+                      "children": [
+                        {
+                          "label": "50-100 J/cm2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "duration",
+                      "children": [
+                        {
+                          "label": "80-170 seconds"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "radiation",
+              "children": [
+                {
+                  "label": "brachytherapy",
+                  "children": [
+                    {
+                      "label": "circumscribed choroidal hemangioma"
+                    }
+                  ]
+                },
+                {
+                  "label": "charged-particle"
+                },
+                {
+                  "label": "external beam (low dose)",
+                  "children": [
+                    {
+                      "label": "diffuse choroidal hemangioma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "VEGF inhibitors",
+              "children": [
+                {
+                  "label": "little data available"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cavernous hemangioma",
+      "children": [
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "cluster of grapes"
+            },
+            {
+              "label": "gliosis/fibrosis on surface of lesion",
+              "children": [
+                {
+                  "label": "plasma-erythrocyte separation"
+                }
+              ]
+            },
+            {
+              "label": "small hemorrhages"
+            },
+            {
+              "label": "no exudation"
+            }
+          ]
+        },
+        {
+          "label": "extraocular manifestations",
+          "children": [
+            {
+              "label": "skin hemangioma"
+            },
+            {
+              "label": "CNS hemangioma",
+              "children": [
+                {
+                  "label": "seizure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fluorescein angiography",
+          "children": [
+            {
+              "label": "virtually diagnostic"
+            },
+            {
+              "label": "very slow filling",
+              "children": [
+                {
+                  "label": "in contrast to retinal capillary hemangioblastoma!"
+                }
+              ]
+            },
+            {
+              "label": "plasma-erythrocyte separation",
+              "children": [
+                {
+                  "label": "fluorescein on upper part of vascular spaces"
+                }
+              ]
+            },
+            {
+              "label": "fluorescein remains in vascular spaces for extended period"
+            },
+            {
+              "label": "no leakage",
+              "children": [
+                {
+                  "label": "in contrast to retinal capillary hemangioblastoma!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "dilated thin-walled channels"
+            },
+            {
+              "label": "protrude beneath ILM"
+            },
+            {
+              "label": "gliosis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Arteriovenous malformation",
+      "children": [
+        {
+          "label": "Racemose hemangioma"
+        },
+        {
+          "label": "artery-to-vein anastomosis",
+          "children": [
+            {
+              "label": "no intervening capillary bed"
+            }
+          ]
+        },
+        {
+          "label": "tangle of large tortuous blood vessels"
+        },
+        {
+          "label": "no fluorescein leakage"
+        },
+        {
+          "label": "Wyburn-Mason syndrome",
+          "children": [
+            {
+              "label": "AV malformations of",
+              "children": [
+                {
+                  "label": "midbrain"
+                },
+                {
+                  "label": "mandible"
+                },
+                {
+                  "label": "orbit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.18.1. Angiomatous Tumors.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 307,
+      "connector_rejected": 9,
+      "connector_edges": 199,
+      "connector_width": 1.313,
+      "text_labels": 152,
+      "tree_nodes": 152,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6482,
+      "root_font_size": 4.376,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,178 @@
+---
+title: "7.2.2. Evaluation of Orbital Disorders (II)"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.2.2. Evaluation of Orbital Disorders (II).pdf"
+---
+
+# 7.2.2. Evaluation of Orbital Disorders (II)
+
+## Images
+
+![Figure 2-5 (Courtesy of American Academy of Ophthalmology)](../img/7_2_2_evaluation_of_orbital_disorders_ii_ffd234b3_01.png)
+
+![Figure 2-8 (Courtesy of American Academy of Ophthalmology)](../img/7_2_2_evaluation_of_orbital_disorders_ii_ffd234b3_02.png)
+
+![Figure 2-7 (Courtesy of American Academy of Ophthalmology)](../img/7_2_2_evaluation_of_orbital_disorders_ii_ffd234b3_03.png)
+
+## Hierarchy
+
+- Ultrasonography
+  - B-scan ultrasonography
+    - two-dimensional images
+    - clinical uses
+      - evaluating scleritis
+        - fluid in the sub-Tenon space
+      - localization of foreign bodies
+  - standardized A-scan ultrasonography
+    - one-dimensional images
+  - doppler ultrasonography
+    - arterialization
+    - retrograde flow in the orbital veins
+      - dural cavernous fistula
+      - arteriovenous malformation
+    - vascular abnormalities associated with increased blood flow
+    - vascular tumors can be identified by
+      - active pulsation
+      - change in size with the Valsalva maneuver (compressibility)
+  - limitations
+    - requires specialized equipment and experienced personnel
+      - office-based equipment generally not suitable
+    - limited value in assessing lesions of
+      - posterior orbit
+      - sinuses
+      - intracranial space
+- Computed Tomography
+  - each tissue has a density value
+    - proportional to coefficient of absorption of x- rays
+    - 2- or 3-dimensional images are digitally constructed from density measurements
+  - resolution and soft-tissue contrast of CT make it the most valuable technique for evaluation of orbital lesions
+    - bone
+    - soft tissue
+    - foreign bodies
+  - bony resolution is superior to all other modalities
+    - CT is the imaging technique of choice for orbital trauma and bony tumors
+  - 3-mm sections
+    - for orbit
+      - fine 1.5-mm cuts can be requested
+  - 5-mm sections
+    - for head
+  - intravenous contrast-enhancing agent
+    - tumors that are highly vascularized
+      - meningioma
+    - tumors that have altered vascular permeability
+    - orbital abscess
+  - planes
+    - axial plane
+      - parallel to the course of the optic nerve
+    - coronal plane
+      - showing the eye, optic nerve, and extraocular muscles in cross section
+    - sagittal plane
+      - parallel to the nasal septum
+  - current CT scanners use software to reconstruct (reformat) any section in any direction
+  - spiral (helical) CT scanners
+    - have multiple detector ports
+    - scanner and collecting tube move in a spiral fashion around the patient
+    - generate a continuous data set
+      - allow rapid acquisition of a larger volume of data and highly detailed reconstructions
+  - direct coronal scans
+    - ideal for evaluation of
+      - optic nerve
+      - extraocular muscles
+      - bony roof and floor of the orbit
+  - three-dimensional CT
+    - reformatting into 3-dimensional projections of the bony orbital walls
+      - to assist in preparation for craniofacial surgery or repairs of complex orbital fractures
+    - requires thin sections
+      - additional computer time
+- Comparison of CT and MRI
+  - contrast agents are available to improve CT and MRI detail
+  - CT is the single most-useful orbital imaging technique
+    - faster
+    - less expensive
+    - less sensitive to movement artifact
+    - provides better spatial resolution
+      - precise localization
+    - superior to MRI for the evaluation of
+      - fractures
+      - bone destruction
+      - tissue calcification
+    - in most orbital conditions, the orbital fat provides sufficient contrast to allow visualization of orbital tumors on CT
+  - MRI
+    - MRI advantages over CT
+      - better soft-tissue definition
+      - but
+      - better tissue contrast
+        - there is no artifact from the skull base bones
+        - orbital apex
+        - intracanalicular portion of the optic nerve
+        - periorbital spaces
+        - orbitocranial junction
+          - orbitocranial tumors
+        - brain
+          - when the orbitocranial junction or brain is involved, CT scanning and MRI may be complementary
+      - direct display of anatomical information in multiple planes
+        - sagittal, axial, coronal, and any oblique plane
+    - MRI is contraindicated in
+      - ferromagnetic metallic foreign bodies in the orbit or periorbital soft tissue
+      - ferromagnetic vascular clips
+      - magnetic intravascular filters
+      - electronic devices in the body
+      - cardiac pacemakers
+      - presence of such foreign material can be ruled out with plain films or CT
+    - dental amalgam
+      - not ferromagnetic and not a contraindication to MRI
+      - does produce artifacts and degrades the images on both MRI and CT
+    - certain types of eye makeup can produce artifacts and should be removed
+    - bone and calcification produce low signal on MRI
+      - bony structures may be evaluated by visualization of the signal void left by the bone
+        - this is not possible when the bone is adjacent to structures that create a signal void
+          - air
+          - rapidly flowing blood
+          - calcification
+          - dura mater
+- Magnetic Resonance Imaging
+  - does not employ ionizing radiation
+    - no known adverse biological effects
+  - 3 physical components
+    - atomic nuclei possessing an electrical charge
+    - powerful magnetic field
+    - radiofrequency (RF) waves
+      - emitted from a coil lying within the magnetic field
+  - technique
+    - tissue containing hydrogen atoms is placed in the magnetic field
+    - individual nuclei align themselves in the direction of the magnetic field
+    - aligned nuclei are excited by RF pulse
+      - excited nuclei align themselves against the magnetic field
+    - RF pulse is terminated
+      - nuclei flip back to their original magnetized position
+        - time it takes for this realignment to occur can be measurred
+          - relaxation time
+  - each orbital tissue has specific MR parameters
+    - tissue proton density
+      - number of protons per unit volume of tissue
+      - fat has greater proton density than bone and, therefore, greater signal intensity
+    - relaxation times
+      - T1
+        - longitudinal relaxation time
+          - time required for the net bulk magnetization to realign itself along the original axis
+          - T1-weighted images offer the best anatomical detail of the orbit
+      - T2
+        - transverse relaxation time
+          - mean relaxation time based on the interaction of hydrogen nuclei within a given tissue
+          - T2-weighted images have the advantage of showing methemoglobin brighter than melanin
+            - these substances have the same signal intensity on T1-weighted images
+            - difference in brightness seen on T2 images can be helpful in differentiating melanotic lesions from hemorrhagic processes
+  - gadolinium
+    - paramagnetic contrast agent given intravenously
+    - allows enhancement of vascularized lesions
+      - exhibit same density as fat
+    - enhancement of lesions with abnormal vascular permeability
+  - fat suppression
+    - to suppress the normal bright signal of fat on T1 images
+  - FLAIR
+    - fluid-attenuated inversion recovery
+    - to suppress the bright signal of CSF on T2 images
+  - gradient echo sequences
+    - reveal hemorrhage in vascular malformations
+      - might be missed on T1- and T2-weighted images !

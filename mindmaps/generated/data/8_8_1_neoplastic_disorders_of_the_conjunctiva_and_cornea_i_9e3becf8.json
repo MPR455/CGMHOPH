@@ -1,0 +1,322 @@
+{
+  "label": "8.8.1. Neoplastic Disorders of the Conjunctiva and Cornea I: Management",
+  "root": true,
+  "children": [
+    {
+      "label": "Lesions that cause concern for possible malignancy",
+      "children": [
+        {
+          "label": "elevated lesions"
+        },
+        {
+          "label": "extensive pigmented lesions, even if flat"
+        },
+        {
+          "label": "lesions fixed to the underlying tissues"
+        },
+        {
+          "label": "lesions with a large feeder vessel"
+        }
+      ]
+    },
+    {
+      "label": "Surgical Treatment",
+      "children": [
+        {
+          "label": "complete removal of the tumor",
+          "children": [
+            {
+              "label": "4 mm of uninvolved tissue surrounding the lesion"
+            }
+          ]
+        },
+        {
+          "label": "avoid touching the tumor",
+          "children": [
+            {
+              "label": "“no touch” technique"
+            },
+            {
+              "label": "incisional biopsies should be avoided"
+            }
+          ]
+        },
+        {
+          "label": "alcohol-assisted epithelial curettage with a surgical blade",
+          "children": [
+            {
+              "label": "for corneal epithelial involvement"
+            },
+            {
+              "label": "avoid violation of the Bowman membrane",
+              "children": [
+                {
+                  "label": "natural barrier to tumor extension into the corneal stroma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "+- lamellar sclerectomy"
+        },
+        {
+          "label": "cryotherapy",
+          "children": [
+            {
+              "label": "improves prognosis (especially in conjunctival melanoma)"
+            }
+          ]
+        },
+        {
+          "label": "additional manipulations should be performed with clean surgical instruments"
+        },
+        {
+          "label": "conjunctival closure",
+          "children": [
+            {
+              "label": "primary conjunctival closure"
+            },
+            {
+              "label": "conjunctival autograft"
+            },
+            {
+              "label": "amniotic membrane transplantation",
+              "children": [
+                {
+                  "label": "facilitates reepithelialization"
+                },
+                {
+                  "label": "reduces postoperative inflammation"
+                },
+                {
+                  "label": "should be cut slightly larger than the defect"
+                },
+                {
+                  "label": "may be attached with fibrin-based tissue adhesive"
+                },
+                {
+                  "label": "suture",
+                  "children": [
+                    {
+                      "label": "absorbable (9-0 or 10-0 polyglactin)"
+                    },
+                    {
+                      "label": "nonabsorbable (10-0 nylon)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "stem cell transplantation",
+          "children": [
+            {
+              "label": "for chronic epitheliopathy",
+              "children": [
+                {
+                  "label": "if more than 2/3 of the limbus is removed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "specimen handling",
+          "children": [
+            {
+              "label": "placed on filter paper"
+            },
+            {
+              "label": "label edges"
+            },
+            {
+              "label": "avoid damage to the specimen during removal"
+            }
+          ]
+        },
+        {
+          "label": "pathology label should include the following information",
+          "children": [
+            {
+              "label": "age"
+            },
+            {
+              "label": "ethnicity"
+            },
+            {
+              "label": "duration of the lesion"
+            },
+            {
+              "label": "whether the lesion has changed clinically"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Topical Chemotherapy",
+      "children": [
+        {
+          "label": "approach",
+          "children": [
+            {
+              "label": "primary treatment",
+              "children": [
+                {
+                  "label": "before tumor excision",
+                  "children": [
+                    {
+                      "label": "to shrink large ocular surface squamous tumors preoperatively"
+                    }
+                  ]
+                },
+                {
+                  "label": "instead of tumor excision"
+                }
+              ]
+            },
+            {
+              "label": "adjunctive therapy after tumor excision",
+              "children": [
+                {
+                  "label": "it treats the entire ocular surface!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "squamous lesions",
+          "children": [
+            {
+              "label": "topical interferon-α2b",
+              "children": [
+                {
+                  "label": "first-line therapy"
+                }
+              ]
+            },
+            {
+              "label": "topical mitomycin c (mmc)",
+              "children": [
+                {
+                  "label": "for squamous lesions that do not respond to interferon-α2b"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "atypical melanocytic lesions",
+          "children": [
+            {
+              "label": "5-fluorouracil (5-fu)"
+            },
+            {
+              "label": "MMC",
+              "children": [
+                {
+                  "label": "the most commonly used agent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "interferon-α2b",
+          "children": [
+            {
+              "label": "very well tolerated",
+              "children": [
+                {
+                  "label": "primary therapy for squamous tumors"
+                }
+              ]
+            },
+            {
+              "label": "expensive"
+            },
+            {
+              "label": "4 times daily until clinical response occurs",
+              "children": [
+                {
+                  "label": "may take several (2-4) months to work"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "MMC",
+          "children": [
+            {
+              "label": "for both squamous cell carcinoma and atypical melanocytic lesions"
+            },
+            {
+              "label": "1-2 weeks",
+              "children": [
+                {
+                  "label": "drug holiday of 2-4 weeks between treatments"
+                }
+              ]
+            },
+            {
+              "label": "toxicity",
+              "children": [
+                {
+                  "label": "topical corticosteroids may help with the surface toxicity"
+                }
+              ]
+            },
+            {
+              "label": "punctal plugs",
+              "children": [
+                {
+                  "label": "reduce the chance of systemic absorption"
+                },
+                {
+                  "label": "help prevent punctal stenosis"
+                }
+              ]
+            },
+            {
+              "label": "inexpensive"
+            }
+          ]
+        },
+        {
+          "label": "5-fluorouracil",
+          "children": [
+            {
+              "label": "works more quickly than topical interferon-α2b"
+            },
+            {
+              "label": "if the other agents are unavailable, ineffective, or not tolerated"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.8.1. Neoplastic Disorders of the Conjunctiva and Cornea I - Management.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 130,
+      "connector_rejected": 0,
+      "connector_edges": 96,
+      "connector_width": 1.788,
+      "text_labels": 79,
+      "tree_nodes": 79,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7385,
+      "root_font_size": 5.065,
+      "warnings": []
+    }
+  }
+}

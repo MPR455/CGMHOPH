@@ -1,0 +1,107 @@
+---
+title: "11.5.1. Epidemiology of Cataract"
+category: "Lens"
+subcategory: ""
+source_pdf: "MindmapPDF/Lens/11.5.1. Epidemiology of Cataract.pdf"
+---
+
+# 11.5.1. Epidemiology of Cataract
+
+## Hierarchy
+
+- general
+  - cataract is the leading cause of blindness and visual impairment throughout the world
+    - See Table 5-1
+  - visual impairment and age-related cataract may be independent risk factors for increased mortality in older persons
+  - worldwide reversible blindness caused by cataract
+    - 2002
+      - 17 million (48% of the 37 million blind individuals worldwide)
+    - 2020
+      - 40 million
+    - between 2000 and 2020 the number of cataract surgeries performed worldwide will need to triple
+  - patients with vision loss incur significantly higher medical costs
+    - 90% of these costs are unrelated to the eye
+  - 1 blind individual takes 2 individuals out of the workforce, if the blind person requires the care of an able adult
+  - manual small-incision cataract surgery (MSICS)
+    - 5-minute cataract operations with sutureless closure for approximately $20 per eye
+    - in Nepal and India 98% of these patients receive high-quality intraocular lenses
+- risk factors for cataract
+  - Longitudinal Study of Cataract (LSC)
+    - nuclear opacification was linked with
+      - increasing age
+      - white race
+      - lower education
+      - gout medication
+        - current smoking
+      - family history of cataract
+      - preexisting PSC
+      - early use of eyeglasses
+  - cortical opacities and PSC linked with higher body mass index (BMI)
+  - AREDS
+    - persons with moderate nuclear opacities were more likely to be
+      - female
+      - nonwhite
+        - smokers
+      - large macular drusen
+    - moderate nuclear opacities were less common in persons with
+      - higher educational status
+      - history of diabetes
+      - nonsteroidal anti-inflammatory drug use
+    - moderate cortical opacities were associated with
+      - dark iris color
+      - large macular drusen
+      - weight gain
+      - thyroid hormone use
+        - increased sunlight exposure
+      - less common in persons with higher educational status
+  - cataracts are more common in African Americans
+  - nuclear cataracts are more common in
+    - women
+    - smokers
+      - cigarette smokers of both sexes
+        - some smoking-related damage to the lens may be reversible
+        - smoking cessation reduces the risk of cataract
+    - less education
+- studies/surveys
+  - Barbados Eye Study
+    - predominantly black population
+    - cortical opacities were the most frequent type of cataract
+    - women had a higher frequency of opacification
+  - Baltimore Eye Survey
+    - cataract was the leading cause of blindness (20/200 or worse vision) among persons ≥40 years
+    - untreated cataract was the source of blindness in
+      - 27% of African Americans
+      - 13% of whites
+  - Beaver Dam Eye Study
+    - 39% of men and 46% of women >74 years had visually significant cataracts
+    - incident nuclear cataract
+      - 13.1%
+      - women were more likely than men to have nuclear cataracts
+    - incident cortical cataract
+      - 8.2%
+    - incident PSC
+      - 3.4%
+    - Beaver Dam cohort study
+      - nuclear cataract
+        - 40%
+        - 2.9%
+      - cortical cataract
+        - 1.9%
+        - 21.8%
+      - PSC
+        - 1.4%
+        - 7.3%
+- United States
+  - cataracts affect 20.5 million (1/6) Americans aged≥40 years
+  - 2.5 million cataract surgeries were performed in the US in 2004
+    - 2.4 million were performed on Medicare beneficiaries
+    - .> 8000 cataract surgeries/million US population
+      - China
+        - <500 cataract surgeries/million
+      - developing world
+        - as low as 50 surgeries/million
+  - $3.4 billion/year treating cataract patients through the Medicare program
+  - US-based cohort of 8363 individuals >61 years
+    - cumulative rate of cataract surgery was 7.4% annually over 5 years
+  - 5.7% of individuals ≥49 years become unilaterally pseudophakic/year
+    - 3.3 million cataract surgeries in patients 62 years or older

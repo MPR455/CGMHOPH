@@ -1,0 +1,629 @@
+{
+  "label": "7.5.5. Orbital Neoplasms and Malformations (V): Mesenchymal Tumors",
+  "root": true,
+  "children": [
+    {
+      "label": "Miscellaneous Mesenchymal Tumors",
+      "children": [
+        {
+          "label": "fibrous histiocytoma",
+          "children": [
+            {
+              "label": "most common"
+            },
+            {
+              "label": "very firm"
+            },
+            {
+              "label": "fibroblastic and histiocytic cells in a storiform (matlike) pattern"
+            },
+            {
+              "label": "difficult to distinguish, clinically and histologically, from hemangiopericytoma"
+            },
+            {
+              "label": "locally aggressive"
+            },
+            {
+              "label": "<10% have metastatic potential",
+              "children": [
+                {
+                  "label": "similar to embryonal RMS"
+                }
+              ]
+            },
+            {
+              "label": "Fibrous histiocytoma (fibroxanthoma)",
+              "children": [
+                {
+                  "label": "adults",
+                  "children": [
+                    {
+                      "label": "median age=43 years",
+                      "children": [
+                        {
+                          "label": "6 mo - 85 years"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "upper nasal orbit"
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "fibroblasts",
+                      "children": [
+                        {
+                          "label": "storiform/whorly/matlike pattern"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "histiocytes"
+                    },
+                    {
+                      "label": "immunohistochemistry",
+                      "children": [
+                        {
+                          "label": "CD45"
+                        },
+                        {
+                          "label": "CD68"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical behavior",
+                  "children": [
+                    {
+                      "label": "benign",
+                      "children": [
+                        {
+                          "label": "most common"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "intermediate"
+                    },
+                    {
+                      "label": "malignant",
+                      "children": [
+                        {
+                          "label": "high mitosis rate",
+                          "children": [
+                            {
+                              "label": ".>1/HPF"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "nuclear pleomorphism"
+                        },
+                        {
+                          "label": "necrosis"
+                        },
+                        {
+                          "label": "<10% have metastatic potential"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "locally aggressive"
+                    }
+                  ]
+                },
+                {
+                  "label": "difficult to distinguish, clinically and histologically, from hemangiopericytoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "part of hemangiopericytoma spectrum"
+        },
+        {
+          "label": "solitary fibrous tumor",
+          "children": [
+            {
+              "label": "spindle-shaped cells",
+              "children": [
+                {
+                  "label": "strongly CD34-positive"
+                }
+              ]
+            },
+            {
+              "label": "anywhere in the orbit"
+            },
+            {
+              "label": "may recur"
+            },
+            {
+              "label": "may undergo malignant degeneration"
+            },
+            {
+              "label": "may metastasize if incompletely excised"
+            }
+          ]
+        },
+        {
+          "label": "fibrous dysplasia",
+          "children": [
+            {
+              "label": "benign developmental disorder of bone"
+            },
+            {
+              "label": "may involve a single region or be polyostotic"
+            },
+            {
+              "label": "CT",
+              "children": [
+                {
+                  "label": "hyperostotic bone"
+                }
+              ]
+            },
+            {
+              "label": "MRI",
+              "children": [
+                {
+                  "label": "lack of dural enhancement distinguishes this condition from meningioma"
+                }
+              ]
+            },
+            {
+              "label": "Albright syndrome",
+              "children": [
+                {
+                  "label": "cutaneous pigmentation"
+                },
+                {
+                  "label": "endocrine disorders"
+                },
+                {
+                  "label": "fibrous dysplasia"
+                }
+              ]
+            },
+            {
+              "label": "resection or debulking",
+              "children": [
+                {
+                  "label": "indications",
+                  "children": [
+                    {
+                      "label": "disfigurement"
+                    },
+                    {
+                      "label": "vision loss due to stricture of the optic canal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "osteomas",
+          "children": [
+            {
+              "label": "benign"
+            },
+            {
+              "label": "can involve any of the periorbital sinuses"
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "proptosis"
+                },
+                {
+                  "label": "compressive optic neuropathy"
+                },
+                {
+                  "label": "orbital cellulitis secondary to obstructive sinusitis"
+                },
+                {
+                  "label": "slow-growing"
+                }
+              ]
+            },
+            {
+              "label": "CT",
+              "children": [
+                {
+                  "label": "dense hyperostosis with well-defined margins"
+                }
+              ]
+            },
+            {
+              "label": "complete excision is advised for symptomatic tumors"
+            }
+          ]
+        },
+        {
+          "label": "malignant mesenchymal tumors",
+          "children": [
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "fibrosarcoma"
+                },
+                {
+                  "label": "liposarcoma"
+                },
+                {
+                  "label": "chondrosarcoma"
+                },
+                {
+                  "label": "osteosarcoma",
+                  "children": [
+                    {
+                      "label": "destroy normal bone and have characteristic calcifications visible in radiographs and CT scans"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "rarely involve orbit"
+            },
+            {
+              "label": "children with bilateral retinoblastoma are at higher risk for osteosarcoma, chondrosarcoma, or fibrosarcoma",
+              "children": [
+                {
+                  "label": "even if they have not been treated with therapeutic radiation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Rhabdomyosarcoma",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "most common primary orbital malignancy of childhood"
+            },
+            {
+              "label": "average age of onset",
+              "children": [
+                {
+                  "label": "5–7 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "arises from undifferentiated pluripotential mesenchymal elements",
+          "children": [
+            {
+              "label": "not from the extraocular muscles"
+            }
+          ]
+        },
+        {
+          "label": "4 categories",
+          "children": [
+            {
+              "label": "Embryonal",
+              "children": [
+                {
+                  "label": "most common type",
+                  "children": [
+                    {
+                      "label": "80%"
+                    }
+                  ]
+                },
+                {
+                  "label": "predilection for the superonasal quadrant of the orbit"
+                },
+                {
+                  "label": "loose fascicles of undifferentiated spindle cells",
+                  "children": [
+                    {
+                      "label": "only a minority show cross-striations in immature rhabdomyosarcomas",
+                      "children": [
+                        {
+                          "label": "trichrome staining"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "94% 5-year survival"
+                }
+              ]
+            },
+            {
+              "label": "Alveolar",
+              "children": [
+                {
+                  "label": "9%"
+                },
+                {
+                  "label": "predilection for the inferior orbit"
+                },
+                {
+                  "label": "rounded rhabdomyoblasts either line up along the connective tissue strands or float freely in the alveolar spaces"
+                },
+                {
+                  "label": "most malignant form",
+                  "children": [
+                    {
+                      "label": "65% 5-year survival"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Pleomorphic",
+              "children": [
+                {
+                  "label": "least common"
+                },
+                {
+                  "label": "most differentiated",
+                  "children": [
+                    {
+                      "label": "cross-striations are easily visualized with trichrome stain"
+                    }
+                  ]
+                },
+                {
+                  "label": "straplike or rounded cells"
+                },
+                {
+                  "label": "best prognosis",
+                  "children": [
+                    {
+                      "label": "97% 5-year survival"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Botryoid",
+              "children": [
+                {
+                  "label": "rare variant of embryonal rhabdomyosarcoma"
+                },
+                {
+                  "label": "grapelike"
+                },
+                {
+                  "label": "not found in the orbit as a primary tumor",
+                  "children": [
+                    {
+                      "label": "secondary invader from the paranasal sinuses or from the conjunctiva"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "sudden onset and rapid progression of unilateral proptosis"
+            },
+            {
+              "label": "less dramatic course in patients in their early teens",
+              "children": [
+                {
+                  "label": "gradually progressive proptosis lasting weeks to > 1 month"
+                }
+              ]
+            },
+            {
+              "label": "edema & discoloration of eyelids"
+            },
+            {
+              "label": "ptosis"
+            },
+            {
+              "label": "strabismus"
+            },
+            {
+              "label": "± palpable mass",
+              "children": [
+                {
+                  "label": "particularly in the superonasal quadrant of the eyelid"
+                },
+                {
+                  "label": "may be retrobulbar"
+                },
+                {
+                  "label": "may involve any quadrant of the orbit"
+                },
+                {
+                  "label": "may rarely arise from the conjunctiva"
+                }
+              ]
+            },
+            {
+              "label": "unrelated history of trauma can lead to delay in diagnosis and treatment"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "should proceed urgently"
+            },
+            {
+              "label": "CT and MRI",
+              "children": [
+                {
+                  "label": "to define the location and extent of the tumor"
+                }
+              ]
+            },
+            {
+              "label": "biopsy",
+              "children": [
+                {
+                  "label": "anterior orbitotomy"
+                },
+                {
+                  "label": "often possible to completely remove a rhabdomyosarcoma if it has a pseudocapsule",
+                  "children": [
+                    {
+                      "label": "the smaller the residual tumor, the more effective the combination of adjuvant radiation and chemotherapy in achieving a cure"
+                    }
+                  ]
+                },
+                {
+                  "label": "in diffusely infiltrating tumors, a large biopsy specimen should be obtained so that adequate material is available for",
+                  "children": [
+                    {
+                      "label": "frozen sections"
+                    },
+                    {
+                      "label": "permanent light-microscopy sections"
+                    },
+                    {
+                      "label": "electron microscopy"
+                    },
+                    {
+                      "label": "immunohistochemistry"
+                    }
+                  ]
+                },
+                {
+                  "label": "cross-striations are often not visible on light microscopy",
+                  "children": [
+                    {
+                      "label": "more readily apparent on electron microscopy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "palpate the cervical and preauricular lymph nodes",
+              "children": [
+                {
+                  "label": "to evaluate for regional metastases"
+                }
+              ]
+            },
+            {
+              "label": "chest radiography"
+            },
+            {
+              "label": "bone marrow aspiration and biopsy",
+              "children": [
+                {
+                  "label": "under anesthesia at the time of the initial orbital biopsy"
+                }
+              ]
+            },
+            {
+              "label": "lumbar puncture"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "Intergroup Rhabdomyosarcoma Study Group guidelines"
+            },
+            {
+              "label": "radiation therapy",
+              "children": [
+                {
+                  "label": "4500 to 6000 cGy"
+                },
+                {
+                  "label": "x 6 weeks"
+                },
+                {
+                  "label": "adverse effects of radiation",
+                  "children": [
+                    {
+                      "label": "common in children"
+                    },
+                    {
+                      "label": "radiation dermatitis"
+                    },
+                    {
+                      "label": "bony hypoplasia"
+                    },
+                    {
+                      "label": "cataract"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic chemotherapy",
+              "children": [
+                {
+                  "label": "to eliminate microscopic cellular metastases"
+                }
+              ]
+            },
+            {
+              "label": "exenteration",
+              "children": [
+                {
+                  "label": "for recurrent cases"
+                }
+              ]
+            },
+            {
+              "label": "survival rate >90%",
+              "children": [
+                {
+                  "label": "if the orbital tumor has not invaded or extended beyond the bony orbital walls"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.5.5. Orbital Neoplasms and Malformations (V) - Mesenchymal Tumors.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 161,
+      "connector_rejected": 3,
+      "connector_edges": 158,
+      "connector_width": 0.9,
+      "text_labels": 162,
+      "tree_nodes": 162,
+      "component_roots": 2,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.9814,
+      "root_font_size": 3.827,
+      "warnings": []
+    }
+  }
+}

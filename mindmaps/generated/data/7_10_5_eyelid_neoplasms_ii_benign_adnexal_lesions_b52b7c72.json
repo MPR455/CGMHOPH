@@ -1,0 +1,601 @@
+{
+  "label": "7.10.5. Eyelid Neoplasms (II): Benign Adnexal Lesions",
+  "root": true,
+  "children": [
+    {
+      "label": "adnexa",
+      "children": [
+        {
+          "label": "skin appendages that are located within the dermis but communicate through the epidermis to the surface"
+        },
+        {
+          "label": "Periocular adnexal oil glands",
+          "children": [
+            {
+              "label": "meibomian glands",
+              "children": [
+                {
+                  "label": "tarsal plate"
+                }
+              ]
+            },
+            {
+              "label": "glands of Zeis",
+              "children": [
+                {
+                  "label": "eyelash follicles"
+                }
+              ]
+            },
+            {
+              "label": "sebaceous glands",
+              "children": [
+                {
+                  "label": "pilosebaceous units"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Periocular adnexal sweat glands",
+          "children": [
+            {
+              "label": "eccrine sweat glands",
+              "children": [
+                {
+                  "label": "general distribution throughout the body"
+                },
+                {
+                  "label": "for thermal regulation"
+                }
+              ]
+            },
+            {
+              "label": "apocrine sweat glands",
+              "children": [
+                {
+                  "label": "\"glands of Moll\""
+                },
+                {
+                  "label": "eyelid margin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Tumors of hair follicle origin",
+      "children": [
+        {
+          "label": "Trichoepithelioma",
+          "children": [
+            {
+              "label": "papules",
+              "children": [
+                {
+                  "label": "small"
+                },
+                {
+                  "label": "flesh-colored"
+                },
+                {
+                  "label": "occasional telangiectasias"
+                },
+                {
+                  "label": "on the eyelids or forehead"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "basaloid islands",
+                  "children": [
+                    {
+                      "label": "may be difficult to differentiate from basal cell carcinoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "keratin cysts",
+                  "children": [
+                    {
+                      "label": "if keratin is abundant, may clinically resemble an epidermal inclusion cyst"
+                    }
+                  ]
+                },
+                {
+                  "label": "immature hair follicle structures",
+                  "children": [
+                    {
+                      "label": "similar to sebaceous hyperplasia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "simple excision"
+            }
+          ]
+        },
+        {
+          "label": "Trichofolliculoma",
+          "children": [
+            {
+              "label": "mainly in adults"
+            },
+            {
+              "label": "single"
+            },
+            {
+              "label": "± umbilicated"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "squamous cystic structure containing keratin and hair shaft components",
+                  "children": [
+                    {
+                      "label": "epidermal inclusion cyst Has central pore",
+                      "children": [
+                        {
+                          "label": "similar to molluscum contagiisum"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Trichilemmoma",
+          "children": [
+            {
+              "label": "mainly in adults"
+            },
+            {
+              "label": "solitary",
+              "children": [
+                {
+                  "label": "resemble verrucae"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "glycogen-rich cells oriented around hair follicles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pilomatricoma",
+          "children": [
+            {
+              "label": "\"pilomatrixoma\""
+            },
+            {
+              "label": "young adults"
+            },
+            {
+              "label": "reddish purple subcutaneous mass",
+              "children": [
+                {
+                  "label": "eyebrow and central upper eyelid"
+                },
+                {
+                  "label": "attached to the overlying skin"
+                },
+                {
+                  "label": "may become quite large"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "islands of epithelial cells surrounded by basophilic cells with shadow cells"
+                }
+              ]
+            },
+            {
+              "label": "excision"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lesions of oil gland origin",
+      "children": [
+        {
+          "label": "Chalazion and hordeolum"
+        },
+        {
+          "label": "Sebaceous hyperplasia",
+          "children": [
+            {
+              "label": "multiple small yellow papules",
+              "children": [
+                {
+                  "label": "± central umbilication"
+                },
+                {
+                  "label": "forehead and cheeks"
+                }
+              ]
+            },
+            {
+              "label": ".>age 40 years"
+            },
+            {
+              "label": "may be mistaken for basal cell carcinoma",
+              "children": [
+                {
+                  "label": "central umbilication"
+                },
+                {
+                  "label": "fine telangiectasias"
+                }
+              ]
+            },
+            {
+              "label": "Muir-Torre syndrome",
+              "children": [
+                {
+                  "label": "autosomal dominant"
+                },
+                {
+                  "label": "multiple acquired",
+                  "children": [
+                    {
+                      "label": "sebaceous gland adenomas"
+                    },
+                    {
+                      "label": "adenomatoid sebaceous hyperplasia"
+                    },
+                    {
+                      "label": "basal cell carcinomas with sebaceous differentiation"
+                    }
+                  ]
+                },
+                {
+                  "label": "increased incidence of visceral malignancy",
+                  "children": [
+                    {
+                      "label": "especially colorectal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Sebaceous adenoma",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "yellowish papule on the face, scalp, or trunk"
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "basal cell carcinoma"
+                },
+                {
+                  "label": "seborrheic keratosis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Tumors of eccrine sweat gland origin",
+      "children": [
+        {
+          "label": "Eccrine hidrocystoma",
+          "children": [
+            {
+              "label": "common"
+            },
+            {
+              "label": "cystic lesions",
+              "children": [
+                {
+                  "label": "ductal retention cysts"
+                }
+              ]
+            },
+            {
+              "label": "1–3 mm in diameter"
+            },
+            {
+              "label": "occur in groups",
+              "children": [
+                {
+                  "label": "around the lower eyelids, canthi, and face"
+                }
+              ]
+            },
+            {
+              "label": "enlarge in conditions that stimulate perspiration",
+              "children": [
+                {
+                  "label": "heat"
+                },
+                {
+                  "label": "increased humidity"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "surgical excision"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Syringoma",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "young females"
+            },
+            {
+              "label": "more apparent during puberty"
+            },
+            {
+              "label": "small, waxy, elevated nodules",
+              "children": [
+                {
+                  "label": "multiple"
+                },
+                {
+                  "label": "1–2 mm in diameter"
+                },
+                {
+                  "label": "lower eyelids"
+                },
+                {
+                  "label": "axilla"
+                },
+                {
+                  "label": "sternal region"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "located within the dermis",
+                  "children": [
+                    {
+                      "label": "too deep for shave excision"
+                    }
+                  ]
+                },
+                {
+                  "label": "complete surgical excision",
+                  "children": [
+                    {
+                      "label": "staged fashion"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pleomorphic adenoma",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "head and neck region",
+              "children": [
+                {
+                  "label": "may involve the eyelids"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "identical to the pleomorphic adenoma of the salivary and lacrimal glands"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "complete surgical excision"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Tumors of apocrine sweat gland origin",
+      "children": [
+        {
+          "label": "Apocrine hidrocystoma",
+          "children": [
+            {
+              "label": "very common"
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "from the glands of Moll along the eyelid margin"
+                },
+                {
+                  "label": "adenoma of the secretory cells of Moll",
+                  "children": [
+                    {
+                      "label": "not a retention cyst!",
+                      "children": [
+                        {
+                          "label": "eccrine hidrocystomas are retention cysts!"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "solitary smooth cyst",
+                  "children": [
+                    {
+                      "label": "± multiple"
+                    }
+                  ]
+                },
+                {
+                  "label": "translucent or bluish"
+                },
+                {
+                  "label": "transilluminate"
+                },
+                {
+                  "label": "often extend deep",
+                  "children": [
+                    {
+                      "label": "especially in the canthal regions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "superficial cysts",
+                  "children": [
+                    {
+                      "label": "marsupialization"
+                    }
+                  ]
+                },
+                {
+                  "label": "deep cysts",
+                  "children": [
+                    {
+                      "label": "complete excision"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Cylindroma",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "solitary or multiple"
+            },
+            {
+              "label": "may be dominantly inherited"
+            },
+            {
+              "label": "flesh-colored nodules",
+              "children": [
+                {
+                  "label": "smooth"
+                },
+                {
+                  "label": "dome-shaped"
+                },
+                {
+                  "label": "varying size"
+                },
+                {
+                  "label": "affect the scalp and face",
+                  "children": [
+                    {
+                      "label": "may occur profusely in the scalp",
+                      "children": [
+                        {
+                          "label": "\"turban tumors\""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "surgical excision"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "syringomas are of eccrine origin!"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.10.5. Eyelid Neoplasms (II) - Benign Adnexal Lesions.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 143,
+      "connector_rejected": 2,
+      "connector_edges": 139,
+      "connector_width": 0.984,
+      "text_labels": 150,
+      "tree_nodes": 150,
+      "component_roots": 5,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.972,
+      "root_font_size": 4.181,
+      "warnings": []
+    }
+  }
+}

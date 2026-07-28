@@ -1,0 +1,384 @@
+{
+  "label": "9.9.3. Masquerade Syndromes (III): Non-neoplastic Masquerade Syndromes",
+  "root": true,
+  "children": [
+    {
+      "label": "Retinitis Pigmentosa",
+      "children": [
+        {
+          "label": "variable numbers of vitreous and anterior chamber cells"
+        },
+        {
+          "label": "± CME"
+        },
+        {
+          "label": "features of RP",
+          "children": [
+            {
+              "label": "positive family history"
+            },
+            {
+              "label": "nyctalopia"
+            },
+            {
+              "label": "waxy disc pallor"
+            },
+            {
+              "label": "attenuation of arterioles"
+            },
+            {
+              "label": "bone-spicule pattern of pigmentary changes"
+            },
+            {
+              "label": "ERG",
+              "children": [
+                {
+                  "label": "severely depressed/extinguished in RP"
+                }
+              ]
+            },
+            {
+              "label": "can be found in late posterior uveitis!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Infectious Uveitic Entities",
+      "children": [
+        {
+          "label": "bacterial uveitis",
+          "children": [
+            {
+              "label": "Nocardia species"
+            },
+            {
+              "label": "Tropheryma whipplei (Whipple disease)"
+            }
+          ]
+        },
+        {
+          "label": "fungal endophthalmitis",
+          "children": [
+            {
+              "label": "Candida species"
+            },
+            {
+              "label": "Aspergillus species"
+            },
+            {
+              "label": "Coccidioides immitis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "cataract"
+    },
+    {
+      "label": "Pigment Dispersion Syndrome",
+      "children": [
+        {
+          "label": "pigment granules released from the iris, ciliary body, or both",
+          "children": [
+            {
+              "label": "floating in the anterior chamber"
+            },
+            {
+              "label": "may be confused with the cells of anterior uveitis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ocular Ischemic Syndrome",
+      "children": [
+        {
+          "label": "hypoperfusion of the entire eye",
+          "children": [
+            {
+              "label": "secondary to carotid artery obstruction"
+            }
+          ]
+        },
+        {
+          "label": "men >65 years"
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "decreased vision",
+                  "children": [
+                    {
+                      "label": "mild ocular pain"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal edema"
+                }
+              ]
+            },
+            {
+              "label": "anterior chamber cells"
+            },
+            {
+              "label": "anterior chamber moderate flare",
+              "children": [
+                {
+                  "label": "greater than and out of proportion to number of cells"
+                }
+              ]
+            },
+            {
+              "label": "iris neovascularization"
+            },
+            {
+              "label": "IOP may be",
+              "children": [
+                {
+                  "label": "low from decreased aqueous production"
+                },
+                {
+                  "label": "high due to neovascular glaucoma"
+                }
+              ]
+            },
+            {
+              "label": "vitreous is usually clear"
+            },
+            {
+              "label": "mild disc edema"
+            },
+            {
+              "label": "dilated tortuous retinal venules, narrowed arterioles"
+            },
+            {
+              "label": "NVD/NVE",
+              "children": [
+                {
+                  "label": "medium-large intraretinal scattered blot hemorrhages",
+                  "children": [
+                    {
+                      "label": "in the midperiphery and far periphery"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "FA",
+              "children": [
+                {
+                  "label": "delayed arteriolar filling"
+                },
+                {
+                  "label": "diffuse leakage from optic disc and posterior pole"
+                },
+                {
+                  "label": "signs of capillary nonperfusion"
+                },
+                {
+                  "label": "retinal vascular staining"
+                }
+              ]
+            },
+            {
+              "label": "carotid Doppler ultrasonography",
+              "children": [
+                {
+                  "label": "ipsilateral carotid stenosis > 90%",
+                  "children": [
+                    {
+                      "label": "in the absence of vascular sheathing on examination"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "definitive treatment",
+              "children": [
+                {
+                  "label": "carotid endarterectomy"
+                }
+              ]
+            },
+            {
+              "label": "local treatment",
+              "children": [
+                {
+                  "label": "topical corticosteroids and cycloplegics"
+                },
+                {
+                  "label": "panretinal photocoagulation",
+                  "children": [
+                    {
+                      "label": "especially if NVI or NVE/NVD is present"
+                    }
+                  ]
+                },
+                {
+                  "label": "Intraocular injection of VEGF inhibitors"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prognosis",
+          "children": [
+            {
+              "label": "5-year mortality rate",
+              "children": [
+                {
+                  "label": "40%",
+                  "children": [
+                    {
+                      "label": "from cardiovascular disease and myocardial infarction"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "visual prognosis is guarded",
+              "children": [
+                {
+                  "label": "many patients improve transiently with treatment but eventually worsen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Intraocular Foreign Bodies",
+      "children": [
+        {
+          "label": "may produce chronic intraocular inflammation",
+          "children": [
+            {
+              "label": "mechanical, chemical, toxic, or inflammatory irritation of uveal tissues"
+            }
+          ]
+        },
+        {
+          "label": "high index of suspicion"
+        },
+        {
+          "label": "careful history & clinical examination"
+        },
+        {
+          "label": "ancillary testing",
+          "children": [
+            {
+              "label": "gonioscopy"
+            },
+            {
+              "label": "ultrasonography"
+            },
+            {
+              "label": "CT of the eye and orbits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chronic Peripheral Rhegmatogenous Retinal Detachment",
+      "children": [
+        {
+          "label": "anterior segment cell and flare",
+          "children": [
+            {
+              "label": "Schwartz syndrome",
+              "children": [
+                {
+                  "label": "photoreceptor outer segments liberated from the subretinal space in the anterior chamber",
+                  "children": [
+                    {
+                      "label": "phagocytosed by the endothelial cells in the trabecular meshwork",
+                      "children": [
+                        {
+                          "label": "secondary open-angle glaucoma"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "often have good vision",
+          "children": [
+            {
+              "label": "vitreous inflammatory and pigment cells"
+            },
+            {
+              "label": "± deteriorate because of CME"
+            }
+          ]
+        },
+        {
+          "label": "dilated fundus examination with scleral depression",
+          "children": [
+            {
+              "label": "peripheral pigment demarcation lines"
+            },
+            {
+              "label": "subretinal fluid"
+            },
+            {
+              "label": "retinal breaks"
+            },
+            {
+              "label": "subretinal fibrosis"
+            },
+            {
+              "label": "peripheral retinal cysts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.9.3. Masquerade Syndromes (III) - Non-neoplastic Masquerade Syndromes.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 176,
+      "connector_rejected": 0,
+      "connector_edges": 125,
+      "connector_width": 0.941,
+      "text_labels": 95,
+      "tree_nodes": 95,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7102,
+      "root_font_size": 3.528,
+      "warnings": []
+    }
+  }
+}

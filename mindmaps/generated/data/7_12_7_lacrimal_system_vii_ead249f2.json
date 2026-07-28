@@ -1,0 +1,684 @@
+{
+  "label": "7.12.7. Lacrimal System (VII)",
+  "root": true,
+  "children": [
+    {
+      "label": "Canaliculitis",
+      "children": [
+        {
+          "label": "organisms",
+          "children": [
+            {
+              "label": "bacteria",
+              "children": [
+                {
+                  "label": "Actinomyces israelii",
+                  "children": [
+                    {
+                      "label": "filamentous gram-positive rod"
+                    },
+                    {
+                      "label": "most common pathogen"
+                    },
+                    {
+                      "label": "has a tendency to form concretions, or “stones”",
+                      "children": [
+                        {
+                          "label": "within the stones, organisms are protected from lethal antibiotic concentrations"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "viruses"
+            },
+            {
+              "label": "fungi"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "persistent weeping and discharge"
+            },
+            {
+              "label": "follicular conjunctivitis centered in medial canthus"
+            },
+            {
+              "label": "erythematous and dilated, or “pouting” punctum"
+            },
+            {
+              "label": "applying pressure to the canaliculus using a cotton-tipped applicator(“milking”)",
+              "children": [
+                {
+                  "label": "expression of purulent discharge confirms the diagnosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "difficult to eradicate"
+            },
+            {
+              "label": "culture of discharge"
+            },
+            {
+              "label": "conservative management",
+              "children": [
+                {
+                  "label": "warm compresses"
+                },
+                {
+                  "label": "digital massage"
+                },
+                {
+                  "label": "topical and sometimes oral antibiotic therapy"
+                }
+              ]
+            },
+            {
+              "label": "more aggressive treatment",
+              "children": [
+                {
+                  "label": "curettage through the punctum",
+                  "children": [
+                    {
+                      "label": "sometimes successful at removing multiple stones"
+                    }
+                  ]
+                },
+                {
+                  "label": "canaliculotomy",
+                  "children": [
+                    {
+                      "label": "to completely remove all particulate matter"
+                    },
+                    {
+                      "label": "should be limited to horizontal canaliculus"
+                    },
+                    {
+                      "label": "approached from the conjunctival surface"
+                    },
+                    {
+                      "label": "incision is left open to heal by second intention"
+                    },
+                    {
+                      "label": "does not require stenting"
+                    }
+                  ]
+                },
+                {
+                  "label": "if infection is consequence of an obstruction, correct the obstruction to prevent recurrence"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Dacryoadenitis",
+      "children": [
+        {
+          "label": "acute inflammation of the lacrimal gland"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "inflammation",
+              "children": [
+                {
+                  "label": "non-infectious inflammation"
+                },
+                {
+                  "label": "infectious inflammation",
+                  "children": [
+                    {
+                      "label": "gross purulence and abscess formation are uncommon"
+                    },
+                    {
+                      "label": "most cases are the result of bacterial infection",
+                      "children": [
+                        {
+                          "label": "gram-positive bacteria",
+                          "children": [
+                            {
+                              "label": "most common"
+                            },
+                            {
+                              "label": "community-acquired MRSA",
+                              "children": [
+                                {
+                                  "label": "MRSA infection may appear without preexisting risk factors"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "gram-negative bacteria"
+                        },
+                        {
+                          "label": "tuberculosis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Epstein-Barr virus",
+                      "children": [
+                        {
+                          "label": "most common viral pathogen"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "pathogenesis",
+                      "children": [
+                        {
+                          "label": "secondary to an adjacent infection"
+                        },
+                        {
+                          "label": "trauma"
+                        },
+                        {
+                          "label": "hematogenously"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "malignancy",
+              "children": [
+                {
+                  "label": "lymphoproliferative disease"
+                },
+                {
+                  "label": "less common"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "nonsuppurative cases are treated empirically, without isolation of the alleged pathogen"
+            },
+            {
+              "label": "coverage for MRSA infection should be considered"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Neoplasms of Lacrimal Drainage System",
+      "children": [
+        {
+          "label": "primary (lacrimal sac tumors)",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "benign",
+                  "children": [
+                    {
+                      "label": "45%"
+                    },
+                    {
+                      "label": "papilloma",
+                      "children": [
+                        {
+                          "label": "many initially grow in an inverted pattern into lacrimal sac wall",
+                          "children": [
+                            {
+                              "label": "their excision is often incomplete"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "with recurrence, malignant degeneration may occur"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "malignant",
+                  "children": [
+                    {
+                      "label": "55%"
+                    },
+                    {
+                      "label": "squamous cell carcinoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "mass located above the medial canthal tendon"
+                },
+                {
+                  "label": "epiphora"
+                },
+                {
+                  "label": "chronic dacryocystitis",
+                  "children": [
+                    {
+                      "label": "dacryocystitis associated with tumor may differ from simple NLDO in that the irrigation fluid may pass into the nose"
+                    }
+                  ]
+                },
+                {
+                  "label": "blood reflux from the punctum on irrigation"
+                },
+                {
+                  "label": "spontaneous bleeding"
+                },
+                {
+                  "label": "tumors that invade skin may produce ulceration with telangiectasia over the lacrimal sac"
+                },
+                {
+                  "label": "metastasis to regional lymph nodes"
+                }
+              ]
+            },
+            {
+              "label": "diagnostic workup",
+              "children": [
+                {
+                  "label": "dacryocystography",
+                  "children": [
+                    {
+                      "label": "outlining uneven, mottled densities in the dilated lacrimal sac"
+                    }
+                  ]
+                },
+                {
+                  "label": "CT or MRI",
+                  "children": [
+                    {
+                      "label": "far superior in identifying neoplasms and their extent"
+                    },
+                    {
+                      "label": "CT can reveal bone erosion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "benign lacrimal sac tumors",
+                  "children": [
+                    {
+                      "label": "dacryocystectomy"
+                    }
+                  ]
+                },
+                {
+                  "label": "malignant lacrimal sac tumors",
+                  "children": [
+                    {
+                      "label": "dacryocystectomy",
+                      "children": [
+                        {
+                          "label": "+.",
+                          "children": [
+                            {
+                              "label": "lateral rhinotomy and medial maxillectomy",
+                              "children": [
+                                {
+                                  "label": "sometimes performed in concert with an otolaryngologist"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "exenteration",
+                  "children": [
+                    {
+                      "label": "including bone removal in medial canthal area"
+                    },
+                    {
+                      "label": "if a malignant epithelial tumor has involved bone and the soft tissues of the orbit"
+                    }
+                  ]
+                },
+                {
+                  "label": "radiation",
+                  "children": [
+                    {
+                      "label": "treatment of lymphomatous lesions"
+                    },
+                    {
+                      "label": "adjuvant after removal of malignant lesions"
+                    },
+                    {
+                      "label": "palliative measure for unresectable lesions"
+                    }
+                  ]
+                },
+                {
+                  "label": "recurrence rate for invasive squamous and transitional cell carcinoma of the lacrimal sac",
+                  "children": [
+                    {
+                      "label": "50%"
+                    },
+                    {
+                      "label": "50% of these cases are fatal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "secondary",
+          "children": [
+            {
+              "label": "secondarily invade or compromise lacrimal system structures from surrounding tissues"
+            },
+            {
+              "label": "most common are",
+              "children": [
+                {
+                  "label": "basal and squamous cell carcinoma of the eyelid skin"
+                },
+                {
+                  "label": "adenoid cystic carcinoma"
+                },
+                {
+                  "label": "infantile [capillary] hemangioma"
+                },
+                {
+                  "label": "inverted papilloma"
+                },
+                {
+                  "label": "epidermoid carcinoma"
+                },
+                {
+                  "label": "osteoma"
+                },
+                {
+                  "label": "lymphoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "metastatic"
+        }
+      ]
+    },
+    {
+      "label": "Dacryocystitis",
+      "children": [
+        {
+          "label": "inflammation of the lacrimal sac"
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "common factor is complete NLDO",
+              "children": [
+                {
+                  "label": "chronic tear retention and stasis",
+                  "children": [
+                    {
+                      "label": "secondary infection"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "gram-positive bacteria",
+              "children": [
+                {
+                  "label": "most common cause of acute dacryocystitis"
+                }
+              ]
+            },
+            {
+              "label": "gram-negative bacteria",
+              "children": [
+                {
+                  "label": "diabetes"
+                },
+                {
+                  "label": "immunodeficiency"
+                },
+                {
+                  "label": "exposure to atypical pathogens (eg, individuals residing in nursing homes)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "acute dacryocystitis",
+          "children": [
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "erythema with distension of the lacrimal sac"
+                },
+                {
+                  "label": "edema"
+                },
+                {
+                  "label": "discomfort ranging from none to severe pain"
+                }
+              ]
+            },
+            {
+              "label": "complications",
+              "children": [
+                {
+                  "label": "dacryocystocele formation"
+                },
+                {
+                  "label": "chronic conjunctivitis"
+                },
+                {
+                  "label": "spread to adjacent structures (orbital or facial cellulitis)"
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "irrigation or probing of the canalicular system should be avoided until the infection subsides",
+                  "children": [
+                    {
+                      "label": "irrigation is not needed to establish the diagnosis",
+                      "children": [
+                        {
+                          "label": "extremely painful for patients with active infection"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "diagnostic or therapeutic probing of the NLD is not indicated in adults with acute dacryocystitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical antibiotics",
+                  "children": [
+                    {
+                      "label": "limited value"
+                    }
+                  ]
+                },
+                {
+                  "label": "oral antibiotics",
+                  "children": [
+                    {
+                      "label": "effective for most infections"
+                    }
+                  ]
+                },
+                {
+                  "label": "parenteral antibiotics",
+                  "children": [
+                    {
+                      "label": "for severe cases",
+                      "children": [
+                        {
+                          "label": "especially if cellulitis or orbital extension is present"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "aspiration of the lacrimal sac",
+                  "children": [
+                    {
+                      "label": "pyocele or mucocele is localized and approaching the skin"
+                    },
+                    {
+                      "label": "smears and cultures of the aspirate"
+                    }
+                  ]
+                },
+                {
+                  "label": "incision and drainage",
+                  "children": [
+                    {
+                      "label": "indications",
+                      "children": [
+                        {
+                          "label": "localized abscess involving the lacrimal sac and adjacent soft tissues",
+                          "children": [
+                            {
+                              "label": "no response to more conservative measures"
+                            },
+                            {
+                              "label": "severe discomfort"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "incised abscess is allowed to heal by second intention"
+                    },
+                    {
+                      "label": "complications",
+                      "children": [
+                        {
+                          "label": "chronically draining epithelialized fistula that communicates with the lacrimal sac",
+                          "children": [
+                            {
+                              "label": "rare"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "DCR",
+                  "children": [
+                    {
+                      "label": "inevitable persistent epiphora and recurrence"
+                    },
+                    {
+                      "label": "deferred until acute inflammation is resolved",
+                      "children": [
+                        {
+                          "label": "some patients continue to have subacute infection until definitive drainage surgery is performed"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "chronic dacryocystitis",
+          "children": [
+            {
+              "label": "smoldering low-grade infection"
+            },
+            {
+              "label": "distension of the lacrimal sac"
+            },
+            {
+              "label": "massage may reflux mucoid material through the canalicular system"
+            },
+            {
+              "label": "if a tumor is not suspected, no further diagnostic evaluation is indicated to confirm the diagnosis of total NLDO"
+            },
+            {
+              "label": "should be treated before elective intraocular surgery"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.12.7. Lacrimal System (VII).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 170,
+      "connector_rejected": 1,
+      "connector_edges": 169,
+      "connector_width": 0.831,
+      "text_labels": 173,
+      "tree_nodes": 173,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9941,
+      "root_font_size": 3.533,
+      "warnings": []
+    }
+  }
+}

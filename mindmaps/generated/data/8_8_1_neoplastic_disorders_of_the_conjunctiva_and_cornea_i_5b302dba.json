@@ -1,0 +1,624 @@
+{
+  "label": "8.8.1. Neoplastic Disorders of the Conjunctiva and Cornea I: Epithelial Tumors",
+  "root": true,
+  "children": [
+    {
+      "label": "inferior fornix",
+      "children": [
+        {
+          "label": "more often"
+        }
+      ]
+    },
+    {
+      "label": "Benign Epithelial Tumors",
+      "children": [
+        {
+          "label": "Conjunctival papilloma",
+          "children": [
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "human papillomavirus (hpv)",
+                  "children": [
+                    {
+                      "label": "HPV-6 (& 11) (in children)",
+                      "children": [
+                        {
+                          "label": "pedunculated"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "HPV-16 (& 18) (in adults)",
+                      "children": [
+                        {
+                          "label": "sessile"
+                        },
+                        {
+                          "label": "same subtypes associated with OSSN",
+                          "children": [
+                            {
+                              "label": "premalignant?"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "pedunculated",
+                  "children": [
+                    {
+                      "label": "stalk"
+                    },
+                    {
+                      "label": "multilobulated appearance",
+                      "children": [
+                        {
+                          "label": "smooth, clear epithelium"
+                        },
+                        {
+                          "label": "numerous underlying, small corkscrew blood vessels"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "location",
+                      "children": [
+                        {
+                          "label": "tarsal or bulbar conjunctiva"
+                        },
+                        {
+                          "label": "along the semilunar fold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "sessile",
+                  "children": [
+                    {
+                      "label": "flat base",
+                      "children": [
+                        {
+                          "label": "more typically found at the limbus"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "glistening surface"
+                    },
+                    {
+                      "label": "numerous red dots",
+                      "children": [
+                        {
+                          "label": "resembles a strawberry"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "may spread onto the cornea"
+                    }
+                  ]
+                },
+                {
+                  "label": "inverted papilloma",
+                  "children": [
+                    {
+                      "label": "very rare variant"
+                    }
+                  ]
+                },
+                {
+                  "label": "signs of dysplasia",
+                  "children": [
+                    {
+                      "label": "keratinization (leukoplakia)"
+                    },
+                    {
+                      "label": "symblepharon formation"
+                    },
+                    {
+                      "label": "inflammation"
+                    },
+                    {
+                      "label": "invasion"
+                    }
+                  ]
+                },
+                {
+                  "label": "+- multiple lesions"
+                },
+                {
+                  "label": "may be extensive in immunocompromised patients"
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "observation",
+                  "children": [
+                    {
+                      "label": "spontaneous resolution",
+                      "children": [
+                        {
+                          "label": "papillomas that are small, cosmetically acceptable, and nonirritating"
+                        },
+                        {
+                          "label": "may take months to years"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "cryotherapy alone"
+                },
+                {
+                  "label": "excision with cryotherapy to the base"
+                },
+                {
+                  "label": "excision with adjunctive application of interferon-α2b"
+                },
+                {
+                  "label": "oral cimetidine"
+                },
+                {
+                  "label": "recurrences are frequent"
+                },
+                {
+                  "label": "incomplete excision can stimulate growth and lead to a worse cosmetic outcome"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Malignant Epithelial Lesions",
+      "children": [
+        {
+          "label": "Squamous cell carcinoma",
+          "children": [
+            {
+              "label": "pathogenesis"
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "older individuals"
+                },
+                {
+                  "label": "interpalpebral fissure zone",
+                  "children": [
+                    {
+                      "label": "limbal and bulbar conjunctiva"
+                    }
+                  ]
+                },
+                {
+                  "label": "broad base"
+                },
+                {
+                  "label": "plaquelike, gelatinous, or papilliform growth"
+                },
+                {
+                  "label": "sharp borders"
+                },
+                {
+                  "label": "+- leukoplakia"
+                },
+                {
+                  "label": "engorged conjunctival vessels suggest malignancy"
+                },
+                {
+                  "label": "pigmentation can occur in dark-skinned patients"
+                },
+                {
+                  "label": "superficial growth",
+                  "children": [
+                    {
+                      "label": "infrequently penetrating the sclera or Bowman layer",
+                      "children": [
+                        {
+                          "label": "invasion of the iris or trabecular meshwork provides the tumor with access to the systemic circulation",
+                          "children": [
+                            {
+                              "label": "metastasis"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "orbital invasion"
+                    }
+                  ]
+                },
+                {
+                  "label": "CIN and invasive squamous cell carcinoma may have similar clinical appearances"
+                }
+              ]
+            },
+            {
+              "label": "management of atypical epithelial tumors",
+              "children": [
+                {
+                  "label": "high recurrence rate",
+                  "children": [
+                    {
+                      "label": "negative surgical margins",
+                      "children": [
+                        {
+                          "label": "33%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "positive surgical margins",
+                      "children": [
+                        {
+                          "label": "50%"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "delineating tumor margins with rose bengal or lissamine green",
+                  "children": [
+                    {
+                      "label": "increases the likelihood of complete excision"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical chemotherapy",
+                  "children": [
+                    {
+                      "label": "interferon-α2b"
+                    },
+                    {
+                      "label": "MMC"
+                    },
+                    {
+                      "label": "5-FU"
+                    }
+                  ]
+                },
+                {
+                  "label": "radiation therapy",
+                  "children": [
+                    {
+                      "label": "adjunctive therapy in select cases"
+                    }
+                  ]
+                },
+                {
+                  "label": "orbital exenteration for orbital invasion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Mucoepidermoid carcinoma",
+          "children": [
+            {
+              "label": "very rare"
+            },
+            {
+              "label": "limbal conjunctiva, fornix, or caruncle"
+            },
+            {
+              "label": "resembles an aggressive variant of squamous cell carcinoma"
+            },
+            {
+              "label": "more likely than squamous cell carcinoma to invade the globe or orbit"
+            },
+            {
+              "label": "pathology",
+              "children": [
+                {
+                  "label": "neoplastic epithelial cells"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "wide surgical excision",
+                  "children": [
+                    {
+                      "label": "malignant goblet cells",
+                      "children": [
+                        {
+                          "label": "mucin stains"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "adjuvant therapy",
+                  "children": [
+                    {
+                      "label": "cryotherapy"
+                    },
+                    {
+                      "label": "radiotherapy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Spindle cell carcinoma",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "highly malignant"
+            },
+            {
+              "label": "bulbar or limbal conjunctiva"
+            },
+            {
+              "label": "anaplastic cells appear spindle shaped"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Preinvasive Epithelial Lesions",
+      "children": [
+        {
+          "label": "Conjunctival intraepithelial neoplasia (dysplasia)",
+          "children": [
+            {
+              "label": "definition",
+              "children": [
+                {
+                  "label": "dysplastic process does not invade the underlying basement membrane",
+                  "children": [
+                    {
+                      "label": "mild (CIN I)",
+                      "children": [
+                        {
+                          "label": "1/3 epithelial thickness",
+                          "children": [
+                            {
+                              "label": "squamous dysplasia"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "moderate (CIN II)",
+                      "children": [
+                        {
+                          "label": "2/3 epithelial thickness",
+                          "children": [
+                            {
+                              "label": "squamous dysplasia"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "severe (CIN III)",
+                      "children": [
+                        {
+                          "label": "2/3-full epithelial thickness"
+                        },
+                        {
+                          "label": "carcinoma in situ",
+                          "children": [
+                            {
+                              "label": "atypical cells involve the entire thickness of the epithelium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "sunlight (UV) exposure",
+                  "children": [
+                    {
+                      "label": "higher incidence close to equator"
+                    },
+                    {
+                      "label": "mutation in p53 suppressor gene"
+                    }
+                  ]
+                },
+                {
+                  "label": "older age"
+                },
+                {
+                  "label": "light complexion"
+                },
+                {
+                  "label": "xeroderma pigmentosa"
+                },
+                {
+                  "label": "HPV infection",
+                  "children": [
+                    {
+                      "label": "subtypes 16 & 18"
+                    }
+                  ]
+                },
+                {
+                  "label": "systemic immunosuppression",
+                  "children": [
+                    {
+                      "label": "in a young adult (<50 years) r/o HIV infection",
+                      "children": [
+                        {
+                          "label": "rapid growth may occur in a person with AIDS"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "smoking"
+                },
+                {
+                  "label": "petroleum products"
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "3 clinical variants",
+                  "children": [
+                    {
+                      "label": "papilliform: a sessile papilloma harbors dysplastic cells",
+                      "children": [
+                        {
+                          "label": "hyperkeratosis=increased thickness of stratum corneum",
+                          "children": [
+                            {
+                              "label": "dyskeratosis=individual cell keratinization"
+                            },
+                            {
+                              "label": "parakeratosis=retention of nuclei in stratum corneum"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "gelatinous: acanthosis and dysplasia"
+                    },
+                    {
+                      "label": "leukoplakic: hyperkeratosis, parakeratosis, and dyskeratosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "interpalpebral bulbar conjunctiva",
+                  "children": [
+                    {
+                      "label": "at or near the limbus"
+                    },
+                    {
+                      "label": "potential to spread to other areas of the ocular surface, including the cornea"
+                    }
+                  ]
+                },
+                {
+                  "label": "mild inflammation"
+                },
+                {
+                  "label": "abnormal vascularization",
+                  "children": [
+                    {
+                      "label": "large feeder blood vessels indicate a higher probability of invasion beneath the epithelial basement membrane"
+                    }
+                  ]
+                },
+                {
+                  "label": "slow-growing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Corneal intraepithelial neoplasia",
+          "children": [
+            {
+              "label": "the conjunctival/limbal component is not clinically apparent"
+            },
+            {
+              "label": "granular, translucent, gray epithelial sheet",
+              "children": [
+                {
+                  "label": "broadly based at the limbus"
+                },
+                {
+                  "label": "fimbriated margins"
+                },
+                {
+                  "label": "pseudopodia-like extensions"
+                },
+                {
+                  "label": "+- free islands of punctate granular epithelium"
+                },
+                {
+                  "label": "stains with",
+                  "children": [
+                    {
+                      "label": "rose bengal"
+                    },
+                    {
+                      "label": "lissamine green"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "corneal neovascularization does not typically occur",
+              "children": [
+                {
+                  "label": "helps differentiate CIN lesions from limbal stem cell failure"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.8.1. Neoplastic Disorders of the Conjunctiva and Cornea I - Epithelial Tumors.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 302,
+      "connector_rejected": 86,
+      "connector_edges": 175,
+      "connector_width": 0.959,
+      "text_labels": 157,
+      "tree_nodes": 157,
+      "component_roots": 4,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.5795,
+      "root_font_size": 2.717,
+      "warnings": []
+    }
+  }
+}

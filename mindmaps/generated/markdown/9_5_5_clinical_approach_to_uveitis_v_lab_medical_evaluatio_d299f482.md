@@ -1,0 +1,131 @@
+---
+title: "9.5.5. Clinical approach to uveitis (V): Lab & Medical Evaluation"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.5.5. Clinical approach to uveitis (V) - Lab & Medical Evaluation.pdf"
+---
+
+# 9.5.5. Clinical approach to uveitis (V): Lab & Medical Evaluation
+
+## Hierarchy
+
+- introduction
+  - laboratory testing
+    - is not a substitute for a thorough, hands-on clinical evaluation
+    - should be guided by the history and physical examination
+  - tailored approach
+    - a list of differential diagnoses is compiled based on
+      - anatomical location
+      - clinical characteristics
+    - appropriate laboratory tests can be ordered
+      - many patients require only a few diagnostic tests
+      - there is no one standardized battery of tests that needs to be ordered for all patients with uveitis
+      - at a minimum, most uveitis specialists will employ a few studies
+        - purified protein derivative (PPD) skin test or interferon-gamma release assay
+        - syphilis serologic testing
+        - chest radiograph
+      - Table 5-4
+- anterior chamber paracentesis
+  - technique
+    - topical anesthetic drops
+    - topical povidone-iodine solution
+    - lid speculum
+    - tuberculin (1-ml) syringe
+      - 30-gauge needle
+    - enter through temporal limbus or clear cornea
+      - parallel to the iris plane
+    - 0.1–0.2 ml aqueous
+  - studies
+    - microbiologic evaluation
+      - if infection suspected
+    - histologic evaluation
+      - if leukemia or lymphoma suspected
+    - polymerase chain reaction
+      - if infection with specific entities suspected
+        - herpes simplex virus types 1 or 2
+        - varicella-zoster virus
+        - cytomegalovirus
+        - toxoplasma
+      - similar diagnostic sensitivity (81%) and specificity (97%) of aqueous and vitreous samples
+        - particularly in uveitis caused by HSV-1 and -2, VZV, and CMV
+    - Goldmann-Witmer (GW) coefficient
+      - gold standard for the diagnosis of toxoplasmosis in Europe
+      - diagnostic yield is increased when results of PCR and the GW coefficient are used together, especially in viral infections
+  - complications
+    - anterior chamber hemorrhage
+    - endophthalmitis
+    - damage to the iris or lens
+- fluorescein angiography (FA)
+  - indications
+    - chorioretinal diseases
+      - optic nerve, retinal, and choroidal inflammation
+      - retinal vasculitis
+      - several retinochoroidopathies (white dot syndromes) have characteristic appearances on FA
+    - complications caused by posterior uveitis
+      - secondary choroidal or retinal neovascularization
+      - CME
+  - useful both diagnostically and in monitoring the patient’s response to therapy
+- fundus autofluorescence imaging
+  - inflammatory chorioretinopathies involving the outer retina, RPE, and inner choroid
+  - to assess the viability of the retinal pigment epithelium/photoreceptor complex
+- indocyanine green angiography
+  - 2 patterns of hypofluorescence
+    - Type 1
+      - early and late multifocal areas of hypofluorescence
+        - MEWDS
+    - Type 2
+      - areas of early hypofluorescence and late hyperfluorescence
+        - sarcoidosis
+        - sympathetic ophthalmia
+        - VKH syndrome
+        - birdshot uveitis
+- vitreous biopsy
+  - technique
+    - standard 3-port pars plana vitrectomy
+    - undiluted vitreous specimen
+      - 0.5–1.0 mL
+  - indications
+    - suspected endophthalmitis
+    - primary intraocular lymphoma
+    - other intraocular malignancy
+    - infectious etiologies
+    - chronic uveitis that has an atypical presentation or inadequate response to therapy
+  - PCR studies
+    - undiluted vitreous
+    - if an infectious posterior uveitis/panuveitis suspected
+      - herpes simplex virus types 1 or 2
+      - varicella-zoster virus
+      - cytomegalovirus
+    - differential diagnosis must be narrowed to a few causes
+      - toxoplasma
+    - combined with clinical picture, presence of DNA from specific pathogens can be very sensitive and specific
+  - complications
+    - retinal tears or detachment
+    - suprachoroidal or vitreous hemorrhage
+    - worsening of cataract or inflammation
+    - pharmacokinetics of delivered intravitreal drugs are markedly altered
+      - half-life of intravitreal corticosteroids is markedly reduced
+- ultrasonography
+  - vitreous opacities
+  - choroidal thickening
+  - retinal detachment
+  - cyclitic membrane formation
+  - occult foreign bodies
+- electroretinography
+  - to monitor birdshot uveitis
+  - to rule out retinitis pigmentosa
+- optical coherence tomography
+  - anterior segment OCT
+    - retained lens fragments
+    - IOL chaffing
+  - posterior segment
+    - CME
+    - retinal thickening
+    - subretinal fluid
+    - monitoring patients with uveitic glaucoma
+- chorioretinal biopsy
+  - indications
+    - rapidly progressive posterior uveitic/panuveitic entities (e.g. necrotizing retinitis) for which the etiology/treatment regimen is unknown
+    - suspected intraocular lymphoma confined to subretinal space
+  - only after all other less-invasive diagnostic measures have failed
+    - high rate of complications!

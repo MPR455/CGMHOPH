@@ -1,0 +1,172 @@
+{
+  "label": "6.9.1. Exodeviations (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "manifest or latent divergent strabismus"
+        },
+        {
+          "label": "frequency",
+          "children": [
+            {
+              "label": "varies among different ethnic groups",
+              "children": [
+                {
+                  "label": "Europeans and North and South Americans",
+                  "children": [
+                    {
+                      "label": "exodeviations:esodeviations = 1:3"
+                    }
+                  ]
+                },
+                {
+                  "label": "Asians",
+                  "children": [
+                    {
+                      "label": "exodeviations = esodeviations"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "risk factors",
+          "children": [
+            {
+              "label": "maternal smoking during pregnancy"
+            },
+            {
+              "label": "premature birth"
+            },
+            {
+              "label": "family history of strabismus"
+            },
+            {
+              "label": "uncorrected refractive errors",
+              "children": [
+                {
+                  "label": "similar to esodeviation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Exophoria",
+      "children": [
+        {
+          "label": "exodeviation controlled by fusion under normal viewing conditions",
+          "children": [
+            {
+              "label": "detected when binocular vision is interrupted",
+              "children": [
+                {
+                  "label": "alternate cover test"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fairly common"
+        },
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "often asymptomatic if",
+              "children": [
+                {
+                  "label": "angle of strabismus is small"
+                },
+                {
+                  "label": "fusional convergence amplitudes are adequate"
+                }
+              ]
+            },
+            {
+              "label": "prolonged, detailed visual work may bring about asthenopia"
+            }
+          ]
+        },
+        {
+          "label": "breakdown of an exophoria to an exotropia may occur transiently",
+          "children": [
+            {
+              "label": "during a serious illness"
+            },
+            {
+              "label": "after ingestion of sedatives or alcohol"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "usually not necessary unless",
+              "children": [
+                {
+                  "label": "exophoria progresses to intermittent exotropia"
+                },
+                {
+                  "label": "causes asthenopic symptoms"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pseudoexotropia",
+      "children": [
+        {
+          "label": "appearance of exodeviation when in fact the eyes are properly aligned"
+        },
+        {
+          "label": "less common than pseudoesotropia"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "wide interpupillary distance"
+            },
+            {
+              "label": "positive angle kappa without other ocular abnormalities"
+            },
+            {
+              "label": "positive angle kappa together with ocular abnormalities such as temporal dragging of the macula in retinopathy of prematurity"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Ped ophthalmology/6.9.1. Exodeviations (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 38,
+      "connector_rejected": 0,
+      "connector_edges": 38,
+      "connector_width": 1.936,
+      "text_labels": 39,
+      "tree_nodes": 39,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 1.0,
+      "root_font_size": 5.484,
+      "warnings": []
+    }
+  }
+}

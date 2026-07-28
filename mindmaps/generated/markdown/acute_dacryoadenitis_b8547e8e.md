@@ -1,0 +1,118 @@
+---
+title: "Acute Dacryoadenitis"
+category: "Case examples"
+subcategory: "External Eye And Adnexa"
+source_pdf: "MindmapPDF/Case example_External eye and adenexa/Acute Dacryoadenitis.pdf"
+---
+
+# Acute Dacryoadenitis
+
+## Hierarchy
+
+- Case Description
+  - young woman with unilateral pain and swelling of upper eyelid
+- Image Description
+  - swelling and redness of outer portion of upper eyelid
+- Data acquisition
+  - History
+    - onset & course
+      - pain
+      - discharge
+      - decreased vision
+        - orbital involvement
+      - double vision
+    - fever
+    - systemic infections
+      - viral syndromes
+        - infectious mononucleosis (EBV)
+        - mumps
+        - influenza
+  - Physical Exam
+    - VA
+    - APD
+    - EOM
+    - proptosis
+      - exophthalmometry
+      - resistance to retropulsion
+    - palpate lids/orbit for mass, warmth, tenderness
+    - examine parotid glands
+- Additional Testing
+  - staining & culture of discharge
+  - CT scan with contrast
+    - better than MRI for lacrimal gland evaluation
+- Differential Diagnosis
+  - dacryoadenitis
+    - children/young adults (acute)
+    - unilateral
+    - pain, redness, swelling
+    - chemosis
+    - s-shaped upper lid
+    - preauricular lymphadenopathy
+    - fever
+    - elevated WBC
+    - etiology
+      - inflammatory
+        - most common
+        - causes
+          - idiopathic
+            - more acute and painful
+          - sarcoidosis
+          - IgG4 disease
+      - infectious
+        - viral
+          - infectious mononucleosis (EBV)
+            - most common viral pathogen
+          - mumps
+          - influenza
+        - bacterial
+          - rare
+          - pathogens
+            - staphylococcus (MRSA)
+            - gonorrhea
+            - tuberculosis
+  - hordeolum/chalazion
+  - orbital/preseptal cellulitis
+  - idiopathic orbital inflammatory disease
+    - afebrile
+    - normal WBC
+    - improves with steroids
+  - lacrimal gland tumor
+    - primary malignant lacrimal gland tumor
+      - painful
+        - subacute
+    - lymphoproliferative disease
+    - metastasis
+  - rhabdomyosarcoma
+    - children
+  - leaking dermoid cyst
+  - retained FB
+- Assessment
+  - acute dacryoadenitis
+    - viral
+    - bacterial
+    - non-infectious
+- Treatment
+  - Medical
+    - unkown etiology
+      - empiric systemic antibiotics x 24 hours
+        - amoxicillin/clavulanate
+          - reassess
+            - if no response to antibiotics
+              - should respond within 48 hours
+              - start systemic steroid
+        - cephalexin
+    - signs of orbital cellulitis
+      - admit
+      - IV antibiotics
+    - viral
+      - cool compress
+      - analgesics
+  - Surgical
+    - biopsy/debulking
+      - if no response to medical treatment
+- Patient Education
+  - Prognosis & Complications
+    - good prognosis if treated early
+  - Follow-up
+    - daily until improvement
+    - watch for signs of orbital involvement

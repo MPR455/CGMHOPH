@@ -1,0 +1,512 @@
+{
+  "label": "5.2.2. Neuroimaging in Neuro- Ophthalmology (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Metabolic and Functional Imaging Modalities",
+      "children": [
+        {
+          "label": "Magnetic resonance spectroscopy (MRS)",
+          "children": [
+            {
+              "label": "integrity and metabolism of neural tissue"
+            },
+            {
+              "label": "depends on the presence of",
+              "children": [
+                {
+                  "label": "hydrogen"
+                },
+                {
+                  "label": "phosphorus"
+                }
+              ]
+            },
+            {
+              "label": "produces 5 principal spectra",
+              "children": [
+                {
+                  "label": "N-acetylaspartate (NAA)",
+                  "children": [
+                    {
+                      "label": "associated with neuronal integrity"
+                    },
+                    {
+                      "label": "decrease in NAA is associated with neuronal loss"
+                    }
+                  ]
+                },
+                {
+                  "label": "choline",
+                  "children": [
+                    {
+                      "label": "component of cell membranes"
+                    }
+                  ]
+                },
+                {
+                  "label": "creatinine",
+                  "children": [
+                    {
+                      "label": "relatively stable in the brain"
+                    },
+                    {
+                      "label": "can serve as an internal control"
+                    }
+                  ]
+                },
+                {
+                  "label": "lactate",
+                  "children": [
+                    {
+                      "label": "normally barely visible"
+                    }
+                  ]
+                },
+                {
+                  "label": "lipid",
+                  "children": [
+                    {
+                      "label": "not significant",
+                      "children": [
+                        {
+                          "label": "marker of anaerobic metabolism"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "changes in the pattern of the spectra peaks are associated with different disease processes",
+              "children": [
+                {
+                  "label": "can help characterize abnormalities detected initially on MRI"
+                },
+                {
+                  "label": "nonnecrotic brain neoplasm",
+                  "children": [
+                    {
+                      "label": "reduced NAA peak"
+                    },
+                    {
+                      "label": "elevated choline peak"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Functional MRI (fMRI)",
+          "children": [
+            {
+              "label": "mechanism",
+              "children": [
+                {
+                  "label": "changes in regional blood flow in the brain in accord with metabolic demand"
+                },
+                {
+                  "label": "local differences in blood oxygenation (blood oxygenation level–dependent [BOLD] responses)"
+                }
+              ]
+            },
+            {
+              "label": "areas of higher metabolic activity can be identified during specific tasks",
+              "children": [
+                {
+                  "label": "accurate visualization of the cortical areas involved in ocular motility"
+                },
+                {
+                  "label": "cortical retinotopy within the visual cortex"
+                }
+              ]
+            },
+            {
+              "label": "advantages (compared to PET)",
+              "children": [
+                {
+                  "label": "less expensive"
+                },
+                {
+                  "label": "faster imaging speed"
+                },
+                {
+                  "label": "higher spatial resolution"
+                },
+                {
+                  "label": "practical repeatability"
+                },
+                {
+                  "label": "less invasive"
+                }
+              ]
+            },
+            {
+              "label": "applications",
+              "children": [
+                {
+                  "label": "research"
+                },
+                {
+                  "label": "planning neurosurgical procedures"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Positron emission tomography (PET)",
+          "children": [
+            {
+              "label": "uptake of short-lived radioactive isotopes is related to metabolic activity"
+            },
+            {
+              "label": "radioisotope with a short half-life",
+              "children": [
+                {
+                  "label": "fluorine (18F)"
+                },
+                {
+                  "label": "carbon (11C)"
+                },
+                {
+                  "label": "nitrogen (13N)"
+                },
+                {
+                  "label": "isotope uptake is related to metabolic activity"
+                }
+              ]
+            },
+            {
+              "label": "imaging of the positrons produced during isotope decay"
+            },
+            {
+              "label": "usually combined with CT to enhance resolution"
+            },
+            {
+              "label": "PET with [18F]-fluoro-2-deoxyglucose",
+              "children": [
+                {
+                  "label": "increased visual cortex metabolism during ictal visual hallucinations"
+                },
+                {
+                  "label": "regions of hypoperfusion in cases associated with visual cortex ischemia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Single-photon emission computed tomography (SPECT)",
+          "children": [
+            {
+              "label": "cerebral perfusion and extraction agent",
+              "children": [
+                {
+                  "label": "iodinated radiotracer"
+                },
+                {
+                  "label": "technetium-99m"
+                },
+                {
+                  "label": "reveal patterns of blood flow and cerebral metabolism"
+                }
+              ]
+            },
+            {
+              "label": "can be used to study",
+              "children": [
+                {
+                  "label": "stroke"
+                },
+                {
+                  "label": "epilepsy"
+                },
+                {
+                  "label": "dementia"
+                }
+              ]
+            },
+            {
+              "label": "more widely available than PET"
+            },
+            {
+              "label": "lacks sufficient resolution and specificity"
+            },
+            {
+              "label": "may reveal altered regional cerebral blood flow in patients with cerebral visual impairment, even after nondiagnostic or normal MRI results"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Magnetic Resonance Imaging (MRI)",
+      "children": [
+        {
+          "label": "technique",
+          "children": [
+            {
+              "label": "atoms with odd number of nucleons (protons and neutrons)",
+              "children": [
+                {
+                  "label": "hydrogen is the most common",
+                  "children": [
+                    {
+                      "label": "MRI is sensitive to changes in water content of soft tissue",
+                      "children": [
+                        {
+                          "label": "how the water is bound"
+                        },
+                        {
+                          "label": "how it moves within tissue"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "small magnetic moment (spinning magnetic field)"
+                }
+              ]
+            },
+            {
+              "label": "powerful magnetic field of an MRI scanner",
+              "children": [
+                {
+                  "label": "magnetic moments of the hydrogen nuclei align in the field"
+                }
+              ]
+            },
+            {
+              "label": "radiofrequency (RF) pulses",
+              "children": [
+                {
+                  "label": "transiently perturb the hydrogen nuclei, knocking their magnetic moments out of alignment"
+                }
+              ]
+            },
+            {
+              "label": "rate of relaxation (return to alignment with the scanner’s magnetic field) generates a tissue- specific signal"
+            },
+            {
+              "label": "varying the RF pulses and the timing of signal recording",
+              "children": [
+                {
+                  "label": "produces different types of images"
+                }
+              ]
+            },
+            {
+              "label": "3-dimensional data set",
+              "children": [
+                {
+                  "label": "can construct views in axial, coronal, sagittal, or even oblique planes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "gadolinium",
+          "children": [
+            {
+              "label": "paramagnetic contrast agent"
+            },
+            {
+              "label": "traverses a disrupted blood–brain barrier",
+              "children": [
+                {
+                  "label": "infectious and inflammatory lesions"
+                },
+                {
+                  "label": "certain tumors with compositions indistinguishable from normal cortical tissue"
+                }
+              ]
+            },
+            {
+              "label": "systemic fibrosis syndrome",
+              "children": [
+                {
+                  "label": "often involves the skin",
+                  "children": [
+                    {
+                      "label": "patients with preexisting renal disease!"
+                    },
+                    {
+                      "label": "nephrogenic fibrosing dermopathy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "T1- or T2-weighted images",
+          "children": [
+            {
+              "label": "each tissue type has a characteristic T1 and T2 relaxation time"
+            },
+            {
+              "label": "T1-weighted images",
+              "children": [
+                {
+                  "label": "short time to echo (TE)",
+                  "children": [
+                    {
+                      "label": "20–35 ms"
+                    }
+                  ]
+                },
+                {
+                  "label": "short time to repetition (TR)",
+                  "children": [
+                    {
+                      "label": "200–700 ms"
+                    }
+                  ]
+                },
+                {
+                  "label": "optimal for demonstrating anatomy"
+                },
+                {
+                  "label": "resolution is higher than T2-weighted images",
+                  "children": [
+                    {
+                      "label": "increased intensity of the signal"
+                    },
+                    {
+                      "label": "faster acquisition times"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "T2-weighted images",
+              "children": [
+                {
+                  "label": "long TE",
+                  "children": [
+                    {
+                      "label": "75–250 ms"
+                    }
+                  ]
+                },
+                {
+                  "label": "long TR",
+                  "children": [
+                    {
+                      "label": "1500–3000 ms"
+                    }
+                  ]
+                },
+                {
+                  "label": "maximize differences in tissue water content and state"
+                },
+                {
+                  "label": "the most sensitive to inflammatory, ischemic, or neoplastic alterations in tissue"
+                }
+              ]
+            },
+            {
+              "label": "See Table 2-2"
+            },
+            {
+              "label": "See Table 2-3"
+            }
+          ]
+        },
+        {
+          "label": "special RF pulse sequences",
+          "children": [
+            {
+              "label": "are used to reduce intense signals",
+              "children": [
+                {
+                  "label": "intense tissue signals obscure subtle signal abnormalities in neighboring tissues"
+                }
+              ]
+            },
+            {
+              "label": "short tau inversion recovery (STIR)",
+              "children": [
+                {
+                  "label": "T1-weighted images without the confounding bright fat signal",
+                  "children": [
+                    {
+                      "label": "\"fat-suppression\""
+                    }
+                  ]
+                },
+                {
+                  "label": "particularly useful in studying the orbit"
+                }
+              ]
+            },
+            {
+              "label": "fluid-attenuated inversion recovery (FLAIR)",
+              "children": [
+                {
+                  "label": "T2-weighted images without the bright CSF signal"
+                },
+                {
+                  "label": "ideal for periventricular white matter changes in a demyelinating process"
+                }
+              ]
+            },
+            {
+              "label": "diffusion-weighted imaging (DWI)",
+              "children": [
+                {
+                  "label": "sensitive to recent alterations in vascular perfusion"
+                },
+                {
+                  "label": "ideal for identifying recent infarctions"
+                },
+                {
+                  "label": "abnormal DWI signal occurs within minutes of the onset of cerebral ischemia",
+                  "children": [
+                    {
+                      "label": "persists for ≈ 3 weeks",
+                      "children": [
+                        {
+                          "label": "See Table 2-4"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "oxygen (15O)"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.2.2. Neuroimaging in Neuro Ophthalmology (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 255,
+      "connector_rejected": 56,
+      "connector_edges": 151,
+      "connector_width": 0.682,
+      "text_labels": 129,
+      "tree_nodes": 129,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.5922,
+      "root_font_size": 2.387,
+      "warnings": []
+    }
+  }
+}

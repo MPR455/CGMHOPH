@@ -1,0 +1,519 @@
+{
+  "label": "8.3.1. Clinical Approach to Dry Eye (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "definition",
+          "children": [
+            {
+              "label": "multifactorial disease of the tears and ocular surface that results in symptoms of discomfort, visual disturbance, and tear-film instability with potential damage to the ocular surface"
+            }
+          ]
+        },
+        {
+          "label": "lacrimal functional unit (LFU)",
+          "children": [
+            {
+              "label": "components",
+              "children": [
+                {
+                  "label": "lacrimal glands"
+                },
+                {
+                  "label": "ocular surface (cornea, conjunctiva, and meibomian glands)"
+                },
+                {
+                  "label": "eyelids",
+                  "children": [
+                    {
+                      "label": "sensory and motor nerves"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "functions",
+              "children": [
+                {
+                  "label": "tear-film integrity (by carrying out lubricating, antimicrobial, and nutritional roles)"
+                },
+                {
+                  "label": "ocular surface health (by maintaining corneal transparency and surface stem cell population)"
+                },
+                {
+                  "label": "the quality of the image projected onto the retina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "prevalence increases with age",
+              "children": [
+                {
+                  "label": "10% of those age 30–60"
+                },
+                {
+                  "label": "15% of adults over age 65"
+                }
+              ]
+            },
+            {
+              "label": "equal prevalence in all racial and ethnic groups"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "F>M"
+    },
+    {
+      "label": "Pathogenesis",
+      "children": [
+        {
+          "label": "core mechanisms of dry eye",
+          "children": [
+            {
+              "label": "tear hyperosmolarity",
+              "children": [
+                {
+                  "label": "stresses the surface epithelium"
+                }
+              ]
+            },
+            {
+              "label": "tear-film instability"
+            },
+            {
+              "label": "inflammation",
+              "children": [
+                {
+                  "label": "release of inflammatory mediators",
+                  "children": [
+                    {
+                      "label": "disrupt junctions between superficial epithelial cells"
+                    },
+                    {
+                      "label": "T cell infiltration into epithelium",
+                      "children": [
+                        {
+                          "label": "release cytokines"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "classification",
+          "children": [
+            {
+              "label": "aqueous tear deficiency (ATD)",
+              "children": [
+                {
+                  "label": "T-cell–mediated inflammation of the lacrimal gland"
+                }
+              ]
+            },
+            {
+              "label": "evaporative dry eye",
+              "children": [
+                {
+                  "label": "meibomian gland dysfunction (MGD)",
+                  "children": [
+                    {
+                      "label": "altered lipid metabolism",
+                      "children": [
+                        {
+                          "label": "transition from unsaturated to saturated fats",
+                          "children": [
+                            {
+                              "label": "tear-film instability",
+                              "children": [
+                                {
+                                  "label": "tear evaporation",
+                                  "children": [
+                                    {
+                                      "label": "tear hyperosmolarity"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "other causes of tear-film instability",
+          "children": [
+            {
+              "label": "xerophthalmia"
+            },
+            {
+              "label": "ocular allergy"
+            },
+            {
+              "label": "contact lens wear"
+            },
+            {
+              "label": "dietary consumption of a high ratio n-6 to n-3 essential fatty acids"
+            },
+            {
+              "label": "diabetes mellitus"
+            },
+            {
+              "label": "cigarette smoking"
+            },
+            {
+              "label": "prolonged usage of video displays"
+            },
+            {
+              "label": "long-term use of medications with topical preservatives"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Evaporative Dry Eye",
+      "children": [
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "burning"
+            },
+            {
+              "label": "foreign-body sensation"
+            },
+            {
+              "label": "redness of the eyelids and conjunctiva"
+            },
+            {
+              "label": "filmy vision",
+              "children": [
+                {
+                  "label": "worse in the morning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical signs",
+          "children": [
+            {
+              "label": "usually confined to the posterior eyelid margins",
+              "children": [
+                {
+                  "label": "irregular posterior eyelid margins"
+                }
+              ]
+            },
+            {
+              "label": "brush marks",
+              "children": [
+                {
+                  "label": "prominent, telangiectatic blood vessels",
+                  "children": [
+                    {
+                      "label": "coursing from the posterior to anterior eyelid margins"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "meibomian gland orifices may pout or show metaplasia",
+              "children": [
+                {
+                  "label": "white plug of keratin protein extending through the glandular orifice"
+                }
+              ]
+            },
+            {
+              "label": "in active disease, meibomian secretions may be turbid and more viscous"
+            },
+            {
+              "label": "nonobvious obstructive MGD",
+              "children": [
+                {
+                  "label": "a precursor to clinically apparent disease"
+                },
+                {
+                  "label": "patient is symptomatic but lacks obvious clinical signs of meibomian disease"
+                },
+                {
+                  "label": "with mild compression the glands are found to be obstructed"
+                },
+                {
+                  "label": "more forceful expression produces a thin filamentous secretion due to narrowing of distal portion of ducts"
+                }
+              ]
+            },
+            {
+              "label": "additional clinical signs",
+              "children": [
+                {
+                  "label": "papillary reaction on the inferior tarsus"
+                },
+                {
+                  "label": "linear staining along the inferior cornea and inferior conjunctiva"
+                },
+                {
+                  "label": "episcleritis"
+                },
+                {
+                  "label": "marginal epithelial and subepithelial infiltrates"
+                },
+                {
+                  "label": "corneal scarring or thinning",
+                  "children": [
+                    {
+                      "label": "corneal neovascularization or pannus"
+                    }
+                  ]
+                },
+                {
+                  "label": "acne rosacea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "extensive atrophy of meibomian gland acini may develop after years",
+          "children": [
+            {
+              "label": "eyelid compression does not produce expression of meibomian gland secretions"
+            },
+            {
+              "label": "shortening or absence of vertical lines of meibomian glands",
+              "children": [
+                {
+                  "label": "may be revealed by transillumination of the everted eyelid using a muscle light"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "rapid tear breakup time (TBUT)",
+          "children": [
+            {
+              "label": "fluorescein strip moistened with sterile saline applied to tarsal conjunctiva",
+              "children": [
+                {
+                  "label": "should be done before any manipulation of eyelids or instillation of other drops"
+                }
+              ]
+            },
+            {
+              "label": "tear film is evaluated using a broad beam of the slit lamp with a blue filter"
+            },
+            {
+              "label": "time lapse between last blink and the appearance of first randomly distributed dry spot on the cornea"
+            },
+            {
+              "label": "appearance of dry spots in <10 seconds is considered abnormal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "foam in tear meniscus"
+    },
+    {
+      "label": "Aqueous Tear Deficiency",
+      "children": [
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "tend to be worse",
+                  "children": [
+                    {
+                      "label": "with prolonged use of the eyes",
+                      "children": [
+                        {
+                          "label": "toward the end of the day"
+                        },
+                        {
+                          "label": "reduced blink rate associated with computer usage"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "exposure to environmental extremes",
+                      "children": [
+                        {
+                          "label": "lower levels of humidity associated with indoor heating"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "burning"
+                },
+                {
+                  "label": "dry sensation"
+                },
+                {
+                  "label": "photophobia"
+                },
+                {
+                  "label": "blurred vision"
+                }
+              ]
+            },
+            {
+              "label": "signs",
+              "children": [
+                {
+                  "label": "bulbar conjunctival hyperemia"
+                },
+                {
+                  "label": "decreased tear meniscus",
+                  "children": [
+                    {
+                      "label": "normally 1.0 mm in height and convex"
+                    },
+                    {
+                      "label": "≤0.3 mm is considered abnormal"
+                    }
+                  ]
+                },
+                {
+                  "label": "epithelial keratopathy",
+                  "children": [
+                    {
+                      "label": "irregular corneal surface"
+                    },
+                    {
+                      "label": "best demonstrated following instillation of lissamine green, rose bengal, or fluorescein"
+                    },
+                    {
+                      "label": "exposure staining",
+                      "children": [
+                        {
+                          "label": "rose bengal and lissamine green more sensitive than fluorescein staining in revealing early or mild cases"
+                        },
+                        {
+                          "label": "nasal and temporal limbus and/or inferior paracentral cornea"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "debris in the tear film"
+                },
+                {
+                  "label": "incomplete blinking"
+                },
+                {
+                  "label": "severe ATD",
+                  "children": [
+                    {
+                      "label": "filamentary keratopathy",
+                      "children": [
+                        {
+                          "label": "strands of epithelial cells attached to the surface of the cornea over a core of mucus"
+                        },
+                        {
+                          "label": "painful"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "marginal or paracentral thinning and even perforation"
+                    }
+                  ]
+                },
+                {
+                  "label": "advanced disease",
+                  "children": [
+                    {
+                      "label": "corneal calcification (band keratopathy)"
+                    },
+                    {
+                      "label": "keratinization of the cornea and conjunctiva",
+                      "children": [
+                        {
+                          "label": "particularly in association with certain topical medications (especially glaucoma medications)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "“stare test”",
+          "children": [
+            {
+              "label": "after a few blinks, a patient is asked to look at a visual acuity chart"
+            },
+            {
+              "label": "the time until the image blurs should be more than 8 seconds"
+            }
+          ]
+        },
+        {
+          "label": "classification based on disease severity",
+          "children": [
+            {
+              "label": "See Table 3-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "mucous plaques"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.3.1. Clinical Approach to Dry Eye (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 246,
+      "connector_rejected": 53,
+      "connector_edges": 154,
+      "connector_width": 1.01,
+      "text_labels": 130,
+      "tree_nodes": 130,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.626,
+      "root_font_size": 2.863,
+      "warnings": []
+    }
+  }
+}

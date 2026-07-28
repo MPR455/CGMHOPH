@@ -1,0 +1,714 @@
+{
+  "label": "9.6.17. Panuveitis (I): Sarcoidosis",
+  "root": true,
+  "children": [
+    {
+      "label": "etiology",
+      "children": [
+        {
+          "label": "exposure to microbe-rich environments",
+          "children": [
+            {
+              "label": "mycobacteria"
+            },
+            {
+              "label": "propionibacteria"
+            }
+          ]
+        },
+        {
+          "label": "genetic predisposition"
+        }
+      ]
+    },
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "familial clustering",
+          "children": [
+            {
+              "label": "5x increased risk in siblings"
+            }
+          ]
+        },
+        {
+          "label": "onset usually from 20-50 years",
+          "children": [
+            {
+              "label": "also a common cause of newly diagnosed uveitis among patients ≥60 years"
+            }
+          ]
+        },
+        {
+          "label": "both sexes",
+          "children": [
+            {
+              "label": "slight female predominance"
+            }
+          ]
+        },
+        {
+          "label": "ocular involvement",
+          "children": [
+            {
+              "label": "≤50% of patients with systemic disease"
+            },
+            {
+              "label": "uveitis is the most common manifestation",
+              "children": [
+                {
+                  "label": "≤10% of all cases of uveitis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "worldwide distribution",
+          "children": [
+            {
+              "label": "highest prevalence in the northern European countries (40 cases per 100,000 people)"
+            }
+          ]
+        },
+        {
+          "label": "all ethnic groups",
+          "children": [
+            {
+              "label": "≤20x more prevalent among African Americans"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "erythema nodosum"
+    },
+    {
+      "label": "systemic sarcoidosis",
+      "children": [
+        {
+          "label": "multisystem granulomatous disorder",
+          "children": [
+            {
+              "label": "thorax",
+              "children": [
+                {
+                  "label": "most common (90%)"
+                },
+                {
+                  "label": "pulmonary disease is the major cause of morbidity"
+                }
+              ]
+            },
+            {
+              "label": "lymph nodes, skin, eyes, CNS, bones and joints, liver, and heart"
+            }
+          ]
+        },
+        {
+          "label": "acute sarcoidosis",
+          "children": [
+            {
+              "label": "frequently with associated anterior uveitis in young patients"
+            },
+            {
+              "label": "<2 years duration"
+            },
+            {
+              "label": "Löfgren syndrome",
+              "children": [
+                {
+                  "label": "acute iritis"
+                },
+                {
+                  "label": "bilateral hilar adenopathy"
+                },
+                {
+                  "label": "febrile arthropathy"
+                },
+                {
+                  "label": "responsive to systemic corticosteroids"
+                },
+                {
+                  "label": "good long-term prognosis"
+                }
+              ]
+            },
+            {
+              "label": "Heerfordt syndrome (uveoparotid fever)",
+              "children": [
+                {
+                  "label": "uveitis"
+                },
+                {
+                  "label": "parotitis",
+                  "children": [
+                    {
+                      "label": "facial nerve palsy"
+                    }
+                  ]
+                },
+                {
+                  "label": "fever"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "chronic sarcoidosis",
+          "children": [
+            {
+              "label": ".> 2 years’ duration"
+            },
+            {
+              "label": "interpulmonary involvement"
+            },
+            {
+              "label": "extended corticosteroid therapy may be required"
+            }
+          ]
+        },
+        {
+          "label": "pediatric sarcoidosis",
+          "children": [
+            {
+              "label": "uncommon"
+            },
+            {
+              "label": "early-onset sarcoidosis (<5 years)",
+              "children": [
+                {
+                  "label": "atypical clinical course",
+                  "children": [
+                    {
+                      "label": "less likely than adults to manifest pulmonary disease"
+                    },
+                    {
+                      "label": "far more likely to have cutaneous and articular involvement"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "disease course in older children (8–15 years) approximates that in adults"
+            }
+          ]
+        },
+        {
+          "label": "late-onset sarcoidosis",
+          "children": [
+            {
+              "label": "more likely to have uveitis"
+            },
+            {
+              "label": "less likely to have asymptomatic chest radiograph abnormalities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "chronic uveitis"
+    },
+    {
+      "label": "CXR"
+    },
+    {
+      "label": "diagnostic testing",
+      "children": [
+        {
+          "label": "CXR",
+          "children": [
+            {
+              "label": "≤90%"
+            },
+            {
+              "label": "do not persist throughout the disease course"
+            }
+          ]
+        },
+        {
+          "label": "high-resolution CT",
+          "children": [
+            {
+              "label": "more sensitive"
+            },
+            {
+              "label": "valuable in patients with normal CXR but high clinical index of suspicion"
+            }
+          ]
+        },
+        {
+          "label": "serum ACE and lysozyme",
+          "children": [
+            {
+              "label": "+- elevated"
+            },
+            {
+              "label": "reflective of total-body granuloma content",
+              "children": [
+                {
+                  "label": "neither diagnostic nor specific"
+                },
+                {
+                  "label": "useful in tracking active disease"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "serum and urinary calcium levels",
+          "children": [
+            {
+              "label": "ACE levels may be artificially low in patients taking ACE-inhibitors"
+            },
+            {
+              "label": "not specific for sarcoidosis",
+              "children": [
+                {
+                  "label": "abnormal results suggest more widespread involvement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "liver function test"
+        },
+        {
+          "label": "Gallium scanning",
+          "children": [
+            {
+              "label": "limited sensitivity"
+            }
+          ]
+        },
+        {
+          "label": "fluorine-18-fluorodeoxyglucose positron emission tomography",
+          "children": [
+            {
+              "label": "more accurate in pulmonary and extrapulmonary sarcoidosis"
+            }
+          ]
+        },
+        {
+          "label": "bronchoalveolar lavage",
+          "children": [
+            {
+              "label": "mononuclear alveolitis with increased CD4+ lymphocytes"
+            }
+          ]
+        },
+        {
+          "label": "traditional approach for suspected ophthalmic involvement",
+          "children": [
+            {
+              "label": "ACE and lysozyme levels"
+            },
+            {
+              "label": "additional tests (see above) can supplement the workup",
+              "children": [
+                {
+                  "label": "repeat the tests annually in patients with negative results but high clinical index of suspicion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnosis of sarcoidosis is made histologically from tissue obtained from",
+          "children": [
+            {
+              "label": "lungs"
+            },
+            {
+              "label": "mediastinal lymph nodes"
+            },
+            {
+              "label": "skin"
+            },
+            {
+              "label": "peripheral lymph nodes"
+            },
+            {
+              "label": "liver"
+            },
+            {
+              "label": "conjunctiva"
+            },
+            {
+              "label": "minor salivary glands"
+            },
+            {
+              "label": "lacrimal glands"
+            },
+            {
+              "label": "pathology",
+              "children": [
+                {
+                  "label": "noncaseating granuloma",
+                  "children": [
+                    {
+                      "label": "without histologic evidence of infection or foreign body"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "differential diagnosis",
+      "children": [
+        {
+          "label": "sarcoidosis should be considered in the differential diagnosis of any intraocular inflammation"
+        },
+        {
+          "label": "early-onset sarcoidosis (≤5 years) must be differentiated from",
+          "children": [
+            {
+              "label": "JIA-associated anterior uveitis"
+            },
+            {
+              "label": "familial juvenile systemic granulomatosis (Blau syndrome)",
+              "children": [
+                {
+                  "label": "autosomal dominant"
+                },
+                {
+                  "label": "NOD2 gene (also known as CARD15)"
+                },
+                {
+                  "label": "ocular disease is virtually identical to sarcoidosis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "vision-threatening posterior segment lesions",
+          "children": [
+            {
+              "label": "topical, periocular, and systemic corticosteroids are the mainstays of therapy"
+            },
+            {
+              "label": "systemic corticosteroids (prednisone, 40–80 mg/day)"
+            }
+          ]
+        },
+        {
+          "label": "cycloplegia"
+        },
+        {
+          "label": "intravitreal corticosteroids",
+          "children": [
+            {
+              "label": "for patients intolerant of systemic therapy"
+            }
+          ]
+        },
+        {
+          "label": "fluocinolone acetonide implant"
+        },
+        {
+          "label": "systemic IMT",
+          "children": [
+            {
+              "label": "can provide good control of the disease",
+              "children": [
+                {
+                  "label": "chronic vision-threatening sarcoidosis responds better to IMT",
+                  "children": [
+                    {
+                      "label": "likelihood of significant visual improvement is substantially increased with systemic therapy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "TNF-α inhibitors",
+              "children": [
+                {
+                  "label": "infliximab and adalimumab",
+                  "children": [
+                    {
+                      "label": "effective in the treatment of sarcoidosis- associated uveitis",
+                      "children": [
+                        {
+                          "label": "infliximab can cause drug-induced lupus",
+                          "children": [
+                            {
+                              "label": "can cause a sarcoidlike syndrome"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "etanercept"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prognostic factors",
+          "children": [
+            {
+              "label": "presence of intermediate or posterior uveitis"
+            },
+            {
+              "label": "chronic posterior uveitis"
+            },
+            {
+              "label": "glaucoma"
+            },
+            {
+              "label": "delay in presentation to a uveitis specialist of more than 1 year"
+            },
+            {
+              "label": "poor patient adherence"
+            }
+          ]
+        },
+        {
+          "label": "overall mortality from sarcoidosis",
+          "children": [
+            {
+              "label": "5%"
+            },
+            {
+              "label": "≤10% with neurosarcoidosis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ocular sarcoidosis",
+      "children": [
+        {
+          "label": "can affect any ocular tissue",
+          "children": [
+            {
+              "label": "cutaneous involvement"
+            },
+            {
+              "label": "orbital/eyelid granulomas"
+            },
+            {
+              "label": "palpebral/bulbar conjunctival nodules"
+            },
+            {
+              "label": "lacrimal gland infiltration",
+              "children": [
+                {
+                  "label": "keratoconjunctivitis sicca"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "anterior uveitis",
+          "children": [
+            {
+              "label": "acute"
+            },
+            {
+              "label": "chronic granulomatous uveitis"
+            },
+            {
+              "label": "most common ocular manifestation",
+              "children": [
+                {
+                  "label": "≈2/3"
+                }
+              ]
+            },
+            {
+              "label": "biomicroscopic findings",
+              "children": [
+                {
+                  "label": "mutton-fat KPs including anterior chamber angle"
+                },
+                {
+                  "label": "Koeppe and Busacca iris nodules"
+                },
+                {
+                  "label": "white clumps of cells (“snowballs”) in the inferior anterior vitreous"
+                }
+              ]
+            },
+            {
+              "label": "cornea",
+              "children": [
+                {
+                  "label": "infrequently involved",
+                  "children": [
+                    {
+                      "label": "nummular corneal infiltrates"
+                    },
+                    {
+                      "label": "inferior corneal endothelial opacification"
+                    },
+                    {
+                      "label": "band keratopathy",
+                      "children": [
+                        {
+                          "label": "chronic uveitis or hypercalcemia"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "large iris granulomas"
+            },
+            {
+              "label": "extensive posterior synechiae",
+              "children": [
+                {
+                  "label": "iris bombé and angle-closure glaucoma"
+                }
+              ]
+            },
+            {
+              "label": "peripheral anterior synechiae",
+              "children": [
+                {
+                  "label": "secondary glaucoma",
+                  "children": [
+                    {
+                      "label": "portends a poor prognosis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "posterior segment manifestations",
+          "children": [
+            {
+              "label": "≤20%"
+            },
+            {
+              "label": "vitreous involvement",
+              "children": [
+                {
+                  "label": "common"
+                },
+                {
+                  "label": "clumps of snowballs +- diffuse cellular infiltration"
+                }
+              ]
+            },
+            {
+              "label": "nodular granulomas",
+              "children": [
+                {
+                  "label": "1⁄4–1 disc diameter",
+                  "children": [
+                    {
+                      "label": "linear strands (string of pearls)"
+                    }
+                  ]
+                },
+                {
+                  "label": "optic nerve"
+                },
+                {
+                  "label": "retina"
+                },
+                {
+                  "label": "choroid"
+                }
+              ]
+            },
+            {
+              "label": "perivascular sheathing",
+              "children": [
+                {
+                  "label": "linear or segmental periphlebitis"
+                },
+                {
+                  "label": "irregular nodular granulomas along venules",
+                  "children": [
+                    {
+                      "label": "candle-wax drippings (taches de bougie)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "occlusive retinal vascular disease",
+              "children": [
+                {
+                  "label": "branch retinal vein occlusion>central retinal vein occlusion"
+                },
+                {
+                  "label": "peripheral retinal capillary nonperfusion"
+                },
+                {
+                  "label": "retinal neovascularization"
+                },
+                {
+                  "label": "vitreous hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "CME"
+            },
+            {
+              "label": "optic disc edema without granulomatous invasion of the optic nerve",
+              "children": [
+                {
+                  "label": "in patients with papilledema and neurosarcoidosis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.17. Panuveitis (I) - Sarcoidosis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 364,
+      "connector_rejected": 61,
+      "connector_edges": 214,
+      "connector_width": 0.709,
+      "text_labels": 183,
+      "tree_nodes": 183,
+      "component_roots": 10,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.5879,
+      "root_font_size": 3.014,
+      "warnings": []
+    }
+  }
+}

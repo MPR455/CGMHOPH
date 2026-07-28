@@ -1,0 +1,480 @@
+{
+  "label": "10.4.3. Open Angle Glaucoma (III): Secondary Open-Angle Glaucoma (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Pigment Dispersion Syndrome/Pigmentary Glaucoma",
+      "children": [
+        {
+          "label": "pigment deposition on",
+          "children": [
+            {
+              "label": "corneal endothelium in a vertical spindle pattern (Krukenberg spindle)",
+              "children": [
+                {
+                  "label": "caused by aqueous convection currents",
+                  "children": [
+                    {
+                      "label": "phagocytosis of pigment by corneal endothelium"
+                    }
+                  ]
+                },
+                {
+                  "label": "presence of Krukenberg spindle is not absolutely necessary to make the diagnosis of pigment dispersion syndrome"
+                },
+                {
+                  "label": "may occur in other diseases, such as exfoliation syndrome"
+                }
+              ]
+            },
+            {
+              "label": "trabecular meshwork",
+              "children": [
+                {
+                  "label": "PXF can also show TM pigmentation"
+                },
+                {
+                  "label": "homogeneous, densely pigmented trabecular meshwork"
+                },
+                {
+                  "label": "Sampaolesi line",
+                  "children": [
+                    {
+                      "label": "similar to PXF"
+                    },
+                    {
+                      "label": "speckled pigment at or anterior to the Schwalbe line"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lens capsule near the equator of the lens",
+              "children": [
+                {
+                  "label": "Zentmayer line"
+                }
+              ]
+            },
+            {
+              "label": "zonular fibers"
+            },
+            {
+              "label": "anterior hyaloid"
+            }
+          ]
+        },
+        {
+          "label": "in PXF TI defects are at the pupillary margin"
+        },
+        {
+          "label": "spokelike transillumination defects in the iris midperiphery",
+          "children": [
+            {
+              "label": "in front of the lens zonular fibers"
+            }
+          ]
+        },
+        {
+          "label": "posterior bowing of the iris",
+          "children": [
+            {
+              "label": "“reverse pupillary block” configuration"
+            },
+            {
+              "label": "results in greater contact of the zonular fibers with the posterior iris surface"
+            }
+          ]
+        },
+        {
+          "label": "PXF presents later (>50 years)"
+        },
+        {
+          "label": "pigmentary glaucoma",
+          "children": [
+            {
+              "label": "risk of glaucoma is ≈25%–50%"
+            },
+            {
+              "label": "white males; 20-50 years"
+            },
+            {
+              "label": "myopia"
+            },
+            {
+              "label": "wide fluctuations in IOP",
+              "children": [
+                {
+                  "label": "can exceed 50 mm Hg in untreated eyes"
+                },
+                {
+                  "label": "high IOP occurs when pigment is released into the aqueous humor, such as following exercise or pupillary dilation"
+                }
+              ]
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "similar to PXF"
+                },
+                {
+                  "label": "intermittent visual blurring"
+                },
+                {
+                  "label": "halos"
+                },
+                {
+                  "label": "ocular pain"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "laser iridotomy",
+              "children": [
+                {
+                  "label": "effectiveness has not been established"
+                }
+              ]
+            },
+            {
+              "label": "medical treatment",
+              "children": [
+                {
+                  "label": "often successful in reducing the IOP"
+                }
+              ]
+            },
+            {
+              "label": "laser trabeculoplasty",
+              "children": [
+                {
+                  "label": "effect may be short-lived"
+                },
+                {
+                  "label": "heavy trabecular pigmentation allows increased absorption of laser energy, in turn allowing lower energy levels for trabeculoplasty"
+                },
+                {
+                  "label": "spikes in IOP may be seen more frequently with higher energy settings"
+                }
+              ]
+            },
+            {
+              "label": "filtering surgery",
+              "children": [
+                {
+                  "label": "usually successful"
+                },
+                {
+                  "label": "young patients with myopia may be at increased risk of hypotony maculopathy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "natural course",
+          "children": [
+            {
+              "label": "with age, the signs and symptoms of pigment dispersion may decrease",
+              "children": [
+                {
+                  "label": "normal growth of the lens",
+                  "children": [
+                    {
+                      "label": "increase in physiologic pupillary block, moving the iris forward"
+                    }
+                  ]
+                },
+                {
+                  "label": "the deposited pigment may fade"
+                },
+                {
+                  "label": "transillumination defects may also gradually disappear"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Exfoliation Syndrome (PXF)",
+      "children": [
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "LOXL1 mutation",
+              "children": [
+                {
+                  "label": "in nearly all cases of exfoliation syndrome/ exfoliation glaucoma"
+                },
+                {
+                  "label": "also common in the population without glaucoma",
+                  "children": [
+                    {
+                      "label": "PXF is multifactorial"
+                    }
+                  ]
+                },
+                {
+                  "label": "causes reduced/abnormal synthesis of elastin fibers",
+                  "children": [
+                    {
+                      "label": "elastin is an important component of the lamina cribrosa",
+                      "children": [
+                        {
+                          "label": "PXF may increase the susceptibility of the optic nerve to injury",
+                          "children": [
+                            {
+                              "label": "PXF is a risk factor for the conversion of OHT to glaucoma and for progression of OAG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "fibrillar material in and on the lens epithelium and capsule, pupillary margin, ciliary epithelium, iris pigment epithelium, iris stroma, iris blood vessels, and subconjunctival tissue (and other parts of the body)"
+            }
+          ]
+        },
+        {
+          "label": "unilateral or bilateral",
+          "children": [
+            {
+              "label": "often the disorder is clinically apparent in only 1 eye",
+              "children": [
+                {
+                  "label": "the uninvolved fellow eye often develops the syndrome at a later time",
+                  "children": [
+                    {
+                      "label": "varying degrees of asymmetry"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "strongly age-related",
+          "children": [
+            {
+              "label": "most commonly >70 years"
+            },
+            {
+              "label": "rarely seen <50 years"
+            }
+          ]
+        },
+        {
+          "label": "deposition of a distinctive fibrillar material in the anterior segment of the eye",
+          "children": [
+            {
+              "label": "deposits occur in a targetlike pattern on the anterior lens capsule",
+              "children": [
+                {
+                  "label": "best seen after pupillary dilation"
+                },
+                {
+                  "label": "central area and a peripheral zone of deposition are usually separated by an intermediate clear area"
+                }
+              ]
+            },
+            {
+              "label": "material is often visible on",
+              "children": [
+                {
+                  "label": "iris"
+                },
+                {
+                  "label": "edge of the pupil"
+                },
+                {
+                  "label": "zonular fibers"
+                },
+                {
+                  "label": "ciliary processes"
+                },
+                {
+                  "label": "inferior anterior chamber angle"
+                },
+                {
+                  "label": "corneal endothelium"
+                },
+                {
+                  "label": "anterior hyaloid",
+                  "children": [
+                    {
+                      "label": "in aphakic individuals"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Sampaolesi line",
+          "children": [
+            {
+              "label": "scalloped inferior pigmented deposition anterior to the Schwalbe line"
+            }
+          ]
+        },
+        {
+          "label": "peripupillary atrophy",
+          "children": [
+            {
+              "label": "transillumination of the pupillary margin"
+            },
+            {
+              "label": "transillumination defects over the entire sphincter region"
+            }
+          ]
+        },
+        {
+          "label": "zonular weakness",
+          "children": [
+            {
+              "label": "phacodonesis"
+            },
+            {
+              "label": "iridodonesis"
+            },
+            {
+              "label": "zonular dehiscence, vitreous loss, and lens dislocation during and after cataract surgery"
+            },
+            {
+              "label": "anterior movement of the lens–iris interface",
+              "children": [
+                {
+                  "label": "narrow anterior chamber angle"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "trabecular meshwork",
+          "children": [
+            {
+              "label": "heavily pigmented with brown pigment",
+              "children": [
+                {
+                  "label": "variegated fashion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fine pigment deposits on the iris surface",
+          "children": [
+            {
+              "label": "+- Krukenberg spindle"
+            }
+          ]
+        },
+        {
+          "label": "pupil often dilates poorly"
+        },
+        {
+          "label": "iris angiography",
+          "children": [
+            {
+              "label": "abnormalities of the iris vessels with fluorescein leakage"
+            }
+          ]
+        },
+        {
+          "label": "exfoliation glaucoma",
+          "children": [
+            {
+              "label": "fibrillar material obstructs flow through and causes damage to the trabecular meshwork or the uveoscleral pathway"
+            },
+            {
+              "label": "odds of PXF leading to glaucoma",
+              "children": [
+                {
+                  "label": "≤40% over a 10-year period"
+                }
+              ]
+            },
+            {
+              "label": "in Scandinavian countries, PXF accounts for >50% of OAG"
+            },
+            {
+              "label": "exfoliation glaucoma differs from POAG in",
+              "children": [
+                {
+                  "label": "unilateral presentation"
+                },
+                {
+                  "label": "greater pigmentation of the trabecular meshwork"
+                },
+                {
+                  "label": "higher IOP"
+                },
+                {
+                  "label": "greater diurnal fluctuations"
+                },
+                {
+                  "label": "overall worse prognosis"
+                }
+              ]
+            },
+            {
+              "label": "laser trabeculoplasty",
+              "children": [
+                {
+                  "label": "can be very effective"
+                },
+                {
+                  "label": "response in exfoliation glaucoma may not last as long as that in POAG"
+                }
+              ]
+            },
+            {
+              "label": "LOXL1 mutation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.4.3. Open Angle Glaucoma (III) - Secondary Open-Angle Glaucoma (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 121,
+      "connector_rejected": 7,
+      "connector_edges": 114,
+      "connector_width": 0.716,
+      "text_labels": 121,
+      "tree_nodes": 121,
+      "component_roots": 2,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.9421,
+      "root_font_size": 3.042,
+      "warnings": []
+    }
+  }
+}

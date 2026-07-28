@@ -1,0 +1,199 @@
+---
+title: "6.12.4. Special Forms of Strabismus (IV)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.12.4. Special Forms of Strabismus (IV).pdf"
+---
+
+# 6.12.4. Special Forms of Strabismus (IV)
+
+## Hierarchy
+
+- Chronic Progressive External Ophthalmoplegia (CPEO)
+  - clinical features
+    - rare
+      - mitochondrial cytopathy
+    - heredity
+      - sporadic
+      - familial
+    - begins in childhood
+    - ptosis
+    - constricted visual fields
+      - slowly progresses to total paralysis of the eyelids and EOMs
+    - electrodiagnostic abnormalities
+    - diagnosis
+      - specific alterations of mitochondrial DNA
+        - muscle biopsy show ragged red fibers
+    - Kearns-Sayre syndrome
+      - retinal pigmentary changes
+      - CPEO
+      - cardiomyopathy (especially heart block)
+        - life-threatening arrhythmias can occur
+  - management
+    - cardiac status evaluation
+      - true pigmentary retinal dystrophy is usually absent
+    - treatment options for the ocular motility disorder are limited
+      - high rate of long-term undercorrections
+    - cautious surgical elevation (suspension) of the upper eyelids can lessen a severe chin-up head posture
+- strabismus associated with other ocular surgery
+  - refractive surgery
+    - to create monovision
+      - can result in dissimilar sensory input to the 2 eyes
+        - can be sufficient to cause disruption of fusion in predisposed patients
+  - surgery for retinal detachment
+    - scarring from dissection of the EOMs and the application of devices (scleral buckle)
+    - corrective surgery can be extremely difficult, especially if these elements must be removed
+  - macular translocation surgery can cause torsional diplopia
+  - glaucoma drainage devices
+    - may require removal or relocation or substitution of the device
+  - retrobulbar injections
+    - direct injury to the muscle
+    - toxic effect of the injected material
+    - vertical rectus muscles are most vulnerable
+  - injection of botulinum toxin into eyelids
+    - transient paralyzing effect
+  - pterygium removal or endoscopic sinus surgery
+    - laceration or inadvertent excision of an entire section of the medial rectus muscle
+- superior oblique myokymia
+  - rare
+  - etiology
+    - aberrant regeneration of fourth cranial nerve fibers
+    - vascular compression of the nerve
+  - clinical features
+    - otherwise neurologically normal
+      - abnormal torsional movements of the eye that cause diplopia and monocular oscillopsia
+    - recurrences may persist indefinitely
+  - management
+    - treatment is not necessary if the patient is not disturbed by the visual symptoms
+    - first-line treatment
+      - systemic medications
+        - carbamazepine
+        - phenytoin
+        - propranolol
+        - baclofen
+        - gabapentin
+        - topical timolol
+        - some patients will benefit, at least in the short term
+    - surgical treatment
+      - disconnection of superior oblique muscle from globe by generous tenectomy
+        - results in a superior oblique palsy
+          - some surgeons perform simultaneous inferior oblique muscle weakening
+- myasthenia gravis
+  - introduction
+    - pathogenesis
+      - antibodies directed against acetylcholine receptors
+    - transient neonatal form
+      - usually subsides rapidly
+        - caused by the placental transfer of acetylcholine receptor antibodies of mothers with myasthenia gravis
+    - onset in childhood is uncommon
+    - ± purely ocular
+    - ± part of a systemic disorder
+      - less common in childhood-onset than in the adult-onset form
+    - myasthenia gravis foundation of america, inc
+  - clinical features
+    - weakening of EOMs, including levator muscle
+      - most cases (90%) exhibit both ptosis and limited ocular rotations
+    - ocular signs can resemble any unilateral or bilateral ophthalmoplegia
+    - affected muscles fatigue rapidly
+      - ptosis typically worsens when the patient looks upward x 30 seconds
+      - sleep test
+        - patient rests in a dark room with the eyelids closed x 20–30 minutes
+          - ptosis often subsequently resolves
+      - external application of ice over the involved eyelids x 2–5 minutes
+        - improves function of levator palpebrae superioris and other affected EOMs
+    - Cogan lid-twitch sign
+      - highly suggestive
+        - overshoot of the eyelid when the patient looks straight ahead after looking down for several minutes
+    - pharmacologic tests
+      - edrophonium test
+      - neostigmine test
+        - effect of this agent begins later than that of edrophonium and is prolonged
+        - allows more time to measure changes in alignment
+    - electromyography
+      - decreased electrical activity of involved muscles after prolonged voluntary innervations
+      - single-fiber electromyography
+        - increased activity (including faster saccadic velocity) after administration of edrophonium or neostigmine
+    - antibodies
+      - circulating anti–acetylcholine receptor antibody
+      - anti–muscle-specific kinase antibody
+      - negative test result does not rule out MG
+  - differential diagnosis of ptosis and extraocular muscle involvement
+    - thyroid eye disease
+    - chronic progressive external ophthalmoplegia
+    - myasthenia gravis
+  - management
+    - adults
+      - ocular manifestations are frequently resistant to usual systemic myasthenia treatment
+    - children
+      - often successfully managed with pyridostigmine alone
+    - ptosis occasionally requires upper eyelid surgery
+      - in adults and children in whom the ocular deviation has stabilized, standard eye muscle surgery can help restore binocular function in at least some gaze positions
+- ocular motor apraxia
+  - introduction
+    - "saccadic initiation failure"
+    - rare
+      - supranuclear disorder
+    - etiology
+      - congenital form
+        - ± familial
+          - most commonly autosomal dominant
+      - premature birth
+      - developmental delay
+      - bilateral lesions of the frontoparietal cortex
+      - agenesis of the corpus callosum
+      - hydrocephalus
+      - Joubert syndrome
+        - abnormal eye movements
+        - developmental delay
+        - microcephaly
+        - hypoplasia of the cerebellar vermis
+        - type 3 Gaucher disease
+          - retinal dysplasia
+      - ataxia-telangiectasia
+      - mass lesions of the cerebellum that compress the rostral part of the brainstem
+  - clinical features
+    - normal voluntary horizontal saccades cannot be generated
+    - changes in horizontal fixation are accomplished by a head thrust that overshoots the target
+      - initial thrust serves to break fixation
+        - followed by a rotation of the head back in the opposite direction once fixation is established
+        - • associated blink
+      - head thrust may improve in late childhood
+    - horizontal vestibular and optokinetic nystagmus are impaired
+      - vertical saccades and random eye movements are intact
+  - differential diagnosis (acquired type)
+    - conditions that affect the generation of voluntary saccades
+      - metabolic and degenerative diseases
+        - Huntington chorea
+  - management
+    - neurodevelopmental evaluation and imaging of the brain are advisable
+- esotropia and hypotropia associated with high myopia
+  - highly myopic patients
+  - pathogenesis
+    - inferior slippage of the lateral rectus pulley
+      - elongated globe herniates between the superior and lateral rectus muscles
+        - stretching and dehiscence of intermuscular septum between these 2 muscles
+    - medial displacement of the inferior rectus
+    - medial rectus is often tight
+  - progressively worsening hypotropia and esotropia
+  - treatment
+    - joining of superior and lateral rectus muscles, usually with a nonabsorbable suture, to reposition the globe
+    - ± recession of medial rectus if muscle is tight
+- internuclear ophthalmoplegia (INO)
+  - medial longitudinal fasciculus (MLF)
+    - integrates the nuclei of the cranial nerves governing ocular motility
+    - has major connections with vestibular nuclei
+    - intact MLF is essential for production of conjugate eye movements
+  - etiology
+    - demyelinating disease
+    - cerebrovascular accidents
+    - brain tumors
+  - clinical features
+    - eye ipsilateral to the MLF lesion adducts slowly and incompletely or not at all
+    - both eyes adduct normally on convergence
+    - abducting eye exhibits a characteristic horizontal jerk nystagmus
+    - exotropia
+    - ± skew deviation
+    - management
+      - persistent exotropia
+        - medial rectus muscle resection + unilateral or contralateral lateral rectus muscle recession
+          - can help eliminate diplopia, particularly in bilateral cases

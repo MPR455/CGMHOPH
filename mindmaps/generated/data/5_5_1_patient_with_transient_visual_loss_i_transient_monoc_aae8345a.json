@@ -1,0 +1,646 @@
+{
+  "label": "5.5.1. Patient With Transient Visual Loss (I): Transient Monocular Visual Loss (TMVL) (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Causes of transient monocular visual loss",
+      "children": [
+        {
+          "label": "Nonvascular ocular causes",
+          "children": [
+            {
+              "label": "tear film abnormalities",
+              "children": [
+                {
+                  "label": "improves with a blink or application of a tear supplement"
+                },
+                {
+                  "label": "provoke blepharospasm",
+                  "children": [
+                    {
+                      "label": "moments of vision loss"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "opacities, inflammation, or blood in the anterior chamber or the vitreous",
+              "children": [
+                {
+                  "label": "recurrent hyphema"
+                },
+                {
+                  "label": "UGH syndrome"
+                }
+              ]
+            },
+            {
+              "label": "intermittent angle-closure glaucoma",
+              "children": [
+                {
+                  "label": "halos and pain"
+                },
+                {
+                  "label": "glaukomflecken"
+                }
+              ]
+            },
+            {
+              "label": "macular disease",
+              "children": [
+                {
+                  "label": "prolonged visual recovery"
+                },
+                {
+                  "label": "persistent afterimages following exposure to bright light"
+                },
+                {
+                  "label": "abnormal photostress recovery test"
+                },
+                {
+                  "label": "diseases",
+                  "children": [
+                    {
+                      "label": "detachment"
+                    },
+                    {
+                      "label": "age-related macular degeneration"
+                    },
+                    {
+                      "label": "ocular ischemia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "optic nerve disorders",
+              "children": [
+                {
+                  "label": "well-developed papilledema"
+                },
+                {
+                  "label": "drusen",
+                  "children": [
+                    {
+                      "label": "grayouts or blackouts of vision",
+                      "children": [
+                        {
+                          "label": "brief",
+                          "children": [
+                            {
+                              "label": "<10 seconds"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "clears completely"
+                        },
+                        {
+                          "label": "precipitated by",
+                          "children": [
+                            {
+                              "label": "changes in posture"
+                            },
+                            {
+                              "label": "spontaneous"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "may involve 1 eye at a time"
+                        },
+                        {
+                          "label": "in idiopathic intracranial hypertension, obscurations are not prognostic of optic nerve damage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "coloboma"
+                }
+              ]
+            },
+            {
+              "label": "references"
+            }
+          ]
+        },
+        {
+          "label": "Vascular diseases",
+          "children": [
+            {
+              "label": "embolic"
+            },
+            {
+              "label": "carotid artery dissection"
+            },
+            {
+              "label": "vasculitis"
+            },
+            {
+              "label": "vasospasm"
+            },
+            {
+              "label": "systemic hypotension"
+            },
+            {
+              "label": "hyperviscosity, hypercoagulability"
+            },
+            {
+              "label": "ocular hypoperfusion"
+            }
+          ]
+        },
+        {
+          "label": "Non-organic visual loss"
+        },
+        {
+          "label": "See Table 5-1"
+        }
+      ]
+    },
+    {
+      "label": "papilledema"
+    },
+    {
+      "label": "transient visual obscurations"
+    },
+    {
+      "label": "Introduction to transient visual loss",
+      "children": [
+        {
+          "label": "definition",
+          "children": [
+            {
+              "label": "sudden loss of visual function (partial or complete) in 1 or both eyes that lasts <24 hours"
+            }
+          ]
+        },
+        {
+          "label": "most common cause",
+          "children": [
+            {
+              "label": "transient monocular visual loss (TMVL)",
+              "children": [
+                {
+                  "label": "retinal ischemia due to carotid artery disease"
+                }
+              ]
+            },
+            {
+              "label": "transient binocular visual disturbance",
+              "children": [
+                {
+                  "label": "migraine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Monocular versus binocular visual loss",
+          "children": [
+            {
+              "label": "monocular loss",
+              "children": [
+                {
+                  "label": "prechiasmal problem"
+                }
+              ]
+            },
+            {
+              "label": "binocular loss",
+              "children": [
+                {
+                  "label": "chiasmal or retrochiasmal problem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Age",
+          "children": [
+            {
+              "label": "< 50 years",
+              "children": [
+                {
+                  "label": "migraine/vasospasm",
+                  "children": [
+                    {
+                      "label": "most common cause",
+                      "children": [
+                        {
+                          "label": "transient homonymous hemianopia is frequently misperceived by the patient as a monocular visual loss in the eye with the temporal field deficit"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "eclampsia",
+                  "children": [
+                    {
+                      "label": "important exception in pregnant women",
+                      "children": [
+                        {
+                          "label": "within days of delivery"
+                        },
+                        {
+                          "label": "transient visual loss may be a harbinger of more serious and permanent visual loss"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "50 years",
+              "children": [
+                {
+                  "label": "cerebrovascular disease"
+                },
+                {
+                  "label": "giant cell arteritis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Duration of visual loss",
+          "children": [
+            {
+              "label": "only seconds",
+              "children": [
+                {
+                  "label": "optic disc drusen"
+                },
+                {
+                  "label": "precipitated by a change in posture"
+                }
+              ]
+            },
+            {
+              "label": "< 15 minutes",
+              "children": [
+                {
+                  "label": "ipsilateral internal carotid artery stenosis",
+                  "children": [
+                    {
+                      "label": "retinal emboli",
+                      "children": [
+                        {
+                          "label": "<1 hour",
+                          "children": [
+                            {
+                              "label": "usually resolves in 10–15 minutes"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "20–30 minutes",
+              "children": [
+                {
+                  "label": "scintillating scotoma of migraine (binocular)"
+                }
+              ]
+            },
+            {
+              "label": "seconds to an hour",
+              "children": [
+                {
+                  "label": "retinal artery vasospasm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pattern of visual loss and recovery",
+          "children": [
+            {
+              "label": "descending curtain in 1 eye"
+            },
+            {
+              "label": "tunnel-like contraction of vision"
+            },
+            {
+              "label": "sudden loss of vision",
+              "children": [
+                {
+                  "label": "retinal emboli"
+                }
+              ]
+            },
+            {
+              "label": "altitudinal visual loss",
+              "children": [
+                {
+                  "label": "carotid artery disease"
+                },
+                {
+                  "label": "vasospasm"
+                }
+              ]
+            },
+            {
+              "label": "visual loss or disturbance precipitated by exercise",
+              "children": [
+                {
+                  "label": "vasospasm"
+                },
+                {
+                  "label": "demyelinating disease",
+                  "children": [
+                    {
+                      "label": "Uhthoff phenomenon",
+                      "children": [
+                        {
+                          "label": "transient visual blurring with physical activity or elevation in body temperature"
+                        },
+                        {
+                          "label": "in patients with a current or previous episode of optic neuritis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "binocular visual disturbance with geometric quality",
+              "children": [
+                {
+                  "label": "occipital lobe dysfunction",
+                  "children": [
+                    {
+                      "label": "migraine"
+                    },
+                    {
+                      "label": "ischemia"
+                    }
+                  ]
+                },
+                {
+                  "label": "hexagonal “chicken wire” pattern",
+                  "children": [
+                    {
+                      "label": "seizure"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "whiteout of vision in both eyes simultaneously",
+              "children": [
+                {
+                  "label": "occipital lobe ischemia"
+                }
+              ]
+            },
+            {
+              "label": "complete bilateral visual loss",
+              "children": [
+                {
+                  "label": "gradual constriction (ie, “closing in”) of peripheral vision without positive visual phenomena"
+                }
+              ]
+            },
+            {
+              "label": "homonymous hemianopia",
+              "children": [
+                {
+                  "label": "posterior circulation ischemia",
+                  "children": [
+                    {
+                      "label": "in association with brainstem and cerebellar symptoms"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Associated symptoms and additional signs",
+          "children": [
+            {
+              "label": "positive visual phenomena (+ headache)",
+              "children": [
+                {
+                  "label": "migraine"
+                }
+              ]
+            },
+            {
+              "label": "persistent headaches",
+              "children": [
+                {
+                  "label": "increased intracranial pressure"
+                }
+              ]
+            },
+            {
+              "label": "intracranial noises",
+              "children": [
+                {
+                  "label": "increased intracranial pressure"
+                }
+              ]
+            },
+            {
+              "label": "elderly patient with headaches, weight loss, fever, malaise, and scalp tenderness",
+              "children": [
+                {
+                  "label": "giant cell arteritis"
+                }
+              ]
+            },
+            {
+              "label": "loss of consciousness, dizziness, diplopia, dysarthria, or focal weakness",
+              "children": [
+                {
+                  "label": "global perfusion problems",
+                  "children": [
+                    {
+                      "label": "often involving the brainstem or cortex"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "skin or joint changes",
+              "children": [
+                {
+                  "label": "collagen vascular disease"
+                }
+              ]
+            },
+            {
+              "label": "Raynaud phenomenon",
+              "children": [
+                {
+                  "label": "collagen vascular disease"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Examination for transient visual loss",
+      "children": [
+        {
+          "label": "thorough examination is crucial",
+          "children": [
+            {
+              "label": "to rule out ocular and orbital causes of transient visual loss"
+            },
+            {
+              "label": "to assess the afferent visual function"
+            }
+          ]
+        },
+        {
+          "label": "Examination should include",
+          "children": [
+            {
+              "label": "testing for best-corrected visual acuity",
+              "children": [
+                {
+                  "label": "to look for retinovascular clues such as emboli, cotton-wool spots, vascular attenuation, or hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "visual fields"
+            },
+            {
+              "label": "color vision"
+            },
+            {
+              "label": "relative afferent pupillary defect"
+            },
+            {
+              "label": "dilated ophthalmoscopy"
+            },
+            {
+              "label": "photostress recovery test",
+              "children": [
+                {
+                  "label": "positive photostress recovery test may indicate macular ischemia"
+                },
+                {
+                  "label": "to differentiate vision loss caused by macular lesion or ocular ischemia from optic neuropathy",
+                  "children": [
+                    {
+                      "label": "maculopathy",
+                      "children": [
+                        {
+                          "label": "prolonged recovery times",
+                          "children": [
+                            {
+                              "label": "≥ 90–180 seconds"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "severe carotid artery stenosis"
+                    },
+                    {
+                      "label": "optic neuropathy",
+                      "children": [
+                        {
+                          "label": "normal recovery times",
+                          "children": [
+                            {
+                              "label": "<30 seconds"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Orbital Causes",
+      "children": [
+        {
+          "label": "gaze-evoked visual loss",
+          "children": [
+            {
+              "label": "induced by moving the eyes toward a certain direction, particularly downward",
+              "children": [
+                {
+                  "label": "ischemia from positional vascular obstruction"
+                }
+              ]
+            },
+            {
+              "label": "suggests an orbital mass",
+              "children": [
+                {
+                  "label": "hemangioma"
+                },
+                {
+                  "label": "meningioma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "other orbital findings",
+          "children": [
+            {
+              "label": "proptosis"
+            },
+            {
+              "label": "limited ocular motility"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.5.1. Patient With Transient Visual Loss (I) - Transient Monocular Visual Loss (TMVL) (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 298,
+      "connector_rejected": 0,
+      "connector_edges": 202,
+      "connector_width": 0.771,
+      "text_labels": 159,
+      "tree_nodes": 159,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6779,
+      "root_font_size": 2.89,
+      "warnings": []
+    }
+  }
+}

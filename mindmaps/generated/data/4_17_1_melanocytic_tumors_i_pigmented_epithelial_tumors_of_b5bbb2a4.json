@@ -1,0 +1,208 @@
+{
+  "label": "4.17.1. Melanocytic Tumors (I): Pigmented epithelial tumors of uvea & retina",
+  "root": true,
+  "children": [
+    {
+      "label": "Adenoma/adenocarcinoma",
+      "children": [
+        {
+          "label": "ciliary epithelium",
+          "children": [
+            {
+              "label": "pigmented"
+            },
+            {
+              "label": "nonpigmened"
+            },
+            {
+              "label": "indistinguishable from ciliary body melanoma"
+            }
+          ]
+        },
+        {
+          "label": "RPE",
+          "children": [
+            {
+              "label": "adenoma",
+              "children": [
+                {
+                  "label": "rare"
+                },
+                {
+                  "label": "deeply melanotic"
+                },
+                {
+                  "label": "enlargement",
+                  "children": [
+                    {
+                      "label": "rare"
+                    }
+                  ]
+                },
+                {
+                  "label": "malignant change",
+                  "children": [
+                    {
+                      "label": "seldom"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "adenocarcinoma",
+              "children": [
+                {
+                  "label": "rare"
+                },
+                {
+                  "label": "minimal metastatic potential"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Fuchs adenoma",
+          "children": [
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "clinically inapparent"
+                },
+                {
+                  "label": "arise from ciliary crest"
+                },
+                {
+                  "label": "glistening white"
+                },
+                {
+                  "label": "irregular"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "benign proliferation of nonpigmented ciliary epithelium"
+                },
+                {
+                  "label": "basement membrane-like material"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Combined hamartoma",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "at the disc margin",
+          "children": [
+            {
+              "label": "rarely in the periphery"
+            }
+          ]
+        },
+        {
+          "label": "darkly pigmented"
+        },
+        {
+          "label": "minimally elevated"
+        },
+        {
+          "label": "retinal traction"
+        },
+        {
+          "label": "tortuous retinal vessels"
+        },
+        {
+          "label": "exudative complications",
+          "children": [
+            {
+              "label": "hard exudates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Acquired hyperplasia",
+      "children": [
+        {
+          "label": "tissue of origin",
+          "children": [
+            {
+              "label": "pigmented ciliary epithelium",
+              "children": [
+                {
+                  "label": "clinically inapparent"
+                },
+                {
+                  "label": "may mimic ciliary body melanoma"
+                }
+              ]
+            },
+            {
+              "label": "RPE",
+              "children": [
+                {
+                  "label": "adenomatous hyperplasia",
+                  "children": [
+                    {
+                      "label": "my mimic choroidal melanoma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "inflammation"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "observation to document stability"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.17.1. Melanocytic Tumors (I) - Pigmented epithelial tumors of uvea & retina.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 92,
+      "connector_rejected": 4,
+      "connector_edges": 66,
+      "connector_width": 2.105,
+      "text_labels": 49,
+      "tree_nodes": 49,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7174,
+      "root_font_size": 7.018,
+      "warnings": []
+    }
+  }
+}

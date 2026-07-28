@@ -1,0 +1,462 @@
+{
+  "label": "6.17.1. Eyelid Disorders (I): Congenital Eyelid Disorders (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "± isolated"
+        },
+        {
+          "label": "± associated with orbital malformations"
+        },
+        {
+          "label": "± part of a syndrome",
+          "children": [
+            {
+              "label": "evaluation of eyelids, ocular adnexa, and interpupillary distance is an essential part of clinical evaluation of a dysmorphic infant"
+            }
+          ]
+        },
+        {
+          "label": "morphologic measurements of the eyelids and orbit",
+          "children": [
+            {
+              "label": "transparent rulers or calipers"
+            },
+            {
+              "label": "compared with normal reference measures"
+            },
+            {
+              "label": "Farkas canthal index",
+              "children": [
+                {
+                  "label": "hypotelorism",
+                  "children": [
+                    {
+                      "label": "<38"
+                    }
+                  ]
+                },
+                {
+                  "label": "hypertelorism",
+                  "children": [
+                    {
+                      "label": ".>42"
+                    }
+                  ]
+                },
+                {
+                  "label": "ratio of inner canthal distance to outer canthal distance × 10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cryptophthalmos",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "forms",
+          "children": [
+            {
+              "label": "isolated"
+            },
+            {
+              "label": "Fraser syndrome",
+              "children": [
+                {
+                  "label": "autosomal recessive",
+                  "children": [
+                    {
+                      "label": "mutations in the FRAS1 gene",
+                      "children": [
+                        {
+                          "label": "4q21"
+                        },
+                        {
+                          "label": "encodes a putative extracellular matrix protein"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "acrofacial malformations",
+                  "children": [
+                    {
+                      "label": "partial syndactyly"
+                    }
+                  ]
+                },
+                {
+                  "label": "genitourinary anomalies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "skin passes uninterrupted from the forehead, over the eye, to the cheek",
+          "children": [
+            {
+              "label": "blends in with the cornea, which is usually malformed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Telecanthus",
+      "children": [
+        {
+          "label": "greater-than-normal distance between the inner canthi"
+        },
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "primary",
+              "children": [
+                {
+                  "label": "interpupillary distance is normal"
+                }
+              ]
+            },
+            {
+              "label": "secondary",
+              "children": [
+                {
+                  "label": "interpupillary distance is greater than normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "common in many syndromes"
+        }
+      ]
+    },
+    {
+      "label": "Congenital Tarsal Kink",
+      "children": [
+        {
+          "label": "tarsal plate of upper eyelid is folded at birth",
+          "children": [
+            {
+              "label": "entropion"
+            },
+            {
+              "label": "cornea may be exposed",
+              "children": [
+                {
+                  "label": "ulceration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "managment",
+          "children": [
+            {
+              "label": "minor defects",
+              "children": [
+                {
+                  "label": "manually unfolding the tarsus"
+                },
+                {
+                  "label": "taping the eyelid shut with a pressure dressing for 1–2 days"
+                }
+              ]
+            },
+            {
+              "label": "more severe defects",
+              "children": [
+                {
+                  "label": "surgical incision of the tarsal plate"
+                },
+                {
+                  "label": "excision of a V-shaped wedge from the inner surface"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Dystopia Canthorum",
+      "children": [
+        {
+          "label": "lateral displacement of both the inner canthi and the lacrimal puncta",
+          "children": [
+            {
+              "label": "an imaginary vertical line connecting upper and lower puncta crosses the cornea"
+            }
+          ]
+        },
+        {
+          "label": "Waardenburg syndrome type 1"
+        }
+      ]
+    },
+    {
+      "label": "Epiblepharon",
+      "children": [
+        {
+          "label": "horizontal fold of skin adjacent to either the upper or lower eyelid",
+          "children": [
+            {
+              "label": "most commonly, the lower eyelid"
+            }
+          ]
+        },
+        {
+          "label": "may turn the lashes inward"
+        },
+        {
+          "label": "cornea often tolerates this condition surprisingly well"
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "often resolves spontaneously"
+            },
+            {
+              "label": "ocular lubricants"
+            },
+            {
+              "label": "surgical repair",
+              "children": [
+                {
+                  "label": "cases that do not resolve or that cause chronic corneal irritation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ablepharon",
+      "children": [
+        {
+          "label": "absence or severe hypoplasia of the eyelids"
+        },
+        {
+          "label": "very rare"
+        },
+        {
+          "label": "at high risk for exposure keratopathy"
+        },
+        {
+          "label": "ablepharon macrostomia syndrome"
+        }
+      ]
+    },
+    {
+      "label": "Congenital Entropion",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "eyelid inversion is present at birth"
+        },
+        {
+          "label": "does not resolve spontaneously"
+        },
+        {
+          "label": "surgery",
+          "children": [
+            {
+              "label": "when corneal integrity is threatened"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congenital Ectropion",
+      "children": [
+        {
+          "label": "eversion of the eyelid margin",
+          "children": [
+            {
+              "label": "usually involves the lower eyelid"
+            }
+          ]
+        },
+        {
+          "label": "secondary to a vertical deficiency of the skin"
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "mild cases",
+              "children": [
+                {
+                  "label": "lateral tarsorrhaphy"
+                }
+              ]
+            },
+            {
+              "label": "severe cases",
+              "children": [
+                {
+                  "label": "skin flap or graft"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congenital Coloboma of the Eyelid",
+      "children": [
+        {
+          "label": "from a small notch to a defect encompassing the horizontal length of eyelid"
+        },
+        {
+          "label": "usually involves the upper eyelid"
+        },
+        {
+          "label": "eyelid may be fused to the globe"
+        },
+        {
+          "label": "unrelated to other ocular colobomas"
+        },
+        {
+          "label": "associations",
+          "children": [
+            {
+              "label": "medial upper eyelid",
+              "children": [
+                {
+                  "label": "isolated",
+                  "children": [
+                    {
+                      "label": "?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lower eyelid",
+              "children": [
+                {
+                  "label": "facial clefts (eg, Goldenhar syndrome)",
+                  "children": [
+                    {
+                      "label": "Goldenhar syndrome (oculoauriculovertbebral dysgenesis)",
+                      "children": [
+                        {
+                          "label": "Upper lid coloboma"
+                        },
+                        {
+                          "label": "Epibulbar dermoid"
+                        },
+                        {
+                          "label": "Preauricular skin tags"
+                        },
+                        {
+                          "label": "Vertebral anomalies"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "mandibulofacial dysostosis (Treacher Collins– Franceschetti syndrome)",
+                      "children": [
+                        {
+                          "label": "Lower lid coloboma"
+                        },
+                        {
+                          "label": "downward palpebral fissure"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "amniotic band syndrome"
+                },
+                {
+                  "label": "lacrimal deformities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "should be observed for exposure keratopathy"
+        },
+        {
+          "label": "surgical closure of the eyelid defect is required in most cases"
+        }
+      ]
+    },
+    {
+      "label": "Ankyloblepharon",
+      "children": [
+        {
+          "label": "fusion of part or all of the eyelid margins"
+        },
+        {
+          "label": "± dominantly inherited"
+        },
+        {
+          "label": "treatment is surgical"
+        },
+        {
+          "label": "ankyloblepharon filiforme adnatum",
+          "children": [
+            {
+              "label": "eyelid margins are connected by fine strands"
+            }
+          ]
+        },
+        {
+          "label": "Hay-Wells syndrome",
+          "children": [
+            {
+              "label": "ankyloblepharon–ectodermal dysplasia– clefting syndrome"
+            },
+            {
+              "label": "includes cleft lip or palate"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Ped ophthalmology/6.17.1. Eyelid Disorders (I) - Congenital Eyelid Disorders (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 109,
+      "connector_rejected": 3,
+      "connector_edges": 103,
+      "connector_width": 0.957,
+      "text_labels": 115,
+      "tree_nodes": 115,
+      "component_roots": 11,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.945,
+      "root_font_size": 4.066,
+      "warnings": []
+    }
+  }
+}

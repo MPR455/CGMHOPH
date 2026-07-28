@@ -1,0 +1,493 @@
+{
+  "label": "Nonneovascular AMD (III): Management",
+  "root": true,
+  "children": [
+    {
+      "label": "education & follow-up",
+      "children": [
+        {
+          "label": "educate high risk patients about symptoms of advanced AMD"
+        },
+        {
+          "label": "educate office staff to respond promptly to patients with new symptoms"
+        },
+        {
+          "label": "periodic examinations"
+        }
+      ]
+    },
+    {
+      "label": "Amsler grid",
+      "children": [
+        {
+          "label": "each eye tested individually with reading glasses and at reading distance"
+        },
+        {
+          "label": "online or smart-phone applications",
+          "children": [
+            {
+              "label": "allow instant uploading"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hyperacuity testing",
+      "children": [
+        {
+          "label": "Vernier acuity",
+          "children": [
+            {
+              "label": "ability to detect deviations in alignment of visual objects"
+            }
+          ]
+        },
+        {
+          "label": "Hyperacuity",
+          "children": [
+            {
+              "label": "ability to discern minute deviations on a line"
+            }
+          ]
+        },
+        {
+          "label": "preferential hyperacuity perimeter (PHP)",
+          "children": [
+            {
+              "label": "can detect recent-onset CNV in intermediate AMD patients",
+              "children": [
+                {
+                  "label": "high specificity (88%)"
+                },
+                {
+                  "label": "high sensitivity (82%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Shape-discrimination hyperacuity (SDH)",
+          "children": [
+            {
+              "label": "tests for discrimination of shapes",
+              "children": [
+                {
+                  "label": "perfect circle vs distorted circle"
+                }
+              ]
+            },
+            {
+              "label": "handheld SDH test can be implemented as a smartphone application"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "micronutrients",
+      "children": [
+        {
+          "label": "AREDS",
+          "children": [
+            {
+              "label": "formula",
+              "children": [
+                {
+                  "label": "vitamins C (500 mg)"
+                },
+                {
+                  "label": "vitamin E (400 IU)"
+                },
+                {
+                  "label": "beta carotene (15 mg)",
+                  "children": [
+                    {
+                      "label": "increases rate of lung cancer in current smokers"
+                    }
+                  ]
+                },
+                {
+                  "label": "micronutrient zinc (80 mg zinc oxide and 2 mg cupric oxide to prevent zinc-induced anemia)"
+                }
+              ]
+            },
+            {
+              "label": "participants",
+              "children": [
+                {
+                  "label": "patients with intermediate or advanced AMD",
+                  "children": [
+                    {
+                      "label": "intermediate (stage 3) AMD",
+                      "children": [
+                        {
+                          "label": "≥ 1 large druse (≥125 μm), extensive intermediate drusen (63–124 μm diameter), or nonsubfoveal GA"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "advanced (stage 4) AMD",
+                      "children": [
+                        {
+                          "label": "vision loss due to neovascular AMD or subfoveal GA in only 1 eye"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "results",
+              "children": [
+                {
+                  "label": "25% reduction for progression of intermediate or advanced AMD to more-advanced stages",
+                  "children": [
+                    {
+                      "label": "at 5 years",
+                      "children": [
+                        {
+                          "label": "at 10 years"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "19% reduction of moderate vision loss (≥3 lines of visual acuity)"
+                },
+                {
+                  "label": "44% of placebo recipients compared with 34% of the supplement recipients had advanced AMD (a 23% risk reduction)"
+                },
+                {
+                  "label": "no benefit in participants with no AMD or with only early-stage AMD (a few small drusen)"
+                },
+                {
+                  "label": "no increased mortality among patients taking the formula"
+                }
+              ]
+            },
+            {
+              "label": "4-point grading scale",
+              "children": [
+                {
+                  "label": "presence of ≥1 large (≥ 125-μm diameter) drusen (1 point)"
+                },
+                {
+                  "label": "presence of any pigment abnormalities (1 point)"
+                },
+                {
+                  "label": "for patients with no large drusen, presence of bilateral intermediate (63–124 μm) drusen (1 point)"
+                },
+                {
+                  "label": "presence of neovascular AMD (2 points)"
+                },
+                {
+                  "label": "development of advanced AMD (5- and 10-year risks)",
+                  "children": [
+                    {
+                      "label": "0 factors",
+                      "children": [
+                        {
+                          "label": "0.5%",
+                          "children": [
+                            {
+                              "label": "risk factors were totaled across both eyes to reach a number between 0 and 4"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "1%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "1 factor",
+                      "children": [
+                        {
+                          "label": "3%"
+                        },
+                        {
+                          "label": "7%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "2 factors",
+                      "children": [
+                        {
+                          "label": "12%"
+                        },
+                        {
+                          "label": "22%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "3 factors",
+                      "children": [
+                        {
+                          "label": "25%"
+                        },
+                        {
+                          "label": "50%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "4 factors",
+                      "children": [
+                        {
+                          "label": "50%"
+                        },
+                        {
+                          "label": "67%"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "AREDS group recommendations",
+              "children": [
+                {
+                  "label": "identify patients at high risk of AMD progression",
+                  "children": [
+                    {
+                      "label": "extensive intermediate drusen"
+                    },
+                    {
+                      "label": "≥1 large druse"
+                    },
+                    {
+                      "label": "noncentral geographic atrophy"
+                    },
+                    {
+                      "label": "advanced AMD in 1 eye"
+                    }
+                  ]
+                },
+                {
+                  "label": "consider supplementation with combined antioxidant & mineral",
+                  "children": [
+                    {
+                      "label": "avoid beta carotene in patients who smoke"
+                    }
+                  ]
+                },
+                {
+                  "label": "early AMD",
+                  "children": [
+                    {
+                      "label": "supplementation not shown to be beneficial"
+                    }
+                  ]
+                },
+                {
+                  "label": "no AMD but at high risk of AMD",
+                  "children": [
+                    {
+                      "label": "supplementation not tested"
+                    },
+                    {
+                      "label": "maintain balanced diet"
+                    },
+                    {
+                      "label": "avoid risk factors"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "AREDS 2",
+          "children": [
+            {
+              "label": "methods",
+              "children": [
+                {
+                  "label": "added omega-3 long-chain polyunsaturated fatty acids (LCPUFAs: docosahexaenoic acid [DHA] and eicosapentaenoic acid [EPA])"
+                },
+                {
+                  "label": "replaced beta carotene with xanthophylls (lutein and zeaxanthin)"
+                }
+              ]
+            },
+            {
+              "label": "results",
+              "children": [
+                {
+                  "label": "overall risk reduction similar to the original AREDS study"
+                },
+                {
+                  "label": "addition of LCPUFAs did not decrease the rate of progression to advanced AMD"
+                },
+                {
+                  "label": "lutein and zeaxanthin had similar effects to beta carotene, but without its increased risk for lung cancer in current and former smokers"
+                },
+                {
+                  "label": "confirmed 80 mg of zinc as an appropriate dose for AMD prophylaxis"
+                }
+              ]
+            },
+            {
+              "label": "formula",
+              "children": [
+                {
+                  "label": "vitamins C (500 mg)"
+                },
+                {
+                  "label": "vitamin E (400 IU)"
+                },
+                {
+                  "label": "lutein (10 mg)"
+                },
+                {
+                  "label": "zeaxanthin (2 mg)"
+                },
+                {
+                  "label": "zinc (80 mg)"
+                },
+                {
+                  "label": "micronutrient zinc (80 mg)"
+                }
+              ]
+            },
+            {
+              "label": "recommendation",
+              "children": [
+                {
+                  "label": "patients with stage 3 or 4 AMD are advised to take the AREDS2 supplement."
+                },
+                {
+                  "label": "intermediate (stage 3) AMD",
+                  "children": [
+                    {
+                      "label": "≥ 1 large druse (≥125 μm), extensive intermediate drusen (63–124 μm diameter), or nonsubfoveal GA"
+                    }
+                  ]
+                },
+                {
+                  "label": "advanced (stage 4) AMD",
+                  "children": [
+                    {
+                      "label": "vision loss due to neovascular AMD or subfoveal GA in only 1 eye"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "lifestyle changes",
+      "children": [
+        {
+          "label": "smoking cessation"
+        },
+        {
+          "label": "blood pressure control"
+        },
+        {
+          "label": "obesity reduction"
+        },
+        {
+          "label": "no studies have proven a relationship between UV light and AMD"
+        }
+      ]
+    },
+    {
+      "label": "experimental treatments",
+      "children": [
+        {
+          "label": "anecortave acetate",
+          "children": [
+            {
+              "label": "angiostatic steroid"
+            },
+            {
+              "label": "posterior sub-Tenon injection"
+            }
+          ]
+        },
+        {
+          "label": "ciliary neurotrophic factor",
+          "children": [
+            {
+              "label": "encapsulated cell intraocular implant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Disproven treatment approaches",
+      "children": [
+        {
+          "label": "macular laser photocoagulation",
+          "children": [
+            {
+              "label": "stimulates drusen resolution or reduction"
+            },
+            {
+              "label": "no associated change in the natural course of vision loss or CNV development"
+            }
+          ]
+        },
+        {
+          "label": "rheopheresis",
+          "children": [
+            {
+              "label": "extracorporeal blood filtration TO remove circulating macromolecules",
+              "children": [
+                {
+                  "label": "decreases blood & plasma viscosity"
+                }
+              ]
+            },
+            {
+              "label": "no benefit over sham treatment at 12 months"
+            }
+          ]
+        },
+        {
+          "label": "Lampalizumab (anti-factor D)",
+          "children": [
+            {
+              "label": "selectively inhibits activation of the alternative complement pathway"
+            },
+            {
+              "label": "not effective in preventing AMD progression"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Nonneovascular AMD (III) - Management.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 206,
+      "connector_rejected": 1,
+      "connector_edges": 144,
+      "connector_width": 0.646,
+      "text_labels": 124,
+      "tree_nodes": 124,
+      "component_roots": 7,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.699,
+      "root_font_size": 6.46,
+      "warnings": []
+    }
+  }
+}

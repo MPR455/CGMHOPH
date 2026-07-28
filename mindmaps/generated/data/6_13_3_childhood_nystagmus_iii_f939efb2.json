@@ -1,0 +1,688 @@
+{
+  "label": "6.13.3. Childhood Nystagmus (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "retinal dystrophies",
+      "children": [
+        {
+          "label": "congenital stationary night blindness"
+        }
+      ]
+    },
+    {
+      "label": "Acquired Nystagmus",
+      "children": [
+        {
+          "label": "Spasmus nutans",
+          "children": [
+            {
+              "label": "idiopathic"
+            },
+            {
+              "label": "triad",
+              "children": [
+                {
+                  "label": "small-amplitude, high-frequency (shimmering) nystagmus",
+                  "children": [
+                    {
+                      "label": "binocular",
+                      "children": [
+                        {
+                          "label": "asymmetric",
+                          "children": [
+                            {
+                              "label": "may appear monocular"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "can vary with gaze position"
+                    },
+                    {
+                      "label": "can be horizontal, vertical, or rotary (torsional)"
+                    },
+                    {
+                      "label": "occasionally intermittent"
+                    }
+                  ]
+                },
+                {
+                  "label": "head nodding"
+                },
+                {
+                  "label": "torticollis"
+                },
+                {
+                  "label": "appear to be compensatory movements that maximize vision"
+                }
+              ]
+            },
+            {
+              "label": "course",
+              "children": [
+                {
+                  "label": "manifests during the first 2 years of life"
+                },
+                {
+                  "label": "benign disorder in most cases",
+                  "children": [
+                    {
+                      "label": "abnormal head and eye movements to diminish by 3–4 years of age"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "associated conditions",
+              "children": [
+                {
+                  "label": "strabismus"
+                },
+                {
+                  "label": "amblyopia"
+                },
+                {
+                  "label": "developmental delay"
+                }
+              ]
+            },
+            {
+              "label": "spasmus nutans–like nystagmus",
+              "children": [
+                {
+                  "label": "chiasmal or suprachiasmal tumors"
+                }
+              ]
+            },
+            {
+              "label": "diagnostic workup",
+              "children": [
+                {
+                  "label": "neuroradiologic investigation is warranted with any evidence of optic nerve dysfunction",
+                  "children": [
+                    {
+                      "label": "optic disc pallor"
+                    },
+                    {
+                      "label": "relative afferent pupillary defect"
+                    },
+                    {
+                      "label": "any sign of neurologic abnormality"
+                    }
+                  ]
+                },
+                {
+                  "label": "some investigators believe that neuroimaging is indicated for all children with presumed spasmus nutans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "See-saw nystagmus",
+          "children": [
+            {
+              "label": "both vertical and torsional components",
+              "children": [
+                {
+                  "label": "eyes make alternating movements of elevation and intorsion followed by depression and extorsion",
+                  "children": [
+                    {
+                      "label": "high eye intorting"
+                    },
+                    {
+                      "label": "low eye extorting"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "often associated with a lesion in the rostral midbrain or the suprasellar area",
+              "children": [
+                {
+                  "label": "children",
+                  "children": [
+                    {
+                      "label": "craniopharyngioma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "congenital form of see-saw nystagmus",
+              "children": [
+                {
+                  "label": "seen with complete or partial achiasma"
+                }
+              ]
+            },
+            {
+              "label": "diagnostic workup",
+              "children": [
+                {
+                  "label": "confrontation visual fields",
+                  "children": [
+                    {
+                      "label": "bitemporal defect"
+                    }
+                  ]
+                },
+                {
+                  "label": "neuroradiologic evaluation is necessary"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Vertical nystagmus",
+          "children": [
+            {
+              "label": "uncommon"
+            },
+            {
+              "label": "congenital",
+              "children": [
+                {
+                  "label": "inherited retinal dystrophies"
+                },
+                {
+                  "label": "downbeat nystagmus",
+                  "children": [
+                    {
+                      "label": "associated with good vision and normal neurologic findings"
+                    },
+                    {
+                      "label": "jerk nystagmus",
+                      "children": [
+                        {
+                          "label": "downward fast component"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "null point in upgaze"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "acquired",
+              "children": [
+                {
+                  "label": "most common"
+                },
+                {
+                  "label": "secondary to",
+                  "children": [
+                    {
+                      "label": "Arnold-Chiari malformation"
+                    },
+                    {
+                      "label": "medications",
+                      "children": [
+                        {
+                          "label": "codeine"
+                        },
+                        {
+                          "label": "lithium"
+                        },
+                        {
+                          "label": "tranquilizers"
+                        },
+                        {
+                          "label": "anticonvulsants"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "neurologic evaluation is usually indicated"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Monocular nystagmus",
+          "children": [
+            {
+              "label": "oscillations are pendular, chiefly vertical, slow, variable in amplitude, and irregular in frequency"
+            },
+            {
+              "label": "severely amblyopic and blind eyes",
+              "children": [
+                {
+                  "label": "Heimann-Bielschowsky phenomenon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Prisms",
+          "children": [
+            {
+              "label": "to improve head position",
+              "children": [
+                {
+                  "label": "if this technique improves head position, strabismus surgery is also likely to be effective"
+                },
+                {
+                  "label": "each prism is mounted with the apex pointing toward the null point",
+                  "children": [
+                    {
+                      "label": "shifts the retinal image toward the null point",
+                      "children": [
+                        {
+                          "label": "decreases the amount of head turn required"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "to improve vision",
+              "children": [
+                {
+                  "label": "base-out prisms are placed in front of both eyes",
+                  "children": [
+                    {
+                      "label": "induces convergence",
+                      "children": [
+                        {
+                          "label": "damps the nystagmus",
+                          "children": [
+                            {
+                              "label": "improves vision"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "amounts determined by trial and error"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Fresnel press-on prisms",
+              "children": [
+                {
+                  "label": "powers ranging from 1Δ–40Δ"
+                },
+                {
+                  "label": "inexpensive plastic pieces that can be cut and then applied to glasses"
+                },
+                {
+                  "label": "powers of 10Δ–20Δ are often required"
+                }
+              ]
+            },
+            {
+              "label": "ground-in prisms",
+              "children": [
+                {
+                  "label": "less distortion"
+                },
+                {
+                  "label": "preferred for patients who require smaller amounts of prism"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgery for Nystagmus",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "to correct abnormal head position",
+                  "children": [
+                    {
+                      "label": "shifting the null point closer to the primary position"
+                    }
+                  ]
+                },
+                {
+                  "label": "to improve vision",
+                  "children": [
+                    {
+                      "label": "decreasing nystagmus intensity",
+                      "children": [
+                        {
+                          "label": "increases foveation time"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "technique",
+              "children": [
+                {
+                  "label": "Anderson procedure",
+                  "children": [
+                    {
+                      "label": "conjugate recessions in each eye"
+                    }
+                  ]
+                },
+                {
+                  "label": "Kestenbaum procedure",
+                  "children": [
+                    {
+                      "label": "recession-resection on both eyes"
+                    }
+                  ]
+                },
+                {
+                  "label": "recession of all 4 horizontal rectus muscles"
+                }
+              ]
+            },
+            {
+              "label": "eyes are surgically rotated toward the direction of the head turn and away from the null point",
+              "children": [
+                {
+                  "label": "left head turn and null point in right gaze",
+                  "children": [
+                    {
+                      "label": "eyes are surgically rotated to the left",
+                      "children": [
+                        {
+                          "label": "recession of the right lateral and left medial rectus muscles"
+                        },
+                        {
+                          "label": "resection of the right medial and left lateral rectus muscles"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "amount of surgery",
+              "children": [
+                {
+                  "label": "total amount of surgery for each eye (as measured in millimeters) is equal in order to rotate each globe an equal amount"
+                },
+                {
+                  "label": "head turns of 30°",
+                  "children": [
+                    {
+                      "label": "40% augmentation"
+                    }
+                  ]
+                },
+                {
+                  "label": "turns of 45°",
+                  "children": [
+                    {
+                      "label": "60% augmentation"
+                    }
+                  ]
+                },
+                {
+                  "label": "augmented procedures may cause restriction of motility"
+                }
+              ]
+            },
+            {
+              "label": "vertical torticollis",
+              "children": [
+                {
+                  "label": "chin-up or chin-down posturing"
+                },
+                {
+                  "label": "vertical prism",
+                  "children": [
+                    {
+                      "label": "apex toward the null point"
+                    }
+                  ]
+                },
+                {
+                  "label": "surgery on vertical rectus muscles or oblique muscles",
+                  "children": [
+                    {
+                      "label": "eyes are rotated away from the null point"
+                    },
+                    {
+                      "label": "usually 8–10 mm of recession and resection of the vertical rectus muscles of each eye"
+                    },
+                    {
+                      "label": "combined weakening of a vertical rectus muscle and an oblique muscle in each eye"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "head tilt",
+              "children": [
+                {
+                  "label": "torsional surgery",
+                  "children": [
+                    {
+                      "label": "oblique muscles"
+                    },
+                    {
+                      "label": "transposition of vertical rectus muscles"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nystagmus with no eccentric null point",
+              "children": [
+                {
+                  "label": "Kestenbaum procedure is not indicated"
+                },
+                {
+                  "label": "8–10 mm of recession of both medial rectus muscles and 10–12 mm of recession of both lateral rectus muscles",
+                  "children": [
+                    {
+                      "label": "improved foveation time"
+                    },
+                    {
+                      "label": "effect on visual acuity is modest",
+                      "children": [
+                        {
+                          "label": "average improvement of about 1 line"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "merely disinserting and reattaching horizontal rectus muscles produces similar results with presumably less risk of inducing new strabismus"
+                },
+                {
+                  "label": "nystagmus surgery in absence of abnormal head position is controversial"
+                }
+              ]
+            },
+            {
+              "label": "nystagmus blockage syndrome",
+              "children": [
+                {
+                  "label": "recession of medial rectus muscles",
+                  "children": [
+                    {
+                      "label": "with amounts that are larger than normal for the amount of esotropia"
+                    },
+                    {
+                      "label": "±posterior fixation sutures"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "strabismus",
+              "children": [
+                {
+                  "label": "surgery to shift the null point must be performed on the dominant fixating eye"
+                },
+                {
+                  "label": "surgery on the nondominant eye is then adjusted to account for the remaining strabismus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nystagmus-Like Disorders",
+      "children": [
+        {
+          "label": "Convergence-Retraction Nystagmus",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "congenital aqueductal stenosis"
+                },
+                {
+                  "label": "pinealoma"
+                }
+              ]
+            },
+            {
+              "label": "part of the dorsal midbrain syndrome",
+              "children": [
+                {
+                  "label": "paralysis of upward gaze"
+                },
+                {
+                  "label": "defective convergence"
+                },
+                {
+                  "label": "eyelid retraction"
+                },
+                {
+                  "label": "pupillary light–near dissociation"
+                }
+              ]
+            },
+            {
+              "label": "nystagmus is best elicited on attempted upgaze saccades",
+              "children": [
+                {
+                  "label": "tracking a downward-rotating OKN drum"
+                },
+                {
+                  "label": "co-contraction of all horizontal extraocular muscles occurs",
+                  "children": [
+                    {
+                      "label": "retraction of the globe"
+                    },
+                    {
+                      "label": "medial rectus muscles overpower the lateral rectus muscles",
+                      "children": [
+                        {
+                          "label": "eyes converge on attempted upgaze"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "abnormal eye movements are actually saccades",
+              "children": [
+                {
+                  "label": "not a true nystagmus!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Opsoclonus",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "acute postinfectious cerebellar ataxia"
+                },
+                {
+                  "label": "viral encephalitis"
+                },
+                {
+                  "label": "paraneoplastic manifestation of neuroblastoma"
+                }
+              ]
+            },
+            {
+              "label": "involuntary saccades",
+              "children": [
+                {
+                  "label": "rapid and multidirectional"
+                },
+                {
+                  "label": "eye movements with very high frequency and large amplitude"
+                },
+                {
+                  "label": "can occur intermittently"
+                },
+                {
+                  "label": "not a true nystagmus!"
+                }
+              ]
+            },
+            {
+              "label": "accompanied by somatic dyskinesias"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Ped ophthalmology/6.13.3. Childhood Nystagmus (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 168,
+      "connector_rejected": 0,
+      "connector_edges": 166,
+      "connector_width": 1.214,
+      "text_labels": 171,
+      "tree_nodes": 171,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.9881,
+      "root_font_size": 2.832,
+      "warnings": []
+    }
+  }
+}

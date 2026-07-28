@@ -1,0 +1,152 @@
+---
+title: "9.10.1. Complications of Uveitis (I): Glaucoma"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.10.1. Complications of Uveitis (I) - Glaucoma.pdf"
+---
+
+# 9.10.1. Complications of Uveitis (I): Glaucoma
+
+## Hierarchy
+
+- introduction
+  - IOP >24 mm Hg
+    - increases the risk of glaucoma
+  - IOP >30 mm Hg
+    - most practitioners tend to treat even without evidence of glaucomatous optic nerve damage
+  - early IOP elevation with active inflammation is almost always caused by inflammation
+    - requires aggressive anti-inflammatory treatment
+    - corticosteroid-induced ocular hypertension rarely occurs before 3 weeks
+      - clinicians should resist the urge to prematurely taper corticosteroids because of a fear of corticosteroid-induced ocular hypertension
+    - unilateral uveitis of sudden onset with open angles and increased IOP may be of infectious origin
+- greater risk of failure
+- Acute secondary angle-closure glaucoma
+  - choroidal inflammation
+    - forward rotation of the ciliary body and lens– iris diaphragm
+    - ± presenting sign of VKH syndrome or sympathetic ophthalmia
+  - pain, elevated IOP, and no posterior synechiae
+  - UBM or ultrasound evaluation
+    - choroidal thickening and anterior rotation of the ciliary body
+  - treatment
+    - aggressive corticosteroid therapy
+    - aqueous suppressants
+    - cycloplegia
+    - peripheral iridotomy or iridectomy is not useful !
+- Subacute secondary angle-closure glaucoma
+  - acute recurrent or chronic anterior segment inflammation
+    - circumferential posterior synechiae
+      - pupillary block (seclusion of the pupil)
+  - treatment
+    - peripheral laser iridotomy
+      - multiple
+      - large
+      - exacerbation of inflammation after laser iridotomy
+        - iridotomies prone to close
+        - Intensive topical corticosteroid and cycloplegic therapy
+      - in patients with brown irides, pretreat the iris with argon laser before using the Nd:YAG laser
+        - may lessen the chance of bleeding and facilitate a wider opening
+    - surgical iridectomy
+      - If laser iridotomy is not successful
+      - ± supplemented with goniosynechialysis
+- Management
+  - aqueous suppressants
+    - first-line agents
+  - prostaglandin analogues
+    - do not exacerbate intraocular inflammation
+      - especially when used with IMT and corticosteroids
+    - use with caution in eyes with herpetic uveitis
+  - pilocarpine should be avoided in uveitis
+    - the smaller fixed pupil may be at risk for worsening of posterior synechiae
+    - causes breakdown of the blood–aqueous barrier
+  - standard trabeculectomy
+    - results may be improved by using mitomycin C with intensive topical corticosteroids
+    - intense and recurrent inflammation can lead to failure of filtering surgery in uveitic eyes
+    - ≤90% of patients 1 year after surgery and 62% 5 years after surgery achieve IOP control with 1 or 0 medications
+    - surgical complications
+      - cataract formation
+      - bleb leakage (early and late)/ could lead to endophthalmitis
+      - choroidal effusions
+    - excised trabecular block and iris should be submitted for pathologic evaluation
+  - nonpenetrating deep sclerectomy ± drainage implant
+    - effective in controlling IOP in ≤90% of uveitic eyes x 1 year
+  - goniotomy
+    - pediatric uveitis patients
+    - ≤75% chance of reducing IOP to 21 mm Hg or less after 2 surgeries
+  - trabeculodialysis
+    - may be complicated by transient hyphema and worsening of the preexisting cataract
+  - laser sclerostomy
+    - high rates of failure because of recurrent postoperative inflammation
+  - viscocanalostomy
+    - higher success rates in a limited number of studies
+  - aqueous drainage devices
+    - most cases of uveitic glaucoma, especially in pseudophakic or aphakic eyes
+    - tunneled into the
+      - anterior chamber
+      - vitreous cavity (pars plana)
+    - unidirectional valve design (valve implant)
+      - can prevent postoperative hypotony
+    - more likely than trabeculectomy to successfully control IOP in the long term in eyes with uveitic glaucoma
+      - ≤75% reduction of IOP from preoperative levels
+    - complications of glaucoma-drainage-device surgery
+      - 10%/patient-year
+        - 75% of patients achieve target IOP levels with use of 0 or 1 topical antiglaucoma medication after 4 years
+      - early
+        - shallow anterior chamber
+        - hypotony
+        - suprachoroidal hemorrhage
+        - blockage of the drainage device by blood, fibrin, or iris
+        - CME
+      - long-term
+        - device erosion through the conjunctiva
+        - valve migration
+        - drainage device–cornea touch
+        - corneal decompensation
+        - retinal detachment
+  - cyclodestructive procedures
+    - may worsen ocular inflammation
+    - hypotony
+    - phthisis
+      - generally considered ineffective in eyes with uveitis
+  - laser trabeculoplasty
+- Chronic secondary angle-closure glaucoma
+  - chronic intraocular inflammation
+    - peripheral anterior synechiae
+  - treatment
+    - topical aqueous suppressants may be inadequate
+    - trabeculectomy with mitomycin C
+    - glaucoma drainage device
+- goniosynechialysis
+- Acute secondary open-angle glaucoma
+  - pathogenesis
+    - trabecular meshwork is inflamed (trabeculitis)
+    - inflammatory debris clogs the angle
+  - infectious causes of uveitis
+    - toxoplasma retinochoroiditis
+    - necrotizing herpetic retinitis
+    - herpes simplex and varicella-zoster anterior uveitis
+    - cytomegalovirus anterior uveitis (including the Posner-Schlossman type)
+    - Fuchs heterochromic uveitis (rubella- associated)
+  - sarcoid uveitis
+  - treatment
+    - specific treatment of the infectious agent
+    - topical cycloplegics and corticosteroids
+- Chronic secondary open-angle glaucoma
+  - direct damage to the trabecular meshwork
+  - management
+    - similar to that of primary open-angle glaucoma
+    - strict control of intraocular inflammation through the use of IMT
+- Combined-mechanism uveitic glaucoma
+  - multiple mechanisms may be responsible for elevated pressure in uveitic eyes
+- Corticosteroid-Induced Ocular Hypertension and Glaucoma
+  - corticosteroids in any formulation—topical, periocular, intraocular, or oral—may induce an elevation of IOP
+  - fluocinolone intraocular implant
+    - need for glaucoma surgery in ≈ 40%
+  - topical difluprednate associated with severe and sometimes rapid increases in IOP
+  - prevention
+    - use of a less-potent topical corticosteroid preparation
+      - fluorometholone
+      - loteprednol
+      - rimexolone
+      - less likely to induce an IOP elevation
+        - less effective in controlling intraocular inflammation
+    - less-frequent administration schedule

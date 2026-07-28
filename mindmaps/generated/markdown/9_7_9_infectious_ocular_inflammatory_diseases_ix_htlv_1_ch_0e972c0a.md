@@ -1,0 +1,173 @@
+---
+title: "9.7.9. Infectious Ocular Inflammatory Diseases (IX): HTLV-1 Chikungunya Dengue fever"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.7.9. Infectious Ocular Inflammatory Diseases (IX) - HTLV-1 Chikungunya Dengue fever.pdf"
+---
+
+# 9.7.9. Infectious Ocular Inflammatory Diseases (IX): HTLV-1 Chikungunya Dengue fever
+
+## Hierarchy
+
+- Human T-lymphotropic virus type 1 (HTLV-1)
+  - endemic in Japan, the Caribbean islands, and parts of Central and South America
+    - retrovirus of the Oncovirinae subfamily
+  - major target cell of HTLV-1 is the CD4+ T cell
+  - transmission
+    - transplacental
+    - sexual contact
+    - blood transfusion
+    - breast feeding
+      - adult T-cell leukemia/lymphoma (ATL)
+  - diseases
+    - HTLV-1–associated myelopathy/tropical spastic paralysis (HAM/TSP)
+    - HTLV-1 uveitis (HU)
+  - diagnostic tests
+    - serologic testing
+    - Western blot analysis
+      - confirmatory
+    - PCR
+  - ocular manifestations
+    - ATL
+      - retinal infiltrates
+    - HAM/TSP
+      - retinal degeneration
+      - optic neuropathy
+      - keratoconjunctivitis sicca
+    - HTLV-1 uveitis (HU)
+      - uveitis of undetermined origin in an HTLV-1 carrier
+      - epidemiology
+        - 1% of uveitis cases in Japan
+        - F>M
+        - mean age of onset is earlier in men (35 years) than in women (48 years)
+      - clinical presentation
+        - blurred vision and floaters
+        - mild granulomatous anterior uveitis (20%)
+        - unilateral vitritis (60%)
+          - intermediate uveitis
+            - 75%
+        - membranous vitreous opacities
+        - snowballs
+        - retinal vasculitis (60%)
+        - exudative retinal lesions (25%)
+        - optic disc abnormalities (20%)
+        - CME (3%)
+      - ICG angiography
+        - choroidal inflammatory involvement
+      - sight-threatening ocular complications
+        - ≤ 1/3 of cases
+          - poor visual outcomes in ≤10% of affected eyes
+        - cataract
+        - epiretinal membrane
+        - glaucoma
+        - persistent vitreous opacification
+        - retinal vascular occlusion
+        - retinochoroidal degeneration
+        - optic atrophy
+      - management
+        - many cases of HU respond to topical, periocular, or systemic steroid therapy
+          - resolve completely within 1–2 months
+          - ≤ 1/2 of patients experience recurrent disease
+        - cases that progress despite adequate therapy
+          - consider a masquerade syndrome
+            - retinal infiltration caused by ATL
+              - can mimic HU
+            - retinal degeneration associated with HAM/TSP
+              - can mimic HU
+    - HTLV-1–associated keratopathy
+      - "HTLV-1–related chronic interstitial keratitis"
+      - in Brazilian and Caribbean patients
+        - not among Japanese patients
+      - uniformly asymptomatic
+        - does not affect vision
+      - lymphoplasmacytic infiltrates
+- Dengue Fever
+  - epidemiology
+    - member of the Flaviviridae family
+    - most common mosquito-borne viral disease in humans
+      - endemic to more than 100 countries in the tropical and subtropical regions
+    - transmitted by the Aedes aegypti mosquito
+  - systemic signs and symptoms
+    - fever
+    - headache
+    - myalgia
+    - purpuric rash
+    - petechial subconjunctival hemorrhages
+      - other bleeding manifestations secondary to thrombocytopenia
+      - most common ocular manifestation
+  - ocular manifestation
+    - maculopathy
+      - 10%
+      - 1 month after the onset of systemic disease
+      - bilateral (73%)
+        - asymmetric
+      - sudden decrease in vision and central scotoma
+        - mean visual acuity is 20/40
+      - involving both the retinal and choroidal vessel
+      - Intraretinal hemorrhages
+        - 45%
+        - usually in association with venous sheathing
+          - http://amaprod.silverchaircdn.com/data/ Journals/OPHTH/9984/m_ecs60059f1.png
+      - RPE mottling (17%)
+        - yellow subretinal dots (28%)
+      - foveal changes (16%)
+      - disc hyperemia (14%) and edema (11%)
+      - arteriolar sheathing (4%)
+      - variable degree of anterior chamber and vitreous cells
+  - diagnostic tests
+    - FA
+      - venous occlusive disease in 25%
+      - arteriolar and/or venular leakage
+    - ICG angiography
+      - hypofluorescent spots corresponding to yellow subretinal lesions
+        - more numerous than FA or clinical examination
+          - http://amaprod.silverchaircdn.com/data/ Journals/OPHTH/9984/m_ecs60059f3.png
+    - OCT
+      - foveal changes
+    - serology
+      - positive IgM antibody
+  - treatment
+    - topical, periocular, and systemic steroids; immunoglobulins
+    - variable success
+    - the disease may be self-limiting
+- Other Viral Diseases
+  - acute anterior uveitis
+    - influenza
+    - adenovirus infection
+      - secondary to corneal disease
+    - IM
+    - mild and transient
+    - synechiae and ocular damage seldom occur
+- Chikungunya Fever
+  - arthropod-borne Alphavirus in the family Togaviridae
+  - clinical presentation
+    - potentially fatal
+      - fever, headache, fatigue, nausea, vomiting, myalgia, arthralgia, and skin rash
+  - ocular manifestations
+    - bilateral
+    - anterior uveitis
+      - granulomatous or nongranulomatous
+      - diffuse pigmented KPs, iris pigment release, elevated IOP, and, infrequently, posterior synechiae
+        - both appear several weeks after the primary illness
+    - retinitis
+      - resembles herpetic retinitis in an immunocompetent host
+      - retinal hemorrhage
+        - focal, multifocal, or confluent retinochoroiditis in the posterior pole
+      - retinal edema
+        - minimal vitritis
+      - differences with herpetic retinitis
+        - peripheral retinal involvement
+        - more intense vitreous reaction
+    - nodular episcleritis
+  - diagnostic tests
+    - serology
+      - benign course
+      - Chikungunya-specific IgM antibodies
+        - no evidence that such therapy improves visual outcome
+    - virus isolation
+    - reverse transcription PCR
+  - treatment
+    - confluent retinitis
+    - anterior uveitis
+      - topical steroids
+        - systemic acyclovir and prednisone

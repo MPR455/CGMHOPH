@@ -1,0 +1,351 @@
+{
+  "label": "Chalazion",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "middle-aged man has noted a tender eyelid lump for the past 2 days"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "focal redness and swelling of right lower"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "chalazion"
+        }
+      ]
+    },
+    {
+      "label": "focal inflammation of eyelid from an obstruction of meibomian glands"
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "chalazion",
+          "children": [
+            {
+              "label": "internal posterior hordeolum",
+              "children": [
+                {
+                  "label": "chronic lipogranulomatous inflammation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "hordeolum",
+          "children": [
+            {
+              "label": "acute infection (usually staphylococcal)",
+              "children": [
+                {
+                  "label": "external hordeolum (stye)",
+                  "children": [
+                    {
+                      "label": "glands of Zeis"
+                    }
+                  ]
+                },
+                {
+                  "label": "internal hordeolum",
+                  "children": [
+                    {
+                      "label": "meibomian glands"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "preseptal cellulitis"
+        },
+        {
+          "label": "pyogenic granuloma"
+        },
+        {
+          "label": "sebaceous cell carcinoma"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "warm compress",
+              "children": [
+                {
+                  "label": "x 10 min qid"
+                }
+              ]
+            },
+            {
+              "label": "wash/scrub eyelid margin",
+              "children": [
+                {
+                  "label": "bid"
+                },
+                {
+                  "label": "mild shampoo"
+                }
+              ]
+            },
+            {
+              "label": "topical antibiotics",
+              "children": [
+                {
+                  "label": "if",
+                  "children": [
+                    {
+                      "label": "lesion draining"
+                    },
+                    {
+                      "label": "associated blepharitis/ conjunctivitis",
+                      "children": [
+                        {
+                          "label": "do not prescribe tetracycline for"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "oral doxycycline (azithromycin)",
+              "children": [
+                {
+                  "label": "indications",
+                  "children": [
+                    {
+                      "label": "blepharitis"
+                    },
+                    {
+                      "label": "meibomian gland dysfunction",
+                      "children": [
+                        {
+                          "label": "nursing women",
+                          "children": [
+                            {
+                              "label": "children ≤8 years",
+                              "children": [
+                                {
+                                  "label": "pregnant women"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "multiple chalazia/hordeola"
+                    }
+                  ]
+                },
+                {
+                  "label": "inhibits MMP"
+                },
+                {
+                  "label": "x 1-2 weeks",
+                  "children": [
+                    {
+                      "label": "taper to1/4 full dose",
+                      "children": [
+                        {
+                          "label": "continue x 3-6 months"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "intralesional steroid",
+              "children": [
+                {
+                  "label": "can cause",
+                  "children": [
+                    {
+                      "label": "hypopigmentation"
+                    },
+                    {
+                      "label": "atrophy"
+                    },
+                    {
+                      "label": "retinal artery occlusion"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "incision/curettage",
+              "children": [
+                {
+                  "label": "if no response to 3-4 weeks of medical treatment"
+                },
+                {
+                  "label": "send to pathology in recurrent/atypical cases"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "good prognosis"
+            },
+            {
+              "label": "treatment of underlying blepharitis, meibomian gland dysfunction, rosacea will reduce future recurrences"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "reexamine if lesion persists >3-4 weeks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course"
+            },
+            {
+              "label": "similar prior lesions",
+              "children": [
+                {
+                  "label": "chalazion"
+                }
+              ]
+            },
+            {
+              "label": "rosacea"
+            },
+            {
+              "label": "blepharitis"
+            },
+            {
+              "label": "trauma/surgery"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "external exam",
+              "children": [
+                {
+                  "label": "facial telangiectasia"
+                },
+                {
+                  "label": "rhinophyma",
+                  "children": [
+                    {
+                      "label": "rosacea"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "blepharitis"
+            },
+            {
+              "label": "palpate lid for nodularity"
+            },
+            {
+              "label": "evert eyelid",
+              "children": [
+                {
+                  "label": "r/o pyogenic granuloma"
+                }
+              ]
+            },
+            {
+              "label": "meibomian glands for inspissation"
+            },
+            {
+              "label": "look for signs of sebaceous cell carcinoma",
+              "children": [
+                {
+                  "label": "older patient"
+                },
+                {
+                  "label": "unilateral"
+                },
+                {
+                  "label": "eyelid thickening"
+                },
+                {
+                  "label": "lash loss"
+                },
+                {
+                  "label": "preauricular LAP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Chalazion.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 144,
+      "connector_rejected": 15,
+      "connector_edges": 92,
+      "connector_width": 1.508,
+      "text_labels": 84,
+      "tree_nodes": 84,
+      "component_roots": 7,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.6389,
+      "root_font_size": 7.039,
+      "warnings": []
+    }
+  }
+}

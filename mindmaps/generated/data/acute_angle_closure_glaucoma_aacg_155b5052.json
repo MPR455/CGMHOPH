@@ -1,0 +1,662 @@
+{
+  "label": "Acute Angle Closure Glaucoma (AACG)",
+  "root": true,
+  "children": [
+    {
+      "label": "Image Description",
+      "children": [
+        {
+          "label": "55-year-old Asian female presents with unilateral eye pain, blurred vision, and rainbow-colored halos around light"
+        },
+        {
+          "label": "conjunctival injection, diffuse corneal edema, and non-reactive mid-dilated pupil"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "AACG"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "acute angle closure glaucoma",
+          "children": [
+            {
+              "label": "primary",
+              "children": [
+                {
+                  "label": "pupillary block"
+                },
+                {
+                  "label": "plateau iris"
+                },
+                {
+                  "label": "complications",
+                  "children": [
+                    {
+                      "label": "glaucomatous optic nerve damage"
+                    },
+                    {
+                      "label": "ischemic optic nerve damage"
+                    },
+                    {
+                      "label": "retinal vascular occlusion"
+                    },
+                    {
+                      "label": "PAS formation"
+                    },
+                    {
+                      "label": "IOP-induced iris ischemia",
+                      "children": [
+                        {
+                          "label": "sector atrophy of the iris"
+                        },
+                        {
+                          "label": "pigment release from the iris"
+                        },
+                        {
+                          "label": "iris sphincter muscle ischemia",
+                          "children": [
+                            {
+                              "label": "permanently fixed and dilated pupil"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Glaukomflecken"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "secondary",
+              "children": [
+                {
+                  "label": "neovascular"
+                },
+                {
+                  "label": "PAS",
+                  "children": [
+                    {
+                      "label": "uveitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "membrane",
+                  "children": [
+                    {
+                      "label": "ICE"
+                    },
+                    {
+                      "label": "epithelial downgrowth"
+                    }
+                  ]
+                },
+                {
+                  "label": "lens induced",
+                  "children": [
+                    {
+                      "label": "phacomorphic glaucoma"
+                    },
+                    {
+                      "label": "zonular weakness",
+                      "children": [
+                        {
+                          "label": "trauma"
+                        },
+                        {
+                          "label": "PXF"
+                        },
+                        {
+                          "label": "Marfan"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "small eye",
+                      "children": [
+                        {
+                          "label": "nanophthalmos",
+                          "children": [
+                            {
+                              "label": "short axial length (15–20 mm)"
+                            },
+                            {
+                              "label": "high degree of hyperopia (7– 15 D)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "microspherophakia",
+                      "children": [
+                        {
+                          "label": "small lens with anterior prolapse"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "aphakic/pseudophakic pupillary block"
+                },
+                {
+                  "label": "aqueous misdirection"
+                },
+                {
+                  "label": "posterior segment mass",
+                  "children": [
+                    {
+                      "label": "tumor",
+                      "children": [
+                        {
+                          "label": "seizure trearment"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "choroidal effusion",
+                      "children": [
+                        {
+                          "label": "topiramate/sulfonamide- induced"
+                        },
+                        {
+                          "label": "scleral buckle"
+                        },
+                        {
+                          "label": "excess laser"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "hemorrhagic choroidal detachment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "acute open angle glaucoma",
+          "children": [
+            {
+              "label": "inflammatory"
+            },
+            {
+              "label": "traumatic",
+              "children": [
+                {
+                  "label": "hyphema"
+                }
+              ]
+            },
+            {
+              "label": "pigmentary"
+            },
+            {
+              "label": "PXF"
+            },
+            {
+              "label": "glaucomatocyclitic crisis"
+            },
+            {
+              "label": "retrobulbar hemorrhage/ inflammation"
+            },
+            {
+              "label": "C-C fistula"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "topical",
+              "children": [
+                {
+                  "label": "beta-blockers",
+                  "children": [
+                    {
+                      "label": "timolol",
+                      "children": [
+                        {
+                          "label": "caution with asthma/COPD, heart failure"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "alpha-2 agonists",
+                  "children": [
+                    {
+                      "label": "brimonidine"
+                    },
+                    {
+                      "label": "avoid",
+                      "children": [
+                        {
+                          "label": "nonselective adrenergic agonists (epinephrine)",
+                          "children": [
+                            {
+                              "label": "cause pupillary dilation and iris ischemia"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "medications with significant α1-adrenergic activity (apraclonidine)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "PG analogs",
+                  "children": [
+                    {
+                      "label": "latanoprost"
+                    }
+                  ]
+                },
+                {
+                  "label": "CAI",
+                  "children": [
+                    {
+                      "label": "dorzolamide"
+                    }
+                  ]
+                },
+                {
+                  "label": "3 rounds q15 min",
+                  "children": [
+                    {
+                      "label": "recheck in 1 hour",
+                      "children": [
+                        {
+                          "label": "if IOP not controlled",
+                          "children": [
+                            {
+                              "label": "admit"
+                            },
+                            {
+                              "label": "do not use for aphakic/ pseudophakic AACG",
+                              "children": [
+                                {
+                                  "label": "do not use for secondary ACG"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "pilocarpine 1-2%",
+                  "children": [
+                    {
+                      "label": "has fallen out of favor"
+                    },
+                    {
+                      "label": "for phakic primary AACG"
+                    },
+                    {
+                      "label": "q 15 min x 2"
+                    },
+                    {
+                      "label": "check renal function/ electrolytes",
+                      "children": [
+                        {
+                          "label": "stronger miotics should be avoided"
+                        },
+                        {
+                          "label": "increase the vascular congestion of the iris or rotate the lens–iris interface more anteriorly"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "don't use for topiramate/ sulfonamide-induced ACG"
+            },
+            {
+              "label": "systemic (IV or oral) CAI"
+            },
+            {
+              "label": "osmotic agent",
+              "children": [
+                {
+                  "label": "IV mannitol",
+                  "children": [
+                    {
+                      "label": "check renal function/ electrolytes",
+                      "children": [
+                        {
+                          "label": "contraindicated in CHF, renal disease, intracranial bleeding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "topical steroid"
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "laser PI",
+              "children": [
+                {
+                  "label": "when IOP controlled and cornea clear"
+                },
+                {
+                  "label": "laser PI other eye if occludable angle"
+                }
+              ]
+            },
+            {
+              "label": "laser iridoplasty",
+              "children": [
+                {
+                  "label": "if not responsive to LPI"
+                }
+              ]
+            },
+            {
+              "label": "surgical PI"
+            }
+          ]
+        },
+        {
+          "label": "aqueous misdirection",
+          "children": [
+            {
+              "label": "IOP lowering agents"
+            },
+            {
+              "label": "mydriatics"
+            },
+            {
+              "label": "open posterior capsule (pseudophakic)"
+            },
+            {
+              "label": "YAG anterior hyaloidotomy"
+            },
+            {
+              "label": "PPV"
+            }
+          ]
+        },
+        {
+          "label": "NVI",
+          "children": [
+            {
+              "label": "lower eye pressure"
+            },
+            {
+              "label": "anti-VEGF"
+            },
+            {
+              "label": "PRP"
+            }
+          ]
+        },
+        {
+          "label": "choroidal effusion",
+          "children": [
+            {
+              "label": "lower eye pressure"
+            },
+            {
+              "label": "mydriatics"
+            },
+            {
+              "label": "steroids"
+            }
+          ]
+        },
+        {
+          "label": "phacomorphic",
+          "children": [
+            {
+              "label": "lower eye pressure"
+            },
+            {
+              "label": "cataract surgery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Dos",
+          "children": [
+            {
+              "label": "suggest eye examination of relatives"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good prognosis if diagnosed and treated early"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "after LPI, discharge on IOP- lowering drops and oral medications",
+              "children": [
+                {
+                  "label": "initially follow daily"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "precipitating events",
+              "children": [
+                {
+                  "label": "dim light"
+                },
+                {
+                  "label": "mydriatic eyedrops"
+                },
+                {
+                  "label": "flu medicine"
+                }
+              ]
+            },
+            {
+              "label": "previous episodes"
+            },
+            {
+              "label": "glasses/hyperopia"
+            },
+            {
+              "label": "eye surgery/trauma",
+              "children": [
+                {
+                  "label": "scleral buckle"
+                },
+                {
+                  "label": "retinal laser"
+                }
+              ]
+            },
+            {
+              "label": "topiramate/sulfonamides"
+            },
+            {
+              "label": "family history of AACG"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "IOP",
+              "children": [
+                {
+                  "label": "Wide mire --> false high reading; narrow mire --> false low reading"
+                }
+              ]
+            },
+            {
+              "label": "microcystic epithelial edema"
+            },
+            {
+              "label": "shallow anterior chamber"
+            },
+            {
+              "label": "iris bombe"
+            },
+            {
+              "label": "mid-dilated pupil",
+              "children": [
+                {
+                  "label": "poorly reactive"
+                }
+              ]
+            },
+            {
+              "label": "AC reaction, hyphema"
+            },
+            {
+              "label": "iris atrophy"
+            },
+            {
+              "label": "glaucomflecken"
+            },
+            {
+              "label": "KPs"
+            },
+            {
+              "label": "PAS/PS"
+            },
+            {
+              "label": "NVI"
+            },
+            {
+              "label": "intumescent /subluxated lens, microspherophakia"
+            },
+            {
+              "label": "gonioscopy of both eyes",
+              "children": [
+                {
+                  "label": "angle morphology",
+                  "children": [
+                    {
+                      "label": "examine other eye for occludable angle"
+                    }
+                  ]
+                },
+                {
+                  "label": "PAS",
+                  "children": [
+                    {
+                      "label": "compression gonioscopy"
+                    }
+                  ]
+                },
+                {
+                  "label": "NVA"
+                }
+              ]
+            },
+            {
+              "label": "funduscopy",
+              "children": [
+                {
+                  "label": "CB or choroidal tumor"
+                },
+                {
+                  "label": "choroidal effusion"
+                },
+                {
+                  "label": "spontaneous arterial pulsation"
+                },
+                {
+                  "label": "CRAO, CRVO"
+                },
+                {
+                  "label": "optic disc swelling/atrophy/ cupping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Additional Testing",
+          "children": [
+            {
+              "label": "anterior segment OCT"
+            },
+            {
+              "label": "B-scan/UBM if no fundus view"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Acute Angle Closure Glaucoma (AACG).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 298,
+      "connector_rejected": 54,
+      "connector_edges": 200,
+      "connector_width": 0.621,
+      "text_labels": 171,
+      "tree_nodes": 171,
+      "component_roots": 6,
+      "spatially_recovered_labels": 9,
+      "connector_match_ratio": 0.6711,
+      "root_font_size": 4.348,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,719 @@
+{
+  "label": "7.5.1. Orbital Neoplasms and Malformations (I): Vascular Tumors (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Infantile (Capillary) Hemangioma",
+      "children": [
+        {
+          "label": "risk factors",
+          "children": [
+            {
+              "label": "female"
+            },
+            {
+              "label": "low birth weight"
+            },
+            {
+              "label": "prematurity"
+            },
+            {
+              "label": "maternal chorionic villus sampling"
+            }
+          ]
+        },
+        {
+          "label": "natural course",
+          "children": [
+            {
+              "label": "present at birth or in the first few weeks of life"
+            },
+            {
+              "label": "enlarge dramatically over 6–12 months"
+            },
+            {
+              "label": "involute after the first year of life",
+              "children": [
+                {
+                  "label": "75% resolve during the first 3–7 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "superficial (cutaneous)",
+              "children": [
+                {
+                  "label": "bright red"
+                },
+                {
+                  "label": "soft"
+                },
+                {
+                  "label": "dimpled texture"
+                }
+              ]
+            },
+            {
+              "label": "subcutaneous",
+              "children": [
+                {
+                  "label": "bluish"
+                }
+              ]
+            },
+            {
+              "label": "deep (within the orbit)",
+              "children": [
+                {
+                  "label": "enlarging mass without overlying skin change"
+                }
+              ]
+            },
+            {
+              "label": "superonasal orbit & medial upper eyelid",
+              "children": [
+                {
+                  "label": "most common"
+                }
+              ]
+            },
+            {
+              "label": "± hemangiomas of other parts of the body",
+              "children": [
+                {
+                  "label": "lesions involving neck can compromise airway"
+                },
+                {
+                  "label": "multiple large visceral lesions can produce thrombocytopenia",
+                  "children": [
+                    {
+                      "label": "Kasabach-Merritt syndrome"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular complications",
+          "children": [
+            {
+              "label": "amblyopia"
+            },
+            {
+              "label": "strabismus"
+            },
+            {
+              "label": "anisometropia"
+            },
+            {
+              "label": "severe disfigurement"
+            }
+          ]
+        },
+        {
+          "label": "MRI",
+          "children": [
+            {
+              "label": "characteristic fine intralesional vascular channels and high blood flow"
+            },
+            {
+              "label": "distinguish infantile hemangiomas from other vascular malformations"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "first line of management",
+              "children": [
+                {
+                  "label": "observation"
+                },
+                {
+                  "label": "refractive correction"
+                },
+                {
+                  "label": "amblyopia therapy"
+                },
+                {
+                  "label": "treatment may be deferred until it is clear that the natural course will not lead to the desired result"
+                }
+              ]
+            },
+            {
+              "label": "indications for treatment",
+              "children": [
+                {
+                  "label": "disruption of vision"
+                },
+                {
+                  "label": "severe disfigurement"
+                }
+              ]
+            },
+            {
+              "label": "β-blockers",
+              "children": [
+                {
+                  "label": "initial therapy"
+                },
+                {
+                  "label": "topical timolol gel",
+                  "children": [
+                    {
+                      "label": "for superficial tumors"
+                    },
+                    {
+                      "label": "limited systemic adverse effects"
+                    }
+                  ]
+                },
+                {
+                  "label": "oral propranolol",
+                  "children": [
+                    {
+                      "label": "for larger and deeper lesions"
+                    },
+                    {
+                      "label": "fewer adverse effects than systemic steroids",
+                      "children": [
+                        {
+                          "label": "hypoglycemia"
+                        },
+                        {
+                          "label": "cardiovascular adverse effects"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "steroids",
+              "children": [
+                {
+                  "label": "for lesions unresponsive to or showing limited improvement with β-blockers"
+                },
+                {
+                  "label": "topical"
+                },
+                {
+                  "label": "local injection",
+                  "children": [
+                    {
+                      "label": "skin necrosis"
+                    },
+                    {
+                      "label": "subcutaneous fat atrophy"
+                    },
+                    {
+                      "label": "systemic growth retardation"
+                    },
+                    {
+                      "label": "retinal embolic vision loss"
+                    }
+                  ]
+                },
+                {
+                  "label": "oral"
+                }
+              ]
+            },
+            {
+              "label": "surgical excision",
+              "children": [
+                {
+                  "label": "for nodular lesions that are smaller, subcutaneous, or refractory to steroids"
+                },
+                {
+                  "label": "meticulous hemostasis"
+                }
+              ]
+            },
+            {
+              "label": "radiation therapy",
+              "children": [
+                {
+                  "label": "cataract formation"
+                },
+                {
+                  "label": "bony hypoplasia"
+                },
+                {
+                  "label": "future malignancy"
+                }
+              ]
+            },
+            {
+              "label": "pulsed-dye laser therapy",
+              "children": [
+                {
+                  "label": "superficial components of the hemangioma"
+                }
+              ]
+            },
+            {
+              "label": "sclerosing solutions",
+              "children": [
+                {
+                  "label": "severe scarring",
+                  "children": [
+                    {
+                      "label": "not recommended !"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lymphatic Malformation",
+      "children": [
+        {
+          "label": "\"lymphangiomas\""
+        },
+        {
+          "label": "vascular dysgenesis",
+          "children": [
+            {
+              "label": "disruption of initially pluripotent vascular anlage leads to aberrant development and congenital malformation"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "first or second decade of life"
+            },
+            {
+              "label": "may also occur in",
+              "children": [
+                {
+                  "label": "conjunctiva"
+                },
+                {
+                  "label": "eyelids"
+                },
+                {
+                  "label": "oropharynx"
+                },
+                {
+                  "label": "sinuses"
+                }
+              ]
+            },
+            {
+              "label": "noncontiguous intracranial vascular malformations",
+              "children": [
+                {
+                  "label": "≤25% of patients"
+                },
+                {
+                  "label": "low rate of spontaneous hemorrhage",
+                  "children": [
+                    {
+                      "label": "not treated prophylactically"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "natural history",
+              "children": [
+                {
+                  "label": "unpredictable",
+                  "children": [
+                    {
+                      "label": "localized/slow progression"
+                    },
+                    {
+                      "label": "diffuse infiltrattion/inexorable enlargement"
+                    }
+                  ]
+                },
+                {
+                  "label": "sudden spontaneous hemorrhage from interstitial capillaries",
+                  "children": [
+                    {
+                      "label": "abrupt proptosis or mass lesion"
+                    }
+                  ]
+                },
+                {
+                  "label": "may enlarge during upper respiratory tract infections",
+                  "children": [
+                    {
+                      "label": "response of lymphoid tissues within lesion"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "large, serum-filled channels lined by flat endothelial cells that have immunostaining patterns consistent with lymphatic capillaries",
+              "children": [
+                {
+                  "label": "endothelial cells do not proliferate",
+                  "children": [
+                    {
+                      "label": "not neoplasms!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "contain both venous and lymphatic components"
+            },
+            {
+              "label": "scattered follicles of lymphoid tissue"
+            },
+            {
+              "label": "not encapsulated",
+              "children": [
+                {
+                  "label": "infiltrative pattern"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "MRI",
+          "children": [
+            {
+              "label": "multiple grapelike cystic lesions with fluid–fluid layering of serum and red blood cells",
+              "children": [
+                {
+                  "label": "pathognomonic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "intralesional sclerosing agents",
+              "children": [
+                {
+                  "label": "treatment of choice",
+                  "children": [
+                    {
+                      "label": "lower adverse effects compared with surgical resection"
+                    }
+                  ]
+                },
+                {
+                  "label": "successful in treating larger cystic components",
+                  "children": [
+                    {
+                      "label": "reducing tumor bulk"
+                    }
+                  ]
+                },
+                {
+                  "label": "technique",
+                  "children": [
+                    {
+                      "label": "cyst is drained"
+                    },
+                    {
+                      "label": "extent is evaluated with contrast media"
+                    },
+                    {
+                      "label": "sodium morrhuate",
+                      "children": [
+                        {
+                          "label": "introduced, withdrawn, and rinsed"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "absolute alcohol (other sclerosing agents)",
+                      "children": [
+                        {
+                          "label": "introduced, withdrawn, and rinsed"
+                        }
+                      ]
+                    },
+                    {
+                      "label": ".>1 treatment may be required"
+                    }
+                  ]
+                },
+                {
+                  "label": "retained sclerosing foams of doxycycline and bleomycin",
+                  "children": [
+                    {
+                      "label": "successful in treating the microcysts"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "surgical intervention",
+              "children": [
+                {
+                  "label": "deferred unless vision affected"
+                },
+                {
+                  "label": "subtotal resection",
+                  "children": [
+                    {
+                      "label": "to avoid sacrificing important structures"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "acute hemorrhage",
+              "children": [
+                {
+                  "label": "indications for treatment",
+                  "children": [
+                    {
+                      "label": "significant proptosis"
+                    },
+                    {
+                      "label": "optic neuropathy"
+                    },
+                    {
+                      "label": "corneal ulceration"
+                    }
+                  ]
+                },
+                {
+                  "label": "mild hematomas may resolve spontaneously"
+                },
+                {
+                  "label": "ultrasound-guided aspiration of blood"
+                },
+                {
+                  "label": "open surgical exploration"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hemangiopericytoma",
+      "children": [
+        {
+          "label": "uncommon"
+        },
+        {
+          "label": "appear in midlife"
+        },
+        {
+          "label": "resemble cavernous hemangiomas on CT and MRI"
+        },
+        {
+          "label": "appear bluish intraoperatively"
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "hypervascular"
+            },
+            {
+              "label": "hypercellular"
+            },
+            {
+              "label": "encapsulated"
+            },
+            {
+              "label": "plump pericytes that surround a rich capillary network"
+            },
+            {
+              "label": "no correlation between mitotic rate and clinical behavior",
+              "children": [
+                {
+                  "label": "microscopically “benign” lesions may recur and metastasize"
+                },
+                {
+                  "label": "microscopically “malignant” lesions may remain localized"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "complete excision",
+              "children": [
+                {
+                  "label": "may recur, undergo malignant degeneration, or metastasize"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cavernous Hemangioma",
+      "children": [
+        {
+          "label": "most common benign neoplasm of the orbit in adults"
+        },
+        {
+          "label": "F>M"
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "slowly progressive proptosis"
+            },
+            {
+              "label": "strabismus"
+            },
+            {
+              "label": "optic nerve compression"
+            },
+            {
+              "label": "retinal striae"
+            },
+            {
+              "label": "hyperopia"
+            },
+            {
+              "label": "increased intraocular pressure (IOP)"
+            },
+            {
+              "label": "growth may accelerate during pregnancy"
+            }
+          ]
+        },
+        {
+          "label": "orbital imaging",
+          "children": [
+            {
+              "label": "MRI",
+              "children": [
+                {
+                  "label": "small intralesional vascular channels containing slowly flowing blood"
+                }
+              ]
+            },
+            {
+              "label": "well-encapsulated mass"
+            },
+            {
+              "label": "homogeneously enhancing"
+            },
+            {
+              "label": "radiodense phleboliths",
+              "children": [
+                {
+                  "label": "chronic lesions"
+                }
+              ]
+            },
+            {
+              "label": "coronal imaging",
+              "children": [
+                {
+                  "label": "important in determining the position of the cavernous hemangioma relative to the optic nerve"
+                }
+              ]
+            },
+            {
+              "label": "arteriography and venography",
+              "children": [
+                {
+                  "label": "not useful because of limited communication with the systemic circulation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "encapsulated"
+            },
+            {
+              "label": "large cavernous spaces containing red blood cells"
+            },
+            {
+              "label": "walls of the spaces contain smooth muscle"
+            }
+          ]
+        },
+        {
+          "label": "surgical excision",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "compromised ocular function"
+                },
+                {
+                  "label": "significant proptosis"
+                },
+                {
+                  "label": "significant growth"
+                }
+              ]
+            },
+            {
+              "label": "cavernous hemangiomas have surgical planes that allow easier separation from normal orbital tissues"
+            }
+          ]
+        },
+        {
+          "label": "rarely involute spontaneously"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.5.1. Orbital Neoplasms and Malformations (I) - Vascular Tumors (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 184,
+      "connector_rejected": 1,
+      "connector_edges": 183,
+      "connector_width": 0.739,
+      "text_labels": 186,
+      "tree_nodes": 186,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9946,
+      "root_font_size": 3.141,
+      "warnings": []
+    }
+  }
+}

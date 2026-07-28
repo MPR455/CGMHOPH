@@ -1,0 +1,708 @@
+{
+  "label": "4.8.1. Sclera",
+  "root": true,
+  "children": [
+    {
+      "label": "Congential anomalies",
+      "children": [
+        {
+          "label": "Choristoma",
+          "children": [
+            {
+              "label": "Epibulbar dermoid"
+            },
+            {
+              "label": "Episcleral osseous choristoma"
+            }
+          ]
+        },
+        {
+          "label": "Nanophthalmos",
+          "children": [
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "short axial length = 15-20 mm"
+            },
+            {
+              "label": "normal or slightly enlarged lens"
+            },
+            {
+              "label": "thick sclera",
+              "children": [
+                {
+                  "label": "impaired venous outflow"
+                }
+              ]
+            },
+            {
+              "label": "predisposition to uveal effusion",
+              "children": [
+                {
+                  "label": "caused by",
+                  "children": [
+                    {
+                      "label": "reduced protein permeability"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "glaucoma",
+              "children": [
+                {
+                  "label": "angle closure"
+                },
+                {
+                  "label": "pupillary block"
+                },
+                {
+                  "label": "elevated episcleral venous pressure"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "fraying/splitting of collagen fibrils"
+                },
+                {
+                  "label": "abnormal glycosaminoglycan matrix"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Topography",
+      "children": [
+        {
+          "label": "neural crest derivative",
+          "children": [
+            {
+              "label": "temporal sclera from mesoderm"
+            }
+          ]
+        },
+        {
+          "label": "covers 4/5 to 5/6 of eye surface area"
+        },
+        {
+          "label": "posterioly",
+          "children": [
+            {
+              "label": "outer 2/3 merges with dura of optic nerve"
+            },
+            {
+              "label": "inner 1/3 continues as lamina cribrosa"
+            }
+          ]
+        },
+        {
+          "label": "dimensions",
+          "children": [
+            {
+              "label": "diameter = 22 mm"
+            },
+            {
+              "label": "thickness",
+              "children": [
+                {
+                  "label": "posteriorly = 1 mm"
+                },
+                {
+                  "label": "posterior to muscle insertions = 0.3 mm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "layers",
+          "children": [
+            {
+              "label": "episclera",
+              "children": [
+                {
+                  "label": "loose fibrovascular tissue"
+                }
+              ]
+            },
+            {
+              "label": "stroma",
+              "children": [
+                {
+                  "label": "type I collagen",
+                  "children": [
+                    {
+                      "label": "28-300 nm"
+                    },
+                    {
+                      "label": "compared to corneal collagen fibers, scleral fibers are:",
+                      "children": [
+                        {
+                          "label": "thicker"
+                        },
+                        {
+                          "label": "more variable in thickness"
+                        },
+                        {
+                          "label": "more variable in orientation"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "emissary channels",
+                  "children": [
+                    {
+                      "label": "posteriorly",
+                      "children": [
+                        {
+                          "label": "posterior ciliary arteries"
+                        },
+                        {
+                          "label": "posterior ciliary nerves"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "equatorial",
+                      "children": [
+                        {
+                          "label": "vortex veins"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "anteriorly",
+                      "children": [
+                        {
+                          "label": "anterior ciliary arteries/veins"
+                        },
+                        {
+                          "label": "long posterior ciliary nerves (Axenfeld nerve loops)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lamina fusca",
+              "children": [
+                {
+                  "label": "pigmented, fibrovascular tissue"
+                },
+                {
+                  "label": "binds uvea to sclera"
+                },
+                {
+                  "label": "strongest uveoscleral attachments",
+                  "children": [
+                    {
+                      "label": "major emissary channels"
+                    },
+                    {
+                      "label": "anterior base of ciliary body"
+                    },
+                    {
+                      "label": "juxtapapillary region"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Degenerations",
+      "children": [
+        {
+          "label": "Senile Calcific Plaque",
+          "children": [
+            {
+              "label": "elderly"
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "flat"
+                },
+                {
+                  "label": "firm"
+                },
+                {
+                  "label": "sharply circumscribed"
+                },
+                {
+                  "label": "gray"
+                },
+                {
+                  "label": "rectangular/ovoid"
+                },
+                {
+                  "label": "<=1cm"
+                },
+                {
+                  "label": "bilateral"
+                },
+                {
+                  "label": "anterior to medial & lateral rectus muscle insertions"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "calcium",
+                  "children": [
+                    {
+                      "label": "midportion of scleral stroma"
+                    },
+                    {
+                      "label": "granular deposition - confluent plaque"
+                    },
+                    {
+                      "label": "stains",
+                      "children": [
+                        {
+                          "label": "von Kossa"
+                        },
+                        {
+                          "label": "alizarin red"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Scleral staphyloma",
+          "children": [
+            {
+              "label": "scleral ectasia lined by uveal tissue"
+            },
+            {
+              "label": "predisposing conditions",
+              "children": [
+                {
+                  "label": "scleritis"
+                },
+                {
+                  "label": "thin sclera posterior to rectus muscle insertions"
+                },
+                {
+                  "label": "long-standing increased intraocular pressure in children"
+                },
+                {
+                  "label": "axial myopia in children"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "thin sclera"
+                },
+                {
+                  "label": "+- fibrosis/scarring"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Inflammations",
+      "children": [
+        {
+          "label": "Episcleritis",
+          "children": [
+            {
+              "label": "Simple episcleritis",
+              "children": [
+                {
+                  "label": "3rd-5th decade"
+                },
+                {
+                  "label": "female=male"
+                },
+                {
+                  "label": "clinical",
+                  "children": [
+                    {
+                      "label": "slightly tender sectorial red area"
+                    },
+                    {
+                      "label": "anterior episclera"
+                    }
+                  ]
+                },
+                {
+                  "label": "predisposing condition",
+                  "children": [
+                    {
+                      "label": "none"
+                    }
+                  ]
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "vascular congestion"
+                    },
+                    {
+                      "label": "stromal edema"
+                    },
+                    {
+                      "label": "chronic nongranulomatous perivascular inflammation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Nodular episcleritis",
+              "children": [
+                {
+                  "label": "female>male",
+                  "children": [
+                    {
+                      "label": "in contrast to simple episcleritis"
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical",
+                  "children": [
+                    {
+                      "label": "tender pink-red nodule"
+                    },
+                    {
+                      "label": "anterior episclera"
+                    }
+                  ]
+                },
+                {
+                  "label": "predisposing condition",
+                  "children": [
+                    {
+                      "label": "systemic disease",
+                      "children": [
+                        {
+                          "label": "rheumatoid arthritis",
+                          "children": [
+                            {
+                              "label": "in contrast to simple episcleritis"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "necrobiotic granulomatous inflammatory infiltrate",
+                      "children": [
+                        {
+                          "label": "palisading epithelioid histiocytes"
+                        },
+                        {
+                          "label": "central core of necrotic collagen",
+                          "children": [
+                            {
+                              "label": "in contrast to simple episcleritis"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Sclertitis",
+          "children": [
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "painful"
+                },
+                {
+                  "label": "progressive"
+                }
+              ]
+            },
+            {
+              "label": "predisposing condition",
+              "children": [
+                {
+                  "label": "systemic autoimmune connective tissue diseases"
+                }
+              ]
+            },
+            {
+              "label": "Necrotizing scleritis",
+              "children": [
+                {
+                  "label": "types",
+                  "children": [
+                    {
+                      "label": "nodular"
+                    },
+                    {
+                      "label": "diffuse",
+                      "children": [
+                        {
+                          "label": "brawny scleritis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "histology",
+                  "children": [
+                    {
+                      "label": "necrobiotic granuloma",
+                      "children": [
+                        {
+                          "label": "central necrotic collagen",
+                          "children": [
+                            {
+                              "label": "severe scleral thinning/ectasia",
+                              "children": [
+                                {
+                                  "label": "herniation of uveal tissue",
+                                  "children": [
+                                    {
+                                      "label": "scleromalacia perforans"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "palisading epithelioid histiocytes/ multinucleated giant cells"
+                        },
+                        {
+                          "label": "peripheral rim of lymphocytes/plasma cells"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Nonnecrotizing scleritis",
+              "children": [
+                {
+                  "label": "nongranulomatous perivascular lymphocytic/ plasmacytic infiltrate"
+                },
+                {
+                  "label": "+- vasculitis",
+                  "children": [
+                    {
+                      "label": "fibrinoid necrosis of vessel wall"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Neoplasia",
+      "children": [
+        {
+          "label": "Fibrous histiocytoma",
+          "children": [
+            {
+              "label": "also know as",
+              "children": [
+                {
+                  "label": "fibroxanthoma"
+                },
+                {
+                  "label": "fibrohistiocytic tumor"
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "gelatinous gray vascularized nodule",
+                  "children": [
+                    {
+                      "label": "corneoscleral limbus"
+                    }
+                  ]
+                },
+                {
+                  "label": "more common in the orbit"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "proliferation of fibrocytes & histiocytes"
+                },
+                {
+                  "label": "whorled pattern"
+                },
+                {
+                  "label": "malignant fibrous histiocytoma",
+                  "children": [
+                    {
+                      "label": "increased mitotic activity"
+                    },
+                    {
+                      "label": "nuclear pleomorphism"
+                    },
+                    {
+                      "label": "necrosis"
+                    },
+                    {
+                      "label": "invasive growth pattern"
+                    },
+                    {
+                      "label": "does not metastasize"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Nodular fasciitis",
+          "children": [
+            {
+              "label": "young adults"
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "rapidly growing"
+                },
+                {
+                  "label": "round-oval"
+                },
+                {
+                  "label": "firm"
+                },
+                {
+                  "label": "white-gray nodule"
+                },
+                {
+                  "label": "0.5-1.5 cm"
+                },
+                {
+                  "label": "location",
+                  "children": [
+                    {
+                      "label": "limbus"
+                    },
+                    {
+                      "label": "anterior to rectus muscle insertion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "spindle cell proliferation",
+                  "children": [
+                    {
+                      "label": "resemble firbroblasts growing in tissue culture"
+                    },
+                    {
+                      "label": "aggregate in short fascicles"
+                    },
+                    {
+                      "label": "+- mitotic figures",
+                      "children": [
+                        {
+                          "label": "no unbalanced mitosis"
+                        },
+                        {
+                          "label": "may be misdiagnosed as sarcoma!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "vascular myxoid stroma",
+                  "children": [
+                    {
+                      "label": "chronic inflammatory infiltrate"
+                    },
+                    {
+                      "label": "foci of dense collagen deposition"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.8.1. Sclera.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 359,
+      "connector_rejected": 19,
+      "connector_edges": 243,
+      "connector_width": 1.149,
+      "text_labels": 179,
+      "tree_nodes": 179,
+      "component_roots": 5,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6769,
+      "root_font_size": 6.319,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "label": "4.11.8. Retina & Retinal pigment epithelium (VIII): Dystrophies",
+  "root": true,
+  "children": [
+    {
+      "label": "Fundus flavimaculatus/Stargardt disease",
+      "children": [
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "yellow flecks at level of RPE"
+            },
+            {
+              "label": "generalized vermilion (reddish) fundus color"
+            },
+            {
+              "label": "FA",
+              "children": [
+                {
+                  "label": "dark choroid"
+                },
+                {
+                  "label": "bull's eye pattern"
+                }
+              ]
+            },
+            {
+              "label": "gradual decrease in vision"
+            }
+          ]
+        },
+        {
+          "label": "genetic",
+          "children": [
+            {
+              "label": "autosomal recessive>>autosomal dominant"
+            },
+            {
+              "label": "mutations",
+              "children": [
+                {
+                  "label": "ABCA4",
+                  "children": [
+                    {
+                      "label": "most common"
+                    },
+                    {
+                      "label": "RIM protein",
+                      "children": [
+                        {
+                          "label": "membrane of ATP-binding cassette transporter family"
+                        },
+                        {
+                          "label": "rims of rods & cones disc membranes"
+                        },
+                        {
+                          "label": "vitamin A transport to RPE"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "STGD4"
+                },
+                {
+                  "label": "ELOVA4"
+                },
+                {
+                  "label": "RDS/peripherin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "hypertrophic/engorged RPE cells",
+              "children": [
+                {
+                  "label": "lipofuscin-like, PAS-positive material"
+                },
+                {
+                  "label": "apical displacement of RPE melanin granules"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "chloride ion channels"
+    },
+    {
+      "label": "Best vitelliform dystrophy (Best disease)",
+      "children": [
+        {
+          "label": "genetic",
+          "children": [
+            {
+              "label": "autosomal dominant"
+            },
+            {
+              "label": "VMD2 gene mutations",
+              "children": [
+                {
+                  "label": "chromosome 11 (11q13)"
+                },
+                {
+                  "label": "bestrophin protein",
+                  "children": [
+                    {
+                      "label": "basolateral RPE plasma membrane"
+                    },
+                    {
+                      "label": "involved in RPE cell volume regulation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "vitelliform macular lesion"
+            }
+          ]
+        },
+        {
+          "label": "EOG",
+          "children": [
+            {
+              "label": "decreased ratio of light peak/dark trough"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Retinitis pigmentosa",
+      "children": [
+        {
+          "label": "genetics",
+          "children": [
+            {
+              "label": "sporadic"
+            },
+            {
+              "label": "autosomal dominant",
+              "children": [
+                {
+                  "label": "rhodopsin (RHO) gene"
+                }
+              ]
+            },
+            {
+              "label": "autosomal recessive"
+            },
+            {
+              "label": "x-linked"
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "bone spicule pigmentation",
+              "children": [
+                {
+                  "label": "around retinal arterioles"
+                }
+              ]
+            },
+            {
+              "label": "arteriolar narrowing"
+            },
+            {
+              "label": "optic disc atrophy"
+            },
+            {
+              "label": "progressive visual field loss"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "rod photoreceptor loss",
+              "children": [
+                {
+                  "label": "apoptosis"
+                }
+              ]
+            },
+            {
+              "label": "secondary degeneratrion of cone photoreceptors"
+            },
+            {
+              "label": "RPE hyperplasia",
+              "children": [
+                {
+                  "label": "intraretinal migration around retinal vessels"
+                }
+              ]
+            },
+            {
+              "label": "thickening/hyalinization of retinal arterioles"
+            },
+            {
+              "label": "optic disc atrophy/gliosis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pattern dystorphies",
+      "children": [
+        {
+          "label": "varying patterns of pigment deposition in the macula at RPE level",
+          "children": [
+            {
+              "label": "butterfly-shaped pattern dystrophy"
+            },
+            {
+              "label": "adult-onset foveomacular vitelliform dystrophy",
+              "children": [
+                {
+                  "label": "slightly elevated"
+                },
+                {
+                  "label": "symmetric"
+                },
+                {
+                  "label": "round to oval"
+                },
+                {
+                  "label": "yellow"
+                },
+                {
+                  "label": "dystrophic material between photoreceptors and RPE"
+                }
+              ]
+            },
+            {
+              "label": "reticular dystrophy"
+            },
+            {
+              "label": "fundus pulverulentus"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "central loss of RPE & photoreceptors"
+            },
+            {
+              "label": "pigment-containing macrophages in subretinal space and outer retina"
+            },
+            {
+              "label": "adjacent RPE distension with lipofuscin"
+            },
+            {
+              "label": "basal lamina/liner deposits",
+              "children": [
+                {
+                  "label": "RDS/peripherin gene"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "genetics"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.11.8. Retina & Retinal pigment epithelium (VIII) - Dystrophies.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 152,
+      "connector_rejected": 9,
+      "connector_edges": 102,
+      "connector_width": 1.541,
+      "text_labels": 77,
+      "tree_nodes": 77,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6711,
+      "root_font_size": 5.137,
+      "warnings": []
+    }
+  }
+}

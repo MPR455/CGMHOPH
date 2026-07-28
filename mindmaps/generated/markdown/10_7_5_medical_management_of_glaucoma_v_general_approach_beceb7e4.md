@@ -1,0 +1,149 @@
+---
+title: "10.7.5. Medical Management of Glaucoma (V): General Approach"
+category: "Glaucoma"
+subcategory: ""
+source_pdf: "MindmapPDF/Glaucoma/10.7.5. Medical Management of Glaucoma (V) - General Approach.pdf"
+---
+
+# 10.7.5. Medical Management of Glaucoma (V): General Approach
+
+## Hierarchy
+
+- Compliance
+  - patient education
+    - first step
+    - understanding the disease and benefits of treatment enhances compliance
+      - when patients are aware of the possible side effects of a medication, compliance is enhanced
+    - include a discussion of treatment alternatives
+  - teach patients how to properly instill medications
+  - make drug regimen as simple as possible
+    - fewest number of medications with the least frequency
+    - coordinate administration with daily events
+  - written schedule
+- Generic Medications
+  - may be less expensive
+  - little data are available to prove or disprove equivalent efficacy and safety
+- Use of Glaucoma Medications in Elderly Patients
+  - elderly patients have greater difficulty instilling their medications
+    - tremor
+    - poor coordination
+    - arthritis
+    - reduced mental capacity
+    - poor memory
+    - complicated drug regimen
+  - elderly persons have a greater susceptibility to the systemic adverse effects of glaucoma medications
+    - α2-agonists
+    - β-adrenergic antagonists
+      - significant proportion of asymptomatic elderly patients suffer a significant, but reversible, reduction in pulmonary function
+- Open-Angle Glaucoma
+  - establish target IOP range
+  - initiate treatment with a single topical medication
+    - unless the starting IOP is extremely high
+    - initial medical therapy should be individualized based on the efficacy, safety, and tolerability of the drug and the patient’s status and needs
+    - briefly discuss treatment options with the patient
+  - first-line therapy
+    - drugs
+      - prostaglandin analogues
+        - most effective agents to lower IOP
+        - best systemic safety profile
+        - once-daily
+        - commonly the first class of medications used
+      - β-blockers
+        - best tolerated locally
+      - α2-agonists
+        - have significant systemic side effects
+      - topical CAIs
+    - test the medication in 1 eye until the effectiveness of therapy has been established
+      - unless the IOP is extremely high
+    - if 1 drug is not adequate, the initial agent may be discontinued and another tried
+    - if no single agent controls the pressure, a combination of topical agents should be used
+  - second-line therapy
+    - also includes
+      - miotic therapy for nonphakic patients
+      - in rare instances, systemic CAIs for short periods
+  - if the patient requires ≥3 medications
+    - compliance becomes more difficult
+    - potential for local ocular and systemic side effects increases
+    - patients may not tolerate multiple topical agents because of preservative toxicity
+      - benzalkonium chloride
+        - most commonly used preservative
+      - if a reaction is suspected, an alternative can be used
+        - preservative-free timolol maleate
+        - preservative-free tafluprost
+        - preservative-free dorzolamide
+        - BAK-free travoprost
+        - timolol in gel-forming solution preserved with benzododecinium bromide
+        - brimonidine 0.1% preserved with Purite
+        - preservative-free timolol/dorzolamide fixed combination
+      - it may be beneficial, for rehabilitation of the ocular surface, to stop all topical medications and to use unpreserved artificial tears frequently
+        - temporary use of oral CAIs may be useful to lower IOP during this period
+  - ophthalmologist must inquire about systemic side effects
+    - modification of systemic β-blocker therapy for hypertension may affect glaucoma control
+  - patient compliance may decline as the complexity and expense of the medical regimen increase
+  - monitor patient’s optic nerve and visual field status
+    - IOP, though important, is only one of several factors to monitor
+    - optic nerve photographs
+    - visual fields
+    - must be compared periodically to ensure that the disease is stable
+      - condition of the patient and severity of the disease determine how often each of these parameters must be checked
+  - if cupping or visual field damage shows evidence of progression despite apparent control of acceptable IOP, consider other diseases
+    - IOP level that is too high for the particular patient’s optic nerve
+    - IOP that may be spiking at times when the patient is not in the physician’s office
+    - low central corneal thickness
+    - sleep apnea
+    - concomitant angle closure
+    - poor patient compliance
+- B for Brimonidine
+- Use of Glaucoma Medications During Pregnancy or by Nursing Mothers
+  - little definitive information concerning the use of glaucoma medications in pregnant women or nursing mothers
+  - FDA classification system for potential teratogenicity of approved medications
+    - A, B, C, D, or X
+    - pregnancy Category B
+      - definition
+        - animal studies have revealed no harm to the fetus, but no adequate and well-controlled studies have been done in pregnant women
+          - animal studies have shown an adverse effect, but adequate and well-controlled studies in pregnant woman have failed to demonstrate a risk to the fetus
+        - brimonidine
+          - can cause respiratory arrest in infants and young children
+            - should not be used in these patients
+    - pregnancy Category C
+      - definition
+        - no animal studies have been conducted and it is not known whether the drug can cause harm when given to a pregnant woman
+        - adverse effect in animal studies, but there are no adequate and well-controlled studies of these drugs in pregnant women
+      - all other glaucoma agents
+        - timolol
+          - tends to be used during pregnancy, because of its long track record
+          - β-adrenergic antagonists are concentrated 5x in breast milk
+            - should be avoided in nursing mothers because of their potential adverse effects on infants
+        - CAIs
+          - teratogenic in rodents
+            - oral CAIs should not be used by women in their childbearing years or by those who are pregnant
+        - prostaglandins
+          - increase uterine contractility and may induce labor
+            - should not be used during pregnancy
+      - should be used during pregnancy only if clearly indicated
+    - X
+      - the most teratogenic
+  - minimize the use of medications in pregnant women whenever possible
+  - consider laser trabeculoplasty or surgical intervention in cases where vision loss is a concern
+- Administration of Ocular Medications
+  - show patients how to instill eyedrops properly
+  - methods to promote corneal penetration and reduce systemic absorption of the drug
+    - nasolacrimal occlusion
+    - closure of the eyes for 1–3 minutes after instillation of the eyedrop
+    - especially important with the use of β-blockers
+  - ensure that there is a sufficient amount of time between the instillation of different medications
+    - ≥5 minutes
+  - coordinate the administration of medication with a part of the daily routine
+  - dosing aid device
+    - especially for patients who live alone or who are unable to successfully instill eyedrops
+- Angle-Closure Glaucoma
+  - lower the IOP in preparation for laser iridotomy
+  - rapid IOP reduction is required in order to
+    - prevent further damage to the optic nerve
+    - clear the cornea of edema
+    - reduce intraocular inflammation
+    - allow pupillary constriction
+    - prevent formation of posterior and peripheral anterior synechiae
+  - medical therapy for chronic angle closure is the same as that for POAG
+    - miotics play a greater role
+      - use of miotics may induce a paradoxical increase in IOP if the angle is closed and the trabecular meshwork is nonfunctional

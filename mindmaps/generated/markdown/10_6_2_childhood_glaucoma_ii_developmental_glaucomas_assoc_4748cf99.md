@@ -1,0 +1,219 @@
+---
+title: "10.6.2. Childhood Glaucoma (II): Developmental Glaucomas Associated With Ocular or Systemic Anomalies"
+category: "Glaucoma"
+subcategory: ""
+source_pdf: "MindmapPDF/Glaucoma/10.6.2. Childhood Glaucoma (II) - Developmental Glaucomas Associated With Ocular or Systemic Anomalies.pdf"
+---
+
+# 10.6.2. Childhood Glaucoma (II): Developmental Glaucomas Associated With Ocular or Systemic Anomalies
+
+## Hierarchy
+
+- AD > sporadic
+  - PITX2
+  - FOXC1
+- sporadic > AD/AR
+  - Axenfeld-Rieger Syndrome
+  - Peters
+    - Genetics
+- PITX2
+  - FOXC1
+- PAX6
+  - AD
+  - CYP1B1
+    - AR
+- 50%
+  - band 11 of the long arm of chromosome 17
+- sporadic
+  - AD
+    - genetics
+    - Neurofibromatosis 1
+- 2/3
+  - AD
+- Axenfeld-Rieger Syndrome
+  - bilateral anomalous development of the neural crest–derived anterior segment structures
+    - anterior chamber angle
+    - iris
+    - trabecular meshwork
+  - M=F
+  - genetics
+    - autosomal dominant
+      - most cases
+        - PITX2
+      - FOXC1
+    - sporadic
+  - clinical presentation
+    - bilateral
+    - posterior embryotoxon
+      - prominent and anteriorly displaced Schwalbe line
+    - iridocorneal adhesions to the Schwalbe line
+      - threadlike to broad bands
+    - normal iris to markedly atrophic with corectopia, hole formation, and ectropion uveae
+    - glaucoma
+      - middle or late childhood
+    - associated findings
+      - developmental defects of the teeth or facial bones
+        - maxillary hypoplasia
+        - hypodontia
+      - redundant periumbilical skin
+      - pituitary abnormalities
+      - hypospadias
+  - differential diagnosis
+    - See Table 6-4
+- 1/3
+- Neurofibromatosis
+  - Neurofibromatosis 1
+    - "von Recklinghausen disease"
+    - "peripheral neurofibromatosis"
+    - 1 in 3000–5000 persons
+      - most common type
+    - inheritance
+      - autosomal dominant
+        - 50%
+        - band 11 of the long arm of chromosome 17
+      - sporadic
+    - clinical presentation
+      - eyelid neurofibromas
+      - Lisch nodules
+      - ectropion uveae
+        - common ocular finding
+        - presence in a neonate should prompt a workup for NF
+      - glaucoma
+      - optic nerve gliomas
+      - systemic findings
+        - cutaneous café-au-lait spots
+        - cutaneous neurofibromas
+        - axillary or inguinal freckling
+  - Neurofibromatosis 2
+    - causes PSC
+    - "central neurofibromatosis"
+    - bilateral acoustic neuromas
+    - not associated with glaucoma
+- AD
+  - sporadic
+    - Aniridia
+  - WAGR
+- AR
+- non-hereditary
+  - Gillespie
+  - Sturge-Weber
+- 50%
+  - similar to essential iris atrophy
+    - PPED also shows iridocorneal adhesions and corectopia; AD; 14% glaucoma
+- bilateral
+- second decade of life or later
+- Peters Anomaly
+  - epidemiology
+    - sporadic
+      - most cases are sporadic
+    - autosomal dominant and autosomal recessive forms have been reported
+      - genetics
+        - PITX2
+          - AD
+        - FOXC1
+        - PAX6
+        - CYP1B1
+          - AR
+  - clinical presentation
+    - bilateral
+    - annular corneal opacity (leukoma) in central visual axis
+    - defect in corneal endothelium, Descemet membrane, and posterior stroma
+    - adhesions between iris strands from collarette to corneal opacity
+    - lens
+      - normal position ± cataract
+    - glaucoma
+      - may be adherent to the posterior layers of the cornea
+        - patients with corneolenticular adhesions have a higher likelihood of ocular/systemic abnormalities
+      - 50%
+  - associated findings
+    - angle anomalies
+      - microcornea
+    - systemic abnormalities
+      - heart, genitourinary tract, musculoskeletal system, ear, palate, and spine
+  - treatment
+    - very difficult to treat
+    - angle surgery
+    - medical therapy
+    - trabeculectomy
+    - glaucoma drainage devices
+    - cyclodestructive procedures
+- Aniridia
+  - clinical presentation
+    - rudimentary stump of iris
+      - iris appearance may vary greatly
+        - ± nearly complete but thin irides
+    - other ocular anomalies
+      - small corneas
+      - cataract
+        - present at birth or develop later in life
+      - optic nerve and foveal hypoplasia
+        - pendular nystagmus
+      - limbal stem cell abnormalities
+        - corneal pannus
+          - reduced vision
+          - slowly extends centrally
+        - limbal stem cell transplant
+    - glaucoma
+      - 50%–75%
+      - rudimentary iris stump rotates anteriorly to progressively cover the trabecular meshwork
+        - synechial angle closure
+        - closely follow the angle with serial gonioscopy
+      - primary maldevelopment of the drainage angle
+        - elevated IOP at a younger age
+  - epidemiology
+    - familial
+      - most cases
+      - autosomal dominant
+      - few cases of Wilms tumor are seen in the familial form
+    - sporadic
+      - 1/3
+      - 20% associated with a large chromosomal deletion that includes the Wilms tumor 1 gene (WT1)
+        - tumor suppressor gene
+          - increased risk of Wilms tumor
+  - aniridia associated with systemic abnormalities
+    - WAGR syndrome
+      - 13% of patients with aniridia
+      - Wilms tumor
+        - autosomal dominant
+      - aniridia
+      - genitourinary anomalies
+      - mental retardation
+    - Gillespie syndrome
+      - 2% of patients with aniridia
+      - autosomal recessive
+      - cerebellar ataxia
+      - intellectual disability
+  - management
+    - prophylactic goniosurgery
+      - infants with a strong family history of aniridic glaucoma
+    - goniosurgery
+      - young children with progressive angle narrowing
+    - trabeculectomy
+      - if the angle is not fully closed
+    - glaucoma drainage devices
+    - cyclophotocoagulation
+- Sturge-Weber Syndrome
+  - encephalotrigeminal angiomatosis
+  - epidemiology
+    - no race or sex predilection
+      - no inheritance pattern
+  - clinical presentation
+    - unilateral
+      - rarely bilateral
+    - ipsilateral facial cutaneous hemangioma (nevus flammeus or port-wine stain)
+    - ipsilateral cavernous hemangioma of the choroid
+    - ipsilateral leptomeningeal angioma
+      - seizures
+      - focal neurological defects
+      - intellectual disability
+    - glaucoma
+      - 30%–70%
+      - more common when the nevus flammeus involves the eyelids
+        - similar to aniridia
+      - infants
+        - congenital anterior chamber anomalies (similar to congenital glaucoma)
+      - after the first decade of life
+        - elevated episcleral venous pressure
+          - secondary angle closure in aniridia
+  - trabeculectomy should be performed with caution
+    - risk of choroidal effusion/hemorrhage

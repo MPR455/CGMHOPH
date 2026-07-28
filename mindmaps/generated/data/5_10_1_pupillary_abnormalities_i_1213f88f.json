@@ -1,0 +1,402 @@
+{
+  "label": "5.10.1. Pupillary Abnormalities (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "History",
+      "children": [
+        {
+          "label": "patient may not be aware of pupil abnormality",
+          "children": [
+            {
+              "label": "especially dark-colored irides"
+            }
+          ]
+        },
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "photophobia"
+            },
+            {
+              "label": "difficulty focusing when going from dark to light or light to dark"
+            },
+            {
+              "label": "blurring of vision"
+            }
+          ]
+        },
+        {
+          "label": "clinician should inquire about",
+          "children": [
+            {
+              "label": "new medications"
+            },
+            {
+              "label": "ocular infections"
+            },
+            {
+              "label": "face or neck trauma"
+            },
+            {
+              "label": "headache or facial pain"
+            },
+            {
+              "label": "change in eyelid position"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pupil Irregularity",
+      "children": [
+        {
+          "label": "congenital iris malformations",
+          "children": [
+            {
+              "label": "coloboma"
+            },
+            {
+              "label": "aniridia"
+            }
+          ]
+        },
+        {
+          "label": "blunt trauma",
+          "children": [
+            {
+              "label": "focal tears in the sphincter muscle."
+            },
+            {
+              "label": "iridodialysis"
+            }
+          ]
+        },
+        {
+          "label": "intraocular inflammation",
+          "children": [
+            {
+              "label": "synechiae"
+            }
+          ]
+        },
+        {
+          "label": "iris neovascularization"
+        },
+        {
+          "label": "surgical procedures",
+          "children": [
+            {
+              "label": "cataract surgery",
+              "children": [
+                {
+                  "label": "leading cause of a misshapen pupil in an adult"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "tadpole pupil",
+          "children": [
+            {
+              "label": "focal spasm of the iris dilator muscle",
+              "children": [
+                {
+                  "label": "peaking of the pupil"
+                }
+              ]
+            },
+            {
+              "label": "lasts a few minutes"
+            },
+            {
+              "label": "may occur numerous times over several days or a week"
+            },
+            {
+              "label": "spontaneous resolution"
+            },
+            {
+              "label": "small percentage harbor underlying sympathetic lesion",
+              "children": [
+                {
+                  "label": "pharmacologic testing for Horner syndrome is recommended !"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "midbrain corectopia",
+          "children": [
+            {
+              "label": "eccentric or oval pupils"
+            },
+            {
+              "label": "rostral midbrain disease",
+              "children": [
+                {
+                  "label": "incomplete damage of the pupillary fibers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pupillary Examination",
+      "children": [
+        {
+          "label": "inspection of previous photographs"
+        },
+        {
+          "label": "pupil size",
+          "children": [
+            {
+              "label": "shine a handheld light obliquely from below the nose"
+            },
+            {
+              "label": "patient should fixate on a distant target",
+              "children": [
+                {
+                  "label": "do not block the patient’s fixation!"
+                }
+              ]
+            },
+            {
+              "label": "poor vision in 1 eye is never a cause of anisocoria"
+            }
+          ]
+        },
+        {
+          "label": "pupillary light reflex",
+          "children": [
+            {
+              "label": "briefly shine a bright focal light onto 1 pupil and note the speed and amplitude of its constriction"
+            }
+          ]
+        },
+        {
+          "label": "pupillary near response",
+          "children": [
+            {
+              "label": "accommodative target with fine detail"
+            },
+            {
+              "label": "moderate room light",
+              "children": [
+                {
+                  "label": "patient’s pupils are midsize and the near object is clearly visible"
+                }
+              ]
+            },
+            {
+              "label": "requires sufficient patient effort",
+              "children": [
+                {
+                  "label": "“practice runs” may be needed"
+                },
+                {
+                  "label": "a better response is obtained if auditory input is added to the visual stimulus"
+                },
+                {
+                  "label": "a lack of near response usually indicates that the patient is not trying hard enough"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "slit-lamp examination",
+          "children": [
+            {
+              "label": "an essential part of the pupillary examination"
+            },
+            {
+              "label": "acute corneal injury",
+              "children": [
+                {
+                  "label": "small pupil in the presence of ciliary spasm"
+                }
+              ]
+            },
+            {
+              "label": "anterior chamber inflammation",
+              "children": [
+                {
+                  "label": "small pupil in the presence of ciliary spasm"
+                }
+              ]
+            },
+            {
+              "label": "transillumination iris defects",
+              "children": [
+                {
+                  "label": "iris damage from previous trauma, infection, or inflammation"
+                }
+              ]
+            },
+            {
+              "label": "angle-closure glaucoma",
+              "children": [
+                {
+                  "label": "dilated pupil"
+                }
+              ]
+            },
+            {
+              "label": "sectoral paralysis of the iris sphincter",
+              "children": [
+                {
+                  "label": "tonic pupil"
+                },
+                {
+                  "label": "aberrant regeneration of the oculomotor nerve"
+                },
+                {
+                  "label": "placing a wide beam at an angle to the iris and turning the light off and on while observing one sector of the sphincter at a time under high magnification"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "white pupil (leukocoria)",
+          "children": [
+            {
+              "label": "persistent hyperplastic primary vitreous"
+            },
+            {
+              "label": "retinopathy of prematurity"
+            },
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "retinoblastoma",
+              "children": [
+                {
+                  "label": "20%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pharmacologic agents",
+          "children": [
+            {
+              "label": "can be used to confirm a clinical suspicion of",
+              "children": [
+                {
+                  "label": "Horner syndrome"
+                },
+                {
+                  "label": "tonic pupil"
+                },
+                {
+                  "label": "pharmacologic mydriasis"
+                }
+              ]
+            },
+            {
+              "label": "false-positive and false-negative test results can occur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Baseline Pupil Size",
+      "children": [
+        {
+          "label": "resting pupil size is influenced by",
+          "children": [
+            {
+              "label": "ambient light"
+            },
+            {
+              "label": "retinal adaptation"
+            },
+            {
+              "label": "level of arousal",
+              "children": [
+                {
+                  "label": "sleepiness causes small pupils"
+                }
+              ]
+            },
+            {
+              "label": "patient age",
+              "children": [
+                {
+                  "label": "pupils become smaller with age"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "extremely small pupils",
+          "children": [
+            {
+              "label": "pontine hemorrhage"
+            },
+            {
+              "label": "narcotic intoxication"
+            },
+            {
+              "label": "pilocarpine use"
+            }
+          ]
+        },
+        {
+          "label": "extremely large pupils",
+          "children": [
+            {
+              "label": "parasympathetic pharmacologic blockade"
+            },
+            {
+              "label": "stimulants"
+            },
+            {
+              "label": "high anxiety"
+            },
+            {
+              "label": "generalized tonic-clonic seizure",
+              "children": [
+                {
+                  "label": "dilated pupil"
+                }
+              ]
+            },
+            {
+              "label": "elevated intraocular pressure"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.10.1. Pupillary Abnormalities (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 175,
+      "connector_rejected": 4,
+      "connector_edges": 132,
+      "connector_width": 1.273,
+      "text_labels": 101,
+      "tree_nodes": 101,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7543,
+      "root_font_size": 4.457,
+      "warnings": []
+    }
+  }
+}

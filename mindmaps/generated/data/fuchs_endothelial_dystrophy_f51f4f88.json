@@ -1,0 +1,424 @@
+{
+  "label": "Fuchs Endothelial Dystrophy",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "70-year-old woman with bilateral blurred vision that is worse upon awakening in the morning"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "“beaten metal” appearance of the corneal endothelium with mild stromal edema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "pachymetry (corneal thickness)"
+        },
+        {
+          "label": "specular microscopy",
+          "children": [
+            {
+              "label": "normal endothelial cell count",
+              "children": [
+                {
+                  "label": "After birth=4000"
+                },
+                {
+                  "label": "Young adult= 3000"
+                },
+                {
+                  "label": "60 years=2500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "Fuchs ED"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "Fuchs ED",
+          "children": [
+            {
+              "label": "non-hereditary",
+              "children": [
+                {
+                  "label": "most common"
+                }
+              ]
+            },
+            {
+              "label": "AD"
+            },
+            {
+              "label": "predictors of corneal decompensation following intraocular surgery",
+              "children": [
+                {
+                  "label": "• Hexagonality <50%",
+                  "children": [
+                    {
+                      "label": "• coefficient of variation >0.4",
+                      "children": [
+                        {
+                          "label": "• Endothelial cell density <1000"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "• CCT >640"
+                },
+                {
+                  "label": "morning increase in corneal thickness"
+                },
+                {
+                  "label": "presence of epithelial edema"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ICE syndrome",
+          "children": [
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "beaten-metal appearance"
+            },
+            {
+              "label": "iris thinning"
+            },
+            {
+              "label": "corectopia"
+            },
+            {
+              "label": "polycoria"
+            },
+            {
+              "label": "high IOP"
+            }
+          ]
+        },
+        {
+          "label": "pseudophakic bullous keratopathy"
+        },
+        {
+          "label": "PPMD",
+          "children": [
+            {
+              "label": "AD"
+            },
+            {
+              "label": "grouped vesicles, broad bands"
+            },
+            {
+              "label": "corectopia"
+            },
+            {
+              "label": "iridocorneal adhesions"
+            },
+            {
+              "label": "high IOP"
+            }
+          ]
+        },
+        {
+          "label": "pigment dispersion syndrome",
+          "children": [
+            {
+              "label": "pigment mimics guttae"
+            }
+          ]
+        },
+        {
+          "label": "CHED",
+          "children": [
+            {
+              "label": "bilateral corneal edema at birth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "warm air from a hair dryer at arm’s length every morning"
+            },
+            {
+              "label": "sodium-chloride 5%"
+            },
+            {
+              "label": "glaucoma drops",
+              "children": [
+                {
+                  "label": "if high IOP",
+                  "children": [
+                    {
+                      "label": "100-200 micron thickness"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "endothelial transplant",
+              "children": [
+                {
+                  "label": "DSAEK",
+                  "children": [
+                    {
+                      "label": "Descemet Membrane Endothelial Keratoplasty (DMEK) is very similar to DSAEK, except that the donor tissue implanted does not include any stromal tissue",
+                      "children": [
+                        {
+                          "label": "10-15 micron thickness"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "DMEK"
+                }
+              ]
+            },
+            {
+              "label": "descemetorhexis",
+              "children": [
+                {
+                  "label": "removal of a relatively small area of abnormal Descemet"
+                },
+                {
+                  "label": "results in mitosis of normal endothelial cells from the periphery causing resolution of corneal edema"
+                },
+                {
+                  "label": "± topical and/or intracameral Rho kinase (ROCK) inhibitor"
+                }
+              ]
+            },
+            {
+              "label": "PK",
+              "children": [
+                {
+                  "label": "if anterior corneal scarring"
+                }
+              ]
+            },
+            {
+              "label": "evaluate corneal health before cataract surgery",
+              "children": [
+                {
+                  "label": "if stromal edema",
+                  "children": [
+                    {
+                      "label": "triple procedure",
+                      "children": [
+                        {
+                          "label": "high pachymetry readings or low endothelial cell count are not indications for triple procedure"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "worsening corneal edema after cataract surgery"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "AD inheritance in some cases"
+            }
+          ]
+        },
+        {
+          "label": "Course",
+          "children": [
+            {
+              "label": "slowly progressive"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "corneal edema"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "every 3-12 months"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course of symptoms",
+              "children": [
+                {
+                  "label": "decreased vision",
+                  "children": [
+                    {
+                      "label": "variation during the day",
+                      "children": [
+                        {
+                          "label": "worse in the morning"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "pain",
+                  "children": [
+                    {
+                      "label": "bullous keratopathy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "previous cataract surgery"
+            },
+            {
+              "label": "family history of similar condition or corneal graft"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "BCVA"
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "microcystic epithelial edema"
+            },
+            {
+              "label": "stromal corneal edema"
+            },
+            {
+              "label": "endothelial changes",
+              "children": [
+                {
+                  "label": "corneal guttae",
+                  "children": [
+                    {
+                      "label": "best seen with retroillumination"
+                    }
+                  ]
+                },
+                {
+                  "label": "grouped vesicles, broad bands on retroillumination",
+                  "children": [
+                    {
+                      "label": "PPMD"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fluroescein staining",
+              "children": [
+                {
+                  "label": "intact/ruptured bullae"
+                }
+              ]
+            },
+            {
+              "label": "Krukenberg spindle",
+              "children": [
+                {
+                  "label": "pigment dispersion syndrome"
+                }
+              ]
+            },
+            {
+              "label": "examine other eye",
+              "children": [
+                {
+                  "label": "unilateral vs bilateral"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Fuchs Endothelial Dystrophy.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 160,
+      "connector_rejected": 3,
+      "connector_edges": 117,
+      "connector_width": 0.897,
+      "text_labels": 103,
+      "tree_nodes": 103,
+      "component_roots": 7,
+      "spatially_recovered_labels": 7,
+      "connector_match_ratio": 0.7312,
+      "root_font_size": 6.281,
+      "warnings": []
+    }
+  }
+}

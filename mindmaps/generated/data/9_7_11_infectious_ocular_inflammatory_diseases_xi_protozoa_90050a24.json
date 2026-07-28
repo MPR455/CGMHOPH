@@ -1,0 +1,562 @@
+{
+  "label": "9.7.11. Infectious Ocular Inflammatory Diseases (XI): Protozoal Uveitis (I): Toxoplasmosis (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Pathogenesis & epidemiology",
+      "children": [
+        {
+          "label": "Toxoplasma gondii",
+          "children": [
+            {
+              "label": "single-cell obligate intracellular apicomplexan parasite",
+              "children": [
+                {
+                  "label": "felines are definitive hosts"
+                },
+                {
+                  "label": "humans and a variety of other animals are intermediate hosts"
+                }
+              ]
+            },
+            {
+              "label": "3 genotypes",
+              "children": [
+                {
+                  "label": "type I",
+                  "children": [
+                    {
+                      "label": "more virulent",
+                      "children": [
+                        {
+                          "label": "more severe disease and higher rates of ocular involvement"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "type II",
+                  "children": [
+                    {
+                      "label": "most human infections in North America and Europe"
+                    },
+                    {
+                      "label": "less virulent than type I and atypical recombinant genotypes"
+                    }
+                  ]
+                },
+                {
+                  "label": "type III"
+                },
+                {
+                  "label": "atypical recombinant genotypes",
+                  "children": [
+                    {
+                      "label": "more virulent",
+                      "children": [
+                        {
+                          "label": "more severe disease and higher rates of ocular involvement"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "3 major forms",
+              "children": [
+                {
+                  "label": "oocyst (soil form)",
+                  "children": [
+                    {
+                      "label": "contains sporozoites"
+                    },
+                    {
+                      "label": "the result of sexual reproduction in the intestinal mucosa of felines",
+                      "children": [
+                        {
+                          "label": "shed in infected cats’ feces",
+                          "children": [
+                            {
+                              "label": "maturation in the soil",
+                              "children": [
+                                {
+                                  "label": "ingested by intermediate hosts or reingested by cats"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "10–12 μm"
+                    }
+                  ]
+                },
+                {
+                  "label": "tachyzoite (infectious form)",
+                  "children": [
+                    {
+                      "label": "proliferative form",
+                      "children": [
+                        {
+                          "label": "found in the circulatory system and may invade nearly all host tissue"
+                        },
+                        {
+                          "label": "replication of tachyzoites eventually ceases, with some microorganisms persisting as dormant bradyzoites within intercellular tissue cysts"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "4–8 μm"
+                    }
+                  ]
+                },
+                {
+                  "label": "tissue cyst (latent form)",
+                  "children": [
+                    {
+                      "label": "contains bradyzoites"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "worldwide distribution",
+          "children": [
+            {
+              "label": "most common cause of infectious posterior uveitis in adults and children",
+              "children": [
+                {
+                  "label": "≤38%",
+                  "children": [
+                    {
+                      "label": "10–200 μm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "prevalence of T gondii infection",
+              "children": [
+                {
+                  "label": "22.5% in US",
+                  "children": [
+                    {
+                      "label": "2% ocular toxoplasmosis among infected persons"
+                    },
+                    {
+                      "label": "70-80% of women of childbearing age in US lack antibodies to T gondii",
+                      "children": [
+                        {
+                          "label": "0.2-1% incidence of toxoplasmosis acquired during pregnancy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "80% in southern Brazil",
+                  "children": [
+                    {
+                      "label": "congenital infection in 1/770 live births",
+                      "children": [
+                        {
+                          "label": "18% ocular toxoplasmosis among infected persons"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "reported seropositivity rates among healthy adults",
+              "children": [
+                {
+                  "label": "3-10.8% in US",
+                  "children": [
+                    {
+                      "label": "15-40% among patients with HIV infection in US"
+                    }
+                  ]
+                },
+                {
+                  "label": "50-80% in France"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "modes of transmission",
+          "children": [
+            {
+              "label": "ingestion of undercooked, infected meat containing tissue cysts"
+            },
+            {
+              "label": "ingestion of contaminated water, fruit, or vegetables with oocysts"
+            },
+            {
+              "label": "inadvertent contact with cat feces, cat litter, or soil containing oocysts"
+            },
+            {
+              "label": "transplacental transmission with primary infection during pregnancy"
+            },
+            {
+              "label": "blood transfusion or organ transplantation"
+            }
+          ]
+        },
+        {
+          "label": "toxoplasmosis after infancy (postnatal)",
+          "children": [
+            {
+              "label": "reactivation of congenital infection"
+            },
+            {
+              "label": "acquired infection",
+              "children": [
+                {
+                  "label": "occurs in all age groups",
+                  "children": [
+                    {
+                      "label": "primary prevention strategies, must target not only pregnant women but also children and adults at risk"
+                    }
+                  ]
+                },
+                {
+                  "label": "≤two-thirds of cases of toxoplasmic ocular disease"
+                },
+                {
+                  "label": "ocular disease can arise without concurrent systemic signs or symptoms"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Clinical presentation",
+      "children": [
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "unilateral blurred or hazy vision"
+            },
+            {
+              "label": "floaters"
+            }
+          ]
+        },
+        {
+          "label": "mild to moderate granulomatous anterior uveitis"
+        },
+        {
+          "label": "elevated IOP",
+          "children": [
+            {
+              "label": "20%"
+            }
+          ]
+        },
+        {
+          "label": "focal, white retinochoroiditis",
+          "children": [
+            {
+              "label": "overlying moderate vitreous inflammation",
+              "children": [
+                {
+                  "label": "“headlight in the fog”"
+                }
+              ]
+            },
+            {
+              "label": "+- adjacent to a pigmented retinochoroidal scar",
+              "children": [
+                {
+                  "label": "focal retinochoroiditis in the absence of retinochoroidal scarring should raise the suspicion of acquired disease or of another etiology"
+                }
+              ]
+            },
+            {
+              "label": "more commonly in the posterior pole"
+            },
+            {
+              "label": "occasionally found immediately adjacent to or directly involving the optic nerve"
+            }
+          ]
+        },
+        {
+          "label": "retinal vessels in the vicinity of an active lesion may show perivasculitis",
+          "children": [
+            {
+              "label": "diffuse venous sheathing"
+            },
+            {
+              "label": "segmental arterial plaques (kyrieleis arteriolitis)"
+            },
+            {
+              "label": "vascular occlusions"
+            }
+          ]
+        },
+        {
+          "label": "additional ocular complications",
+          "children": [
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "persistent vitreous opacities"
+            },
+            {
+              "label": "CME"
+            },
+            {
+              "label": "retinal detachment"
+            },
+            {
+              "label": "epiretinal membranes"
+            },
+            {
+              "label": "optic atrophy"
+            },
+            {
+              "label": "CNV"
+            }
+          ]
+        },
+        {
+          "label": "large, multiple, and/or bilateral lesions",
+          "children": [
+            {
+              "label": "immunocompromised patients"
+            },
+            {
+              "label": "older patients"
+            },
+            {
+              "label": "patients receiving steroids without concomitant antiparasitic therapy"
+            }
+          ]
+        },
+        {
+          "label": "atypical presentations",
+          "children": [
+            {
+              "label": "neuroretinitis"
+            },
+            {
+              "label": "punctate outer retinal toxoplasmosis (PORT)",
+              "children": [
+                {
+                  "label": "small, multifocal lesions at the level of the outer retina"
+                },
+                {
+                  "label": "exudation to subretinal space"
+                },
+                {
+                  "label": "scant overlying vitreal inflammation"
+                }
+              ]
+            },
+            {
+              "label": "unilateral pigmentary retinopathy simulating retinitis pigmentosa"
+            },
+            {
+              "label": "other forms of intraocular inflammation in the absence of retinochoroiditis"
+            }
+          ]
+        },
+        {
+          "label": "clinical course",
+          "children": [
+            {
+              "label": "recurrent disease",
+              "children": [
+                {
+                  "label": "new lesions develop",
+                  "children": [
+                    {
+                      "label": "at the margins of old scars"
+                    },
+                    {
+                      "label": "elsewhere in the fundus",
+                      "children": [
+                        {
+                          "label": "cysts may be present in normal-appearing retina"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "immunocompetent patient",
+              "children": [
+                {
+                  "label": "self-limiting course"
+                },
+                {
+                  "label": "borders of the lesions become sharper/less edematous over a 6–8-week period without treatment"
+                },
+                {
+                  "label": "RPE hypertrophy occurs over a period of months"
+                }
+              ]
+            },
+            {
+              "label": "immunocompromised patient",
+              "children": [
+                {
+                  "label": "disease is more severe and progressive"
+                },
+                {
+                  "label": "HIV/AIDS",
+                  "children": [
+                    {
+                      "label": "frequent association of ocular disease with cerebral involvement (56%)"
+                    },
+                    {
+                      "label": "frequent recurrence of ocular disease when antitoxoplasmic medication is discontinued"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Congenital infection",
+      "children": [
+        {
+          "label": "40% of primary maternal infections result in congenital infection",
+          "children": [
+            {
+              "label": "highest during the third trimester"
+            }
+          ]
+        },
+        {
+          "label": "risk of severe disease developing in fetus is inversely proportional to gestational age",
+          "children": [
+            {
+              "label": "early in pregnancy may result in spontaneous abortion, stillbirth, or severe congenital disease"
+            },
+            {
+              "label": "acquired later in gestation may produce an asymptomatic, normal-appearing infant with latent infection"
+            }
+          ]
+        },
+        {
+          "label": "chronic or recurrent maternal infection during pregnancy is not thought to confer a significant risk of congenital toxoplasmosis"
+        },
+        {
+          "label": "precautions for pregnant women without serologic evidence of T gondii infection",
+          "children": [
+            {
+              "label": "drink only well-filtered or boiled water.",
+              "children": [
+                {
+                  "label": "avoid ingestion of raw/undercooked meat (freezing at –20°c/–4°f overnight also destroys tissue cysts)"
+                }
+              ]
+            },
+            {
+              "label": "carefully wash vegetables and fruits before consumption."
+            },
+            {
+              "label": "use gloves and wash hands and kitchen utensils well after handling meat or soil."
+            },
+            {
+              "label": "avoid contact with felines and their feces (including in soil or litter boxes)."
+            }
+          ]
+        },
+        {
+          "label": "periodic serologic screening of susceptible women during pregnancy in endemic areas"
+        },
+        {
+          "label": "clinical presentation (Sabin's tetrad)",
+          "children": [
+            {
+              "label": "retinochoroiditis",
+              "children": [
+                {
+                  "label": "most common abnormality in patients with congenital toxoplasmosis",
+                  "children": [
+                    {
+                      "label": "80%"
+                    },
+                    {
+                      "label": "may be subclinical and chronic",
+                      "children": [
+                        {
+                          "label": "25% become blind in 1 or both eyes"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "85% bilateral"
+                },
+                {
+                  "label": "predilection for the posterior pole and macula"
+                }
+              ]
+            },
+            {
+              "label": "hydrocephalus or microcephaly"
+            },
+            {
+              "label": "intracranial calcifications",
+              "children": [
+                {
+                  "label": "diffuse"
+                }
+              ]
+            },
+            {
+              "label": "cognitive impairment"
+            }
+          ]
+        },
+        {
+          "label": "antiparasitic therapy for newborns with congenital toxoplasmosis during the first year of life"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.11. Infectious Ocular Inflammatory Diseases (XI) - Protozoal Uveitis (I) - Toxoplasmosis (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 288,
+      "connector_rejected": 40,
+      "connector_edges": 172,
+      "connector_width": 0.712,
+      "text_labels": 141,
+      "tree_nodes": 141,
+      "component_roots": 3,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.5972,
+      "root_font_size": 2.671,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "label": "5.14.9. Systemic Conditions (IX): Cerebrovascular Disorders (I): Vertebrobasilar System Disease",
+  "root": true,
+  "children": [
+    {
+      "label": "Transient Visual Loss",
+      "children": [
+        {
+          "label": "transient neurologic or ophthalmic symptoms in middle-aged/elderly patients suggest a vascular origin"
+        },
+        {
+          "label": "ischemia",
+          "children": [
+            {
+              "label": "vertebrobasilar artery territory"
+            },
+            {
+              "label": "carotid artery territory"
+            }
+          ]
+        },
+        {
+          "label": "major cause of death in these patients is coronary artery disease"
+        },
+        {
+          "label": "control risk factors for cardiovascular disease",
+          "children": [
+            {
+              "label": "hypertension"
+            },
+            {
+              "label": "diabetes mellitus"
+            },
+            {
+              "label": "hyperlipidemias"
+            },
+            {
+              "label": "cessation of smoking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "vertebrobasilar system (posterior circulation)",
+      "children": [
+        {
+          "label": "vertebral, basilar, and posterior cerebral arteries"
+        }
+      ]
+    },
+    {
+      "label": "etiology",
+      "children": [
+        {
+          "label": "atheromatous occlusion"
+        },
+        {
+          "label": "microembolization"
+        },
+        {
+          "label": "fluctuations in cardiac output"
+        },
+        {
+          "label": "hypertensive vascular disease (lacunar infarction)"
+        },
+        {
+          "label": "arterial dissection"
+        },
+        {
+          "label": "congenital aplasia or hypoplasia of a vertebral or posterior communicating artery"
+        },
+        {
+          "label": "mechanical factors",
+          "children": [
+            {
+              "label": "cervical spondylosis"
+            },
+            {
+              "label": "chiropractic manipulation of the cervical spine"
+            }
+          ]
+        },
+        {
+          "label": "subclavian steal",
+          "children": [
+            {
+              "label": "reversal of blood flow in the vertebral artery"
+            },
+            {
+              "label": "caused by a proximal occlusion of the subclavian artery"
+            }
+          ]
+        },
+        {
+          "label": "vasospasm"
+        },
+        {
+          "label": "polycythemia"
+        },
+        {
+          "label": "hypercoagulable states"
+        },
+        {
+          "label": "anemia"
+        }
+      ]
+    },
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "ocular motor and visual symptoms are prominent",
+          "children": [
+            {
+              "label": "supplies",
+              "children": [
+                {
+                  "label": "occipital cortex"
+                },
+                {
+                  "label": "brainstem"
+                }
+              ]
+            },
+            {
+              "label": "cerebellum"
+            }
+          ]
+        },
+        {
+          "label": "visual symptoms",
+          "children": [
+            {
+              "label": "almost as frequently as vertigo"
+            },
+            {
+              "label": "alone or in combination with the other symptoms of vertebrobasilar insufficiency"
+            },
+            {
+              "label": "seconds to minutes",
+              "children": [
+                {
+                  "label": "sudden bilateral blurring/dimming/graying/ whiting out of vision"
+                }
+              ]
+            },
+            {
+              "label": "repetitive"
+            },
+            {
+              "label": "± flickering or flashing stars"
+            },
+            {
+              "label": "± photopsia",
+              "children": [
+                {
+                  "label": "closely mimicking the scintillating scotomata of migraine"
+                }
+              ]
+            },
+            {
+              "label": "migraine can produce similar symptoms, with or without an associated headache"
+            },
+            {
+              "label": "visual field changes",
+              "children": [
+                {
+                  "label": "homonymous visual field changes without other neurologic symptoms suggest involvement of the posterior circulation"
+                },
+                {
+                  "label": "highly congruous homonymous visual field defects without other symptoms are typical of occipital lobe infarcts"
+                }
+              ]
+            },
+            {
+              "label": "cortical blindness",
+              "children": [
+                {
+                  "label": "bilateral occipital lobe lesions",
+                  "children": [
+                    {
+                      "label": "reading difficulties without an obvious cause",
+                      "children": [
+                        {
+                          "label": "perform visual field and Amsler grid examination",
+                          "children": [
+                            {
+                              "label": "look for centrally located congruous homonymous visual field defects"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "amaurosis"
+                },
+                {
+                  "label": "normally reactive pupils"
+                },
+                {
+                  "label": "unremarkable fundus appearance"
+                },
+                {
+                  "label": "patients may deny their blindness",
+                  "children": [
+                    {
+                      "label": "Anton syndrome"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular motor disturbances",
+          "children": [
+            {
+              "label": "common with vertebrobasilar insufficiency"
+            },
+            {
+              "label": "horizontal or vertical gaze palsies",
+              "children": [
+                {
+                  "label": "diplopia is a frequent complaint"
+                }
+              ]
+            },
+            {
+              "label": "internuclear ophthalmoplegia"
+            },
+            {
+              "label": "skew deviation"
+            },
+            {
+              "label": "ocular motor cranial nerve palsies"
+            },
+            {
+              "label": "nystagmus"
+            },
+            {
+              "label": "ipsilateral, central Horner syndrome",
+              "children": [
+                {
+                  "label": "pontine or medullary infarcts (Wallenberg syndrome)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "nonophthalmic TIA",
+          "children": [
+            {
+              "label": "ataxia, imbalance, or staggering"
+            },
+            {
+              "label": "vertigo + other brainstem symptoms such as deafness or vomiting"
+            },
+            {
+              "label": "dysarthria and dysphagia"
+            },
+            {
+              "label": "hemiparesis, hemiplegia, and hemisensory disturbances"
+            },
+            {
+              "label": "drop attacks",
+              "children": [
+                {
+                  "label": "patient suddenly falls to the ground with no warning and no loss of consciousness"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical and laboratory evaluation",
+      "children": [
+        {
+          "label": "neuroimaging",
+          "children": [
+            {
+              "label": "all patients with homonymous visual field defects and other signs of brainstem or cerebellar dysfunction"
+            }
+          ]
+        },
+        {
+          "label": "MRA and CTA are the best noninvasive methods",
+          "children": [
+            {
+              "label": "± conventional angiography"
+            }
+          ]
+        },
+        {
+          "label": "carotid Doppler imaging",
+          "children": [
+            {
+              "label": "not sufficient for evaluating suspected posterior circulation symptoms"
+            }
+          ]
+        },
+        {
+          "label": "much less likely to find a treatable structural vascular abnormality with posterior circulation ischemia than with carotid system disease"
+        },
+        {
+          "label": "search for underlying cardiac or systemic disorders",
+          "children": [
+            {
+              "label": "hypercholesterolemia"
+            },
+            {
+              "label": "hypertension"
+            },
+            {
+              "label": "diabetes mellitus"
+            },
+            {
+              "label": "postural hypotension"
+            },
+            {
+              "label": "± echocardiography."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "antiplatelet therapy or anticoagulants"
+        },
+        {
+          "label": "intravascular stent placement",
+          "children": [
+            {
+              "label": "in select patients with either carotid artery or vertebrobasilar stenosis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.14.9. Systemic Conditions (IX) Cerebrovascular Disorders (I) Vertebrobasilar System Disease.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 149,
+      "connector_rejected": 1,
+      "connector_edges": 121,
+      "connector_width": 1.09,
+      "text_labels": 95,
+      "tree_nodes": 95,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.8121,
+      "root_font_size": 3.815,
+      "warnings": []
+    }
+  }
+}

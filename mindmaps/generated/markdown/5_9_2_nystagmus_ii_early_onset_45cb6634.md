@@ -1,0 +1,138 @@
+---
+title: "5.9.2. Nystagmus (II): Early-Onset"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.9.2. Nystagmus (II) - Early-Onset.pdf"
+---
+
+# 5.9.2. Nystagmus (II): Early-Onset
+
+## Hierarchy
+
+- Monocular Nystagmus of Childhood
+  - rare
+  - clinical presentation
+    - early in life
+    - eye movements are usually in the same eye at all times
+    - vertical/elliptical
+    - small amplitude
+  - etiology
+    - monocular vertical nystagmus in an infant is suggestive of an optic nerve or chiasmal tumor (glioma)
+      - often in concert with an afferent pupillary defect and optic atrophy
+        - rule out!
+      - neuroimaging is warranted in an infant with monocular vertical nystagmus
+      - ± monocular
+    - Heimann-Bielschowsky phenomenon
+      - monocular nystagmus in an eye with longstanding poor vision
+        - optic neuropathy
+        - amblyopia
+      - may become manifest in adults with highly asymmetric vision loss
+        - may not remit even if the visual problem (eg, dense cataract) is corrected
+- Infantile Nystagmus Syndrome (INS)/ Congenital Nystagmus (CN)
+  - epidemiology
+    - ± family history
+      - onset in first few months of life
+        - may not become evident until several years of age
+  - clinical presentation
+    - no oscillopsia
+    - conjugate
+    - horizontal
+      - remains horizontal in upgaze and downgaze
+      - jerk or pendular
+        - depending on position of gaze
+    - continuous or intermittent
+    - accentuation by visual attention & distant fixation
+    - diminishment by convergence
+    - abolished in sleep
+    - slow phase in the direction opposite that of a rotating optokinetic drum
+      - reversal of normal pattern!
+        - unlike peripheral vestibular nystagmus
+        - in contrast to constant velocity slow phase of latent nystagmus
+    - exponential increasing velocity of slow phase with distance from fixation
+      - requires eye movement recordings
+    - there is frequently a null point
+      - field of gaze in which nystagmus intensity is minimal
+      - head turn or posture
+        - if the null point is not in primary position
+    - strabismus
+      - 15%
+    - not associated with afferent pathway disease
+      - visual acuity is proportional to the foveation period
+  - sensory nystagmus
+    - central visual acuity is too poor to develop a stable fixational mechanism
+    - etiology
+      - ocular albinism
+      - achromatopsia
+      - leber congenital amaurosis
+      - aniridia
+    - in any patient with early-onset nystagmus look for evidence of damage to the visual pathways
+      - impairment of visual tracking
+      - optic atrophy
+      - presence of such abnormalities should prompt neuroimaging
+      - electrophysiologic testing (ERG, VEP) is warranted
+- INS is jerk or pendular
+  - depending on position of gaze
+- Spasmus Nutans
+  - epidemiology
+    - African American ethnicity
+    - Hispanic ethnicity
+    - low socioeconomic status
+  - clinical presentation
+    - develops in the first year of life
+      - spontaneous resolution of abnormal eye and head movements after several years
+    - nystagmus
+      - intermittent
+      - binocular
+        - ± dissociated
+          - amplitude and phase relationships may frequently vary between the eyes
+      - very small amplitude
+        - different amplitudes
+      - high-frequency
+      - horizontal
+        - ± vertical
+      - head nodding
+        - pendular
+        - often subtle
+    - ± strabismus
+      - abnormal head posture/torticollis
+    - ± amblyopia
+    - benign disorder
+      - patients generally have no other neurologic abnormalities
+  - differential diagnosis
+    - distinguished from INS by
+      - relatively high frequency of eye movements
+      - abnormal head movements
+      - head posture
+        - patient's with INS can have null point and head turn/posture
+          - INS can be continuous or intermittent
+      - intermittent and variable nature of the nystagmus
+    - nystagmus of spasmus nutans is sometimes monocular
+    - spasmus nutans–like syndrome with retinal dystrophies
+      - e.g. congenital stationary night blindness
+      - electroretinographic studies
+  - indications for neuroimaging
+    - impossible to distinguish from the more ominous conditions of monocular nystagmus of childhood
+      - patients with presumed (monocular) spasmus nutans should undergo neuroimaging
+    - lack of the expected resolution of spasmus nutans
+    - development of any other neurologic problems
+- Fusional Maldevelopment Nystagmus Syndrome (Latent Nystagmus)
+  - clinical characteristics
+    - begins (or accentuates) when binocular viewing is disrupted
+      - use of a standard occluder degrades visual acuity
+        - partial optical blurring of 1 eye permits better visual acuity measurements
+          - high-plus lens or filter
+    - early-onset
+    - conjugate horizontal jerk nystagmus
+      - constant-velocity slow phase
+        - in contrast to the increasing exponential slow phase of INS/CN
+    - direction changing with monocular occlusion
+      - fast phase toward the viewing eye; slow phase toward the nose/occluded eye
+        - both slow phase and eye are toward nose (occluded eye)
+    - subnormal stereopsis
+    - may coexist with INS
+    - frequently, with dissociated vertical deviation
+      - almost always associated with esotropia
+        - nystagmus spontaneously and intermittently develops whenever the esotropic eye is physiologically suppressed
+  - manifest latent nystagmus (MLN)
+    - nystagmus with characteristics of LN that is present when both eyes are open
+  - LN and MLN are benign entities

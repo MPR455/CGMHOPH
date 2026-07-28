@@ -1,0 +1,296 @@
+{
+  "label": "4.13.4. Eyelids (IV): Neoplasia (II): Appendage Neoplasms",
+  "root": true,
+  "children": [
+    {
+      "label": "Syringoma",
+      "children": [
+        {
+          "label": "rare",
+          "children": [
+            {
+              "label": "young females",
+              "children": [
+                {
+                  "label": "more apparent during puberty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "lower lid"
+            },
+            {
+              "label": "small, waxy, elevated nodules",
+              "children": [
+                {
+                  "label": "multiple"
+                },
+                {
+                  "label": "1–2 mm in diameter"
+                },
+                {
+                  "label": "axilla"
+                },
+                {
+                  "label": "sternal region"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "originate from eccrine sweat gland ducts",
+              "children": [
+                {
+                  "label": "double layer of epithelium"
+                }
+              ]
+            },
+            {
+              "label": "multiple comma-shaped/round ductules",
+              "children": [
+                {
+                  "label": "central lumen with secretory material"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "located within the dermis",
+              "children": [
+                {
+                  "label": "too deep for shave excision"
+                }
+              ]
+            },
+            {
+              "label": "complete surgical excision",
+              "children": [
+                {
+                  "label": "staged fashion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sebaceous carcinoma",
+      "children": [
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "elderly",
+              "children": [
+                {
+                  "label": "in contrast to BCC & SCC"
+                },
+                {
+                  "label": "upper eyelid"
+                }
+              ]
+            },
+            {
+              "label": "worse survival rate compared with squamous carcinoma"
+            },
+            {
+              "label": "metastasis",
+              "children": [
+                {
+                  "label": "regional lymph nodes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "origin",
+          "children": [
+            {
+              "label": "meibomian glands of tarsus"
+            },
+            {
+              "label": "Zeis glands of eyelid"
+            },
+            {
+              "label": "sebaceous glands of caruncle"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "well-differentiated",
+              "children": [
+                {
+                  "label": "microvesicular foamy (vacuolated) cytoplasm (lipid)",
+                  "children": [
+                    {
+                      "label": "diagnostic!"
+                    },
+                    {
+                      "label": "frozen section slides for lipid stains",
+                      "children": [
+                        {
+                          "label": "oil red O"
+                        },
+                        {
+                          "label": "Sudan black"
+                        },
+                        {
+                          "label": "before processing and paraffin embedding"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "poorly differentiated",
+              "children": [
+                {
+                  "label": "difficult to distinguish from other epithelial malignancies"
+                }
+              ]
+            },
+            {
+              "label": "pagetoid spread",
+              "children": [
+                {
+                  "label": "individual cells/cluster of cells within epidermis/epithelium"
+                },
+                {
+                  "label": "characteristic but not pathognomonic"
+                }
+              ]
+            },
+            {
+              "label": "sebaceous carcinoma in situ",
+              "children": [
+                {
+                  "label": "complete replacement of conjunctival epithelium by tumor cells"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "preoperative mapping"
+            },
+            {
+              "label": "wide local excision",
+              "children": [
+                {
+                  "label": "surgical margin control",
+                  "children": [
+                    {
+                      "label": "permanent sections"
+                    },
+                    {
+                      "label": "frozen sections"
+                    },
+                    {
+                      "label": "Mohs micrographic surgery"
+                    },
+                    {
+                      "label": "less reliable"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "exenteration"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sebaceous hyperplasia",
+      "children": [
+        {
+          "label": "small yellow papule"
+        },
+        {
+          "label": "single enlarged sebaceous gland",
+          "children": [
+            {
+              "label": "numerous glandular lobules"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sebaceous adenoma",
+      "children": [
+        {
+          "label": "yellow circumscribed nodule"
+        },
+        {
+          "label": "multiple sebaceous lobules",
+          "children": [
+            {
+              "label": "irregularly shaped"
+            },
+            {
+              "label": "incompletely differentiated"
+            },
+            {
+              "label": "basophilic sebocytes"
+            }
+          ]
+        },
+        {
+          "label": "rule out Muir-Torre syndrome",
+          "children": [
+            {
+              "label": "keratoacanthoma; sebaceous adenoma/ carcinoma"
+            },
+            {
+              "label": "autosomal dominant; visceral (colon) carcinoma"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.13.4. Eyelids (IV) - Neoplasia (II) - Appendage Neoplasms.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 142,
+      "connector_rejected": 11,
+      "connector_edges": 90,
+      "connector_width": 1.692,
+      "text_labels": 71,
+      "tree_nodes": 71,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6338,
+      "root_font_size": 5.639,
+      "warnings": []
+    }
+  }
+}

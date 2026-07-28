@@ -1,0 +1,469 @@
+{
+  "label": "5.5.3. Patient With Transient Visual Loss (III): Transient Monocular Visual Loss (TMVL) (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Vasospasm, Hyperviscosity, and Hypercoagulability",
+      "children": [
+        {
+          "label": "vasospasm of the retinal artery",
+          "children": [
+            {
+              "label": "rare",
+              "children": [
+                {
+                  "label": "<50 years"
+                }
+              ]
+            },
+            {
+              "label": "stereotypic episodes of painless TMVL",
+              "children": [
+                {
+                  "label": "strong personal or family history of migraine"
+                },
+                {
+                  "label": "often severe",
+                  "children": [
+                    {
+                      "label": "± complete visual loss"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ocular examination findings are usually normal",
+              "children": [
+                {
+                  "label": "± constriction of retinal arteries"
+                }
+              ]
+            },
+            {
+              "label": "workup",
+              "children": [
+                {
+                  "label": "complete blood count",
+                  "children": [
+                    {
+                      "label": "diagnosis of vasospastic TMVL is one of exclusion!",
+                      "children": [
+                        {
+                          "label": "whether vasospasm can truly cause transient visual loss is debated"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "cardiac evaluation"
+                },
+                {
+                  "label": "carotid imaging"
+                },
+                {
+                  "label": "erythrocyte sedimentation rate and C-reactive protein concentration",
+                  "children": [
+                    {
+                      "label": "50 years"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "calcium channel blockers",
+              "children": [
+                {
+                  "label": "prevent vasospasm",
+                  "children": [
+                    {
+                      "label": "seem to provide relief from amaurosis fugax in some patients"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "hyperviscosity syndrome & hypercoagulable states",
+          "children": [
+            {
+              "label": "in younger patients"
+            },
+            {
+              "label": "10% of patients with polycythemia vera complain of TMVL"
+            },
+            {
+              "label": "serologic testing",
+              "children": [
+                {
+                  "label": "anticardiolipin antibody"
+                },
+                {
+                  "label": "antiphosphatidyl choline and serine"
+                },
+                {
+                  "label": "antinuclear antibody"
+                },
+                {
+                  "label": "serum protein electrophoresis"
+                },
+                {
+                  "label": "partial thromboplastin time"
+                },
+                {
+                  "label": "VDRL"
+                },
+                {
+                  "label": "treponema pallidum hemagglutination assay (TPHA)"
+                },
+                {
+                  "label": "protein S"
+                },
+                {
+                  "label": "protein C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hypoperfusion",
+      "children": [
+        {
+          "label": "central retinal vein occlusion",
+          "children": [
+            {
+              "label": "recovery to normal vision",
+              "children": [
+                {
+                  "label": "TMVL lasting seconds to minutes"
+                }
+              ]
+            },
+            {
+              "label": "symptoms may cease when collateral vessels develop",
+              "children": [
+                {
+                  "label": "may predate more lasting visual loss by days or weeks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "change in posture from a sitting to a standing position",
+          "children": [
+            {
+              "label": "TMVL lasting seconds to 1–2 minutes"
+            },
+            {
+              "label": "progressive restriction of vision from the periphery (“iris diaphragm pattern”)",
+              "children": [
+                {
+                  "label": "cardiac arrhythmia"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "severe stenosis of the great vessels"
+                },
+                {
+                  "label": "GCA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular ischemic syndrome",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "vascular occlusion anywhere between the heart and the eye"
+                }
+              ]
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "recurrent orbital or facial pain that improves when the patient lies down",
+                  "children": [
+                    {
+                      "label": "highly suggestive of carotid occlusive disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "transient visual loss on exposure to bright light"
+                },
+                {
+                  "label": "transient or persistent blurred vision"
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "early stages",
+                  "children": [
+                    {
+                      "label": "midperipheral dot-and-blot hemorrhages",
+                      "children": [
+                        {
+                          "label": "may resemble those associated with diabetes mellitus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "late stages",
+                  "children": [
+                    {
+                      "label": "anterior segment changes",
+                      "children": [
+                        {
+                          "label": "red, painful eye",
+                          "children": [
+                            {
+                              "label": "episcleral vascular injection"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "aqueous flare (ischemic uveitis)",
+                          "children": [
+                            {
+                              "label": "may be confused with intraocular inflammation"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "neovascularization of the chamber angle and iris"
+                        },
+                        {
+                          "label": "dilated retinal veins",
+                          "children": [
+                            {
+                              "label": "intraocular pressure (IOP) may be low, normal, or high",
+                              "children": [
+                                {
+                                  "label": "impaired ciliary body perfusion!"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "CEA",
+                  "children": [
+                    {
+                      "label": "If preoperative IOP is low, CEA may precipitate dangerously high IOP",
+                      "children": [
+                        {
+                          "label": "fundus changes",
+                          "children": [
+                            {
+                              "label": "narrowed retinal arteries with microaneurysm formation"
+                            },
+                            {
+                              "label": "midperipheral dot-and-blot hemorrhages"
+                            },
+                            {
+                              "label": "macular edema"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "venous stasis retinopathy (VSR)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "in some patients, carotid occlusion may be too advanced for surgical correction"
+                    },
+                    {
+                      "label": "with signs of chronic hypoperfusion, improvement is unlikely",
+                      "children": [
+                        {
+                          "label": "early detection is crucial!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "IOP-lowering drugs"
+                },
+                {
+                  "label": "corticosteroids for pain"
+                },
+                {
+                  "label": "panretinal photocoagulation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "≥50 years"
+    },
+    {
+      "label": "Vasculitis",
+      "children": [
+        {
+          "label": "giant cell arteritis (GCA)",
+          "children": [
+            {
+              "label": "signals impending acute and permanent visual loss in 1 or both eyes"
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "headache"
+                },
+                {
+                  "label": "scalp tenderness"
+                },
+                {
+                  "label": "jaw claudication"
+                },
+                {
+                  "label": "proximal joint pain"
+                },
+                {
+                  "label": "muscle aches and myalgias"
+                },
+                {
+                  "label": "depressed appetite"
+                },
+                {
+                  "label": "weight loss"
+                },
+                {
+                  "label": "malaise"
+                }
+              ]
+            },
+            {
+              "label": "diagnostic workup",
+              "children": [
+                {
+                  "label": "erythrocyte sedimentation rate"
+                },
+                {
+                  "label": "C-reactive protein"
+                },
+                {
+                  "label": "elevated platelet count"
+                },
+                {
+                  "label": "choroidal hypoperfusion",
+                  "children": [
+                    {
+                      "label": "low intraocular pressure"
+                    },
+                    {
+                      "label": "changes on fluorescein angiogram"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "immediate treatment with high-dose corticosteroids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional systemic causes",
+      "children": [
+        {
+          "label": "ophthalmic artery disease"
+        },
+        {
+          "label": "giant cell arteritis"
+        },
+        {
+          "label": "Raynaud disease"
+        },
+        {
+          "label": "vasculitis"
+        },
+        {
+          "label": "hyperviscosity syndromes"
+        },
+        {
+          "label": "antiphospholipid antibody syndrome"
+        },
+        {
+          "label": "vasospasm (migraine)"
+        },
+        {
+          "label": "carotid dissection",
+          "children": [
+            {
+              "label": "painful ipsilateral monocular visual loss"
+            },
+            {
+              "label": "associated with",
+              "children": [
+                {
+                  "label": "Horner syndrome"
+                },
+                {
+                  "label": "contralateral neurologic signs"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.5.3. Patient With Transient Visual Loss (III) Transient Monocular Visual Loss (TMVL) (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 214,
+      "connector_rejected": 2,
+      "connector_edges": 148,
+      "connector_width": 0.822,
+      "text_labels": 118,
+      "tree_nodes": 118,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6916,
+      "root_font_size": 2.877,
+      "warnings": []
+    }
+  }
+}

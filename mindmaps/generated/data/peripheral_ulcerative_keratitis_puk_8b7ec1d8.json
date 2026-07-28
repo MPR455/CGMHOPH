@@ -1,0 +1,715 @@
+{
+  "label": "Peripheral Ulcerative Keratitis (PUK) Differential Diagnosis",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "40-year-old woman with unilateral eye pain, photophobia, and redness"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "PUK",
+      "children": [
+        {
+          "label": "systemic immune-mediated/ rheumatic diseases",
+          "children": [
+            {
+              "label": "rheumatoid arthritis",
+              "children": [
+                {
+                  "label": "peripheral corneal thinning and vascularization"
+                }
+              ]
+            },
+            {
+              "label": "Wegener granulomatosis"
+            },
+            {
+              "label": "systemic lupus erythematosus"
+            },
+            {
+              "label": "polyarteritis nodosa"
+            },
+            {
+              "label": "ulcerative colitis"
+            },
+            {
+              "label": "relapsing polychondritis"
+            },
+            {
+              "label": "rosacea"
+            }
+          ]
+        },
+        {
+          "label": "usually unilateral"
+        },
+        {
+          "label": "1 sector of cornea"
+        },
+        {
+          "label": "within 2 mm of limbus"
+        },
+        {
+          "label": "absent epithelium",
+          "children": [
+            {
+              "label": "pain"
+            }
+          ]
+        },
+        {
+          "label": "underlying stromal thinning",
+          "children": [
+            {
+              "label": "keratolysis"
+            },
+            {
+              "label": "+- significant cellular infiltrate in the corneal stroma"
+            }
+          ]
+        },
+        {
+          "label": "vaso-occlusion of adjacent limbal vessels"
+        },
+        {
+          "label": "adjacent conjunctiva can be minimally or severely inflamed"
+        },
+        {
+          "label": "sclera is often involved"
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "medical history",
+              "children": [
+                {
+                  "label": "autoimmune (connective tissue) disease",
+                  "children": [
+                    {
+                      "label": "joint pain"
+                    },
+                    {
+                      "label": "rheuamtoid arthritis"
+                    },
+                    {
+                      "label": "lupus"
+                    },
+                    {
+                      "label": "Wegener's",
+                      "children": [
+                        {
+                          "label": "PUK"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "polyarteritis nodosa"
+                    },
+                    {
+                      "label": "inflammatory bowel disease"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ocular history",
+              "children": [
+                {
+                  "label": "onset & course of symptoms",
+                  "children": [
+                    {
+                      "label": "PUK",
+                      "children": [
+                        {
+                          "label": "Mooren’s ulcer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "eye pain",
+                  "children": [
+                    {
+                      "label": "rules out",
+                      "children": [
+                        {
+                          "label": "Terrien marginal degeneration"
+                        },
+                        {
+                          "label": "pellucid marginal degeneration"
+                        },
+                        {
+                          "label": "furrow degeneration"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "contact lens wear"
+                },
+                {
+                  "label": "herpetic eye disease"
+                },
+                {
+                  "label": "history of ocular trauma/ surgery/parasitic diseases",
+                  "children": [
+                    {
+                      "label": "Mooren ulcer"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "facial/lid vesicles/scar"
+            },
+            {
+              "label": "lagophthalmos"
+            },
+            {
+              "label": "rosacea/blepharitis"
+            },
+            {
+              "label": "corneal sensation"
+            },
+            {
+              "label": "herpetic corneal scar"
+            },
+            {
+              "label": "corneal epithelial defect"
+            },
+            {
+              "label": "corneal thinning/ perforation"
+            },
+            {
+              "label": "corneal infiltrate/scar"
+            },
+            {
+              "label": "other signs of eye inflammation",
+              "children": [
+                {
+                  "label": "anterior scleritis"
+                },
+                {
+                  "label": "anterior uveitis"
+                },
+                {
+                  "label": "hypopyon"
+                },
+                {
+                  "label": "vitritis"
+                },
+                {
+                  "label": "retinochoroiditis"
+                },
+                {
+                  "label": "PUK"
+                },
+                {
+                  "label": "nerve fiber layer infarcts"
+                },
+                {
+                  "label": "posterior scleritis",
+                  "children": [
+                    {
+                      "label": "exudative RD"
+                    },
+                    {
+                      "label": "choroidal folds"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mooren ulcer",
+      "children": [
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "uni- or bilateral"
+            },
+            {
+              "label": "chronic progressive"
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "pain",
+                  "children": [
+                    {
+                      "label": "can be intense"
+                    }
+                  ]
+                },
+                {
+                  "label": "tearing"
+                },
+                {
+                  "label": "photophobia"
+                }
+              ]
+            },
+            {
+              "label": "precipitating factors",
+              "children": [
+                {
+                  "label": "trauma"
+                },
+                {
+                  "label": "surgery"
+                },
+                {
+                  "label": "exposure to parasitic infection",
+                  "children": [
+                    {
+                      "label": "incidence of Mooren ulcer is particularly high in areas where parasitic infections are endemic"
+                    }
+                  ]
+                },
+                {
+                  "label": "hepatitis C infection"
+                }
+              ]
+            },
+            {
+              "label": "ulceration of corneal stroma and epithelium",
+              "children": [
+                {
+                  "label": "corneal periphery",
+                  "children": [
+                    {
+                      "label": "starts in interpalpebral fissure",
+                      "children": [
+                        {
+                          "label": "similar to Terrien"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "spreads circumferentially"
+                    },
+                    {
+                      "label": "then centripetally",
+                      "children": [
+                        {
+                          "label": "leading undermined edge"
+                        },
+                        {
+                          "label": "slower ulceration toward sclera",
+                          "children": [
+                            {
+                              "label": "does not involve sclera",
+                              "children": [
+                                {
+                                  "label": "in contrast to PUK"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "eye is inflamed",
+                  "children": [
+                    {
+                      "label": "extensive vascularization and fibrosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "perforation",
+                  "children": [
+                    {
+                      "label": "minor trauma"
+                    },
+                    {
+                      "label": "secondary infection"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "CBC, differential"
+        },
+        {
+          "label": "ANA"
+        },
+        {
+          "label": "ANCA"
+        },
+        {
+          "label": "syphilis serology"
+        },
+        {
+          "label": "ACE, lysozyme"
+        },
+        {
+          "label": "PPD"
+        },
+        {
+          "label": "CXR"
+        },
+        {
+          "label": "UA"
+        },
+        {
+          "label": "corneal smear/culture if infection"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "PUK"
+        }
+      ]
+    },
+    {
+      "label": "in contrast to PUK & Mooren ulcer"
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "antibiotic ointment",
+              "children": [
+                {
+                  "label": "q2h"
+                }
+              ]
+            },
+            {
+              "label": "cycloplegia"
+            },
+            {
+              "label": "systemic steroid",
+              "children": [
+                {
+                  "label": "topical steroids usually not used in presence of significant corneal thinning"
+                },
+                {
+                  "label": "exclude TB, syphilis"
+                }
+              ]
+            },
+            {
+              "label": "steroid-sparing agents",
+              "children": [
+                {
+                  "label": "to minimize steroid side effects"
+                },
+                {
+                  "label": "immunosuppressants",
+                  "children": [
+                    {
+                      "label": "MTX"
+                    },
+                    {
+                      "label": "mycophenolate"
+                    },
+                    {
+                      "label": "azathioprine"
+                    },
+                    {
+                      "label": "cyclophosphamide"
+                    },
+                    {
+                      "label": "infliximab"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "oral doxycycline",
+              "children": [
+                {
+                  "label": "metalloproteinase inhibition"
+                }
+              ]
+            },
+            {
+              "label": "ascorbic acid",
+              "children": [
+                {
+                  "label": "collagen synthesis promoter"
+                }
+              ]
+            },
+            {
+              "label": "if corneal infiltrates",
+              "children": [
+                {
+                  "label": "culture"
+                },
+                {
+                  "label": "empiric broad-spectrum topical antibiotics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "conjunctival excision/ recession"
+            },
+            {
+              "label": "cyanoacrylate glue"
+            },
+            {
+              "label": "corneal transplant",
+              "children": [
+                {
+                  "label": "for (impending) perforation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Referrals/ Consultations",
+          "children": [
+            {
+              "label": "internal medicine consult",
+              "children": [
+                {
+                  "label": "systemic work-up for autoimmune diseases associated with PUK",
+                  "children": [
+                    {
+                      "label": "PUK may be the first sign of the underlying systemic disease!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Terrien marginal degeneration",
+      "children": [
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "unilateral or asymmetrically bilateral"
+            },
+            {
+              "label": "second or third decade of life"
+            },
+            {
+              "label": "painless"
+            },
+            {
+              "label": "slowly progressive"
+            },
+            {
+              "label": "thinning of the peripheral cornea",
+              "children": [
+                {
+                  "label": "begins superiorly, spreads circumferentially"
+                },
+                {
+                  "label": "steep central wall"
+                },
+                {
+                  "label": "gradually sloping peripheral wall"
+                }
+              ]
+            },
+            {
+              "label": "fine vascular pannus",
+              "children": [
+                {
+                  "label": "epithelium remains intact"
+                }
+              ]
+            },
+            {
+              "label": "line of lipid deposits at the leading edge of the pannus"
+            },
+            {
+              "label": "spontaneous perforation is rare",
+              "children": [
+                {
+                  "label": "can occur with minor trauma"
+                }
+              ]
+            },
+            {
+              "label": "against-the-rule astigmatism"
+            }
+          ]
+        },
+        {
+          "label": "in contrast to PUK & Mooren ulcer"
+        }
+      ]
+    },
+    {
+      "label": "staphylococcal marginal keratitis",
+      "children": [
+        {
+          "label": "erythema/telangiectasia of lid margin"
+        },
+        {
+          "label": "inferior cornea"
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General"
+        },
+        {
+          "label": "Dos",
+          "children": [
+            {
+              "label": "eye protection",
+              "children": [
+                {
+                  "label": "glasses"
+                },
+                {
+                  "label": "eye shield at night"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "risk of eye perforation"
+            },
+            {
+              "label": "risk of superinfection"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "examine daily for severe disease",
+              "children": [
+                {
+                  "label": "continue treatment until epithelium heals",
+                  "children": [
+                    {
+                      "label": "taper treatment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "dellen",
+      "children": [
+        {
+          "label": "neurotrophic keratopathy",
+          "children": [
+            {
+              "label": "bacterial or herpetic keratitis",
+              "children": [
+                {
+                  "label": "exposure keratopathy"
+                }
+              ]
+            },
+            {
+              "label": "severe dry eye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "pellucid marginal degeneration",
+      "children": [
+        {
+          "label": "painless, bilateral asymmetric thinning of the inferior peripheral cornea"
+        }
+      ]
+    },
+    {
+      "label": "furrow degeneration",
+      "children": [
+        {
+          "label": "clear zone between senile arcus and limbus"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Peripheral Ulcerative Keratitis (PUK).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 321,
+      "connector_rejected": 113,
+      "connector_edges": 186,
+      "connector_width": 0.562,
+      "text_labels": 186,
+      "tree_nodes": 186,
+      "component_roots": 13,
+      "spatially_recovered_labels": 12,
+      "connector_match_ratio": 0.5794,
+      "root_font_size": 3.936,
+      "warnings": []
+    }
+  }
+}

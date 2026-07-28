@@ -1,0 +1,133 @@
+---
+title: "6.8.2. Esodeviations (II): Accommodative Esotropia"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.8.2. Esodeviations (II) - Accommodative Esotropia.pdf"
+---
+
+# 6.8.2. Esodeviations (II): Accommodative Esotropia
+
+## Hierarchy
+
+- ?
+- Introduction
+  - deviation of eyes associated with activation of accommodative reflex
+  - characteristics
+    - onset typically between 6 months and 7 years of age
+      - as early as age 4 months
+      - averaging 21⁄2 years
+    - often hereditary
+    - usually intermittent at onset, becoming constant
+    - sometimes precipitated by trauma or illness
+    - frequently associated with amblyopia
+    - diplopia possible
+      - especially with onset at an older age
+      - usually disappears with development of a facultative suppression scotoma in the deviating eye
+- Management
+  - Refractive accommodative esotropia
+    - correction of full amount of hyperopia
+      - cycloplegic refraction
+        - if binocular fusion is maintained, refractive correction can later be decreased to 1.00–2.00 D less than full cycloplegic refraction
+          - possibly aid in emmetropization
+      - measured hyperopia usually increases until age 5–7 years before it starts to decrease
+        - if esotropia with glasses increases, cycloplegic refraction should be repeated
+    - significant delay in initiating treatment following onset of esotropia increases likelihood that a portion of esodeviation will fail to respond
+    - amblyopia
+      - may respond to spectacle correction alone
+      - treatment with occlusion or penalization may be needed
+        - if amblyopia persists after a period of spectacle wear
+    - full-time wear of the glasses is important
+    - refractive correction can only help control the strabismus, not cure it
+      - esotropia, without glasses, may increase initially after correction is worn
+    - strabismus surgery
+      - if patient fails to achieve an ocular alignment within fusion range (8Δ–10Δ) with correction
+        - partially accommodative esotropia
+      - recheck cycloplegic refraction before proceeding with surgery
+    - refractive surgery
+      - experimental
+      - for older patients who continue to need refractive correction
+    - references
+  - High AC/A esotropia
+    - Bifocals
+      - plus spectacle lenses for hyperopia
+      - bifocals further reduce or eliminate the need to accommodate for near fixation
+      - executive or 35-mm flat-top style
+        - top of the segment should bisect the pupil
+        - vertical height of the bifocal should not exceed that of the distance portion of the lens
+      - lowest plus power needed (up to +3.00 D)
+      - progressive bifocal lenses
+        - used successfully in older children who know how to properly use bifocal spectacles
+        - should be fitted higher than they are in adult lenses (at about 4 mm)
+      - ideal response to bifocal glasses
+        - restoration of normal binocular function (fusion and stereopsis) at both distance and near fixation
+      - acceptable response to bifocal glasses
+      - if some degree of sensory binocular cooperation or fusion is achieved, reduce the strength of the glasses to create a small esophoria
+        - to stimulate fusional divergence
+        - fusion at distance with <10Δ of residual esotropia through the bifocal at near (signifying the potential for fusion)
+      - course
+        - some children improve spontaneously with time
+        - others can be slowly weaned from bifocals
+          - reduce bifocal power in 0.50–1.00 D steps
+          - started at ≈ age 7 or 8 and should be completed by age 10–12 years
+          - if a child cannot be weaned from bifocals, surgery can be considered
+    - Long-acting cholinesterase inhibitors
+      - echothiophate iodide
+      - act directly on ciliary body, facilitating transmission at myoneural junction
+        - reduce central demand for accommodative innervation
+          - decrease accommodative convergence
+      - systemic and ophthalmic complications
+        - iris cysts
+        - cataracts
+        - increased response to depolarizing muscle relaxants
+      - no longer commercially sold in US
+    - Surgery
+      - controversial
+      - medial rectus muscle recessions ±posterior fixation or pulley fixation
+      - may allow for discontinuation of bifocals and use of contact lenses
+      - risk of overcorrection at distance is small (<10%)
+      - prism adaptation for near deviation
+      - preoperative use of prisms to determine the maximum deviation
+    - Observation
+      - many patients show a decrease in near deviation with time
+        - ultimately develop binocular vision at both distance and near fixation
+        - mechanism
+          - increase in the fusional divergence
+          - natural decrease of hyperopia
+          - natural decrease of high AC/A ratio
+      - some ophthalmologists observe near deviation as long as distance alignment allows for development of peripheral fusion
+  - Partially accommodative esotropia
+    - strabismus surgery for the deviation that persists while patient wears full hyperopic correction
+    - purpose of surgery is to produce straight eyes with glasses—not to allow the child to discontinue wearing glasses altogether
+    - in older patients
+      - refractive surgery can be considered to both reduce the hyperopic refractive error and improve the ocular alignment
+- Types
+  - Refractive accommodative esotropia
+    - pathogenesis
+      - uncorrected hyperopia
+        - forces the patient to accommodate to focus the retinal image
+      - accommodative convergence
+      - insufficient fusional divergence
+        - cannot compensate for the increased convergence tonus
+    - average of +4.00 D of hyperopia
+    - between 20Δ and 30Δ
+      - ≈ at distance and near fixation
+  - High accommodative convergence/ accommodation (AC/A) ratio esotropia
+    - excess convergence tonus for the amount of accommodation
+    - deviation is present only at near or is much larger at near
+    - average +2.25 D
+      - can occur with high or normal degrees of hyperopia, emmetropia, or even myopia
+  - Partially accommodative esotropia
+    - show a reduction in angle of esotropia when wearing glasses but have a residual esotropia
+      - pathogenesis
+        - decompensation of a pure refractive accommodative esotropia
+          - more likely if there is a long delay in refractive correction
+        - an initial nonacccommodative esotropia subsequently develops an accommodative component
+- Evaluation
+  - visual acuity
+    - vision of 2 eyes can be equal
+    - amblyopia can be present
+  - versions and ductions may be normal
+    - ± overelevation in adduction or dissociated strabismus
+  - deviation should be measured using an accommodative target at distance and at near
+  - alternate cover testing on initial examination typically reveals an intermittent comitant esotropia
+    - larger at near than at distance

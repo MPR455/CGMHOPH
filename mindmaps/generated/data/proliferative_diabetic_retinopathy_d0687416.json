@@ -1,0 +1,488 @@
+{
+  "label": "Proliferative Diabetic Retinopathy",
+  "root": true,
+  "children": [
+    {
+      "label": "Definition",
+      "children": [
+        {
+          "label": "extraretinal fibrovascular proliferation"
+        }
+      ]
+    },
+    {
+      "label": "3 stages",
+      "children": [
+        {
+          "label": "fine new vessels extend beyond ILM",
+          "children": [
+            {
+              "label": "use the posterior hyaloid as a scaffold"
+            }
+          ]
+        },
+        {
+          "label": "new vessels increase in size & extent and develop a fibrous component"
+        },
+        {
+          "label": "new vessels regress leaving residual fibrovascular tissue"
+        }
+      ]
+    },
+    {
+      "label": "Laser surgery",
+      "children": [
+        {
+          "label": "for eyes with high-risk PDR not already receiving anti-VEGF therapy, PRP is almost always recommended"
+        },
+        {
+          "label": "some clinicians combine anti-VEGF therapy with PRP",
+          "children": [
+            {
+              "label": "initial anti-VEGF therapy will regress NV quickly"
+            },
+            {
+              "label": "effect of PRP will endure over subsequent years"
+            }
+          ]
+        },
+        {
+          "label": "Mechanism of action",
+          "children": [
+            {
+              "label": "PRP destroys ischemic retina thus reducing intraocular VEGF"
+            },
+            {
+              "label": "PRP increases intraocular oxygen tension",
+              "children": [
+                {
+                  "label": "(1) decreasing oxygen consumption as a result of purposeful retinal destruction"
+                },
+                {
+                  "label": "(2) increasing diffusion of oxygen from the choroid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Diabetic Retinopathy Study (DRS)",
+          "children": [
+            {
+              "label": "1 eye randomly assigned to photocoagulation and 1 eye assigned to no photocoagulation"
+            },
+            {
+              "label": "at 5 years of follow-up, eyes treated with PRP had a reduction of ≥ 50% in SVL compared with untreated control eyes",
+              "children": [
+                {
+                  "label": "treated eyes with high-risk PDR achieved the greatest benefit"
+                }
+              ]
+            },
+            {
+              "label": "complications of PRP",
+              "children": [
+                {
+                  "label": "decrease in visual acuity by ≥1 lines",
+                  "children": [
+                    {
+                      "label": "11%"
+                    }
+                  ]
+                },
+                {
+                  "label": "visual field loss",
+                  "children": [
+                    {
+                      "label": "5%",
+                      "children": [
+                        {
+                          "label": "DRCR.net found no long-term vision benefit of multiple-session over single- session laser administration"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PRP technique",
+          "children": [
+            {
+              "label": "single session or over multiple sessions"
+            },
+            {
+              "label": "additional therapy can be applied incrementally in an attempt to achieve complete regression of NV"
+            },
+            {
+              "label": "full PRP",
+              "children": [
+                {
+                  "label": "argon green or blue-green laser"
+                },
+                {
+                  "label": "≥1200 burns"
+                },
+                {
+                  "label": "separated by 1/2 burn width"
+                }
+              ]
+            },
+            {
+              "label": "automated pattern scan laser systems",
+              "children": [
+                {
+                  "label": "not equivalent in their treatment effect on a burn-for-burn comparison"
+                },
+                {
+                  "label": "burn-count target for equivalent treatment effect may need to be higher"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Adverse effects of scatter PRP",
+          "children": [
+            {
+              "label": "transient loss of 1 or 2 lines of visual acuity"
+            },
+            {
+              "label": "photopsias"
+            },
+            {
+              "label": "decreased",
+              "children": [
+                {
+                  "label": "night vision"
+                },
+                {
+                  "label": "color vision"
+                },
+                {
+                  "label": "peripheral vision"
+                },
+                {
+                  "label": "contrast sensitivity"
+                },
+                {
+                  "label": "accommodation"
+                },
+                {
+                  "label": "pupillary dilation",
+                  "children": [
+                    {
+                      "label": "sparing the horizontal meridians (path of the long ciliary vessels and nerves) protects against these adverse effects"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal sensitivity"
+                }
+              ]
+            },
+            {
+              "label": "choroidal detachment"
+            },
+            {
+              "label": "increased glare"
+            },
+            {
+              "label": "precipitatation or worsening of macular edema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "High-risk PDR",
+      "children": [
+        {
+          "label": "any NVD with vitreous or preretinal hemorrhage"
+        },
+        {
+          "label": "extent of NVD ≥ 1/4 disc area, ± vitreous or preretinal hemorrhage"
+        },
+        {
+          "label": "extent of NVE ≥ 1/2 disc area + vitreous or preretinal hemorrhage"
+        }
+      ]
+    },
+    {
+      "label": "Nonsurgical management",
+      "children": [
+        {
+          "label": "Intravitreal anti-VEGF",
+          "children": [
+            {
+              "label": "highly effective at regressing",
+              "children": [
+                {
+                  "label": "retinal/optic disc NV",
+                  "children": [
+                    {
+                      "label": "both newly diagnosed and chronic, refractory cases"
+                    }
+                  ]
+                },
+                {
+                  "label": "anterior segment NV"
+                }
+              ]
+            },
+            {
+              "label": "reasonable first-line alternative to PRP",
+              "children": [
+                {
+                  "label": "patients should be able to adhere to monthly follow-up visits throughout first 1–2 years of treatment"
+                },
+                {
+                  "label": "for non-adherent patients, PRP is the most appropriate option"
+                }
+              ]
+            },
+            {
+              "label": "preoperative intravitreal anti-VEGF is a helpful adjunct to vitrectomy"
+            },
+            {
+              "label": "potential complications",
+              "children": [
+                {
+                  "label": "tractional RD"
+                },
+                {
+                  "label": "retinal tears"
+                },
+                {
+                  "label": "combined tractional and rhegmatogenous RD"
+                }
+              ]
+            },
+            {
+              "label": "DRCR.net Protocol S study",
+              "children": [
+                {
+                  "label": "randomized eyes with active PDR to either prompt PRP or intravitreal ranibizumab and deferred PRP"
+                },
+                {
+                  "label": "at 2 years, visual outcomes were equivalent"
+                },
+                {
+                  "label": "ranibizumab treatment was associated with multiple benefits",
+                  "children": [
+                    {
+                      "label": "better average vision over the 2 years"
+                    },
+                    {
+                      "label": "less peripheral visual field loss"
+                    },
+                    {
+                      "label": "reduced rates of vitrectomy"
+                    },
+                    {
+                      "label": "fewer cases of DME"
+                    }
+                  ]
+                },
+                {
+                  "label": "ranibizumab was well tolerated"
+                },
+                {
+                  "label": "no substantial differences in rates of major cardiovascular adverse events"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "intravitreal steroid agents",
+          "children": [
+            {
+              "label": "reduce rates of",
+              "children": [
+                {
+                  "label": "vitreous hemorrhage"
+                },
+                {
+                  "label": "need for PRP"
+                },
+                {
+                  "label": "development of neovascularization"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Management of neovascularization of the iris",
+      "children": [
+        {
+          "label": "small, isolated tufts of NV at pupillary border are relatively common",
+          "children": [
+            {
+              "label": "treatment can be withheld for these tufts in favor of careful monitoring"
+            }
+          ]
+        },
+        {
+          "label": "indications for treatment",
+          "children": [
+            {
+              "label": "contiguous neovascularization of the pupil and iris collarette",
+              "children": [
+                {
+                  "label": "± inclusion of anterior chamber angle"
+                }
+              ]
+            },
+            {
+              "label": "wide-field FA reveals widespread nonperfusion or peripheral neovascularization"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "PRP"
+            },
+            {
+              "label": "intravitreal injection of anti-VEGF drugs can be used as a temporizing measure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vitrectomy surgery",
+      "children": [
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "nonclearing vitreous hemorrhage"
+            },
+            {
+              "label": "significant recurring vitreous hemorrhage, despite use of maximal PRP"
+            },
+            {
+              "label": "dense premacular subhyaloid hemorrhage"
+            },
+            {
+              "label": "tractional retinal detachment involving or threatening the macula"
+            },
+            {
+              "label": "combined tractional and rhegmatogenous retinal detachment"
+            },
+            {
+              "label": "red blood cell–induced (erythroclastic) glaucoma and “ghost cell” glaucoma"
+            },
+            {
+              "label": "anterior segment neovascularization with media opacities preventing PRP"
+            }
+          ]
+        },
+        {
+          "label": "Vitreous hemorrhage",
+          "children": [
+            {
+              "label": "Diabetic Retinopathy Vitrectomy Study (DRVS)",
+              "children": [
+                {
+                  "label": "compared early (1–6 months after onset of vitreous hemorrhage) versus late (1 year after onset) vitrectomy"
+                },
+                {
+                  "label": "early vitrectomy beneficial for type 1 DM with severe vitreous hemorrhage"
+                },
+                {
+                  "label": "early vitrectomy not beneficial for type 2 DM or mixed DM with severe vitreous hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "if PRP has not been performed previously, earlier intervention is usually recommended"
+            },
+            {
+              "label": "frequent echography to monitor for RD",
+              "children": [
+                {
+                  "label": "if RD is discovered, the timing for vitrectomy depends upon characteristics of RD"
+                }
+              ]
+            },
+            {
+              "label": "patients with bilateral severe vitreous hemorrhage should undergo vitrectomy in 1 eye as soon as possible"
+            }
+          ]
+        },
+        {
+          "label": "Tractional retinal detachment",
+          "children": [
+            {
+              "label": "partial PVD frequently develops in eyes with fibrovascular proliferation, resulting in traction on retina and new vessels"
+            },
+            {
+              "label": "tractional complications",
+              "children": [
+                {
+                  "label": "macular heterotopia"
+                },
+                {
+                  "label": "tractional RD"
+                },
+                {
+                  "label": "combined tractional and rhegmatogenous RD"
+                },
+                {
+                  "label": "retinal schisis"
+                },
+                {
+                  "label": "vitreous hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "chronic RD increases risk of anterior segment NV"
+            },
+            {
+              "label": "tractional RD not involving the macula may remain stable for many years"
+            },
+            {
+              "label": "tractional RD involving or threatening the macula requires prompt vitrectomy"
+            },
+            {
+              "label": "combined tractional and rhegmatogenous RD may progress rapidly",
+              "children": [
+                {
+                  "label": "consider urgent surgery"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Proliferative Diabetic Retinopathy.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 217,
+      "connector_rejected": 35,
+      "connector_edges": 150,
+      "connector_width": 0.833,
+      "text_labels": 127,
+      "tree_nodes": 127,
+      "component_roots": 7,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.6912,
+      "root_font_size": 5.551,
+      "warnings": []
+    }
+  }
+}

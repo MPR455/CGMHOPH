@@ -1,0 +1,598 @@
+{
+  "label": "10.6.3. Childhood Glaucoma (III): Evaluating the Pediatric Glaucoma Patient",
+  "root": true,
+  "children": [
+    {
+      "label": "History",
+      "children": [
+        {
+          "label": "See Table 6-5"
+        },
+        {
+          "label": "infant",
+          "children": [
+            {
+              "label": "fussy or irritable"
+            },
+            {
+              "label": "not feeding well"
+            },
+            {
+              "label": "losing weight"
+            },
+            {
+              "label": "cries when taken outside, into the sunshine"
+            },
+            {
+              "label": "corneal clouding",
+              "children": [
+                {
+                  "label": "intermittent or constant"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "school-aged children",
+          "children": [
+            {
+              "label": "cries when taken outside, into the sunshine"
+            },
+            {
+              "label": "failed vision screenings"
+            },
+            {
+              "label": "change in academic performance"
+            },
+            {
+              "label": "trouble seeing the blackboard"
+            },
+            {
+              "label": "extracurricular activities"
+            }
+          ]
+        },
+        {
+          "label": "family history of congenital glaucoma and other ocular and systemic disorders"
+        },
+        {
+          "label": "medication use (with particular attention to all forms of steroids)"
+        },
+        {
+          "label": "allergies"
+        },
+        {
+          "label": "names of previous physicians"
+        },
+        {
+          "label": "all prior ocular and systemic medical and surgical treatments"
+        }
+      ]
+    },
+    {
+      "label": "Other Testing",
+      "children": [
+        {
+          "label": "B-scan ultrasonography",
+          "children": [
+            {
+              "label": "whenever media opacities (corneal edema) preclude fundus evaluation"
+            }
+          ]
+        },
+        {
+          "label": "scanning laser ophthalmoscopy",
+          "children": [
+            {
+              "label": "useful longitudinal data in older children with clear media"
+            }
+          ]
+        },
+        {
+          "label": "optical coherence tomography",
+          "children": [
+            {
+              "label": "useful longitudinal data in older children with clear media"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Axial Length",
+      "children": [
+        {
+          "label": "A-scan ultrasonography"
+        },
+        {
+          "label": "progressive globe enlargement in patients with PCG"
+        },
+        {
+          "label": "axial length may stabilize or decrease with control of IOP"
+        }
+      ]
+    },
+    {
+      "label": "Visual Acuity",
+      "children": [
+        {
+          "label": "refraction",
+          "children": [
+            {
+              "label": "myopia from axial enlargement"
+            },
+            {
+              "label": "astigmatism from corneal irregularity"
+            }
+          ]
+        },
+        {
+          "label": "decreased vision may result from",
+          "children": [
+            {
+              "label": "end-stage glaucomatous optic nerve damage"
+            },
+            {
+              "label": "amblyopia"
+            },
+            {
+              "label": "corneal scarring"
+            },
+            {
+              "label": "other associated ocular disorders (retinal detachment, macular edema, cataract, lens dislocation)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Optic Nerve and Fundus Evaluation",
+      "children": [
+        {
+          "label": "indirect ophthalmoscopy",
+          "children": [
+            {
+              "label": "usually inadequate for accurate assessment of the optic nerve",
+              "children": [
+                {
+                  "label": "critical marker of successful surgical control of IOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "direct ophthalmoscopy",
+          "children": [
+            {
+              "label": "can be performed in the office or operating room"
+            },
+            {
+              "label": "patients with small pupils",
+              "children": [
+                {
+                  "label": "direct ophthalmoscopy through a Koeppe lens without a dimple"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "slit-lamp biomicroscopy",
+          "children": [
+            {
+              "label": "older children"
+            }
+          ]
+        },
+        {
+          "label": "photographs",
+          "children": [
+            {
+              "label": "documentation of changes over time"
+            }
+          ]
+        },
+        {
+          "label": "newborn without glaucoma",
+          "children": [
+            {
+              "label": "small physiologic cup (<0.3)"
+            }
+          ]
+        },
+        {
+          "label": "PCG",
+          "children": [
+            {
+              "label": "stretching of the optic canal"
+            },
+            {
+              "label": "backward bowing of the lamina cribrosa"
+            },
+            {
+              "label": "generalized cup enlargement"
+            }
+          ]
+        },
+        {
+          "label": "enlarged/increasing CDR or CDR asymmetry >0.2 is suggestive of glaucomatous cupping"
+        },
+        {
+          "label": "cupping may be reversible if the IOP is lowered"
+        },
+        {
+          "label": "lowering IOP cannot reverse any existing atrophy of the optic nerve axons"
+        }
+      ]
+    },
+    {
+      "label": "External Examination",
+      "children": [
+        {
+          "label": "buphthalmos"
+        },
+        {
+          "label": "epiphora"
+        },
+        {
+          "label": "blepharospasm"
+        },
+        {
+          "label": "examination should be directed at features of",
+          "children": [
+            {
+              "label": "chromosomal abnormalities"
+            },
+            {
+              "label": "phakomatoses"
+            },
+            {
+              "label": "connective tissue disorders"
+            },
+            {
+              "label": "Axenfeld-Rieger syndrome"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Anterior Segment Examination",
+      "children": [
+        {
+          "label": "corneal diameter",
+          "children": [
+            {
+              "label": "measure with calipers or ruler"
+            },
+            {
+              "label": "normal corneal diameter",
+              "children": [
+                {
+                  "label": "full-term newborns",
+                  "children": [
+                    {
+                      "label": "10–10.5 mm"
+                    }
+                  ]
+                },
+                {
+                  "label": "by age 1",
+                  "children": [
+                    {
+                      "label": "11–12 mm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "congenital glaucoma",
+              "children": [
+                {
+                  "label": ".>12 mm in the first year of life"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "corneal opacification",
+          "children": [
+            {
+              "label": "mild haze to dense opacification of the corneal stroma"
+            }
+          ]
+        },
+        {
+          "label": "retroillumination after pupillary dilation may help visualize Haab striae"
+        },
+        {
+          "label": "evaluation for other anterior segment anomalies",
+          "children": [
+            {
+              "label": "aniridia"
+            },
+            {
+              "label": "iridocorneal adhesions"
+            },
+            {
+              "label": "corectopia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Gonioscopy",
+      "children": [
+        {
+          "label": "younger children",
+          "children": [
+            {
+              "label": "EUA is usually required"
+            },
+            {
+              "label": "Koeppe lens",
+              "children": [
+                {
+                  "label": "direct visualization of angle structures"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "older children",
+          "children": [
+            {
+              "label": "4-mirror goniolens at the slit lamp",
+              "children": [
+                {
+                  "label": "indirect visualization of angle structures"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "anterior chamber angle of an infant differs from the normal adult angle",
+          "children": [
+            {
+              "label": "trabecular meshwork is less pigmented"
+            },
+            {
+              "label": "Schwalbe line is less prominent"
+            },
+            {
+              "label": "junction between the scleral spur and ciliary body band is less distinct"
+            }
+          ]
+        },
+        {
+          "label": "PCG",
+          "children": [
+            {
+              "label": "anterior chamber is deep"
+            },
+            {
+              "label": "high anterior iris insertion"
+            },
+            {
+              "label": "angle recess is absent"
+            }
+          ]
+        },
+        {
+          "label": "JOAG",
+          "children": [
+            {
+              "label": "angle usually appears normal",
+              "children": [
+                {
+                  "label": "iris root appears as a scalloped line of glistening tissue",
+                  "children": [
+                    {
+                      "label": "Barkan membrane",
+                      "children": [
+                        {
+                          "label": "thickened and compacted trabecular meshwork",
+                          "children": [
+                            {
+                              "label": "not a true membrane!"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "aniridia",
+          "children": [
+            {
+              "label": "rudimentary iris root with progressive narrowing and synechial closure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Central Corneal Thickness",
+      "children": [
+        {
+          "label": "average central corneal thickness (CCT)",
+          "children": [
+            {
+              "label": "540–560 μm in children without glaucoma"
+            },
+            {
+              "label": "lower than average",
+              "children": [
+                {
+                  "label": "congenital glaucoma"
+                },
+                {
+                  "label": "Down syndrome"
+                }
+              ]
+            },
+            {
+              "label": "higher than average",
+              "children": [
+                {
+                  "label": "aphakic glaucoma"
+                },
+                {
+                  "label": "aniridia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "role of pachymetry unclear"
+        }
+      ]
+    },
+    {
+      "label": "Tonometry",
+      "children": [
+        {
+          "label": "infants <6 months",
+          "children": [
+            {
+              "label": "can successfully measure the IOP without general anesthesia or sedation",
+              "children": [
+                {
+                  "label": "while the infant is feeding or immediately thereafter"
+                }
+              ]
+            },
+            {
+              "label": "Tono-Pen"
+            },
+            {
+              "label": "pneumotonometer"
+            },
+            {
+              "label": "Perkins tonometer"
+            },
+            {
+              "label": "rebound tonometer",
+              "children": [
+                {
+                  "label": "does not require topical anesthesia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "infants >6 months and young children",
+          "children": [
+            {
+              "label": "IOP falsely elevated in",
+              "children": [
+                {
+                  "label": "measurements higher with rebound tonometry than with the Perkins tonometer"
+                },
+                {
+                  "label": "uncooperative or struggling child"
+                }
+              ]
+            },
+            {
+              "label": "anesthesia usually required",
+              "children": [
+                {
+                  "label": "most general anesthetic agents and sedatives can profoundly lower IOP",
+                  "children": [
+                    {
+                      "label": "exceptions",
+                      "children": [
+                        {
+                          "label": "chloral hydrate",
+                          "children": [
+                            {
+                              "label": "does not affect IOP"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "ketamine",
+                          "children": [
+                            {
+                              "label": "may raise IOP"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "increased IOP during general anesthesia",
+                  "children": [
+                    {
+                      "label": "endotracheal intubation"
+                    },
+                    {
+                      "label": "upward drift of the eyes"
+                    },
+                    {
+                      "label": "possible induced laryngospasm"
+                    }
+                  ]
+                },
+                {
+                  "label": "in preparation for general anesthesia, infants may become dehydrated",
+                  "children": [
+                    {
+                      "label": "take IOP measurement immediately after induction of general anesthesia (preferably before intubation)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "normal IOP in newborns is in the low teens",
+          "children": [
+            {
+              "label": "increasing to adult levels of 10–20 mm Hg by middle childhood"
+            }
+          ]
+        },
+        {
+          "label": "glaucoma should be suspected if IOPs are elevated or asymmetric in a cooperative or anesthetized child"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.6.3. Childhood Glaucoma (III) - Evaluating the Pediatric Glaucoma Patient.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 234,
+      "connector_rejected": 0,
+      "connector_edges": 176,
+      "connector_width": 0.9,
+      "text_labels": 151,
+      "tree_nodes": 151,
+      "component_roots": 10,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.7521,
+      "root_font_size": 4.502,
+      "warnings": []
+    }
+  }
+}

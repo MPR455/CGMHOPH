@@ -1,0 +1,846 @@
+{
+  "label": "9.6.13. Posterior Uveitis (VI): White Dot Syndromes (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Serpiginous choroiditis",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "M=F"
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "unknown",
+              "children": [
+                {
+                  "label": "2nd-7th decades"
+                },
+                {
+                  "label": "immune-mediated occlusive vasculitis",
+                  "children": [
+                    {
+                      "label": "microorganisms may be a potential trigger"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "reported to occur in patients with",
+              "children": [
+                {
+                  "label": "Crohn disease"
+                },
+                {
+                  "label": "sarcoidosis"
+                },
+                {
+                  "label": "PAN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "painless"
+                },
+                {
+                  "label": "paracentral scotomata"
+                },
+                {
+                  "label": "decreased vision"
+                }
+              ]
+            },
+            {
+              "label": "bilateral asymmetric"
+            },
+            {
+              "label": "no AC reaction"
+            },
+            {
+              "label": "minimal vitreous reaction"
+            },
+            {
+              "label": "active areas",
+              "children": [
+                {
+                  "label": "pseudopodial/geographic gray-white lesions at the level of the RPE projecting from the optic nerve",
+                  "children": [
+                    {
+                      "label": "progressive centrifugal extension",
+                      "children": [
+                        {
+                          "label": "disease activity is confined to the leading edge of the advancing lesion"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "macular or peripheral lesions may present without peripapillary involvement",
+                  "children": [
+                    {
+                      "label": "less common"
+                    }
+                  ]
+                },
+                {
+                  "label": "+- shallow subretinal fluid"
+                },
+                {
+                  "label": "+- vascular sheathing"
+                },
+                {
+                  "label": "+- RPE detachment"
+                },
+                {
+                  "label": "+- neovascularization of the disc"
+                }
+              ]
+            },
+            {
+              "label": "late findings",
+              "children": [
+                {
+                  "label": "atrophy of the choriocapillaris, RPE, and retina"
+                },
+                {
+                  "label": "extensive RPE hyperpigmentation and subretinal fibrosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "natural course",
+          "children": [
+            {
+              "label": "chronic progressive",
+              "children": [
+                {
+                  "label": "CNV",
+                  "children": [
+                    {
+                      "label": "at the border of an old scar"
+                    },
+                    {
+                      "label": "≤25%"
+                    }
+                  ]
+                },
+                {
+                  "label": "new lesions & recurrent attacks are typical"
+                }
+              ]
+            },
+            {
+              "label": "final visual acuity of 20/200 - counting fingers",
+              "children": [
+                {
+                  "label": "≤38%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "paraclinical evaluation",
+          "children": [
+            {
+              "label": "FA",
+              "children": [
+                {
+                  "label": "early phase",
+                  "children": [
+                    {
+                      "label": "blockage of the choroidal flush"
+                    }
+                  ]
+                },
+                {
+                  "label": "late phase",
+                  "children": [
+                    {
+                      "label": "staining of the active edge of the lesion"
+                    },
+                    {
+                      "label": "hypofluorescence throughout all phases of the study for both acute and old lesions",
+                      "children": [
+                        {
+                          "label": "early hyperfluorescence with late leakage is indicative of CNV"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ICG angiography",
+              "children": [
+                {
+                  "label": "may reveal more extensive involvement than FA or clinical examination"
+                },
+                {
+                  "label": "CNV",
+                  "children": [
+                    {
+                      "label": "localized hyperfluorescence during the middle to late phases"
+                    },
+                    {
+                      "label": "useful in distinguishing active lesions from CNV"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "FAF imaging",
+              "children": [
+                {
+                  "label": "sensitive for detecting RPE damage and monitoring disease course"
+                },
+                {
+                  "label": "hyperfluorescence highlights active disease"
+                },
+                {
+                  "label": "hypoautofluorescence corresponds closely to regressed disease"
+                }
+              ]
+            },
+            {
+              "label": "OCT imaging",
+              "children": [
+                {
+                  "label": "active disease",
+                  "children": [
+                    {
+                      "label": "outer retinal reflectivity and disruption"
+                    }
+                  ]
+                },
+                {
+                  "label": "regressed disease",
+                  "children": [
+                    {
+                      "label": "atrophic changes in the retina and RPE"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "serpiginous-like choroiditis",
+          "children": [
+            {
+              "label": "Mycobacterium tuberculosis",
+              "children": [
+                {
+                  "label": "patients exposed to active pulmonary TB",
+                  "children": [
+                    {
+                      "label": "can cause inflammation that simulates typical serpiginous choroiditis"
+                    },
+                    {
+                      "label": "countries where TB is endemic"
+                    }
+                  ]
+                },
+                {
+                  "label": "tuberculin skin testing"
+                },
+                {
+                  "label": "interferon-gamma release assay"
+                },
+                {
+                  "label": "chest X-ray often appears normal"
+                },
+                {
+                  "label": "lesions appear and progress in multiple areas",
+                  "children": [
+                    {
+                      "label": "unilateral"
+                    },
+                    {
+                      "label": "involve posterior pole, mid-periphery, and periphery",
+                      "children": [
+                        {
+                          "label": "more prominent vitreous cellular reaction",
+                          "children": [
+                            {
+                              "label": "usually sparing the juxtapapillary area until late in the disease"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "responds to anti-TB treatment",
+                  "children": [
+                    {
+                      "label": "complete control may take months"
+                    },
+                    {
+                      "label": "+- corticosteroids"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "herpetic choroiditis"
+            },
+            {
+              "label": "syphilitic choroiditis"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "systemic, periocular, and intravitreal corticosteroids",
+              "children": [
+                {
+                  "label": "for active lesions",
+                  "children": [
+                    {
+                      "label": "particularly lesions threatening the fovea"
+                    }
+                  ]
+                },
+                {
+                  "label": "corticosteroids alone are ineffective"
+                },
+                {
+                  "label": "patients require prolonged anti-inflammatory therapy"
+                }
+              ]
+            },
+            {
+              "label": "systemic IMT",
+              "children": [
+                {
+                  "label": "cyclosporine monotherapy"
+                },
+                {
+                  "label": "triple therapy with prednisone, cyclosporine, and azathioprine",
+                  "children": [
+                    {
+                      "label": "may induce rapid remission of acute disease"
+                    },
+                    {
+                      "label": "prolonged therapy is required"
+                    },
+                    {
+                      "label": "disease recurrence is frequently observed as drugs are tapered"
+                    }
+                  ]
+                },
+                {
+                  "label": "cytotoxic therapy",
+                  "children": [
+                    {
+                      "label": "cyclophosphamide"
+                    },
+                    {
+                      "label": "chlorambucil"
+                    },
+                    {
+                      "label": "induce long, drug-free remissions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "intravitreal fluocinolone acetonide implant",
+              "children": [
+                {
+                  "label": "patients intolerant of systemic therapy"
+                }
+              ]
+            },
+            {
+              "label": "CNV treatment",
+              "children": [
+                {
+                  "label": "intravitreal anti-VEGF drugs"
+                },
+                {
+                  "label": "focal laser photocoagulation"
+                },
+                {
+                  "label": "photodynamic therapy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "references"
+        }
+      ]
+    },
+    {
+      "label": "Acute posterior multifocal placoid pigment epitheliopathy (APMPPE)",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "healthy young adults",
+              "children": [
+                {
+                  "label": "2nd-3rd decade"
+                }
+              ]
+            },
+            {
+              "label": "M = F"
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "genetic predisposition",
+              "children": [
+                {
+                  "label": "influenza-like prodrome (50%)",
+                  "children": [
+                    {
+                      "label": "similar to serpiginous & ARPE",
+                      "children": [
+                        {
+                          "label": "unlike other WDSs"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "HLA-B7"
+                },
+                {
+                  "label": "HLA-DR2"
+                }
+              ]
+            },
+            {
+              "label": "immune-mediated vascular alteration",
+              "children": [
+                {
+                  "label": "choroidal/choriocapillaris perfusion abnormalities with secondary involvement of the RPE/photoreceptors"
+                }
+              ]
+            },
+            {
+              "label": "noninfectious systemic associations",
+              "children": [
+                {
+                  "label": "erythema nodosum"
+                },
+                {
+                  "label": "cerebral vasculitis",
+                  "children": [
+                    {
+                      "label": "potentially life-threatening"
+                    }
+                  ]
+                },
+                {
+                  "label": "scleritis and episcleritis",
+                  "children": [
+                    {
+                      "label": "should undergo urgent neurologic evaluation"
+                    }
+                  ]
+                },
+                {
+                  "label": "GPA"
+                },
+                {
+                  "label": "PAN"
+                },
+                {
+                  "label": "sarcoidosis"
+                },
+                {
+                  "label": "ulcerative colitis"
+                }
+              ]
+            },
+            {
+              "label": "infectious systemic associations",
+              "children": [
+                {
+                  "label": "group A streptococcal infection"
+                },
+                {
+                  "label": "adenovirus type 5 infection"
+                },
+                {
+                  "label": "tuberculosis"
+                },
+                {
+                  "label": "Lyme disease"
+                },
+                {
+                  "label": "mumps"
+                },
+                {
+                  "label": "sudden onset",
+                  "children": [
+                    {
+                      "label": "hepatitis B vaccination"
+                    },
+                    {
+                      "label": "resolve over a period of 2–6 weeks"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "natural course",
+              "children": [
+                {
+                  "label": "new peripheral lesions may appear in a linear/ radial array over the next 3 weeks"
+                }
+              ]
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "vision loss",
+                  "children": [
+                    {
+                      "label": "fellow eye becomes involved within days to weeks",
+                      "children": [
+                        {
+                          "label": "bilateral"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "central and paracentral scotomata"
+                },
+                {
+                  "label": "photopsias may precede loss of vision"
+                }
+              ]
+            },
+            {
+              "label": "multiple large, flat, yellow-white placoid lesions at the level of the RPE",
+              "children": [
+                {
+                  "label": "1-2 disc areas"
+                },
+                {
+                  "label": "throughout the posterior pole to the equator"
+                },
+                {
+                  "label": "resolve over a period of 2–6 weeks",
+                  "children": [
+                    {
+                      "label": "permanent, well-defined RPE alterations (depigmentation and pigment clumping)"
+                    },
+                    {
+                      "label": "rapid evolution of the pigmentary changes, often over days, is a typical feature"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "+- papillitis"
+            },
+            {
+              "label": "+- mild vitritis"
+            },
+            {
+              "label": "atypical findings",
+              "children": [
+                {
+                  "label": "retinal vasculitis"
+                },
+                {
+                  "label": "retinal vascular occlusive disease"
+                },
+                {
+                  "label": "retinal neovascularization"
+                },
+                {
+                  "label": "exudative retinal detachment"
+                },
+                {
+                  "label": "minimal or no anterior uveitis"
+                },
+                {
+                  "label": "CME",
+                  "children": [
+                    {
+                      "label": "uncommon"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lab evaluation",
+          "children": [
+            {
+              "label": "FA",
+              "children": [
+                {
+                  "label": "acute phase",
+                  "children": [
+                    {
+                      "label": "early hypofluorescence",
+                      "children": [
+                        {
+                          "label": "typically more numerous than on funduscopy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "subacute phase",
+                  "children": [
+                    {
+                      "label": "late hyperfluorescent staining"
+                    },
+                    {
+                      "label": "increased central hyperfluorescence with late staining"
+                    }
+                  ]
+                },
+                {
+                  "label": "resolution phase",
+                  "children": [
+                    {
+                      "label": "transmission defects"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ICG angiography",
+              "children": [
+                {
+                  "label": "choroidal hypofluorescence",
+                  "children": [
+                    {
+                      "label": "typically more numerous than on funduscopy"
+                    },
+                    {
+                      "label": "become smaller in the inactive stages"
+                    }
+                  ]
+                },
+                {
+                  "label": "hypervisualization of the underlying choroidal vessels in both the acute and inactive stages"
+                }
+              ]
+            },
+            {
+              "label": "FAF imaging",
+              "children": [
+                {
+                  "label": "RPE alterations",
+                  "children": [
+                    {
+                      "label": "appear during recovery well after the choroid is affected"
+                    },
+                    {
+                      "label": "are fewer in number"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "OCT",
+              "children": [
+                {
+                  "label": "acute lesions",
+                  "children": [
+                    {
+                      "label": "hyperreflectivity of the outer retinal layers"
+                    },
+                    {
+                      "label": "subretinal or intraretinal fluid"
+                    }
+                  ]
+                },
+                {
+                  "label": "resolving lesions",
+                  "children": [
+                    {
+                      "label": "outer retinal and photoreceptor loss"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "choroidal metastasis"
+            },
+            {
+              "label": "viral retinitis"
+            },
+            {
+              "label": "sarcoidosis"
+            },
+            {
+              "label": "VKH syndrome"
+            },
+            {
+              "label": "pneumocystis choroiditis"
+            },
+            {
+              "label": "serpiginous choroiditis",
+              "children": [
+                {
+                  "label": "insidious and progressive",
+                  "children": [
+                    {
+                      "label": "APMPPE is acute, usually nonrecurring disease!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "systemic corticosteroids",
+              "children": [
+                {
+                  "label": "may not alter visual outcome"
+                },
+                {
+                  "label": "some authorities advocate treatment in patients with",
+                  "children": [
+                    {
+                      "label": "extensive macular involvement"
+                    },
+                    {
+                      "label": "associated CNS vasculitis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "visual acuity returns to ≥20/40 within 6 months",
+              "children": [
+                {
+                  "label": "20% are left with residual visual dysfunction"
+                }
+              ]
+            },
+            {
+              "label": "risk factors for loss of vision",
+              "children": [
+                {
+                  "label": "foveal involvement at presentation"
+                },
+                {
+                  "label": "older age"
+                },
+                {
+                  "label": "unilateral disease",
+                  "children": [
+                    {
+                      "label": "APMPPE is bilateral",
+                      "children": [
+                        {
+                          "label": "APMPPE is a disease of the young"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "longer interval between initial and fellow eye involvement",
+                  "children": [
+                    {
+                      "label": "Usually days-weeks"
+                    }
+                  ]
+                },
+                {
+                  "label": "recurrence",
+                  "children": [
+                    {
+                      "label": "APMPPE is usually non-recurrent"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.13. Posterior Uveitis (VI) - White Dot Syndromes (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 422,
+      "connector_rejected": 125,
+      "connector_edges": 241,
+      "connector_width": 0.612,
+      "text_labels": 215,
+      "tree_nodes": 215,
+      "component_roots": 2,
+      "spatially_recovered_labels": 7,
+      "connector_match_ratio": 0.5711,
+      "root_font_size": 2.603,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,205 @@
+---
+title: "6.9.2. Exodeviations (II): Intermittent Exotropia"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.9.2. Exodeviations (II) - Intermittent Exotropia.pdf"
+---
+
+# 6.9.2. Exodeviations (II): Intermittent Exotropia
+
+## Hierarchy
+
+- Clinical Characteristics
+  - most common type of exodeviation
+  - onset
+    - < 5 years
+    - may develop during the first year of life
+      - must be differentiated from
+        - intermittent strabismus that is common in the first 1–2 months of life
+          - spontaneously resolves
+        - constant infantile exotropia
+  - precipitating factors
+    - visual inattention
+      - drowsiness on awakening
+      - daydreaming
+    - fatigue
+      - late in the day
+    - stress
+      - during illness
+  - exposure to bright light often causes a reflex closure of 1 eye
+    - "squint"
+  - larger for distance
+    - may be difficult to elicit at near
+      - most parental interactions with young children occur at near
+  - can be associated with small hypertropias, A and V patterns, and overelevation and underelevation in adduction
+  - untreated intermittent exotropia may progress toward constant exotropia
+    - tropic episodes occur at lower levels of fatigue and last for longer periods
+  - children <10 years usually do not experience diplopia when they are tropic
+  - normal retinal correspondence and good binocular function remain when the eyes are straight
+  - amblyopia is uncommon unless
+    - intermittent exotropia progresses to constant or nearly constant exotropia at an early age
+    - another amblyogenic factor, such as anisometropia, is present
+- Treatment
+  - Nonsurgical management
+    - Correction of refractive errors
+      - myopia
+        - correction of even mild myopia may improve control of exodeviation
+      - astigmatism
+      - hyperopia
+        - mild to moderate degrees of hyperopia are not routinely corrected
+        - marked hyperopia (>+4.00 D or >+1.50 D hyperopic anisometropia)
+          - cannot sustain accommodation, resulting in blurred retinal image and manifest exotropia
+      - additional minus lenses
+        - 2.00–4.00 D beyond the actual refractive error
+          - to stimulate accommodative convergence
+        - may cause asthenopia in school-aged children
+        - effective as a temporizing measure to promote fusion and delay surgery
+          - if initial overcorrection results in control, prescription can be gradually tapered and surgery may be avoided
+    - Occlusion therapy
+      - amblyopia
+        - patching may improve control of exotropic deviations
+      - no amblyopia
+        - part-time patching of dominant (nondeviating) eye
+        - alternating daily patching in absence of a strong ocular preference
+        - can be an effective treatment for small-to moderate-sized deviations
+          - particularly in young children
+      - improvement is often temporary
+        - many patients eventually require surgery
+    - Active orthoptic treatments
+      - deviations of ≤20 Δ
+      - techniques
+        - antisuppression therapy/diplopia awareness
+          - loss of ability to suppress diplopia may be quite bothersome!
+        - fusional convergence training
+      - ± with patching, minus lenses, and surgery
+      - reported by some authors to have a long-term success rate comparable to surgery
+    - Prisms
+      - base-in prisms
+        - promote fusion
+      - can cause a reduction in fusional vergence amplitudes
+        - seldom used for long-term management
+  - Surgical treatment
+    - indications
+      - documented progression toward constant exotropia
+        - more frequent manifest deviation
+          - .>50% of the time
+        - decreased control
+        - decreased distance stereoacuity
+        - no consensus exists regarding specific indications
+    - best sensory outcomes are probably achieved with
+      - motor alignment <age 7
+      - strabismus duration <5 years
+      - while deviation is still intermittent
+    - types
+      - pseudodivergence excess exotropia
+        - symmetric recession of both lateral rectus muscles
+      - basic intermittent exotropia
+        - may do better with
+          - combined lateral rectus muscle recession and medial rectus muscle resection
+          - larger lateral rectus muscle recessions than those used for patients with pseudodivergence excess
+      - true divergence excess exotropia
+        - increased risk of developing near esodeviations after lateral rectus muscle recessions
+          - may require bifocal glasses if near esodeviation is associated with a high AC/A ratio
+    - smaller exodeviations
+      - unilateral lateral rectus muscle recessions
+    - some believe that usual quantity of surgery may result in overcorrection if exotropia in each side gaze is less than that in primary position by ≥10Δ
+      - might reduce amount of lateral rectus muscle recession on each side by 1 mm
+    - botulinum toxin
+      - multiple injections are commonly needed
+    - references
+  - Postoperative alignment
+    - esotropia
+      - small-angle esotropia in immediate postoperative period is desirable
+        - less likely to develop recurrent exotropia
+        - may experience diplopia during the time they are esotropic
+        - conversion to monofixation, with subnormal stereopsis, may occur
+          - some ophthalmologists prefer to delay surgery in young children in whom good preoperative visual acuity and stereopsis might be exchanged for a small-angle esotropia and decreased stereopsis postoperatively
+            - delaying surgery too long could allow permanent suppression to develop and decrease long-term stability following surgical correction
+      - indications for treatment
+        - esotropia persists beyond 3–4 weeks
+        - esotropia develops after 1–2 months
+      - treatment methods
+        - base-out prisms
+        - patching
+        - corrective lenses
+          - if significant hyperopia is present
+        - bifocals
+          - for a high AC/A ratio
+        - surgery
+          - delay of a few months is recommended before reoperation
+            - unless deficient ductions suggest a slipped or lost muscle
+            - spontaneous improvement is common
+          - unilateral or bilateral recession of the medial rectus muscle
+          - advancement of the recessed lateral rectus muscles
+        - injection of botulinum toxin
+    - residual exodeviation
+      - mild to moderate with good fusional control
+        - observation
+      - persistent exotropia
+        - commonly worsens over time
+        - base-in prisms
+        - patching
+        - optical management
+        - surgery
+          - if deviation progresses
+            - re-recession of the lateral rectus muscles
+            - resections of the medial rectus muscles
+            - injections of botulinum toxin
+    - monofixational exotropia
+      - constant exodeviation <8Δ
+      - decreased stereopsis
+- Evaluation
+  - history
+    - age of onset
+    - change in frequency
+    - circumstances under which the deviation is manifest
+  - grading of control of exodeviation
+    - Good control
+      - manifests only after cover testing, and the patient resumes fusion rapidly without blinking or refixating
+    - Fair control
+      - manifests after fusion is disrupted by cover testing, and the patient resumes fusion only after blinking or refixating
+    - Poor control
+      - manifests spontaneously and may remain manifest for an extended time
+    - Newcastle Control Score
+      - quantitative
+  - prism and alternate cover testing
+    - fixation distances of 6 m and 33 cm
+      - near deviation<far deviation
+        - factors
+          - tenacious proximal fusion
+            - slow-to-dissipate fusion mechanism at near
+            - pseudo-high AC/A ratio
+            - repeat near alternate cover test, after 30–60 minutes of monocular occlusion
+              - will eliminate tenacious proximal fusion
+                - ≈ near and distance measurements after occlusion confirm tenacious proximal fusion
+              - will not eliminate high AC/A
+                - near deviation will remain greater than distance deviation
+          - high AC/A ratio
+            - occurs much less commonly in exotropia than in esotropia
+            - repeat alternate cover test with +3.00 D lenses at near or –2.00 D lenses at distance
+              - will eliminate effect of high AC/A
+                - ≈ near and distance measurements with lenses confirm high AC/A
+    - far distance measurement at ≥30 m
+      - may uncover a latent deviation or bring out an even larger one
+  - sensory testing
+    - excellent stereopsis
+    - normal retinal correspondence
+      - when the eyes are aligned
+    - suppression
+      - when the exodeviation is manifest
+      - diplopia
+        - uncommon
+  - references
+- Classification
+  - Pseudodivergence excess exotropia
+    - most common form
+    - distance deviation > near deviation
+      - this difference becomes minimal after monocular occlusion or with +3.00 D lenses at near
+  - Basic exotropia
+    - distance deviation ≈ near deviation
+  - True divergence excess exotropia
+    - least common form
+    - distance deviation > near deviation
+      - deviation does not equalize after monocular occlusion or with +3.00 D lenses at near
+  - Convergence weakness exotropia
+    - near deviation > distance deviation

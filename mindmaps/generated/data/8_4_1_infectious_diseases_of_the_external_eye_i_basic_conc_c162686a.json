@@ -1,0 +1,862 @@
+{
+  "label": "8.4.1. Infectious Diseases of the External Eye (I): Basic Concepts",
+  "root": true,
+  "children": [
+    {
+      "label": "See Table 4-1"
+    },
+    {
+      "label": "See Table 4-2"
+    },
+    {
+      "label": "Virology and Viral Infections",
+      "children": [
+        {
+          "label": "10–400 nm in diameter"
+        },
+        {
+          "label": "lack independent means for energy metabolism, molecular biosynthesis, or replication"
+        },
+        {
+          "label": "genome",
+          "children": [
+            {
+              "label": "RNA",
+              "children": [
+                {
+                  "label": "single-stranded",
+                  "children": [
+                    {
+                      "label": "positive-sense (same polarity as mRNA)"
+                    },
+                    {
+                      "label": "negative-sense (opposite polarity to mRNA)"
+                    }
+                  ]
+                },
+                {
+                  "label": "double-stranded"
+                }
+              ]
+            },
+            {
+              "label": "DNA",
+              "children": [
+                {
+                  "label": "single-stranded"
+                },
+                {
+                  "label": "double-stranded"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "viral capsid",
+          "children": [
+            {
+              "label": "protein shell",
+              "children": [
+                {
+                  "label": "surrounds the genome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "envelope",
+          "children": [
+            {
+              "label": "lipid bilayer"
+            },
+            {
+              "label": "glycoproteins bound to the membrane act as ligands",
+              "children": [
+                {
+                  "label": "neutralize antibodies"
+                }
+              ]
+            },
+            {
+              "label": "enveloped viruses",
+              "children": [
+                {
+                  "label": "HSV"
+                },
+                {
+                  "label": "HIV"
+                },
+                {
+                  "label": "damaged by ultraviolet light, detergents, alcohols, and general-use antiseptics",
+                  "children": [
+                    {
+                      "label": "infectivity of enveloped viruses is short-lived outside the host"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nonenveloped viruses",
+              "children": [
+                {
+                  "label": "adenovirus"
+                },
+                {
+                  "label": "resistant to environmental insult",
+                  "children": [
+                    {
+                      "label": "can persist for weeks outside the human host"
+                    },
+                    {
+                      "label": "apply dilute bleach to tonometer tips x ≥ 10 minutes to prevent transmission of adenoviruses"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Defense Mechanisms of the External Eye",
+      "children": [
+        {
+          "label": "blinking",
+          "children": [
+            {
+              "label": "10–15 blinks per minute"
+            },
+            {
+              "label": "prevents desiccation of the ocular surface"
+            },
+            {
+              "label": "promotes tear turnover"
+            }
+          ]
+        },
+        {
+          "label": "ocular surface epithelium forms a tight mechanical barrier against microbial invasion"
+        },
+        {
+          "label": "rapid cycling of epithelial cells aids in the expulsion of microbes"
+        },
+        {
+          "label": "tear-soluble macromolecules with antimicrobial properties",
+          "children": [
+            {
+              "label": "tear lysozyme",
+              "children": [
+                {
+                  "label": "degrades bacterial cell walls"
+                }
+              ]
+            },
+            {
+              "label": "β-lysin",
+              "children": [
+                {
+                  "label": "disrupts bacterial plasma membranes"
+                }
+              ]
+            },
+            {
+              "label": "lactoferrin",
+              "children": [
+                {
+                  "label": "inhibits bacterial metabolism"
+                }
+              ]
+            },
+            {
+              "label": "immunoglobulins",
+              "children": [
+                {
+                  "label": "secretory IgA",
+                  "children": [
+                    {
+                      "label": "antigen-specific immunity"
+                    }
+                  ]
+                },
+                {
+                  "label": "classic and alternative complement pathways"
+                }
+              ]
+            },
+            {
+              "label": "Meibomian gland–derived lipids",
+              "children": [
+                {
+                  "label": "reduce evaporation of the tear"
+                }
+              ]
+            },
+            {
+              "label": "Mucins",
+              "children": [
+                {
+                  "label": "inhibit attachment of microbes"
+                }
+              ]
+            },
+            {
+              "label": "Cytokines",
+              "children": [
+                {
+                  "label": "epidermal growth factor (EGF)"
+                },
+                {
+                  "label": "transforming growth factor βs (TGF-βs)"
+                },
+                {
+                  "label": "hepatocyte growth factor (HGF)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "proinflammatory cytokines",
+          "children": [
+            {
+              "label": "interleukin-1 (IL-1)"
+            },
+            {
+              "label": "sources",
+              "children": [
+                {
+                  "label": "epithelial cells"
+                },
+                {
+                  "label": "keratocytes"
+                }
+              ]
+            },
+            {
+              "label": "lymphocytes & neutrophis are recruited into the cornea from",
+              "children": [
+                {
+                  "label": "tear film"
+                },
+                {
+                  "label": "limbal vascular arcades"
+                },
+                {
+                  "label": "anterior chamber"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "immunologically competent cell types",
+          "children": [
+            {
+              "label": "CD8+ cytotoxic/suppressor T cells",
+              "children": [
+                {
+                  "label": "conjunctival epithelium"
+                }
+              ]
+            },
+            {
+              "label": "CD4+ helper T cells"
+            },
+            {
+              "label": "activated Langerhans cells",
+              "children": [
+                {
+                  "label": "present in the peripheral corneal epithelium & conjunctiva"
+                },
+                {
+                  "label": "carry antigen to regional lymphatic tissue"
+                },
+                {
+                  "label": "migrate rapidly to the central cornea"
+                }
+              ]
+            },
+            {
+              "label": "hyperplasia of conjunctival lymphoid follicles",
+              "children": [
+                {
+                  "label": "absent in newborns"
+                }
+              ]
+            },
+            {
+              "label": "painful swelling of draining preauricular lymph nodes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Diagnostic Laboratory Techniques",
+      "children": [
+        {
+          "label": "specimen collection",
+          "children": [
+            {
+              "label": "eyelid specimens",
+              "children": [
+                {
+                  "label": "vesicles or pustules",
+                  "children": [
+                    {
+                      "label": "open with sharp-pointed blade/needle"
+                    },
+                    {
+                      "label": "cytology",
+                      "children": [
+                        {
+                          "label": "smear onto a glass slide"
+                        },
+                        {
+                          "label": "fix in methanol or acetone",
+                          "children": [
+                            {
+                              "label": "immunofluorescent staining"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "culture",
+                      "children": [
+                        {
+                          "label": "broth-moistened swab"
+                        },
+                        {
+                          "label": "avoid topical anesthetic",
+                          "children": [
+                            {
+                              "label": "chilled viral transport medium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "conjunctival specimens",
+              "children": [
+                {
+                  "label": "conjunctival swabbing",
+                  "children": [
+                    {
+                      "label": "calcium alginate or Dacron swabs slightly moistened with thioglycollate broth",
+                      "children": [
+                        {
+                          "label": "preferable to cotton-tipped swabs",
+                          "children": [
+                            {
+                              "label": "contain fatty acids, which may inhibit bacterial and viral growth"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "plated directly onto warmed solid media (blood, chocolate, and Sabouraud’s)"
+                    },
+                    {
+                      "label": "place broken distal end of the swab directly into the remaining thioglycollate broth tube"
+                    }
+                  ]
+                },
+                {
+                  "label": "conjunctival scraping",
+                  "children": [
+                    {
+                      "label": "everted eyelid"
+                    },
+                    {
+                      "label": "topical anesthetic",
+                      "children": [
+                        {
+                          "label": "proparacaine hydrochloride 0.5%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "sterile spatula is scraped firmly across the tarsus"
+                    },
+                    {
+                      "label": "cytobrush",
+                      "children": [
+                        {
+                          "label": "place in a buffer solution to release the epithelial cells onto a Millipore filter",
+                          "children": [
+                            {
+                              "label": "fixation"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Conjunctival biopsy",
+                  "children": [
+                    {
+                      "label": "Parinaud oculoglandular syndrome"
+                    },
+                    {
+                      "label": "mucous membrane pemphigoid"
+                    },
+                    {
+                      "label": "human papillomavirus (HPV) infection"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "corneal specimens",
+              "children": [
+                {
+                  "label": "corneal culture",
+                  "children": [
+                    {
+                      "label": "indications",
+                      "children": [
+                        {
+                          "label": "large or sight-threatening ulcers"
+                        },
+                        {
+                          "label": "ulcers in which an atypical organism is suspected"
+                        },
+                        {
+                          "label": "any ulcer that is not responding to therapy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "sample collection",
+                      "children": [
+                        {
+                          "label": "platinum Kimura spatula"
+                        },
+                        {
+                          "label": "surgical blade",
+                          "children": [
+                            {
+                              "label": "preferable for preparing smears"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "sterile needle"
+                        },
+                        {
+                          "label": "thioglycollate-moistened calcium alginate or Dacron swab"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "technique",
+                      "children": [
+                        {
+                          "label": "media warmed to room temperature"
+                        },
+                        {
+                          "label": "avoid touching the blade or swab to the eyelids"
+                        },
+                        {
+                          "label": "a sterile instrument or swab should be used for each row of C-shaped streaks on each agar plate"
+                        },
+                        {
+                          "label": "viral culture",
+                          "children": [
+                            {
+                              "label": "use a Dacron swab",
+                              "children": [
+                                {
+                                  "label": "avoid calcium alginate and cotton swabs"
+                                },
+                                {
+                                  "label": "chilled viral transport medium"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal biopsy",
+                  "children": [
+                    {
+                      "label": "repeated cultures from corneal scrapings are negative"
+                    },
+                    {
+                      "label": "small 2- to 3-mm trephine",
+                      "children": [
+                        {
+                          "label": "partial-thickness incision",
+                          "children": [
+                            {
+                              "label": "2 pieces",
+                              "children": [
+                                {
+                                  "label": "histopathology"
+                                },
+                                {
+                                  "label": "microbiology"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Isolation techniques",
+          "children": [
+            {
+              "label": "viral and chlamydial infections",
+              "children": [
+                {
+                  "label": "appropriate tissue-culture",
+                  "children": [
+                    {
+                      "label": "cytopathic effects"
+                    },
+                    {
+                      "label": "cellular inclusions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "bacterial and fungal infections",
+              "children": [
+                {
+                  "label": "blood, chocolate, and Sabouraud’s agar and thioglycollate broth"
+                }
+              ]
+            },
+            {
+              "label": "Acanthamoebae",
+              "children": [
+                {
+                  "label": "nonnutrient agar with an overlay of killed Enterobacter aerogenes"
+                },
+                {
+                  "label": "trophozoite trails on blood agar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Staining methods"
+        }
+      ]
+    },
+    {
+      "label": "Pathogenesis of Ocular Infections",
+      "children": [
+        {
+          "label": "routes",
+          "children": [
+            {
+              "label": "exogenous inoculation"
+            },
+            {
+              "label": "hematogenous seeding",
+              "children": [
+                {
+                  "label": "rare"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "factors",
+          "children": [
+            {
+              "label": "Virulence"
+            },
+            {
+              "label": "Adherence",
+              "children": [
+                {
+                  "label": "bacteria",
+                  "children": [
+                    {
+                      "label": "adhesins"
+                    }
+                  ]
+                },
+                {
+                  "label": "Candida albicans",
+                  "children": [
+                    {
+                      "label": "integrins",
+                      "children": [
+                        {
+                          "label": "transmembrane proteins that mediate cell–cell and cell–extracellular matrix interactions"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "viruses",
+                  "children": [
+                    {
+                      "label": "proteins/glycoproteins that attach to cell surface molecules",
+                      "children": [
+                        {
+                          "label": "herpes simplex",
+                          "children": [
+                            {
+                              "label": "attaches to heparan sulfate",
+                              "children": [
+                                {
+                                  "label": "S to S"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Evasion",
+              "children": [
+                {
+                  "label": "bacteria",
+                  "children": [
+                    {
+                      "label": "biofilm",
+                      "children": [
+                        {
+                          "label": "interferes with phagocytosis",
+                          "children": [
+                            {
+                              "label": "adenovirus",
+                              "children": [
+                                {
+                                  "label": "attaches to sialic acid",
+                                  "children": [
+                                    {
+                                      "label": "A to A"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "viruses",
+                  "children": [
+                    {
+                      "label": "HSV",
+                      "children": [
+                        {
+                          "label": "ICP47",
+                          "children": [
+                            {
+                              "label": "competes with antigenic viral peptides for transport into the endoplasmic reticulum",
+                              "children": [
+                                {
+                                  "label": "Neisseria gonorrhoeae"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Invasion",
+              "children": [
+                {
+                  "label": "few bacteria can penetrate intact epithelium",
+                  "children": [
+                    {
+                      "label": "Neisseria meningitidis"
+                    },
+                    {
+                      "label": "Corynebacterium diphtheriae"
+                    },
+                    {
+                      "label": "Shigella spp"
+                    },
+                    {
+                      "label": "Haemophilus influenzae biotype III (formerly Haemophilus aegyptius)"
+                    }
+                  ]
+                },
+                {
+                  "label": "microbial proteases",
+                  "children": [
+                    {
+                      "label": "degrade the extracellular matrix",
+                      "children": [
+                        {
+                          "label": "Listeria monocytogenes"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "activate native corneal matrix–derived metalloproteinases (MMPs)",
+                      "children": [
+                        {
+                          "label": "autodigestion"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "bacterial exotoxins"
+                }
+              ]
+            },
+            {
+              "label": "replication and persistence",
+              "children": [
+                {
+                  "label": "HSV & VZV",
+                  "children": [
+                    {
+                      "label": "in trigeminal ganglion cells"
+                    }
+                  ]
+                },
+                {
+                  "label": "Chlamydia",
+                  "children": [
+                    {
+                      "label": "within intracellular phagosomes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Inoculum size"
+            }
+          ]
+        },
+        {
+          "label": "Host Defense",
+          "children": [
+            {
+              "label": "intrinsic anatomical mechanisms predisposing to infection",
+              "children": [
+                {
+                  "label": "Desiccation of the ocular surface epithelium"
+                },
+                {
+                  "label": "Disruption of the corneal epithelium",
+                  "children": [
+                    {
+                      "label": "microtrauma to the epithelium",
+                      "children": [
+                        {
+                          "label": "trichiasis"
+                        },
+                        {
+                          "label": "contact lens wear"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Acute traumatic abrasion"
+                    },
+                    {
+                      "label": "bullous keratopathy"
+                    }
+                  ]
+                },
+                {
+                  "label": "Persistent epithelial defects due to neurotrophic mechanisms"
+                },
+                {
+                  "label": "Disruption of the conjunctival epithelium",
+                  "children": [
+                    {
+                      "label": "surgical trauma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Local or systemic immune compromise predisposing to infection",
+              "children": [
+                {
+                  "label": "topical corticosteroids"
+                },
+                {
+                  "label": "AIDS"
+                },
+                {
+                  "label": "chronic debilitating diseases"
+                },
+                {
+                  "label": "systemic chemotherapy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.4.1. Infectious Diseases of the External Eye (I) - Basic Concepts.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 393,
+      "connector_rejected": 0,
+      "connector_edges": 261,
+      "connector_width": 1.172,
+      "text_labels": 213,
+      "tree_nodes": 213,
+      "component_roots": 4,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.6641,
+      "root_font_size": 3.322,
+      "warnings": []
+    }
+  }
+}

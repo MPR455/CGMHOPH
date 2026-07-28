@@ -1,0 +1,236 @@
+{
+  "label": "Vasculitis",
+  "root": true,
+  "children": [
+    {
+      "label": "Eales disease",
+      "children": [
+        {
+          "label": "primary occlusive retinal vasculopathy for which no cause can be found"
+        },
+        {
+          "label": "males"
+        },
+        {
+          "label": "tuberculin hypersensitivity"
+        },
+        {
+          "label": "usually involves the peripheral retina of both eyes"
+        },
+        {
+          "label": "extraretinal neovascularization"
+        },
+        {
+          "label": "vitreous hemorrhage"
+        }
+      ]
+    },
+    {
+      "label": "etiology",
+      "children": [
+        {
+          "label": "systemic diseases",
+          "children": [
+            {
+              "label": "associated with inflammatory disease elsewhere in the body"
+            }
+          ]
+        },
+        {
+          "label": "• giant cell arteritis"
+        },
+        {
+          "label": "• polyarteritis nodosa"
+        },
+        {
+          "label": "• systemic lupus erythematosus"
+        },
+        {
+          "label": "• Behçet disease"
+        },
+        {
+          "label": "• inflammatory bowel disease"
+        },
+        {
+          "label": "• multiple sclerosis"
+        },
+        {
+          "label": "• pars planitis"
+        },
+        {
+          "label": "• sarcoidosis"
+        },
+        {
+          "label": "• syphilis"
+        },
+        {
+          "label": "• toxoplasmosis"
+        },
+        {
+          "label": "• viral retinitides"
+        },
+        {
+          "label": "• Lyme disease"
+        },
+        {
+          "label": "• cat-scratch disease"
+        },
+        {
+          "label": "• certain medications, such as rifabutin"
+        }
+      ]
+    },
+    {
+      "label": "Susac syndrome",
+      "children": [
+        {
+          "label": "no known cause"
+        },
+        {
+          "label": "women in their third decade"
+        },
+        {
+          "label": "clinical findings",
+          "children": [
+            {
+              "label": "multiple branch retinal arterial occlusions"
+            },
+            {
+              "label": "hearing loss"
+            },
+            {
+              "label": "strokes",
+              "children": [
+                {
+                  "label": "rare"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "corticosteroids"
+            },
+            {
+              "label": "immunosuppression"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "chronic embolism/thrombosis",
+      "children": [
+        {
+          "label": "clinical picture indistinguishable from past retinal vasculitis may result from chronic embolism or thrombosis without inflammation"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "cardiac valvular disease"
+            },
+            {
+              "label": "cardiac arrhythmias"
+            },
+            {
+              "label": "ulcerated atheromatous disease of the carotid vessels"
+            },
+            {
+              "label": "hemoglobinopathies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "early clinical manifestations",
+      "children": [
+        {
+          "label": "perivascular infiltrates"
+        },
+        {
+          "label": "sheathing of the retinal vessels"
+        },
+        {
+          "label": "combination of both arterial and venous involvement is the rule",
+          "children": [
+            {
+              "label": "veins tend to be inflamed earlier and more frequently than arterioles"
+            },
+            {
+              "label": "involvement of exclusively retinal arteries or veins is uncommon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Idiopathic retinal vasculitis, aneurysms, and neuroretinitis (IRVAN)",
+      "children": [
+        {
+          "label": "clinical findings",
+          "children": [
+            {
+              "label": "retinal vasculitis"
+            },
+            {
+              "label": "multiple macroaneurysms"
+            },
+            {
+              "label": "neuroretinitis"
+            },
+            {
+              "label": "peripheral capillary nonperfusion"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "oral prednisone",
+              "children": [
+                {
+                  "label": "little benefit"
+                }
+              ]
+            },
+            {
+              "label": "PRP",
+              "children": [
+                {
+                  "label": "for peripheral retinal non-perfusion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic investigations are generally noncontributory"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Vasculitis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 93,
+      "connector_rejected": 9,
+      "connector_edges": 75,
+      "connector_width": 1.199,
+      "text_labels": 61,
+      "tree_nodes": 61,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.8065,
+      "root_font_size": 7.796,
+      "warnings": []
+    }
+  }
+}

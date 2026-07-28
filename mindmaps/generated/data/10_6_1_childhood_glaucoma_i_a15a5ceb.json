@@ -1,0 +1,626 @@
+{
+  "label": "10.6.1. Childhood Glaucoma (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Classification",
+      "children": [
+        {
+          "label": "Primary",
+          "children": [
+            {
+              "label": "developmental glaucomas with congenital anomalies of the filtration angle",
+              "children": [
+                {
+                  "label": "See Table 6-1"
+                }
+              ]
+            },
+            {
+              "label": "classic features",
+              "children": [
+                {
+                  "label": "enlarged and/or cloudy corneas"
+                },
+                {
+                  "label": "Haab striae"
+                },
+                {
+                  "label": "elevated IOP"
+                }
+              ]
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "congenital glaucoma (congenital open-angle glaucoma)",
+                  "children": [
+                    {
+                      "label": "newborn PCG",
+                      "children": [
+                        {
+                          "label": "at birth or <1 month of age"
+                        },
+                        {
+                          "label": "25%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "infantile PCG",
+                      "children": [
+                        {
+                          "label": "<2 years of life"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "late-diagnosed PCG",
+                      "children": [
+                        {
+                          "label": ".>2 years of age"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "75% diagnosed within the first year of life"
+                    }
+                  ]
+                },
+                {
+                  "label": "juvenile open-angle glaucoma",
+                  "children": [
+                    {
+                      "label": "later in childhood or in early adulthood",
+                      "children": [
+                        {
+                          "label": "4-35 years"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "glaucoma associated with systemic diseases",
+                  "children": [
+                    {
+                      "label": "chromosomal disorders"
+                    },
+                    {
+                      "label": "connective tissue disorders (ie, Marfan and Stickler syndromes)"
+                    },
+                    {
+                      "label": "phakomatoses"
+                    }
+                  ]
+                },
+                {
+                  "label": "glaucoma associated with other ocular anomalies",
+                  "children": [
+                    {
+                      "label": "aniridia"
+                    },
+                    {
+                      "label": "Peters anomaly"
+                    },
+                    {
+                      "label": "Axenfeld-Rieger syndrome"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Secondary",
+          "children": [
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "intraocular neoplasms"
+            },
+            {
+              "label": "inflammation"
+            },
+            {
+              "label": "lens-induced disorders"
+            },
+            {
+              "label": "surgical interventions"
+            },
+            {
+              "label": "angle closure"
+            },
+            {
+              "label": "infection"
+            },
+            {
+              "label": "neovascularization"
+            },
+            {
+              "label": "corticosteroid use"
+            },
+            {
+              "label": "elevated episcleral venous pressure"
+            },
+            {
+              "label": "See Table 6-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Primary Congenital Glaucoma (PCG)",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "PCG accounts for majority of primary pediatric glaucomas"
+            },
+            {
+              "label": "70% bilateral"
+            },
+            {
+              "label": "75% diagnosed within the first year of life"
+            },
+            {
+              "label": "ethnicity",
+              "children": [
+                {
+                  "label": "65% M"
+                },
+                {
+                  "label": "Slovakian Roms",
+                  "children": [
+                    {
+                      "label": "1 in 1250"
+                    }
+                  ]
+                },
+                {
+                  "label": "Great Britain",
+                  "children": [
+                    {
+                      "label": "1 in 18,500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "consanguinity greatly increases the risk"
+            },
+            {
+              "label": "without a family history of PCG, an affected parent has a 2% chance of having a child with PCG"
+            },
+            {
+              "label": "newborn PCG",
+              "children": [
+                {
+                  "label": "25%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "increased outflow resistance through the trabecular meshwork"
+            },
+            {
+              "label": "developmental anomaly of the neural crest– derived tissue of the anterior chamber angle",
+              "children": [
+                {
+                  "label": "dysgenesis and compression of the trabecular meshwork"
+                },
+                {
+                  "label": "anterior insertion of the iris root"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "classic triad",
+              "children": [
+                {
+                  "label": "epiphora"
+                },
+                {
+                  "label": "photophobia"
+                },
+                {
+                  "label": "blepharospasm"
+                }
+              ]
+            },
+            {
+              "label": "increased corneal diameter and enlargement of the globe (buphthalmos)",
+              "children": [
+                {
+                  "label": "until age 3, elevated IOP causes the cornea to stretch"
+                }
+              ]
+            },
+            {
+              "label": "Haab striae",
+              "children": [
+                {
+                  "label": "breaks in Descemet membrane"
+                },
+                {
+                  "label": "corneal edema"
+                },
+                {
+                  "label": "corneal opacification"
+                }
+              ]
+            },
+            {
+              "label": ".>age 3 years",
+              "children": [
+                {
+                  "label": "cornea does not continue to enlarge"
+                },
+                {
+                  "label": "scleral stretching causes progressive myopia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "worse prognosis",
+          "children": [
+            {
+              "label": "newborn PCG",
+              "children": [
+                {
+                  "label": "1/2 patients with newborn PCG progress to legal blindness"
+                }
+              ]
+            },
+            {
+              "label": "glaucoma diagnosed >1 year of age"
+            },
+            {
+              "label": "corneal diameter >14 mm"
+            },
+            {
+              "label": "prognosis best for patients whose glaucoma is diagnosed between 3 and 12 months",
+              "children": [
+                {
+                  "label": "vast majority respond to angle surgery"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "PCG should be considered in the differential diagnosis of any child who presents with tearing",
+              "children": [
+                {
+                  "label": "See Table 6-3"
+                },
+                {
+                  "label": "milder cases have fewer signs and symptoms and may be misdiagnosed as nasolacrimal duct obstruction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "surgical intervention"
+            },
+            {
+              "label": "medical therapy",
+              "children": [
+                {
+                  "label": "limited long-term value"
+                },
+                {
+                  "label": "may be used to temporize or reduce corneal edema to improve visualization during surgery"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "CYP1B1 gene",
+      "children": [
+        {
+          "label": "drug-metabolizing enzyme cytochrome P450, family 1, subfamily B, polypeptide 1"
+        }
+      ]
+    },
+    {
+      "label": "LTBP2 gene",
+      "children": [
+        {
+          "label": "latent transforming growth factor beta-binding protein 2"
+        }
+      ]
+    },
+    {
+      "label": "autosomal dominant",
+      "children": [
+        {
+          "label": "GLC1A locus"
+        }
+      ]
+    },
+    {
+      "label": "Genetics",
+      "children": [
+        {
+          "label": "genetic testing should be considered for",
+          "children": [
+            {
+              "label": "parents of pediatric glaucoma patients"
+            },
+            {
+              "label": "adults whose glaucoma had its onset in childhood or early adulthood"
+            }
+          ]
+        },
+        {
+          "label": "PCG",
+          "children": [
+            {
+              "label": "sporadic",
+              "children": [
+                {
+                  "label": "most cases"
+                }
+              ]
+            },
+            {
+              "label": "familial",
+              "children": [
+                {
+                  "label": "10%–40%"
+                },
+                {
+                  "label": "autosomal recessive",
+                  "children": [
+                    {
+                      "label": "incomplete or variable penetrance"
+                    },
+                    {
+                      "label": "3 genetic loci",
+                      "children": [
+                        {
+                          "label": "GLC3A"
+                        },
+                        {
+                          "label": "GLC3B"
+                        },
+                        {
+                          "label": "GLC3C",
+                          "children": [
+                            {
+                              "label": "TIGR/MYOC gene",
+                              "children": [
+                                {
+                                  "label": "trabecular meshwork inducible glucocorticoid response/myocillin"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "juvenile open-angle glaucoma",
+          "children": [
+            {
+              "label": "sporadic",
+              "children": [
+                {
+                  "label": "occasional"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "other ocular anomalies",
+          "children": [
+            {
+              "label": "Axenfeld-Rieger syndrome",
+              "children": [
+                {
+                  "label": "autosomal dominant",
+                  "children": [
+                    {
+                      "label": "in contrast to PCG"
+                    },
+                    {
+                      "label": "variable interaction between these 2 genes may underlie the diverse phenotypic expression"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Peters anomaly",
+              "children": [
+                {
+                  "label": "PITX2",
+                  "children": [
+                    {
+                      "label": "AD"
+                    }
+                  ]
+                },
+                {
+                  "label": "FOXC1"
+                },
+                {
+                  "label": "PAX6",
+                  "children": [
+                    {
+                      "label": "PAX6 gene"
+                    }
+                  ]
+                },
+                {
+                  "label": "most cases are sporadic",
+                  "children": [
+                    {
+                      "label": "CYP1B1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "aniridia",
+              "children": [
+                {
+                  "label": "autosomal dominant",
+                  "children": [
+                    {
+                      "label": "2/3"
+                    }
+                  ]
+                },
+                {
+                  "label": "sporadic",
+                  "children": [
+                    {
+                      "label": "1/3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "PITX2",
+      "children": [
+        {
+          "label": "at 4q25"
+        }
+      ]
+    },
+    {
+      "label": "FOXC1",
+      "children": [
+        {
+          "label": "at 6p25"
+        }
+      ]
+    },
+    {
+      "label": "TIGR/MYOC gene",
+      "children": [
+        {
+          "label": "trabecular meshwork inducible glucocorticoid response/myocillin"
+        }
+      ]
+    },
+    {
+      "label": "Juvenile Open-Angle Glaucoma",
+      "children": [
+        {
+          "label": "4-35 years"
+        },
+        {
+          "label": "autosomal dominant",
+          "children": [
+            {
+              "label": "most cases"
+            },
+            {
+              "label": "GLC1A locus"
+            }
+          ]
+        },
+        {
+          "label": "it does not usually cause corneal enlargement or Haab striae"
+        },
+        {
+          "label": "progressive myopia",
+          "children": [
+            {
+              "label": "may continue to develop"
+            }
+          ]
+        },
+        {
+          "label": "angles appear normal"
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "medical therapy",
+              "children": [
+                {
+                  "label": "usually unsuccessful"
+                }
+              ]
+            },
+            {
+              "label": "angle procedures",
+              "children": [
+                {
+                  "label": "may be helpful in select cases"
+                }
+              ]
+            },
+            {
+              "label": "trabeculectomy or implantation of a glaucoma drainage device"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.6.1. Childhood Glaucoma (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 156,
+      "connector_rejected": 2,
+      "connector_edges": 149,
+      "connector_width": 0.946,
+      "text_labels": 157,
+      "tree_nodes": 157,
+      "component_roots": 10,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.9551,
+      "root_font_size": 4.731,
+      "warnings": []
+    }
+  }
+}

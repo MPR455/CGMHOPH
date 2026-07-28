@@ -1,0 +1,460 @@
+{
+  "label": "5.10.4. Pupillary Abnormalities (IV): Anisocoria (III): Horner Syndrome",
+  "root": true,
+  "children": [
+    {
+      "label": "Pathogenesis",
+      "children": [
+        {
+          "label": "lesion at any point along the oculosympathetic pathway"
+        }
+      ]
+    },
+    {
+      "label": "Clinical presentation",
+      "children": [
+        {
+          "label": "miosis",
+          "children": [
+            {
+              "label": "normal pupillary light reflex"
+            },
+            {
+              "label": "slow redilation"
+            }
+          ]
+        },
+        {
+          "label": "facial anhidrosis",
+          "children": [
+            {
+              "label": "central (first-order) or preganglionic (second- order) neuron",
+              "children": [
+                {
+                  "label": "ipsilateral face"
+                }
+              ]
+            },
+            {
+              "label": "postganglionic (third-order) neuron",
+              "children": [
+                {
+                  "label": "ipsilateral forehead"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ptosis",
+          "children": [
+            {
+              "label": "combination of upper lid and lower lid ptosis",
+              "children": [
+                {
+                  "label": "narrower palpebral fissure",
+                  "children": [
+                    {
+                      "label": "false impression of enophthalmos"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "acute phase",
+          "children": [
+            {
+              "label": "conjunctival hyperemia"
+            },
+            {
+              "label": "ocular hypotony"
+            }
+          ]
+        },
+        {
+          "label": "iris hypochromia",
+          "children": [
+            {
+              "label": "congenital Horner's"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ETIOLOGY",
+      "children": [
+        {
+          "label": "first-order (preganglionic) lesion",
+          "children": [
+            {
+              "label": "medullary lesion",
+              "children": [
+                {
+                  "label": "ataxia, nystagmus, and hemisensory deficit"
+                },
+                {
+                  "label": "MRI of the brain and upper cervical cord"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "second-order (preganglionic) lesion",
+          "children": [
+            {
+              "label": "superior sulcus (Pancoast syndrome) or mediastinal lesion",
+              "children": [
+                {
+                  "label": "arm pain, cough, hemoptysis, and swelling in the neck"
+                },
+                {
+                  "label": "cervicothoracic MRI"
+                }
+              ]
+            },
+            {
+              "label": "thyroid mass"
+            },
+            {
+              "label": "chest surgery"
+            },
+            {
+              "label": "thoracic aortic aneurysms"
+            },
+            {
+              "label": "trauma to the brachial plexus"
+            }
+          ]
+        },
+        {
+          "label": "third-order (postganglionic) lesion",
+          "children": [
+            {
+              "label": "numbness over the first as well as the second or third divisions of CN V"
+            },
+            {
+              "label": "double vision from sixth nerve palsy"
+            },
+            {
+              "label": "isolated postganglionic Horner syndrome is often benign",
+              "children": [
+                {
+                  "label": "if examination of old photographs verifies that the Horner syndrome has been present for several years, further investigation will probably be unrewarding"
+                },
+                {
+                  "label": "no pain"
+                }
+              ]
+            },
+            {
+              "label": "painful postganglionic Horner syndrome",
+              "children": [
+                {
+                  "label": "carotid artery dissection",
+                  "children": [
+                    {
+                      "label": "pain around the temple and orbit",
+                      "children": [
+                        {
+                          "label": "may extend to the throat"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "amaurosis fugax"
+                    },
+                    {
+                      "label": "altered taste (dysgeusia)"
+                    },
+                    {
+                      "label": "stroke is a possible complication",
+                      "children": [
+                        {
+                          "label": "in the acute stage"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "MRI shows an intramural hemorrhage",
+                      "children": [
+                        {
+                          "label": "in rare cases MRA or cerebral arteriography is needed"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "cluster headache",
+                  "children": [
+                    {
+                      "label": "Horner syndrome often resolves",
+                      "children": [
+                        {
+                          "label": "may become permanent after repeated attacks"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Raeder paratrigeminal syndrome",
+                  "children": [
+                    {
+                      "label": "Horner syndrome + daily unilateral headache (neuralgia)"
+                    },
+                    {
+                      "label": "no underlying pathology",
+                      "children": [
+                        {
+                          "label": "middle-aged men"
+                        },
+                        {
+                          "label": "diagnosis of exclusion!"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "congenital Horner syndrome",
+          "children": [
+            {
+              "label": "birth trauma to the brachial plexus"
+            }
+          ]
+        },
+        {
+          "label": "nontraumatic Horner syndrome in infants and children",
+          "children": [
+            {
+              "label": "neuroblastoma",
+              "children": [
+                {
+                  "label": "sympathetic chain of the chest"
+                },
+                {
+                  "label": "imaging of the head, neck, and chest"
+                },
+                {
+                  "label": "increased catecholamines and their metabolites in urine",
+                  "children": [
+                    {
+                      "label": "less sensitive than imaging studies"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "pharmacological confirmation",
+      "children": [
+        {
+          "label": "cocaine (4-10%)",
+          "children": [
+            {
+              "label": "blocks re-uptake of norepinephrine at sympathetic nerve terminals",
+              "children": [
+                {
+                  "label": "affected eye",
+                  "children": [
+                    {
+                      "label": "no effect",
+                      "children": [
+                        {
+                          "label": "little or no norepinephrine is released into the synaptic cleft"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "unaffected eye",
+                  "children": [
+                    {
+                      "label": "eyelid retraction",
+                      "children": [
+                        {
+                          "label": "pupillary dilation"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "conjunctival blanching"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "technique",
+              "children": [
+                {
+                  "label": "instill 2 drops of cocaine (4% or 10%) in each eye",
+                  "children": [
+                    {
+                      "label": "measure amount of anisocoria after 45 minutes",
+                      "children": [
+                        {
+                          "label": "anisocoria of ≥1 mm is diagnostic of Horner syndrome on the side of the smaller pupil"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "mechanical anisocoria can cause false- positive cocaine test result",
+              "children": [
+                {
+                  "label": "topical phenylephrine (10%)",
+                  "children": [
+                    {
+                      "label": "mechanically restricted pupil will remain small"
+                    },
+                    {
+                      "label": "Horner pupil will readily dilate"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "apraclonidine (0.5-1%)",
+          "children": [
+            {
+              "label": "weak α1-adrenergic agonist",
+              "children": [
+                {
+                  "label": "affected eye",
+                  "children": [
+                    {
+                      "label": "pupil dilation",
+                      "children": [
+                        {
+                          "label": "in sympathetically denervated eyes the iris dilator is supersensitive to adrenergic substances"
+                        },
+                        {
+                          "label": "Figure 10-2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "ptosis improves",
+                      "children": [
+                        {
+                          "label": "little effect"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "unaffected eye"
+                }
+              ]
+            },
+            {
+              "label": "avoid in children <1 year",
+              "children": [
+                {
+                  "label": "may cause central nervous system depression and acute respiratory arrest"
+                },
+                {
+                  "label": "use cocaine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "hydroxyamphetamine (1%)",
+          "children": [
+            {
+              "label": "release of norepinephrine from an intact third- order (postganglionic) neuron",
+              "children": [
+                {
+                  "label": "affected eye with third-order (postganglionic) Horner",
+                  "children": [
+                    {
+                      "label": "brimonidine does not have enough α1- adrenergic activity"
+                    },
+                    {
+                      "label": "no pupil dilation"
+                    }
+                  ]
+                },
+                {
+                  "label": "affected eye with first- or second-order Horner",
+                  "children": [
+                    {
+                      "label": "pupil dilation"
+                    }
+                  ]
+                },
+                {
+                  "label": "unaffected eye",
+                  "children": [
+                    {
+                      "label": "pupil dilation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "for localization after diagnosis of Horner is established",
+              "children": [
+                {
+                  "label": "has fallen out of favor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "brimonidine should be avoided <3 years",
+      "children": [
+        {
+          "label": "brimonidine cannot be used as a substitute for apraclonidine"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.10.4. Pupillary Abnormalities (IV) Anisocoria (III) Horner Syndrome.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 190,
+      "connector_rejected": 4,
+      "connector_edges": 125,
+      "connector_width": 0.85,
+      "text_labels": 109,
+      "tree_nodes": 109,
+      "component_roots": 5,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6579,
+      "root_font_size": 2.976,
+      "warnings": []
+    }
+  }
+}

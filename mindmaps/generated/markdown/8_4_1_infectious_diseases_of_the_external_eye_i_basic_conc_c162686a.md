@@ -1,0 +1,223 @@
+---
+title: "8.4.1. Infectious Diseases of the External Eye (I): Basic Concepts"
+category: "External Diseases"
+subcategory: ""
+source_pdf: "MindmapPDF/External Diseases/8.4.1. Infectious Diseases of the External Eye (I) - Basic Concepts.pdf"
+---
+
+# 8.4.1. Infectious Diseases of the External Eye (I): Basic Concepts
+
+## Hierarchy
+
+- See Table 4-1
+- See Table 4-2
+- Virology and Viral Infections
+  - 10–400 nm in diameter
+  - lack independent means for energy metabolism, molecular biosynthesis, or replication
+  - genome
+    - RNA
+      - single-stranded
+        - positive-sense (same polarity as mRNA)
+        - negative-sense (opposite polarity to mRNA)
+      - double-stranded
+    - DNA
+      - single-stranded
+      - double-stranded
+  - viral capsid
+    - protein shell
+      - surrounds the genome
+  - envelope
+    - lipid bilayer
+    - glycoproteins bound to the membrane act as ligands
+      - neutralize antibodies
+    - enveloped viruses
+      - HSV
+      - HIV
+      - damaged by ultraviolet light, detergents, alcohols, and general-use antiseptics
+        - infectivity of enveloped viruses is short-lived outside the host
+    - nonenveloped viruses
+      - adenovirus
+      - resistant to environmental insult
+        - can persist for weeks outside the human host
+        - apply dilute bleach to tonometer tips x ≥ 10 minutes to prevent transmission of adenoviruses
+- Defense Mechanisms of the External Eye
+  - blinking
+    - 10–15 blinks per minute
+    - prevents desiccation of the ocular surface
+    - promotes tear turnover
+  - ocular surface epithelium forms a tight mechanical barrier against microbial invasion
+  - rapid cycling of epithelial cells aids in the expulsion of microbes
+  - tear-soluble macromolecules with antimicrobial properties
+    - tear lysozyme
+      - degrades bacterial cell walls
+    - β-lysin
+      - disrupts bacterial plasma membranes
+    - lactoferrin
+      - inhibits bacterial metabolism
+    - immunoglobulins
+      - secretory IgA
+        - antigen-specific immunity
+      - classic and alternative complement pathways
+    - Meibomian gland–derived lipids
+      - reduce evaporation of the tear
+    - Mucins
+      - inhibit attachment of microbes
+    - Cytokines
+      - epidermal growth factor (EGF)
+      - transforming growth factor βs (TGF-βs)
+      - hepatocyte growth factor (HGF)
+  - proinflammatory cytokines
+    - interleukin-1 (IL-1)
+    - sources
+      - epithelial cells
+      - keratocytes
+    - lymphocytes & neutrophis are recruited into the cornea from
+      - tear film
+      - limbal vascular arcades
+      - anterior chamber
+  - immunologically competent cell types
+    - CD8+ cytotoxic/suppressor T cells
+      - conjunctival epithelium
+    - CD4+ helper T cells
+    - activated Langerhans cells
+      - present in the peripheral corneal epithelium & conjunctiva
+      - carry antigen to regional lymphatic tissue
+      - migrate rapidly to the central cornea
+    - hyperplasia of conjunctival lymphoid follicles
+      - absent in newborns
+    - painful swelling of draining preauricular lymph nodes
+- Diagnostic Laboratory Techniques
+  - specimen collection
+    - eyelid specimens
+      - vesicles or pustules
+        - open with sharp-pointed blade/needle
+        - cytology
+          - smear onto a glass slide
+          - fix in methanol or acetone
+            - immunofluorescent staining
+        - culture
+          - broth-moistened swab
+          - avoid topical anesthetic
+            - chilled viral transport medium
+    - conjunctival specimens
+      - conjunctival swabbing
+        - calcium alginate or Dacron swabs slightly moistened with thioglycollate broth
+          - preferable to cotton-tipped swabs
+            - contain fatty acids, which may inhibit bacterial and viral growth
+        - plated directly onto warmed solid media (blood, chocolate, and Sabouraud’s)
+        - place broken distal end of the swab directly into the remaining thioglycollate broth tube
+      - conjunctival scraping
+        - everted eyelid
+        - topical anesthetic
+          - proparacaine hydrochloride 0.5%
+        - sterile spatula is scraped firmly across the tarsus
+        - cytobrush
+          - place in a buffer solution to release the epithelial cells onto a Millipore filter
+            - fixation
+      - Conjunctival biopsy
+        - Parinaud oculoglandular syndrome
+        - mucous membrane pemphigoid
+        - human papillomavirus (HPV) infection
+    - corneal specimens
+      - corneal culture
+        - indications
+          - large or sight-threatening ulcers
+          - ulcers in which an atypical organism is suspected
+          - any ulcer that is not responding to therapy
+        - sample collection
+          - platinum Kimura spatula
+          - surgical blade
+            - preferable for preparing smears
+          - sterile needle
+          - thioglycollate-moistened calcium alginate or Dacron swab
+        - technique
+          - media warmed to room temperature
+          - avoid touching the blade or swab to the eyelids
+          - a sterile instrument or swab should be used for each row of C-shaped streaks on each agar plate
+          - viral culture
+            - use a Dacron swab
+              - avoid calcium alginate and cotton swabs
+              - chilled viral transport medium
+      - corneal biopsy
+        - repeated cultures from corneal scrapings are negative
+        - small 2- to 3-mm trephine
+          - partial-thickness incision
+            - 2 pieces
+              - histopathology
+              - microbiology
+  - Isolation techniques
+    - viral and chlamydial infections
+      - appropriate tissue-culture
+        - cytopathic effects
+        - cellular inclusions
+    - bacterial and fungal infections
+      - blood, chocolate, and Sabouraud’s agar and thioglycollate broth
+    - Acanthamoebae
+      - nonnutrient agar with an overlay of killed Enterobacter aerogenes
+      - trophozoite trails on blood agar
+  - Staining methods
+- Pathogenesis of Ocular Infections
+  - routes
+    - exogenous inoculation
+    - hematogenous seeding
+      - rare
+  - factors
+    - Virulence
+    - Adherence
+      - bacteria
+        - adhesins
+      - Candida albicans
+        - integrins
+          - transmembrane proteins that mediate cell–cell and cell–extracellular matrix interactions
+      - viruses
+        - proteins/glycoproteins that attach to cell surface molecules
+          - herpes simplex
+            - attaches to heparan sulfate
+              - S to S
+    - Evasion
+      - bacteria
+        - biofilm
+          - interferes with phagocytosis
+            - adenovirus
+              - attaches to sialic acid
+                - A to A
+      - viruses
+        - HSV
+          - ICP47
+            - competes with antigenic viral peptides for transport into the endoplasmic reticulum
+              - Neisseria gonorrhoeae
+    - Invasion
+      - few bacteria can penetrate intact epithelium
+        - Neisseria meningitidis
+        - Corynebacterium diphtheriae
+        - Shigella spp
+        - Haemophilus influenzae biotype III (formerly Haemophilus aegyptius)
+      - microbial proteases
+        - degrade the extracellular matrix
+          - Listeria monocytogenes
+        - activate native corneal matrix–derived metalloproteinases (MMPs)
+          - autodigestion
+      - bacterial exotoxins
+    - replication and persistence
+      - HSV & VZV
+        - in trigeminal ganglion cells
+      - Chlamydia
+        - within intracellular phagosomes
+    - Inoculum size
+  - Host Defense
+    - intrinsic anatomical mechanisms predisposing to infection
+      - Desiccation of the ocular surface epithelium
+      - Disruption of the corneal epithelium
+        - microtrauma to the epithelium
+          - trichiasis
+          - contact lens wear
+        - Acute traumatic abrasion
+        - bullous keratopathy
+      - Persistent epithelial defects due to neurotrophic mechanisms
+      - Disruption of the conjunctival epithelium
+        - surgical trauma
+    - Local or systemic immune compromise predisposing to infection
+      - topical corticosteroids
+      - AIDS
+      - chronic debilitating diseases
+      - systemic chemotherapy

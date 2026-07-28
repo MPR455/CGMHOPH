@@ -1,0 +1,559 @@
+---
+title: "4.14.2. Orbit (II): Neoplasia"
+category: "Pathology & Tumors"
+subcategory: ""
+source_pdf: "MindmapPDF/Pathology and tumor/4.14.2. Orbit (II) - Neoplasia.pdf"
+---
+
+# 4.14.2. Orbit (II): Neoplasia
+
+## Hierarchy
+
+- Metastatic tumors
+  - secondary tumors
+    - direct extension from adjacent structures
+  - metastatic tumors
+    - spread from a primary site
+      - breast
+        - women
+      - prostate
+        - men
+      - neuroblastoma
+        - children
+- Adipose tumors
+  - Lipoma
+    - rare
+    - encapsulated
+    - lobular appearance
+  - Liposarcoma
+    - extremely rare
+    - lipoblasts
+    - recur before metastasizing
+- Nerve sheath tumors
+  - Neurofibroma
+    - most common nerve sheath tumor
+    - clinical
+      - slow-growing
+      - firm/rubbery
+    - histology
+      - cells
+        - endoneural fibroblasts
+        - Schwann cells
+        - axons
+      - arranged in ribbons/cords
+      - matrix of myxoid tissue and collagen
+        - contains axons
+      - not encapsulated
+    - chromosome 9p rearrangement
+    - isolated neurofibromas
+      - no systemic involvement
+    - plexiform neurofibromas
+      - neurofibromatosis type 1
+      - S-shaped deformity of upper eyelid
+      - CCN1 gene
+        - CCNs
+          - matricellular proteins
+            - connect cell surface and extracellular matrix
+  - Neurilemoma (schwannoma)
+    - arise from Schwann cells
+    - slow growing
+    - encapsulated
+    - associations
+      - solitary
+      - associated with neurofibromatosis
+    - histology
+      - patterns
+        - Antoni A pattern
+          - interlacing whorls/cords/palisades of spindle cells
+          - Verocay bodies
+            - fibrils resembling sensory corpuscles
+        - Antoni B pattern
+          - mucoid stroma
+          - stellate cells
+      - cysts
+      - hemorrhagic necrosis
+        - no axons
+          - in contrast to neurofibromas
+      - prominent thick-walled vessels
+    - immunohistochemistry
+      - S-100
+      - vimentin
+      - CD68
+- general
+  - types
+    - primary
+      - less common
+        - lymphoma
+          - 10%
+        - cavernous hemangioma
+          - 5%
+    - secondary
+      - more common
+      - from adjacent structures
+      - metastatic disease
+  - benign vs. malignant
+    - benign
+      - 60%
+      - more common in children
+        - 90%
+      - cystic lesions
+        - 50% of orbital lesions in childhood
+    - malignant
+      - 40%
+      - more common in adults
+- Lacrimal sac neoplasia
+  - rare
+  - difficult to get a representative biopsy with endoscopic procedures
+  - dacryocystorhinostomy
+    - 5% neoplasm rate
+      - 2% unsuspected
+- Lacrimal gland neoplasia
+  - Pleomorphic adenoma (benign mixed tumor)
+    - demographics
+      - most common epithelial tumor of lacrimal gland
+      - M>F ?
+      - median age=35 years
+    - clinical
+      - superotemporal orbital mass
+        - proptosis
+        - downward globe displacement
+        - painless
+        - slow growth
+      - bone changes
+        - lacrimal fossa indentation/excavation
+        - cortication
+          - thin layer of new bone deposition
+        - no bone erosion
+    - histology
+      - fibrous pseudocapsule
+        - bosselations
+      - components
+        - epithelial component
+          - nests/tubules lined by 2 layers of cells
+            - epithelial
+            - myoepithelial
+        - stromal (mesenchymal) component
+          - myxoid
+            - mucoid
+          - spindle-shaped cells
+          - heterologous elements
+            - cartilage
+            - bone
+      - immunohistochemistry
+        - epithelial cells
+          - keratin
+          - epithelial membrane antigen
+        - myoepithelial cells
+          - keratin
+          - actin
+          - myosin
+          - fibronectin
+          - S-100
+    - chromosomal translocations
+      - PLGA1
+        - chromosome 8q12
+      - PLGA2
+    - malignant transformation
+      - malignant mixed tumor
+        - rapid growth after period of quiescence
+      - recurrent pleomorphic adenoma
+        - adenocarcinoma (carcinoma ex pleomorphic adenoma)
+        - adenoid cystic carcinoma
+    - management
+      - complete removal of the tumor with its pseudocapsule and a surrounding margin of orbital tissue
+      - no preliminary biopsy !
+        - recurrence rate if capsule is incised for direct biopsy
+          - 32%
+          - risk of malignant degeneration in recurrences
+            - 10% /decade
+  - Adenoid cystic carcinoma
+    - most common malignant tumor of the lacrimal gland
+    - predisposing factors
+      - from pleomorphic adenoma
+      - de novo
+    - pathogenesis
+      - loss of 1p36 is an initial event
+    - demographics
+      - F>M
+      - median age=40 years
+    - gross
+      - grayish white
+      - firm
+      - nodular
+      - not encapsulated
+        - bone erosion
+          - pain
+            - early onset of pain helps differentiate this malignant tumor from benign mixed tumor
+        - orbital nerve invasion
+    - histology
+      - patterns
+        - cribriform (Swiss cheese)
+          - most common
+        - basaloid (solid)
+          - worse prognosis
+            - 5-year survival with basaloid pattern
+              - 20%
+            - 5-year survival without basaloid pattern
+              - 70%
+        - comedo
+        - sclerosing
+        - tubular
+    - immunohistochemistry
+      - S-100
+      - keratin
+      - actin
+        - areas of epithelial and myoepithelial differention
+    - prognosis
+      - bcl-2
+      - bax
+      - p53 expression
+        - poor prognosis
+    - treatment
+      - exenteration
+        - +- removal of adjacent bone
+- Tumors with muscle differentiation
+  - Rhabdomyosarcoma
+    - most common primary malignant orbital tumor of childhood
+    - average age=7-8 years
+    - clinical
+      - proptosis
+        - sudden
+        - rapidly progressive
+          - less dramatic course in patients in their early teens
+            - gradually progressive proptosis lasting weeks to > 1 month
+        - reddish discoloration of eyelid
+        - NOT accompanied by local heat or fever
+    - origin
+      - primitive undifferentiated pluripotential mesenchymal cells that differentiate toward skeletal muscle
+        - not from the extraocular muscles
+    - histologic types
+      - 4 categories
+        - Embryonal
+          - most common type
+            - 80%
+          - predilection for the superonasal quadrant of the orbit
+          - loose fascicles of undifferentiated spindle cells
+            - immature rhabdomyosarcomas
+              - only a minority show cross-striations
+            - well-differentiated rhabdomyosarcoma
+              - numerous cells with striking cross-striations
+                - trichrome staining
+          - immunohistochemistry
+            - desmin
+            - muscle-specific actin
+            - vimentin
+            - +- myogenin
+          - electron microscopy
+            - sarcomeric banding pattern
+          - 94% 5-year survival
+        - Alveolar
+          - 9%
+          - predilection for the inferior orbit
+          - poorly cohesive rhabdomyoblasts
+            - separated by fibrous septa into alveoli
+            - rounded rhabdomyoblasts either line up along the connective tissue strands or float freely in the alveolar spaces
+          - most malignant form
+            - 65% 5-year survival
+        - Pleomorphic
+          - least common
+          - straplike or rounded cells
+          - most differentiated
+            - cross-striations are easily visualized with trichrome stain
+          - best prognosis
+            - 97% 5-year survival
+        - Botryoid
+          - rare variant of embryonal rhabdomyosarcoma
+          - grapelike
+          - not found in the orbit as a primary tumor
+            - secondary invader from the paranasal sinuses or from the conjunctiva
+    - management
+      - Intergroup Rhabdomyosarcoma Study Group guidelines
+      - radiation therapy
+        - 4500 to 6000 cGy
+        - x 6 weeks
+        - adverse effects of radiation
+          - common in children
+          - radiation dermatitis
+          - bony hypoplasia
+          - cataract
+      - systemic chemotherapy
+        - to eliminate microscopic cellular metastases
+      - exenteration
+        - for recurrent cases
+    - prognosis
+      - survival rate >90%
+        - if the orbital tumor has not invaded or extended beyond the bony orbital walls
+        - orbital rhabdomyosarcoma better than extraorbital
+    - Rhabdomyosarcoma
+      - diagnostic workup
+        - should proceed urgently
+        - CT and MRI
+          - to define the location and extent of the tumor
+        - biopsy
+          - anterior orbitotomy
+          - often possible to completely remove a rhabdomyosarcoma if it has a pseudocapsule
+            - the smaller the residual tumor, the more effective the combination of adjuvant radiation and chemotherapy in achieving a cure
+          - in diffusely infiltrating tumors, a large biopsy specimen should be obtained so that adequate material is available for
+            - frozen sections
+            - permanent light-microscopy sections
+            - electron microscopy
+            - immunohistochemistry
+          - cross-striations are often not visible on light microscopy
+            - more readily apparent on electron microscopy
+        - palpate the cervical and preauricular lymph nodes
+          - to evaluate for regional metastases
+        - chest radiography
+        - bone marrow aspiration and biopsy
+          - under anesthesia at the time of the initial orbital biopsy
+        - lumbar puncture
+      - clinical presentation
+        - sudden onset and rapid progression of unilateral proptosis
+          - Figure 5-11
+        - edema & discoloration of eyelids
+        - ptosis
+        - strabismus
+        - ± palpable mass
+          - particularly in the superonasal quadrant of the eyelid
+          - may be retrobulbar
+          - may involve any quadrant of the orbit
+          - may rarely arise from the conjunctiva
+        - unrelated history of trauma can lead to delay in diagnosis and treatment
+      - references
+  - Smooth muscle tumors
+    - rare
+    - Leiomyoma
+      - 4th and 5th decade
+      - proptosis
+        - slowly progressive
+      - spindle cells
+        - nuclei
+          - blunt-ended
+          - cigar-shaped
+        - cytoplasm
+          - filamentous
+          - trichrome-positive
+    - Leiomyosarcoma
+      - 7th decade
+      - histology
+        - have more
+          - cellularity
+          - necrosis
+          - nuclear pleomorphism
+          - mitotic figures
+    - similar to embryonal RMS
+- Lymphoproliferative lesions
+  - general
+    - clinical
+      - proptosis
+        - gradual
+        - painless
+    - systemic evaluation
+      - physical examination
+        - lymphadenopathy
+          - lymph node biopsy preferred over orbital biopsy
+      - CBC & differential
+      - imaging of thorax & abdomen
+      - +- bone marrow biopsy
+        - paratrabecular lymphoid infiltrate
+        - preferred to aspiration
+    - treatment
+      - radiation
+    - tissue processing
+      - communicate with pathologist in advance!
+      - fresh (unfixed) tissue
+        - preferred for
+          - touch preperation
+          - immunohistochemistry
+          - flow cytometry
+          - gene rearrangement
+        - avoid long periods of exposure to air
+        - wrap in saline-moistened gauze and transport on ice
+        - handle gently
+  - Reactive lymphoid hyperplasia
+    - lymphocytes
+      - well-differentiated
+      - pleomorphic
+    - follicles with germinal centers
+      - tingible body macrophages
+        - contain phagocytized apoptotic cellular debris/ condensed chromatin fragments
+    - mitotic activity
+    - vessels with endothelial activity
+    - plasma cells
+    - macrophages
+    - eosinophils
+  - Atypical lymphoid hyperplasia
+    - lacks reactive germinal centers
+    - admixture of
+      - small mature-appearing lymphocytes
+      - larger lymphoid cells of questionable maturity
+  - Lymphoma
+    - types
+      - primary
+      - systemic lymphoma (secondary)
+        - 1-2% of systemic lymphoma are associated with orbital lymphoma
+    - Hodgkin lymphoma exceedingly rare in orbit
+      - multinucleated Reed-Sternberg cells
+      - positive immunohistochemistry for
+        - CD15
+        - CD30
+        - CD45
+    - non-Hodgkin lymphoma
+      - 1/2 of malignancies in orbit/ocular adnexa
+      - immunohistochemistry
+        - B cell
+          - CD19
+          - CD20
+        - T cell
+          - rare
+          - CD3, CD4, CD5
+- Soft tissue tumors
+  - histologic patterns
+    - round cell
+    - spindle cell
+    - myxoid
+    - epithelial
+    - pericytomatous
+    - pleomorphic
+  - immunohistochemistry panel
+    - CD34
+    - CD68
+    - CD99
+    - S-100
+    - vimentin
+    - actin
+    - desmin
+  - malignant (sarcoma)
+    - 2 groups
+      - specific genetic alterations (simple karyotypes)/oncogenic mutations
+        - FUS-DDIT3 in myxoid sarcoma
+        - KIT mutation in GI stromal tumors
+      - nonspecific genetic alterations (complex karyotypes)
+- Tumors with fibrous proliferation
+  - Fibrous histiocytoma (fibroxanthoma)
+    - adults
+      - median age=43 years
+        - 6 mo - 85 years
+    - upper nasal orbit
+    - histology
+      - fibroblasts
+        - storiform/whorly/matlike pattern
+      - histiocytes
+      - immunohistochemistry
+        - CD45
+        - CD68
+    - clinical behavior
+      - benign
+        - most common
+      - intermediate
+      - malignant
+        - high mitosis rate
+          - .>1/HPF
+        - nuclear pleomorphism
+        - necrosis
+        - <10% have metastatic potential
+      - locally aggressive
+    - difficult to distinguish, clinically and histologically, from hemangiopericytoma
+  - Hemangiopericytoma
+    - solitary fibrous tumor is part of hemangiopericytoma spectrum
+    - uncommon
+    - adults
+      - median age=42 years
+    - clinical
+      - proptosis
+        - similar to adenoid cystic carcinoma of lacrimal gland
+          - similar to fibrous histiocytoma
+      - pain
+      - diplopia
+      - decreased visual acuity
+    - pathology
+      - hypervascular
+        - staghorn vascular pattern
+      - hypercellular
+        - plump pericytes that surround a rich capillary network
+        - densely packed spindle-shaped cells
+        - reticulin stain
+          - individual tumor cells wrapped in collagenous material
+      - encapsulated
+      - no correlation between mitotic rate and clinical behavior
+        - microscopically “benign” lesions may recur and metastasize
+        - microscopically “malignant” lesions may remain localized
+      - immunohistochemistry
+        - CD34
+    - resembles cavernous hemangiomas on CT and MRI
+    - clinical behavior
+      - benign
+        - most common
+      - intermediate
+      - malignant
+        - infiltrating border
+          - ?
+        - anaplasia
+        - high mitosis rate
+        - necrosis
+    - treatment
+      - complete excision
+        - may recur, undergo malignant degeneration, or metastasize
+      - appear bluish intraoperatively
+- Vascular tumors
+  - Lymphangioma
+    - children
+    - fluctuating proptosis
+    - histology
+      - diffusely infiltrating
+      - unencapsulated
+      - lymphatic vascular spaces
+      - lymphoid aggregates
+      - fibrotic interstitium
+  - Cavernous hemangioma
+    - adults
+    - histology
+      - encapsulated
+      - cavernous spaces
+        - thick fibrosed walls
+        - thrombosis
+        - calcification
+  - Capillary hemangioma
+    - children
+    - histology
+      - capillary-sized vessels
+      - unencapsulated
+      - more cellular
+- Bony lesions
+  - Fibrous dysplasia
+    - types
+      - monostotic
+      - polyostotic
+    - orbital involvment is monostotic
+    - first 3 decades
+    - may cross suture lines
+    - narrowing of optic canal
+    - narrowing of lacrimal drainage system
+    - plain radiograph
+      - ground-glass appearance
+      - lytic foci
+      - cysts containing fluid
+    - histology
+      - bony trabeculae
+        - immature woven bone
+        - C-shaped
+      - highly vascularized fibrous stroma
+  - Fibro-osseus dysplasia (juvenile ossifying fibroma)
+    - histology
+      - bone spicules
+        - rimmed by osteoblasts
+      - cellular fibrous stroma
+    - differential diagnosis
+      - psammomatous meningioma
+  - osseous/cartilaginous tumors
+    - osteoma
+      - most common
+      - slow growing
+      - well circumscribed
+      - mature bone
+      - frontal sinus
+    - osteoblastoma
+    - giant cell tumor
+    - chondroma
+    - Ewing sarcoma
+    - osteogenic sarcoma
+    - chondrosarcoma

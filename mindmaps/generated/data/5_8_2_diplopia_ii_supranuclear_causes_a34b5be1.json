@@ -1,0 +1,394 @@
+{
+  "label": "5.8.2. Diplopia (II): Supranuclear causes",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "supranuclear pathway for eye movement",
+          "children": [
+            {
+              "label": "definition: any afferent input to the ocular motor nerves"
+            },
+            {
+              "label": "corticobulbar pathway",
+              "children": [
+                {
+                  "label": "drives volitional eye movement",
+                  "children": [
+                    {
+                      "label": "\"look to the right\""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "vestibular pathway",
+              "children": [
+                {
+                  "label": "analyzes the relative position of the eyes/head and the direction of the intended visual target"
+                },
+                {
+                  "label": "allows accurate calculation of saccadic velocity and direction"
+                },
+                {
+                  "label": "horizontal movement: particular population of neurons in the PPRF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "most supranuclear disorders affect both eyes equally",
+          "children": [
+            {
+              "label": "do not cause diplopia!",
+              "children": [
+                {
+                  "label": "except",
+                  "children": [
+                    {
+                      "label": "See Table 8-1"
+                    },
+                    {
+                      "label": "Alternating Skew Deviation"
+                    },
+                    {
+                      "label": "Convergence insufficiency or spasm"
+                    },
+                    {
+                      "label": "Divergence insufficiency"
+                    },
+                    {
+                      "label": "Ocular tilt reaction"
+                    },
+                    {
+                      "label": "Skew deviation"
+                    },
+                    {
+                      "label": "Thalamic esodeviation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Skew Deviation",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "asymmetric disruption of supranuclear input from otolithic organs",
+              "children": [
+                {
+                  "label": "peripheral lesions",
+                  "children": [
+                    {
+                      "label": "utricle and saccule",
+                      "children": [
+                        {
+                          "label": "sense linear motion and static head tilt"
+                        },
+                        {
+                          "label": "transmit information to",
+                          "children": [
+                            {
+                              "label": "vertically acting ocular motoneurons",
+                              "children": [
+                                {
+                                  "label": "midbrain"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "interstitial nucleus of Cajal (INC)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "central lesions",
+                  "children": [
+                    {
+                      "label": "more common"
+                    },
+                    {
+                      "label": "anywhere within the posterior fossa",
+                      "children": [
+                        {
+                          "label": "brainstem"
+                        },
+                        {
+                          "label": "cerebellum"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "acquired"
+            },
+            {
+              "label": "vertical misalignment",
+              "children": [
+                {
+                  "label": "comitant or incomitant"
+                }
+              ]
+            },
+            {
+              "label": "± torsional abnormalities",
+              "children": [
+                {
+                  "label": "often produces diplopia"
+                }
+              ]
+            },
+            {
+              "label": "difficult to distinguish from a fourth nerve palsy",
+              "children": [
+                {
+                  "label": "Parks-Bielschowsky 3-step test",
+                  "children": [
+                    {
+                      "label": "opposite to alternating skew deviation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "alternating skew deviation on lateral gaze",
+          "children": [
+            {
+              "label": "hypertropia of the abducting eye",
+              "children": [
+                {
+                  "label": "right hypertropia on right gaze",
+                  "children": [
+                    {
+                      "label": "switches when gaze is directed to the opposite side"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lesions of",
+              "children": [
+                {
+                  "label": "cerebellum"
+                },
+                {
+                  "label": "cervicomedullary junction"
+                },
+                {
+                  "label": "dorsal midbrain"
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "bilateral fourth nerve palsies",
+                  "children": [
+                    {
+                      "label": "hypertropia of the adducting eye",
+                      "children": [
+                        {
+                          "label": "right hypertropia larger on left gaze"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "excyclotropia"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular tilt reaction",
+          "children": [
+            {
+              "label": "lesions of",
+              "children": [
+                {
+                  "label": "medulla, pons, or midbrain",
+                  "children": [
+                    {
+                      "label": "alters the sense of true vertical"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "head tilt"
+                },
+                {
+                  "label": "skew deviation",
+                  "children": [
+                    {
+                      "label": "head tilt is associated with contralateral hypertropia"
+                    }
+                  ]
+                },
+                {
+                  "label": "cyclotorsional abnormalities",
+                  "children": [
+                    {
+                      "label": "rotation of the upper poles of both eyes toward the lower ear"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "fourth nerve palsy",
+                  "children": [
+                    {
+                      "label": "head tilt to opposite side (opposite to hypertropic eye)",
+                      "children": [
+                        {
+                          "label": "similar to ocular tilt reaction",
+                          "children": [
+                            {
+                              "label": "opposite to ocular tilt reaction",
+                              "children": [
+                                {
+                                  "label": "opposite to ocular tilt reaction"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "higher eye is extorted"
+                    },
+                    {
+                      "label": "hypertropia of adductiing eye (gaze to opposite side)"
+                    }
+                  ]
+                },
+                {
+                  "label": "normal response of head tilting",
+                  "children": [
+                    {
+                      "label": "rotation of the upper poles of both eyes toward the higher ear",
+                      "children": [
+                        {
+                          "label": "counter rolling"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "periodic alternating skew",
+          "children": [
+            {
+              "label": "alternating hypertropia",
+              "children": [
+                {
+                  "label": "similar to fourth nerve palsy",
+                  "children": [
+                    {
+                      "label": "opposite to ocular tilt reaction"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "30–60 second periodicity"
+            },
+            {
+              "label": "rare"
+            },
+            {
+              "label": "midbrain lesion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Thalamic Esodeviation",
+      "children": [
+        {
+          "label": "acquired esodeviation"
+        },
+        {
+          "label": "lesions near the junction of the diencephalon and midbrain",
+          "children": [
+            {
+              "label": "thalamic hemorrhage"
+            }
+          ]
+        },
+        {
+          "label": "insidious or acute"
+        },
+        {
+          "label": "consider the possibility of a CNS lesion in children being evaluated for strabismus surgery"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.8.2. Diplopia (II) - Supranuclear causes.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 158,
+      "connector_rejected": 3,
+      "connector_edges": 109,
+      "connector_width": 1.022,
+      "text_labels": 93,
+      "tree_nodes": 93,
+      "component_roots": 3,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.6899,
+      "root_font_size": 4.342,
+      "warnings": []
+    }
+  }
+}

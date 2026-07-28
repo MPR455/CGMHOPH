@@ -1,0 +1,529 @@
+{
+  "label": "4.6.2. Cornea (II): Inflammations",
+  "root": true,
+  "children": [
+    {
+      "label": "Bacterial infections",
+      "children": [
+        {
+          "label": "results from disruption of corneal epithelium"
+        },
+        {
+          "label": "common bacteria",
+          "children": [
+            {
+              "label": "pseudomonas aeruginosa"
+            },
+            {
+              "label": "staphylococcus aureus"
+            },
+            {
+              "label": "streptococcus pneumoniae"
+            },
+            {
+              "label": "enterobacteriacae"
+            }
+          ]
+        },
+        {
+          "label": "corneal scraping",
+          "children": [
+            {
+              "label": "neutrophils"
+            },
+            {
+              "label": "necrotic debris"
+            },
+            {
+              "label": "bacteria on Gram stain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Acanthamoeba keratitis",
+      "children": [
+        {
+          "label": "soft contact lens wear",
+          "children": [
+            {
+              "label": "contaminated stagnant water",
+              "children": [
+                {
+                  "label": "hot tubs"
+                },
+                {
+                  "label": "ponds"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "organisms",
+          "children": [
+            {
+              "label": "Acanthamoeba castellani"
+            },
+            {
+              "label": "Acanthamoeba polyphagia"
+            }
+          ]
+        },
+        {
+          "label": "clinical features",
+          "children": [
+            {
+              "label": "severe pain"
+            },
+            {
+              "label": "radial keratoneuritis"
+            },
+            {
+              "label": "ring infiltrate"
+            }
+          ]
+        },
+        {
+          "label": "diagnosis",
+          "children": [
+            {
+              "label": "culture",
+              "children": [
+                {
+                  "label": "nonnutrient blood agar layered with E. coli"
+                },
+                {
+                  "label": "late stage disease",
+                  "children": [
+                    {
+                      "label": "organism penetrates into deep stroma",
+                      "children": [
+                        {
+                          "label": "difficult to isolate from superficial scraping"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "confocal microscopy"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "cysts"
+                },
+                {
+                  "label": "trophozoites"
+                },
+                {
+                  "label": "stain",
+                  "children": [
+                    {
+                      "label": "PAS"
+                    },
+                    {
+                      "label": "H&E"
+                    },
+                    {
+                      "label": "calcofluor white"
+                    },
+                    {
+                      "label": "acridine orange"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Herpes simplex virus keratitis",
+      "children": [
+        {
+          "label": "dendrite",
+          "children": [
+            {
+              "label": "linear arborizing pattern",
+              "children": [
+                {
+                  "label": "shallow ulceration"
+                },
+                {
+                  "label": "epithelial cell swelling"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "subepithelial infiltration by chronic inflammatory cells"
+                },
+                {
+                  "label": "loss of the Bowman layer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "stromal keratitis",
+          "children": [
+            {
+              "label": "may accompany or follow epithelial infection"
+            },
+            {
+              "label": "stromal scarring ± vascularization"
+            },
+            {
+              "label": "interstitial keratitis",
+              "children": [
+                {
+                  "label": "chronic inflammatory cells"
+                },
+                {
+                  "label": "vascularization"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "endotheliitis",
+          "children": [
+            {
+              "label": "granulomatous reaction at the level of Descemet's membrane"
+            },
+            {
+              "label": "disciform keratitis"
+            }
+          ]
+        },
+        {
+          "label": "diagnosis",
+          "children": [
+            {
+              "label": "corneal scraping",
+              "children": [
+                {
+                  "label": "Giemsa stain",
+                  "children": [
+                    {
+                      "label": "intranuclear viral inclusions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "viral culture"
+            },
+            {
+              "label": "antigen detection"
+            },
+            {
+              "label": "PCR"
+            }
+          ]
+        },
+        {
+          "label": "postherpetic neurotrophic keratopathy",
+          "children": [
+            {
+              "label": "corneal anesthesia"
+            },
+            {
+              "label": "featureless corneal stroma with paucity of keratocytes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Infectious crystalline keratopathy",
+      "children": [
+        {
+          "label": "predisposing factor",
+          "children": [
+            {
+              "label": "long-term topical corticosteroid use"
+            }
+          ]
+        },
+        {
+          "label": "organisms",
+          "children": [
+            {
+              "label": "alpha-hemolytic streptococcus viridans"
+            },
+            {
+              "label": "other bacteria"
+            },
+            {
+              "label": "fungi"
+            }
+          ]
+        },
+        {
+          "label": "clinical features",
+          "children": [
+            {
+              "label": "crystalloid appearance of the opacity",
+              "children": [
+                {
+                  "label": "no true crystals"
+                },
+                {
+                  "label": "along suture track"
+                }
+              ]
+            },
+            {
+              "label": "intact overlying epithelium",
+              "children": [
+                {
+                  "label": "difficult to culture!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "bacterial colonies in stroma",
+              "children": [
+                {
+                  "label": "Gram stain"
+                },
+                {
+                  "label": "GMS stain"
+                },
+                {
+                  "label": "PAS stain"
+                },
+                {
+                  "label": "H&E"
+                }
+              ]
+            },
+            {
+              "label": "little inflammatory cell infiltrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Interstitial keratitis",
+      "children": [
+        {
+          "label": "immunologic response to microorganisms"
+        },
+        {
+          "label": "nonsuppurative"
+        },
+        {
+          "label": "inflammatory cell infiltration in stroma"
+        },
+        {
+          "label": "vascularization"
+        },
+        {
+          "label": "intact overlying epithelium"
+        },
+        {
+          "label": "chronic/recurrent IK",
+          "children": [
+            {
+              "label": "stromal scarring"
+            }
+          ]
+        },
+        {
+          "label": "organisms",
+          "children": [
+            {
+              "label": "transplacental infection by Treponema pallidum",
+              "children": [
+                {
+                  "label": "congenital syphilis"
+                }
+              ]
+            },
+            {
+              "label": "herpes simplex",
+              "children": [
+                {
+                  "label": "most common cause"
+                }
+              ]
+            },
+            {
+              "label": "Mycobacterium tuberculosis/Mycobacterium leprae"
+            },
+            {
+              "label": "Borrelia burgdoferi"
+            },
+            {
+              "label": "E-B virus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fungal keratitis",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "trauma",
+              "children": [
+                {
+                  "label": "vegetable/plant"
+                }
+              ]
+            },
+            {
+              "label": "contact lens wear"
+            },
+            {
+              "label": "topic corticosteroid use"
+            }
+          ]
+        },
+        {
+          "label": "organisms",
+          "children": [
+            {
+              "label": "septated filamentous",
+              "children": [
+                {
+                  "label": "aspergillus"
+                },
+                {
+                  "label": "fusarium"
+                }
+              ]
+            },
+            {
+              "label": "nonseptated filamentous",
+              "children": [
+                {
+                  "label": "mucor"
+                }
+              ]
+            },
+            {
+              "label": "yeast",
+              "children": [
+                {
+                  "label": "candida"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnosis",
+          "children": [
+            {
+              "label": "culture",
+              "children": [
+                {
+                  "label": "sabouraud agar"
+                }
+              ]
+            },
+            {
+              "label": "corneal biopsy",
+              "children": [
+                {
+                  "label": "histologic evaluation",
+                  "children": [
+                    {
+                      "label": "Grocott-Gomori methenamine-silver nitrate (GMS)"
+                    },
+                    {
+                      "label": "PAS"
+                    }
+                  ]
+                },
+                {
+                  "label": "PCR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fungi can extend into anterior chamber",
+          "children": [
+            {
+              "label": "unlike bacteria!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Non-infectious keratitis",
+      "children": [
+        {
+          "label": "autoimmune disease",
+          "children": [
+            {
+              "label": "rheumatoid arthritis"
+            },
+            {
+              "label": "graft-vs-host disease"
+            }
+          ]
+        },
+        {
+          "label": "topical medication toxicity",
+          "children": [
+            {
+              "label": "anesthetics"
+            },
+            {
+              "label": "NSAIDs"
+            },
+            {
+              "label": "antivirals"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.6.2. Cornea (II) - Inflammations.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 266,
+      "connector_rejected": 9,
+      "connector_edges": 174,
+      "connector_width": 1.46,
+      "text_labels": 134,
+      "tree_nodes": 134,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6541,
+      "root_font_size": 4.866,
+      "warnings": []
+    }
+  }
+}

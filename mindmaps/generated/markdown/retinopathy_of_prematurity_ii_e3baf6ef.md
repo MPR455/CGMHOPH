@@ -1,0 +1,106 @@
+---
+title: "Retinopathy of Prematurity (II)"
+category: "Retina"
+subcategory: ""
+source_pdf: "MindmapPDF/Retina/Retinopathy of Prematurity (II).pdf"
+---
+
+# Retinopathy of Prematurity (II)
+
+## Hierarchy
+
+- Natural Course
+  - transient disease in the majority of infants
+  - spontaneous regression
+    - 85%
+    - clinical signs of regression
+      - clear zone of retina beyond the shunt
+      - straight vessels crossing the shunt
+      - arteriovenous feeder extending into the avascular retina
+  - threshold ROP eventually
+    - develops in ≈ 7% of infants ≤ 1250 g
+  - progression
+    - gradual transition from active to cicatricial stage of ROP
+      - fibrosis & contracture of the proliferative tissue
+        - vitreous and retinal traction
+          - macular distortion
+          - retinal detachment
+- Screening Recommendations
+  - Cryotherapy for Retinopathy of Prematurity Cooperative Group
+    - signs of ROP present in
+      - 66% of infants with birth weight of ≤1250 g
+      - 82% of infants with birth weight of <1000 g
+    - screening criteria and risk factors developed in one country do not necessarily apply in another country
+      - depends on level or quality of available medical or perinatal care
+  - Screening Criteria
+    - birth weight of less than 1500 g
+    - gestational age of 30 weeks or less
+    - birth weight 1500-2000 g OR gestational age >30 weeks
+      - with
+        - unstable clinical course, and believed to be at high risk by their attending pediatricians/ neonatologists
+    - first examination
+      - between 4-6 weeks of postnatal age OR between 31-33 weeks of postconceptional/postmenstrual age
+        - whichever is later
+    - dilated funduscopic examinations
+      - binocular indirect ophthalmoscopy
+    - WINROP model
+      - systemic IGF-1 levels
+        - together weight gain and IGF-1 levels are more predictive than is either value alone
+      - weight gain
+      - 100% sensitive in detecting at-risk infants
+      - identifying as many as 90% of infants that do not need screening
+  - Screening Intervals
+    - 1-Week or Less Follow-up
+      - • immature vascularization: zone I—no ROP
+      - • immature retina extends into posterior zone II, near the boundary of zone I
+      - • stage 1 or 2 ROP: zone I
+      - • stage 3 ROP: zone II
+      - • presence or suspected presence of aggressive posterior ROP
+    - 1- to 2-Week Follow-up
+      - • immature vascularization; posterior zone II
+      - • stage 2 ROP: zone II
+      - • unequivocally regressing ROP: zone I
+    - 2-Week Follow-up
+      - • stage 1 ROP: zone II
+      - • immature vascularization: zone II—no ROP
+      - • unequivocally regressing ROP: zone II
+    - 2- to 3-Week Follow-up
+      - • stage 1 or 2 ROP: zone III
+      - • regressing ROP: zone III
+    - Criteria for discontinuing retinal screening examinations
+      - • zone III retinal vascularization attained without previous zone I or II ROP
+        - this criterion should be used for all cases treated solely with bevacizumab
+      - • full retinal vascularization in close proximity to the ora serrate for 360°
+      - • postmenstrual age of 50 weeks and no prethreshold disease or worse ROP is present
+        - remote interpretation of weekly digital fundus images was a useful adjunct to conventional bedside ROP screening by indirect ophthalmoscopy
+      - • regression of ROP
+  - Photographic Screening for Retinopathy of Prematurity (Photo-ROP) Cooperative Group
+    - ultra-wide-angle (120°) fundus photography
+      - useful for
+        - documentation
+        - remote screening
+      - efficient and cost-effective
+    - there continued to be a need for availability of an ophthalmologist skilled at examining premature infant eyes
+    - clinically significant ROP
+      - warrants evaluation by an ophthalmologist
+- Associated Conditions and Late Sequelae
+  - • myopia with astigmatism
+  - • anisometropia
+  - • strabismus
+  - • amblyopia
+  - • cataract
+  - • glaucoma
+  - • macular pigment epitheliopathy
+  - • vitreoretinal scarring
+  - • tractional retinal detachment
+  - • anomalous foveal anatomy
+  - • angle-closure and pupillary- block glaucoma
+    - may occur in myopic eyes with cicatricial ROP
+    - rare
+    - typically <10 years of age
+      - can occur later
+  - • rhegmatogenous retinal detachment
+  - • exudative retinopathy
+    - later in life
+  - • recurrent vitreous hemorrhages
+  - long-term monitoring is crucial

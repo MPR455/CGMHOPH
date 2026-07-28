@@ -1,0 +1,334 @@
+{
+  "label": "7.10.7. Eyelid Neoplasms (IV)",
+  "root": true,
+  "children": [
+    {
+      "label": "Premalignant Epidermal Lesions: Actinic Keratosis",
+      "children": [
+        {
+          "label": "most common precancerous skin lesion"
+        },
+        {
+          "label": "predisposing conditions",
+          "children": [
+            {
+              "label": "fair skin"
+            },
+            {
+              "label": "old age"
+            },
+            {
+              "label": "chronic sun exposure"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "round, scaly, keratotic plaques",
+              "children": [
+                {
+                  "label": "face"
+                },
+                {
+                  "label": "head"
+                },
+                {
+                  "label": "neck"
+                },
+                {
+                  "label": "forearms"
+                },
+                {
+                  "label": "dorsum of the hands"
+                }
+              ]
+            },
+            {
+              "label": "sandpaper texture"
+            }
+          ]
+        },
+        {
+          "label": "natural course",
+          "children": [
+            {
+              "label": "are in a state of continual flux",
+              "children": [
+                {
+                  "label": "increase in size"
+                },
+                {
+                  "label": "new lesions develop continually"
+                },
+                {
+                  "label": "darken in response to sunlight exposure"
+                },
+                {
+                  "label": "remit with reduced sun exposure",
+                  "children": [
+                    {
+                      "label": "up to 25% of individual actinic keratoses spontaneously resolve over a 12-month period"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "malignant transformation (squamous cell carcinoma)",
+              "children": [
+                {
+                  "label": "single actinic keratosis",
+                  "children": [
+                    {
+                      "label": "0.24%/year"
+                    }
+                  ]
+                },
+                {
+                  "label": "over extended follow-up with multiple actinic keratoses",
+                  "children": [
+                    {
+                      "label": "12%–16%"
+                    }
+                  ]
+                },
+                {
+                  "label": "squamous cell carcinomas arising from actinic keratoses are thought to be less aggressive than those developing de novo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "excisional biopsy"
+            },
+            {
+              "label": "topical 5-fluorouracil or imiquimod cream",
+              "children": [
+                {
+                  "label": "for extensive lesions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Premalignant Melanocytic Lesions: Lentigo Maligna",
+      "children": [
+        {
+          "label": "precancerous melanosis"
+        },
+        {
+          "label": "older white persons"
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "malar regions"
+            },
+            {
+              "label": "flat pigmented lesion",
+              "children": [
+                {
+                  "label": "characterized by",
+                  "children": [
+                    {
+                      "label": "significant pigmentary variation"
+                    },
+                    {
+                      "label": "irregular borders"
+                    },
+                    {
+                      "label": "progressive enlargement"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "area of histologic abnormality frequently extends beyond the visible pigmented borders of the lesion",
+          "children": [
+            {
+              "label": "eyelid lentigo maligna may extend onto the conjunctival surface",
+              "children": [
+                {
+                  "label": "appears identical to primary acquired melanosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "progression to nodules of vertically invasive melanoma",
+          "children": [
+            {
+              "label": "30%–50%",
+              "children": [
+                {
+                  "label": "only 5% of SCC in-situ may progress to vertically invasive squamous cell carcinoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "excision with adequate surgical margins"
+            },
+            {
+              "label": "close observation for recurrence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "In Situ Epithelial Malignancies",
+      "children": [
+        {
+          "label": "Squamous cell carcinoma in situ",
+          "children": [
+            {
+              "label": "Bowen disease"
+            },
+            {
+              "label": "elevated, nonhealing, erythematous lesions",
+              "children": [
+                {
+                  "label": "scaling"
+                },
+                {
+                  "label": "crusting"
+                },
+                {
+                  "label": "pigmented keratotic plaques"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "full-thickness epidermal atypia without dermal invasion"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "complete surgical excision is advised",
+                  "children": [
+                    {
+                      "label": "5% may progress to vertically invasive squamous cell carcinoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "cryotherapy",
+                  "children": [
+                    {
+                      "label": "especially for larger lesions"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Keratoacanthoma",
+          "children": [
+            {
+              "label": "low-grade squamous cell carcinoma",
+              "children": [
+                {
+                  "label": "was previously considered to be a benign, self-limiting lesion"
+                }
+              ]
+            },
+            {
+              "label": "middle-aged and elderly patients"
+            },
+            {
+              "label": "increased incidence in immunosuppressed patients"
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "lower eyelid"
+                },
+                {
+                  "label": "begins as a flesh-colored papule",
+                  "children": [
+                    {
+                      "label": "develops rapidly into a dome-shaped nodule",
+                      "children": [
+                        {
+                          "label": "central keratin-filled crater"
+                        },
+                        {
+                          "label": "elevated rolled margins"
+                        },
+                        {
+                          "label": "± surrounding inflammatory reaction",
+                          "children": [
+                            {
+                              "label": "may play a role in ultimate resolution"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "± gradual involution over 3–6 months"
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "incisional biopsy followed by complete surgical excision is recommended"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.10.7. Eyelid Neoplasms (IV).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 78,
+      "connector_rejected": 1,
+      "connector_edges": 76,
+      "connector_width": 0.871,
+      "text_labels": 81,
+      "tree_nodes": 81,
+      "component_roots": 3,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.9744,
+      "root_font_size": 3.702,
+      "warnings": []
+    }
+  }
+}

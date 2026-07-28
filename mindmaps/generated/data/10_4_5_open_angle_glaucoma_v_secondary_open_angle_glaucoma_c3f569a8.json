@@ -1,0 +1,534 @@
+{
+  "label": "10.4.5. Open Angle Glaucoma (V): Secondary Open-Angle Glaucoma (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Intraocular Tumors",
+      "children": [
+        {
+          "label": "unilateral chronic glaucoma"
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "open-angle",
+              "children": [
+                {
+                  "label": "direct tumor invasion of the anterior chamber angle"
+                },
+                {
+                  "label": "deposition of tumor cells, tumor-filled macrophages, inflammatory cells, and cellular debris within the trabecular meshwork"
+                },
+                {
+                  "label": "intraocular hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "angle-closure",
+              "children": [
+                {
+                  "label": "rotation of ciliary body or anterior displacement of the lens–iris interface"
+                },
+                {
+                  "label": "neovascularization of the angle"
+                },
+                {
+                  "label": "pupillary block glaucoma caused by posterior synechiae"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "tumor types",
+          "children": [
+            {
+              "label": "adults",
+              "children": [
+                {
+                  "label": "uveal melanoma"
+                },
+                {
+                  "label": "metastatic carcinoma"
+                },
+                {
+                  "label": "lymphomas"
+                },
+                {
+                  "label": "leukemia"
+                }
+              ]
+            },
+            {
+              "label": "children",
+              "children": [
+                {
+                  "label": "retinoblastoma"
+                },
+                {
+                  "label": "juvenile xanthogranuloma"
+                },
+                {
+                  "label": "medulloepithelioma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Elevated Episcleral Venous Pressure",
+      "children": [
+        {
+          "label": "See Table 4-3"
+        },
+        {
+          "label": "normal episcleral venous pressure",
+          "children": [
+            {
+              "label": "8–10 mm Hg"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "head trauma"
+            },
+            {
+              "label": "most cases are idiopathic",
+              "children": [
+                {
+                  "label": "± familial"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "unilateral or bilateral"
+            },
+            {
+              "label": "chronic red eye without discomfort or allergic symptoms"
+            },
+            {
+              "label": "tortuous, dilated episcleral veins"
+            },
+            {
+              "label": "signs of ocular ischemia or venous stasis"
+            },
+            {
+              "label": "gonioscopy",
+              "children": [
+                {
+                  "label": "blood in the Schlemm canal"
+                }
+              ]
+            },
+            {
+              "label": "sudden, severe carotid-cavernous fistulas",
+              "children": [
+                {
+                  "label": "proptosis"
+                },
+                {
+                  "label": "other orbital or neurological signs"
+                },
+                {
+                  "label": "may require neuroradiologic intervention"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "prostaglandin analogues"
+            },
+            {
+              "label": "aqueous humor suppressants"
+            },
+            {
+              "label": "glaucoma filtering surgery",
+              "children": [
+                {
+                  "label": "complicated by ciliochoroidal effusion or suprachoroidal hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "laser trabeculoplasty is not effective"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Inflammatory Glaucoma",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "open-angle",
+              "children": [
+                {
+                  "label": "trabecular meshwork edema"
+                },
+                {
+                  "label": "trabecular meshwork endothelial cell dysfunction"
+                },
+                {
+                  "label": "trabecular meshwork blockage by fibrin and inflammatory cells"
+                },
+                {
+                  "label": "blockage of the Schlemm canal by inflammatory cells"
+                },
+                {
+                  "label": "prostaglandin-mediated breakdown of the blood–aqueous barrier"
+                },
+                {
+                  "label": "steroid-induced glaucoma",
+                  "children": [
+                    {
+                      "label": "reducing inflammation and improving aqueous production"
+                    },
+                    {
+                      "label": "decreasing outflow through the trabecular meshwork"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "angle-closure",
+              "children": [
+                {
+                  "label": "peripheral anterior synechiae"
+                },
+                {
+                  "label": "posterior synechiae with iris bombé"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "uveitides commonly associated with open- angle inflammatory glaucoma",
+          "children": [
+            {
+              "label": "Fuchs heterochromic iridocyclitis"
+            },
+            {
+              "label": "herpes zoster iridocyclitis"
+            },
+            {
+              "label": "herpes simplex keratouveitis"
+            },
+            {
+              "label": "toxoplasmosis"
+            },
+            {
+              "label": "juvenile idiopathic arthritis"
+            },
+            {
+              "label": "pars planitis"
+            }
+          ]
+        },
+        {
+          "label": "miotic agents should be avoided in patients with iritis",
+          "children": [
+            {
+              "label": "± aggravate inflammation"
+            },
+            {
+              "label": "± cause posterior synechiae"
+            }
+          ]
+        },
+        {
+          "label": "prostaglandin analogues",
+          "children": [
+            {
+              "label": "studies have demonstrated their ocular hypotensive efficacy in eyes with anterior uveitis"
+            },
+            {
+              "label": "± exacerbate inflammation in some eyes with uveitis and herpetic keratitis"
+            }
+          ]
+        },
+        {
+          "label": "inadequately controlled inflammation with elevated IOP is often mistaken for steroid- induced glaucoma",
+          "children": [
+            {
+              "label": "presence of KP suggests iritis as the cause of IOP elevation",
+              "children": [
+                {
+                  "label": "gonioscopy may reveal subtle trabecular meshwork precipitates"
+                }
+              ]
+            },
+            {
+              "label": "in the face of active inflammation, elevated IOP should be presumed to be inflammation- related rather than steroid-induced"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fuchs heterochromic iridocyclitis",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "relatively rare"
+            },
+            {
+              "label": "middle-aged men and women"
+            },
+            {
+              "label": "rubella virus infection may be the underlying cause"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "chronic"
+            },
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "loss of iris pigment",
+              "children": [
+                {
+                  "label": "iris hypochromia",
+                  "children": [
+                    {
+                      "label": "glaucomatocyclitic crisis (Posner-Schlossman syndrome) may be caused by herpes simplex virus"
+                    },
+                    {
+                      "label": "in patients with blue irides, the affected eye may appear hyperchromic"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "low-grade anterior chamber reaction"
+            },
+            {
+              "label": "small, stellate, pancorneal KP"
+            },
+            {
+              "label": "posterior subcapsular cataracts"
+            },
+            {
+              "label": "gonioscopy",
+              "children": [
+                {
+                  "label": "multiple fine vessels that cross the trabecular meshwork",
+                  "children": [
+                    {
+                      "label": "not associated with fibrous membrane and do not lead to PAS and secondary angle closure"
+                    },
+                    {
+                      "label": "fragile and may cause an anterior chamber hemorrhage",
+                      "children": [
+                        {
+                          "label": "spontaneously or with trauma, including cataract or glaucoma surgery"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "secondary OAG",
+              "children": [
+                {
+                  "label": "15%"
+                },
+                {
+                  "label": "IOP does not correspond to degree of inflammation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "corticosteroids",
+              "children": [
+                {
+                  "label": "generally not effective"
+                },
+                {
+                  "label": "could potentially cause a steroid-induced IOP elevation"
+                }
+              ]
+            },
+            {
+              "label": "OAG may be difficult to control",
+              "children": [
+                {
+                  "label": "aqueous suppressants"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Glaucomatocyclitic crisis (Posner- Schlossman syndrome)",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "uncommon"
+            },
+            {
+              "label": "middle-aged patients"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "unknown"
+            },
+            {
+              "label": "infection with herpes simplex virus has been implicated"
+            }
+          ]
+        },
+        {
+          "label": "open-angle inflammatory glaucoma",
+          "children": [
+            {
+              "label": "recurrent bouts of markedly increased IOP and low-grade anterior chamber inflammation"
+            }
+          ]
+        },
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "blurred vision"
+            },
+            {
+              "label": "mild eye pain"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "mild iritis"
+            },
+            {
+              "label": "few KP that are small, discrete, and round",
+              "children": [
+                {
+                  "label": "usually resolve spontaneously within a few weeks"
+                },
+                {
+                  "label": "may be seen on the trabecular meshwork",
+                  "children": [
+                    {
+                      "label": "“trabeculitis”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "markedly elevated IOP",
+              "children": [
+                {
+                  "label": "40–50 mm Hg range"
+                },
+                {
+                  "label": "in between bouts, the IOP usually returns to normal",
+                  "children": [
+                    {
+                      "label": "with increasing numbers of attacks, a chronic secondary glaucoma may develop"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "± corneal edema"
+            }
+          ]
+        },
+        {
+          "label": "prevention",
+          "children": [
+            {
+              "label": "no evidence that long-term suppressive therapy with topical nonsteroidal anti- inflammatory agents or mild steroids is effective"
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "recurrent attacks of acute angle-closure glaucoma"
+            },
+            {
+              "label": "cytomegalovirus",
+              "children": [
+                {
+                  "label": "distinguishing glaucomatocyclitic crisis from cytomegalovirus is important, because specific antiviral therapy for cytomegalovirus is available"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Glaucoma/10.4.5. Open Angle Glaucoma (V) - Secondary Open-Angle Glaucoma (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 132,
+      "connector_rejected": 2,
+      "connector_edges": 130,
+      "connector_width": 0.849,
+      "text_labels": 137,
+      "tree_nodes": 137,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.9848,
+      "root_font_size": 3.608,
+      "warnings": []
+    }
+  }
+}

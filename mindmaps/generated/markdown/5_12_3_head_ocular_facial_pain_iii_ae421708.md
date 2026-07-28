@@ -1,0 +1,154 @@
+---
+title: "5.12.3. Head, Ocular, & Facial Pain (III)"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.12.3. Head, Ocular, & Facial Pain (III).pdf"
+---
+
+# 5.12.3. Head, Ocular, & Facial Pain (III)
+
+## Hierarchy
+
+- 15 - 180 minutes
+- Ocular and Orbital Causes of Pain
+  - True ophthalmic causes of eye pain
+    - dry eyes
+      - very common cause of ophthalmic discomfort
+        - exacerbated by visual tasks that decrease blink frequency
+          - long periods of computer use
+      - one of the characteristic features of the autoimmune Sjögren syndrome
+    - keratitis
+      - recurrent corneal erosion syndrome
+        - pain on awakening
+    - acute angle closure glaucoma
+    - intraocular inflammation
+      - choroidal or retinal inflammation
+      - scleritis
+        - accompanied by ocular tenderness
+  - Idiopathic orbital inflammation
+    - severe eye pain or pain on eye movement
+  - Inflammation within the cavernous sinus (Tolosa-Hunt syndrome)
+  - Inflammatory or demyelinating optic neuropathy
+    - pain with eye movement
+  - Rapidly expanding tumors of the orbit, orbital apex, and cavernous sinus
+  - Trochlear Headache and Trochleitis
+    - chronic orbital pain
+      - women (90%)
+    - idiopathic
+      - ± associated with systemic autoimmune diseases
+    - inflammation of the trochlea
+      - localized pain, swelling, and tenderness
+      - ± associated limitation of eye movement
+    - treatment
+      - local injection of corticosteroids
+      - high doses of NSAIDs
+  - Photophobia
+    - ocular inflammatory disorders
+      - keratitis
+      - uveitis (particularly iritis)
+      - chorioretinitis
+      - retinal degenerative disorders
+    - meningeal irritation
+      - meningitis
+        - lesions along the anterior or retrochiasmal visual pathway
+      - subarachnoid hemorrhage
+    - migraine
+    - traumatic brain injury
+- Trigeminal Autonomic Cephalgias & Hemicrania Continua
+  - Trigeminal Autonomic Cephalgias (TACs)
+    - types
+      - cluster headache
+      - paroxysmal hemicrania
+      - short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing (SUNCT)
+    - primary headache disorders
+    - short-lasting
+    - unilateral
+    - ipsilateral cranial autonomic findings
+  - Cluster headache
+    - M : F = 2 : 1
+    - 20s and 30s
+      - can occur at any age
+    - precipitated by alcohol use
+    - excruciating bouts of pain
+      - localized behind one eye in the distribution of the ophthalmic division of CN V
+      - ± wake the patient from sleep
+      - clusters of episodes over days or weeks
+        - remit for months or years
+      - beginning at the same time of day
+    - associated features (ipsilateral)
+      - tearing
+      - conjunctival injection
+      - rhinorrhea
+      - transient postganglionic Horner syndrome
+    - difficult to treat
+      - abortive drugs
+        - subcutaneous sumatriptan
+        - inhaled oxygen
+        - dihydroergotamine
+      - prophylaxis
+        - lithium
+          - intranasal lidocaine
+        - methysergide
+        - corticosteroids
+        - topiramate
+        - verapamil
+        - gabapentin
+          - also used for migraine prophylaxis
+  - Paroxysmal hemicrania
+    - short, severe attacks of pain
+      - several times/day
+      - 2 - 30 minutes
+        - may persist for hours
+    - cranial autonomic features
+    - dramatic resolution with indomethacin
+  - SUNCT
+    - severe
+    - throbbing or stabbing
+    - .>20 times/day
+    - 5 - 240 seconds
+    - associated with conjunctival injection and tearing
+  - Hemicrania continua
+    - primary headache
+    - continuous unilateral headache
+      - waxes and wanes without disappearing completely
+    - forehead, temple, orbit, and occiput
+    - autonomic symptoms are present in most patients
+    - responds to indomethacin
+- Inherited Encephalopathies Resembling Migraine
+  - Mitochondrial myopathy and encephalopathy, lactic acidosis, and strokelike episodes (MELAS)
+    - hereditary
+    - children and young adults
+    - mitochondrial disorder
+    - symptoms
+      - headache
+      - nausea
+      - vomiting
+      - transient hemianopia
+      - hemiparesis
+    - spongiform cortical degeneration
+      - permanent neurologic disturbance
+      - hyperintense lesions on T2-weighted MRI of the temporal, parietal, and occipital lobes
+    - serum & CSF lactate levels are elevated
+  - Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL)
+    - autosomal dominant
+      - mutation in the NOTCH3 gene on chromosome 19
+    - arise later in life than typical migraine
+    - headache resembling migraine
+      - 30–40% of patients
+    - recurrent lacunar strokes
+      - neurologic deficits
+      - cognitive decline
+    - widespread leukoencephalopathy
+      - within the temporal and frontal lobes
+      - apparent on MRI
+- Idiopathic Stabbing Headache
+  - momentary, sharp, jabbing pains
+    - < 1 second
+    - ± series of stabbing sensations
+    - distribution of the ophthalmic division of CN V
+      - particularly the orbit
+      - less commonly the parietal, temporal, facial, occipital, and retroauricular regions
+  - migraine > cluster headache
+  - treatment
+    - responds to indomethacin
+    - many patients improve with standard prophylactic headache drugs

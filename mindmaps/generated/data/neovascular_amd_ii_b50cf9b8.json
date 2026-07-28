@@ -1,0 +1,409 @@
+{
+  "label": "Neovascular AMD (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "SD-OCT of CNV",
+      "children": [
+        {
+          "label": "type 1 CNV",
+          "children": [
+            {
+              "label": "elevation of the RPE and PEDs"
+            },
+            {
+              "label": "serous PED",
+              "children": [
+                {
+                  "label": "sharply elevated, dome-shaped with hollow internal reflectivity",
+                  "children": [
+                    {
+                      "label": "typically no associated subretinal or intraretinal fluid"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fibrovascular PEDs",
+              "children": [
+                {
+                  "label": "may or may not be sharply elevated and typically demonstrate lacy or polyp-like hyperreflective lesions on undersurface of RPE"
+                },
+                {
+                  "label": "± signs of contraction"
+                }
+              ]
+            },
+            {
+              "label": "chronic fibrovascular PEDs",
+              "children": [
+                {
+                  "label": "multilayered appearance due to sub-RPE cholesterol crystal precipitation in an aqueous environment",
+                  "children": [
+                    {
+                      "label": "“onion” sign"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fibrotic “bridge arch–shaped” serous PED",
+              "children": [
+                {
+                  "label": "can develop following anti-VEGF treatment"
+                },
+                {
+                  "label": "poor visual outcome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Type 2 CNV",
+          "children": [
+            {
+              "label": "hyperreflective band/plaque in subneurosensory space",
+              "children": [
+                {
+                  "label": "associated subretinal and/or intraretinal fluid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Type 3 CNV",
+          "children": [
+            {
+              "label": "hyperreflective foci emanating from the deep capillary plexus",
+              "children": [
+                {
+                  "label": "± associated CME and PED"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Subretinal hyperreflective material (SHRM)",
+          "children": [
+            {
+              "label": "between retina and RPE in eyes with CNV"
+            },
+            {
+              "label": "has an adverse effect on visual acuity",
+              "children": [
+                {
+                  "label": "results in scarring"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Polypoidal choroidal vasculopathy",
+      "children": [
+        {
+          "label": "variant of type 1 CNV"
+        },
+        {
+          "label": "women and men of all races",
+          "children": [
+            {
+              "label": "Asians",
+              "children": [
+                {
+                  "label": "20%–50% of neovascular AMD"
+                }
+              ]
+            },
+            {
+              "label": "whites",
+              "children": [
+                {
+                  "label": "<5% of neovascular AMD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Clinical",
+          "children": [
+            {
+              "label": "multiple, recurrent serosanguineous RPE detachments",
+              "children": [
+                {
+                  "label": "often peripapillary"
+                },
+                {
+                  "label": "may be peripheral"
+                }
+              ]
+            },
+            {
+              "label": "± nodular, orange, subretinal lesions"
+            },
+            {
+              "label": "vitreous hemorrhage",
+              "children": [
+                {
+                  "label": "occurs more frequently with PCV than non-PCV AMD"
+                }
+              ]
+            },
+            {
+              "label": "± soft drusen"
+            }
+          ]
+        },
+        {
+          "label": "Diagnostic testing",
+          "children": [
+            {
+              "label": "ICG angiography"
+            },
+            {
+              "label": "OCTA"
+            },
+            {
+              "label": "SD-OCT",
+              "children": [
+                {
+                  "label": "network of polyps associated with feeder vessels that adhere to RPE monolayer of fibrovascular PED",
+                  "children": [
+                    {
+                      "label": "“string-of-pearls” configuration"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "EDI-OCT",
+              "children": [
+                {
+                  "label": "pachychoroid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "natural history",
+          "children": [
+            {
+              "label": "visual acuity outcomes of PCV better than CNV associated with AMD",
+              "children": [
+                {
+                  "label": "except with severe subretinal hemorrhage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Treatment",
+          "children": [
+            {
+              "label": "less responsive to anti-VEGF therapy than other types of CNV"
+            },
+            {
+              "label": "Everest Studies",
+              "children": [
+                {
+                  "label": "PDT ± ranibizumab better than ranibizumab alone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "OCT Angiography of CNV",
+      "children": [
+        {
+          "label": "type 1"
+        },
+        {
+          "label": "type 2"
+        },
+        {
+          "label": "type 3"
+        }
+      ]
+    },
+    {
+      "label": "differential diagnosis",
+      "children": [
+        {
+          "label": "central serous chorioretinopathy",
+          "children": [
+            {
+              "label": "younger patient"
+            },
+            {
+              "label": "no subretinal hemorrhage"
+            },
+            {
+              "label": "thick choroid in eyes with CSC compared to thin choroid in AMD"
+            },
+            {
+              "label": "geographic patches of RPE mottling that may extend to inferior periphery",
+              "children": [
+                {
+                  "label": "“guttering”"
+                }
+              ]
+            },
+            {
+              "label": "multiple PEDs"
+            }
+          ]
+        },
+        {
+          "label": "retinal arterial macroaneurysms",
+          "children": [
+            {
+              "label": "preretinal/intraretinal/subretinal hemorrhage"
+            },
+            {
+              "label": "subretinal hemorrhage surrounds the aneurysm"
+            },
+            {
+              "label": "FA & ICGA may show the macroaneurysm"
+            }
+          ]
+        },
+        {
+          "label": "vitelliform dystrophy",
+          "children": [
+            {
+              "label": "adult vitelliform dystrophy",
+              "children": [
+                {
+                  "label": "may resemble",
+                  "children": [
+                    {
+                      "label": "PED"
+                    },
+                    {
+                      "label": "large confluent drusen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "vitelliform macular dystrophy",
+              "children": [
+                {
+                  "label": "visual acuity remains relatively good"
+                },
+                {
+                  "label": "vitelliform material shows",
+                  "children": [
+                    {
+                      "label": "early blockage"
+                    },
+                    {
+                      "label": "late staining"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "polypoidal choroidal vasculopathy",
+          "children": [
+            {
+              "label": "all races"
+            },
+            {
+              "label": "both F & M"
+            },
+            {
+              "label": "multiple/recurrent serosanguinous PEDs",
+              "children": [
+                {
+                  "label": "peripapillary"
+                },
+                {
+                  "label": "orange"
+                },
+                {
+                  "label": "nodular"
+                }
+              ]
+            },
+            {
+              "label": "vitreous hemorrhage",
+              "children": [
+                {
+                  "label": "more frequently than in AMD"
+                }
+              ]
+            },
+            {
+              "label": "soft drusen not usually present"
+            },
+            {
+              "label": "better visual acuity outcomes than those of AMD"
+            }
+          ]
+        },
+        {
+          "label": "inflammatory conditions",
+          "children": [
+            {
+              "label": "VKH syndrome"
+            },
+            {
+              "label": "posterior scleritis"
+            },
+            {
+              "label": "SLE"
+            }
+          ]
+        },
+        {
+          "label": "choroidal tumors",
+          "children": [
+            {
+              "label": "small choroidal melanoma"
+            },
+            {
+              "label": "choroidal hemangioma"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Neovascular AMD (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 177,
+      "connector_rejected": 5,
+      "connector_edges": 118,
+      "connector_width": 0.719,
+      "text_labels": 100,
+      "tree_nodes": 100,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6667,
+      "root_font_size": 7.186,
+      "warnings": []
+    }
+  }
+}

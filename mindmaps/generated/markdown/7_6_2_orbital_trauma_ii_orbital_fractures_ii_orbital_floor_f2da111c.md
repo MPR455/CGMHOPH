@@ -1,0 +1,136 @@
+---
+title: "7.6.2. Orbital Trauma (II): Orbital Fractures (II): Orbital Floor Fractures"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.6.2. Orbital Trauma (II) - Orbital Fractures (II) - Orbital Floor Fractures.pdf"
+---
+
+# 7.6.2. Orbital Trauma (II): Orbital Fractures (II): Orbital Floor Fractures
+
+## Images
+
+![Figure 6-5 (© 2020 American Academy of Ophthalmology)](../img/7_6_2_orbital_trauma_ii_orbital_fractures_ii_orbital_floor_f2da111c_01.png)
+
+## Hierarchy
+
+- types
+  - direct fractures
+    - extend from fractures of the inferior orbital rim
+  - Indirect fractures
+    - not associated with fracture of the inferior orbital rim
+- management
+  - CT with coronal or sagittal views
+    - helps guide treatment
+      - fracture size
+      - extraocular muscle relationships
+      - information to predict enophthalmos and muscle entrapment
+      - restrictive strabismus related to blowout fracture remains a clinical diagnosis
+  - observation
+    - most blowout or other orbital floor fractures do not require surgical intervention
+    - when orbital swelling/hemorrhage are present observe x 5–10 days
+    - oral steroids (1 mg/kg per day x 7 days)
+      - may help hasten the decision of whether surgery for diplopia is necessary
+  - urgent surgical repair
+    - exception to initial observation occurs in pediatric patients
+      - inferior rectus muscle may become tightly trapped beneath a trapdoor fracture
+        - vertical globe excursion is significantly limited
+        - CT reveals inferior rectus muscle within the maxillary sinus
+        - eye movement may stimulate the oculocardiac reflex
+          - pain
+          - nausea
+          - bradycardia
+  - general indications for surgery
+    - diplopia with the following
+      - limitation of upgaze and/or downgaze within 30° of the primary position
+      - positive forced duction test after resolution of the edema
+      - radiologic confirmation of an orbital floor fracture
+      - indicate functional entrapment of tissues affecting the inferior rectus muscle
+        - diplopia may improve significantly over the course of the first 2 weeks
+        - if findings are still present >2 weeks and if entrapped tissues are not freed, vertical diplopia is likely to persist
+    - enophthalmos >2 mm and cosmetically unacceptable to the patient
+      - if significant enophthalmos is present within the first 2 weeks in association with a large orbital floor fracture, greater enophthalmos can be anticipated in the future
+    - large fractures involving at least half of the orbital floor, particularly when associated with large medial wall fractures (determined by CT)
+      - high incidence of subsequent significant enophthalmos
+      - usually repaired as part of initial management
+- pathogenesis
+  - increased intraorbital pressure when the impact of a blunt object rapidly occludes the orbital aperture
+    - the orbital bones break at their weakest point
+  - impacting object compresses the inferior rim, directly buckling the orbital floor
+    - degree of increased orbital pressure determines whether orbital tissues are pushed down through the fracture
+- clinical presentation
+  - eyelid signs
+    - ecchymosis
+    - edema
+    - signs of injury can be absent
+      - white-eyed blowout
+  - entrapment of the inferior rectus muscle or its adjacent septa in the fracture
+    - vertical diplopia
+    - limitation of upgaze, downgaze, or both
+    - pain in the inferior orbit on attempted vertical movement of the globe
+    - tests for muscle entrapment
+      - forced duction test (traction test)
+        - restriction of passive movement of the eye
+      - increase in intraocular pressure (IOP) in upgaze
+  - significant limitation of both horizontal and vertical eye movements
+    - nerve damage
+    - damage to the extraocular muscles
+    - generalized soft tissue injury
+      - orbital edema and hemorrhage
+        - generally improves during the first 1–2 weeks after injury
+  - enophthalmos and ptosis of the globe
+    - occur with large orbitral floor fractures
+    - associated medial wall fracture may significantly contribute to enophthalmos
+    - may be masked by orbital edema immediately following the injury
+  - hypoesthesia in the distribution of the infraorbital nerve
+  - emphysema of the orbit and eyelids
+    - fractures that extends into a sinus
+      - most commonly with medial wall fractures
+      - patients with fractures are advised to avoid nose blowing
+  - vision loss
+    - globe trauma
+    - injury to the optic nerve
+    - increased orbital pressure causing a compartment syndrome
+      - orbital hemorrhage should be suspected if loss of vision is associated with proptosis and increased IOP
+- Surgical management of orbital fractures
+  - preferable to proceed with the repair within 2 weeks of the initial trauma
+    - contracture of prolapsed tissue makes later correction of diplopia difficult
+    - larger fractures in which eventual enophthalmos is anticipated are also more easily repaired within the first 2 weeks of trauma
+      - satisfactory correction of enophthalmos is often obtainable even if surgery is delayed
+  - surgical steps for correction of blowout fractures of orbital floor
+    - surgical approach
+      - infraciliary incision
+      - conjunctival (inferior fornix) incision
+      - ± lateral canthotomy and inferior cantholysis
+    - elevation of the periorbita
+    - release of the prolapsed tissues
+    - placement of an implant over the fracture
+      - alloplastic
+        - porous polyethylene
+        - nylon foil
+        - polytetrafluoroethylene
+        - silicone sheet
+        - titanium mesh
+      - autogenous
+        - split cranial bone
+        - iliac crest bone
+        - fascia
+        - bone grafts are rarely indicated
+  - delayed treatment of blowout fractures
+    - orbital floor exploration to free scarred tissues entrapped/prolapsed through the fracture
+      - debilitating strabismus and diplopia
+        - strabismus surgery
+      - cosmetically unacceptable enophthalmos
+        - ± placement of an implant to reposition the globe anteriorly or superiorly
+        - procedures to camouflage the narrowed palpebral fissure and deep superior sulcus
+  - complications of blowout fracture surgery
+    - decreased vision or blindness
+    - persistent or new diplopia
+    - undercorrection or overcorrection of enophthalmos
+    - retraction of the lower eyelid
+    - hypoesthesia of the infraorbital nerve
+    - infection
+    - early or late extrusion of the implant
+    - lymphedema
+- history
+  - orbital entrance being struck by an object larger than the diameter of the orbital opening
+  - an orbital blowout fracture should be suspected in any patient who has received a periorbital blow forceful enough to cause ecchymosis

@@ -1,0 +1,183 @@
+---
+title: "7.12.7. Lacrimal System (VII)"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.12.7. Lacrimal System (VII).pdf"
+---
+
+# 7.12.7. Lacrimal System (VII)
+
+## Hierarchy
+
+- Canaliculitis
+  - organisms
+    - bacteria
+      - Actinomyces israelii
+        - filamentous gram-positive rod
+        - most common pathogen
+        - has a tendency to form concretions, or “stones”
+          - within the stones, organisms are protected from lethal antibiotic concentrations
+    - viruses
+    - fungi
+  - clinical presentation
+    - persistent weeping and discharge
+    - follicular conjunctivitis centered in medial canthus
+    - erythematous and dilated, or “pouting” punctum
+    - applying pressure to the canaliculus using a cotton-tipped applicator(“milking”)
+      - expression of purulent discharge confirms the diagnosis
+  - management
+    - difficult to eradicate
+    - culture of discharge
+    - conservative management
+      - warm compresses
+      - digital massage
+      - topical and sometimes oral antibiotic therapy
+    - more aggressive treatment
+      - curettage through the punctum
+        - sometimes successful at removing multiple stones
+      - canaliculotomy
+        - to completely remove all particulate matter
+        - should be limited to horizontal canaliculus
+        - approached from the conjunctival surface
+        - incision is left open to heal by second intention
+        - does not require stenting
+      - if infection is consequence of an obstruction, correct the obstruction to prevent recurrence
+- Dacryoadenitis
+  - acute inflammation of the lacrimal gland
+  - etiology
+    - inflammation
+      - non-infectious inflammation
+      - infectious inflammation
+        - gross purulence and abscess formation are uncommon
+        - most cases are the result of bacterial infection
+          - gram-positive bacteria
+            - most common
+            - community-acquired MRSA
+              - MRSA infection may appear without preexisting risk factors
+          - gram-negative bacteria
+          - tuberculosis
+        - Epstein-Barr virus
+          - most common viral pathogen
+        - pathogenesis
+          - secondary to an adjacent infection
+          - trauma
+          - hematogenously
+    - malignancy
+      - lymphoproliferative disease
+      - less common
+  - management
+    - nonsuppurative cases are treated empirically, without isolation of the alleged pathogen
+    - coverage for MRSA infection should be considered
+- Neoplasms of Lacrimal Drainage System
+  - primary (lacrimal sac tumors)
+    - rare
+    - types
+      - benign
+        - 45%
+        - papilloma
+          - many initially grow in an inverted pattern into lacrimal sac wall
+            - their excision is often incomplete
+          - with recurrence, malignant degeneration may occur
+      - malignant
+        - 55%
+        - squamous cell carcinoma
+    - clinical presentation
+      - mass located above the medial canthal tendon
+      - epiphora
+      - chronic dacryocystitis
+        - dacryocystitis associated with tumor may differ from simple NLDO in that the irrigation fluid may pass into the nose
+      - blood reflux from the punctum on irrigation
+      - spontaneous bleeding
+      - tumors that invade skin may produce ulceration with telangiectasia over the lacrimal sac
+      - metastasis to regional lymph nodes
+    - diagnostic workup
+      - dacryocystography
+        - outlining uneven, mottled densities in the dilated lacrimal sac
+      - CT or MRI
+        - far superior in identifying neoplasms and their extent
+        - CT can reveal bone erosion
+    - treatment
+      - benign lacrimal sac tumors
+        - dacryocystectomy
+      - malignant lacrimal sac tumors
+        - dacryocystectomy
+          - +.
+            - lateral rhinotomy and medial maxillectomy
+              - sometimes performed in concert with an otolaryngologist
+      - exenteration
+        - including bone removal in medial canthal area
+        - if a malignant epithelial tumor has involved bone and the soft tissues of the orbit
+      - radiation
+        - treatment of lymphomatous lesions
+        - adjuvant after removal of malignant lesions
+        - palliative measure for unresectable lesions
+      - recurrence rate for invasive squamous and transitional cell carcinoma of the lacrimal sac
+        - 50%
+        - 50% of these cases are fatal
+  - secondary
+    - secondarily invade or compromise lacrimal system structures from surrounding tissues
+    - most common are
+      - basal and squamous cell carcinoma of the eyelid skin
+      - adenoid cystic carcinoma
+      - infantile [capillary] hemangioma
+      - inverted papilloma
+      - epidermoid carcinoma
+      - osteoma
+      - lymphoma
+  - metastatic
+- Dacryocystitis
+  - inflammation of the lacrimal sac
+  - pathogenesis
+    - common factor is complete NLDO
+      - chronic tear retention and stasis
+        - secondary infection
+  - etiology
+    - gram-positive bacteria
+      - most common cause of acute dacryocystitis
+    - gram-negative bacteria
+      - diabetes
+      - immunodeficiency
+      - exposure to atypical pathogens (eg, individuals residing in nursing homes)
+  - acute dacryocystitis
+    - clinical presentation
+      - erythema with distension of the lacrimal sac
+      - edema
+      - discomfort ranging from none to severe pain
+    - complications
+      - dacryocystocele formation
+      - chronic conjunctivitis
+      - spread to adjacent structures (orbital or facial cellulitis)
+    - management
+      - irrigation or probing of the canalicular system should be avoided until the infection subsides
+        - irrigation is not needed to establish the diagnosis
+          - extremely painful for patients with active infection
+        - diagnostic or therapeutic probing of the NLD is not indicated in adults with acute dacryocystitis
+      - topical antibiotics
+        - limited value
+      - oral antibiotics
+        - effective for most infections
+      - parenteral antibiotics
+        - for severe cases
+          - especially if cellulitis or orbital extension is present
+      - aspiration of the lacrimal sac
+        - pyocele or mucocele is localized and approaching the skin
+        - smears and cultures of the aspirate
+      - incision and drainage
+        - indications
+          - localized abscess involving the lacrimal sac and adjacent soft tissues
+            - no response to more conservative measures
+            - severe discomfort
+        - incised abscess is allowed to heal by second intention
+        - complications
+          - chronically draining epithelialized fistula that communicates with the lacrimal sac
+            - rare
+      - DCR
+        - inevitable persistent epiphora and recurrence
+        - deferred until acute inflammation is resolved
+          - some patients continue to have subacute infection until definitive drainage surgery is performed
+  - chronic dacryocystitis
+    - smoldering low-grade infection
+    - distension of the lacrimal sac
+    - massage may reflux mucoid material through the canalicular system
+    - if a tumor is not suspected, no further diagnostic evaluation is indicated to confirm the diagnosis of total NLDO
+    - should be treated before elective intraocular surgery

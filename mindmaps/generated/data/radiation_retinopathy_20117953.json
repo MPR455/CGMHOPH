@@ -1,0 +1,525 @@
+{
+  "label": "Radiation Retinopathy",
+  "root": true,
+  "children": [
+    {
+      "label": "Radiation Retinopathy",
+      "children": [
+        {
+          "label": "Pathogenesis & Course",
+          "children": [
+            {
+              "label": "ionizing radiation causes retinal microangiopathy",
+              "children": [
+                {
+                  "label": "resembles diabetic retinopathy"
+                }
+              ]
+            },
+            {
+              "label": "delayed onset",
+              "children": [
+                {
+                  "label": "within months to years after radiation treatment",
+                  "children": [
+                    {
+                      "label": "external-beam radiation",
+                      "children": [
+                        {
+                          "label": "≈ 18 months"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "earlier with brachytherapy"
+                    }
+                  ]
+                },
+                {
+                  "label": "slowly progressive"
+                }
+              ]
+            },
+            {
+              "label": "determining factors",
+              "children": [
+                {
+                  "label": "total dose",
+                  "children": [
+                    {
+                      "label": "usually >30–35 grays (Gy)",
+                      "children": [
+                        {
+                          "label": "even 15 Gy of external-beam radiation can cause retinopathy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "60 Gy",
+                      "children": [
+                        {
+                          "label": "50%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "70–80 Gy",
+                      "children": [
+                        {
+                          "label": "85%–95%"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "volume of retina irradiated"
+                },
+                {
+                  "label": "fractionation scheme"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Symptoms",
+          "children": [
+            {
+              "label": "asymptomatic"
+            },
+            {
+              "label": "decreased visual acuity"
+            }
+          ]
+        },
+        {
+          "label": "Clinical Findings",
+          "children": [
+            {
+              "label": "capillary telangiectasis"
+            },
+            {
+              "label": "microaneurysms"
+            },
+            {
+              "label": "retinal hemorrhages"
+            },
+            {
+              "label": "cotton-wool spots"
+            },
+            {
+              "label": "perivascular sheathing"
+            },
+            {
+              "label": "central retinal vein occlusion"
+            },
+            {
+              "label": "central retinal artery occlusion",
+              "children": [
+                {
+                  "label": "choroidal neovascularization"
+                }
+              ]
+            },
+            {
+              "label": "macular edema"
+            },
+            {
+              "label": "capillary nonperfusion",
+              "children": [
+                {
+                  "label": "on fluorescein angiography"
+                }
+              ]
+            },
+            {
+              "label": "neovascularization of the retina, iris, or disc",
+              "children": [
+                {
+                  "label": "vitreous hemorrhage"
+                },
+                {
+                  "label": "neovascular glaucoma"
+                },
+                {
+                  "label": "tractional retinal detachment"
+                }
+              ]
+            },
+            {
+              "label": "acute optic neuropathy",
+              "children": [
+                {
+                  "label": "disc edema & congestion"
+                },
+                {
+                  "label": "optic atrophy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Visual outcome",
+          "children": [
+            {
+              "label": "extent of macular involvement",
+              "children": [
+                {
+                  "label": "cystoid macular edema"
+                },
+                {
+                  "label": "exudative maculopathy"
+                },
+                {
+                  "label": "capillary nonperfusion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Treatment",
+          "children": [
+            {
+              "label": "intravitreal",
+              "children": [
+                {
+                  "label": "triamcinolone acetonide"
+                },
+                {
+                  "label": "anti-VEGF drugs"
+                }
+              ]
+            },
+            {
+              "label": "focal laser therapy",
+              "children": [
+                {
+                  "label": "macular edema"
+                }
+              ]
+            },
+            {
+              "label": "panretinal photocoagulation",
+              "children": [
+                {
+                  "label": "ischemia and neovascularization"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Purtscher Retinopathy and Purtscherlike Retinopathy",
+      "children": [
+        {
+          "label": "Pathogenesis",
+          "children": [
+            {
+              "label": "acute compression injuries to the thorax or head"
+            },
+            {
+              "label": "injury-induced complement activation",
+              "children": [
+                {
+                  "label": "granulocyte aggregation",
+                  "children": [
+                    {
+                      "label": "leukoembolization",
+                      "children": [
+                        {
+                          "label": "occlusion of small arterioles"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Clinical findings",
+          "children": [
+            {
+              "label": "1 or both eyes"
+            },
+            {
+              "label": "large cotton-wool spots",
+              "children": [
+                {
+                  "label": "surrounding the optic disc"
+                }
+              ]
+            },
+            {
+              "label": "hemorrhages"
+            },
+            {
+              "label": "± disc edema",
+              "children": [
+                {
+                  "label": "± optic atrophy",
+                  "children": [
+                    {
+                      "label": "permanent vision loss"
+                    },
+                    {
+                      "label": "afferent pupillary defect"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fluorescein angiography",
+          "children": [
+            {
+              "label": "arteriolar obstruction and leakage"
+            }
+          ]
+        },
+        {
+          "label": "Purtscherlike retinopathy",
+          "children": [
+            {
+              "label": "other conditions may activate complement and produce a similar fundus appearance",
+              "children": [
+                {
+                  "label": "amniotic fluid embolism"
+                },
+                {
+                  "label": "retrobulbar anesthesia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "acute pancreatitis",
+      "children": [
+        {
+          "label": "chronic renal failure",
+          "children": [
+            {
+              "label": "collagen-vascular diseases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "childbirth",
+      "children": [
+        {
+          "label": "amniotic fluid embolism"
+        }
+      ]
+    },
+    {
+      "label": "fat embolism",
+      "children": [
+        {
+          "label": "orbital steroid injection"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "crushing injuries"
+            },
+            {
+              "label": "long-bone fractures"
+            }
+          ]
+        },
+        {
+          "label": "intraretinal hemorrhages",
+          "children": [
+            {
+              "label": "paramacular area"
+            }
+          ]
+        },
+        {
+          "label": "cotton-wool spots",
+          "children": [
+            {
+              "label": "smaller and more peripheral than Purtscher retinopathy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Terson Syndrome",
+      "children": [
+        {
+          "label": "abrupt intracranial hemorrhage",
+          "children": [
+            {
+              "label": "acute rise in the intraocular venous pressure",
+              "children": [
+                {
+                  "label": "rupture of peripapillary and retinal vessels"
+                }
+              ]
+            },
+            {
+              "label": "1/3 of patients with subarachnoid or subdural hemorrhage have associated intraocular hemorrhage"
+            }
+          ]
+        },
+        {
+          "label": "any age",
+          "children": [
+            {
+              "label": "most common between 30-50 years"
+            }
+          ]
+        },
+        {
+          "label": "hemorrhage",
+          "children": [
+            {
+              "label": "subretinal"
+            },
+            {
+              "label": "intraretinal"
+            },
+            {
+              "label": "sub-ILM"
+            },
+            {
+              "label": "vitreous"
+            }
+          ]
+        },
+        {
+          "label": "spontaneous improvement",
+          "children": [
+            {
+              "label": "visual function is unaffected once the hemorrhage clears"
+            }
+          ]
+        },
+        {
+          "label": "vitrectomy for vitreous hemorrhage"
+        }
+      ]
+    },
+    {
+      "label": "Valsalva Retinopathy",
+      "children": [
+        {
+          "label": "treatment is similar to diabetic retinopathy"
+        },
+        {
+          "label": "sudden rise in intrathoracic or intra-abdominal pressure",
+          "children": [
+            {
+              "label": "coughing"
+            },
+            {
+              "label": "vomiting"
+            },
+            {
+              "label": "lifting"
+            },
+            {
+              "label": "straining for a bowel movement"
+            }
+          ]
+        },
+        {
+          "label": "rupture small superficial capillaries in the macula"
+        },
+        {
+          "label": "Clinical",
+          "children": [
+            {
+              "label": "hemorrhage",
+              "children": [
+                {
+                  "label": "under the ILM",
+                  "children": [
+                    {
+                      "label": "hemorrhagic detachment of the ILM"
+                    }
+                  ]
+                },
+                {
+                  "label": "subretinal hemorrhage"
+                },
+                {
+                  "label": "Vitreous hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "vision is usually only mildly reduced"
+            },
+            {
+              "label": "spontaneous resolution",
+              "children": [
+                {
+                  "label": "within months"
+                },
+                {
+                  "label": "prognosis is excellent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "posterior vitreous separation",
+              "children": [
+                {
+                  "label": "a peripheral retinal tear must be ruled out"
+                }
+              ]
+            },
+            {
+              "label": "macroaneurysm",
+              "children": [
+                {
+                  "label": "an aneurysm along an arteriole must be ruled out"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Radiation Retinopathy.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 240,
+      "connector_rejected": 6,
+      "connector_edges": 159,
+      "connector_width": 1.258,
+      "text_labels": 130,
+      "tree_nodes": 130,
+      "component_roots": 7,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6625,
+      "root_font_size": 5.451,
+      "warnings": []
+    }
+  }
+}

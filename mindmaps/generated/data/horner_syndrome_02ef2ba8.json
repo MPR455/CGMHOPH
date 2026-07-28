@@ -1,0 +1,278 @@
+{
+  "label": "Horner Syndrome",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "3-year-old child with right- sided droopy eyelid"
+        }
+      ]
+    },
+    {
+      "label": "Image Description",
+      "children": [
+        {
+          "label": "external photograph shows slight ptosis of right upper lid; the right iris is lighter in color and the right pupil is slightly smaller than the left pupil"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "congential Horner syndrome",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "birth trauma to brachial plexus"
+                },
+                {
+                  "label": "neuroblastoma"
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "ptosis",
+                  "children": [
+                    {
+                      "label": "1-2 mm"
+                    }
+                  ]
+                },
+                {
+                  "label": "anisocoria greater in dark",
+                  "children": [
+                    {
+                      "label": "dilation lag"
+                    }
+                  ]
+                },
+                {
+                  "label": "hypochromic iris",
+                  "children": [
+                    {
+                      "label": "may not be visible in infants"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "acquired Horner syndrome"
+        },
+        {
+          "label": "physiologic anisocoria"
+        },
+        {
+          "label": "pharmacologic anisocoria"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "imaging of sympathetic pathways",
+          "children": [
+            {
+              "label": "r/o neuroblastoma",
+              "children": [
+                {
+                  "label": "unless findings present since birth"
+                }
+              ]
+            },
+            {
+              "label": "MRI of head, neck, and chest"
+            }
+          ]
+        },
+        {
+          "label": "urinary catecholamine level",
+          "children": [
+            {
+              "label": "less sensitive"
+            }
+          ]
+        },
+        {
+          "label": "pharmacologic testing",
+          "children": [
+            {
+              "label": "may not be necessary in the presence of typical clinical findings"
+            },
+            {
+              "label": "topical cocaine",
+              "children": [
+                {
+                  "label": "better choice in young children",
+                  "children": [
+                    {
+                      "label": "can cause excessive sedation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "topical apraclonidine",
+              "children": [
+                {
+                  "label": "generally avoided in young children"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "congential Horner syndrome"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "observe"
+            }
+          ]
+        },
+        {
+          "label": "Surgical"
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "most cases are congenital"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "for amblyopia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "age of onset",
+              "children": [
+                {
+                  "label": "old photographs"
+                }
+              ]
+            },
+            {
+              "label": "course",
+              "children": [
+                {
+                  "label": "intermittent vs constant"
+                },
+                {
+                  "label": "stable vs progressive"
+                }
+              ]
+            },
+            {
+              "label": "change in lid position with chewing"
+            },
+            {
+              "label": "recent exposure to",
+              "children": [
+                {
+                  "label": "parasympathomimetics",
+                  "children": [
+                    {
+                      "label": "scopolamine patch"
+                    },
+                    {
+                      "label": "recent eye examination with dilation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "lid position & excursion"
+            },
+            {
+              "label": "examine pupil size in light and dark"
+            },
+            {
+              "label": "iris heterochromia"
+            },
+            {
+              "label": "extraocular motility",
+              "children": [
+                {
+                  "label": "CN3 palsy"
+                }
+              ]
+            },
+            {
+              "label": "supraclavicular lymphadenopathy, neck mass, thyroid mass"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Horner Syndrome.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 86,
+      "connector_rejected": 1,
+      "connector_edges": 62,
+      "connector_width": 1.067,
+      "text_labels": 65,
+      "tree_nodes": 65,
+      "component_roots": 8,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.7209,
+      "root_font_size": 7.467,
+      "warnings": []
+    }
+  }
+}

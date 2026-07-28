@@ -1,0 +1,230 @@
+{
+  "label": "11.3.1. Developmental Defects (I): Normal Development",
+  "root": true,
+  "children": [
+    {
+      "label": "secondary lens fibers",
+      "children": [
+        {
+          "label": "epithelial cells near the lens equator elongate to form secondary lens fibers"
+        },
+        {
+          "label": "detach from the capsule and lose their nucleus and membrane-bound organelles"
+        },
+        {
+          "label": "secondary lens fibers formed between 2 and 8 months of gestation",
+          "children": [
+            {
+              "label": "fetal nucleus"
+            }
+          ]
+        },
+        {
+          "label": "lens weighs approximately 90 mg at birth",
+          "children": [
+            {
+              "label": "weight increases about 2 mg/year"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "lens sutures",
+      "children": [
+        {
+          "label": "the ends of the fibers on one side meet and interdigitate with the ends of fibers arising on the opposite side of the lens (nucleus)"
+        },
+        {
+          "label": "anterior Y-suture",
+          "children": [
+            {
+              "label": "erect"
+            }
+          ]
+        },
+        {
+          "label": "posterior Y-suture",
+          "children": [
+            {
+              "label": "inverted"
+            }
+          ]
+        },
+        {
+          "label": "as the lens continues to grow, the pattern of lens sutures becomes increasingly complex"
+        }
+      ]
+    },
+    {
+      "label": "optic vesicles",
+      "children": [
+        {
+          "label": "25 days of gestation"
+        },
+        {
+          "label": "from the forebrain"
+        },
+        {
+          "label": "enlarge and extend laterally"
+        },
+        {
+          "label": "become closely apposed and adherent to the surface ectoderm"
+        }
+      ]
+    },
+    {
+      "label": "lens placode",
+      "children": [
+        {
+          "label": "27 days of gestation"
+        },
+        {
+          "label": "ectoderm cells that overlie the optic vesicles become columnar"
+        },
+        {
+          "label": "bone morphogenetic protein (BMP) family of growth factors"
+        }
+      ]
+    },
+    {
+      "label": "tunica vasculosa lentis",
+      "children": [
+        {
+          "label": "1 month of gestation"
+        },
+        {
+          "label": "hyaloid artery forms a network of capillaries on the posterior surface of the lens capsule",
+          "children": [
+            {
+              "label": "grow toward the lens equator"
+            }
+          ]
+        },
+        {
+          "label": "ciliary veins form anterior pupillary membrane"
+        },
+        {
+          "label": "disappears by programmed cell death shortly before birth"
+        }
+      ]
+    },
+    {
+      "label": "lens pit",
+      "children": [
+        {
+          "label": "29 days of gestation"
+        },
+        {
+          "label": "indentation (infolding) of the lens placode"
+        },
+        {
+          "label": "deepens and invaginates to form the lens vesicle"
+        }
+      ]
+    },
+    {
+      "label": "lens vesicle",
+      "children": [
+        {
+          "label": "30-33 days of gestation"
+        },
+        {
+          "label": "stalk of cells connecting the optic pit to the surface ectoderm degenerates (apoptosis)"
+        },
+        {
+          "label": "sphere",
+          "children": [
+            {
+              "label": "single layer of cuboidal cells",
+              "children": [
+                {
+                  "label": "apices of the cuboidal cells are oriented toward the lumen of the lens vesicle"
+                }
+              ]
+            },
+            {
+              "label": "encased in a basement membrane (the lens capsule)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "zonules of Zinn",
+      "children": [
+        {
+          "label": "end of the 3rd month of gestation"
+        },
+        {
+          "label": "secreted by the ciliary epithelium"
+        }
+      ]
+    },
+    {
+      "label": "primary lens fibers and the embryonic nucleus",
+      "children": [
+        {
+          "label": "35-40 days of gestation"
+        },
+        {
+          "label": "cells in the posterior layer of the lens vesicle stop dividing and begin to elongate (primary lens fibers)",
+          "children": [
+            {
+              "label": "primary lens fibers",
+              "children": [
+                {
+                  "label": "fill the lumen of the lens vesicle",
+                  "children": [
+                    {
+                      "label": "embryonic nucleus"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nuclei and other membrane-bound organelles undergo degradation",
+              "children": [
+                {
+                  "label": "reduces light scattering"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cells of the anterior lens vesicle remain as a monolayer of cuboidal cells",
+          "children": [
+            {
+              "label": "lens epithelium",
+              "children": [
+                {
+                  "label": "subsequent growth of the lens is due to proliferation within the epithelium"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.3.1. Developmental Defects (I) - Normal Development.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 49,
+      "connector_rejected": 4,
+      "connector_edges": 45,
+      "connector_width": 1.663,
+      "text_labels": 55,
+      "tree_nodes": 55,
+      "component_roots": 9,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9184,
+      "root_font_size": 5.266,
+      "warnings": []
+    }
+  }
+}

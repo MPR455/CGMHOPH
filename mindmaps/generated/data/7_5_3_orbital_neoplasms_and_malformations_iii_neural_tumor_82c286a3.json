@@ -1,0 +1,530 @@
+{
+  "label": "7.5.3. Orbital Neoplasms and Malformations (III): Neural Tumors (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Neurofibroma",
+      "children": [
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "proliferating Schwann cells within the nerve sheaths"
+            },
+            {
+              "label": "axons"
+            },
+            {
+              "label": "endoneural fibroblasts"
+            },
+            {
+              "label": "mucin"
+            }
+          ]
+        },
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "plexiform neurofibromas",
+              "children": [
+                {
+                  "label": "diffuse proliferations of Schwann cells within nerve sheaths"
+                },
+                {
+                  "label": "neurofibromatosis 1 (NF1)"
+                },
+                {
+                  "label": "well vascularized"
+                },
+                {
+                  "label": "infiltrative",
+                  "children": [
+                    {
+                      "label": "complete surgical excision difficult",
+                      "children": [
+                        {
+                          "label": "surgery is limited to tumors that compromise vision or produce disfigurement"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "discrete neurofibromas",
+              "children": [
+                {
+                  "label": "less common"
+                },
+                {
+                  "label": "can usually be excised surgically without recurrence"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "neurofibromatosis 1",
+          "children": [
+            {
+              "label": "von Recklinghausen disease"
+            },
+            {
+              "label": "autosomal dominant",
+              "children": [
+                {
+                  "label": "incomplete penetrance"
+                }
+              ]
+            },
+            {
+              "label": "phakomatosis",
+              "children": [
+                {
+                  "label": "characterized by the presence of hamartomas involving",
+                  "children": [
+                    {
+                      "label": "skin"
+                    },
+                    {
+                      "label": "eye"
+                    },
+                    {
+                      "label": "central nervous system"
+                    },
+                    {
+                      "label": "viscera"
+                    }
+                  ]
+                },
+                {
+                  "label": "most common phakomatous disorder"
+                }
+              ]
+            },
+            {
+              "label": "orbital features",
+              "children": [
+                {
+                  "label": "plexiform neurofibromas involving the lateral aspect of the upper eyelid",
+                  "children": [
+                    {
+                      "label": "S-shaped contour of the eyelid margin"
+                    }
+                  ]
+                },
+                {
+                  "label": "pulsating proptosis secondary to sphenoid bone dysplasia"
+                },
+                {
+                  "label": "optic nerve glioma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Meningioma",
+      "children": [
+        {
+          "label": "invasive tumors arising from the arachnoid villi"
+        },
+        {
+          "label": "types of orbital meningioma",
+          "children": [
+            {
+              "label": "sphenoid wing meningioma with secondary orbital extension",
+              "children": [
+                {
+                  "label": "through",
+                  "children": [
+                    {
+                      "label": "bone"
+                    },
+                    {
+                      "label": "superior orbital fissure"
+                    },
+                    {
+                      "label": "optic canal"
+                    }
+                  ]
+                },
+                {
+                  "label": "hyperostosis"
+                },
+                {
+                  "label": "hyperplasia of associated soft tissues"
+                },
+                {
+                  "label": "MRI",
+                  "children": [
+                    {
+                      "label": "contrast enhancement"
+                    },
+                    {
+                      "label": "presence of a dural tail (reactive thickening of the dura adjacent to the meningioma)",
+                      "children": [
+                        {
+                          "label": "helps distinguish a meningioma from fibrous dysplasia"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "primary optic nerve sheath meningioma",
+              "children": [
+                {
+                  "label": "originates in the arachnoid of the optic nerve sheath"
+                },
+                {
+                  "label": "F>M"
+                },
+                {
+                  "label": "third or fourth decade of life"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "related to the location of the primary tumor",
+              "children": [
+                {
+                  "label": "near the sella and optic nerve",
+                  "children": [
+                    {
+                      "label": "early visual field defects"
+                    },
+                    {
+                      "label": "papilledema or optic atrophy"
+                    }
+                  ]
+                },
+                {
+                  "label": "near the pterion (posterior end of the parietosphenoid fissure, at the lateral portion of the sphenoid bone)",
+                  "children": [
+                    {
+                      "label": "temporal fossa mass"
+                    },
+                    {
+                      "label": "proptosis or nonaxial displacement of the globe"
+                    },
+                    {
+                      "label": "eyelid edema (especially of the lower eyelid)"
+                    },
+                    {
+                      "label": "chemosis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "gradual, painless, unilateral loss of vision"
+                }
+              ]
+            },
+            {
+              "label": "relative afferent pupillary defect"
+            },
+            {
+              "label": "proptosis"
+            },
+            {
+              "label": "ophthalmoplegia"
+            },
+            {
+              "label": "optic nerve head may appear",
+              "children": [
+                {
+                  "label": "normal"
+                },
+                {
+                  "label": "atrophic"
+                },
+                {
+                  "label": "swollen"
+                },
+                {
+                  "label": "± optociliary shunt vessels"
+                }
+              ]
+            },
+            {
+              "label": "occasionally, optic nerve sheath meningiomas occur bilaterally or meningiomas occur ectopically in the orbit",
+              "children": [
+                {
+                  "label": "associated with neurofibromatosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "imaging characteristics",
+          "children": [
+            {
+              "label": "usually sufficient to allow diagnosis of optic nerve sheath meningiomas"
+            },
+            {
+              "label": "diffuse tubular enlargement of the optic nerve with contrast enhancement"
+            },
+            {
+              "label": "CT",
+              "children": [
+                {
+                  "label": "± calcification",
+                  "children": [
+                    {
+                      "label": "tram-tracking"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "MRI",
+              "children": [
+                {
+                  "label": "fine pattern of enhancing striations emanating from the lesion in a longitudinal fashion",
+                  "children": [
+                    {
+                      "label": "striations represent the infiltrative nature of the tumor"
+                    }
+                  ]
+                },
+                {
+                  "label": "MRI can show dural extension through the optic canal into the intracranial space"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "malignant meningioma",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "rapid tumor growth"
+            },
+            {
+              "label": "not responsive to",
+              "children": [
+                {
+                  "label": "surgical resection"
+                },
+                {
+                  "label": "radiotherapy"
+                },
+                {
+                  "label": "chemotherapy"
+                }
+              ]
+            },
+            {
+              "label": "histologically, malignant meningiomas are indistinguishable from the more common benign group"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "sphenoid wing meningiomas",
+              "children": [
+                {
+                  "label": "observed until they cause functional deficits",
+                  "children": [
+                    {
+                      "label": "profound proptosis"
+                    },
+                    {
+                      "label": "compressive optic neuropathy"
+                    },
+                    {
+                      "label": "motility impairment"
+                    },
+                    {
+                      "label": "cerebral edema"
+                    }
+                  ]
+                },
+                {
+                  "label": "resection",
+                  "children": [
+                    {
+                      "label": "combined intracranial and orbital approach"
+                    },
+                    {
+                      "label": "complete surgical resection is not always a practical goal",
+                      "children": [
+                        {
+                          "label": "goal of surgery is to reverse the compressive effects of the lesion"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "± postoperative radiotherapy",
+                      "children": [
+                        {
+                          "label": "to reduce the risk of further growth and spread of the residual tumor"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "follow up clinically and with serial MRI scans"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "optic nerve sheath meningiomas",
+              "children": [
+                {
+                  "label": "individualized",
+                  "children": [
+                    {
+                      "label": "extent of vision loss"
+                    },
+                    {
+                      "label": "presence of intracranial extension"
+                    }
+                  ]
+                },
+                {
+                  "label": "observation",
+                  "children": [
+                    {
+                      "label": "if vision is minimally affected and no intracranial extension is present"
+                    },
+                    {
+                      "label": "periodic MRI examination is used to carefully monitor for possible posterior or intracranial extension"
+                    }
+                  ]
+                },
+                {
+                  "label": "radiation therapy",
+                  "children": [
+                    {
+                      "label": "if tumor is confined to the orbit and vision loss is significant or progressive"
+                    },
+                    {
+                      "label": "fractionated stereotactic radiotherapy"
+                    },
+                    {
+                      "label": "stabilization or improvement of visual function"
+                    }
+                  ]
+                },
+                {
+                  "label": "surgical excision",
+                  "children": [
+                    {
+                      "label": "causes irreversible vision loss"
+                    },
+                    {
+                      "label": "surgery is reserved for patients with severe vision loss and profound proptosis"
+                    },
+                    {
+                      "label": "the optic nerve is excised with the tumor, from the back of the globe to the chiasm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Schwannoma",
+      "children": [
+        {
+          "label": "neurilemoma"
+        },
+        {
+          "label": "proliferations of Schwann cells"
+        },
+        {
+          "label": "encapsulated by perineurium",
+          "children": [
+            {
+              "label": "can be excised with relative ease",
+              "children": [
+                {
+                  "label": "similar to neurofibromas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "biphasic pattern",
+          "children": [
+            {
+              "label": "solid areas with nuclear palisading",
+              "children": [
+                {
+                  "label": "Antoni A pattern"
+                }
+              ]
+            },
+            {
+              "label": "myxoid areas",
+              "children": [
+                {
+                  "label": "Antoni B pattern"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "hypercellular schwannomas",
+          "children": [
+            {
+              "label": "sometimes recur even after what is thought to be complete removal"
+            },
+            {
+              "label": "seldom undergo malignant transformation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.5.3. Orbital Neoplasms and Malformations (III) - Neural Tumors (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 134,
+      "connector_rejected": 4,
+      "connector_edges": 130,
+      "connector_width": 0.741,
+      "text_labels": 135,
+      "tree_nodes": 135,
+      "component_roots": 3,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.9701,
+      "root_font_size": 3.148,
+      "warnings": []
+    }
+  }
+}

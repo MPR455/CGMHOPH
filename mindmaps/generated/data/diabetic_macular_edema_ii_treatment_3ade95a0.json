@@ -1,0 +1,445 @@
+{
+  "label": "Diabetic Macular Edema (II): Treatment",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "treatment is indicated for center-involved DME"
+        },
+        {
+          "label": "factors to consider before treatment of non-center- involved DME (asymptomatic with normal visual acuity)",
+          "children": [
+            {
+              "label": "proximity of exudates or thickening to fovea"
+            },
+            {
+              "label": "status and course of fellow eye"
+            },
+            {
+              "label": "treatment risks"
+            },
+            {
+              "label": "systemic conditions or medications (such as thiazolidinediones) that might exacerbate or cause DME"
+            },
+            {
+              "label": "presence of high-risk PDR"
+            },
+            {
+              "label": "any anticipated cataract surgery",
+              "children": [
+                {
+                  "label": "initiate DME treatment before PRP and prior to cataract surgery to reduce the risk of worsening DME"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Macular laser photocoagulation",
+      "children": [
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "DME from clearly focal leakage that can be easily targeted by laser"
+            },
+            {
+              "label": "resistance to anti-VEGF therapy"
+            },
+            {
+              "label": "poor candidate for anti-VEGF therapy",
+              "children": [
+                {
+                  "label": "medically unstable"
+                },
+                {
+                  "label": "unable to adhere to near monthly treatment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ETDRS",
+          "children": [
+            {
+              "label": "macular focal- or grid-pattern laser photocoagulation of CSME versus observation",
+              "children": [
+                {
+                  "label": "reduced the risk of moderate vision loss"
+                },
+                {
+                  "label": "increased the chance of vision improvement"
+                },
+                {
+                  "label": "associated with only minor visual field loss"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "adverse effects",
+          "children": [
+            {
+              "label": "paracentral scotomas"
+            },
+            {
+              "label": "decreased vision"
+            },
+            {
+              "label": "transient increased edema"
+            },
+            {
+              "label": "inadvertent foveal burns"
+            },
+            {
+              "label": "choroidal neovascularization"
+            },
+            {
+              "label": "laser scar expansion"
+            },
+            {
+              "label": "subretinal fibrosis"
+            }
+          ]
+        },
+        {
+          "label": "risk factors for poor visual outcome",
+          "children": [
+            {
+              "label": "macular ischemia (extensive perifoveal capillary nonperfusion)"
+            },
+            {
+              "label": "hard exudates in the fovea"
+            }
+          ]
+        },
+        {
+          "label": "technique",
+          "children": [
+            {
+              "label": "guided by fluorescein angiography & OCT thickness map"
+            },
+            {
+              "label": "laser parameters",
+              "children": [
+                {
+                  "label": "spot sizes of 50–100 μm"
+                },
+                {
+                  "label": "burn durations ≤ 0.1 second"
+                }
+              ]
+            },
+            {
+              "label": "focal (direct) pattern",
+              "children": [
+                {
+                  "label": "for focal leackage"
+                },
+                {
+                  "label": "directly treat all leaking microaneurysms between 500 μm - 3000 μm from center of macula"
+                },
+                {
+                  "label": "green or yellow wavelengths"
+                }
+              ]
+            },
+            {
+              "label": "grid pattern",
+              "children": [
+                {
+                  "label": "for diffuse leakage or zones of capillary non-perfusion"
+                },
+                {
+                  "label": "areas of diffuse leakage ≥ 500 μm from center of macula and temporal margin of optic disc"
+                },
+                {
+                  "label": "light-intensity"
+                },
+                {
+                  "label": "1 burn width separation between burns"
+                },
+                {
+                  "label": "green- or yellow-wavelength"
+                }
+              ]
+            },
+            {
+              "label": "repeated every ≥16 weeks until retinal thickening resolves or all of leaking microaneurysms adequately treated"
+            },
+            {
+              "label": "micropulse, or sub–threshold intensity burns, may be as effective as standard macular laser treatment while reducing damage to RPE and outer retinal layers"
+            }
+          ]
+        },
+        {
+          "label": "in current clinical practice, treatment of eyes with DME can usually be delayed until progression of edema threatens or involves center of macula"
+        },
+        {
+          "label": "treatment of peripheral nonperfusion as visualized on ultra-wide- field FA with scatter photocoagulation does not improve visual acuity or retinal thickening in eyes with DME"
+        }
+      ]
+    },
+    {
+      "label": "Anti-VEGF drugs",
+      "children": [
+        {
+          "label": "drugs",
+          "children": [
+            {
+              "label": "pegaptanib"
+            },
+            {
+              "label": "bevacizumab"
+            },
+            {
+              "label": "ranibizumab"
+            },
+            {
+              "label": "aflibercept"
+            },
+            {
+              "label": "brolucizumab"
+            }
+          ]
+        },
+        {
+          "label": "adverse events",
+          "children": [
+            {
+              "label": "endophthalmitis",
+              "children": [
+                {
+                  "label": "≈ 1 in 1000",
+                  "children": [
+                    {
+                      "label": "no demonstrated consistent differences in intraocular or systemic safety between anti-VEGF agents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic thromboembolic events",
+              "children": [
+                {
+                  "label": "not shown to be more common after intraocular anti-VEGF treatment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "DRCR.net Protocol I",
+          "children": [
+            {
+              "label": "intravitreal anti-VEGF superior to laser for center-involved DME"
+            },
+            {
+              "label": "intravitreal ranibizumab with prompt or deferred (≥24 weeks) focal or grid-pattern laser more effective at both 1- and 2-year in increasing visual acuity than focal/grid laser alone or in combination with triamcinolone acetonide injections"
+            },
+            {
+              "label": "in ranibizumab groups, vision gains accrued in first year of therapy were maintained through 5 total years of follow-up, despite number of injections progressively decreasing"
+            },
+            {
+              "label": "adding focal/grid-pattern laser at initiation of intravitreal ranibizumab is no better, and is possibly worse, than deferring laser treatment for ≥24 weeks"
+            }
+          ]
+        },
+        {
+          "label": "RISE and RIDE",
+          "children": [
+            {
+              "label": "ranibizumab rapidly and sustainably improved vision, reduced risk of further vision loss, and improved macular edema in patients with DME, with low rates of complications"
+            }
+          ]
+        },
+        {
+          "label": "VIVID"
+        },
+        {
+          "label": "VISTA",
+          "children": [
+            {
+              "label": "after 5 monthly injections, groups receiving aflibercept, both monthly and every 2 months, had substantial visual acuity gains compared with laser photocoagulation"
+            }
+          ]
+        },
+        {
+          "label": "DRCR.net Protocol T study",
+          "children": [
+            {
+              "label": "aflibercept superior to bevacizumab at 1 and 2 year(s)"
+            },
+            {
+              "label": "aflibercept superior to ranibizumab at 1 year but statistically similar at 2 years"
+            },
+            {
+              "label": "in eyes with mild visual impairment (20/32 to 20/40) visual results were equivalent at both 1 and 2 years for all 3 treatment groups"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pars plana vitrectomy",
+      "children": [
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "macular traction from",
+              "children": [
+                {
+                  "label": "epiretinal membrane",
+                  "children": [
+                    {
+                      "label": "more widely used outside US",
+                      "children": [
+                        {
+                          "label": "creation of PVD or epiretinal membrane peeling can be effective in reducing retinal thickening"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "posterior hyaloid"
+                }
+              ]
+            },
+            {
+              "label": "first-line therapy without macular traction"
+            }
+          ]
+        },
+        {
+          "label": "outcome",
+          "children": [
+            {
+              "label": "generally improves retinal thickening",
+              "children": [
+                {
+                  "label": "substantial vision gain or loss after vitrectomy"
+                }
+              ]
+            },
+            {
+              "label": "inconsistent effects on visual acuity"
+            }
+          ]
+        },
+        {
+          "label": "DRCR.net Protocol D",
+          "children": [
+            {
+              "label": "vitrectomy reduced retinal thickening in most eyes with DME and vitreomacular traction"
+            },
+            {
+              "label": "median visual acuity remained unchanged over 6-month",
+              "children": [
+                {
+                  "label": "38% gained ≥ 10 letters"
+                },
+                {
+                  "label": "22% lost ≥ 10 letters"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Intravitreal Steroid",
+      "children": [
+        {
+          "label": "intravitreal triamcinolone acetonide",
+          "children": [
+            {
+              "label": "DRCR.net Protocol B",
+              "children": [
+                {
+                  "label": "at 2 years, focal/grid laser more effective, with fewer adverse effects, than 1-mg or 4-mg preservative-free intravitreal triamcinolone"
+                }
+              ]
+            },
+            {
+              "label": "DRCR.net Protocol I",
+              "children": [
+                {
+                  "label": "at 2 years, intravitreal triamcinolone acetonide in combination with laser was inferior to ranibizumab with or without laser therapy, as well as to laser treatment alone"
+                }
+              ]
+            },
+            {
+              "label": "results from steroid-treated eyes that were pseudophakic at baseline were similar to those from anti-VEGF treated eyes and superior to laser-treated eyes",
+              "children": [
+                {
+                  "label": "steroid may be a reasonable alternative to anti- VEGF in pseudophakic eyes with DME"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "sustained-release steroid implants (dexamethasone and fluocinolone acetonide)",
+          "children": [
+            {
+              "label": "improved rates of ≥ 3 lines visual acuity gain"
+            },
+            {
+              "label": "DRCR.net Protocol U",
+              "children": [
+                {
+                  "label": "eyes with persistent center-involved DME after ≥ 6 prior injections of anti-VEGF agents"
+                },
+                {
+                  "label": "combination therapy with continued anti-VEGF treatment and a dexamethasone implant",
+                  "children": [
+                    {
+                      "label": "showed greater improvement in retinal thickening over 6-month study period"
+                    },
+                    {
+                      "label": "did not show superior vision gains when compared to continued anti- VEGF treatment alone"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "because of higher rates of cataract and glaucoma, corticosteroids are usually considered second-line agents for DME"
+        },
+        {
+          "label": "useful alternative for eyes that are not candidates for or have been refractory to anti-VEGF therapy"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Diabetic Macular Edema (II) - Treatment.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 184,
+      "connector_rejected": 0,
+      "connector_edges": 148,
+      "connector_width": 0.903,
+      "text_labels": 114,
+      "tree_nodes": 114,
+      "component_roots": 5,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.8043,
+      "root_font_size": 6.017,
+      "warnings": []
+    }
+  }
+}

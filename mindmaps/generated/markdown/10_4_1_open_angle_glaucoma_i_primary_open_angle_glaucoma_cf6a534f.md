@@ -1,0 +1,156 @@
+---
+title: "10.4.1. Open Angle Glaucoma (I): Primary Open-Angle Glaucoma"
+category: "Glaucoma"
+subcategory: ""
+source_pdf: "MindmapPDF/Glaucoma/10.4.1. Open Angle Glaucoma (I) - Primary Open-Angle Glaucoma.pdf"
+---
+
+# 10.4.1. Open Angle Glaucoma (I): Primary Open-Angle Glaucoma
+
+## Hierarchy
+
+- Clinical Features
+  - insidious onset
+  - slow progression
+  - painless
+  - usually bilateral
+    - ± asymmetric
+- Gonioscopic findings
+  - gonioscopy should be performed
+    - in all patients evaluated for glaucoma
+    - periodically in patients with established open- angle glaucoma (OAG)
+    - when the chamber becomes shallow
+    - when strong miotics are prescribed
+    - after laser trabeculoplasty or iridotomy
+    - when IOP rises
+- Prognosis
+  - most patients with POAG will retain useful vision for their entire lives
+  - prevalence of bilateral blindness among persons with OAG
+    - 8% in black persons
+    - 4% in white persons
+  - patients at greatest risk of blindness have visual field loss at the time of diagnosis of glaucoma
+  - treatment with medication, laser surgery, or incisional surgery to lower IOP has been shown to significantly reduce the risk of progression of the disease
+  - Early Manifest Glaucoma Trial (EMGT)
+    - mean IOP reduction of 25% reduced the risk of progression of OAG from 62% to 45% of patients at 6 years’ follow-up
+  - Collaborative Initial Glaucoma Treatment Study (CIGTS)
+    - medical therapy was essentially equally as effective as surgical therapy in preventing POAG progression
+    - initial medical therapy and initial surgical therapy for OAG resulted in relatively equivalent outcomes after 5 years
+    - significant visual field progression in only 10%–13%
+- Intraocular pressure
+  - IOP distribution in the general population
+    - mean IOP=15.5 mm Hg
+    - standard deviation=2.6 mm Hg
+    - mean IOP ± 2 standard deviations = 10–21 mm Hg
+  - definition of IOP >21 mm Hg as “abnormal" has a number of shortcomings
+    - IOP in the general population is not represented by a Gaussian distribution but is skewed toward higher pressures
+    - IOP distribution curves in glaucomatous and nonglaucomatous eyes show a great deal of overlap
+    - 30%–50% of individuals with glaucomatous optic neuropathy and/or visual field loss have initial screening IOPs below 22 mm Hg
+  - diurnal fluctuation of IOP
+    - patients with glaucoma
+    - patients without glaucoma
+      - 2–6 mm Hg
+    - most individuals demonstrate similar fluctuation patterns from day to day
+      - 10%–20% of patients are “erratic”
+    - single measurements of IOP during office hours do not adequately depict the degree of fluctuation of IOP
+    - spontaneous asymmetric fluctuations of IOP between fellow eyes occur commonly in individuals without glaucoma and in glaucoma patients
+    - large diurnal IOP fluctuation has been identified as an independent risk factor for progression of glaucoma
+    - shift from upright posture during the day to supine posture at night may be associated with increased nocturnal IOP measurements
+      - peak IOP in early morning hours while still in bed
+    - because of diurnal fluctuation, elevations of IOP may occur only intermittently in some glaucomatous eyes
+      - ≤1/3 of the measurements are normal
+  - alcohol decreases IOP
+  - corneal thickness
+    - average corneal thickness in adults
+      - 530–545 μm
+    - persons of African ancestry have lower mean CCT
+    - thicker corneas resist the indentation, resulting in artificially high measurements
+    - true IOP in eyes with lower CCT is higher than that measured by Goldmann tonometry
+    - lower CCT has been found to be an important risk factor for progression of ocular hypertension to glaucoma
+    - among patients with OAG, lower CCT is a risk factor for disease progression
+  - elevation of IOP is a strong risk factor for glaucoma progression
+  - agents increasing IOP
+    - LSD
+    - ketamine
+  - agents decreasing IOP
+    - heroin
+      - HAC
+    - alcohol
+    - cannabis
+- Associated Disorders
+  - myopia
+    - association between POAG and myopia
+    - Beaver Dam Eye Study
+      - myopia (≤–1 D spherical equivalent) was a significant risk factor for glaucoma prevalence
+    - Rotterdam follow-up study
+      - high myopia (≤–4 D spherical equivalent) was associated with a hazard ratio of 2.31 for the development of incident glaucoma
+    - concurrence of POAG and myopia may complicate diagnosis
+      - evaluation of the optic disc is complicated in highly myopic eyes that have tilted discs or posterior staphylomas
+      - magnification of the disc associated with the myopic refractive error interferes with optic disc evaluation
+      - myopia-related retinal anomalies can cause visual field abnormalities
+      - high refractive error may make it difficult to perform accurate perimetric measurement and to interpret visual field abnormalities
+  - diabetes mellitus
+    - controversy as to whether diabetes is a risk factor for glaucoma
+      - Beaver Dam Eye Study
+        - association between diabetes and OAG
+      - Blue Mountains Eye Study
+        - association between diabetes and OAG
+      - Los Angeles Latino Eye Study
+        - association between diabetes and OAG
+      - Framingham Study
+        - did not find significant association between diabetes and OAG
+      - Baltimore Eye Survey
+        - did not find significant association between diabetes and OAG
+      - Barbados Eye Study
+        - did not find significant association between diabetes and OAG
+      - revised analysis of the Rotterdam Study
+        - did not find significant association between diabetes and OAG
+      - OHTS
+        - diabetes was associated with a reduced risk of glaucoma development
+        - patients with any retinopathy were not enrolled in the trial
+    - references
+  - blood pressure
+    - Baltimore Eye Survey
+      - systemic hypertension was associated with
+        - lower risk of glaucoma in younger (<65 years) subjects
+          - higher blood pressure --> improved perfusion of the optic nerve
+        - increased risk of glaucoma in older subjects
+          - chronic hypertension --> increases optic nerve’s susceptibility to the development of glaucomatous optic neuropathy
+    - Barbados Eye Studies
+      - relative risk of incident glaucoma among subjects with systemic hypertension was <1.0 in all age groups
+    - ocular perfusion pressure
+      - = blood pressure (systolic, diastolic, or mean arterial) minus IOP
+      - lower ocular perfusion pressure is a strong risk factor for the development of glaucoma, independent of IOP
+      - overtreatment of systemic hypertension may be a contributing factor to glaucoma progression
+    - references
+  - retinal vein occlusion
+    - after CRVO (hemicentral retinal vein occlusion), patients may develop angle- closure glaucoma or, at a later stage, neovascular glaucoma
+    - glaucoma and OHT are risk factors for the development of CRVO (hemicentral retinal vein occlusion)
+    - OHTS
+      - occurrence of vein occlusions was higher in observation group than in treatment group
+    - consideration should be given to treating elevated IOP in patients with a history of CRVO
+      - to reduce the risk of CRVO in the fellow eye
+  - other associated conditions
+    - sleep apnea
+    - thyroid disorders
+    - hypercholesterolemia
+    - migraine
+    - Raynaud phenomenon
+- Optic disc appearance and visual field loss
+  - diagnosis of POAG is based primarily on
+    - appearance of the optic disc
+    - performance on visual field testing
+      - visual field loss should correlate with the appearance of the optic disc
+        - significant discrepancies in the pattern of field loss and optic nerve damage warrant additional investigation
+- Risk Factors for POAG Other Than IOP
+  - advanced age
+    - prevalence of glaucoma increases dramatically with age (particularly among black persons)
+      - 11% in those 80 years or older
+    - visual field defects were 7 x more likely to progress in patients ≥60 years than in those ≤40 years
+    - studies in Japan have shown a relationship between glaucoma and age even with no increase in IOP
+      - age appears to be an independent risk factor for the development of glaucoma
+  - race
+    - prevalence of POAG is 3-4 x greater in black and Hispanic persons
+    - blindness from glaucoma is ≥4 times more common in blacks
+    - glaucoma is more likely to be diagnosed at a younger age and to be at a more advanced stage at the time of diagnosis in black patients
+  - positive family history
+    - relative risk of POAG is increased ≈ 3.7x for individuals who have a sibling with POAG

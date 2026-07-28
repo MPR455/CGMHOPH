@@ -1,0 +1,523 @@
+{
+  "label": "8.8.5. Neoplastic Disorders of the Conjunctiva and Cornea (V): Vascular and Mesenchymal Tumors",
+  "root": true,
+  "children": [
+    {
+      "label": "classification",
+      "children": [
+        {
+          "label": "hamartoma",
+          "children": [
+            {
+              "label": "nevus flammeus"
+            },
+            {
+              "label": "capillary hemangioma"
+            },
+            {
+              "label": "cavernous hemangioma"
+            }
+          ]
+        },
+        {
+          "label": "reactive",
+          "children": [
+            {
+              "label": "pyogenic granuloma"
+            },
+            {
+              "label": "glomus tumor"
+            },
+            {
+              "label": "intravascular papillary endothelial hyperplasia"
+            }
+          ]
+        },
+        {
+          "label": "malignant",
+          "children": [
+            {
+              "label": "Kaposi sarcoma"
+            },
+            {
+              "label": "angiosarcoma"
+            }
+          ]
+        },
+        {
+          "label": "See Table 8-4"
+        }
+      ]
+    },
+    {
+      "label": "Inflammatory vascular tumors",
+      "children": [
+        {
+          "label": "pyogenic granuloma",
+          "children": [
+            {
+              "label": "predisposing condition",
+              "children": [
+                {
+                  "label": "chalazion"
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "rapidly growing",
+                  "children": [
+                    {
+                      "label": "minor trauma or surgery"
+                    }
+                  ]
+                },
+                {
+                  "label": "red"
+                },
+                {
+                  "label": "pedunculated"
+                },
+                {
+                  "label": "smooth"
+                },
+                {
+                  "label": "bleeds easily"
+                },
+                {
+                  "label": "stains with fluorescein dye"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "topical or intralesional corticosteroids"
+                },
+                {
+                  "label": "excision",
+                  "children": [
+                    {
+                      "label": "cauterization to the base"
+                    },
+                    {
+                      "label": "primary closure of the wound"
+                    },
+                    {
+                      "label": "postoperative topical corticosteroids"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "subconjunctival granulomas",
+          "children": [
+            {
+              "label": "parasitic and mycotic infections"
+            },
+            {
+              "label": "rheumatoid arthritis"
+            }
+          ]
+        },
+        {
+          "label": "juvenile xanthogranuloma",
+          "children": [
+            {
+              "label": "histiocytic disorder",
+              "children": [
+                {
+                  "label": "sarcoidosis"
+                },
+                {
+                  "label": "subconjunctival or subdermal nodular fibrovascular tissue"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fibrous histiocytoma",
+          "children": [
+            {
+              "label": "fibroblasts and histiocytes with lipid vacuoles"
+            }
+          ]
+        },
+        {
+          "label": "nodular fasciitis",
+          "children": [
+            {
+              "label": "very rare"
+            },
+            {
+              "label": "at the insertion site of a rectus muscle"
+            }
+          ]
+        },
+        {
+          "label": "necrobiotic xanthogranuloma",
+          "children": [
+            {
+              "label": "very rare"
+            },
+            {
+              "label": "involves anterior orbit and eyelids",
+              "children": [
+                {
+                  "label": "presents as subconjunctival/subdermal nodular fibrovascular tissue"
+                }
+              ]
+            },
+            {
+              "label": "associated with",
+              "children": [
+                {
+                  "label": "paraproteinemia"
+                },
+                {
+                  "label": "multiple myeloma"
+                },
+                {
+                  "label": "lymphoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hemangioma",
+      "children": [
+        {
+          "label": "present at birth"
+        },
+        {
+          "label": "may enlarge slowly"
+        },
+        {
+          "label": "isolated",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "bulbar conjunctiva"
+            }
+          ]
+        },
+        {
+          "label": "extension from adjacent structures",
+          "children": [
+            {
+              "label": "palpebral conjunctiva can be involved with an eyelid capillary hemangioma"
+            },
+            {
+              "label": "diffuse hemangiomatosis of the palpebral conjunctiva or conjunctival fornix indicates an orbital capillary hemangioma"
+            },
+            {
+              "label": "cavernous hemangioma of the orbit may present initially under the conjunctiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Nevus flammeus",
+      "children": [
+        {
+          "label": "port-wine stain"
+        },
+        {
+          "label": "congenital"
+        },
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "isolated"
+            },
+            {
+              "label": "Sturge-Weber syndrome",
+              "children": [
+                {
+                  "label": "vascular hamartomas",
+                  "children": [
+                    {
+                      "label": "secondary glaucoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "leptomeningeal angiomatosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "genetic mutation",
+          "children": [
+            {
+              "label": "vascular endothelial protein receptor for angiopoietin 1",
+              "children": [
+                {
+                  "label": "controls the assembly of perivascular smooth muscle"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ataxia-telangiectasia",
+      "children": [
+        {
+          "label": "Louis-Bar syndrome"
+        },
+        {
+          "label": "autosomal recessive",
+          "children": [
+            {
+              "label": "chromosome 11"
+            },
+            {
+              "label": "progressive cerebellar ataxia",
+              "children": [
+                {
+                  "label": "inactivation of a critical protein kinase that regulates response to DNA double-strand breaks"
+                },
+                {
+                  "label": "most common cause of progressive ataxia in early childhood"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "oculocutaneous telangiectasia",
+          "children": [
+            {
+              "label": "conjunctival telangiectasia",
+              "children": [
+                {
+                  "label": "almost always observed, especially as the child ages"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular motility deficits",
+          "children": [
+            {
+              "label": "horizontal and vertical supranuclear gaze palsies",
+              "children": [
+                {
+                  "label": "inability to initiate saccades",
+                  "children": [
+                    {
+                      "label": "head thrusting"
+                    },
+                    {
+                      "label": "abnormalities of the fast phase of OKN"
+                    }
+                  ]
+                },
+                {
+                  "label": "impaired pursuit"
+                },
+                {
+                  "label": "total ophthalmoplegia"
+                }
+              ]
+            },
+            {
+              "label": "oculocephalic responses remain intact"
+            }
+          ]
+        },
+        {
+          "label": "thymic hypoplasia",
+          "children": [
+            {
+              "label": "defective T-cell function"
+            },
+            {
+              "label": "immunoglobulin deficiency",
+              "children": [
+                {
+                  "label": "immunodeficiency",
+                  "children": [
+                    {
+                      "label": "high incidence of malignancy"
+                    },
+                    {
+                      "label": "recurrent sinopulmonary infections"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Malignant tumors",
+      "children": [
+        {
+          "label": "Kaposi sarcoma",
+          "children": [
+            {
+              "label": "malignant neoplasm of vascular endothelium"
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "Kaposi sarcoma–associated herpesvirus/ human herpesvirus 8"
+                },
+                {
+                  "label": "young patients",
+                  "children": [
+                    {
+                      "label": "AIDS!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "involves the skin and mucous membranes"
+                },
+                {
+                  "label": "eyelid skin",
+                  "children": [
+                    {
+                      "label": "purplish nodule"
+                    }
+                  ]
+                },
+                {
+                  "label": "orbital involvement",
+                  "children": [
+                    {
+                      "label": "eyelid and conjunctival edema"
+                    }
+                  ]
+                },
+                {
+                  "label": "conjunctiva",
+                  "children": [
+                    {
+                      "label": "reddish",
+                      "children": [
+                        {
+                          "label": "highly vascular"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "inferior fornix",
+                      "children": [
+                        {
+                          "label": "simulates a subconjunctival hemorrhage"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "types",
+                      "children": [
+                        {
+                          "label": "nodular",
+                          "children": [
+                            {
+                              "label": "less responsive to therapy"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "diffuse"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "may not be curative"
+                },
+                {
+                  "label": "cryotherapy"
+                },
+                {
+                  "label": "radiotherapy"
+                },
+                {
+                  "label": "surgical debulking"
+                },
+                {
+                  "label": "local or systemic chemotherapy"
+                },
+                {
+                  "label": "intralesional interferon-α2a"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "other malignant tumors",
+          "children": [
+            {
+              "label": "malignant fibrous histiocytoma"
+            },
+            {
+              "label": "liposarcoma"
+            },
+            {
+              "label": "leiomyosarcoma"
+            },
+            {
+              "label": "rhabdomyosarcoma"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.8.5. Neoplastic Disorders of the Conjunctiva and Cornea (V) - Vascular and Mesenchymal Tumors.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 233,
+      "connector_rejected": 4,
+      "connector_edges": 171,
+      "connector_width": 1.453,
+      "text_labels": 132,
+      "tree_nodes": 132,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7339,
+      "root_font_size": 4.117,
+      "warnings": []
+    }
+  }
+}

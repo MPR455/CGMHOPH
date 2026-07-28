@@ -1,0 +1,146 @@
+---
+title: "6.17.2. Eyelid Disorders (II): Congenital Eyelid Disorders (II)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.17.2. Eyelid Disorders (II) - Congenital Eyelid Disorders (II).pdf"
+---
+
+# 6.17.2. Eyelid Disorders (II): Congenital Eyelid Disorders (II)
+
+## Hierarchy
+
+- Distichiasis
+  - partial or complete accessory row of eyelashes growing out of or slightly posterior to the meibomian gland orifices
+  - abnormal lashes tend to be thinner, shorter, softer, and less pigmented
+  - often well tolerated
+  - treatment
+    - if corneal irritation is present
+- Marcus Gunn Jaw-Winking Syndrome
+  - congenital synkinesis of jaw and levator muscles
+  - ptotic eyelid elevates with
+    - opening of mouth
+    - movement of jaw to contralateral side
+  - test an infant by having him/her suck on a bottle or pacifier
+  - treatment
+    - simple ptosis repair
+    - combination of disinsertion of the levator muscle and frontalis suspension
+      - frontalis suspension may also be performed on the normal eyelid to achieve a more symmetric appearance
+- Euryblepharon
+  - ± associated with BPES
+  - ± associated with Kabuki syndrome
+  - clinical presentation
+    - vertical shortening + horizontal lengthening of the involved eyelids
+      - lateral portion of the lower eyelid (eyelids) is typically more involved
+        - downward displacement of the temporal half of the lower eyelid
+          - gives the appearance of a very wide palpebral fissure or a droopy lower eyelid
+    - inferiorly displaced lateral canthal tendon
+      - palpebral fissure often has a downward slant
+    - impaired blinking
+    - poor closure
+    - lagophthalmos
+    - exposure keratitis
+  - surgial reconstruction
+    - if symptomatic
+    - lateral canthal repositioning
+    - suspension of suborbicularis oculi fat to lateral orbital rim to support lower eyelid
+    - lateral tarsal strip or eyelid margin resection
+      - for excess horizontal length
+    - ± skin grafts
+- Epicanthus
+  - crescent-shaped fold of skin running vertically between the eyelids and overlying the inner canthus
+  - 4 types
+    - epicanthus tarsalis: fold is most prominent in the upper eyelid
+    - epicanthus palpebralis: fold is equally distributed between the upper and lower eyelids
+    - epicanthus supraciliaris: fold arises from the eyebrow and terminates over the lacrimal sac
+  - associations
+    - isolated
+    - blepharophimosis
+      - epicanthus inversus: fold is most prominent in the lower eyelid
+    - ptosis
+  - surgical correction
+    - occasionally required
+- Congenital Ptosis
+  - classification of ptosis
+    - pseudoptosis
+    - congenital ptosis
+    - acquired ptosis
+      - myogenic
+        - myasthenia gravis
+        - progressive external ophthalmoplegia
+      - neurogenic
+        - Horner syndrome
+        - 3rd nerve palsy
+      - mechanical
+  - associations
+    - anisometropic amblyopia
+    - strabismus
+  - evaluation
+    - pseudoptosis
+      - microphthalmia
+      - hypotropia
+    - upper eyelid crease
+      - in severe congenital ptosis eyelid crease is usually absent
+    - amount of ptosis
+      - palpebral fissure height
+      - margin–reflex distance (MRD)
+        - distance from the margin of the upper eyelid to the corneal light reflex when the eye is in primary gaze
+    - function of levator muscle
+      - applying finger pressure on the brow to block the frontalis muscle
+      - measuring the distance that upper eyelid moves when patient shifts from downgaze to upgaze
+    - tear function
+    - corneal sensitivity
+    - Bell phenomenon
+      - Ii the Bell phenomenon is poor, the cornea can decompensate after ptosis repair
+  - management
+    - mild or moderate ptosis
+      - treatment usually delayed until patient is several years old
+      - compensatory chin-up head posture may justify earlier surgery
+    - marked ptosis
+      - obstructs vision
+      - must be corrected early in infancy to prevent deprivation amblyopia
+    - surgical techniques
+      - external levator muscle resection
+      - levator aponeurosis tuck
+      - frontalis suspension
+        - when levator muscle function is <4 mm
+    - materials for suspension
+      - autologous fascia lata
+        - cannot be obtained until the patient is 3 or 4 years old
+      - human donor fascia lata
+      - synthetic material such as silicone rods
+      - use of synthetic material or donor fascia lata may lead to higher recurrence rates
+- Palpebral Fissure Slants
+  - normally lateral canthus is ≈ 1 mm higher than medial canthus
+  - certain craniofacial syndromes frequently cause palpebral fissures to have a characteristic upward or downward slant
+  - Treacher Collins syndrome
+    - downward slant
+  - euryblepharon
+    - inferiorly displaced lateral canthal tendon
+      - palpebral fissure often has a downward slant
+- Blepharophimosis–Ptosis–Epicanthus Inversus Syndrome
+  - clinical presentation
+    - blepharophimosis
+      - palpebral fissures are shortened horizontally and vertically
+      - horizontal palpebral fissure length
+        - 18–22 mm
+          - normally 25–30 mm
+    - epicanthus inversus
+    - telecanthus
+    - ptosis
+      - poor levator muscle function
+      - no eyelid fold
+  - genetics
+    - sporadic
+    - autosomal dominant
+      - FOXL2 gene
+  - 2 types
+    - type I
+      - eyelid findings and premature ovarian failure
+    - type II
+      - eyelid findings only
+  - treatment
+    - repair of the ptosis
+      - frontalis suspension procedures
+      - ± necessary early in life
+    - epicanthus and telecanthus may improve with age
+      - repair is often delayed

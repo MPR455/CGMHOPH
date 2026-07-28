@@ -1,0 +1,220 @@
+---
+title: "6.11.2. Vertical Deviations (II)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.11.2. Vertical Deviations (II) .pdf"
+---
+
+# 6.11.2. Vertical Deviations (II)
+
+## Hierarchy
+
+- Other Incomitant Vertical Tropias
+  - innervational problems
+    - upshoots and downshoots seen in
+      - Duane retraction syndrome
+      - partial third nerve palsy
+  - mechanical disorders
+    - Brown syndrome
+    - thyroid eye disease
+    - orbital tumors
+    - orbital implants
+      - glaucoma drainage devices
+      - scleral buckles
+- Superior Oblique Muscle Palsy
+  - etiology
+    - most common paralysis of a single cyclovertical muscle is fourth nerve palsy
+    - congenital
+      - etiology
+        - absent ipsilateral trochlear nerve + varying degrees of SO muscle hypoplasia
+          - most patients
+        - congenitally lax, attenuated, or absent superior oblique tendon
+        - unusual course of the muscle
+        - malpositioned orbital pulleys
+        - craniofacial abnormalities
+      - differentiating features
+        - examine childhood photographs
+          - compensatory head tilt
+          - facial asymmetry
+        - large vertical fusional amplitudes
+    - acquired
+      - closed head trauma
+        - most common
+      - direct trauma to tendon or trochlear area
+      - diabetes mellitus
+      - vascular problems of the central nervous system
+      - brain tumor
+        - recently diagnosed palsy that cannot be attributed to known trauma suggests the possibility of a serious intracranial lesion and need for neurologic investigation
+      - isolated nontraumatic fourth nerve palsy
+        - usually ischemic or idiopathic
+        - lack of signs of recovery by 3 months after onset should prompt neuroimaging
+    - references
+  - clinical features
+    - can fixate with normal or affected eye
+    - examination
+      - hyperdeviation
+        - unilateral palsy
+        - typically incomitant
+          - especially in the acute stages
+          - “spread of comitance"
+            - contracture of the ipsilateral superior rectus or contralateral inferior rectus muscle
+            - minimal difference in magnitude of hypertropia when patient looks from one side to other
+      - versions
+        - underaction of superior oblique muscle
+          - action of superior oblique muscle can appear normal
+        - overaction of inferior oblique muscle
+      - torsion
+        - if depression cannot be evaluated because of eye’s inability to adduct
+          - eg, 3rd nerve palsy
+        - ask patient to look downward and inward from primary position
+          - superior oblique muscle palsy leads to extorsion
+            - observe surface or fundus landmarks
+            - subjective incyclodiplopia
+        - double Maddox rod test
+          - to measure torsional imbalance
+          - intorsion of the higher eye—instead of the expected extorsion—signifies skew deviation
+            - especially when there are associated neurologic findings
+      - 3-step test
+        - for diagnosis of unilateral superior oblique muscle palsy
+        - can be confounded by
+          - DVD
+          - entities involving restriction
+          - skew deviation
+            - vertical tropia typically decreases significantly in supine position
+              - typically does not change in superior oblique palsy
+      - document serial changes in the deviation
+        - Hess screen
+        - Lancaster red-green test
+        - plotting the field of single binocular vision
+    - differentiate bilateral from unilateral superior oblique muscle palsy
+      - unilateral
+        - little if any V pattern
+        - <10° extorsion in downgaze
+        - subjective incyclodiplopia is uncommon
+          - unless palsy is severe
+        - 3-step test yields positive results for the involved side only
+        - abnormal head positions are common
+          - head tilt toward the opposite shoulder
+        - oblique muscle dysfunction is confined to the involved eye
+      - IO overaction --> V-pattern
+        - SO overaction --> A-pattern
+      - bilateral
+        - usually show a V pattern
+          - ± chin-down head posture
+        - .>10° extorsion in downgaze
+          - .>20° of extorsion is highly suggestive of bilateral involvement
+        - subjective incyclodiplopia is common
+        - Bielschowsky head-tilt test yields positive results on tilt to each side
+          - right head tilt reveals a right hypertropia and left head tilt a left hypertropia
+        - bilateral oblique muscle dysfunction
+        - masked bilateral palsies
+          - markedly asymmetric bilateral palsies that initially appear to be unilateral
+            - even the mildest degree of oblique muscle dysfunction on the presumedly uninvolved side
+          - more common in patients with closed head trauma
+          - bilateral objective fundus extorsion
+          - esotropia in downgaze
+            - V-pattern ET
+          - must be distinguished from situations in which the initial palsy is overcorrected, leading to a postoperative oblique muscle abnormality in the fellow eye
+  - management
+    - unilateral superior oblique muscle palsy
+      - prisms
+        - small, symptomatic deviations that lack a prominent torsional component
+          - especially those that have become comitant
+          - compensate for hyperdeviation in primary position
+      - indications for surgery
+        - significant vertical deviation
+        - diplopia
+        - asthenopia
+      - deviation is incomitant
+        - hyperdeviation is worse in contralateral upgaze
+          - weaken the antagonist inferior oblique muscle
+        - hyperdeviation is worse in contralateral downgaze
+          - strengthen the weak superior oblique muscle
+      - lax superior oblique muscle
+        - strengthen the weak superior oblique muscle
+          - tendon tucking
+        - can be confirmed at surgery
+          - globe is pushed (translated) posteriorly into the orbit while it is simultaneously extorted
+      - cyclodiplopia or significant extorsion
+        - superior oblique tendon strengthening procedure
+          - tendon tucking
+          - Harada-Ito procedure
+      - deviation ≤15Δ in primary position
+        - one of these options alone may be effective
+        - amount of deviation in primary position corrected by inferior oblique weakening is proportional to degree of preoperative overaction of muscle
+          - not performed in skew deviation because inferior oblique muscle weakening would aggravate the intorsion of the higher eye
+      - hyperdeviation is incomitant and >15Δ in primary position
+        - usually is also large in ipsilateral (secondary) gaze field
+        - recession of ipsilateral superior rectus muscle or contralateral (yoke) inferior rectus muscle should be added to oblique muscle surgery
+          - choice depends on whether hyperdeviation is worse in downgaze or upgaze, as well as tightness of these muscles on forced-duction testing
+      - hyperdeviation has become comitant
+        - vertical rectus muscle surgery is generally preferred
+          - <15Δ–20Δ
+            - recession of 1 vertical rectus muscle
+          - .>15Δ–20Δ
+            - recession of both vertical rectus muscles
+      - hyperdeviation >35Δ in primary position
+        - 3-muscle surgery
+          - recession of overacting antagonist inferior oblique muscle
+          - recession of either ipsilateral superior rectus or contralateral inferior rectus muscle or both
+            - based on forced-duction test results
+          - ipsilateral superior oblique tendon tucking may have to be included if the tendon is lax
+      - Hering’s law may cause the superior oblique muscle to overact in the normal eye
+        - avoid superior oblique tenotomy on normal eye
+          - converts a unilateral superior oblique palsy to a bilateral one
+            - disabling torsional diplopia
+      - avoid overcorrection of a long-standing unilateral superior oblique muscle palsy in adult patients
+        - overcorrection can worsen with time and can cause disabling diplopia
+    - bilateral superior oblique muscle palsy
+      - surgery on both eyes is required and any asymmetry of the paralysis must be taken into account
+      - palsies are symmetric & both inferior oblique muscles are significantly overacting
+        - weakening of both inferior oblique muscles
+        - if superior oblique muscles are lax or weak and cyclodiplopia or sizable extorsion is present
+          - these muscles should be strengthened
+            - tendon tucking
+            - Harada-Ito procedure
+      - paralysis is asymmetric
+        - a hyperdeviation is usually present in primary position and hyperdeviations on right and left gaze differ
+        - techniques
+          - symmetric oblique muscle surgery + unilateral vertical rectus recession
+          - asymmetric oblique muscle surgery
+      - any of these approaches should collapse a large V pattern
+        - additional surgery may be necessary
+- Inferior Oblique Muscle Palsy
+  - etiology
+    - congenital
+    - posttraumatic
+    - localized orbital lesion
+      - rare
+  - clinical features
+    - hypotropia
+      - greatest in adduction
+    - deficient elevation in adducted position
+      - similar to Brown syndrome
+    - intorsion
+      - head tilt toward paralyzed side (elevated eye)
+    - positive head tilt test
+  - differential diagnosis
+    - skew deviation
+      - especially those with a history of head trauma or with additional neurologic findings
+      - hypotropic eye is extorted
+        - in inferior oblique muscle palsy, the hypotropic eye is intorted
+          - subjective excyclodiplopia
+          - differentiates from SO palsy
+      - higher (hypertropic) eye is intorted
+    - asymmetric or unilateral primary superior oblique muscle overaction with secondary underaction of the inferior oblique
+      - results of the 3-step test are not clear
+    - Brown syndrome
+      - positive forced-duction
+      - no strabismus or V-pattern
+      - no or minimal superior oblique overaction
+      - no torsion
+      - negative head tilt test
+  - management
+    - Indications for treatment
+      - abnormal head position
+      - vertical deviation in primary position
+      - diplopia
+    - weakening ipsilateral superior oblique muscle
+      - will aggravate the existing extorsion of the hypotropic eye if an undetected skew deviation is the true underlying abnormality
+    - weakening contralateral superior rectus muscle

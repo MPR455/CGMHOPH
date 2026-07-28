@@ -1,0 +1,596 @@
+{
+  "label": "Retinoblastoma",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "mother has noted white pupil in the right eye of her 1-year-old daughter"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "external photograph shows leukocoria of the right eye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "U/S",
+          "children": [
+            {
+              "label": "tumor thickness"
+            },
+            {
+              "label": "calcification"
+            }
+          ]
+        },
+        {
+          "label": "IVFA",
+          "children": [
+            {
+              "label": "Coats disease"
+            },
+            {
+              "label": "retinoblastoma"
+            }
+          ]
+        },
+        {
+          "label": "serology",
+          "children": [
+            {
+              "label": "ELISA for toxocariasis"
+            }
+          ]
+        },
+        {
+          "label": "MRI",
+          "children": [
+            {
+              "label": "optic nerve invasion"
+            },
+            {
+              "label": "orbital (extraocular) extension"
+            },
+            {
+              "label": "pinealoblastoma",
+              "children": [
+                {
+                  "label": ".< 0.5% of unilateral cases"
+                },
+                {
+                  "label": ".< 5-15% of bilateral cases",
+                  "children": [
+                    {
+                      "label": "every 4–8 weeks until age 3 years"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CT scan"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "retinoblastoma",
+          "children": [
+            {
+              "label": "discouraged because of possible increased risk of secondary tumors due to radiation exposure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "retinoblastoma"
+        },
+        {
+          "label": "cataract"
+        },
+        {
+          "label": "persistent fetal vasculature (PFV)"
+        },
+        {
+          "label": "retinopathy of prematurity (ROP)"
+        },
+        {
+          "label": "FEVR"
+        },
+        {
+          "label": "medulloepithelioma"
+        },
+        {
+          "label": "toxocariasis"
+        },
+        {
+          "label": "Norrie disease"
+        },
+        {
+          "label": "incontinentia pigmenti"
+        },
+        {
+          "label": "retinal astrocytoma"
+        },
+        {
+          "label": "Coats disease"
+        },
+        {
+          "label": "myelinated nerve fiber"
+        },
+        {
+          "label": "retinal detachment"
+        },
+        {
+          "label": "uveitis"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "small tumors",
+          "children": [
+            {
+              "label": "cryotherapy"
+            },
+            {
+              "label": "photocoagulation"
+            },
+            {
+              "label": "TTT"
+            }
+          ]
+        },
+        {
+          "label": "larger tumors",
+          "children": [
+            {
+              "label": "systemic chemotherapy",
+              "children": [
+                {
+                  "label": "local therapy (consolidation)"
+                },
+                {
+                  "label": "often used in cases of bilateral retinoblastoma"
+                }
+              ]
+            },
+            {
+              "label": "intraarterial chemotherapy",
+              "children": [
+                {
+                  "label": "alternative to systemic chemoreduction for unilateral retinoblastoma in group B, C, D, or E eyes"
+                }
+              ]
+            },
+            {
+              "label": "intravitreal chemotherapy",
+              "children": [
+                {
+                  "label": "for refractory or recurrent vitreous seeding"
+                }
+              ]
+            },
+            {
+              "label": "plaque radiotherapy"
+            },
+            {
+              "label": "enucleation"
+            },
+            {
+              "label": "external beam radiation",
+              "children": [
+                {
+                  "label": "seldom used",
+                  "children": [
+                    {
+                      "label": "craniofacial deformity"
+                    },
+                    {
+                      "label": "secondary tumors in the field of radiation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Referrals",
+          "children": [
+            {
+              "label": "refer to ocular oncologist"
+            },
+            {
+              "label": "consult with pediatric oncologist"
+            },
+            {
+              "label": "genetic counselling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & progression of leukocoria",
+              "children": [
+                {
+                  "label": "old photographs"
+                }
+              ]
+            },
+            {
+              "label": "one vs both eyes"
+            },
+            {
+              "label": "premature birth",
+              "children": [
+                {
+                  "label": "ROP"
+                }
+              ]
+            },
+            {
+              "label": "contact with puppies",
+              "children": [
+                {
+                  "label": "toxocariasis"
+                }
+              ]
+            },
+            {
+              "label": "eating dirt"
+            },
+            {
+              "label": "previous episode of red irritated eye",
+              "children": [
+                {
+                  "label": "toxocariasis"
+                }
+              ]
+            },
+            {
+              "label": "family history",
+              "children": [
+                {
+                  "label": "family history of rb",
+                  "children": [
+                    {
+                      "label": "5-10%"
+                    }
+                  ]
+                },
+                {
+                  "label": "family history of cararact"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "extraocular motility/alignment"
+            },
+            {
+              "label": "anterior segment exam",
+              "children": [
+                {
+                  "label": "AC",
+                  "children": [
+                    {
+                      "label": "pseudohypopyon"
+                    }
+                  ]
+                },
+                {
+                  "label": "NVI",
+                  "children": [
+                    {
+                      "label": "retinoblastoma"
+                    },
+                    {
+                      "label": "medulloepithelioma"
+                    }
+                  ]
+                },
+                {
+                  "label": "cataract"
+                },
+                {
+                  "label": "corneal diameter",
+                  "children": [
+                    {
+                      "label": "microcornea/microphthalmia",
+                      "children": [
+                        {
+                          "label": "PFV"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "retrolental fibrous plaque"
+                },
+                {
+                  "label": "elongated ciliary processes"
+                }
+              ]
+            },
+            {
+              "label": "posterior segment exam with dilation",
+              "children": [
+                {
+                  "label": "retinal tumor"
+                },
+                {
+                  "label": "retinal feeder/draining vessels"
+                },
+                {
+                  "label": "vitreous seeds"
+                },
+                {
+                  "label": "retinal vascular telangiectasia"
+                },
+                {
+                  "label": "retinal/subretinal exudation/ crystalline material",
+                  "children": [
+                    {
+                      "label": "Coats disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "retinal fold",
+                  "children": [
+                    {
+                      "label": "PFV"
+                    },
+                    {
+                      "label": "30-40% of retinoblatoma is bilateral"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "examine both eyes",
+              "children": [
+                {
+                  "label": "scleral depression to examine to ora"
+                }
+              ]
+            },
+            {
+              "label": "may need EUA"
+            },
+            {
+              "label": "examine the eyes of parents’& siblings",
+              "children": [
+                {
+                  "label": "retinoblastoma",
+                  "children": [
+                    {
+                      "label": "in 1% of cases, a parent may have spontaneously regressed retinoblastoma/retinocytoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "FEVR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "malignant nature of tumor"
+            },
+            {
+              "label": "hereditary nature",
+              "children": [
+                {
+                  "label": "overall 40% have germline mutation",
+                  "children": [
+                    {
+                      "label": "can transmit disease to children"
+                    }
+                  ]
+                },
+                {
+                  "label": "only 10% of unilateral rb is germline"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": ".>95% survival"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "systemic chermotherapy",
+              "children": [
+                {
+                  "label": "low blood count"
+                },
+                {
+                  "label": "hair loss"
+                },
+                {
+                  "label": "hearing loss"
+                },
+                {
+                  "label": "neurologic and cardiac disturbances"
+                },
+                {
+                  "label": "renal toxicity"
+                },
+                {
+                  "label": "increased risk for AML"
+                }
+              ]
+            },
+            {
+              "label": "intraarterial chemotherapy",
+              "children": [
+                {
+                  "label": "systemic",
+                  "children": [
+                    {
+                      "label": "metastasis"
+                    },
+                    {
+                      "label": "neutropenia"
+                    }
+                  ]
+                },
+                {
+                  "label": "ocular",
+                  "children": [
+                    {
+                      "label": "periocular edema"
+                    },
+                    {
+                      "label": "cilia loss"
+                    },
+                    {
+                      "label": "vascular occlusion"
+                    },
+                    {
+                      "label": "blepharoptosis"
+                    },
+                    {
+                      "label": "temporary dysmotility"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "need for regular follow-up",
+              "children": [
+                {
+                  "label": "development of new tumors in same or other eye",
+                  "children": [
+                    {
+                      "label": "if germline"
+                    }
+                  ]
+                },
+                {
+                  "label": "response to rx",
+                  "children": [
+                    {
+                      "label": "every 4–8 weeks until age 3 years"
+                    }
+                  ]
+                },
+                {
+                  "label": "tumor recurrence",
+                  "children": [
+                    {
+                      "label": "can happen years after treatment"
+                    }
+                  ]
+                },
+                {
+                  "label": "secondary malignancies",
+                  "children": [
+                    {
+                      "label": "if germline"
+                    },
+                    {
+                      "label": "higher risk if radiation before 1 year of age"
+                    },
+                    {
+                      "label": "1% per year of life"
+                    }
+                  ]
+                },
+                {
+                  "label": "primitive neuroectodermal tumor (PNET) of the pineal gland",
+                  "children": [
+                    {
+                      "label": "follow with periodic brain MRI"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Retinoblastoma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 244,
+      "connector_rejected": 5,
+      "connector_edges": 180,
+      "connector_width": 0.729,
+      "text_labels": 153,
+      "tree_nodes": 153,
+      "component_roots": 7,
+      "spatially_recovered_labels": 7,
+      "connector_match_ratio": 0.7377,
+      "root_font_size": 5.1,
+      "warnings": []
+    }
+  }
+}

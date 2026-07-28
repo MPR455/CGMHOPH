@@ -1,0 +1,162 @@
+{
+  "label": "9.6.11. Posterior Uveitis (IV): Susac Syndrome",
+  "root": true,
+  "children": [
+    {
+      "label": "SICRET syndrome",
+      "children": [
+        {
+          "label": "Small Infarctions Of Cochlear, Retinal, and Encephalic Tissue"
+        }
+      ]
+    },
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "rare",
+          "children": [
+            {
+              "label": "young women",
+              "children": [
+                {
+                  "label": "ages 16–58 years"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "clinical triad",
+      "children": [
+        {
+          "label": "encephalopathy"
+        },
+        {
+          "label": "hearing loss"
+        },
+        {
+          "label": "branch retinal artery occlusions"
+        }
+      ]
+    },
+    {
+      "label": "Lab work-up",
+      "children": [
+        {
+          "label": "audiometry",
+          "children": [
+            {
+              "label": "sensorineural hearing loss"
+            }
+          ]
+        },
+        {
+          "label": "FA",
+          "children": [
+            {
+              "label": "focal nonperfused retinal arterioles with hyperfluorescent walls"
+            }
+          ]
+        },
+        {
+          "label": "magnetic resonance imaging (MRI)",
+          "children": [
+            {
+              "label": "multifocal supratentorial white matter lesions",
+              "children": [
+                {
+                  "label": "corpus callosum may be involved"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ocular presentation",
+      "children": [
+        {
+          "label": "ocular findings are highly specific"
+        },
+        {
+          "label": "diffuse or localized narrowing of retinal arteries",
+          "children": [
+            {
+              "label": "peripheral retinal arteries"
+            },
+            {
+              "label": "isolated retinal arteriolar involvement may occur as a very late manifestation"
+            }
+          ]
+        },
+        {
+          "label": "“boxcar” segmentation of the blood column"
+        },
+        {
+          "label": "no evidence of embolic material or inflammatory reactions around the vessels"
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "high-dose intravenous corticosteroids"
+        },
+        {
+          "label": "anticoagulants"
+        },
+        {
+          "label": "IMT"
+        },
+        {
+          "label": "+- self-limiting"
+        }
+      ]
+    },
+    {
+      "label": "Differential diagnosis",
+      "children": [
+        {
+          "label": "Behçet disease",
+          "children": [
+            {
+              "label": "no vitreous haze or cells"
+            }
+          ]
+        },
+        {
+          "label": "MS"
+        },
+        {
+          "label": "herpetic encephalitis"
+        },
+        {
+          "label": "acute disseminated encephalomyelitis"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.11. Posterior Uveitis (IV) - Susac Syndrome.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 60,
+      "connector_rejected": 1,
+      "connector_edges": 45,
+      "connector_width": 1.22,
+      "text_labels": 37,
+      "tree_nodes": 37,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.75,
+      "root_font_size": 5.186,
+      "warnings": []
+    }
+  }
+}

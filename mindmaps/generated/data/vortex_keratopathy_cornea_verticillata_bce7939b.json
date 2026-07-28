@@ -1,0 +1,423 @@
+{
+  "label": "Differential Diagnosis Vortex keratopathy (cornea verticillata)",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "asymptomatic middle-aged man with history of systemic hypertension and ventricular arrhythmia comes for routine eye examination"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "bilateral whorl-like pattern of golden brown or gray deposits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "reduced vision with chloroquine family or tilorone hydrochloride",
+      "children": [
+        {
+          "label": "r/o retinal toxicity"
+        }
+      ]
+    },
+    {
+      "label": "vortex keratopathy",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "medications",
+              "children": [
+                {
+                  "label": "indomethacin",
+                  "children": [
+                    {
+                      "label": "most common cause",
+                      "children": [
+                        {
+                          "label": "reduced vision with amiodarone or tamoxifen",
+                          "children": [
+                            {
+                              "label": "r/o optic neuropathy"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "amiodarone",
+                  "children": [
+                    {
+                      "label": "anti-arrhythmic drug"
+                    }
+                  ]
+                },
+                {
+                  "label": "chloroquine",
+                  "children": [
+                    {
+                      "label": "hydroxychloroquine",
+                      "children": [
+                        {
+                          "label": ".> (5) 6.5 mg/kg/day"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "chloroquine",
+                      "children": [
+                        {
+                          "label": ".> (2.3) 3 mg/kg/day"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "phenothiazines"
+                }
+              ]
+            },
+            {
+              "label": "Fabry disease/carrier state",
+              "children": [
+                {
+                  "label": "XLR"
+                },
+                {
+                  "label": "lysosomal storage disease"
+                },
+                {
+                  "label": "alpha galactosidase-A deficiency"
+                },
+                {
+                  "label": "conjunctival telangiectasia & vascular tortuosity"
+                },
+                {
+                  "label": "posterior spoke-like lens opacities"
+                },
+                {
+                  "label": "retinal telangiectasis & vascular tortuosity"
+                },
+                {
+                  "label": "refer to internist",
+                  "children": [
+                    {
+                      "label": "neuropathic pain"
+                    },
+                    {
+                      "label": "kidney disease"
+                    },
+                    {
+                      "label": "angiokeratoma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "inferior interpalpebral portion of the cornea"
+            },
+            {
+              "label": "rarely result in reduction of vision or ocular symptoms"
+            },
+            {
+              "label": "resolve with discontinuation of the responsible agents"
+            }
+          ]
+        },
+        {
+          "label": "healed corneal epithelial defect"
+        },
+        {
+          "label": "dendritic keratopathy"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "if on chloroquine/ hydroxychloroquine",
+          "children": [
+            {
+              "label": "baseline and follow-up exams",
+              "children": [
+                {
+                  "label": "r/o preexisting maculopathy"
+                },
+                {
+                  "label": "baseline",
+                  "children": [
+                    {
+                      "label": "within 1 year"
+                    },
+                    {
+                      "label": "fundus examination"
+                    },
+                    {
+                      "label": "SD-OCT"
+                    },
+                    {
+                      "label": "VF",
+                      "children": [
+                        {
+                          "label": "white target"
+                        },
+                        {
+                          "label": "10-2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "follow-up",
+                  "children": [
+                    {
+                      "label": "annually (after 5 years of medication use)"
+                    },
+                    {
+                      "label": "SD-OCT",
+                      "children": [
+                        {
+                          "label": "loss of IS-OS junction"
+                        },
+                        {
+                          "label": "flying saucer"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "VF",
+                      "children": [
+                        {
+                          "label": "threshold VF (Humphrey 10-2)",
+                          "children": [
+                            {
+                              "label": "white target"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "as needed or available",
+                      "children": [
+                        {
+                          "label": "fundus autofluorescence"
+                        },
+                        {
+                          "label": "multifocal ERG"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "vortex keratopathy",
+          "children": [
+            {
+              "label": "patient on amiodarone for arrhythmia",
+              "children": [
+                {
+                  "label": "unless develops maculopathy (chloroquine)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "do not stop medication"
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "prognosis",
+          "children": [
+            {
+              "label": "benign"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "maculopathy"
+            },
+            {
+              "label": "review medication dosage",
+              "children": [
+                {
+                  "label": "toxic dosage",
+                  "children": [
+                    {
+                      "label": "hydroxychloroquine",
+                      "children": [
+                        {
+                          "label": ".>6.5 mg/kg/day"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "chloroquine",
+                      "children": [
+                        {
+                          "label": ".>3 mg/kg/day"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "1 year",
+              "children": [
+                {
+                  "label": "monitor for maculopathy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "medical history",
+              "children": [
+                {
+                  "label": "medication use"
+                }
+              ]
+            },
+            {
+              "label": "ocular history",
+              "children": [
+                {
+                  "label": "ocular symptoms",
+                  "children": [
+                    {
+                      "label": "vortex keratopathy is asymptomatic"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal abrasion"
+                },
+                {
+                  "label": "herpetic eye disease"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA"
+            },
+            {
+              "label": "laterality",
+              "children": [
+                {
+                  "label": "vortex keratopathy is bilateral"
+                }
+              ]
+            },
+            {
+              "label": "herpetic eye disease"
+            },
+            {
+              "label": "corneal abrasion"
+            },
+            {
+              "label": "conjunctival telangiectasia & tortuosity"
+            },
+            {
+              "label": "posterior spoke-like lens opacities",
+              "children": [
+                {
+                  "label": "Fabry disease"
+                }
+              ]
+            },
+            {
+              "label": "retinal telangiectasis & tortuosity"
+            },
+            {
+              "label": "bull’s eye maculopathy",
+              "children": [
+                {
+                  "label": "chloroquine"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Vortex keratopathy (cornea verticillata).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 160,
+      "connector_rejected": 4,
+      "connector_edges": 106,
+      "connector_width": 0.752,
+      "text_labels": 102,
+      "tree_nodes": 102,
+      "component_roots": 8,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.6625,
+      "root_font_size": 5.263,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "label": "4.10.2. Vitreous (II): Degenerations",
+  "root": true,
+  "children": [
+    {
+      "label": "Asteroid hyalosis",
+      "children": [
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "round",
+              "children": [
+                {
+                  "label": "10-100 nm",
+                  "children": [
+                    {
+                      "label": "alcian blue"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "staining"
+            },
+            {
+              "label": "metachromasia",
+              "children": [
+                {
+                  "label": "stains for neutral fat, phospholipids, calcium"
+                },
+                {
+                  "label": "birefringence"
+                }
+              ]
+            },
+            {
+              "label": "+- giant cell reaction"
+            },
+            {
+              "label": "electron spectroscopic imaging",
+              "children": [
+                {
+                  "label": "homogeneous distribution of ca, P, oxygen",
+                  "children": [
+                    {
+                      "label": "similar to hydroxyapatite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "immunofluorescence microscopy",
+              "children": [
+                {
+                  "label": "chondroitin-6-sulfate",
+                  "children": [
+                    {
+                      "label": "periphery of asteroid bodies"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "lectin-gold labeling",
+              "children": [
+                {
+                  "label": "carbohydrates specific for hyaluronic acid"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Syneresis",
+      "children": [
+        {
+          "label": "liquefaction of the central vitreous gel"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "aging"
+            },
+            {
+              "label": "inflammation"
+            },
+            {
+              "label": "hemorrhage"
+            },
+            {
+              "label": "pathologic myopia"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "aggregation of collagen fibers around syneretic areas"
+            }
+          ]
+        },
+        {
+          "label": "contributes to posterior vitreous detachment"
+        }
+      ]
+    },
+    {
+      "label": "Macular holes",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "localized perifoveal/pericentral vitreous detachment"
+            },
+            {
+              "label": "anterior traction on the foveola"
+            }
+          ]
+        },
+        {
+          "label": "stages",
+          "children": [
+            {
+              "label": "stage 0 (premacular hole)",
+              "children": [
+                {
+                  "label": "loss of foveal depression"
+                }
+              ]
+            },
+            {
+              "label": "stage 1A",
+              "children": [
+                {
+                  "label": "horizontal splitting /schisis",
+                  "children": [
+                    {
+                      "label": "foveal pseudocyst"
+                    }
+                  ]
+                },
+                {
+                  "label": "small yellow spot"
+                }
+              ]
+            },
+            {
+              "label": "stage 1B",
+              "children": [
+                {
+                  "label": "horizontal splitting",
+                  "children": [
+                    {
+                      "label": "break/disruption in outer fovea"
+                    }
+                  ]
+                },
+                {
+                  "label": "yellow ring"
+                }
+              ]
+            },
+            {
+              "label": "stage 2",
+              "children": [
+                {
+                  "label": "full-thickness hole",
+                  "children": [
+                    {
+                      "label": "<400 μm"
+                    },
+                    {
+                      "label": "centric/eccentric"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "stage 3",
+              "children": [
+                {
+                  "label": "partial PVD",
+                  "children": [
+                    {
+                      "label": "detached from macula"
+                    },
+                    {
+                      "label": "attached to optic disc"
+                    }
+                  ]
+                },
+                {
+                  "label": "full-thickness hole",
+                  "children": [
+                    {
+                      "label": ".>400 μm"
+                    }
+                  ]
+                },
+                {
+                  "label": "rim of elevated/thickened retina",
+                  "children": [
+                    {
+                      "label": "loss of photoreceptor outer segments in adjacent detached retinal rim"
+                    },
+                    {
+                      "label": "cystoid macular edema in adjacent parafoveal retina"
+                    },
+                    {
+                      "label": "epiretinal membrane on surface of adjacent retina",
+                      "children": [
+                        {
+                          "label": "Muller cells"
+                        },
+                        {
+                          "label": "fibrous astrocytes"
+                        },
+                        {
+                          "label": "fibroblasts with myoblastic differentiation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "stage 4",
+              "children": [
+                {
+                  "label": "complete PVD"
+                },
+                {
+                  "label": "fully developed hole"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Posterior vitreous detachment (PVD)",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "dehiscence in vitreous cortex"
+            },
+            {
+              "label": "fluid from syneretic cavity enters subhyaloid space"
+            },
+            {
+              "label": "weakening of adherence of cortical vitreous to ILM"
+            },
+            {
+              "label": "vitreous body collapses anteriorly"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "aging"
+            },
+            {
+              "label": "inflammation"
+            },
+            {
+              "label": "aphakia/pseudophakia"
+            },
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "vitreoretinal disease",
+              "children": [
+                {
+                  "label": "65% at age 65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "incidence"
+        },
+        {
+          "label": "contributes to",
+          "children": [
+            {
+              "label": "retinal tear"
+            },
+            {
+              "label": "retinal detachment"
+            },
+            {
+              "label": "vitreous hemorrhage"
+            },
+            {
+              "label": "macular hole formation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vitreous hemorrhage",
+      "children": [
+        {
+          "label": "blood clot lysis",
+          "children": [
+            {
+              "label": "3-10 days"
+            }
+          ]
+        },
+        {
+          "label": "RBC breakdown",
+          "children": [
+            {
+              "label": "denatured hemoglobin inside RBC",
+              "children": [
+                {
+                  "label": "Heinz bodies"
+                }
+              ]
+            },
+            {
+              "label": "loss of hemoglobin",
+              "children": [
+                {
+                  "label": "ghost cells",
+                  "children": [
+                    {
+                      "label": "block trabecular mesheork",
+                      "children": [
+                        {
+                          "label": "ghost cell glaucoma"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "hemoglobin spherules in vitreous"
+                },
+                {
+                  "label": "hemoglobin --> hemosiderin"
+                }
+              ]
+            },
+            {
+              "label": "phagocytosis by macrophages"
+            },
+            {
+              "label": "cholesterol refractile crystals",
+              "children": [
+                {
+                  "label": "develop from RBC membranes"
+                },
+                {
+                  "label": "\"synchesis scintillans\""
+                },
+                {
+                  "label": "surrounding giant cell reaction"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Rhegmatogenous retinal detachment",
+      "children": [
+        {
+          "label": "retinal tear",
+          "children": [
+            {
+              "label": "vitreous traction on retina",
+              "children": [
+                {
+                  "label": "PVD"
+                },
+                {
+                  "label": "trauma"
+                }
+              ]
+            },
+            {
+              "label": "at site of greatest vitreoretinal adhesion",
+              "children": [
+                {
+                  "label": "vitreous base"
+                },
+                {
+                  "label": "margin of lattice degeneration"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "vitreous adhesion to flap"
+                },
+                {
+                  "label": "loss of photoreceptors under flap"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "retinal detachment",
+          "children": [
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "degeneration of outer segments of photoreceptors"
+                },
+                {
+                  "label": "loss of photoreceptors"
+                },
+                {
+                  "label": "migration of Muller cells"
+                },
+                {
+                  "label": "proliferation/migration of RPE cells"
+                },
+                {
+                  "label": "small cystic spaces",
+                  "children": [
+                    {
+                      "label": "macrocysts"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "proliferative vitreoretinopathy",
+          "children": [
+            {
+              "label": "cellular membrane formation over or under retina",
+              "children": [
+                {
+                  "label": "proliferation of",
+                  "children": [
+                    {
+                      "label": "RPE cells"
+                    },
+                    {
+                      "label": "glial cells",
+                      "children": [
+                        {
+                          "label": "Muller cells"
+                        },
+                        {
+                          "label": "fibrous astrocytes"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "macrophages"
+                    },
+                    {
+                      "label": "fibroblasts"
+                    },
+                    {
+                      "label": "myofibroblasts"
+                    },
+                    {
+                      "label": "+- hyalocytes"
+                    }
+                  ]
+                },
+                {
+                  "label": "growth factors/cytokines"
+                },
+                {
+                  "label": "integrins"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vitreous amyloidosis",
+      "children": [
+        {
+          "label": "protein fibrils",
+          "children": [
+            {
+              "label": "nonbranching"
+            },
+            {
+              "label": "variable length"
+            },
+            {
+              "label": "diameter = 75-100 Ao"
+            },
+            {
+              "label": "ß-pleated sheet",
+              "children": [
+                {
+                  "label": "Congo red staining"
+                },
+                {
+                  "label": "birefringence in polarized light"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "source",
+          "children": [
+            {
+              "label": "transthyretin (prealbumin)",
+              "children": [
+                {
+                  "label": "blood protein",
+                  "children": [
+                    {
+                      "label": "crosses blood-retina barrier",
+                      "children": [
+                        {
+                          "label": "RPE cells"
+                        },
+                        {
+                          "label": "retinal vessel walls"
+                        },
+                        {
+                          "label": "vitreous"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "familial amyloid polyneuropathy (FAP) types I & II",
+          "children": [
+            {
+              "label": "vitreous opacities"
+            },
+            {
+              "label": "perivascular infiltrates"
+            },
+            {
+              "label": "peripheral neuropathy"
+            },
+            {
+              "label": "cardiomyopathy"
+            },
+            {
+              "label": "carpal tunnel syndrome"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.10.2. Vitreous (II) - Degenerations.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 315,
+      "connector_rejected": 14,
+      "connector_edges": 204,
+      "connector_width": 1.162,
+      "text_labels": 153,
+      "tree_nodes": 153,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6476,
+      "root_font_size": 3.874,
+      "warnings": []
+    }
+  }
+}

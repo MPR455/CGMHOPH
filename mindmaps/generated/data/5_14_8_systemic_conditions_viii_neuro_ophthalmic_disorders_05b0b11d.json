@@ -1,0 +1,202 @@
+{
+  "label": "5.14.8. Systemic Conditions (VIII): Neuro-Ophthalmic Disorders Associated With Pregnancy",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "conditions occurring with greater frequency/ exacerbated during pregnancy (or postpartum period)",
+          "children": [
+            {
+              "label": "cerebral venous thrombosis"
+            },
+            {
+              "label": "posterior reversible encephalopathy syndrome (PRES)"
+            },
+            {
+              "label": "pituitary macroadenomas",
+              "children": [
+                {
+                  "label": "pituitary apoplexy"
+                },
+                {
+                  "label": "lymphocytic hypophysitis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "tumors that undergo expansion during pregnancy",
+          "children": [
+            {
+              "label": "meningiomas"
+            },
+            {
+              "label": "orbital hemangiomas"
+            },
+            {
+              "label": "choroidal hemangiomas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lymphocytic Hypophysitis",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "autoimmune inflammation of the pituitary gland",
+          "children": [
+            {
+              "label": "lymphocytic infiltrate",
+              "children": [
+                {
+                  "label": "can heal with minimal sequelae or progress to fibrosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "various degrees of pituitary dysfunction",
+              "children": [
+                {
+                  "label": "± permanent hypopituitarism"
+                }
+              ]
+            },
+            {
+              "label": "acute-onset diabetes insipidus"
+            },
+            {
+              "label": "chiasmal visual field defects"
+            },
+            {
+              "label": "may mimic a pituitary tumor"
+            },
+            {
+              "label": "diagnosis should be considered if these symptoms and signs occur during pregnancy"
+            }
+          ]
+        },
+        {
+          "label": "imaging/endocrine testing are not specific"
+        },
+        {
+          "label": "surgical treatment if vision is compromised"
+        }
+      ]
+    },
+    {
+      "label": "Posterior Reversible Encephalopathy Syndrome",
+      "children": [
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "headache"
+            },
+            {
+              "label": "altered mental status"
+            },
+            {
+              "label": "seizures"
+            },
+            {
+              "label": "visual disturbances",
+              "children": [
+                {
+                  "label": "transient visual loss"
+                },
+                {
+                  "label": "scotomata"
+                },
+                {
+                  "label": "photopsias"
+                },
+                {
+                  "label": "dimming of vision"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "MRI",
+          "children": [
+            {
+              "label": "edema involving the white matter of the cerebral posterior regions",
+              "children": [
+                {
+                  "label": "especially parieto-occipital lobes"
+                },
+                {
+                  "label": "± frontal and temporal lobes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "acute hypertension"
+            },
+            {
+              "label": "preeclampsia/eclampsia"
+            },
+            {
+              "label": "immunosuppressive drugs",
+              "children": [
+                {
+                  "label": "cyclosporine"
+                },
+                {
+                  "label": "tacrolimus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prognosis",
+          "children": [
+            {
+              "label": "abnormalities visible on MRI are reversible"
+            },
+            {
+              "label": "visual prognosis is usually excellent"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.14.8. Systemic Conditions (VIII) - Neuro-Ophthalmic Disorders Associated With Pregnancy.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 83,
+      "connector_rejected": 3,
+      "connector_edges": 63,
+      "connector_width": 1.239,
+      "text_labels": 49,
+      "tree_nodes": 49,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.759,
+      "root_font_size": 4.338,
+      "warnings": []
+    }
+  }
+}

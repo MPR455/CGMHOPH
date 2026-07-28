@@ -1,0 +1,381 @@
+{
+  "label": "8.3.10. Systemic Conditions Associated With Ocular Surface Disorders (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Vitamin A Deficiency",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "20,000–100,000 new cases of blindness worldwide/year"
+            },
+            {
+              "label": "malnourished infants and babies born to vitamin A–deficient mothers",
+              "children": [
+                {
+                  "label": "especially infants who have another biological stressor, such as measles or diarrhea"
+                }
+              ]
+            },
+            {
+              "label": "superficial concurrent infections further predispose to keratomalacia and blindness",
+              "children": [
+                {
+                  "label": "herpes simplex"
+                },
+                {
+                  "label": "measles"
+                },
+                {
+                  "label": "malnutrition",
+                  "children": [
+                    {
+                      "label": "bacterial agents"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "low dietary intake of vitamin A",
+              "children": [
+                {
+                  "label": "unusual self-imposed dietary practices"
+                },
+                {
+                  "label": "chronic alcoholism"
+                }
+              ]
+            },
+            {
+              "label": "decreased absorption of vitamin A",
+              "children": [
+                {
+                  "label": "lipid malabsorption",
+                  "children": [
+                    {
+                      "label": "cystic fibrosis"
+                    },
+                    {
+                      "label": "biliary cirrhosis"
+                    },
+                    {
+                      "label": "bowel resection",
+                      "children": [
+                        {
+                          "label": "gastric bypass surgery"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "loss of mucus production by goblet cells",
+              "children": [
+                {
+                  "label": "dryness of the conjunctiva and cornea (xerosis)",
+                  "children": [
+                    {
+                      "label": "Bitôt spot",
+                      "children": [
+                        {
+                          "label": "superficial foamy, gray triangular area on bulbar conjunctiva in palpebral aperture",
+                          "children": [
+                            {
+                              "label": "keratinized epithelium"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "histopathology",
+                          "children": [
+                            {
+                              "label": "inflammatory cells"
+                            },
+                            {
+                              "label": "debris"
+                            },
+                            {
+                              "label": "Corynebacterium xerosis bacilli",
+                              "children": [
+                                {
+                                  "label": "metabolize the debris, producing the foamy appearance"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "corneal ulcers and scars",
+              "children": [
+                {
+                  "label": "diffuse corneal necrosis (keratomalacia)"
+                }
+              ]
+            },
+            {
+              "label": "3 stages",
+              "children": [
+                {
+                  "label": "conjunctival xerosis, without (X1A) or with (X1B) Bitôt spots"
+                },
+                {
+                  "label": "corneal xerosis (X2)"
+                },
+                {
+                  "label": "corneal ulceration, with keratomalacia involving <1/3 (X3A) or >1/3 (X3B) of the corneal surface"
+                }
+              ]
+            },
+            {
+              "label": "similar changes in gastrointestinal, genitourinary, and respiratory tracts"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "medical emergency",
+              "children": [
+                {
+                  "label": "untreated mortality rate of 50%"
+                }
+              ]
+            },
+            {
+              "label": "oral or parenteral vitamin A"
+            },
+            {
+              "label": "protein-calorie supplementation",
+              "children": [
+                {
+                  "label": "malabsorption may prevent oral administration from being effective in patients with acute vitamin A deficiency"
+                }
+              ]
+            },
+            {
+              "label": "identification and proper treatment of underlying causes"
+            },
+            {
+              "label": "ocular",
+              "children": [
+                {
+                  "label": "corneal lubrication"
+                },
+                {
+                  "label": "prevention of secondary infection and corneal melting"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Xeroderma Pigmentosum",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "recessively transmitted"
+        },
+        {
+          "label": "impaired ability to repair sunlight-induced damage to DNA"
+        },
+        {
+          "label": "skin findings",
+          "children": [
+            {
+              "label": "exposed skin develops focal hyperpigmentation, atrophy, actinic keratosis, and telangiectasia",
+              "children": [
+                {
+                  "label": "first or second decade of life"
+                }
+              ]
+            },
+            {
+              "label": "cutaneous neoplasms",
+              "children": [
+                {
+                  "label": "squamous cell carcinoma"
+                },
+                {
+                  "label": "basal cell carcinoma"
+                },
+                {
+                  "label": "melanoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ophthalmic manifestations",
+          "children": [
+            {
+              "label": "signs and symptoms of KCS",
+              "children": [
+                {
+                  "label": "photophobia"
+                },
+                {
+                  "label": "tearing"
+                },
+                {
+                  "label": "blepharospasm"
+                }
+              ]
+            },
+            {
+              "label": "conjunctiva",
+              "children": [
+                {
+                  "label": "dryness"
+                },
+                {
+                  "label": "inflammation"
+                },
+                {
+                  "label": "telangiectasia"
+                },
+                {
+                  "label": "hyperpigmentation"
+                },
+                {
+                  "label": "pingueculae and pterygia"
+                }
+              ]
+            },
+            {
+              "label": "cornea",
+              "children": [
+                {
+                  "label": "exposure keratitis"
+                },
+                {
+                  "label": "ulceration"
+                },
+                {
+                  "label": "neovascularization"
+                },
+                {
+                  "label": "scarring"
+                },
+                {
+                  "label": "perforation"
+                },
+                {
+                  "label": "keratoconus"
+                },
+                {
+                  "label": "band-shaped nodular corneal dystrophy"
+                },
+                {
+                  "label": "gelatinous dystrophy"
+                }
+              ]
+            },
+            {
+              "label": "eyelids",
+              "children": [
+                {
+                  "label": "atrophy",
+                  "children": [
+                    {
+                      "label": "even loss of the entire lower eyelid"
+                    }
+                  ]
+                },
+                {
+                  "label": "madarosis"
+                },
+                {
+                  "label": "trichiasis"
+                },
+                {
+                  "label": "scarring"
+                },
+                {
+                  "label": "symblepharon"
+                },
+                {
+                  "label": "entropion"
+                },
+                {
+                  "label": "ectropion",
+                  "children": [
+                    {
+                      "label": "11%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ocular neoplasms",
+              "children": [
+                {
+                  "label": "most frequently at the limbus"
+                },
+                {
+                  "label": "squamous cell carcinoma",
+                  "children": [
+                    {
+                      "label": "most common"
+                    }
+                  ]
+                },
+                {
+                  "label": "basal cell carcinoma"
+                },
+                {
+                  "label": "melanoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.3.10. Systemic Conditions Associated With Ocular Surface Disorders (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 181,
+      "connector_rejected": 3,
+      "connector_edges": 124,
+      "connector_width": 1.398,
+      "text_labels": 96,
+      "tree_nodes": 96,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6851,
+      "root_font_size": 3.962,
+      "warnings": []
+    }
+  }
+}

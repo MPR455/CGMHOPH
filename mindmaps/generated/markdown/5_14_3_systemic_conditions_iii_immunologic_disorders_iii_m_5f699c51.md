@@ -1,0 +1,128 @@
+---
+title: "5.14.3. Systemic Conditions (III): Immunologic Disorders (III): Multiple Sclerosis (II)"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.14.3. Systemic Conditions (III) - Immunologic Disorders (III) - Multiple Sclerosis (II).pdf"
+---
+
+# 5.14.3. Systemic Conditions (III): Immunologic Disorders (III): Multiple Sclerosis (II)
+
+## Hierarchy
+
+- Chiasmal and retrochiasmal abnormalities
+  - white matter within the optic chiasm, optic tracts, and optic radiations is frequently involved
+    - 13.2% after 1 year of follow-up
+    - recovery pattern similar to that of optic neuritis
+- Ocular motility disturbances
+  - symptoms
+    - diplopia
+    - blurred vision
+    - oscillopsia
+  - localized to supranuclear, nuclear, and fascicular portions of ocular motor system
+  - bilateral internuclear ophthalmoplegia
+    - exotropia in primary position
+    - bilaterally impaired adduction
+    - wall-eyed, bilateral internuclear ophthalmoplegia, WEBINO
+      - highly suggestive of MS < 50 years
+  - horizontal or vertical gaze paralysis
+    - complete or partial
+  - skew deviation
+    - vertical misalignment not attributable to single nerve or muscle dysfunction
+  - isolated ocular motor cranial nerve palsy
+    - most likely reflect fascicular involvement and are frequently accompanied by other brainstem findings
+      - MS must be considered in a young adult with an isolated ocular motor cranial nerve palsy and no history of trauma
+  - nystagmus
+    - horizontal, rotary, or vertical
+      - sixth nerve involvement is most common
+    - both pendular and jerk types may occur
+    - concomitant vertical and horizontal nystagmus (out of phase)
+      - circular or elliptical eye movements
+        - highly suggestive of MS
+  - common cerebellar eye findings
+    - rebound nystagmus
+    - fixation instability (macrosaccadic oscillations)
+    - saccadic dysmetria
+    - abnormal pursuit movements
+  - dorsal midbrain (Parinaud) syndrome
+- Treatment
+  - there is no cure for MS
+  - several therapies slow the disease and assist specific symptoms
+  - intravenous high-dose corticosteroids
+    - for acute exacerbations
+  - disease-modifying drugs
+    - for long-term treatment
+    - drugs
+      - Interferon beta-1b
+      - subcutaneous interferon beta-1a
+      - intramuscular interferon beta-1a
+      - glatiramer acetate
+    - reduce MS exacerbations by ≈1/3
+    - show positive effect on MRI changes in patients with relapsing-remitting disease
+    - early diagnosis and therapy are advantageous
+      - disease-modifying injectable drugs
+        - delay the development of clinically definite MS
+        - ± reduce risk of disability progression compared with placebo
+    - adverse effects
+      - interferon
+        - injection site reactions
+        - flulike symptoms
+        - abnormal results for blood count or liver function tests
+      - glatiramer acetate
+        - injection site reactions
+        - lipoatrophy
+        - immediate postinjection reactions
+    - should be managed by specialists
+  - mitoxantrone
+    - for worsening forms of relapsing-remitting and secondary progressive MS
+  - fingolimod
+    - once-daily oral medication
+    - for relapsing MS
+    - associated with risks including
+      - cardiac symptoms
+        - cystoid macular edema
+          - 0.4%
+      - hepatic toxicity
+  - natalizumab
+    - recombinant monoclonal antibody
+      - increased susceptibility to serious viral infections
+    - prevents transmigration of leukocytes from the vasculature across the endothelium into the CNS
+    - liver damage
+      - associated with progressive multifocal leukoencephalopathy (viral infection)
+        - ≤ 1.8 cases per 1000 patients
+  - additional drugs
+    - low-dose oral methotrexate
+    - pulsed corticosteroids
+    - cyclophosphamide
+  - these drugs should be used with caution by physicians experienced in MS therapy.
+  - references
+- Laboratory evaluation
+  - MS is a clinical diagnosis
+  - CSF in patients with definite MS is abnormal in >90%
+    - elevation of the IgG/albumin index
+      - elevation of immunoglobulin G (IgG)
+    - oligoclonal IgG bands
+      - in CSF but not in serum
+- Neuroimaging
+  - MRI with fluid-attenuated inversion recovery (FLAIR) sequencing + gadolinium
+    - neuroimaging study of choice
+      - none of these findings is specific for demyelinating disease
+  - sensitive for the identification of white matter plaques
+  - far superior to CT scan for visualizing the posterior fossa and spinal cord
+  - shows multiple lesions in
+    - 66%–76% of patients with suspected MS
+      - 85%–95% of patients with clinically definite MS
+  - MRI findings are not specific for MS
+  - lesions fluctuate over time
+  - lesions most consistent with MS
+    - multifocal
+    - periventricular
+    - ovoid
+  - active lesions will enhance with gadolinium- DTPA
+  - hypointense regions on postcontrast T1- weighted scans (black holes)
+    - marker of progressive disease
+  - symptomatic optic neuritis
+    - best visualized on MRI with fat-suppression and gadolinium
+- Diagnosis of multiple sclerosis
+  - modified McDonald criteria
+    - based on the combination of clinical history and presentation along with neuroradiologic imaging, with or without CSF abnormality or an abnormal visual evoked response
+  - recurrent optic neuritis, in the absence of other clinical or laboratory manifestations, is not sufficient for diagnosis of MS

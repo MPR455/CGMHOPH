@@ -1,0 +1,268 @@
+{
+  "label": "5.11.2. Eyelid or Facial Abnormalities (II): Ptosis (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Apraxia of Eyelid Opening",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "unilateral or bilateral ptosis"
+            },
+            {
+              "label": "inability to voluntarily open the eyelids"
+            },
+            {
+              "label": "facial grimacing",
+              "children": [
+                {
+                  "label": "frontalis contraction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "supranuclear origin",
+          "children": [
+            {
+              "label": "extrapyramidal disease",
+              "children": [
+                {
+                  "label": "Parkinson disease"
+                },
+                {
+                  "label": "multiple system atrophy"
+                },
+                {
+                  "label": "Huntington disease"
+                },
+                {
+                  "label": "Wilson disease"
+                },
+                {
+                  "label": "bilateral frontal lobe infarcts",
+                  "children": [
+                    {
+                      "label": "progressive supranuclear palsy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "essential blepharospasm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Acquired Ptosis",
+      "children": [
+        {
+          "label": "See Table 11-1"
+        },
+        {
+          "label": "single central nucleus innervates both levator palpebrae muscles"
+        },
+        {
+          "label": "Neurogenic ptosis",
+          "children": [
+            {
+              "label": "bilateral ptosis",
+              "children": [
+                {
+                  "label": "may be the only manifestation of a nuclear third nerve palsy"
+                }
+              ]
+            },
+            {
+              "label": "associated abnormalities in pupillary size and extraocular movements"
+            }
+          ]
+        },
+        {
+          "label": "Cerebral ptosis",
+          "children": [
+            {
+              "label": "lesion of the cerebral (typically right) hemisphere"
+            },
+            {
+              "label": "bilateral or unilateral"
+            },
+            {
+              "label": "transient"
+            }
+          ]
+        },
+        {
+          "label": "Systemic disorders",
+          "children": [
+            {
+              "label": "myasthenia gravis"
+            },
+            {
+              "label": "chronic progressive external ophthalmoplegia"
+            },
+            {
+              "label": "oculopharyngeal dystrophy"
+            },
+            {
+              "label": "myotonic dystrophy"
+            },
+            {
+              "label": "botulism",
+              "children": [
+                {
+                  "label": "bilateral ptosis"
+                },
+                {
+                  "label": "poorly reactive pupils"
+                },
+                {
+                  "label": "ophthalmoplegia"
+                },
+                {
+                  "label": "facial paralysis"
+                },
+                {
+                  "label": "generalized proximal muscle weakness"
+                }
+              ]
+            },
+            {
+              "label": "Miller Fisher syndrome (variant of Guillain- Barré syndrome)",
+              "children": [
+                {
+                  "label": "facial diplegia"
+                },
+                {
+                  "label": "bilateral ptosis"
+                },
+                {
+                  "label": "ophthalmoplegia"
+                },
+                {
+                  "label": "areflexia"
+                },
+                {
+                  "label": "ataxia"
+                },
+                {
+                  "label": "respiratory and swallowing difficulties"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "long-term use of steroid eyedrops",
+          "children": [
+            {
+              "label": "localized steroid-induced myopathy of the levator muscle",
+              "children": [
+                {
+                  "label": "ptosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "posterior sub-Tenon steroid injections"
+        },
+        {
+          "label": "Levator aponeurotic defects",
+          "children": [
+            {
+              "label": "the most frequent cause of acquired ptosis"
+            },
+            {
+              "label": "levator function is usually normal"
+            },
+            {
+              "label": "stretching, dehiscence, or disinsertion of the levator aponeurosis"
+            },
+            {
+              "label": "frequent eye rubbing"
+            },
+            {
+              "label": "prolonged contact lens use"
+            },
+            {
+              "label": "intraocular surgery",
+              "children": [
+                {
+                  "label": "eyelid speculum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Traumatic and mechanical",
+          "children": [
+            {
+              "label": "generally evident from inspection of the eyelids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pseudoptosis",
+      "children": [
+        {
+          "label": "brow ptosis"
+        },
+        {
+          "label": "dermatochalasis"
+        },
+        {
+          "label": "eyelids inadequately supported by the globe",
+          "children": [
+            {
+              "label": "microphthalmos"
+            },
+            {
+              "label": "phthisis bulbi"
+            }
+          ]
+        },
+        {
+          "label": "hypotropia"
+        },
+        {
+          "label": "contralateral lid retraction"
+        }
+      ]
+    },
+    {
+      "label": "high eyelid crease"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.11.2. Eyelid or Facial Abnormalities (II) - Ptosis (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 116,
+      "connector_rejected": 4,
+      "connector_edges": 90,
+      "connector_width": 1.224,
+      "text_labels": 69,
+      "tree_nodes": 69,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.7759,
+      "root_font_size": 4.282,
+      "warnings": []
+    }
+  }
+}

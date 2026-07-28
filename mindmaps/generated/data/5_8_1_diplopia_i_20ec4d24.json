@@ -1,0 +1,439 @@
+{
+  "label": "5.8.1. Diplopia (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Localization",
+      "children": [
+        {
+          "label": "“wiring diagram” approach",
+          "children": [
+            {
+              "label": "conceptualize the anatomical pathway of the cranial nerve or nerves that are assumed to be involved"
+            }
+          ]
+        },
+        {
+          "label": "in general, a lesion involving the cranial nerve nucleus or fascicle will cause neurologic signs other than ophthalmoparesis",
+          "children": [
+            {
+              "label": "isolated cranial neuropathies secondary to central lesions are the exception and not the rule!"
+            }
+          ]
+        },
+        {
+          "label": "attempts at neural localization may fail or give false results in the presence of diffuse disease"
+        },
+        {
+          "label": "not helpful in a clinical syndrome such as Wernicke encephalopathy"
+        }
+      ]
+    },
+    {
+      "label": "History",
+      "children": [
+        {
+          "label": "patient may report",
+          "children": [
+            {
+              "label": "double vision"
+            },
+            {
+              "label": "“blurred vision”"
+            },
+            {
+              "label": "closing either eye eliminates the visual disturbance"
+            }
+          ]
+        },
+        {
+          "label": "important questions",
+          "children": [
+            {
+              "label": "does the double vision resolve when either eye is covered?",
+              "children": [
+                {
+                  "label": "monocular vs binocular diplopia"
+                }
+              ]
+            },
+            {
+              "label": "is the double vision the same in all fields of gaze (comitant), or does it vary with gaze direction (incomitant)?"
+            },
+            {
+              "label": "is the double vision horizontal, vertical, oblique, or torsional?"
+            },
+            {
+              "label": "to what extent is diplopia constant, intermittent, or variable?"
+            }
+          ]
+        },
+        {
+          "label": "other questions",
+          "children": [
+            {
+              "label": "is double vision more bothersome with far or with near fixation?"
+            },
+            {
+              "label": "head/eye pain"
+            },
+            {
+              "label": "numbness"
+            },
+            {
+              "label": "eye/eyelid swelling or redness"
+            },
+            {
+              "label": "other neurologic symptoms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Comitant and Incomitant Deviations",
+      "children": [
+        {
+          "label": "comitant deviation",
+          "children": [
+            {
+              "label": "congenital or early-onset strabismus"
+            },
+            {
+              "label": "no diplopia",
+              "children": [
+                {
+                  "label": "suppression!"
+                },
+                {
+                  "label": "may experience diplopia later in life if ocular misalignment changes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "incomitant deviation",
+          "children": [
+            {
+              "label": "most frequently acquired"
+            },
+            {
+              "label": "congenital incomitant deviations",
+              "children": [
+                {
+                  "label": "e.g. overaction of the inferior oblique muscle"
+                },
+                {
+                  "label": "typically do not produce diplopia"
+                }
+              ]
+            },
+            {
+              "label": "usually causes diplopia",
+              "children": [
+                {
+                  "label": "if deviation is very small, fusional amplitudes may eliminate the diplopia"
+                },
+                {
+                  "label": "small misalignments may produce blurred vision rather than obvious diplopia"
+                },
+                {
+                  "label": "patients with subnormal visual acuity may not recognize diplopia"
+                }
+              ]
+            },
+            {
+              "label": "an incomitant deviation may become comitant with time",
+              "children": [
+                {
+                  "label": "“spread of comitance”"
+                },
+                {
+                  "label": "may occur with either a restrictive or paretic incomitant deviation",
+                  "children": [
+                    {
+                      "label": "especially likely with a fourth nerve palsy"
+                    }
+                  ]
+                },
+                {
+                  "label": "gradual recalibration of the innervation to yoke muscles of each eye",
+                  "children": [
+                    {
+                      "label": "probably mediated at a cerebellar level"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Physical Examination",
+      "children": [
+        {
+          "label": "ocular redness/swelling"
+        },
+        {
+          "label": "proptosis"
+        },
+        {
+          "label": "consistent head tilt or head turn",
+          "children": [
+            {
+              "label": "evidence of chronicity may exist in old photographs"
+            }
+          ]
+        },
+        {
+          "label": "ductions",
+          "children": [
+            {
+              "label": "abnormal ductions can often be recognized by gross observation"
+            }
+          ]
+        },
+        {
+          "label": "versions",
+          "children": [
+            {
+              "label": "alternating cross-cover test",
+              "children": [
+                {
+                  "label": "9 standard positions of gaze",
+                  "children": [
+                    {
+                      "label": "comitant vs incomitant",
+                      "children": [
+                        {
+                          "label": "comitant misalignment",
+                          "children": [
+                            {
+                              "label": "congenital strabismus"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "incomitant misalignment",
+                          "children": [
+                            {
+                              "label": "acquired disorder"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "compare near and far fixation in primary position and downgaze"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "red Maddox rod",
+              "children": [
+                {
+                  "label": "red Maddox rod in front of the right eye"
+                },
+                {
+                  "label": "left eye views the fixation light"
+                },
+                {
+                  "label": "patients with phoria may report misalignment of the visual axes",
+                  "children": [
+                    {
+                      "label": "combine Maddox rod tests with the more objective results of alternate prism cover test"
+                    }
+                  ]
+                },
+                {
+                  "label": "sensitive method of obtaining quantitative information about the degree and pattern of ocular misalignment"
+                }
+              ]
+            },
+            {
+              "label": "double Maddox rod test",
+              "children": [
+                {
+                  "label": "to identify/quantify torsional misalignment when vertical diplopia is present"
+                },
+                {
+                  "label": "red Maddox rod in front of the right eye"
+                },
+                {
+                  "label": "white Maddox rod in front of the left"
+                },
+                {
+                  "label": "both rods are aligned vertically"
+                },
+                {
+                  "label": "if one of the lines is tilted, 1 Maddox rod is rotated in the appropriate direction to quantify the amount of torsional misalignment"
+                }
+              ]
+            },
+            {
+              "label": "qualitative method for detecting relative cyclotropia",
+              "children": [
+                {
+                  "label": "metal pointer or other horizontal line"
+                },
+                {
+                  "label": "base-down prism is placed over 1 eye",
+                  "children": [
+                    {
+                      "label": "2 vertically displaced lines are visible"
+                    }
+                  ]
+                },
+                {
+                  "label": "fourth nerve palsy is typically associated with convergence of the lines toward the side of the palsy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differentiating Paretic From Restrictive Etiologies of Diplopia",
+      "children": [
+        {
+          "label": "suggestive of restrictive etiology",
+          "children": [
+            {
+              "label": "proptosis"
+            },
+            {
+              "label": "enophthalmos"
+            },
+            {
+              "label": "eye surgery"
+            },
+            {
+              "label": "thyroid eye disease",
+              "children": [
+                {
+                  "label": "most common causes of restrictive strabismus"
+                }
+              ]
+            },
+            {
+              "label": "orbital trauma"
+            }
+          ]
+        },
+        {
+          "label": "patients may have both neural and restrictive components, especially after trauma"
+        },
+        {
+          "label": "saccadic speed",
+          "children": [
+            {
+              "label": "paretic conditions reduce the saccadic velocity",
+              "children": [
+                {
+                  "label": "restrictive conditions do no"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "forced duction test",
+          "children": [
+            {
+              "label": "restrictive process produces a mechanical limitation",
+              "children": [
+                {
+                  "label": "can often be felt by an examiner"
+                }
+              ]
+            },
+            {
+              "label": "chronic neural lesions may also, rarely, cause mechanical limitation",
+              "children": [
+                {
+                  "label": "false-positive result"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "measuring intraocular pressure in primary position and in upgaze",
+          "children": [
+            {
+              "label": "increase of ≥5 mm Hg suggests restrictive etiology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Monocular Diplopia",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "abnormalities of the refractive media",
+              "children": [
+                {
+                  "label": "uncorrected astigmatism"
+                },
+                {
+                  "label": "corneal irregularities",
+                  "children": [
+                    {
+                      "label": "keratoconus"
+                    }
+                  ]
+                },
+                {
+                  "label": "tear film abnormalities"
+                },
+                {
+                  "label": "cataract"
+                },
+                {
+                  "label": "improves with pinhole"
+                }
+              ]
+            },
+            {
+              "label": "maculopathy with retinal distortion"
+            }
+          ]
+        },
+        {
+          "label": "binocular diplopia can be relieved by closing either eye"
+        },
+        {
+          "label": "demonstration of monocular diplopia obviates the need for a neurologic workup"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.8.1. Diplopia (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 195,
+      "connector_rejected": 7,
+      "connector_edges": 136,
+      "connector_width": 0.963,
+      "text_labels": 110,
+      "tree_nodes": 110,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6974,
+      "root_font_size": 3.37,
+      "warnings": []
+    }
+  }
+}

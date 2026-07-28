@@ -1,0 +1,181 @@
+{
+  "label": "9.5.4. Clinical approach to uveitis (III): Differential Diagnosis & Epidemiology",
+  "root": true,
+  "children": [
+    {
+      "label": "Epidemiology of Uveitis",
+      "children": [
+        {
+          "label": "10% of all blindness cases in the US",
+          "children": [
+            {
+              "label": "blindness attributable to uveitis",
+              "children": [
+                {
+                  "label": "15 new cases/100,000 persons/year"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "epidemiologic study of uveitis in northern California",
+          "children": [
+            {
+              "label": "incidence of 52.4/100,000 person-years",
+              "children": [
+                {
+                  "label": "3x higher than previously reported in studies from the United States"
+                }
+              ]
+            },
+            {
+              "label": "incidence/prevalence lowest in pediatric age group",
+              "children": [
+                {
+                  "label": "30/100,000"
+                }
+              ]
+            },
+            {
+              "label": "incidence/prevalence highest >65 years",
+              "children": [
+                {
+                  "label": "151.3/100,000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "most cases are chronic and bilateral",
+          "children": [
+            {
+              "label": "females are slightly more commonly affected"
+            },
+            {
+              "label": "carry significant complication rates"
+            }
+          ]
+        },
+        {
+          "label": "anterior involvement>panuveitis>posterior uveitis>intermediate uveitis"
+        },
+        {
+          "label": "See Table 5-11",
+          "children": [
+            {
+              "label": "university/referral-based studies overestimate the prevalence of intermediate and posterior uveitis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis of Uveitic Entities",
+      "children": [
+        {
+          "label": "infectious",
+          "children": [
+            {
+              "label": "viruses, bacteria, fungi, protozoa, and helminths"
+            }
+          ]
+        },
+        {
+          "label": "noninfectious",
+          "children": [
+            {
+              "label": "immunologic/allergic origin"
+            },
+            {
+              "label": "masquerade syndromes",
+              "children": [
+                {
+                  "label": "intraocular lymphoma"
+                },
+                {
+                  "label": "retinoblastoma"
+                },
+                {
+                  "label": "leukemia"
+                },
+                {
+                  "label": "malignant melanoma"
+                }
+              ]
+            },
+            {
+              "label": "idiopathic"
+            },
+            {
+              "label": "others",
+              "children": [
+                {
+                  "label": "juvenile xanthogranuloma"
+                },
+                {
+                  "label": "pigment dispersion syndrome"
+                },
+                {
+                  "label": "retinal detachment"
+                },
+                {
+                  "label": "retinitis pigmentosa"
+                },
+                {
+                  "label": "ocular ischemia syndrome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pattern recognition",
+          "children": [
+            {
+              "label": "frequently sufficient to establish a definitive diagnosis"
+            },
+            {
+              "label": "naming-meshing system",
+              "children": [
+                {
+                  "label": "the most likely causes are ranked based on how well the individual patient’s uveitis “fits” with the various known uveitic entities"
+                }
+              ]
+            },
+            {
+              "label": "many patients do not present with the classic signs and symptoms of a particular disease",
+              "children": [
+                {
+                  "label": "require ongoing monitoring"
+                }
+              ]
+            },
+            {
+              "label": "presentation of a disease can also be modified by previous therapy or by a delay in evaluation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.5.4. Clinical approach to uveitis (III) - Differential Diagnosis & Epidemiology.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 78,
+      "connector_rejected": 1,
+      "connector_edges": 53,
+      "connector_width": 1.177,
+      "text_labels": 42,
+      "tree_nodes": 42,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6795,
+      "root_font_size": 5.003,
+      "warnings": []
+    }
+  }
+}

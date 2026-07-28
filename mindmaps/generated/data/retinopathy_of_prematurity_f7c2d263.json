@@ -1,0 +1,466 @@
+{
+  "label": "Retinopathy of Prematurity",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "you are asked to examine a premature 4-week-old neonate"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "fundus photograph of the left eye shows extensive peripheral nonperfusion temporally with demarcation ridge and normal retinal vessels posterior to the ridge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "ROP",
+          "children": [
+            {
+              "label": "stage 2, zone 2 without plus disease",
+              "children": [
+                {
+                  "label": "indication for treatment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "Cryo-ROP study",
+              "children": [
+                {
+                  "label": "threshold disease",
+                  "children": [
+                    {
+                      "label": "5 contiguous clock hours or 8 total clock hours"
+                    },
+                    {
+                      "label": "stage 3"
+                    },
+                    {
+                      "label": "zone 1 or 2"
+                    },
+                    {
+                      "label": "plus disease"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Early Treatment for ROP study",
+              "children": [
+                {
+                  "label": "showed benefit of treating pre-threshold disease"
+                },
+                {
+                  "label": "type 1 (high risk)",
+                  "children": [
+                    {
+                      "label": "zone 1 with plus disease (any stage)"
+                    },
+                    {
+                      "label": "zone 1, stage 3 (with or without plus disease)",
+                      "children": [
+                        {
+                          "label": "treat"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "zone 2, stage 2 or 3 with plus disease"
+                    }
+                  ]
+                },
+                {
+                  "label": "type 2 (lower risk)",
+                  "children": [
+                    {
+                      "label": "follow closely"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment modalities",
+              "children": [
+                {
+                  "label": "cryotherapy"
+                },
+                {
+                  "label": "laser photocoagulation",
+                  "children": [
+                    {
+                      "label": "preferred over cryo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "ROP",
+          "children": [
+            {
+              "label": "plus disease",
+              "children": [
+                {
+                  "label": "2 quadrants of engorged & tortuous retinal veins"
+                }
+              ]
+            },
+            {
+              "label": "staging",
+              "children": [
+                {
+                  "label": "stage 1",
+                  "children": [
+                    {
+                      "label": "demarcation line"
+                    }
+                  ]
+                },
+                {
+                  "label": "stage 2",
+                  "children": [
+                    {
+                      "label": "demarcation ridge"
+                    }
+                  ]
+                },
+                {
+                  "label": "stage 3",
+                  "children": [
+                    {
+                      "label": "fibrovascular proliferation"
+                    }
+                  ]
+                },
+                {
+                  "label": "stage 4",
+                  "children": [
+                    {
+                      "label": "subtotal RD"
+                    }
+                  ]
+                },
+                {
+                  "label": "stage 5",
+                  "children": [
+                    {
+                      "label": "total RD"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "zones",
+              "children": [
+                {
+                  "label": "zone 1",
+                  "children": [
+                    {
+                      "label": "centered on optic disc with radius of 2x optic disc-fovea distance"
+                    }
+                  ]
+                },
+                {
+                  "label": "zone 2",
+                  "children": [
+                    {
+                      "label": "outside zone 1 to nasal ora"
+                    }
+                  ]
+                },
+                {
+                  "label": "zone 3",
+                  "children": [
+                    {
+                      "label": "temporal retinal crescent"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "FEVR",
+          "children": [
+            {
+              "label": "AD"
+            }
+          ]
+        },
+        {
+          "label": "incontinentia pigmenti (IP)",
+          "children": [
+            {
+              "label": "XLD",
+              "children": [
+                {
+                  "label": "girls only",
+                  "children": [
+                    {
+                      "label": "M do not survive"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "infancy",
+              "children": [
+                {
+                  "label": "blistering skin rash"
+                }
+              ]
+            },
+            {
+              "label": "early childhood",
+              "children": [
+                {
+                  "label": "grey/brown skin patches"
+                }
+              ]
+            },
+            {
+              "label": "CNS and dental abnormalities"
+            }
+          ]
+        },
+        {
+          "label": "Norrie disease",
+          "children": [
+            {
+              "label": "XLR",
+              "children": [
+                {
+                  "label": "boys only"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "myopia"
+            },
+            {
+              "label": "amblyopia"
+            },
+            {
+              "label": "strabismus"
+            },
+            {
+              "label": "glaucoma"
+            },
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "macular dragging"
+            },
+            {
+              "label": "retinal detachment"
+            },
+            {
+              "label": "permanent vision loss"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "need for long-term follow-up",
+              "children": [
+                {
+                  "label": "weekly exams until retina fully vascularized"
+                },
+                {
+                  "label": "@ 6 months"
+                },
+                {
+                  "label": "yearly"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "birth history",
+              "children": [
+                {
+                  "label": "gestational age",
+                  "children": [
+                    {
+                      "label": "<30 weeks"
+                    }
+                  ]
+                },
+                {
+                  "label": "birth weight",
+                  "children": [
+                    {
+                      "label": "<1500 gr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "neonatal history",
+              "children": [
+                {
+                  "label": "supplemental oxygen"
+                },
+                {
+                  "label": "neonatal sepsis"
+                },
+                {
+                  "label": "respiratory & GI disease"
+                }
+              ]
+            },
+            {
+              "label": "family history of FEVR"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "screening recommendations",
+              "children": [
+                {
+                  "label": "birth weight",
+                  "children": [
+                    {
+                      "label": "<1500 gr"
+                    }
+                  ]
+                },
+                {
+                  "label": "gestational age",
+                  "children": [
+                    {
+                      "label": "<30 weeks"
+                    }
+                  ]
+                },
+                {
+                  "label": ".>1500 gr or >30 weeks but with unstable clinical course"
+                }
+              ]
+            },
+            {
+              "label": "first eye exam",
+              "children": [
+                {
+                  "label": "31 weeks postmenstrual age",
+                  "children": [
+                    {
+                      "label": "whichever is later"
+                    }
+                  ]
+                },
+                {
+                  "label": "4 weeks postnatal age"
+                }
+              ]
+            },
+            {
+              "label": "iris",
+              "children": [
+                {
+                  "label": "prominent iris/pupillary vessels",
+                  "children": [
+                    {
+                      "label": "ROP",
+                      "children": [
+                        {
+                          "label": "Norrie disease"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cataract & anterior segment abnormalities"
+            },
+            {
+              "label": "dilated funduscopy with scleral depression",
+              "children": [
+                {
+                  "label": "both eyes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Retinopathy of Prematurity.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 178,
+      "connector_rejected": 2,
+      "connector_edges": 118,
+      "connector_width": 0.963,
+      "text_labels": 111,
+      "tree_nodes": 111,
+      "component_roots": 6,
+      "spatially_recovered_labels": 8,
+      "connector_match_ratio": 0.6629,
+      "root_font_size": 6.744,
+      "warnings": []
+    }
+  }
+}

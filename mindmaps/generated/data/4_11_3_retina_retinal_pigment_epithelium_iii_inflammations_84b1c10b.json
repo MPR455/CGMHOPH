@@ -1,0 +1,335 @@
+{
+  "label": "4.11.3. Retina & Retinal pigment Epithelium (III): Inflammations",
+  "root": true,
+  "children": [
+    {
+      "label": "Fungal infections",
+      "children": [
+        {
+          "label": "immunocompromised patients"
+        },
+        {
+          "label": "fungi causing retinal infection",
+          "children": [
+            {
+              "label": "candida"
+            },
+            {
+              "label": "aspergillus",
+              "children": [
+                {
+                  "label": "most common!"
+                }
+              ]
+            },
+            {
+              "label": "cryptococcus neoformans"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "necrotizing granulomatous inflammation",
+              "children": [
+                {
+                  "label": "central zone of necrosis"
+                },
+                {
+                  "label": "surrounding granulomatous inflammation"
+                },
+                {
+                  "label": "surrounding lymphocytic infiltration"
+                }
+              ]
+            },
+            {
+              "label": "GMS stain",
+              "children": [
+                {
+                  "label": "fungal hyphae"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Viral infections",
+      "children": [
+        {
+          "label": "viruses causing retinal infection",
+          "children": [
+            {
+              "label": "rubella"
+            },
+            {
+              "label": "measles"
+            },
+            {
+              "label": "HIV"
+            },
+            {
+              "label": "HSV"
+            },
+            {
+              "label": "VZV"
+            },
+            {
+              "label": "CMV"
+            }
+          ]
+        },
+        {
+          "label": "Acute retinal necrosis",
+          "children": [
+            {
+              "label": "rapidly progressive necrotizing retinitis"
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "VZV",
+                  "children": [
+                    {
+                      "label": "HSV types 1 & 2"
+                    }
+                  ]
+                },
+                {
+                  "label": "CMV",
+                  "children": [
+                    {
+                      "label": "rarely!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "patient",
+              "children": [
+                {
+                  "label": "healthy"
+                },
+                {
+                  "label": "immunocompromised"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "obliterative retinal vasculitis"
+                },
+                {
+                  "label": "retinal necrosis"
+                },
+                {
+                  "label": "inflammation",
+                  "children": [
+                    {
+                      "label": "vitreous"
+                    },
+                    {
+                      "label": "anterior chamber"
+                    }
+                  ]
+                },
+                {
+                  "label": "electron microscopy",
+                  "children": [
+                    {
+                      "label": "viral inclusions in retinal cells"
+                    }
+                  ]
+                },
+                {
+                  "label": "PCR",
+                  "children": [
+                    {
+                      "label": "vitreous"
+                    },
+                    {
+                      "label": "aqueous"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CMV retinitis",
+          "children": [
+            {
+              "label": "immunocompromised patients",
+              "children": [
+                {
+                  "label": "AIDS!"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "infects",
+                  "children": [
+                    {
+                      "label": "vascular endothelial cells",
+                      "children": [
+                        {
+                          "label": "retinal hemorrhages"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "retinal neurons",
+                      "children": [
+                        {
+                          "label": "large neurons",
+                          "children": [
+                            {
+                              "label": "cytomegalo cells",
+                              "children": [
+                                {
+                                  "label": "20-30 μm"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "large eosinophilic intranuclear/intracytoplasmic inclusion bodies"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "macrophages"
+                    }
+                  ]
+                },
+                {
+                  "label": "full thickness retinal necrosis",
+                  "children": [
+                    {
+                      "label": "thin fibroglial scar"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Toxoplasmosis",
+      "children": [
+        {
+          "label": "most common infectious retinitis"
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "reactivation of congenital toxoplasmosis"
+            },
+            {
+              "label": "acquired toxoplasmosis"
+            },
+            {
+              "label": "patient",
+              "children": [
+                {
+                  "label": "healthy"
+                },
+                {
+                  "label": "immunocompromised"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical",
+          "children": [
+            {
+              "label": "posterior uveitis/panuveitis",
+              "children": [
+                {
+                  "label": "vitritis"
+                }
+              ]
+            },
+            {
+              "label": "focal retinochoroiditis"
+            },
+            {
+              "label": "pigmented chorioretinal scar",
+              "children": [
+                {
+                  "label": "reactivated disease"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "toxoplasma organisms",
+              "children": [
+                {
+                  "label": "tachyzoites"
+                },
+                {
+                  "label": "cysts"
+                },
+                {
+                  "label": "encystment after healing"
+                }
+              ]
+            },
+            {
+              "label": "retinal necrosis"
+            },
+            {
+              "label": "infiltrate of neutrophils & lymphocytes"
+            },
+            {
+              "label": "granulomatous inflammation of inner choroid"
+            },
+            {
+              "label": "lymphocytic infiltrate of vitreous"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.11.3. Retina & Retinal pigment Epithelium (III) - Inflammations.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 166,
+      "connector_rejected": 11,
+      "connector_edges": 105,
+      "connector_width": 1.859,
+      "text_labels": 82,
+      "tree_nodes": 82,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6325,
+      "root_font_size": 6.197,
+      "warnings": []
+    }
+  }
+}

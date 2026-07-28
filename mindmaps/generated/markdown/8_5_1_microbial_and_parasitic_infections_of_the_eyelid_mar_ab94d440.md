@@ -1,0 +1,219 @@
+---
+title: "8.5.1. Microbial and Parasitic Infections of the Eyelid Margin and Conjunctiva (I)"
+category: "External Diseases"
+subcategory: ""
+source_pdf: "MindmapPDF/External Diseases/8.5.1. Microbial and Parasitic Infections of the Eyelid Margin and Conjunctiva (I).pdf"
+---
+
+# 8.5.1. Microbial and Parasitic Infections of the Eyelid Margin and Conjunctiva (I)
+
+## Hierarchy
+
+- Bacterial conjunctivitis in neonates
+  - in order of decreasing prevalence
+    - Chlamydia trachomatis
+    - S viridans
+    - S aureus
+    - H influenzae
+    - group D Streptococcus
+    - Moraxella catarrhalis
+    - E coli and other gram-negative rods
+      - least common
+    - N gonorrhoeae
+  - Neonatal gonococcal conjunctivitis
+    - rate
+      - 2% in infected mothers
+      - 1% in newborns
+    - clinical presentation
+      - bilateral conjunctival discharge
+        - 3–5 days after parturition
+        - first several days
+          - serosanguinous
+        - later
+          - purulent
+      - severe corneal complications
+      - endophthalmitis
+      - other localized gonococcal infections
+        - rhinitis
+        - proctitis
+      - disseminated gonococcal infection
+        - arthritis
+        - meningitis
+        - pneumonia
+        - sepsis
+        - death
+        - rare
+    - management
+      - infants born to mothers with active gonorrhea (even in the absence of conjunctivitis)
+        - systemic treatment
+      - nondisseminated infections
+        - single IM or IV ceftriaxone injection
+          - first-line treatment
+      - disseminated infection
+        - based on infectious disease consultation
+          - single IM or IV cefotaxime injection
+      - hourly saline irrigation of the conjunctiva
+      - corneal involvement
+        - topical erythromycin or gentamicin ointment
+          - or
+            - topical fluoroquinolone
+        - topical cycloplegia
+  - Neonatal chlamydial conjunctivitis
+    - differences with adults
+      - no follicular response in newborns
+      - mucopurulent discharge is greater in newborns
+      - pseudomembranes can develop on tarsal conjunctiva in newborns
+      - intracytoplasmic inclusions are seen in a greater percentage of Giemsa-stained conjunctival specimens in newborns
+      - infection in newborns is more likely to respond to topical medications
+    - other Chlamydia-associated infections can accompany conjunctivitis
+      - pneumonitis
+      - otitis media
+    - Lab evaluation
+      - both Gram and Giemsa stains of conjunctival scrapings are recommended in neonates
+        - C trachomatis
+        - N gonorrhoeae
+    - Treatment
+      - systemic erythromycin
+        - oral or IV
+        - X 14 days
+      - conjunctivitis responds to topical erythromycin or sulfacetamide
+- Bacterial Conjunctivitis in Children and Adults
+  - introduction
+    - less common than viral conjunctivitis
+    - sources of infection
+      - 1 infected individual’s secretions
+      - 2 patient's own nasal and sinus mucosal organisms
+        - 2.1 adult with unilateral bacterial conjunctivitis
+          - 2.1.1 examine the nasolacrimal system!
+            - 2.1.1.1 Nasolacrimal duct obstruction
+            - 2.1.1.2 dacryocystitis
+            - 2.1.1.3 canaliculitis
+    - course
+      - self-limited
+      - occasionally severe and sight-threatening
+        - N gonorrhoeae
+        - S pyogenes
+          - beta-hemolytic strep group A
+  - clinical findings
+    - conjunctival inflammation
+    - purulent discharge
+    - clinical classification of bacterial conjunctivitis
+      - see Table 5-3
+    - Acute purulent conjunctivitis
+      - <3 weeks’ duration
+      - pathogens
+        - S pneumoniae
+          - moderate purulent discharge
+          - eyelid edema
+          - chemosis
+          - conjunctival hemorrhages
+          - +- inflammatory membranes on the tarsal conjunctiva
+          - corneal ulceration
+            - rare
+        - Streptococcus viridans
+        - S aureus
+          - less purulent
+            - less severe
+        - H influenzae
+          - gram-negative coccobacilli
+          - young children
+          - adults
+            - chronic colonization with H influenzae
+              - smokers
+              - chronic bronchopulmonary disease
+          - H influenzae biotype III
+            - resembles S pneumoniae conjunctivitis
+              - no conjunctival membranes
+              - peripheral corneal epithelial ulcers/stromal infiltrates more common
+          - +- otitis media
+          - preseptal cellulitis
+          - Haemophilus meningitis
+            - ≤20% have long-term neurologic sequelae
+          - treatment
+            - polymyxin B/trimethoprim combination drops
+            - Haemophilus conjunctivitis in children requires oral antibiotic supplementation
+      - ancillary testing
+        - Gram-stained smears and culture
+          - usually not necessary
+          - indications
+            - compromised hosts
+              - neonates
+              - debilitated or immunocompromised individuals
+            - severe cases of purulent conjunctivitis
+            - lack of response to initial therapy
+          - definitive treatment should be based on the culture results
+            - smear results may be inconclusive
+          - cultures of the nose or throat
+            - associated sinusitis or pharyngitis
+            - relapsing conjunctivitis
+      - treatment
+        - severe purulent conjunctivitis
+        - observation
+          - until day 3 or 4
+            - improving
+              - continue observation
+                - most cases resolve in 2 to 7 days without treatment
+            - persistent or worsening
+              - antibiotics
+                - polymyxin B/trimethoprim combination drops
+                - aminoglycoside drops
+                - fluoroquinolone drops
+                - bacitracin ointment
+                - ciprofloxacin ointment
+                - 4–6 times daily for approximately 5–7 days
+        - Supplemental oral antibiotics
+          - 1 acute purulent conjunctivitis associated with pharyngitis
+          - 2 conjunctivitis-otitis syndrome
+          - 3 Haemophilus conjunctivitis in children
+    - Hyperacute gonococcal conjunctivitis
+      - etiology
+        - N gonorrhoeae
+        - sexually transmitted disease
+          - direct genital–eye transmission
+          - genital–hand–ocular contact
+          - explosive onset
+            - vaginal delivery
+            - very rapid progression
+      - clinical presentation
+        - massive purulent exudation
+        - severe chemosis
+        - eyelid edema
+        - marked conjunctival hyperemia
+        - keratitis
+          - 15%–40%
+          - diffuse epithelial haze
+          - epithelial defects
+          - marginal infiltrates
+          - ulcerative keratitis
+          - perforation
+        - preauricular lymphadenopathy
+          - one of the few bacterial diseases associated with preauricular LAP
+            - also B henselae
+              - also inclusion conjunctivitis
+      - laboratory evaluation
+        - culture
+          - chocolate agar
+          - thayer-martin media
+      - management
+        - systemic antibiotic therapy
+          - ceftriaxone
+            - highly effective against PRNG
+          - with corneal ulceration
+            - admit to the hospital
+              - iv ceftriaxone (1 g IV every 12 hours) x 3 days
+          - without corneal ulceration
+            - outpatient
+              - IM ceftriaxone (1 g) injection x 1
+        - topical ophthalmic antibiotics
+          - erythromycin ointment
+            - PCN allergy
+              - spectinomycin (2 g im)
+            - oral fluoroquinolones (ciprofloxacin 500 mg or ofloxacin 400 mg) orally twice daily x 5 days
+          - bacitracin ointment
+          - gentamicin ointment
+          - ciprofloxacin solution
+        - conjunctival sac irrigation with normal saline
+          - q 30-60 minutes
+        - concurrent chlamydial venereal disease
+          - ≤1/3
+        - evaluation and treatment of sex partners

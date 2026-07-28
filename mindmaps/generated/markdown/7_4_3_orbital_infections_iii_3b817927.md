@@ -1,0 +1,103 @@
+---
+title: "7.4.3. Orbital Infections (III)"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.4.3. Orbital Infections (III).pdf"
+---
+
+# 7.4.3. Orbital Infections (III)
+
+## Hierarchy
+
+- orbital tuberculosis
+  - epidemiology
+    - mostly in endemic areas of the developing world
+    - has recently reemerged as a public health threat in developed countries
+      - most often associated with
+        - HIV infection
+        - inner-city poverty
+    - majority of recent orbital cases have been in children
+  - routes of transmission
+    - hematogenous spread from a pulmonary focus
+      - most common
+    - adjacent tuberculous sinusitis
+  - clinical presentation
+    - often subclinical
+    - usually unilateral
+    - proptosis
+    - motility dysfunction
+    - bone destruction
+    - chronic draining fistulas
+    - often mistaken for an orbital malignancy
+  - diagnostic workup
+    - pathology
+      - acid-fast bacilli are difficult to detect
+      - caseation necrosis
+      - epithelioid cells
+      - langhans giant cells
+    - fine-needle aspiration biopsy with culture
+      - nuclei arranged in horseshoe-shaped pattern in cell periphery
+    - skin testing
+  - antituberculous therapy
+- aspergillosis
+  - aspergillus genus
+    - septate
+    - branching hyphae of uniform width
+    - Grocott-Gomori methenamine–silver nitrate stain
+  - acute aspergillosis
+    - immunocompromised patients
+    - fulminant sinus infection with secondary orbital invasion
+      - H&E for Zygomycetes
+    - severe periorbital pain
+    - decreased vision
+    - proptosis
+    - diagnosis is confirmed by one or more biopsies
+    - treatment
+      - aggressive surgical excision of all infected tissues
+      - antifungal therapy
+        - amphotericin B
+        - flucytosine
+        - rifampin
+        - voriconazole
+        - caspofungin
+  - chronic aspergillosis
+    - indolent infection
+    - prognosis is much better
+    - slow destruction of the sinuses and adjacent structures
+    - intraorbital and intracranial extension can occur
+      - significant morbidity
+    - chronic, localized noninvasive aspergillosis
+      - involves the sinuses
+      - immunocompetent patient
+      - may not have a history of atopic disease
+      - history of chronic sinusitis
+      - tightly packed fungus ball
+      - characterized by a lack of either inflammation or bone erosion
+  - allergic aspergillus sinusitis
+    - immunocompetent patient
+    - clinical presentation
+      - nasal polyposis
+      - chronic sinusitis
+      - 17% present first with orbital signs
+    - diagnostic workup
+      - peripheral eosinophilia
+      - elevated total immunoglobulin E (IgE)
+      - fungus-specific IgE, and IgG levels
+      - ct scanning
+        - thick allergic mucin within the sinus
+          - mottled areas of increased attenuation on nonenhanced images
+        - bone erosion and remodeling are frequently present
+          - do not signify actual tissue invasion
+      - positive skin test results for fungal antigens
+      - MRI
+        - more specific
+        - signal void areas on T2-weighted scans
+      - sinus biopsy
+        - thick, peanut butter–like or green mucus
+          - numerous eosinophils
+          - eosinophil degradation products
+          - extramucosal fungal hyphae
+    - treatment
+      - no anti-fungal
+      - endoscopic debridement of the involved sinuses
+      - systemic and topical corticosteroids

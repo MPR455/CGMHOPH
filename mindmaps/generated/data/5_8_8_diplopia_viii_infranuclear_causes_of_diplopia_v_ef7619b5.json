@@ -1,0 +1,352 @@
+{
+  "label": "5.8.8. Diplopia (VIII): Infranuclear Causes of Diplopia (V)",
+  "root": true,
+  "children": [
+    {
+      "label": "Thyroid Eye Disease (TED)",
+      "children": [
+        {
+          "label": "most common cause of restrictive strabismus in adults"
+        },
+        {
+          "label": "any extraocular muscles may be involved",
+          "children": [
+            {
+              "label": "most common",
+              "children": [
+                {
+                  "label": "inferior rectus",
+                  "children": [
+                    {
+                      "label": "ipsilateral hypotropia",
+                      "children": [
+                        {
+                          "label": "in primary position"
+                        },
+                        {
+                          "label": "increases in upgaze"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "medial rectus",
+                  "children": [
+                    {
+                      "label": "esodeviation",
+                      "children": [
+                        {
+                          "label": "increases on lateral gaze to same side"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "other findings",
+          "children": [
+            {
+              "label": "proptosis"
+            },
+            {
+              "label": "chemosis"
+            },
+            {
+              "label": "eyelid retraction"
+            },
+            {
+              "label": "eyelid lag"
+            },
+            {
+              "label": "restrictive strabismus may be the only sign"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "forced duction testing"
+            },
+            {
+              "label": "measurement of intraocular pressure in different positions of gaze"
+            },
+            {
+              "label": "neuroimaging",
+              "children": [
+                {
+                  "label": "enlargement of the bellies of the extraocular muscles, with sparing of the tendons"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Brown Syndrome",
+      "children": [
+        {
+          "label": "impaired supraduction in adduction"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "usually congenital",
+              "children": [
+                {
+                  "label": "short superior oblique tendon"
+                }
+              ]
+            },
+            {
+              "label": "can be acquired",
+              "children": [
+                {
+                  "label": "damage/trauma to the trochlea",
+                  "children": [
+                    {
+                      "label": "ipsilateral hypodeviation",
+                      "children": [
+                        {
+                          "label": "increases on upgaze to the opposite side"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "may cause a “click” that the patient can feel"
+                    }
+                  ]
+                },
+                {
+                  "label": "rheumatoid arthritis"
+                },
+                {
+                  "label": "idiopathic orbital inflammatory disease"
+                },
+                {
+                  "label": "focal metastasis to the superior oblique muscle"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Orbital Myositis",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "usually an isolated phenomenon"
+            },
+            {
+              "label": "may be part of a systemic disease",
+              "children": [
+                {
+                  "label": "Wegener granulomatosis"
+                },
+                {
+                  "label": "systemic lupus erythematosus"
+                },
+                {
+                  "label": "sarcoidosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "ophthalmoplegia"
+            },
+            {
+              "label": "pain"
+            },
+            {
+              "label": "conjunctival hyperemia",
+              "children": [
+                {
+                  "label": "If confined to the posterior orbit, the eye may appear white and quiet"
+                }
+              ]
+            },
+            {
+              "label": "chemosis"
+            },
+            {
+              "label": "± proptosis"
+            }
+          ]
+        },
+        {
+          "label": "neuroimaging",
+          "children": [
+            {
+              "label": "inflammation often extends into the orbital fat",
+              "children": [
+                {
+                  "label": "CT or MRI typically show enlargement of extraocular muscle with tendon involvement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "systemic corticosteroid therapy",
+              "children": [
+                {
+                  "label": "pain usually responds within 24 hours"
+                },
+                {
+                  "label": "diplopia may take longer to resolve"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Posttraumatic Restriction",
+      "children": [
+        {
+          "label": "blowout fractures of the orbit",
+          "children": [
+            {
+              "label": "fracture of the orbital floor with entrapment of the inferior rectus muscle",
+              "children": [
+                {
+                  "label": "mimics the pattern of vertical strabismus in TED"
+                }
+              ]
+            },
+            {
+              "label": "entrapment of the medial rectus muscle",
+              "children": [
+                {
+                  "label": "less common"
+                }
+              ]
+            },
+            {
+              "label": "paretic strabismus from swelling may occur in the acute phase"
+            }
+          ]
+        },
+        {
+          "label": "coronal CT of the orbit"
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "as swelling resolves, so may the diplopia",
+              "children": [
+                {
+                  "label": "decisions about surgery for orbital blowout fractures must be made judiciously"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Post–Cataract Extraction Restriction",
+      "children": [
+        {
+          "label": "after retrobulbar injection for cataract or other ocular surgery",
+          "children": [
+            {
+              "label": "nerve damage"
+            },
+            {
+              "label": "myotoxicity",
+              "children": [
+                {
+                  "label": "from the local anesthetic"
+                }
+              ]
+            },
+            {
+              "label": "injury to the inferior rectus or other muscles"
+            }
+          ]
+        },
+        {
+          "label": "initial paretic/myotoxic effect evolves into extraocular muscle fibrosis",
+          "children": [
+            {
+              "label": "involved eye transitions from hypertropic to hypotropic status",
+              "children": [
+                {
+                  "label": "hypotropia increasing in upgaze"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Neoplastic Involvement",
+      "children": [
+        {
+          "label": "Infiltration of the orbit by cancer",
+          "children": [
+            {
+              "label": "extraocular muscle infiltration"
+            },
+            {
+              "label": "involvement of the ocular motor cranial nerves"
+            },
+            {
+              "label": "especially from surrounding paranasal sinuses"
+            }
+          ]
+        },
+        {
+          "label": "relative enophthalmos"
+        },
+        {
+          "label": "eyelid “hang-up” on downgaze"
+        },
+        {
+          "label": "occasionally, extraocular muscles may be the site of a metastatic tumor"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.8.8. Diplopia (VIII) - Infranuclear Causes of Diplopia (V).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 139,
+      "connector_rejected": 2,
+      "connector_edges": 100,
+      "connector_width": 1.096,
+      "text_labels": 85,
+      "tree_nodes": 85,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7194,
+      "root_font_size": 3.837,
+      "warnings": []
+    }
+  }
+}

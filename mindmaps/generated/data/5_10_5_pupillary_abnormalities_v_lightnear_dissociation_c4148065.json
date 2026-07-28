@@ -1,0 +1,226 @@
+{
+  "label": "5.10.5. Pupillary Abnormalities (V): Light–Near Dissociation",
+  "root": true,
+  "children": [
+    {
+      "label": "Definition",
+      "children": [
+        {
+          "label": "near response exceeds the best pupillary constriction that bright light can produce"
+        }
+      ]
+    },
+    {
+      "label": "See Table 10-1",
+      "children": [
+        {
+          "label": "Anterior visual pathway damage (retina, optic nerve, chiasm)"
+        },
+        {
+          "label": "Short posterior ciliary nerve damage",
+          "children": [
+            {
+              "label": "panretinal photocoagulation"
+            },
+            {
+              "label": "retinal cryotherapy"
+            },
+            {
+              "label": "orbital surgery"
+            },
+            {
+              "label": "peripheral neuropathy"
+            }
+          ]
+        },
+        {
+          "label": "Aberrant reinnervation",
+          "children": [
+            {
+              "label": "Adie syndrome"
+            },
+            {
+              "label": "3rd cranial nerve reinnervation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Afferent Visual Pathway",
+      "children": [
+        {
+          "label": "bilateral"
+        },
+        {
+          "label": "optic neuropathy is the most common cause of light–near dissociation"
+        },
+        {
+          "label": "damage to only the afferent limb of the pupillary light reflex (optic nerve)"
+        }
+      ]
+    },
+    {
+      "label": "dorsal midbrain damage"
+    },
+    {
+      "label": "Aberrant Regeneration",
+      "children": [
+        {
+          "label": "light–near dissociation can result from aberrant regeneration of damaged nerves that restores the near reflex but not the light reflex"
+        },
+        {
+          "label": "tonic pupil syndrome",
+          "children": [
+            {
+              "label": "injured short ciliary nerves resprout and accommodative fibers mistakenly reinnervate the iris sphincter",
+              "children": [
+                {
+                  "label": "resembles light–near dissociation!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "misdirected growth after traumatic injury or chronic compression of the oculomotor nerve",
+          "children": [
+            {
+              "label": "aberrant regeneration of the medial rectus fibers",
+              "children": [
+                {
+                  "label": "pupillary contraction occurs during attempted adduction"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Midbrain",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "the lesion spares the more ventrally located fibers of the near reflex pathway"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "midsize pupils",
+              "children": [
+                {
+                  "label": "poor light response"
+                },
+                {
+                  "label": "preserved near response"
+                }
+              ]
+            },
+            {
+              "label": "associated findings",
+              "children": [
+                {
+                  "label": "bilateral eyelid retraction (Collier sign)"
+                },
+                {
+                  "label": "vertical gaze palsy"
+                },
+                {
+                  "label": "accommodative paresis"
+                },
+                {
+                  "label": "convergence-retraction nystagmus (Parinaud syndrome)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Argyll Robertson pupil",
+          "children": [
+            {
+              "label": "tertiary syphilis involving the central nervous system"
+            },
+            {
+              "label": "small pupils (<2 mm)",
+              "children": [
+                {
+                  "label": "often irregular"
+                },
+                {
+                  "label": "do not react to light",
+                  "children": [
+                    {
+                      "label": "this feature distinguishes Argyll Robertson pupils from bilateral chronic tonic pupils"
+                    }
+                  ]
+                },
+                {
+                  "label": "near response and subsequent redilation are normal and brisk"
+                },
+                {
+                  "label": "dilation is poor after instillation of mydriatic eyedrops"
+                }
+              ]
+            },
+            {
+              "label": "iris atrophy",
+              "children": [
+                {
+                  "label": "portions of the iris transilluminate"
+                }
+              ]
+            },
+            {
+              "label": "serologic tests for syphilis"
+            }
+          ]
+        },
+        {
+          "label": "Argyll Robertson–like pupils",
+          "children": [
+            {
+              "label": "bilateral tonic pupils (chronic)"
+            },
+            {
+              "label": "diabetes mellitus"
+            },
+            {
+              "label": "chronic alcoholism"
+            },
+            {
+              "label": "encephalitis"
+            },
+            {
+              "label": "after panretinal photocoagulation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.10.5. Pupillary Abnormalities (V) - Light–Near Dissociation.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 79,
+      "connector_rejected": 0,
+      "connector_edges": 61,
+      "connector_width": 1.125,
+      "text_labels": 55,
+      "tree_nodes": 55,
+      "component_roots": 6,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.7722,
+      "root_font_size": 3.937,
+      "warnings": []
+    }
+  }
+}

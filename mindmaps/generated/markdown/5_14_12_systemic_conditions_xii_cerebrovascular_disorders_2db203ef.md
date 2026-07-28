@@ -1,0 +1,135 @@
+---
+title: "5.14.12. Systemic Conditions (XII): Cerebrovascular Disorders (IV): Cerebral Venous Thrombosis"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.14.12. Systemic Conditions (XII) - Cerebrovascular Disorders (IV) - Cerebral Venous Thrombosis.pdf"
+---
+
+# 5.14.12. Systemic Conditions (XII): Cerebrovascular Disorders (IV): Cerebral Venous Thrombosis
+
+## Hierarchy
+
+- Introduction
+  - focal neurologic symptoms and signs
+  - predisposing conditions
+    - prothrombotic conditions
+      - 21%–34%
+      - protein C deficiency
+      - protein S deficiency
+      - antiphospholipid and anticardiolipin antibodies
+      - factor V Leiden
+      - prothrombin G20210A mutation
+      - hyperhomocysteinemia
+    - other predisposing factors
+      - pregnancy
+      - oral contraceptives
+      - cancer
+      - facial infections
+      - inflammatory diseases
+  - pregnancy
+    - headaches
+      - lateral and superior sagittal sinuses are more commonly affected
+        - hematologic diseases
+    - papilledema
+      - simulate IIH
+  - thrombosis of the deep veins
+    - infarction of the thalamus or basal ganglia
+    - death can occur in 3%–15%
+  - references
+- Treatment
+  - admit in stroke unit
+  - anticoagulants
+  - fibrinolytic drugs
+  - treatments to lower intracranial pressure
+  - antiepileptic drugs
+  - steroids are not used unless required for management of underlying inflammatory disease
+- Laboratory evaluation
+  - see predisposing conditions
+- Diagnosis
+  - CT or MRI
+  - targeted venographic study
+    - magnetic resonance venography (MRV)
+    - computed tomography venography (CTV)
+    - cerebral venography
+      - cases in which clinical suspicion is high despite normal CTV or MRV
+- Superior sagittal sinus (SSS) thrombosis
+  - most commonly involved cerebral venous sinus
+  - thrombosis of anterior third of SSS
+    - symptoms are mild or absent
+  - posterior SSS thrombosis
+    - clinical picture similar to that of IIH
+      - headaches
+      - papilledema
+      - ± seizures
+      - ± motor deficits
+        - also consider (dural) AVM and lateral sinus thrombosis
+      - consider SSS thrombosis in atypical IIH patients, such as slim women and men
+- Lateral (transverse) sinus thrombosis
+  - 2 forms
+    - septic
+      - rare
+        - may result from otitis media
+    - spontaneous
+      - more common
+  - clinical presentation
+    - features of systemic infection
+    - neck pain
+      - tenderness of the ipsilateral jugular vein
+    - ± facial weakness
+      - retroauricular edema
+    - ± severe facial pain
+      - Gradenigo syndrome
+        - facial pain + sixth nerve palsy
+    - IIH-like syndrome
+      - "otitic hydrocephalus"
+      - much more likely to produce an IIH-like syndrome with increased intracranial pressure
+    - most common ophthalmic signs are papilledema and sixth nerve palsy
+- Cavernous sinus thrombosis (CST)
+  - septic form
+    - etiology
+      - infection of
+        - face
+        - spenoid or ethmoid sinus
+        - oral cavity
+        - otitis media
+          - rare
+        - orbital cellulitis
+          - rare
+    - clinical presentation
+      - systemic
+        - headache
+        - nausea
+        - vomiting
+        - somnolence
+        - fever
+        - chills
+        - tachycardia
+        - evidence of meningitis
+        - generalized sepsis
+      - ocular
+        - orbital congestion
+          - ocular signs from anterior infection (facial, dental, orbital) are initially unilateral but frequently become bilateral
+        - lacrimation
+        - conjunctival edema
+        - eyelid swelling
+        - ptosis
+        - proptosis
+        - ophthalmoplegia
+        - sixth nerve palsy
+          - the most consistent early neurologic sign
+        - corneal anesthesia
+        - facial numbness
+        - Horner syndrome
+        - venous stasis retinopathy
+    - treatment
+      - medical emergency
+        - high mortality rate
+      - antibiotics
+      - anticoagulants
+      - corticosteroids
+      - surgery
+  - aseptic form
+    - clinical or laboratory examination shows no evidence of infection
+    - pain around the eye is common
+    - anticoagulation or antiplatelet therapy
+      - orbital congestion is typically less severe

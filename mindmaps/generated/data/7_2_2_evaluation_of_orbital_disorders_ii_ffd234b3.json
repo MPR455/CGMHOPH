@@ -1,0 +1,639 @@
+{
+  "label": "7.2.2. Evaluation of Orbital Disorders (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Ultrasonography",
+      "children": [
+        {
+          "label": "B-scan ultrasonography",
+          "children": [
+            {
+              "label": "two-dimensional images"
+            },
+            {
+              "label": "clinical uses",
+              "children": [
+                {
+                  "label": "evaluating scleritis",
+                  "children": [
+                    {
+                      "label": "fluid in the sub-Tenon space"
+                    }
+                  ]
+                },
+                {
+                  "label": "localization of foreign bodies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "standardized A-scan ultrasonography",
+          "children": [
+            {
+              "label": "one-dimensional images"
+            }
+          ]
+        },
+        {
+          "label": "doppler ultrasonography",
+          "children": [
+            {
+              "label": "arterialization"
+            },
+            {
+              "label": "retrograde flow in the orbital veins",
+              "children": [
+                {
+                  "label": "dural cavernous fistula"
+                },
+                {
+                  "label": "arteriovenous malformation"
+                }
+              ]
+            },
+            {
+              "label": "vascular abnormalities associated with increased blood flow"
+            },
+            {
+              "label": "vascular tumors can be identified by",
+              "children": [
+                {
+                  "label": "active pulsation"
+                },
+                {
+                  "label": "change in size with the Valsalva maneuver (compressibility)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "limitations",
+          "children": [
+            {
+              "label": "requires specialized equipment and experienced personnel",
+              "children": [
+                {
+                  "label": "office-based equipment generally not suitable"
+                }
+              ]
+            },
+            {
+              "label": "limited value in assessing lesions of",
+              "children": [
+                {
+                  "label": "posterior orbit"
+                },
+                {
+                  "label": "sinuses"
+                },
+                {
+                  "label": "intracranial space"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Computed Tomography",
+      "children": [
+        {
+          "label": "each tissue has a density value",
+          "children": [
+            {
+              "label": "proportional to coefficient of absorption of x- rays"
+            },
+            {
+              "label": "2- or 3-dimensional images are digitally constructed from density measurements"
+            }
+          ]
+        },
+        {
+          "label": "resolution and soft-tissue contrast of CT make it the most valuable technique for evaluation of orbital lesions",
+          "children": [
+            {
+              "label": "bone"
+            },
+            {
+              "label": "soft tissue"
+            },
+            {
+              "label": "foreign bodies"
+            }
+          ]
+        },
+        {
+          "label": "bony resolution is superior to all other modalities",
+          "children": [
+            {
+              "label": "CT is the imaging technique of choice for orbital trauma and bony tumors"
+            }
+          ]
+        },
+        {
+          "label": "3-mm sections",
+          "children": [
+            {
+              "label": "for orbit",
+              "children": [
+                {
+                  "label": "fine 1.5-mm cuts can be requested"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "5-mm sections",
+          "children": [
+            {
+              "label": "for head"
+            }
+          ]
+        },
+        {
+          "label": "intravenous contrast-enhancing agent",
+          "children": [
+            {
+              "label": "tumors that are highly vascularized",
+              "children": [
+                {
+                  "label": "meningioma"
+                }
+              ]
+            },
+            {
+              "label": "tumors that have altered vascular permeability"
+            },
+            {
+              "label": "orbital abscess"
+            }
+          ]
+        },
+        {
+          "label": "planes",
+          "children": [
+            {
+              "label": "axial plane",
+              "children": [
+                {
+                  "label": "parallel to the course of the optic nerve"
+                }
+              ]
+            },
+            {
+              "label": "coronal plane",
+              "children": [
+                {
+                  "label": "showing the eye, optic nerve, and extraocular muscles in cross section"
+                }
+              ]
+            },
+            {
+              "label": "sagittal plane",
+              "children": [
+                {
+                  "label": "parallel to the nasal septum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "current CT scanners use software to reconstruct (reformat) any section in any direction"
+        },
+        {
+          "label": "spiral (helical) CT scanners",
+          "children": [
+            {
+              "label": "have multiple detector ports"
+            },
+            {
+              "label": "scanner and collecting tube move in a spiral fashion around the patient"
+            },
+            {
+              "label": "generate a continuous data set",
+              "children": [
+                {
+                  "label": "allow rapid acquisition of a larger volume of data and highly detailed reconstructions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "direct coronal scans",
+          "children": [
+            {
+              "label": "ideal for evaluation of",
+              "children": [
+                {
+                  "label": "optic nerve"
+                },
+                {
+                  "label": "extraocular muscles"
+                },
+                {
+                  "label": "bony roof and floor of the orbit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "three-dimensional CT",
+          "children": [
+            {
+              "label": "reformatting into 3-dimensional projections of the bony orbital walls",
+              "children": [
+                {
+                  "label": "to assist in preparation for craniofacial surgery or repairs of complex orbital fractures"
+                }
+              ]
+            },
+            {
+              "label": "requires thin sections",
+              "children": [
+                {
+                  "label": "additional computer time"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Comparison of CT and MRI",
+      "children": [
+        {
+          "label": "contrast agents are available to improve CT and MRI detail"
+        },
+        {
+          "label": "CT is the single most-useful orbital imaging technique",
+          "children": [
+            {
+              "label": "faster"
+            },
+            {
+              "label": "less expensive"
+            },
+            {
+              "label": "less sensitive to movement artifact"
+            },
+            {
+              "label": "provides better spatial resolution",
+              "children": [
+                {
+                  "label": "precise localization"
+                }
+              ]
+            },
+            {
+              "label": "superior to MRI for the evaluation of",
+              "children": [
+                {
+                  "label": "fractures"
+                },
+                {
+                  "label": "bone destruction"
+                },
+                {
+                  "label": "tissue calcification"
+                }
+              ]
+            },
+            {
+              "label": "in most orbital conditions, the orbital fat provides sufficient contrast to allow visualization of orbital tumors on CT"
+            }
+          ]
+        },
+        {
+          "label": "MRI",
+          "children": [
+            {
+              "label": "MRI advantages over CT",
+              "children": [
+                {
+                  "label": "better soft-tissue definition"
+                },
+                {
+                  "label": "but"
+                },
+                {
+                  "label": "better tissue contrast",
+                  "children": [
+                    {
+                      "label": "there is no artifact from the skull base bones"
+                    },
+                    {
+                      "label": "orbital apex"
+                    },
+                    {
+                      "label": "intracanalicular portion of the optic nerve"
+                    },
+                    {
+                      "label": "periorbital spaces"
+                    },
+                    {
+                      "label": "orbitocranial junction",
+                      "children": [
+                        {
+                          "label": "orbitocranial tumors"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "brain",
+                      "children": [
+                        {
+                          "label": "when the orbitocranial junction or brain is involved, CT scanning and MRI may be complementary"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "direct display of anatomical information in multiple planes",
+                  "children": [
+                    {
+                      "label": "sagittal, axial, coronal, and any oblique plane"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "MRI is contraindicated in",
+              "children": [
+                {
+                  "label": "ferromagnetic metallic foreign bodies in the orbit or periorbital soft tissue"
+                },
+                {
+                  "label": "ferromagnetic vascular clips"
+                },
+                {
+                  "label": "magnetic intravascular filters"
+                },
+                {
+                  "label": "electronic devices in the body"
+                },
+                {
+                  "label": "cardiac pacemakers"
+                },
+                {
+                  "label": "presence of such foreign material can be ruled out with plain films or CT"
+                }
+              ]
+            },
+            {
+              "label": "dental amalgam",
+              "children": [
+                {
+                  "label": "not ferromagnetic and not a contraindication to MRI"
+                },
+                {
+                  "label": "does produce artifacts and degrades the images on both MRI and CT"
+                }
+              ]
+            },
+            {
+              "label": "certain types of eye makeup can produce artifacts and should be removed"
+            },
+            {
+              "label": "bone and calcification produce low signal on MRI",
+              "children": [
+                {
+                  "label": "bony structures may be evaluated by visualization of the signal void left by the bone",
+                  "children": [
+                    {
+                      "label": "this is not possible when the bone is adjacent to structures that create a signal void",
+                      "children": [
+                        {
+                          "label": "air"
+                        },
+                        {
+                          "label": "rapidly flowing blood"
+                        },
+                        {
+                          "label": "calcification"
+                        },
+                        {
+                          "label": "dura mater"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Magnetic Resonance Imaging",
+      "children": [
+        {
+          "label": "does not employ ionizing radiation",
+          "children": [
+            {
+              "label": "no known adverse biological effects"
+            }
+          ]
+        },
+        {
+          "label": "3 physical components",
+          "children": [
+            {
+              "label": "atomic nuclei possessing an electrical charge"
+            },
+            {
+              "label": "powerful magnetic field"
+            },
+            {
+              "label": "radiofrequency (RF) waves",
+              "children": [
+                {
+                  "label": "emitted from a coil lying within the magnetic field"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "technique",
+          "children": [
+            {
+              "label": "tissue containing hydrogen atoms is placed in the magnetic field"
+            },
+            {
+              "label": "individual nuclei align themselves in the direction of the magnetic field"
+            },
+            {
+              "label": "aligned nuclei are excited by RF pulse",
+              "children": [
+                {
+                  "label": "excited nuclei align themselves against the magnetic field"
+                }
+              ]
+            },
+            {
+              "label": "RF pulse is terminated",
+              "children": [
+                {
+                  "label": "nuclei flip back to their original magnetized position",
+                  "children": [
+                    {
+                      "label": "time it takes for this realignment to occur can be measurred",
+                      "children": [
+                        {
+                          "label": "relaxation time"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "each orbital tissue has specific MR parameters",
+          "children": [
+            {
+              "label": "tissue proton density",
+              "children": [
+                {
+                  "label": "number of protons per unit volume of tissue"
+                },
+                {
+                  "label": "fat has greater proton density than bone and, therefore, greater signal intensity"
+                }
+              ]
+            },
+            {
+              "label": "relaxation times",
+              "children": [
+                {
+                  "label": "T1",
+                  "children": [
+                    {
+                      "label": "longitudinal relaxation time",
+                      "children": [
+                        {
+                          "label": "time required for the net bulk magnetization to realign itself along the original axis"
+                        },
+                        {
+                          "label": "T1-weighted images offer the best anatomical detail of the orbit"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "T2",
+                  "children": [
+                    {
+                      "label": "transverse relaxation time",
+                      "children": [
+                        {
+                          "label": "mean relaxation time based on the interaction of hydrogen nuclei within a given tissue"
+                        },
+                        {
+                          "label": "T2-weighted images have the advantage of showing methemoglobin brighter than melanin",
+                          "children": [
+                            {
+                              "label": "these substances have the same signal intensity on T1-weighted images"
+                            },
+                            {
+                              "label": "difference in brightness seen on T2 images can be helpful in differentiating melanotic lesions from hemorrhagic processes"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "gadolinium",
+          "children": [
+            {
+              "label": "paramagnetic contrast agent given intravenously"
+            },
+            {
+              "label": "allows enhancement of vascularized lesions",
+              "children": [
+                {
+                  "label": "exhibit same density as fat"
+                }
+              ]
+            },
+            {
+              "label": "enhancement of lesions with abnormal vascular permeability"
+            }
+          ]
+        },
+        {
+          "label": "fat suppression",
+          "children": [
+            {
+              "label": "to suppress the normal bright signal of fat on T1 images"
+            }
+          ]
+        },
+        {
+          "label": "FLAIR",
+          "children": [
+            {
+              "label": "fluid-attenuated inversion recovery"
+            },
+            {
+              "label": "to suppress the bright signal of CSF on T2 images"
+            }
+          ]
+        },
+        {
+          "label": "gradient echo sequences",
+          "children": [
+            {
+              "label": "reveal hemorrhage in vascular malformations",
+              "children": [
+                {
+                  "label": "might be missed on T1- and T2-weighted images !"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.2.2. Evaluation of Orbital Disorders (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 159,
+      "connector_rejected": 1,
+      "connector_edges": 156,
+      "connector_width": 0.818,
+      "text_labels": 160,
+      "tree_nodes": 160,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.9811,
+      "root_font_size": 3.478,
+      "warnings": []
+    }
+  }
+}

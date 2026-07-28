@@ -1,0 +1,843 @@
+{
+  "label": "5.4.11. Patient With Decreased Vision: Classification & Management (XI): Posterior Optic Neuropathies (IV)",
+  "root": true,
+  "children": [
+    {
+      "label": "Posterior ischemic optic neuropathy",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "diagnosis of exclusion"
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "vision loss",
+              "children": [
+                {
+                  "label": "abrupt"
+                },
+                {
+                  "label": "severe"
+                }
+              ]
+            },
+            {
+              "label": "RAPD"
+            },
+            {
+              "label": "initially normal-appearing optic disc"
+            }
+          ]
+        },
+        {
+          "label": "3 distinct scenarios",
+          "children": [
+            {
+              "label": "perioperative",
+              "children": [
+                {
+                  "label": "spine, cardiac, and head or neck procedures"
+                },
+                {
+                  "label": "bilateral"
+                },
+                {
+                  "label": "profound"
+                },
+                {
+                  "label": "multifactorial",
+                  "children": [
+                    {
+                      "label": "patient and perioperative factors"
+                    },
+                    {
+                      "label": "substantial blood loss, hypotension, and prolonged anesthesia time",
+                      "children": [
+                        {
+                          "label": "some patients with PION lost < 500 mL of blood and had systolic blood pressure >90 mm Hg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "arteritic",
+              "children": [
+                {
+                  "label": "giant cell arteritis"
+                }
+              ]
+            },
+            {
+              "label": "nonarteritic",
+              "children": [
+                {
+                  "label": "risk factors and clinical course similar to those of NAION"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "neuroimaging",
+              "children": [
+                {
+                  "label": "patients with no history of previous surgery"
+                }
+              ]
+            },
+            {
+              "label": "GCA work-up in older individuals"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "high-dose corticosteroid treatment is indicated for cases of proven GCA"
+            },
+            {
+              "label": "poor prognosis for vision recovery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Toxic or nutritional optic neuropathy",
+      "children": [
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "vision loss",
+              "children": [
+                {
+                  "label": "gradual, progressive",
+                  "children": [
+                    {
+                      "label": "more rapid onset may occur occasionally"
+                    }
+                  ]
+                },
+                {
+                  "label": "painless"
+                },
+                {
+                  "label": "bilateral and symmetric"
+                },
+                {
+                  "label": "early",
+                  "children": [
+                    {
+                      "label": "subtle depression of central visual sensitivity",
+                      "children": [
+                        {
+                          "label": "Amsler grid testing"
+                        },
+                        {
+                          "label": "perimetry testing"
+                        },
+                        {
+                          "label": "within the central 10°"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "late",
+                  "children": [
+                    {
+                      "label": "central scotoma"
+                    },
+                    {
+                      "label": "decrease in visual acuity and color vision"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "optic atrophy eventually develops"
+            },
+            {
+              "label": "mild to moderate optic disc edema",
+              "children": [
+                {
+                  "label": "rare"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "implicated medications",
+          "children": [
+            {
+              "label": "most common",
+              "children": [
+                {
+                  "label": "ethambutol"
+                },
+                {
+                  "label": "isoniazid"
+                },
+                {
+                  "label": "linezolid"
+                },
+                {
+                  "label": "chloramphenicol"
+                },
+                {
+                  "label": "hydroxyquinolines"
+                },
+                {
+                  "label": "penicillamine"
+                },
+                {
+                  "label": "antineoplastic drugs",
+                  "children": [
+                    {
+                      "label": "cisplatin"
+                    },
+                    {
+                      "label": "vincristine"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "methanol",
+              "children": [
+                {
+                  "label": "rapid onset of severe bilateral vision loss with prominent disc edema"
+                }
+              ]
+            },
+            {
+              "label": "ethylene glycol"
+            },
+            {
+              "label": "amiodarone",
+              "children": [
+                {
+                  "label": "vision loss and disc edema"
+                },
+                {
+                  "label": "features differentiating from NAION",
+                  "children": [
+                    {
+                      "label": "subacute onset"
+                    },
+                    {
+                      "label": "bilateral"
+                    },
+                    {
+                      "label": "diffuse rather than altitudinal visual field loss"
+                    },
+                    {
+                      "label": "slow resolution of optic disc edema over months"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Interferon alpha",
+              "children": [
+                {
+                  "label": "bilateral NAION"
+                }
+              ]
+            },
+            {
+              "label": "lead ingestion",
+              "children": [
+                {
+                  "label": "in children"
+                }
+              ]
+            },
+            {
+              "label": "ethanol abuse",
+              "children": [
+                {
+                  "label": "indirectly by causing malnutrition"
+                }
+              ]
+            },
+            {
+              "label": "dietary deficiencies",
+              "children": [
+                {
+                  "label": "vitamin B12"
+                },
+                {
+                  "label": "folate",
+                  "children": [
+                    {
+                      "label": "temporal optic atrophy similar to AD optic atrophy"
+                    }
+                  ]
+                },
+                {
+                  "label": "thiamine"
+                }
+              ]
+            },
+            {
+              "label": "tobacco use",
+              "children": [
+                {
+                  "label": "evidence is questionable"
+                }
+              ]
+            },
+            {
+              "label": "See Table 4-7"
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "maculopathies"
+            },
+            {
+              "label": "hereditary"
+            },
+            {
+              "label": "compressive"
+            },
+            {
+              "label": "demyelinating"
+            },
+            {
+              "label": "infiltrative",
+              "children": [
+                {
+                  "label": "optic neuropathies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "diagnosis may be difficult, particularly with vague complaints and little objective abnormality"
+            },
+            {
+              "label": "specific vitamin deficiencies are detected only infrequently on blood testing"
+            },
+            {
+              "label": "neuroimaging",
+              "children": [
+                {
+                  "label": "should be performed routinely to rule out a compressive etiology"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "stopping medication"
+            },
+            {
+              "label": "replacement of dietary deficiencies."
+            }
+          ]
+        },
+        {
+          "label": "prognosis",
+          "children": [
+            {
+              "label": "good if optic atrophy has not occurred",
+              "children": [
+                {
+                  "label": "recovery is highly variable",
+                  "children": [
+                    {
+                      "label": "occurs slowly over several months"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Optic Atrophy",
+      "children": [
+        {
+          "label": "nonspecific",
+          "children": [
+            {
+              "label": "chronic phase of any of the optic neuropathies"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "vision loss"
+            },
+            {
+              "label": "RAPD"
+            },
+            {
+              "label": "optic atrophy"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "when historical features and clinical signs do not suggest a specific cause"
+            },
+            {
+              "label": "level of optic nerve function",
+              "children": [
+                {
+                  "label": "visual acuity"
+                },
+                {
+                  "label": "color vision"
+                },
+                {
+                  "label": "perimetry testing"
+                }
+              ]
+            },
+            {
+              "label": "degree and pattern of atrophy",
+              "children": [
+                {
+                  "label": "fundus photography",
+                  "children": [
+                    {
+                      "label": "stereoscopic views"
+                    }
+                  ]
+                },
+                {
+                  "label": "retinal nerve fiber layer thickness",
+                  "children": [
+                    {
+                      "label": "optical coherence tomography"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "neuroimaging",
+              "children": [
+                {
+                  "label": "MRI of the brain and orbits",
+                  "children": [
+                    {
+                      "label": "gadolinium contrast"
+                    },
+                    {
+                      "label": "fat suppression"
+                    }
+                  ]
+                },
+                {
+                  "label": "rate of compressive lesions in patients with isolated optic atrophy",
+                  "children": [
+                    {
+                      "label": "warranted in any case without a clear cause"
+                    },
+                    {
+                      "label": "20%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "low yield in screening for",
+              "children": [
+                {
+                  "label": "syphilis"
+                },
+                {
+                  "label": "sarcoidosis"
+                },
+                {
+                  "label": "vasculitis"
+                },
+                {
+                  "label": "vitamin B12 deficiency"
+                },
+                {
+                  "label": "folate deficiency"
+                },
+                {
+                  "label": "metal toxicity"
+                },
+                {
+                  "label": "for patients without a history or findings suggestive of these specific diseases",
+                  "children": [
+                    {
+                      "label": "in the appropriate clinical or historical setting, the clinician should pursue laboratory evaluation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "observation",
+              "children": [
+                {
+                  "label": "reasonable for patients with negative test results"
+                },
+                {
+                  "label": "reassess if the condition worsens or new findings develop"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "most common"
+    },
+    {
+      "label": "Infiltrative optic neuropathy",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "granulomatous inflammation",
+              "children": [
+                {
+                  "label": "sarcoidosis"
+                },
+                {
+                  "label": "syphilis"
+                },
+                {
+                  "label": "tuberculosis"
+                },
+                {
+                  "label": "fungal infections"
+                }
+              ]
+            },
+            {
+              "label": "lymphoma"
+            },
+            {
+              "label": "metastasis to the optic nerve",
+              "children": [
+                {
+                  "label": "rare"
+                },
+                {
+                  "label": "breast or lung carcinoma"
+                }
+              ]
+            },
+            {
+              "label": "carcinomatous infiltration of the meninges at the skull base",
+              "children": [
+                {
+                  "label": "involvement of multiple cranial nerves"
+                },
+                {
+                  "label": "optic nerves involved in 15–40%"
+                }
+              ]
+            },
+            {
+              "label": "onset may precede, coincide with, or follow diagnosis of the underlying malignancy"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "progressive, often severe, vision loss",
+              "children": [
+                {
+                  "label": "progresses over days to weeks"
+                }
+              ]
+            },
+            {
+              "label": "1 or both eyes",
+              "children": [
+                {
+                  "label": "often associated with pain"
+                }
+              ]
+            },
+            {
+              "label": "± other cranial nerve involvement"
+            },
+            {
+              "label": "with retrobulbar infiltration, the optic nerve head may appear normal initially"
+            },
+            {
+              "label": "optic disc cellular infiltrate creates a swollen appearance that may be distinct from that of simple optic disc edema"
+            }
+          ]
+        },
+        {
+          "label": "evaluation",
+          "children": [
+            {
+              "label": "MRI of the brain and orbits",
+              "children": [
+                {
+                  "label": "indications",
+                  "children": [
+                    {
+                      "label": "to rule out compressive lesions"
+                    },
+                    {
+                      "label": "to confirm pachymeningeal or meningeal infiltration"
+                    }
+                  ]
+                },
+                {
+                  "label": "fat suppression"
+                },
+                {
+                  "label": "gadolinium contrast"
+                },
+                {
+                  "label": "± diffuse thickening and enhancement of the dura and the surrounding subarachnoid space"
+                },
+                {
+                  "label": "abnormalities may not be visible in the early stages"
+                }
+              ]
+            },
+            {
+              "label": "serologic testing",
+              "children": [
+                {
+                  "label": "myeloproliferative, inflammatory, and infectious disorders"
+                }
+              ]
+            },
+            {
+              "label": "CSF analysis",
+              "children": [
+                {
+                  "label": "malignant cells, elevated white blood cell count, and elevated protein level consistent with a neoplastic, infectious, or inflammatory cause"
+                },
+                {
+                  "label": "sensitivity of a single lumbar puncture is low",
+                  "children": [
+                    {
+                      "label": "repeat testing is often necessary"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "timely, correct diagnosis is essential",
+          "children": [
+            {
+              "label": "identification of associated malignancy or systemic disease may be life-saving."
+            },
+            {
+              "label": "in malignancies, palliative radiation therapy may substantially improve vision, even though the long-term prognosis is poor",
+              "children": [
+                {
+                  "label": "median survival for meningeal carcinomatosis ranges from 4–9 weeks, even with aggressive therapy"
+                }
+              ]
+            },
+            {
+              "label": "in infectious or inflammatory disorders, antimicrobial or corticosteroid therapy may partially reverse damage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Traumatic optic neuropathy",
+      "children": [
+        {
+          "label": "trauma to the head, orbit, or globe",
+          "children": [
+            {
+              "label": "direct optic nerve damage",
+              "children": [
+                {
+                  "label": "optic nerve avulsion"
+                },
+                {
+                  "label": "laceration by bone fragments"
+                },
+                {
+                  "label": "laceration by foreign bodies"
+                },
+                {
+                  "label": "compressive optic neuropathy",
+                  "children": [
+                    {
+                      "label": "intraorbital or intrasheath hemorrhage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "indirect optic nerve damage",
+              "children": [
+                {
+                  "label": "may occur with relatively minor head injury"
+                },
+                {
+                  "label": "trauma to frontal or maxillary bones",
+                  "children": [
+                    {
+                      "label": "transmitted forces damage the optic nerve at the orbital apex",
+                      "children": [
+                        {
+                          "label": "shear forces on the nerve and possibly its vascular supply at its intracanalicular tether point"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "vision loss is typically immediate and often severe",
+              "children": [
+                {
+                  "label": "24%–86% no light perception vision at presentation"
+                }
+              ]
+            },
+            {
+              "label": "RAPD"
+            },
+            {
+              "label": "optic disc usually appears normal at onset",
+              "children": [
+                {
+                  "label": "becomes atrophic within 4–8 weeks"
+                }
+              ]
+            },
+            {
+              "label": "external evidence of injury may be scarce"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "neuroimaging"
+            },
+            {
+              "label": "orbital or cranial surgery may be necessary",
+              "children": [
+                {
+                  "label": "may not affect the prognosis for the optic nerve"
+                }
+              ]
+            },
+            {
+              "label": "therapy for indirect traumatic optic neuropathy is controversial",
+              "children": [
+                {
+                  "label": "prognosis for vision recovery has been regarded as poor",
+                  "children": [
+                    {
+                      "label": "numerous reports describe spontaneous recovery of some visual function in a significant number of cases"
+                    }
+                  ]
+                },
+                {
+                  "label": "International Optic Nerve Trauma Study",
+                  "children": [
+                    {
+                      "label": "no clear benefit for intravenous corticosteroids"
+                    }
+                  ]
+                },
+                {
+                  "label": "study of more than 10,000 head-injury patients",
+                  "children": [
+                    {
+                      "label": "no clear benefit for optic canal decompression"
+                    },
+                    {
+                      "label": "high-dose corticosteroid group had a higher rate of mortality than the placebo group"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.4.11. Patient With Decreased Vision - Classification & Management (XI) - Posterior Optic Neuropathies (IV).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 404,
+      "connector_rejected": 138,
+      "connector_edges": 234,
+      "connector_width": 0.685,
+      "text_labels": 216,
+      "tree_nodes": 216,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.5792,
+      "root_font_size": 2.567,
+      "warnings": []
+    }
+  }
+}

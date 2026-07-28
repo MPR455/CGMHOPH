@@ -1,0 +1,116 @@
+---
+title: "9.7.12. Infectious Ocular Inflammatory Diseases (XII): Protozoal Uveitis (II): Toxoplasmosis (II)"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.7.12. Infectious Ocular Inflammatory Diseases (XII) - Protozoal Uveitis (II) - Toxoplasmosis (II).pdf"
+---
+
+# 9.7.12. Infectious Ocular Inflammatory Diseases (XII): Protozoal Uveitis (II): Toxoplasmosis (II)
+
+## Hierarchy
+
+- treatment
+  - aimed at
+    - shortening the duration of the parasitic replication
+    - causing more rapid cicatrization of the lesions
+    - limiting retinochoroidal scarring
+    - reducing the frequency of inflammatory recurrences
+    - little firm evidence that antimicrobial therapy alters the natural history of toxoplasmic retinochoroiditis in immunocompetent patients
+  - indications
+    - relative treatment indications
+      - lesions threatening the optic nerve or fovea
+      - decreased visual acuity
+      - lesions associated with moderate to severe vitreous inflammation
+      - lesions greater than 1 disc diameter in size
+      - persistence of disease for more than 1 month
+      - immunocompromised patients
+        - presence of multiple active lesions
+    - congenital toxoplasmosis
+    - pregnant women with recently acquired disease
+  - regimens
+    - triple therapy
+      - pyrimethamine (loading dose, 50–100 mg; treatment dose, 25–50 mg/day)
+      - sulfadiazine (treatment dose, 1 g, 4 times/day)
+        - potential adverse effects
+          - skin rash
+          - gastrointestinal intolerance
+          - crystalluria
+          - kidney stones
+          - Stevens-Johnson syndrome
+      - prednisone (treatment dose, 0.5–1 mg/kg/day)
+        - at the time of antimicrobial therapy or within 48 hours
+        - contraindications
+          - systemic corticosteroids without appropriate antimicrobial coverage
+      - folinic acid (15 mg every day)
+        - to prevent myelosuppression (leukopenia and/ or thrombocytopenia)
+          - use of long-acting periocular and intraocular corticosteroid formulations such as triamcinolone acetonide
+          - leukocyte and platelet counts should be monitored weekly
+      - x 5-6 weeks
+      - topical corticosteroids
+        - prominent anterior segment inflammation
+    - clindamycin
+      - alone
+      - in combination with other drugs
+        - “quadruple” therapy
+      - effective in managing acute lesions
+      - pseudomembranous colitis is a potential complication
+    - trimethoprim-sulfamethoxazole (treatment dose, 160 mg/800 mg twice daily) + prednisone
+      - ? better safety profile
+        - similar efficacy to standard therapy
+    - azithromycin (250 mg/day) + pyrimethamine (50 mg/day)
+      - in immunocompetent patients
+      - similar efficacy to standard therapy
+      - better tolerated with fewer adverse effects
+  - congenital toxoplasmosis in newborns
+    - pyrimethamine + sulfonamides (plus folinic acid) x 1 year
+    - consultation with a specialist in pediatric infectious diseases
+  - newly acquired toxoplasmosis during pregnancy
+    - spiramycin (treatment dose, 400 mg 3 times daily)
+      - no undue risk of teratogenicity
+        - reduces the rate of tachyzoite transmission to the fetus
+      - unavailable in the United States
+        - alternative medications
+          - azithromycin
+          - clindamycin
+          - atovaquone
+          - sulfonamides
+            - may be used safely in the first 2 trimesters of pregnancy
+    - intraocular injections of clindamycin + short- acting periocular corticosteroids
+      - to reduce systemic adverse effects
+  - HIV/AIDS
+    - require extended systemic treatment
+    - atovaquone acts synergistically with pyrimethamine and sulfadiazine
+      - useful for reducing the dose and toxicity of these drugs
+    - long-term intermittent trimethoprim- sulfamethoxazole (160 mg/800 mg 3x/week)
+      - to reduce recurrence rate
+  - recurrent toxoplasmic retinochoroiditis
+    - long-term intermittent trimethoprim- sulfamethoxazole treatment (160 mg/800 mg 3x/week)
+  - prophylactic antimicrobial treatment before/ after intraocular surgery in patients with inactive toxoplasmic scars
+    - increased risk of reactivation of otherwise inactive toxoplasmic retinochoroiditis after cataract surgery
+- diagnosis
+  - in most instances, diagnosis is clinical
+  - serologic evaluation is commonly used to confirm exposure to the parasite
+    - tests
+      - indirect fluorescent antibody
+      - ELISA
+    - IgM antibody
+      - levels increase during the acute phase of the infection
+      - detectable for <1 year
+      - do not cross the placenta
+        - in newborns confirms congenital infection
+    - IgG antibody
+      - appear after the first 2 weeks of infection
+        - in adults is indicative of acquired disease
+      - remain detectable for life
+      - cross the placenta
+      - presence of IgG antibodies supports the diagnosis of toxoplasmic retinochoroiditis in the appropriate clinical context
+        - a negative antibody titer essentially rules out the diagnosis
+    - IgA antibody
+      - useful in diagnosis of congenital toxoplasmosis in a fetus or newborn
+        - IgA antibodies disappear by 7 months
+          - IgM production is often weak and IgG antibodies may indicate passive transfer of maternal antibodies in utero
+    - intraocular specific anti-Toxoplasma antibodies
+      - GW coefficient >3 is diagnostic of local antibody production
+  - PCR-based techniques
+    - to detect T gondii DNA in aqueous/vitreous fluid
+    - atypical presentations

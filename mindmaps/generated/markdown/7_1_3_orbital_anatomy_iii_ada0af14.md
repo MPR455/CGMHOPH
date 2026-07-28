@@ -1,0 +1,147 @@
+---
+title: "7.1.3. Orbital Anatomy (III)"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.1.3. Orbital Anatomy (III).pdf"
+---
+
+# 7.1.3. Orbital Anatomy (III)
+
+## Hierarchy
+
+- Nerves
+  - Sensory innervation
+    - ophthalmic and maxillary divisions of CN V
+      - trigeminal ganglion
+        - ophthalmic division of CN V (V1)
+          - travels in the lateral wall of the cavernous sinus
+            - divides into 3 main branches
+              - frontal
+                - enter through the superior orbital fissure above the annulus of Zinn
+                  - medial canthus
+                    - supratrochlear branch
+                  - upper eyelid
+                    - lacrimal and supratrochlear branches
+                  - forehead
+                    - supraorbital branch
+              - lacrimal
+              - nasociliary
+                - enters through the superior orbital fissure within the annulus of Zinn
+                  - innervates the eye via the ciliary branches
+                    - short ciliary nerves
+                      - pass through the ciliary ganglion without synapse
+                        - penetrate the sclera
+                    - long ciliary nerves
+                      - pass by the ciliary ganglion
+                        - enter the sclera
+                          - extend anteriorly to supply the iris, cornea, and ciliary muscle
+        - maxillary division of CN V (V2)
+  - parasympathetic innervation
+    - functions
+      - accommodation
+      - pupillary constriction
+      - lacrimal gland stimulation
+    - parasympathetic fibers synapse within the ciliary ganglion
+      - enter the eye as the short posterior ciliary nerves
+      - parasympathetic innervation to the lacrimal gland
+        - originates in the lacrimal nucleus of the pons
+        - joins the lacrimal nerve to enter the lacrimal gland
+      - only the parasympathetic fibers synapse in the ciliary ganglion
+  - sympathetic innervation
+    - sympathetic fibers originate in the hypothalamus
+      - descend through the brainstem to the spinal cord
+        - synapse in the ciliospinal center of Budge- Waller
+          - travel with branches of the carotid artery to the orbit
+            - pass through ciliary ganglion without synapse
+              - short ciliary nerves
+            - nasociliary nerve
+              - long ciliary nerves
+            - follow arterial supply to pupil, eyelids, and orbit
+    - carry innervation for
+      - pupillary dilation
+      - vasoconstriction
+      - hidrosis
+      - smooth muscle function of the eyelids and orbit
+  - motor supply to muscles of facial expression
+    - CN VII (facial nerve)
+      - branches enter on the undersurface of each muscle
+- Nose and Paranasal Sinuses
+  - diseases
+    - sinonasal carcinomas
+    - inverted papillomas
+    - zygomycoses
+    - granulomatosis with polyangiitis (Wegener granulomatosis)
+    - mucoceles
+    - sinusitis
+  - functions
+    - decrease the weight of the skull
+    - function as resonators for the voice
+    - trap irritants
+    - warm and humidify the air
+  - nasal cavity
+    - nasal septum
+    - lateral wall
+      - has 3 bony projections
+        - superior, middle, and inferior conchae (turbinates)
+      - meatuses
+        - superior
+          - posterior ethmoid air cells
+        - middle
+          - openings for
+            - frontal sinus
+            - maxillary sinus
+            - anterior and middle ethmoid air cells
+        - inferior
+          - nasolacrimal duct opening
+      - sphenoethmoidal recess
+        - cephalad to the superior concha
+        - sphenoid sinus opening
+    - lined by a pseudostratified, ciliated columnar epithelium
+      - copious goblet cells
+      - mucous membrane overlying the lateral alar cartilage is hair bearing
+        - less suitable for use as a composite graft in eyelid reconstruction
+          - can use the mucoperichondrium over the nasal septum
+  - frontal sinuses
+    - not seen radiographically until the sixth year of life
+      - pneumatization continues through childhood
+        - complete by early adulthood
+      - sinuses can develop asymmetrically
+    - each frontal sinus drains through a separate frontonasal duct
+      - anterior portion of the middle meatus
+  - ethmoid air cells
+    - thin-walled cavities
+      - between the medial orbital wall and the lateral wall of the nose
+    - present at birth
+      - expand as the child grows
+      - can extend into frontal, lacrimal, and maxillary bones
+        - may extend into the orbital roof
+          - supraorbital ethmoids
+    - divided into anterior, middle, and posterior air cells
+      - drainage
+        - anterior and middle air cells into middle meatus
+        - posterior air cells into superior meatus
+    - sinusitis in the ethmoids is a common cause of
+      - orbital cellulitis
+      - medial orbital subperiosteal effusions or abscesses
+      - inflammation or infection spreads through the thin bone or the vascular foramina of the medial orbital wall
+  - maxillary sinuses
+    - largest of the paranasal sinuses
+      - extend posteriorly to the inferior orbital fissure
+    - roof of each maxillary sinus forms the floor of each orbit
+      - infraorbital nerve and artery travel along the roof of the sinus
+      - orbital blowout fractures
+        - disrupt the floor of the orbit medial to the infraorbital canal
+          - infraorbital nerve is often compromised
+            - hypoesthesia of the cheek, upper lip, and maxillary teeth
+    - drains into the middle meatus
+      - maxillary ostium
+    - bony nasolacrimal canal lies within the medial wall
+- Lacrimal Gland
+  - 2 lobes
+    - orbital lobe
+      - located within a fossa of frontal bone (lacrimal fossa)
+      - may prolapse inferiorly out of the fossa and present as a mass in lateral upper eyelid
+    - smaller palpebral lobe
+      - ducts from both lobes pass through the palpebral lobe
+        - empty into the upper conjunctival fornix
+        - biopsy is generally not performed on the palpebral lobe or temporal conjunctival fornix because it can interfere with lacrimal drainage

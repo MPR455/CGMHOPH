@@ -1,0 +1,711 @@
+{
+  "label": "9.5.8. Clinical approach to uveitis (VIII): Medical Management (III): Immunomodulatory Medications (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction to Immunomodulatory Medications",
+      "children": [
+        {
+          "label": "indications",
+          "children": [
+            {
+              "label": "inadequate/failed response to corticosteroid treatment"
+            },
+            {
+              "label": "corticosteroids contraindicated because of systemic problems"
+            },
+            {
+              "label": "early use of IMT is indicated in certain uveitic entities",
+              "children": [
+                {
+                  "label": "initial treatment of these entities with IMT has been shown to improve long-term prognosis"
+                },
+                {
+                  "label": "necrotizing scleritis associated with systemic vasculitis"
+                },
+                {
+                  "label": "ocular cicatricial pemphigoid"
+                },
+                {
+                  "label": "serpiginous choroiditis"
+                },
+                {
+                  "label": "Behçet disease"
+                },
+                {
+                  "label": "sympathetic ophthalmia"
+                },
+                {
+                  "label": "VKH syndrome"
+                }
+              ]
+            },
+            {
+              "label": "severe vision-threatening uveitis"
+            },
+            {
+              "label": "disease process that is likely reversible"
+            },
+            {
+              "label": "serious corticosteroid-induced adverse effects",
+              "children": [
+                {
+                  "label": ".>3 months at doses greater than 5–10 mg/ day"
+                }
+              ]
+            },
+            {
+              "label": "long-term corticosteroid dependence",
+              "children": [
+                {
+                  "label": "patients requiring repeat corticosteroid injections"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "general",
+          "children": [
+            {
+              "label": "before initiating IMT, the physician should ensure",
+              "children": [
+                {
+                  "label": "an absence of hepatic and hematologic contraindications"
+                },
+                {
+                  "label": "meticulous follow-up by a practitioner experienced with IMT"
+                },
+                {
+                  "label": "objective longitudinal evaluation of the disease process"
+                },
+                {
+                  "label": "an absence of infection"
+                },
+                {
+                  "label": "delay in therapeutic response for weeks - months after initiation of IMT",
+                  "children": [
+                    {
+                      "label": "informed consent"
+                    },
+                    {
+                      "label": "most patients need to be on corticosteroids until the immunomodulatory effect begins"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "classes of immunomodulatory medications",
+              "children": [
+                {
+                  "label": "antimetabolites"
+                },
+                {
+                  "label": "inhibitors of T-cell signaling"
+                },
+                {
+                  "label": "alkylating agents"
+                },
+                {
+                  "label": "biologic response modifiers"
+                }
+              ]
+            },
+            {
+              "label": "serious complications",
+              "children": [
+                {
+                  "label": "renal and hepatic toxicity",
+                  "children": [
+                    {
+                      "label": "liver and renal function tests"
+                    }
+                  ]
+                },
+                {
+                  "label": "bone marrow suppression",
+                  "children": [
+                    {
+                      "label": "complete blood count"
+                    }
+                  ]
+                },
+                {
+                  "label": "increased susceptibility to infection",
+                  "children": [
+                    {
+                      "label": "trimethoprim-sulfamethoxazole prophylaxis against Pneumocystis jirovecii (Pneumocystis carinii) in patients on alkylating agents"
+                    }
+                  ]
+                },
+                {
+                  "label": "potentially teratogenic",
+                  "children": [
+                    {
+                      "label": "avoid becoming pregnant"
+                    }
+                  ]
+                },
+                {
+                  "label": "alkylating agents",
+                  "children": [
+                    {
+                      "label": "increased risk of future malignancies (leukemia or lymphoma)",
+                      "children": [
+                        {
+                          "label": "study of 7957 patients with noninfectious uveitis treated with IMT",
+                          "children": [
+                            {
+                              "label": "no overall cancer mortality rates",
+                              "children": [
+                                {
+                                  "label": "tumor necrosis factor inhibitors were associated with increased overall (x2) and cancer (x3.8) risk of mortality"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "sterility"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Alkylating agents",
+      "children": [
+        {
+          "label": "introduction",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "use only if other immunomodulators fail to control uveitis",
+                  "children": [
+                    {
+                      "label": "should be used with great caution and only by clinicians experienced in their dosing and potential toxicity"
+                    }
+                  ]
+                },
+                {
+                  "label": "first line of therapy for necrotizing scleritis associated with systemic vasculitides",
+                  "children": [
+                    {
+                      "label": "granulomatosis with polyangiitis (Wegener granulomatosis)"
+                    },
+                    {
+                      "label": "relapsing polychondritis"
+                    }
+                  ]
+                },
+                {
+                  "label": "intermediate uveitis"
+                },
+                {
+                  "label": "VKH syndrome"
+                },
+                {
+                  "label": "sympathetic ophthalmia"
+                },
+                {
+                  "label": "Behçet disease"
+                }
+              ]
+            },
+            {
+              "label": "adverse effect",
+              "children": [
+                {
+                  "label": "increased risk of malignancy",
+                  "children": [
+                    {
+                      "label": "with doses/durations used for the treatment of uveitis, the risk is probably low"
+                    },
+                    {
+                      "label": "patients with granulomatosis with polyangiitis treated with cyclophosphamide",
+                      "children": [
+                        {
+                          "label": "2.4x increased risk of cancer"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "patients with polycythemia rubra vera treated with chlorambucil",
+                      "children": [
+                        {
+                          "label": "33x increased risk of bladder cancer"
+                        },
+                        {
+                          "label": "13.5x greater risk of leukemia"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "high rate of sterility",
+                  "children": [
+                    {
+                      "label": "consider sperm or embryo banking"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cyclophosphamide",
+          "children": [
+            {
+              "label": "metabolized in the liver into active metabolites",
+              "children": [
+                {
+                  "label": "alkylate purines in DNA and RNA",
+                  "children": [
+                    {
+                      "label": "impaired DNA replication and cell death",
+                      "children": [
+                        {
+                          "label": "cytotoxic to resting and actively dividing lymphocytes"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "1/3 of patients discontinue therapy within 1 year because of reversible adverse effects",
+              "children": [
+                {
+                  "label": "hemorrhagic cystitis",
+                  "children": [
+                    {
+                      "label": "more common when cyclophosphamide is administered orally"
+                    },
+                    {
+                      "label": "drink >2 liters of fluid per day"
+                    },
+                    {
+                      "label": "urinalysis",
+                      "children": [
+                        {
+                          "label": "microscopic hematuria",
+                          "children": [
+                            {
+                              "label": "a warning for the patient to increase hydration"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "gross hematuria",
+                          "children": [
+                            {
+                              "label": "an indication to discontinue therapy"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "myelosuppression",
+                  "children": [
+                    {
+                      "label": "CBC",
+                      "children": [
+                        {
+                          "label": "leukocyte count <2500 cells/μL",
+                          "children": [
+                            {
+                              "label": "discontinue cyclophosphamide until cell count recovers"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "teratogenicity"
+                },
+                {
+                  "label": "sterility"
+                },
+                {
+                  "label": "reversible alopecia"
+                },
+                {
+                  "label": "opportunistic infections",
+                  "children": [
+                    {
+                      "label": "Pneumocystis jirovecii pneumonia"
+                    },
+                    {
+                      "label": "trimethoprim-sulfamethoxazole prophylaxis is recommended"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "routes",
+              "children": [
+                {
+                  "label": "oral"
+                },
+                {
+                  "label": "intravenous",
+                  "children": [
+                    {
+                      "label": "more effective in controlling ocular inflammation when given orally (2 mg/kg/day) than intermittent intravenous pulses"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "necrotizing scleritis"
+                },
+                {
+                  "label": "retinal vasculitis"
+                },
+                {
+                  "label": "other uveitic conditions"
+                }
+              ]
+            },
+            {
+              "label": "treat x 1 year",
+              "children": [
+                {
+                  "label": "adjust dose to maintain leukocyte counts between 3000 and 4000 cells/μL after the patient has been tapered off corticosteroids"
+                },
+                {
+                  "label": "inflammation control is achieved in 3/4 of patients within 12 months"
+                },
+                {
+                  "label": "disease remission occurs in two-thirds of patients within 2 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Chlorambucil",
+          "children": [
+            {
+              "label": "long-term, drug-free remissions in 66%–75% of patients with",
+              "children": [
+                {
+                  "label": "sympathetic ophthalmia"
+                },
+                {
+                  "label": "Behçet disease"
+                },
+                {
+                  "label": "other sight-threatening uveitic syndromes"
+                }
+              ]
+            },
+            {
+              "label": "very long-acting alkylating agent",
+              "children": [
+                {
+                  "label": "interferes with DNA replication"
+                }
+              ]
+            },
+            {
+              "label": "absorbed well when administered orally",
+              "children": [
+                {
+                  "label": "single daily dose of 0.1–0.2 mg/kg"
+                }
+              ]
+            },
+            {
+              "label": "adverse effects",
+              "children": [
+                {
+                  "label": "myelosuppression"
+                },
+                {
+                  "label": "sterility"
+                },
+                {
+                  "label": "teratogenicity"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Inhibitors of T-cell signaling",
+      "children": [
+        {
+          "label": "cyclosporine",
+          "children": [
+            {
+              "label": "macrolide product of fungus Beauveria nivea"
+            },
+            {
+              "label": "calcineurin inhibitor",
+              "children": [
+                {
+                  "label": "eliminates T-cell receptor signal transduction",
+                  "children": [
+                    {
+                      "label": "downregulates interleukin-2 (IL-2) gene transcription",
+                      "children": [
+                        {
+                          "label": "downregulates receptor expression of CD4+ T lymphocytes"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "2 oral preparations",
+              "children": [
+                {
+                  "label": "Neoral",
+                  "children": [
+                    {
+                      "label": "better bioavailability"
+                    },
+                    {
+                      "label": "initiated at 2 mg/kg/day",
+                      "children": [
+                        {
+                          "label": "adjusted based on toxicity and clinical response to 1–5 mg/kg/day"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sandimmune",
+                  "children": [
+                    {
+                      "label": "initiated at 2.5 mg/kg/day"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "adverse effects",
+              "children": [
+                {
+                  "label": "paresthesia"
+                },
+                {
+                  "label": "gastrointestinal upset"
+                },
+                {
+                  "label": "fatigue"
+                },
+                {
+                  "label": "primary skin cancers",
+                  "children": [
+                    {
+                      "label": "higher risk in patients with psoriasis"
+                    }
+                  ]
+                },
+                {
+                  "label": "usually not necessary to monitor drug levels"
+                },
+                {
+                  "label": "hypertrichosis"
+                },
+                {
+                  "label": "gingival hyperplasia"
+                },
+                {
+                  "label": "most common",
+                  "children": [
+                    {
+                      "label": "systemic hypertension"
+                    },
+                    {
+                      "label": "nephrotoxicity",
+                      "children": [
+                        {
+                          "label": "increased serum creatinine by 30%",
+                          "children": [
+                            {
+                              "label": "uncontrolled hypertension is an absolute contraindication"
+                            },
+                            {
+                              "label": "dose adjustment"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "sustained elevation of serum creatinine",
+                          "children": [
+                            {
+                              "label": "cessation of medication until levels return to baseline"
+                            },
+                            {
+                              "label": "abnormal renal function is an absolute contraindication"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "toxicity necessitating cessation of therapy is more common in patients >55 years"
+                }
+              ]
+            },
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "intermediate uveitis"
+                },
+                {
+                  "label": "several types of posterior uveitis",
+                  "children": [
+                    {
+                      "label": "VKH syndrome"
+                    },
+                    {
+                      "label": "Behçet uveitis",
+                      "children": [
+                        {
+                          "label": "control of inflammation in 50%",
+                          "children": [
+                            {
+                              "label": "dose used in this study was 10 mg/kg/day"
+                            },
+                            {
+                              "label": "substantial nephrotoxicity"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "cyclosporine + corticosteroids modestly effective in controlling uveitis in up to 33% of patients"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "tacrolimus",
+          "children": [
+            {
+              "label": "product of Streptomyces tsukubaensis"
+            },
+            {
+              "label": "oral",
+              "children": [
+                {
+                  "label": "calcineurin inhibitor"
+                }
+              ]
+            },
+            {
+              "label": "excellent long-term tolerability and efficacy",
+              "children": [
+                {
+                  "label": "85% chance of reducing prednisone dosage to less than 10 mg/day"
+                }
+              ]
+            },
+            {
+              "label": "main adverse effect",
+              "children": [
+                {
+                  "label": "nephrotoxicity",
+                  "children": [
+                    {
+                      "label": "monitor serum creatinine level",
+                      "children": [
+                        {
+                          "label": "less common than cyclosporine!"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "in a prospective trial compared with cyclosporine",
+              "children": [
+                {
+                  "label": "equal efficacy in controlling chronic posterior and intermediate uveitis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "sirolimus",
+          "children": [
+            {
+              "label": "noncalcineurin inhibitor of T-cell signaling",
+              "children": [
+                {
+                  "label": "greater safety (lower risk of hypertension and hyperlipidemia)"
+                },
+                {
+                  "label": "inhibits antibody production and B lymphocytes"
+                }
+              ]
+            },
+            {
+              "label": "antifungal product of Streptomyces hygroscopicus"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.5.8. Clinical approach to uveitis (VIII) - Medical Management (III) - Immunomodulatory Medications (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 344,
+      "connector_rejected": 13,
+      "connector_edges": 222,
+      "connector_width": 0.731,
+      "text_labels": 178,
+      "tree_nodes": 178,
+      "component_roots": 3,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.6453,
+      "root_font_size": 2.194,
+      "warnings": []
+    }
+  }
+}

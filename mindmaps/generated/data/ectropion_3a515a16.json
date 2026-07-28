@@ -1,0 +1,340 @@
+{
+  "label": "Ectropion",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "elderly man complains of bilateral tearing and eye irritation"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "right lower lid ectropion with no visible eyelid inflammation, scarring, or mass"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "congenital ectropion"
+        },
+        {
+          "label": "involutional ectropion"
+        },
+        {
+          "label": "cicatricial ectropion"
+        },
+        {
+          "label": "paralytic ectropion"
+        },
+        {
+          "label": "mechanical ectropion"
+        },
+        {
+          "label": "allergic (inflammatory) ectropion",
+          "children": [
+            {
+              "label": "eczema"
+            },
+            {
+              "label": "dorzolamide, brimonidine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "(involutional) ectropion"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "preservative-free artificial tears"
+            },
+            {
+              "label": "ointment at bedtime"
+            },
+            {
+              "label": "taping at bedtime"
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "involutional",
+              "children": [
+                {
+                  "label": "horizontal lid tightening"
+                },
+                {
+                  "label": "lower eyelid retractor repair"
+                }
+              ]
+            },
+            {
+              "label": "paralytic",
+              "children": [
+                {
+                  "label": "temporary/permanent tarsorrhaphy"
+                },
+                {
+                  "label": "gold weight implantation"
+                },
+                {
+                  "label": "lower lid tightening",
+                  "children": [
+                    {
+                      "label": "delay x 3-6 months in patients with CN 7 palsy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cicatricial",
+              "children": [
+                {
+                  "label": "scar excision + skin/conj graft"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "discuss treatment options & risk/benefits of surgery"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "based on symptoms and integrity of conjunctiva/ cornea",
+              "children": [
+                {
+                  "label": "close follow-up if corneal exposure"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "medical",
+              "children": [
+                {
+                  "label": "stroke"
+                },
+                {
+                  "label": "Bell palsy"
+                },
+                {
+                  "label": "eczema"
+                }
+              ]
+            },
+            {
+              "label": "ocular",
+              "children": [
+                {
+                  "label": "symptoms",
+                  "children": [
+                    {
+                      "label": "tearing"
+                    },
+                    {
+                      "label": "eye irritation",
+                      "children": [
+                        {
+                          "label": "2o to exposure keratopathy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "surgery/trauma/chemical burn/thermal burn"
+                },
+                {
+                  "label": "medications",
+                  "children": [
+                    {
+                      "label": "brimonidine"
+                    },
+                    {
+                      "label": "dorzolamide"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "external eye exam",
+              "children": [
+                {
+                  "label": "CN exam",
+                  "children": [
+                    {
+                      "label": "signs of CN 7 palsy",
+                      "children": [
+                        {
+                          "label": "facial hemiparesis"
+                        },
+                        {
+                          "label": "orbicularis oculi function",
+                          "children": [
+                            {
+                              "label": "lagophthalmos"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "lid laxity",
+                  "children": [
+                    {
+                      "label": "snapback test",
+                      "children": [
+                        {
+                          "label": "poor orbicularis tone"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "distraction test",
+                      "children": [
+                        {
+                          "label": "ability to pull the eyelid >6 mm from the globe"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "lateral stretching of the eyelid",
+                      "children": [
+                        {
+                          "label": "to assess whether lateral canthal resuspension would return the eyelid to its normal anatomical position"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "excessive lateral movement of the lower punctum with lateral eyelid traction",
+                      "children": [
+                        {
+                          "label": "laxity of lower limb of medial canthal tendon"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "epiphora"
+                },
+                {
+                  "label": "punctal position"
+                },
+                {
+                  "label": "symblepharon"
+                },
+                {
+                  "label": "herniated orbital fat"
+                },
+                {
+                  "label": "lid inflammation/scarring"
+                },
+                {
+                  "label": "lid tumors"
+                },
+                {
+                  "label": "Bell’s reflex"
+                },
+                {
+                  "label": "corneal sensation"
+                }
+              ]
+            },
+            {
+              "label": "slit lamp exam",
+              "children": [
+                {
+                  "label": "tear film"
+                },
+                {
+                  "label": "congestion/thickening/ keratinization of exposed conjunctiva"
+                },
+                {
+                  "label": "exposure keratopathy",
+                  "children": [
+                    {
+                      "label": "SPK"
+                    },
+                    {
+                      "label": "abrasion"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Ectropion.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 140,
+      "connector_rejected": 12,
+      "connector_edges": 98,
+      "connector_width": 1.466,
+      "text_labels": 83,
+      "tree_nodes": 83,
+      "component_roots": 6,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.7,
+      "root_font_size": 6.841,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "label": "9.7.8. Infectious Ocular Inflammatory Diseases (VIII): WNV & RVF",
+  "root": true,
+  "children": [
+    {
+      "label": "Similar to measles, rubella, and LCMV"
+    },
+    {
+      "label": "Rift Valley fever (RVF)",
+      "children": [
+        {
+          "label": "arthropod-borne Bunyaviridae of the Phlebovirus genus"
+        },
+        {
+          "label": "epizootic",
+          "children": [
+            {
+              "label": "primarily affecting domestic animals (sheep, goats, camels, and cattle)"
+            },
+            {
+              "label": "transmitted to humans",
+              "children": [
+                {
+                  "label": "direct contact with the blood or organs of infected animals"
+                },
+                {
+                  "label": "inhalation of aerosols released during their slaughter"
+                },
+                {
+                  "label": "ingesting the unpasteurized milk of infected animals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "incubation period",
+              "children": [
+                {
+                  "label": "3-7 days",
+                  "children": [
+                    {
+                      "label": "bites from infected mosquitoes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "3 clinical syndromes",
+              "children": [
+                {
+                  "label": "uncomplicated, febrile, influenza-like illness"
+                },
+                {
+                  "label": "hemorrhagic fever"
+                },
+                {
+                  "label": "neurologic involvement with encephalitis",
+                  "children": [
+                    {
+                      "label": "mortality rate of 1%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ocular manifestations",
+              "children": [
+                {
+                  "label": "20%"
+                },
+                {
+                  "label": "bilateral"
+                },
+                {
+                  "label": "profoundly reduced visual acuity at presentation",
+                  "children": [
+                    {
+                      "label": "<20/200 in 80%"
+                    }
+                  ]
+                },
+                {
+                  "label": "macular or paramacular retinitis",
+                  "children": [
+                    {
+                      "label": "similar to SSPE"
+                    },
+                    {
+                      "label": "in all affected eyes at the time of initial presentation"
+                    }
+                  ]
+                },
+                {
+                  "label": "additional manifestations",
+                  "children": [
+                    {
+                      "label": "intraretinal hemorrhages (40%)"
+                    },
+                    {
+                      "label": "vitritis (26%)"
+                    },
+                    {
+                      "label": "optic nerve edema (15%)"
+                    },
+                    {
+                      "label": "retinal vasculitis (7%)"
+                    },
+                    {
+                      "label": "anterior uveitis (31%)"
+                    }
+                  ]
+                },
+                {
+                  "label": "spontaneous resolution",
+                  "children": [
+                    {
+                      "label": "within 10–12 weeks"
+                    },
+                    {
+                      "label": "optic atrophy"
+                    },
+                    {
+                      "label": "ischemic retina"
+                    },
+                    {
+                      "label": "macular (60%) or paramacular (9%) scarring"
+                    },
+                    {
+                      "label": "retinal vascular occlusion (23%)"
+                    },
+                    {
+                      "label": "optic atrophy (20%)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "FA",
+          "children": [
+            {
+              "label": "delayed filling of the retinal and choroidal circulation"
+            },
+            {
+              "label": "early hypofluorescence and late staining of the inflammatory retinal lesions"
+            }
+          ]
+        },
+        {
+          "label": "diagnosis",
+          "children": [
+            {
+              "label": "serology",
+              "children": [
+                {
+                  "label": "IgM in a single serum sample"
+                },
+                {
+                  "label": "rising IgG titer in samples from acutely ill and convalescent patients"
+                }
+              ]
+            },
+            {
+              "label": "virus isolation from the blood in the acute phase"
+            },
+            {
+              "label": "virus detection in either serum or tissue by reverse transcription PCR testing"
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "other viral entities",
+              "children": [
+                {
+                  "label": "measles, rubella, influenza, dengue fever, and WNV"
+                }
+              ]
+            },
+            {
+              "label": "bacterial illnesses",
+              "children": [
+                {
+                  "label": "brucellosis"
+                },
+                {
+                  "label": "Lyme disease"
+                },
+                {
+                  "label": "toxoplasmosis"
+                },
+                {
+                  "label": "cat-scratch disease"
+                },
+                {
+                  "label": "rickettsial diseases"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "anterior uveitis",
+              "children": [
+                {
+                  "label": "topical steroids"
+                }
+              ]
+            },
+            {
+              "label": "inactivated vaccine",
+              "children": [
+                {
+                  "label": "role of systemic antiviral and anti-inflammatory therapy for retinal manifestations of RVF is unknown"
+                },
+                {
+                  "label": "still experimental"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "West Nile virus (WNV)",
+      "children": [
+        {
+          "label": "single-stranded RNA virus",
+          "children": [
+            {
+              "label": "family Flaviviridae"
+            },
+            {
+              "label": "enzootic cycle",
+              "children": [
+                {
+                  "label": "birds are the natural host",
+                  "children": [
+                    {
+                      "label": "transmission to humans and other vertebrates through the bite of an infected mosquito (Culex genus)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "endemic to Europe, Australia, Asia, and Africa"
+            },
+            {
+              "label": "peak onset in late summer",
+              "children": [
+                {
+                  "label": "anytime between July and December"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic manifestations",
+          "children": [
+            {
+              "label": "incubation period 3-14 days",
+              "children": [
+                {
+                  "label": "majority are subclinical (80%)"
+                }
+              ]
+            },
+            {
+              "label": "febrile illness (20%)",
+              "children": [
+                {
+                  "label": "accompanied by",
+                  "children": [
+                    {
+                      "label": "myalgia"
+                    },
+                    {
+                      "label": "arthralgia"
+                    },
+                    {
+                      "label": "headache"
+                    },
+                    {
+                      "label": "conjunctivitis"
+                    },
+                    {
+                      "label": "lymphadenopathy"
+                    },
+                    {
+                      "label": "maculopapular or roseolar rash"
+                    },
+                    {
+                      "label": "neurologic disease",
+                      "children": [
+                        {
+                          "label": "meningitis"
+                        },
+                        {
+                          "label": "encephalitis"
+                        },
+                        {
+                          "label": "risk factors",
+                          "children": [
+                            {
+                              "label": "diabetes mellitus",
+                              "children": [
+                                {
+                                  "label": "risk factor for WNV-related death"
+                                },
+                                {
+                                  "label": "observed with significantly increased frequency among patients with WNV- associated ocular involvement"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "only 1 of 150 infections",
+                          "children": [
+                            {
+                              "label": "advanced age"
+                            },
+                            {
+                              "label": "severity of WNV infection has increased over time"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ocular manifestations",
+          "children": [
+            {
+              "label": "ocular symptoms",
+              "children": [
+                {
+                  "label": "pain, photophobia, conjunctival hyperemia, and blurred vision"
+                }
+              ]
+            },
+            {
+              "label": "multifocal chorioretinitis",
+              "children": [
+                {
+                  "label": "present in the majority of patients"
+                },
+                {
+                  "label": "200–1000 μm"
+                },
+                {
+                  "label": "midperiphery",
+                  "children": [
+                    {
+                      "label": "+- involvement of the posterior pole"
+                    }
+                  ]
+                },
+                {
+                  "label": "in linear arrays",
+                  "children": [
+                    {
+                      "label": "80%"
+                    },
+                    {
+                      "label": "following the course of retinal nerve fibers"
+                    }
+                  ]
+                },
+                {
+                  "label": "whitish to yellow",
+                  "children": [
+                    {
+                      "label": "evolve with varying degrees of pigmentation and atrophy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "vitritis"
+            },
+            {
+              "label": "nongranulomatous anterior uveitis"
+            },
+            {
+              "label": "other findings",
+              "children": [
+                {
+                  "label": "intraretinal hemorrhages"
+                },
+                {
+                  "label": "disc edema",
+                  "children": [
+                    {
+                      "label": "optic atrophy"
+                    }
+                  ]
+                },
+                {
+                  "label": "focal retinal vascular sheathing and occlusion"
+                },
+                {
+                  "label": "cranial nerve VI palsy"
+                },
+                {
+                  "label": "nystagmus"
+                }
+              ]
+            },
+            {
+              "label": "congenital WNV infection has been reported"
+            }
+          ]
+        },
+        {
+          "label": "FA",
+          "children": [
+            {
+              "label": "active lesions",
+              "children": [
+                {
+                  "label": "central hypofluorescence with late staining"
+                }
+              ]
+            },
+            {
+              "label": "inactive lesions",
+              "children": [
+                {
+                  "label": "early hyperfluorescence with late staining"
+                },
+                {
+                  "label": "many inactive lesions exhibit a targetlike appearance angiographically"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ICG",
+          "children": [
+            {
+              "label": "hypofluorescent spots"
+            },
+            {
+              "label": "more numerous than those apparent on FA or funduscopy"
+            }
+          ]
+        },
+        {
+          "label": "self-limiting course",
+          "children": [
+            {
+              "label": "return of visual acuity to baseline after several months"
+            },
+            {
+              "label": "loss of vision may occur because of",
+              "children": [
+                {
+                  "label": "CNV"
+                },
+                {
+                  "label": "foveal scar"
+                },
+                {
+                  "label": "ischemic maculopathy"
+                },
+                {
+                  "label": "vitreous hemorrhage"
+                },
+                {
+                  "label": "tractional retinal detachment"
+                },
+                {
+                  "label": "optic nerve pathology"
+                },
+                {
+                  "label": "retrogeniculate damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic tests",
+          "children": [
+            {
+              "label": "demonstration of IgM antibody to the virus in serum",
+              "children": [
+                {
+                  "label": "IgM antibody-capture ELISA"
+                },
+                {
+                  "label": "plaque-reduction neutralization testing (PRNT)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "syphilis"
+            },
+            {
+              "label": "MCP"
+            },
+            {
+              "label": "histoplasmosis"
+            },
+            {
+              "label": "sarcoidosis"
+            },
+            {
+              "label": "tuberculosis"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "anterior uveitis",
+              "children": [
+                {
+                  "label": "no proven treatment for WNV infection",
+                  "children": [
+                    {
+                      "label": "supportive therapy"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical corticosteroids"
+                }
+              ]
+            },
+            {
+              "label": "efficacy of systemic and periocular corticosteroids for chorioretinal manifestations is unknown"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.8. Infectious Ocular Inflammatory Diseases (VIII) - WNV & RVF.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 302,
+      "connector_rejected": 5,
+      "connector_edges": 202,
+      "connector_width": 0.782,
+      "text_labels": 153,
+      "tree_nodes": 153,
+      "component_roots": 2,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.6689,
+      "root_font_size": 2.739,
+      "warnings": []
+    }
+  }
+}

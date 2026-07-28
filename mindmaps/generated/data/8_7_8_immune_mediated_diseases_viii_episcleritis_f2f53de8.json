@@ -1,0 +1,244 @@
+{
+  "label": "8.7.8. Immune-Mediated Diseases (VIII): Episcleritis",
+  "root": true,
+  "children": [
+    {
+      "label": "Pathogenesis",
+      "children": [
+        {
+          "label": "only a minority have underlying systemic disease",
+          "children": [
+            {
+              "label": "autoimmune connective tissue disease",
+              "children": [
+                {
+                  "label": "sjögren syndrome"
+                },
+                {
+                  "label": "rheumatoid arthritis"
+                }
+              ]
+            },
+            {
+              "label": "gout"
+            },
+            {
+              "label": "herpes zoster"
+            },
+            {
+              "label": "syphilis"
+            },
+            {
+              "label": "tuberculosis"
+            },
+            {
+              "label": "lyme disease"
+            },
+            {
+              "label": "rosacea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Management",
+      "children": [
+        {
+          "label": "systemic workup",
+          "children": [
+            {
+              "label": "rarely indicated"
+            },
+            {
+              "label": "autoimmune connective tissue disease",
+              "children": [
+                {
+                  "label": "except after multiple recurrences"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "topical or oral NSAIDS",
+          "children": [
+            {
+              "label": "for patients bothered by pain"
+            }
+          ]
+        },
+        {
+          "label": "lubricants"
+        },
+        {
+          "label": "topical steroid",
+          "children": [
+            {
+              "label": "should be kept to a minimum",
+              "children": [
+                {
+                  "label": "cases that do not respond to lubricants and NSAIDS"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Clinical Presentation",
+      "children": [
+        {
+          "label": "20–50 years"
+        },
+        {
+          "label": "F>M"
+        },
+        {
+          "label": "sudden-onset"
+        },
+        {
+          "label": "bilateral disease",
+          "children": [
+            {
+              "label": "1/3",
+              "children": [
+                {
+                  "label": "deep pain of scleritis is worse than the pain associated with episcleritis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "irritation or pain"
+        },
+        {
+          "label": "slight tenderness"
+        },
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "simple (diffuse injection)",
+              "children": [
+                {
+                  "label": "localized to a sector of the globe",
+                  "children": [
+                    {
+                      "label": "70%"
+                    }
+                  ]
+                },
+                {
+                  "label": "entire episclera",
+                  "children": [
+                    {
+                      "label": "30%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nodular",
+              "children": [
+                {
+                  "label": "localized mobile nodule"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "redness",
+          "children": [
+            {
+              "label": "bright red or salmon pink"
+            },
+            {
+              "label": "exposed interpalpebral zone",
+              "children": [
+                {
+                  "label": "area of a pinguecula",
+                  "children": [
+                    {
+                      "label": "scleritis has a violaceous hue"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "inflammation is superficial",
+              "children": [
+                {
+                  "label": "will blanch with application of 2.5% topical phenylephrine",
+                  "children": [
+                    {
+                      "label": "unlike scleritis"
+                    }
+                  ]
+                },
+                {
+                  "label": "no scleral edema!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "small peripheral corneal opacities",
+          "children": [
+            {
+              "label": "adjacent to the area of episcleral inflammation"
+            },
+            {
+              "label": "10%"
+            }
+          ]
+        },
+        {
+          "label": "transient",
+          "children": [
+            {
+              "label": "days to weeks"
+            }
+          ]
+        },
+        {
+          "label": "may recur",
+          "children": [
+            {
+              "label": "same or different locations",
+              "children": [
+                {
+                  "label": "resolves without lasting destructive effects"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.7.8. Immune-Mediated Diseases (VIII) - Episcleritis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 86,
+      "connector_rejected": 0,
+      "connector_edges": 62,
+      "connector_width": 2.061,
+      "text_labels": 57,
+      "tree_nodes": 57,
+      "component_roots": 3,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7209,
+      "root_font_size": 5.84,
+      "warnings": []
+    }
+  }
+}

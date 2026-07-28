@@ -1,0 +1,137 @@
+---
+title: "9.7.19. Infectious Ocular Inflammatory Diseases (XIX): Bacterial Uveitis (IV): Leptospirosis Nocardiosis"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.7.19. Infectious Ocular Inflammatory Diseases (XIX) - Bacterial Uveitis (IV) - Leptosiprosis nocardiosis.pdf"
+---
+
+# 9.7.19. Infectious Ocular Inflammatory Diseases (XIX): Bacterial Uveitis (IV): Leptospirosis Nocardiosis
+
+## Hierarchy
+
+- Ocular Nocardiosis
+  - epidemiology
+    - Nocardia asteroides
+      - gram-positive rod
+        - partially acid-fast
+      - beaded branching filaments
+      - found in soil
+    - infection occurs by ingestion or inhalation
+    - rare
+      - Immunocompromised individuals are at more risk
+  - systemic disease
+    - pneumonia
+    - disseminated abscesses
+  - ocular involvement
+    - occurs by hematogenous spread
+    - symptoms may vary
+      - mild pain and redness of anterior uveitis
+      - severe pain and decreased vision of panophthalmitis
+    - can affect essentially any ocular structure
+    - periorbital tissue and the adnexae
+    - keratitis
+    - necrotizing scleritis
+    - isolated, unilateral choroidal or subretinal mass (abscess)
+      - minimal vitritis
+    - panuveitis
+      - anterior chamber cell and flare
+      - vitritis
+      - multiple choroidal abscesses
+      - overlying retinal detachment
+  - diagnosis
+    - vitreous aspiration for Gram stain and culture
+    - enucleation
+      - microscopic identification of organisms
+  - treatment
+    - systemic sulfonamide (trimethoprim- sulfamethoxazole)
+      - for protracted periods of time
+    - +- combination therapy with additional antibiotics
+- Leptospirosis
+  - epidemiology
+    - Leptospira interrogans
+      - gram-negative spirochete
+    - zoonotic infection
+      - natural reservoirs
+        - livestock
+        - horses
+        - dogs
+        - rodents
+        - excrete the organism in their urine
+    - worldwide distribution
+      - rare in the United States
+        - tropical and subtropical regions
+        - majority of US cases occur in Hawaii
+    - transmission
+      - humans contract the disease upon exposure to contaminated soil or water
+        - agricultural workers
+        - sewer workers
+        - veterinarian
+        - fish workers
+        - slaughterhouse workers
+        - military personnel
+        - swimmers
+        - triathletes
+        - whitewater rafters
+      - not known to spread from person to person
+      - maternal–fetal transmission may occur
+  - clinical presentation
+    - incubation period = 2–4 weeks
+    - similar to stage 1 Lyme disease
+    - initial (leptospiremic) phase
+      - abrupt onset of fever, chills, headache, myalgias, vomiting, and diarrhea
+      - severe septicemic leptospirosis
+        - Weil disease
+        - renal and hepatocellular dysfunction
+        - rare (occurs in 10%)
+        - fatal in 30%
+    - similar to stage 2 Lyme disease
+    - second (immune) phase
+      - meningitis
+        - leptospires may be isolated from the blood and CSF
+          - clear rapidly as the disease progresses to the second phase of the illness
+      - leptospiruria
+      - cranial nerve palsies
+      - myelitis
+      - uveitis
+      - organism may persist for longer periods of time in immunologically privileged sites
+        - brain
+        - eye
+  - ocular involvement
+    - prolonged interval between systemic and ocular disease
+      - occurs in both the leptospiremic and immune phases
+    - circumcorneal conjunctival hyperemia
+      - pathognomonic
+        - earliest and most common sign
+    - intraocular inflammation
+      - mild anterior uveitis to panuveitis with retinal vasculitis
+      - potentially vision-threatening
+      - differential diagnosis
+        - HLA-B27–associated uveitis
+        - idiopathic pars planitis
+        - Behçet disease
+        - Eales disease
+        - sarcoidosis
+        - tuberculosis
+        - syphilis
+    - similar to stage 2 Lyme disease
+  - diagnostic tests
+    - definitive diagnosis
+      - isolation of the organism from bodily fluids
+    - presumptive diagnosis
+      - serologic assays
+        - for detection of IgM antibodies against leptospiral antigens
+        - ELISA
+        - complement-fixation test
+        - highly sensitive and specific
+    - PCR-based assays are under evaluation
+    - causes false-positive result on RPR or FTA- ABS tests
+  - treatment
+    - systemic antibiotic treatment
+      - intravenous penicillin G, 1.5 MU every 6 hours
+      - oral doxycycline, 100 mg twice daily
+      - not known if systemic antibiotic treatment is protective against long-term complications such as uveitis
+      - x 1 week
+        - should be considered for ocular disease that occurs even months after onset of the acute systemic disease
+    - topical, periocular, or systemic corticosteroids
+      - to suppress intraocular inflammation
+    - visual prognosis of leptospiral uveitis is quite favorable

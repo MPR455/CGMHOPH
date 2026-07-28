@@ -1,0 +1,141 @@
+---
+title: "6.9.3. Exodeviations (III)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.9.3. Exodeviations (III).pdf"
+---
+
+# 6.9.3. Exodeviations (III)
+
+## Hierarchy
+
+- Convergence Weakness Exotropia
+  - near exodeviation > distance exodeviation
+  - 2 main types
+    - convergence insufficiency (CI)
+      - minimal or no exodeviation at distance
+      - usually older
+        - teenagers or adults
+        - more commonly in patients with Parkinson disease
+      - symptoms
+        - asthenopia
+        - blurred near vision
+        - diplopia
+        - accommodative spasms may occur
+        - most noticeable during reading
+      - examination
+        - poor near fusional convergence amplitudes
+          - remote near point of convergence
+            - .>10 cm
+      - treatment
+        - orthoptic near-point exercises
+          - base-out prisms
+            - to stimulate fusional convergence during reading
+          - stereograms
+          - pencil push-ups
+          - computer-based convergence training programs
+        - base-in prism reading glasses
+          - if near-point exercises fail to relieve symptoms
+        - surgical treatment
+          - medial rectus muscle resections
+            - in patients whose problems persist despite medical therapy
+    - convergence weakness associated with both near exodeviation & distance exodeviation
+      - near exodeviation > distance exodeviation
+      - etiology
+        - previous medial rectus muscle recessions
+          - show underaction of these muscles
+          - treatment
+            - advancement of the previously recessed medial rectus muscles
+              - ±
+                - recession of the lateral rectus muscles
+        - no previous medial rectus muscle surgery
+          - treatment
+            - standard amount of lateral rectus muscle recession and medial rectus resection are reversed
+- Other Forms of Exotropia
+  - Exotropic Duane Retraction Syndrome
+    - DRS can present with exotropia
+    - deficient adduction
+    - head turn away from the affected eye
+  - Neuromuscular Abnormalities
+    - third nerve palsy
+    - internuclear ophthalmoplegia
+    - myasthenia gravis
+  - dissociated horizontal deviation (DHD)
+    - dissociated strabismus complex
+      - may include vertical, horizontal, and torsional components
+    - dissociated abduction movement
+      - not a true exotropia
+      - can be confused with a constant or intermittent exotropia
+    - dissociated vertical deviation and latent nystagmus often coexist with DHD
+    - DHD must be differentiated from anisohyperopia associated with intermittent exotropia
+      - exotropic deviation is present when the patient fixates with the normal eye
+      - exotropic deviation is absent during fixation with the hyperopic eye because of accommodation
+    - treatment
+      - unilateral or bilateral lateral rectus recession
+      - ± oblique or vertical muscle surgery
+  - Convergence Paralysis
+    - etiology
+      - intracranial lesion
+        - most commonly associated with dorsal midbrain syndrome
+    - normal adduction and accommodation
+    - exotropia and diplopia present at attempted near fixation only
+    - differential diagnosis
+      - malingering or lack of effort
+        - distinguished by absence of pupillary reaction when instructed to focus at near
+    - treatment
+      - base-in prisms at near
+        - to alleviate diplopia
+      - plus lenses may be required if accommodation is limited
+      - monocular occlusion is indicated if diplopia cannot be otherwise treated
+- Constant Exotropia
+  - Introduction
+    - etiology
+      - older patients with sensory exotropia
+      - decompensated long-standing intermittent exotropia
+    - surgical treatment
+      - bilateral lateral rectus muscle recessions
+      - unilateral lateral rectus muscle recession + medial rectus muscle resection
+      - .>50Δ exodeviations
+        - surgery on 3 or 4 muscles is sometimes performed
+    - enlarged field of peripheral vision
+      - may notice field constriction when eyes are straightened!
+  - Infantile Exotropia
+    - much less common than infantile esotropia
+    - < age 6 months
+    - large-angle constant exodeviation
+    - history of developmental delay
+      - refer for neurologic assessment if there are indications of delay
+    - increased risk of
+      - associated neurologic impairment
+      - craniofacial disorders
+    - treatment
+      - early surgery
+        - can lead to monofixation with gross binocular vision
+          - restoration of normal binocular function is rare
+      - outcomes similar to those for infantile esotropia
+    - may develop
+      - dissociated vertical deviations
+      - overelevation in adduction
+  - Sensory Exotropia
+    - any condition that severely reduces vision in 1 eye
+      - anisometropia
+      - corneal or lens opacities
+      - optic atrophy or hypoplasia
+      - retinal lesions
+      - amblyopia
+    - some persons become esotropic and others exotropic after unilateral vision loss
+      - both sensory esotropia and sensory exotropia occur in infants and young children
+      - exotropia predominates in older children and adults
+    - if vision in exotropic eye can be improved, peripheral fusion may sometimes be reestablished after surgical realignment
+      - provided sensory exotropia has not been present for an extended period
+    - central fusion disruption
+      - develops when adult-onset sensory exotropia has been present for several years
+      - can lead to constant and permanent diplopia even with well-aligned eyes
+  - Consecutive Exotropia
+    - occurs after a period of esotropia
+      - spontaneous
+        - rare
+      - after previous surgery for esotropia
+        - more common
+    - develops within a few months or years after initial surgery
+      - in some patients with infantile esotropia, exotropia may not develop until adulthood

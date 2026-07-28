@@ -1,0 +1,662 @@
+{
+  "label": "9.6.14. Posterior Uveitis (VII): White Dot Syndromes (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "CNV",
+      "children": [
+        {
+          "label": "leading cause of vision loss"
+        }
+      ]
+    },
+    {
+      "label": "Multifocal choroiditis and panuveitis (MCP)",
+      "children": [
+        {
+          "label": "multifocal choroiditis (MFC)",
+          "children": [
+            {
+              "label": "MCP"
+            },
+            {
+              "label": "PIC"
+            },
+            {
+              "label": "subretinal fibrosis and uveitis syndrome (SFU)"
+            }
+          ]
+        },
+        {
+          "label": "young women with myopia",
+          "children": [
+            {
+              "label": "9-69 years",
+              "children": [
+                {
+                  "label": "F:M=3:1"
+                },
+                {
+                  "label": "PIC patient's are younger"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "unknown"
+            },
+            {
+              "label": "viral etiology",
+              "children": [
+                {
+                  "label": "herpes simplex and Epstein-Barr virus"
+                },
+                {
+                  "label": "initial viral infection may trigger an autoimmune process"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "floaters"
+                },
+                {
+                  "label": "photopsias"
+                },
+                {
+                  "label": "enlargement of the physiologic blind spot"
+                },
+                {
+                  "label": "decreased vision"
+                }
+              ]
+            },
+            {
+              "label": "bilateral",
+              "children": [
+                {
+                  "label": "asymmetrical"
+                }
+              ]
+            },
+            {
+              "label": "active lesions",
+              "children": [
+                {
+                  "label": "multiple creamy opaque dots (50–200 μm)",
+                  "children": [
+                    {
+                      "label": "peripapillary, midperipheral, and anterior equatorial distribution"
+                    },
+                    {
+                      "label": "smaller than birdshot uveitis or APMPPE"
+                    },
+                    {
+                      "label": "larger and more pigmented than PIC"
+                    },
+                    {
+                      "label": "new lesions may appear"
+                    }
+                  ]
+                },
+                {
+                  "label": "varying degrees of anterior segment inflammation"
+                },
+                {
+                  "label": "vitritis",
+                  "children": [
+                    {
+                      "label": "excludes OHS or PIC"
+                    },
+                    {
+                      "label": "PIC lesions are deeper and more punched out than those of MCP"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "regressed lesions",
+              "children": [
+                {
+                  "label": "atrophic yellow-white punched-out scars"
+                },
+                {
+                  "label": "varying degrees of hyperpigmentation"
+                }
+              ]
+            },
+            {
+              "label": "peripheral chorioretinal streaks"
+            },
+            {
+              "label": "peripapillary pigment changes",
+              "children": [
+                {
+                  "label": "similar to OHS",
+                  "children": [
+                    {
+                      "label": "subretinal fibrosis with RPE clumping is much more common in MCP!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "complications",
+              "children": [
+                {
+                  "label": "cataract"
+                },
+                {
+                  "label": "ERM",
+                  "children": [
+                    {
+                      "label": "CME",
+                      "children": [
+                        {
+                          "label": "unlike PIC"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "natural course",
+              "children": [
+                {
+                  "label": "insidious onset",
+                  "children": [
+                    {
+                      "label": "similar to PIC"
+                    }
+                  ]
+                },
+                {
+                  "label": "chronic recurrent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "paraclinical evaulation",
+          "children": [
+            {
+              "label": "FA",
+              "children": [
+                {
+                  "label": "active lesions",
+                  "children": [
+                    {
+                      "label": "early hypofluorescence"
+                    },
+                    {
+                      "label": "late staining"
+                    }
+                  ]
+                },
+                {
+                  "label": "regressed lesions",
+                  "children": [
+                    {
+                      "label": "transmission defects (early hyperfluorescence that fades in late phase)"
+                    }
+                  ]
+                },
+                {
+                  "label": "macular edema and CNV",
+                  "children": [
+                    {
+                      "label": "early hyperfluorescence and late leakage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ICG angiography",
+              "children": [
+                {
+                  "label": "active lesions",
+                  "children": [
+                    {
+                      "label": "midphase hypofluorescent lesions"
+                    },
+                    {
+                      "label": "more numerous than on clinical examination or FA"
+                    }
+                  ]
+                },
+                {
+                  "label": "regressed lesions",
+                  "children": [
+                    {
+                      "label": "clustered around the optic nerve",
+                      "children": [
+                        {
+                          "label": "may correlate with an enlarged blind spot"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "hypofluorescent spots may fade with treatment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "FAF imaging",
+              "children": [
+                {
+                  "label": "active lesions",
+                  "children": [
+                    {
+                      "label": "hyperautofluorescence"
+                    }
+                  ]
+                },
+                {
+                  "label": "regressed lesions",
+                  "children": [
+                    {
+                      "label": "punctate hypoautofluorescent spots (≥125 μm)",
+                      "children": [
+                        {
+                          "label": "correspond to areas of chorioretinal atrophy"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "smaller hypoautofluorescent spots (<125 μm) numbering in the hundreds may be seen in the macular and peripapillary regions not visible on fundus photography"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "OCT imaging",
+              "children": [
+                {
+                  "label": "drusenlike material beneath the RPE at the site of visible spots",
+                  "children": [
+                    {
+                      "label": "associated with more widespread disruption of the overlying outer retina"
+                    }
+                  ]
+                },
+                {
+                  "label": "choroidal hyperreflectivity beneath the deposits"
+                }
+              ]
+            },
+            {
+              "label": "pathology",
+              "children": [
+                {
+                  "label": "from large numbers of B lymphocytes in the choroid to a predominance of T lymphocytes"
+                },
+                {
+                  "label": "different immune mechanisms may produce a similar clinical picture"
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "diagnosis of exclusion",
+                  "children": [
+                    {
+                      "label": "sarcoidosis"
+                    },
+                    {
+                      "label": "syphilis"
+                    },
+                    {
+                      "label": "TB"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "systemic/periocular corticosteroids",
+              "children": [
+                {
+                  "label": "for macular edema"
+                },
+                {
+                  "label": "+- induce regression of CNV"
+                }
+              ]
+            },
+            {
+              "label": "IMT",
+              "children": [
+                {
+                  "label": "successful in achieving inflammatory quiescence"
+                },
+                {
+                  "label": "83% reduction in the risk of posterior pole complications (CME, ERM, and CNV)"
+                },
+                {
+                  "label": "92% reduction in vision loss to ≤20/200"
+                }
+              ]
+            },
+            {
+              "label": "intravitreal fluocinolone acetonide implant"
+            },
+            {
+              "label": "CNV",
+              "children": [
+                {
+                  "label": "intravitreal anti-VEGF drugs"
+                },
+                {
+                  "label": "laser"
+                },
+                {
+                  "label": "inflammatory component should be well controlled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "guarded visual prognosis",
+          "children": [
+            {
+              "label": "permanent vision loss in at least 1 eye",
+              "children": [
+                {
+                  "label": "75%"
+                }
+              ]
+            },
+            {
+              "label": "vision loss to ≤20/200",
+              "children": [
+                {
+                  "label": "12% per eye-year"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Punctate inner choroiditis (PIC)",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "young women with myopia",
+              "children": [
+                {
+                  "label": "18-40 years",
+                  "children": [
+                    {
+                      "label": "younger median age compared to MCP (29 vs 45 years)"
+                    }
+                  ]
+                },
+                {
+                  "label": "90% F"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "metamorphopsia"
+            },
+            {
+              "label": "paracentral scotomata"
+            },
+            {
+              "label": "photopsias"
+            },
+            {
+              "label": "asymmetric loss of central acuity"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "PIC lesions",
+              "children": [
+                {
+                  "label": "white-yellow chorioretinal lesions"
+                },
+                {
+                  "label": "100–200 μm"
+                },
+                {
+                  "label": "rarely extend to the midperiphery"
+                },
+                {
+                  "label": "progress to atrophic scars",
+                  "children": [
+                    {
+                      "label": "pigmented halo",
+                      "children": [
+                        {
+                          "label": "deeper and more punched out than those of MCP"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "serous retinal detachment",
+              "children": [
+                {
+                  "label": "over confluent PIC lesions"
+                }
+              ]
+            },
+            {
+              "label": "CNV",
+              "children": [
+                {
+                  "label": "common vision-threatening complication in PIC & MCP",
+                  "children": [
+                    {
+                      "label": "more frequent at presentation in patients with PIC (79% vs 28%)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cataract",
+              "children": [
+                {
+                  "label": "no vitritis",
+                  "children": [
+                    {
+                      "label": "in contrast to MCP"
+                    }
+                  ]
+                },
+                {
+                  "label": "rare",
+                  "children": [
+                    {
+                      "label": "unlike MCP"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "CME"
+            },
+            {
+              "label": "ERM"
+            },
+            {
+              "label": "natural course",
+              "children": [
+                {
+                  "label": "acute onset"
+                },
+                {
+                  "label": "self-limited",
+                  "children": [
+                    {
+                      "label": "unlike MCP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "paraclinical evaluation",
+          "children": [
+            {
+              "label": "FA",
+              "children": [
+                {
+                  "label": "early hypofluorescence with late staining"
+                },
+                {
+                  "label": "+- early hyperfluorescence (especially with CNV)"
+                }
+              ]
+            },
+            {
+              "label": "ICG angiography",
+              "children": [
+                {
+                  "label": "midphase hypofluorescence",
+                  "children": [
+                    {
+                      "label": "corresponds to lesions apparent on FA and clinical examination"
+                    },
+                    {
+                      "label": "useful in delineating disease extent and activity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "OCT",
+              "children": [
+                {
+                  "label": "findings similar to those of MCP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "observation"
+            },
+            {
+              "label": "periocular and/or systemic corticosteroids",
+              "children": [
+                {
+                  "label": "poor initial visual acuity"
+                },
+                {
+                  "label": "multiple acute PIC lesions proximate to the fovea"
+                }
+              ]
+            },
+            {
+              "label": "CNV",
+              "children": [
+                {
+                  "label": "intravitreal anti-VEGF"
+                },
+                {
+                  "label": "laser photocoagulation"
+                },
+                {
+                  "label": "photodynamic therapy"
+                },
+                {
+                  "label": "submacular surgery"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "visual prognosis",
+          "children": [
+            {
+              "label": "favorable in absence of CNV involving the foveal center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "In contrast to MCP",
+      "children": [
+        {
+          "label": "patients with MCP are more likely to have bilateral visual impairment (≤20/50)"
+        }
+      ]
+    },
+    {
+      "label": "worse visual prognosis than PIC"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.14. Posterior Uveitis (VII) - White Dot Syndromes (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 326,
+      "connector_rejected": 120,
+      "connector_edges": 176,
+      "connector_width": 0.685,
+      "text_labels": 165,
+      "tree_nodes": 165,
+      "component_roots": 4,
+      "spatially_recovered_labels": 6,
+      "connector_match_ratio": 0.5399,
+      "root_font_size": 2.91,
+      "warnings": []
+    }
+  }
+}

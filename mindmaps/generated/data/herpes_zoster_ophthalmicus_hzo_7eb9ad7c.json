@@ -1,0 +1,682 @@
+{
+  "label": "Herpes Zoster Ophthalmicus (HZO)",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "70-year-old man with history of pain, redness, and increased sensation around his right eye"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "in immunosuppressed patients, zoster may involve more than 1 branch of the trigeminal nerve at the same time and may be chronic with multiple recurrences"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "diagnosis is clinical and cultures not routinely necessary"
+        },
+        {
+          "label": "scrapings from the base of a vesicle",
+          "children": [
+            {
+              "label": "cytology"
+            },
+            {
+              "label": "PCR"
+            },
+            {
+              "label": "viral culture"
+            },
+            {
+              "label": "VZV antige"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "HZO"
+        }
+      ]
+    },
+    {
+      "label": "aging",
+      "children": [
+        {
+          "label": "majority are otherwise healthy",
+          "children": [
+            {
+              "label": "periocular redness, vesicular rash, and crusting around the right eye in the distribution of ophthalmic division of trigeminal nerve"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "HIV infection",
+      "children": [
+        {
+          "label": "trauma/surgery"
+        },
+        {
+          "label": "debilitating disease"
+        },
+        {
+          "label": "systemic malignancy",
+          "children": [
+            {
+              "label": "immunosuppressive therapy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "herpes zoster ophthalmicus",
+          "children": [
+            {
+              "label": "reactivation of latent virus due to a waning level of immunity",
+              "children": [
+                {
+                  "label": "radiation therapy"
+                }
+              ]
+            },
+            {
+              "label": "6th-9th decade of life"
+            },
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "pain"
+            },
+            {
+              "label": "paresthesia"
+            },
+            {
+              "label": "skin rash",
+              "children": [
+                {
+                  "label": "vesicular"
+                },
+                {
+                  "label": "dermatomal",
+                  "children": [
+                    {
+                      "label": "trigeminal nerve",
+                      "children": [
+                        {
+                          "label": "1st division more often afffected",
+                          "children": [
+                            {
+                              "label": "Hutchinson sign",
+                              "children": [
+                                {
+                                  "label": "spares the lower lid"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "can leave significant scarring"
+                },
+                {
+                  "label": "postherpetic neuralgia can continue for months to years"
+                }
+              ]
+            },
+            {
+              "label": "conjunctivitis"
+            },
+            {
+              "label": "corneal involvement",
+              "children": [
+                {
+                  "label": "punctate & dendritic keratitis",
+                  "children": [
+                    {
+                      "label": "branching or “medusa-like”"
+                    },
+                    {
+                      "label": "stain minimally with fluorescein and rose bengal"
+                    },
+                    {
+                      "label": "blunt rather than bulbous ends"
+                    }
+                  ]
+                },
+                {
+                  "label": "stromal keratitis",
+                  "children": [
+                    {
+                      "label": "nummular corneal infiltrates"
+                    },
+                    {
+                      "label": "interstitial keratitis/disciform keratitis in HZO are clinically indistinguishable from HSV infection"
+                    },
+                    {
+                      "label": "complications",
+                      "children": [
+                        {
+                          "label": "corneal opacity"
+                        },
+                        {
+                          "label": "corneal vascularization"
+                        },
+                        {
+                          "label": "lipid keratopathy"
+                        },
+                        {
+                          "label": "neurotrophic keratopathy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "uveitis"
+            },
+            {
+              "label": "elevated IOP"
+            },
+            {
+              "label": "sectoral iris atrophy"
+            },
+            {
+              "label": "retinitis"
+            }
+          ]
+        },
+        {
+          "label": "herpes simplex (HSV)",
+          "children": [
+            {
+              "label": "younger"
+            },
+            {
+              "label": "not dermatomal (incomplete)"
+            },
+            {
+              "label": "less pain"
+            },
+            {
+              "label": "does not cause skin scarring"
+            },
+            {
+              "label": "no postherpetic neuralgia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "oral antiviral",
+              "children": [
+                {
+                  "label": "decreases",
+                  "children": [
+                    {
+                      "label": "viral shedding from vesicular skin lesions"
+                    },
+                    {
+                      "label": "chance of systemic dissemination"
+                    },
+                    {
+                      "label": "incidence and severity of the most common ocular complications"
+                    },
+                    {
+                      "label": "may reduce the duration and severity if not the incidence of postherpetic neuralgia",
+                      "children": [
+                        {
+                          "label": "if begun within 72 hours of the onset of symptoms"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "drugs",
+                  "children": [
+                    {
+                      "label": "oral acyclovir",
+                      "children": [
+                        {
+                          "label": "800 mg 5x/day"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "famciclovir"
+                    },
+                    {
+                      "label": "valacyclovir"
+                    },
+                    {
+                      "label": "x 7-10 days"
+                    },
+                    {
+                      "label": "best if started within 72 hours of the onset of skin lesions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "intravenous antiviral",
+              "children": [
+                {
+                  "label": "in patients at risk for disseminated zoster due to immunosuppression"
+                }
+              ]
+            },
+            {
+              "label": "topical antiviral medications",
+              "children": [
+                {
+                  "label": "not effective",
+                  "children": [
+                    {
+                      "label": "except",
+                      "children": [
+                        {
+                          "label": "corneal epithelial mucoid plaques"
+                        },
+                        {
+                          "label": "more chronic epithelial disease"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "zoster vaccine",
+              "children": [
+                {
+                  "label": "live, attenuated zoster vaccine"
+                },
+                {
+                  "label": "recombinant zoster vaccine",
+                  "children": [
+                    {
+                      "label": "preferred vaccine for immunocompetent adults ≥50 years"
+                    },
+                    {
+                      "label": "decreases the risk of VZV by >90%"
+                    }
+                  ]
+                },
+                {
+                  "label": "vaccination in patients with previous HZO",
+                  "children": [
+                    {
+                      "label": "potential to reactivate or exacerbate HZO-related inflammation"
+                    },
+                    {
+                      "label": "should be administered during an extensive quiet period"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "dermatitis",
+              "children": [
+                {
+                  "label": "moist warm compresses and"
+                },
+                {
+                  "label": "topical antibiotic ointment"
+                }
+              ]
+            },
+            {
+              "label": "conjunctivitis",
+              "children": [
+                {
+                  "label": "cool compress"
+                },
+                {
+                  "label": "ophthalmic antibiotic ointment"
+                }
+              ]
+            },
+            {
+              "label": "conjunctival/corneal dendrites/pseudodendrites",
+              "children": [
+                {
+                  "label": "preservative-free artificial tears"
+                },
+                {
+                  "label": "ophthalmic antibiotic ointment"
+                },
+                {
+                  "label": "topical antivirals",
+                  "children": [
+                    {
+                      "label": "ganciclovir gel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "immune stromal (disciform) keratitis with no epithelial defect",
+              "children": [
+                {
+                  "label": "topical steroid"
+                }
+              ]
+            },
+            {
+              "label": "uveitis",
+              "children": [
+                {
+                  "label": "oral antiviral",
+                  "children": [
+                    {
+                      "label": "often beneficial in intraocular inflammation associated with HSV or VZV uveitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical steroid"
+                },
+                {
+                  "label": "topical cycloplegic",
+                  "children": [
+                    {
+                      "label": "initiation of oral antiviral therapy at the onset of VZV uveitis is recommended"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "retinitis",
+              "children": [
+                {
+                  "label": "intravenous antivirals"
+                },
+                {
+                  "label": "intravitreal antivirals"
+                },
+                {
+                  "label": "oral steroid"
+                },
+                {
+                  "label": "retinal photocoagulation"
+                }
+              ]
+            },
+            {
+              "label": "pain/neuralgia",
+              "children": [
+                {
+                  "label": "cold compress"
+                },
+                {
+                  "label": "oral analgesics"
+                },
+                {
+                  "label": "capsaicin cream",
+                  "children": [
+                    {
+                      "label": "amitriptyline, desipramine, clomipramine, or carbamazepine"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical lidocaine patch 5%"
+                },
+                {
+                  "label": "EMLA cream"
+                },
+                {
+                  "label": "gabapentin"
+                },
+                {
+                  "label": "referral to a pain management specialist"
+                }
+              ]
+            },
+            {
+              "label": "neurotrophic keratopathy",
+              "children": [
+                {
+                  "label": "artificial tears, gels, or ointments"
+                },
+                {
+                  "label": "punctal occlusion"
+                },
+                {
+                  "label": "tarsorrhaphy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Referrals",
+          "children": [
+            {
+              "label": "medical evaluation if immunodeficiency suspected",
+              "children": [
+                {
+                  "label": ".>60 years old",
+                  "children": [
+                    {
+                      "label": "especially if systemic steroid treatment is to be initiated"
+                    }
+                  ]
+                },
+                {
+                  "label": "other organ systems/non- ophthalmic sites involved"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "difficult to treat"
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course"
+            },
+            {
+              "label": "immune status"
+            },
+            {
+              "label": "previous episodes"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "lid vesicles"
+            },
+            {
+              "label": "rash/vesicles elsewhere"
+            },
+            {
+              "label": "IOP"
+            },
+            {
+              "label": "conjunctival follicles"
+            },
+            {
+              "label": "dendritic/disciform keratitis",
+              "children": [
+                {
+                  "label": "fluorescein/rose bengal staining",
+                  "children": [
+                    {
+                      "label": "patchy with herpes simplex"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "KP"
+            },
+            {
+              "label": "AC rxn"
+            },
+            {
+              "label": "iris atrophy/transillumination defect",
+              "children": [
+                {
+                  "label": "sectoral with varicella-zoster"
+                }
+              ]
+            },
+            {
+              "label": "dilated fundus exam",
+              "children": [
+                {
+                  "label": "retinitis",
+                  "children": [
+                    {
+                      "label": "ARN in immunocompetent"
+                    },
+                    {
+                      "label": "PORN in immunocompromised"
+                    }
+                  ]
+                },
+                {
+                  "label": "optic neuritis"
+                }
+              ]
+            },
+            {
+              "label": "cranial nerve examination"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Don’ts",
+          "children": [
+            {
+              "label": "avoid contact with varicella- naive pregnant women"
+            }
+          ]
+        },
+        {
+          "label": "Course",
+          "children": [
+            {
+              "label": "relapses may occur"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good prognosis with treatment",
+              "children": [
+                {
+                  "label": "resolves in 14 days"
+                }
+              ]
+            },
+            {
+              "label": "poor prognosis for retinal necrosis"
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "children": [
+            {
+              "label": "postherpetic neuralgia",
+              "children": [
+                {
+                  "label": "less risk if HZO treated within 72 hours with oral antiviral"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "q 1-7 days",
+              "children": [
+                {
+                  "label": "then q 3-6 months"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Herpes Zoster Ophthalmicus (HZO).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 306,
+      "connector_rejected": 14,
+      "connector_edges": 224,
+      "connector_width": 0.976,
+      "text_labels": 175,
+      "tree_nodes": 175,
+      "component_roots": 10,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.732,
+      "root_font_size": 4.553,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,97 @@
+---
+title: "10.7.2. Medical Management of Glaucoma (II): β-Adrenergic Antagonists"
+category: "Glaucoma"
+subcategory: ""
+source_pdf: "MindmapPDF/Glaucoma/10.7.2. Medical Management of Glaucoma (II) - β-Adrenergic Antagonists.pdf"
+---
+
+# 10.7.2. Medical Management of Glaucoma (II): β-Adrenergic Antagonists
+
+## Hierarchy
+
+- mechanism
+  - inhibit cyclic adenosine monophosphate (cAMP) production in ciliary epithelium
+    - reduce aqueous humor secretion
+      - 20%–50%
+      - 2.5 μL/min to 1.9 μL/min
+      - during the day
+        - much less effect during sleep
+    - reduce IOP
+      - 20%–30%
+      - within 1 hour of instillation
+      - up to 4 weeks after discontinuation
+      - reduce IOP in the untreated contralateral eye
+- dosing
+  - twice-daily
+  - ± nonselective agents may be used once daily
+  - dosing first thing in the morning is preferred
+    - to blunt an early-morning pressure rise
+    - to minimize the risk of systemic hypotension during sleep
+  - in many patients, timolol 0.25% is as effective as timolol 0.5%
+- additive effects
+  - β-Blockers are additive in combination with miotics, adrenergic agonists, CAIs (both topical and systemic), and prostaglandin analogues
+  - β-blockers + nonselective adrenergic agonists
+    - only slightly additive
+  - β-blockers + α2-adrenergic agonists
+    - more additive
+  - fixed combinations of timolol + prostaglandin analogue
+    - once daily
+    - slightly less effective than their individual components given separately
+    - timolol + latanoprost
+      - additional IOP reduction of 13%-37%
+- ocular and systemic adverse effects
+  - bronchospasm
+    - may induce severe bronchospasm in susceptible patients
+  - bradycardia
+    - pulse should be measured
+    - withhold if pulse rate slow
+  - increased heart block
+    - withhold if > first-degree heart block
+  - lowered blood pressure
+    - syncope
+  - CNS depression
+    - mood changes
+    - depression
+    - altered mentation
+    - lethargy
+    - light-headedness
+  - reduced exercise tolerance
+  - reduced glucose tolerance
+  - masking of hypoglycemic signs and symptoms
+  - abrupt withdrawal can exacerbate symptoms of hyperthyroidism
+  - allergy
+    - myasthenia gravis aggravation
+  - impotence
+  - reduced libido
+  - visual disturbance
+  - corneal anesthesia
+  - punctate keratitis
+  - alteration of serum lipids
+    - decrease high-density lipoprotein
+    - increase cholesterol levels
+    - no evidence that this influences cardiovascular risk
+    - carteolol may have less effect on serum lipid levels
+  - use with caution in children
+  - use of a gel vehicle decreases the plasma concentration of β-blockers compared to the equivalent solution
+- efficacy
+  - 10%–20% fail to respond with significantly lower IOP
+  - patients on systemic β-blocker may experience little additional IOP lowering from a topical β-blocker
+  - long-term drift/tachyphylaxis
+    - extended use of β-blockers may reduce their effectiveness
+  - short-term escape
+    - receptor saturation (drug-induced up- regulation of β-adrenergic receptors)
+    - within a few weeks
+- 6 topical β-adrenergic antagonists are approved
+  - selective β1 antagonist
+    - betaxolol
+    - safer in patients with pulmonary, CNS, or other systemic conditions
+      - activity of β1 is largely cardiac
+      - activity of β2 is largely pulmonary
+    - less effective than nonselective β-adrenergic antagonists
+  - nonselective β1 and β2 antagonists
+    - carteolol
+      - intrinsic sympathomimetic activity
+    - levobunolol
+    - metipranolol
+    - timolol maleate
+    - timolol hemihydrate

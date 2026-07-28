@@ -1,0 +1,437 @@
+{
+  "label": "5.14.13. Systemic Conditions (XIII): Neuro-Ophthalmic Manifestations of Infectious Diseases (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Herpesvirus",
+      "children": [
+        {
+          "label": "organisms",
+          "children": [
+            {
+              "label": "herpes simplex virus (human herpesvirus 1 and 2)"
+            },
+            {
+              "label": "herpes varicella-zoster virus"
+            }
+          ]
+        },
+        {
+          "label": "neuro-ophthalmic findings are uncommon with herpesvirus infection"
+        },
+        {
+          "label": "necrotizing retinitis",
+          "children": [
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "photophobia"
+                },
+                {
+                  "label": "ocular pain"
+                },
+                {
+                  "label": "floaters"
+                },
+                {
+                  "label": "decreased visual acuity"
+                }
+              ]
+            },
+            {
+              "label": "panuveitis"
+            },
+            {
+              "label": "vitritis"
+            },
+            {
+              "label": "retinal arteritis"
+            },
+            {
+              "label": "disc edema"
+            },
+            {
+              "label": "initially spares the posterior pole"
+            }
+          ]
+        },
+        {
+          "label": "CNS encephalitis",
+          "children": [
+            {
+              "label": "most common neurologic manifestation of herpes infection"
+            }
+          ]
+        },
+        {
+          "label": "radiculitis",
+          "children": [
+            {
+              "label": "herpes zoster ophthalmicus"
+            },
+            {
+              "label": "Ramsay Hunt syndrome"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Syphilis",
+      "children": [
+        {
+          "label": "syphilis may accompany HIV infection"
+        },
+        {
+          "label": "ophthalmic presentations",
+          "children": [
+            {
+              "label": "optic neuritis",
+              "children": [
+                {
+                  "label": "papillitis"
+                }
+              ]
+            },
+            {
+              "label": "arterial and venous occlusions"
+            },
+            {
+              "label": "vasculitis",
+              "children": [
+                {
+                  "label": "necrotizing vasculitis"
+                }
+              ]
+            },
+            {
+              "label": "chorioretinitis"
+            },
+            {
+              "label": "uveitis"
+            },
+            {
+              "label": "retinal hemorrhages"
+            }
+          ]
+        },
+        {
+          "label": "meningovascular syphilis",
+          "children": [
+            {
+              "label": "visual field defects"
+            },
+            {
+              "label": "ocular motility disorders (ocular motor cranial nerve palsies)"
+            }
+          ]
+        },
+        {
+          "label": "CSF examination",
+          "children": [
+            {
+              "label": "positive syphilis serology",
+              "children": [
+                {
+                  "label": "false-negative and false-positive results are more common in patients infected with HIV"
+                },
+                {
+                  "label": "CSF VDRL test alone cannot be relied upon to confirm CNS infection",
+                  "children": [
+                    {
+                      "label": "VDRL is non-treponemal but more specific for neurosyphylis"
+                    }
+                  ]
+                },
+                {
+                  "label": "CSF examination",
+                  "children": [
+                    {
+                      "label": "every case of syphilitic uveitis"
+                    },
+                    {
+                      "label": "(+) CSF VDRL",
+                      "children": [
+                        {
+                          "label": "diagnostic of neurosyphilis",
+                          "children": [
+                            {
+                              "label": "high specificity"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "low sensitivity",
+                          "children": [
+                            {
+                              "label": "+- nonreactive in some cases of neurosyphilis"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "repeat every 6 months until the cell count, protein, and VDRL results return to normal"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "CSF FTA-ABS",
+                      "children": [
+                        {
+                          "label": "highly sensitive",
+                          "children": [
+                            {
+                              "label": "useful in excluding neurosyphilis"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "FTA-ABS is treponemal but less specific for neurosyphylis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "elevated protein level"
+            },
+            {
+              "label": "pleocytosis",
+              "children": [
+                {
+                  "label": "aqueous penicillin G",
+                  "children": [
+                    {
+                      "label": "12–24 million U/day IV for 10–14 days"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "reexamine the CSF to monitor treatment effectiveness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Progressive Multifocal Leukoencephalopathy (PML)",
+      "children": [
+        {
+          "label": "JC virus",
+          "children": [
+            {
+              "label": "polyomavirus"
+            },
+            {
+              "label": "destroys oligodendrocytes"
+            }
+          ]
+        },
+        {
+          "label": "predisposing conditions",
+          "children": [
+            {
+              "label": "lymphoproliferative disorders"
+            },
+            {
+              "label": "impaired cell-mediated immunity"
+            },
+            {
+              "label": "immunomodulating medications",
+              "children": [
+                {
+                  "label": "natalizumab"
+                }
+              ]
+            },
+            {
+              "label": "HIV",
+              "children": [
+                {
+                  "label": "1–4% of HIV-infected patients"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "involves subcortical white matter"
+            },
+            {
+              "label": "gray matter is relatively spared"
+            }
+          ]
+        },
+        {
+          "label": "neuro-ophthalmic manifestations",
+          "children": [
+            {
+              "label": "central visual pathways and ocular motor fibers can be affected"
+            },
+            {
+              "label": "homonymous hemianopia"
+            },
+            {
+              "label": "blurred vision"
+            },
+            {
+              "label": "cerebral blindness"
+            },
+            {
+              "label": "prosopagnosia"
+            },
+            {
+              "label": "diplopia"
+            }
+          ]
+        },
+        {
+          "label": "other neurologic findings",
+          "children": [
+            {
+              "label": "altered mental status"
+            },
+            {
+              "label": "ataxia"
+            },
+            {
+              "label": "dementia"
+            },
+            {
+              "label": "hemiparesis"
+            },
+            {
+              "label": "focal deficits"
+            }
+          ]
+        },
+        {
+          "label": "MRI",
+          "children": [
+            {
+              "label": "areas of demyelination",
+              "children": [
+                {
+                  "label": "parieto-occipital region"
+                },
+                {
+                  "label": "focal or confluent nonenhancing lesions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "correcting the underlying immune deficiency state"
+            },
+            {
+              "label": "plasma exchange",
+              "children": [
+                {
+                  "label": "may be helpful"
+                }
+              ]
+            },
+            {
+              "label": "prognosis is poor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mycobacterium",
+      "children": [
+        {
+          "label": "organisms",
+          "children": [
+            {
+              "label": "Mycobacterium tuberculosis"
+            },
+            {
+              "label": "Mycobacterium avium-intracellulare complex"
+            }
+          ]
+        },
+        {
+          "label": "tuberculous meningitis",
+          "children": [
+            {
+              "label": "photophobia"
+            },
+            {
+              "label": "third and sixth nerve paresis"
+            },
+            {
+              "label": "papilledema"
+            },
+            {
+              "label": "retrobulbar optic neuritis"
+            },
+            {
+              "label": "anisocoria"
+            },
+            {
+              "label": "obliterative endarteritis",
+              "children": [
+                {
+                  "label": "cerebral infarction"
+                }
+              ]
+            },
+            {
+              "label": "neuroimaging",
+              "children": [
+                {
+                  "label": "hydrocephalus"
+                },
+                {
+                  "label": "abscess formation"
+                },
+                {
+                  "label": "granulomas"
+                },
+                {
+                  "label": "enhancement of the basal meninges with contrast administration"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.14.13. Systemic Conditions (XIII) - Neuro-Ophthalmic Manifestations of Infectious Diseases (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 196,
+      "connector_rejected": 4,
+      "connector_edges": 149,
+      "connector_width": 0.977,
+      "text_labels": 112,
+      "tree_nodes": 112,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.7602,
+      "root_font_size": 4.152,
+      "warnings": []
+    }
+  }
+}

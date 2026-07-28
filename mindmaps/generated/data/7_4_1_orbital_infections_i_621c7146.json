@@ -1,0 +1,828 @@
+{
+  "label": "7.4.1. Orbital Infections (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction to orbital inflammations",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "specific inflammations",
+              "children": [
+                {
+                  "label": "identifiable cause",
+                  "children": [
+                    {
+                      "label": "infection"
+                    },
+                    {
+                      "label": "autoimmune disease"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nonspecific inflammations",
+              "children": [
+                {
+                  "label": "no known local or systemic cause"
+                },
+                {
+                  "label": "diagnosis of exclusion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cellulitis",
+      "children": [
+        {
+          "label": "most common cause of cellulitis is bacterial infection",
+          "children": [
+            {
+              "label": "direct spread from adjacent sinusitis, dacryocystitis, or dacryoadenitis",
+              "children": [
+                {
+                  "label": "most commonly caused by underlying sinusitis",
+                  "children": [
+                    {
+                      "label": "particularly if no obvious source of inoculation is noted"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "direct inoculation following trauma or skin infection"
+            },
+            {
+              "label": "hematologic spread from a distant focus (eg, otitis media, pneumonia)"
+            }
+          ]
+        },
+        {
+          "label": "anatomic classification",
+          "children": [
+            {
+              "label": "preseptal cellulitis",
+              "children": [
+                {
+                  "label": "anterior to orbital septum"
+                }
+              ]
+            },
+            {
+              "label": "orbital cellulitis",
+              "children": [
+                {
+                  "label": "posterior to orbital septum"
+                }
+              ]
+            },
+            {
+              "label": "often represent a continuum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Orbital cellulitis",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "extension from periorbital structures",
+              "children": [
+                {
+                  "label": "sinusitis",
+                  "children": [
+                    {
+                      "label": "usually a secondary extension of acute or chronic bacterial sinusitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "dacryocystitis"
+                },
+                {
+                  "label": "dental infection"
+                }
+              ]
+            },
+            {
+              "label": "exogenous",
+              "children": [
+                {
+                  "label": "trauma"
+                },
+                {
+                  "label": "surgery"
+                }
+              ]
+            },
+            {
+              "label": "endogenous",
+              "children": [
+                {
+                  "label": "bacteremia"
+                }
+              ]
+            },
+            {
+              "label": "intraorbital",
+              "children": [
+                {
+                  "label": "dacryoadenitis"
+                },
+                {
+                  "label": "endophthalmitis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "fever"
+            },
+            {
+              "label": "leukocytosis",
+              "children": [
+                {
+                  "label": "75%"
+                }
+              ]
+            },
+            {
+              "label": "erythema"
+            },
+            {
+              "label": "chemosis"
+            },
+            {
+              "label": "ptosis"
+            },
+            {
+              "label": "proptosis"
+            },
+            {
+              "label": "restriction of and pain with ocular movement"
+            },
+            {
+              "label": "optic neuropathy",
+              "children": [
+                {
+                  "label": "decreased vision"
+                },
+                {
+                  "label": "impaired color vision"
+                },
+                {
+                  "label": "restricted visual fields"
+                },
+                {
+                  "label": "pupillary abnormalities"
+                },
+                {
+                  "label": "demands immediate investigation and aggressive management"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "imaging of the orbit and paranasal sinuses is essential"
+            },
+            {
+              "label": "identification of sinusitis is an indication for otolaryngologic consultation"
+            },
+            {
+              "label": "IV antibiotic therapy",
+              "children": [
+                {
+                  "label": "broad-spectrum coverage"
+                },
+                {
+                  "label": "adults",
+                  "children": [
+                    {
+                      "label": "multiple organisms",
+                      "children": [
+                        {
+                          "label": "gram-positive cocci"
+                        },
+                        {
+                          "label": "H influenzae"
+                        },
+                        {
+                          "label": "Moraxella catarrhalis"
+                        },
+                        {
+                          "label": "anaerobes"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "early surgical intervention to drain the involved sinus is usually indicated",
+                      "children": [
+                        {
+                          "label": "especially if orbital findings progress during treatment"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "children",
+                  "children": [
+                    {
+                      "label": "single gram-positive organism"
+                    },
+                    {
+                      "label": "less likely to require surgical drainage of the infected sinus"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nasal decongestants"
+            },
+            {
+              "label": "steroids",
+              "children": [
+                {
+                  "label": "when used in addition to antibiotic therapy, may hasten recovery"
+                },
+                {
+                  "label": "low risk of worsening infection"
+                }
+              ]
+            },
+            {
+              "label": "orbital cellulitis following blowout fractures",
+              "children": [
+                {
+                  "label": "limited to patients with underlying sinus disease"
+                },
+                {
+                  "label": "prophylactic antibiotics are recommended if CT scan suggests ongoing sinusitis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "complications",
+          "children": [
+            {
+              "label": "subperiosteal abscess",
+              "children": [
+                {
+                  "label": "clinical presentation",
+                  "children": [
+                    {
+                      "label": "progressive proptosis"
+                    },
+                    {
+                      "label": "globe displacement"
+                    },
+                    {
+                      "label": "failure to show clinical improvement despite appropriate antibiotic therapy"
+                    },
+                    {
+                      "label": "usually localize in the subperiosteal space",
+                      "children": [
+                        {
+                          "label": "adjacent to the infected sinus"
+                        },
+                        {
+                          "label": "may extend through the periosteum into the orbital soft tissues"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "treatment",
+                  "children": [
+                    {
+                      "label": "medical",
+                      "children": [
+                        {
+                          "label": "isolated medial or inferior subperiosteal abscess in child <9 years",
+                          "children": [
+                            {
+                              "label": "isolated ethmoid sinusitis, intact vision, and only moderate proptosis"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "surgical (+ medical)",
+                      "children": [
+                        {
+                          "label": "patient aged ≥9 years",
+                          "children": [
+                            {
+                              "label": "multiple pathogens that are drug resistant"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "presence of frontal sinusitis"
+                        },
+                        {
+                          "label": "nonmedial location of subperiosteal abscess (SPA)"
+                        },
+                        {
+                          "label": "large SPA"
+                        },
+                        {
+                          "label": "suspicion of anaerobic infection (presence of gas in abscess on CT)"
+                        },
+                        {
+                          "label": "recurrence of SPA after prior drainage"
+                        },
+                        {
+                          "label": "evidence of chronic sinusitis (eg, nasal polyps)"
+                        },
+                        {
+                          "label": "acute optic nerve or retinal compromise"
+                        },
+                        {
+                          "label": "infection of dental origin (anaerobic infection more likely)"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "concomitant sinus surgery",
+                      "children": [
+                        {
+                          "label": "if sinusitis is present"
+                        },
+                        {
+                          "label": "particularly anaerobic organisms"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "most patients with orbital cellulitis + abscess respond to appropriate medical ± surgical treatment within 24–48 hours"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cavernous sinus thrombosis",
+              "children": [
+                {
+                  "label": "rapid progression of proptosis"
+                },
+                {
+                  "label": "development of ipsilateral ophthalmoplegia"
+                },
+                {
+                  "label": "onset of anesthesia in both the first and second divisions of the trigeminal nerve"
+                },
+                {
+                  "label": "contralateral ophthalmoplegia",
+                  "children": [
+                    {
+                      "label": "rare"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "meningitis/brain abscess",
+              "children": [
+                {
+                  "label": "lumbar puncture"
+                },
+                {
+                  "label": "MRI confirms the diagnosis"
+                }
+              ]
+            },
+            {
+              "label": "cranial neuropathy"
+            },
+            {
+              "label": "blindness"
+            },
+            {
+              "label": "death"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "preseptal cellulitis",
+      "children": [
+        {
+          "label": "source of infection",
+          "children": [
+            {
+              "label": "adults",
+              "children": [
+                {
+                  "label": "penetrating cutaneous trauma"
+                },
+                {
+                  "label": "dacryocystitis"
+                }
+              ]
+            },
+            {
+              "label": "children",
+              "children": [
+                {
+                  "label": "a common cause is underlying sinusitis"
+                },
+                {
+                  "label": "organisms",
+                  "children": [
+                    {
+                      "label": "past",
+                      "children": [
+                        {
+                          "label": "Haemophilus influenzae",
+                          "children": [
+                            {
+                              "label": "infants and children < 5 years"
+                            },
+                            {
+                              "label": "bacteremia"
+                            },
+                            {
+                              "label": "septicemia"
+                            },
+                            {
+                              "label": "meningitis"
+                            },
+                            {
+                              "label": "H influenzae type b vaccine has significantly diminished this etiology"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "currently",
+                      "children": [
+                        {
+                          "label": "gram-positive cocci"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "eyelid edema, erythema, and inflammation"
+            },
+            {
+              "label": "globe is uninvolved",
+              "children": [
+                {
+                  "label": "pupillary reaction, vision, and ocular motility are normal"
+                }
+              ]
+            },
+            {
+              "label": "pain on eye movement and chemosis are absent"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "workup should proceed quickly, particularly in children"
+            },
+            {
+              "label": "CT of the orbit and sinuses",
+              "children": [
+                {
+                  "label": "if eyelid swelling is profound enough to preclude examination of the globe and exclude orbital cellulitis"
+                },
+                {
+                  "label": "if no direct inoculation site is identified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "children",
+              "children": [
+                {
+                  "label": "outpatient therapy",
+                  "children": [
+                    {
+                      "label": "if examination of child is reliable and follow-up examinations can be ensured"
+                    },
+                    {
+                      "label": "oral antibiotics",
+                      "children": [
+                        {
+                          "label": "anterior etiology",
+                          "children": [
+                            {
+                              "label": "cephalexin"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "infection originating in the sinuses",
+                          "children": [
+                            {
+                              "label": "amoxicillin clavulanate"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "if CA-MRSA is a possible etiologic agent",
+                          "children": [
+                            {
+                              "label": "trimethoprim-sulfamethoxazole (TMP-SMX)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "hospitalization",
+                  "children": [
+                    {
+                      "label": "intravenous (IV) antibiotics",
+                      "children": [
+                        {
+                          "label": "ceftriaxone"
+                        },
+                        {
+                          "label": "vancomycin"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "indications",
+                      "children": [
+                        {
+                          "label": "in some infants"
+                        },
+                        {
+                          "label": "if cellulitis progresses despite outpatient therapy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "frequent warm compresses"
+                },
+                {
+                  "label": "nasal decongestants",
+                  "children": [
+                    {
+                      "label": "if associated sinusitis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "teenagers and adults",
+              "children": [
+                {
+                  "label": "usually arises from a superficial source"
+                },
+                {
+                  "label": "responds quickly to appropriate oral antibiotics",
+                  "children": [
+                    {
+                      "label": "ampicillin-sulbactam"
+                    },
+                    {
+                      "label": "TMP-SMX"
+                    },
+                    {
+                      "label": "doxycycline"
+                    },
+                    {
+                      "label": "clindamycin"
+                    }
+                  ]
+                },
+                {
+                  "label": "warm compresses"
+                },
+                {
+                  "label": "Staphylococcus aureus",
+                  "children": [
+                    {
+                      "label": "most common pathogen in patients with preseptal cellulitis resulting from trauma"
+                    },
+                    {
+                      "label": "responds rapidly to a penicillinase-resistant penicillin",
+                      "children": [
+                        {
+                          "label": "methicillin"
+                        },
+                        {
+                          "label": "ampicillin-sulbactam"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "MRSA",
+                      "children": [
+                        {
+                          "label": "community-associated (CA-MRSA)",
+                          "children": [
+                            {
+                              "label": "fluctuant abscess with surrounding cellulitis"
+                            },
+                            {
+                              "label": "pain out of proportion to findings"
+                            },
+                            {
+                              "label": "susceptible to a range of antibiotics",
+                              "children": [
+                                {
+                                  "label": "TMP-SMX"
+                                },
+                                {
+                                  "label": "rifampin"
+                                },
+                                {
+                                  "label": "clindamycin"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "hospital-associated MRSA",
+                          "children": [
+                            {
+                              "label": "sensitive only to",
+                              "children": [
+                                {
+                                  "label": "vancomycin"
+                                },
+                                {
+                                  "label": "linezolid"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "both types of MRSA may result in acute morbidity and long-term disability"
+                        },
+                        {
+                          "label": "MRSA has also been associated with",
+                          "children": [
+                            {
+                              "label": "necrotizing fasciitis"
+                            },
+                            {
+                              "label": "orbital cellulitis"
+                            },
+                            {
+                              "label": "endogenous endophthalmitis"
+                            },
+                            {
+                              "label": "panophthalmitis"
+                            },
+                            {
+                              "label": "cavernous sinus thrombosis"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "successful management demands a high degree of clinical suspicion and prompt medical and surgical intervention"
+                        },
+                        {
+                          "label": "consult with infectious diseases specialist"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "older adults",
+              "children": [
+                {
+                  "label": "may not manifest the typical signs of inflammation"
+                },
+                {
+                  "label": "may not be associated with febrile reaction"
+                },
+                {
+                  "label": "response to antibiotics may be delayed"
+                },
+                {
+                  "label": "surgical intervention to excise devitalized tissue may be necessary"
+                }
+              ]
+            },
+            {
+              "label": "start antibiotics as promptly as possible",
+              "children": [
+                {
+                  "label": "prompt sensitivity studies are indicated"
+                }
+              ]
+            },
+            {
+              "label": "prompt hospital admission, CT, and IV antibiotics",
+              "children": [
+                {
+                  "label": "if no response to oral antibiotics within 48 hours"
+                },
+                {
+                  "label": "if orbital involvement becomes evident"
+                }
+              ]
+            },
+            {
+              "label": "consult the primary care physician or a specialist in infectious diseases"
+            },
+            {
+              "label": "surgical drainage",
+              "children": [
+                {
+                  "label": "localized abscess"
+                },
+                {
+                  "label": "incision and drainage can usually be performed directly over the abscess"
+                },
+                {
+                  "label": "care should be taken to avoid",
+                  "children": [
+                    {
+                      "label": "damaging the levator aponeurosis in the upper eyelid"
+                    },
+                    {
+                      "label": "opening the orbital septum"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.4.1. Orbital Infections (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 211,
+      "connector_rejected": 0,
+      "connector_edges": 211,
+      "connector_width": 0.672,
+      "text_labels": 215,
+      "tree_nodes": 215,
+      "component_roots": 4,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 1.0,
+      "root_font_size": 2.858,
+      "warnings": []
+    }
+  }
+}

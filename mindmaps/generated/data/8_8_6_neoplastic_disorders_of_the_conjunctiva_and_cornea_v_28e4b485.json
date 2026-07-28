@@ -1,0 +1,395 @@
+{
+  "label": "8.8.6. Neoplastic Disorders of the Conjunctiva and Cornea (VI): Other Tumors",
+  "root": true,
+  "children": [
+    {
+      "label": "lymphangiectasia and lymphangioma",
+      "children": [
+        {
+          "label": "lymphangiectasia",
+          "children": [
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "developmental anomaly"
+                },
+                {
+                  "label": "trauma"
+                },
+                {
+                  "label": "inflammation"
+                }
+              ]
+            },
+            {
+              "label": "irregularly dilated lymphatic channels"
+            },
+            {
+              "label": "bulbar conjunctiva"
+            },
+            {
+              "label": "spontaneous filling with blood"
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "ataxia-telangiectasia (louis-bar syndrome)",
+                  "children": [
+                    {
+                      "label": "interpalpebral telangiectasia of the arteries"
+                    },
+                    {
+                      "label": "lacks an associated lymphatic component"
+                    },
+                    {
+                      "label": "grow with the patient and the eyeball"
+                    },
+                    {
+                      "label": "poor immune system",
+                      "children": [
+                        {
+                          "label": "no episodes of hemorrhage or swelling"
+                        },
+                        {
+                          "label": "recurrent pneumonia"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lymphangioma",
+          "children": [
+            {
+              "label": "proliferation of lymphatic channel elements"
+            },
+            {
+              "label": "present at birth",
+              "children": [
+                {
+                  "label": "may enlarge slowly"
+                }
+              ]
+            },
+            {
+              "label": "patch of vesicles with edema",
+              "children": [
+                {
+                  "label": "intralesional hemorrhage",
+                  "children": [
+                    {
+                      "label": "“chocolate cyst”"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Conjunctival Lymphocytic Tumors",
+      "children": [
+        {
+          "label": "lymphoid hyperplasia (reactive hyperplasia)",
+          "children": [
+            {
+              "label": "may represent a low-grade b-cell lymphoma"
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "40 years"
+                },
+                {
+                  "label": "subepithelial"
+                },
+                {
+                  "label": "minimally elevated"
+                },
+                {
+                  "label": "salmon-colored"
+                },
+                {
+                  "label": "pebbly appearance"
+                },
+                {
+                  "label": "moderately or highly vascularized"
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "primary localized amyloidosis",
+                  "children": [
+                    {
+                      "label": "clinically indistinguishable from conjunctival lymphoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fresh tissue",
+              "children": [
+                {
+                  "label": "immunohistochemistry"
+                },
+                {
+                  "label": "flow cytometry"
+                },
+                {
+                  "label": "gene rearrangement studies"
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "local excision",
+                  "children": [
+                    {
+                      "label": "may resolve spontaneously"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical corticosteroids"
+                },
+                {
+                  "label": "radiation"
+                },
+                {
+                  "label": "general medical consultation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lymphoma",
+          "children": [
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "limited to the conjunctiva"
+                },
+                {
+                  "label": "in conjunction with systemic lymphoma"
+                },
+                {
+                  "label": "monoclonal b-cell lymphoma",
+                  "children": [
+                    {
+                      "label": "most common"
+                    }
+                  ]
+                },
+                {
+                  "label": "less common",
+                  "children": [
+                    {
+                      "label": "plasmacytoma"
+                    },
+                    {
+                      "label": "hodgkin lymphoma"
+                    },
+                    {
+                      "label": "t-cell lymphoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical findings",
+              "children": [
+                {
+                  "label": "50 years"
+                },
+                {
+                  "label": "immunosuppressed",
+                  "children": [
+                    {
+                      "label": "<50 years"
+                    }
+                  ]
+                },
+                {
+                  "label": "usually unilateral",
+                  "children": [
+                    {
+                      "label": "20% are bilateral"
+                    }
+                  ]
+                },
+                {
+                  "label": "same clinical appearance as benign lymphoid hyperplasia",
+                  "children": [
+                    {
+                      "label": "salmon pink"
+                    },
+                    {
+                      "label": "mobile"
+                    }
+                  ]
+                },
+                {
+                  "label": "differential diagnosis",
+                  "children": [
+                    {
+                      "label": "may masquerade as chronic conjunctivitis"
+                    },
+                    {
+                      "label": "extrascleral extension of uveal lymphoid neoplasia",
+                      "children": [
+                        {
+                          "label": "fixed to the underlying sclera"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "≤31% of patients may have or may eventually develop systemic lymphoma",
+                  "children": [
+                    {
+                      "label": "refer to an oncologist"
+                    }
+                  ]
+                },
+                {
+                  "label": "incisional biopsy",
+                  "children": [
+                    {
+                      "label": "unless tumor is small enough to be removed completely"
+                    }
+                  ]
+                },
+                {
+                  "label": "local external-beam radiation therapy"
+                },
+                {
+                  "label": "systemic chemotherapy",
+                  "children": [
+                    {
+                      "label": "if systemic lymphoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "cryotherapy"
+                },
+                {
+                  "label": "intralesional chemotherapy with interferon-α2b"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Glandular Tumors of the Conjunctiva",
+      "children": [
+        {
+          "label": "Oncocytoma",
+          "children": [
+            {
+              "label": "cystadenoma"
+            },
+            {
+              "label": "slow-growing"
+            },
+            {
+              "label": "reddish brown nodule"
+            },
+            {
+              "label": "surface of the caruncle"
+            },
+            {
+              "label": "from ductal and acinar cells of main and accessory lacrimal glands"
+            }
+          ]
+        },
+        {
+          "label": "Sebaceous Gland Carcinoma",
+          "children": [
+            {
+              "label": "1% of all eyelid tumors"
+            },
+            {
+              "label": "5% of eyelid malignancies"
+            },
+            {
+              "label": "older individuals"
+            },
+            {
+              "label": "younger individuals after radiation"
+            },
+            {
+              "label": "masquerade as",
+              "children": [
+                {
+                  "label": "chalazia"
+                },
+                {
+                  "label": "chronic unilateral blepharoconjunctivitis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "metastatic tumors",
+      "children": [
+        {
+          "label": "much less common than those to the uveal tract and orbit"
+        },
+        {
+          "label": "cancer of the breast, lung, kidney, and cutaneous melanoma"
+        },
+        {
+          "label": "metastases or leukemic infiltrates to the limbus or cornea"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.8.6. Neoplastic Disorders of the Conjunctiva and Cornea (VI) - Other Tumors.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 189,
+      "connector_rejected": 6,
+      "connector_edges": 132,
+      "connector_width": 1.498,
+      "text_labels": 100,
+      "tree_nodes": 100,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6984,
+      "root_font_size": 4.243,
+      "warnings": []
+    }
+  }
+}

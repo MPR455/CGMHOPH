@@ -1,0 +1,290 @@
+{
+  "label": "11.3.4. Developmental Defects (III): Congenital Cataract (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "present at birth or within first year of life"
+        },
+        {
+          "label": "1/2000 live births"
+        },
+        {
+          "label": "unilateral or bilateral",
+          "children": [
+            {
+              "label": "metabolic diseases tend to be associated with bilateral cataracts"
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "part of a more extensive syndrome or disease",
+              "children": [
+                {
+                  "label": "1/3"
+                }
+              ]
+            },
+            {
+              "label": "isolated inherited trait",
+              "children": [
+                {
+                  "label": "1/3"
+                }
+              ]
+            },
+            {
+              "label": "undetermined causes",
+              "children": [
+                {
+                  "label": "1/3"
+                }
+              ]
+            },
+            {
+              "label": "bilateral",
+              "children": [
+                {
+                  "label": "idiopathic"
+                },
+                {
+                  "label": "hereditary",
+                  "children": [
+                    {
+                      "label": "most are AD"
+                    }
+                  ]
+                },
+                {
+                  "label": "genetic/metabolic"
+                },
+                {
+                  "label": "maternal infection"
+                },
+                {
+                  "label": "ocular anomalies"
+                },
+                {
+                  "label": "toxic/radiation"
+                }
+              ]
+            },
+            {
+              "label": "unilateral",
+              "children": [
+                {
+                  "label": "idiopathic"
+                },
+                {
+                  "label": "ocular anomalies"
+                },
+                {
+                  "label": "trauma"
+                },
+                {
+                  "label": "rubella"
+                },
+                {
+                  "label": "masked bilateral cataract"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Polar",
+      "children": [
+        {
+          "label": "involves the subcapsular cortex and capsule of the anterior or posterior pole of the lens"
+        },
+        {
+          "label": "Anterior polar cataracts",
+          "children": [
+            {
+              "label": "autosomal dominant"
+            },
+            {
+              "label": "small"
+            },
+            {
+              "label": "bilateral"
+            },
+            {
+              "label": "symmetric"
+            },
+            {
+              "label": "nonprogressive"
+            },
+            {
+              "label": "cause anisometropia",
+              "children": [
+                {
+                  "label": "do not impair vision"
+                }
+              ]
+            },
+            {
+              "label": "associated ocular abnormalities",
+              "children": [
+                {
+                  "label": "microphthalmos"
+                },
+                {
+                  "label": "persistent pupillary membrane"
+                },
+                {
+                  "label": "anterior lenticonus"
+                }
+              ]
+            },
+            {
+              "label": "do not require treatment"
+            }
+          ]
+        },
+        {
+          "label": "Posterior polar cataracts",
+          "children": [
+            {
+              "label": "stable",
+              "children": [
+                {
+                  "label": "occasionally progress"
+                }
+              ]
+            },
+            {
+              "label": "+- capsular fragility"
+            },
+            {
+              "label": "genetics",
+              "children": [
+                {
+                  "label": "sporadic",
+                  "children": [
+                    {
+                      "label": "unilateral"
+                    },
+                    {
+                      "label": "associated with",
+                      "children": [
+                        {
+                          "label": "remnants of the tunica vasculosa lentis"
+                        },
+                        {
+                          "label": "lenticonus or lentiglobus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "familial",
+                  "children": [
+                    {
+                      "label": "bilateral"
+                    },
+                    {
+                      "label": "autosomal dominant"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "produce more visual impairment",
+      "children": [
+        {
+          "label": "larger"
+        },
+        {
+          "label": "closer to the nodal point of the eye"
+        }
+      ]
+    },
+    {
+      "label": "Lamellar/zonular",
+      "children": [
+        {
+          "label": "an opacified layer that surrounds a clearer center and is surrounded by a layer of clear cortex",
+          "children": [
+            {
+              "label": "disc-shaped configuration from the front"
+            },
+            {
+              "label": "riders",
+              "children": [
+                {
+                  "label": "arcuate opacities straddle the equator of the lamellar cataract"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "bilateral and symmetric"
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "+- autosomal dominant"
+            },
+            {
+              "label": "transient toxic influence during embryonic development"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sutural (stellate)",
+      "children": [
+        {
+          "label": "opacification of the Y-sutures of the fetal nucleus"
+        },
+        {
+          "label": "autosomal dominant"
+        },
+        {
+          "label": "bilateral and symmetric"
+        },
+        {
+          "label": "does not impair vision"
+        },
+        {
+          "label": "has branches or knobs"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Lens/11.3.4. Developmental Defects (III) - Congenital Cataract (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 71,
+      "connector_rejected": 3,
+      "connector_edges": 66,
+      "connector_width": 0.608,
+      "text_labels": 73,
+      "tree_nodes": 73,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.9296,
+      "root_font_size": 5.775,
+      "warnings": []
+    }
+  }
+}

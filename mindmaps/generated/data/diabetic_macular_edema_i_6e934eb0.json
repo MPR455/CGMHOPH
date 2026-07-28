@@ -1,0 +1,217 @@
+{
+  "label": "Diabetic Macular Edema (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "hyperglycemia-induced breakdown of blood–retina barrier",
+          "children": [
+            {
+              "label": "leads to fluid extravasation from retinal vessels into surrounding neural retina"
+            }
+          ]
+        },
+        {
+          "label": "± hard exudates",
+          "children": [
+            {
+              "label": "precipitates of plasma lipoproteins"
+            }
+          ]
+        },
+        {
+          "label": "central subfield–involved DME that affects the fovea is a common cause of vision loss"
+        },
+        {
+          "label": "more common in eyes with more advanced DR",
+          "children": [
+            {
+              "label": "can be present in any severity level of DR"
+            }
+          ]
+        },
+        {
+          "label": "examination with OCT or slit-lamp biomicroscopy are the most appropriate methods to diagnose DME",
+          "children": [
+            {
+              "label": "leakage on FA may occur in absence of macular edema"
+            }
+          ]
+        },
+        {
+          "label": "FA",
+          "children": [
+            {
+              "label": "showis local areas of retinal capillary leakage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cataract Surgery in Patients With Diabetes Mellitus",
+      "children": [
+        {
+          "label": "DR and DME may worsen in severity after cataract surgery"
+        },
+        {
+          "label": "DRCR.net Protocol P",
+          "children": [
+            {
+              "label": "preexisting center-involving DME"
+            },
+            {
+              "label": "only a small percentage had substantial visual acuity loss or definitive progression in central retinal thickening"
+            }
+          ]
+        },
+        {
+          "label": "Protocol Q",
+          "children": [
+            {
+              "label": "NPDR without concurrent center-involved DME"
+            },
+            {
+              "label": "presence of non-central DME immediately prior to cataract surgery, or history of DME treatment, increase risk of developing central-involved DME 16 weeks after cataract extraction"
+            }
+          ]
+        },
+        {
+          "label": "recommenations",
+          "children": [
+            {
+              "label": "optimize systemic control prior to surgery",
+              "children": [
+                {
+                  "label": "consider anti-VEGF injection preoperatively or steroid injection perioperatively for eyes with center-involved DME before cataract surgery"
+                }
+              ]
+            },
+            {
+              "label": "consider scatter photocoagulation before cataract surgery in patients with severe NPDR or PDR",
+              "children": [
+                {
+                  "label": "if ocular media sufficiently clear"
+                }
+              ]
+            },
+            {
+              "label": "if ocular media not clear, prompt postoperative retinal evaluation and treatment are recommended"
+            },
+            {
+              "label": "all patients with preexisting DR should be reevaluated after cataract surgery"
+            }
+          ]
+        },
+        {
+          "label": "cataract surgery technique",
+          "children": [
+            {
+              "label": "adequate capsulorrhexis"
+            },
+            {
+              "label": "avoid silicone lenses",
+              "children": [
+                {
+                  "label": "may fog with condensation during subsequent vitrectomies"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Classification of Diabetic Macular Edema",
+      "children": [
+        {
+          "label": "OCT-based classification",
+          "children": [
+            {
+              "label": "center-involved DME",
+              "children": [
+                {
+                  "label": "central retinal subfield appears thickened on OCT"
+                }
+              ]
+            },
+            {
+              "label": "non–center-involved DME"
+            }
+          ]
+        },
+        {
+          "label": "clinically significant diabetic macular edema (CSME)",
+          "children": [
+            {
+              "label": "ETDRS",
+              "children": [
+                {
+                  "label": "CSME is a clinical diagnosis"
+                },
+                {
+                  "label": "indication for focal laser photocoagulation"
+                }
+              ]
+            },
+            {
+              "label": "criteria",
+              "children": [
+                {
+                  "label": "retinal thickening located at or within 500 μm of the center of the macula"
+                },
+                {
+                  "label": "hard exudates at or within 500 μm of the center if associated with thickening of adjacent retina"
+                },
+                {
+                  "label": "zone of thickening larger than 1 disc area, if located within 1 disc diameter of the center of the macula"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Focal macular edema",
+          "children": [
+            {
+              "label": "areas of local fluorescein leakage from specific capillary lesions",
+              "children": [
+                {
+                  "label": "no difference in treatment response based on pattern of macular edema (focal or diffuse)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Diffuse macular edema",
+          "children": [
+            {
+              "label": "extensive retinal capillary leakage"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Diabetic Macular Edema (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 82,
+      "connector_rejected": 7,
+      "connector_edges": 60,
+      "connector_width": 0.9,
+      "text_labels": 50,
+      "tree_nodes": 50,
+      "component_roots": 3,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7317,
+      "root_font_size": 6.002,
+      "warnings": []
+    }
+  }
+}

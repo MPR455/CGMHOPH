@@ -1,0 +1,545 @@
+{
+  "label": "5.8.6. Diplopia (V): Infranuclear Causes of Diplopia (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Sixth Nerve Palsy",
+      "children": [
+        {
+          "label": "most frequent isolated ocular motor palsy"
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "abduction deficit",
+              "children": [
+                {
+                  "label": "horizontal diplopia"
+                },
+                {
+                  "label": "esodeviation"
+                },
+                {
+                  "label": "worsens on ipsilateral gaze"
+                }
+              ]
+            },
+            {
+              "label": "divergence paralysis",
+              "children": [
+                {
+                  "label": "during the evolving or resolving phase of a sixth nerve palsy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "ischemic mononeuropathy",
+              "children": [
+                {
+                  "label": "adults > 50 years",
+                  "children": [
+                    {
+                      "label": "most common cause"
+                    }
+                  ]
+                },
+                {
+                  "label": "resolves within 3 months",
+                  "children": [
+                    {
+                      "label": "recovery does not necessarily indicate a benign cause",
+                      "children": [
+                        {
+                          "label": "palsy may recur as a manifestation of an intracranial tumor!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "neuroimaging",
+                  "children": [
+                    {
+                      "label": "not required at initial diagnosis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cerebellopontine angle lesions",
+              "children": [
+                {
+                  "label": "acoustic neuroma",
+                  "children": [
+                    {
+                      "label": "mandatory if no obvious improvement within 3 months"
+                    }
+                  ]
+                },
+                {
+                  "label": "meningioma"
+                },
+                {
+                  "label": "associated findings",
+                  "children": [
+                    {
+                      "label": "decreased facial and corneal sensitivity (CN V)"
+                    },
+                    {
+                      "label": "facial paralysis (CN VII)"
+                    },
+                    {
+                      "label": "decreased hearing with vestibular signs (CN VIII)",
+                      "children": [
+                        {
+                          "label": "ipsilateral abducens palsy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "chronic inflammation of the petrous bone",
+              "children": [
+                {
+                  "label": "Gradenigo syndrome",
+                  "children": [
+                    {
+                      "label": "facial pain"
+                    },
+                    {
+                      "label": "especially in children with recurrent middle ear infections"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "meningeal/skull-based processes",
+              "children": [
+                {
+                  "label": "meningioma"
+                },
+                {
+                  "label": "nasopharyngeal carcinoma"
+                },
+                {
+                  "label": "chordoma"
+                },
+                {
+                  "label": "chondrosarcoma"
+                }
+              ]
+            },
+            {
+              "label": "trauma",
+              "children": [
+                {
+                  "label": "where the sixth nerve enters the cavernous sinus through the Dorello canal",
+                  "children": [
+                    {
+                      "label": "opening below the petroclinoid ligament"
+                    }
+                  ]
+                },
+                {
+                  "label": "sixth nerve palsy after seemingly minor head trauma should raise concern for preexisting pathology"
+                }
+              ]
+            },
+            {
+              "label": "elevated intracranial pressure"
+            },
+            {
+              "label": "congenital",
+              "children": [
+                {
+                  "label": "abduction paresis early in life",
+                  "children": [
+                    {
+                      "label": "congenital sixth nerve palsies almost never occur in isolation"
+                    },
+                    {
+                      "label": "Duane syndrome"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "posteriorly draining carotid-cavernous fistula",
+              "children": [
+                {
+                  "label": "sixth nerve palsy may be the only presenting ocular sign"
+                }
+              ]
+            },
+            {
+              "label": "demyelination",
+              "children": [
+                {
+                  "label": "MRI (FLAIR)",
+                  "children": [
+                    {
+                      "label": "T2 hyperintensities"
+                    }
+                  ]
+                },
+                {
+                  "label": "adolescents and young adults"
+                }
+              ]
+            },
+            {
+              "label": "brainstem glioma",
+              "children": [
+                {
+                  "label": "children"
+                }
+              ]
+            },
+            {
+              "label": "thyroid eye disease with medial rectus involvement"
+            },
+            {
+              "label": "neuromuscular junction disease",
+              "children": [
+                {
+                  "label": "edrophonium testing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "neuroimaging",
+              "children": [
+                {
+                  "label": ".>50 years",
+                  "children": [
+                    {
+                      "label": "if no obvious improvement within 3 months"
+                    }
+                  ]
+                },
+                {
+                  "label": "<50 years",
+                  "children": [
+                    {
+                      "label": "mandatory",
+                      "children": [
+                        {
+                          "label": "few are caused by ischemic cranial neuropathy"
+                        },
+                        {
+                          "label": "children with 6th nerve palsy require neuroimaging"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "medical evaluation"
+            },
+            {
+              "label": "lumbar puncture"
+            },
+            {
+              "label": "chest imaging"
+            },
+            {
+              "label": "hematologic studies",
+              "children": [
+                {
+                  "label": "collagen vascular disease"
+                },
+                {
+                  "label": "sarcoidosis"
+                },
+                {
+                  "label": "syphilis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fourth Nerve Palsy",
+      "children": [
+        {
+          "label": "fourth nerve palsy",
+          "children": [
+            {
+              "label": "grossly normal motility in most cases",
+              "children": [
+                {
+                  "label": "± limited downgaze in the adducted position"
+                }
+              ]
+            },
+            {
+              "label": "cover-uncover or Maddox rod testing"
+            },
+            {
+              "label": "Parks-Bielschowsky 3-step test",
+              "children": [
+                {
+                  "label": "ipsilateral hyperdeviation",
+                  "children": [
+                    {
+                      "label": "worse on downgaze",
+                      "children": [
+                        {
+                          "label": "compensatory chin down position"
+                        },
+                        {
+                          "label": "worse on contralateral gaze",
+                          "children": [
+                            {
+                              "label": "diplopia (tendency to close 1 eye) while reading!"
+                            },
+                            {
+                              "label": "compensatory head turn to the opposite side"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "worse on ipsilateral head tilt",
+                      "children": [
+                        {
+                          "label": "compensatory head tilt to the opposite side",
+                          "children": [
+                            {
+                              "label": "facial asymmetry"
+                            },
+                            {
+                              "label": "confirmed by reviewing old photographs"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "“spread of comitance”",
+                      "children": [
+                        {
+                          "label": "reliability of the 3-step test in identifying patterns of vertical strabismus lessens somewhat over time"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "relative excyclotropia of the involved eye",
+              "children": [
+                {
+                  "label": "most helpful in determining whether a vertical strabismus conforms to the pattern of a fourth nerve palsy"
+                }
+              ]
+            },
+            {
+              "label": "large vertical fusional range (>3 prism diopters)",
+              "children": [
+                {
+                  "label": "± asymptomatic until the adult years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "bilateral fourth nerve palsy",
+          "children": [
+            {
+              "label": "should always be considered whenever a unilateral palsy is diagnosed, especially after head trauma"
+            },
+            {
+              "label": "crossed hypertropia",
+              "children": [
+                {
+                  "label": "right eye is higher on left gaze, and the left eye is higher on right gaze"
+                }
+              ]
+            },
+            {
+              "label": "excyclotorsion of ≥10°",
+              "children": [
+                {
+                  "label": "double Maddox rod testing"
+                }
+              ]
+            },
+            {
+              "label": "large (≥25 D) V pattern of strabismus",
+              "children": [
+                {
+                  "label": "habitual chin down posture"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "congenital",
+              "children": [
+                {
+                  "label": "anomalous superior oblique tendon"
+                },
+                {
+                  "label": "anomalous site of its insertion"
+                },
+                {
+                  "label": "defect in the trochlea"
+                },
+                {
+                  "label": "comparison of superior oblique size on MRI between the affected and unaffected sides does not reliably distinguish acquired from congenital palsies"
+                }
+              ]
+            },
+            {
+              "label": "benign tumor (eg, schwannoma) of the fourth nerve"
+            },
+            {
+              "label": "microvascular ischemic disease",
+              "children": [
+                {
+                  "label": ".>50 years"
+                },
+                {
+                  "label": "full medical evaluation is appropriate",
+                  "children": [
+                    {
+                      "label": "function always improves and typically resolves within 3 months"
+                    }
+                  ]
+                },
+                {
+                  "label": "older patients should be followed to ensure recovery",
+                  "children": [
+                    {
+                      "label": "lack of recovery after 3 months should prompt neuroimaging",
+                      "children": [
+                        {
+                          "label": "search for a mass lesion at the skull base"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "closed-head cranial trauma",
+              "children": [
+                {
+                  "label": "because of the unique dorsal midbrain- crossing anatomy"
+                }
+              ]
+            },
+            {
+              "label": "disease within the subarachnoid space or cavernous sinus"
+            },
+            {
+              "label": "isolated, nontraumatic fourth nerve palsy",
+              "children": [
+                {
+                  "label": "most cases have congenital, ischemic, or idiopathic causes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "differential diagnosis",
+          "children": [
+            {
+              "label": "skew deviation",
+              "children": [
+                {
+                  "label": "occasionally, skew deviation mimics fourth nerve palsy on the 3-step test"
+                }
+              ]
+            },
+            {
+              "label": "myasthenia gravis",
+              "children": [
+                {
+                  "label": "moving the patient from the sitting to the supine position will often reduce the hypertropia in skew deviation"
+                }
+              ]
+            },
+            {
+              "label": "thyroid eye disease"
+            },
+            {
+              "label": "previous orbital trauma"
+            },
+            {
+              "label": "partial oculomotor nerve palsy"
+            },
+            {
+              "label": "simultaneous dysfunction of many ocular motor cranial nerves"
+            },
+            {
+              "label": "acquired vertical strabismus not from a fourth nerve palsy is often the result of the dysfunction of more than 1 muscle",
+              "children": [
+                {
+                  "label": "will not generate a positive 3-step test!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "leukemia",
+      "children": [
+        {
+          "label": "children"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.8.6. Diplopia (V) Infranuclear Causes of Diplopia (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 254,
+      "connector_rejected": 1,
+      "connector_edges": 173,
+      "connector_width": 0.888,
+      "text_labels": 134,
+      "tree_nodes": 134,
+      "component_roots": 3,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6811,
+      "root_font_size": 3.109,
+      "warnings": []
+    }
+  }
+}

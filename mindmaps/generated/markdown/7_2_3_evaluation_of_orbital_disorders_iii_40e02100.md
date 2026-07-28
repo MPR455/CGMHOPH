@@ -1,0 +1,104 @@
+---
+title: "7.2.3. Evaluation of Orbital Disorders (III)"
+category: "Orbit & Eyelids"
+subcategory: ""
+source_pdf: "MindmapPDF/Orbit and eyelids/7.2.3. Evaluation of Orbital Disorders (III).pdf"
+---
+
+# 7.2.3. Evaluation of Orbital Disorders (III)
+
+## Hierarchy
+
+- Arteriography
+  - gold standard for diagnosis of an arterial lesion
+    - aneurysm
+    - arteriovenous malformation
+  - technique
+    - retrograde catheterization of the cerebral vessels through the femoral artery
+  - small risk of serious neurologic and vascular complications (1%–2%)
+    - reserved for patients with a high probability of having a lesion
+  - ability to simultaneously treat and image a lesion
+  - visualization can be maximized by
+    - selective injection of internal and external carotid arteries
+    - magnification to allow viewing of the smaller caliber vessels
+    - subtraction techniques to radiographically eliminate bone
+- CT and MR Angiography
+  - indications
+    - arteriovenous malformations
+    - aneurysms
+    - arteriovenous fistulas
+      - MR angiography is less sensitive than direct angiography for identifying carotid-cavernous sinus fistulas !
+        - consult with a radiologist to discuss the suspected lesion and to ensure selection of the best imaging modality
+- Pathology
+  - fixatives
+    - formalin
+      - for most tissue samples
+    - fresh tissue
+      - when a lymphoproliferative lesion is suspected
+        - for flow cytometry
+    - glutaraldehyde
+      - for possible electron microscopy
+  - frozen section
+    - indications
+      - to confirm that appropriate tissue has been obtained for permanent section
+        - when area of proposed biopsy is not obvious
+      - to determine tumor margins and ensure complete tumor removal intraoperatively
+      - for cell-surface marker studies
+        - required for all orbital lymphoid lesions
+          - may permit differentiation of reactive lymphoid hyperplasia from lymphoma
+        - for estrogen receptors in cases of metastatic prostate or breast carcinoma
+        - diagnosis of poorly differentiated tumors when light microscopy cannot yield a definitive diagnosis
+          - cell-marker studies have largely replaced electron microscopy in the diagnosis of undifferentiated tumors
+    - generally not used for definitive diagnosis of an orbital tumor
+    - tissue for frozen section should be placed in a dampened saline gauze and promptly sent to laboratory
+  - touch prep
+    - noncohesive tumors (hematologic or lymphoid)
+  - fine-needle aspiration biopsy
+    - under either ultrasonographic or CT control
+    - specimen is usually limited to cytologic study
+      - occasionally yields a sufficient cell block !
+    - a cytologist or trained technician must be available to handle the aspirate
+    - may not permit as firm a diagnosis as is possible with larger biopsy specimens
+  - preoperative consultation with a pathologist familiar with orbital disease may be helpful
+  - appropriate handling of the tissue specimen is necessary
+    - all biopsy specimens must be treated delicately
+    - permanent section tissue biopsy specimens should be placed in fixative promptly
+- Laboratory Studies
+  - thyroid eye disease
+    - screening for abnormal thyroid function
+      - T4
+      - thyroid-stimulating hormone (TSH)
+      - abnormal in 90%
+    - if TED is strongly suspected and screening tests are normal
+      - thyroid-stimulating immunoglobulins
+      - TSH-receptor antibodies
+  - granulomatosis with polyangiitis (Wegener granulomatosis
+    - sclerokeratitis or sinus disease + orbital mass
+    - antineutrophil cytoplasmic antibody (ANCA) serum assay
+      - c-ANCA
+      - may be negative initially in localized disease
+    - biopsy of affected tissues classically shows
+      - granulomatous inflammation
+      - tissue necrosis
+      - vasculitis
+        - necrotizing vasculitis is not always present in orbital biopsies
+  - sarcoidosis
+    - may present with
+      - conjunctival granulomas
+      - extraocular muscle infiltration
+      - optic nerve infiltration
+      - lacrimal gland enlargement
+      - solitary orbital granulomas
+    - serum angiotensin-converting enzyme (ACE)
+    - lysozyme
+- Venography
+  - before the era of CT and MRI
+  - indications
+    - orbital varices
+    - study of the cavernous sinus
+  - technique
+    - contrast material is injected into the frontal or the angular vein
+      - some orbitocranial vascular malformations or fistulas are best accessed via the superior ophthalmic vein
+    - subtraction and magnification techniques
+  - larger venous abnormalitie/structures can be visualized well on MR venography
+    - moving blood generates a signal void during MR imaging!

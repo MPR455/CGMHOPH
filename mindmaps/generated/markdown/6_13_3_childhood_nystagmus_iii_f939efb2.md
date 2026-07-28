@@ -1,0 +1,181 @@
+---
+title: "6.13.3. Childhood Nystagmus (III)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.13.3. Childhood Nystagmus (III).pdf"
+---
+
+# 6.13.3. Childhood Nystagmus (III)
+
+## Hierarchy
+
+- retinal dystrophies
+  - congenital stationary night blindness
+- Acquired Nystagmus
+  - Spasmus nutans
+    - idiopathic
+    - triad
+      - small-amplitude, high-frequency (shimmering) nystagmus
+        - binocular
+          - asymmetric
+            - may appear monocular
+        - can vary with gaze position
+        - can be horizontal, vertical, or rotary (torsional)
+        - occasionally intermittent
+      - head nodding
+      - torticollis
+      - appear to be compensatory movements that maximize vision
+    - course
+      - manifests during the first 2 years of life
+      - benign disorder in most cases
+        - abnormal head and eye movements to diminish by 3–4 years of age
+    - associated conditions
+      - strabismus
+      - amblyopia
+      - developmental delay
+    - spasmus nutans–like nystagmus
+      - chiasmal or suprachiasmal tumors
+    - diagnostic workup
+      - neuroradiologic investigation is warranted with any evidence of optic nerve dysfunction
+        - optic disc pallor
+        - relative afferent pupillary defect
+        - any sign of neurologic abnormality
+      - some investigators believe that neuroimaging is indicated for all children with presumed spasmus nutans
+  - See-saw nystagmus
+    - both vertical and torsional components
+      - eyes make alternating movements of elevation and intorsion followed by depression and extorsion
+        - high eye intorting
+        - low eye extorting
+    - often associated with a lesion in the rostral midbrain or the suprasellar area
+      - children
+        - craniopharyngioma
+    - congenital form of see-saw nystagmus
+      - seen with complete or partial achiasma
+    - diagnostic workup
+      - confrontation visual fields
+        - bitemporal defect
+      - neuroradiologic evaluation is necessary
+  - Vertical nystagmus
+    - uncommon
+    - congenital
+      - inherited retinal dystrophies
+      - downbeat nystagmus
+        - associated with good vision and normal neurologic findings
+        - jerk nystagmus
+          - downward fast component
+        - null point in upgaze
+    - acquired
+      - most common
+      - secondary to
+        - Arnold-Chiari malformation
+        - medications
+          - codeine
+          - lithium
+          - tranquilizers
+          - anticonvulsants
+      - neurologic evaluation is usually indicated
+  - Monocular nystagmus
+    - oscillations are pendular, chiefly vertical, slow, variable in amplitude, and irregular in frequency
+    - severely amblyopic and blind eyes
+      - Heimann-Bielschowsky phenomenon
+- Treatment
+  - Prisms
+    - to improve head position
+      - if this technique improves head position, strabismus surgery is also likely to be effective
+      - each prism is mounted with the apex pointing toward the null point
+        - shifts the retinal image toward the null point
+          - decreases the amount of head turn required
+    - to improve vision
+      - base-out prisms are placed in front of both eyes
+        - induces convergence
+          - damps the nystagmus
+            - improves vision
+        - amounts determined by trial and error
+    - Fresnel press-on prisms
+      - powers ranging from 1Δ–40Δ
+      - inexpensive plastic pieces that can be cut and then applied to glasses
+      - powers of 10Δ–20Δ are often required
+    - ground-in prisms
+      - less distortion
+      - preferred for patients who require smaller amounts of prism
+  - Surgery for Nystagmus
+    - indications
+      - to correct abnormal head position
+        - shifting the null point closer to the primary position
+      - to improve vision
+        - decreasing nystagmus intensity
+          - increases foveation time
+    - technique
+      - Anderson procedure
+        - conjugate recessions in each eye
+      - Kestenbaum procedure
+        - recession-resection on both eyes
+      - recession of all 4 horizontal rectus muscles
+    - eyes are surgically rotated toward the direction of the head turn and away from the null point
+      - left head turn and null point in right gaze
+        - eyes are surgically rotated to the left
+          - recession of the right lateral and left medial rectus muscles
+          - resection of the right medial and left lateral rectus muscles
+    - amount of surgery
+      - total amount of surgery for each eye (as measured in millimeters) is equal in order to rotate each globe an equal amount
+      - head turns of 30°
+        - 40% augmentation
+      - turns of 45°
+        - 60% augmentation
+      - augmented procedures may cause restriction of motility
+    - vertical torticollis
+      - chin-up or chin-down posturing
+      - vertical prism
+        - apex toward the null point
+      - surgery on vertical rectus muscles or oblique muscles
+        - eyes are rotated away from the null point
+        - usually 8–10 mm of recession and resection of the vertical rectus muscles of each eye
+        - combined weakening of a vertical rectus muscle and an oblique muscle in each eye
+    - head tilt
+      - torsional surgery
+        - oblique muscles
+        - transposition of vertical rectus muscles
+    - nystagmus with no eccentric null point
+      - Kestenbaum procedure is not indicated
+      - 8–10 mm of recession of both medial rectus muscles and 10–12 mm of recession of both lateral rectus muscles
+        - improved foveation time
+        - effect on visual acuity is modest
+          - average improvement of about 1 line
+      - merely disinserting and reattaching horizontal rectus muscles produces similar results with presumably less risk of inducing new strabismus
+      - nystagmus surgery in absence of abnormal head position is controversial
+    - nystagmus blockage syndrome
+      - recession of medial rectus muscles
+        - with amounts that are larger than normal for the amount of esotropia
+        - ±posterior fixation sutures
+    - strabismus
+      - surgery to shift the null point must be performed on the dominant fixating eye
+      - surgery on the nondominant eye is then adjusted to account for the remaining strabismus
+- Nystagmus-Like Disorders
+  - Convergence-Retraction Nystagmus
+    - etiology
+      - congenital aqueductal stenosis
+      - pinealoma
+    - part of the dorsal midbrain syndrome
+      - paralysis of upward gaze
+      - defective convergence
+      - eyelid retraction
+      - pupillary light–near dissociation
+    - nystagmus is best elicited on attempted upgaze saccades
+      - tracking a downward-rotating OKN drum
+      - co-contraction of all horizontal extraocular muscles occurs
+        - retraction of the globe
+        - medial rectus muscles overpower the lateral rectus muscles
+          - eyes converge on attempted upgaze
+    - abnormal eye movements are actually saccades
+      - not a true nystagmus!
+  - Opsoclonus
+    - etiology
+      - acute postinfectious cerebellar ataxia
+      - viral encephalitis
+      - paraneoplastic manifestation of neuroblastoma
+    - involuntary saccades
+      - rapid and multidirectional
+      - eye movements with very high frequency and large amplitude
+      - can occur intermittently
+      - not a true nystagmus!
+    - accompanied by somatic dyskinesias

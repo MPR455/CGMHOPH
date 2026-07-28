@@ -1,0 +1,507 @@
+{
+  "label": "7.5.2. Orbital Neoplasms and Malformations (II): Vascular Tumors (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Venous Malformation",
+      "children": [
+        {
+          "label": "\"orbital varices\""
+        },
+        {
+          "label": "vascular dysgenesis",
+          "children": [
+            {
+              "label": "low-flow"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "enophthalmos at rest"
+            },
+            {
+              "label": "proptosis",
+              "children": [
+                {
+                  "label": "increases when the patient’s head is dependent or after a Valsalva maneuver"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "imaging",
+          "children": [
+            {
+              "label": "contrast-enhanced rapid spiral CT during a Valsalva maneuver",
+              "children": [
+                {
+                  "label": "characteristic enlargement of the engorged veins"
+                },
+                {
+                  "label": "phleboliths"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "conservative",
+              "children": [
+                {
+                  "label": "biopsy should be avoided because of the risk of hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "surgery",
+              "children": [
+                {
+                  "label": "reserved for",
+                  "children": [
+                    {
+                      "label": "significant pain"
+                    },
+                    {
+                      "label": "vision-threatening compressive optic neuropathy"
+                    }
+                  ]
+                },
+                {
+                  "label": "complete surgical excision is difficult",
+                  "children": [
+                    {
+                      "label": "lesions often intertwine with normal orbital structures"
+                    }
+                  ]
+                },
+                {
+                  "label": "intra-operative embolization of the lesion may aid surgical removal"
+                }
+              ]
+            },
+            {
+              "label": "embolization with coils",
+              "children": [
+                {
+                  "label": "to diminish symptoms"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Arteriovenous Fistula",
+      "children": [
+        {
+          "label": "introduction",
+          "children": [
+            {
+              "label": "abnormal direct communication between an artery and a vein",
+              "children": [
+                {
+                  "label": "blood does not pass through an intervening capillary bed"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "trauma"
+                },
+                {
+                  "label": "degeneration"
+                }
+              ]
+            },
+            {
+              "label": "2 forms of acquired arterial diversion that affect the cavernous sinus",
+              "children": [
+                {
+                  "label": "direct carotid-cavernous fistulas"
+                },
+                {
+                  "label": "indirect (dural) carotid-cavernous fistula"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "direct carotid-cavernous fistulas",
+          "children": [
+            {
+              "label": "connection between the internal carotid artery and the cavernous sinus",
+              "children": [
+                {
+                  "label": "high rate of blood flow"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "trauma",
+                  "children": [
+                    {
+                      "label": "causes a tear or hole in a branch artery of the internal carotid"
+                    }
+                  ]
+                },
+                {
+                  "label": "iatrogenic",
+                  "children": [
+                    {
+                      "label": "during neurosurgical or neuroradiologic procedures"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "tortuous epibulbar vessels"
+                },
+                {
+                  "label": "bruit",
+                  "children": [
+                    {
+                      "label": "± audible to the examiner and the patient"
+                    }
+                  ]
+                },
+                {
+                  "label": "pulsatile proptosis"
+                },
+                {
+                  "label": "ischemic ocular damage",
+                  "children": [
+                    {
+                      "label": "diversion of arterialized blood into the venous system",
+                      "children": [
+                        {
+                          "label": "venous outflow obstruction"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "elevated IOP"
+                },
+                {
+                  "label": "choroidal effusions"
+                },
+                {
+                  "label": "blood in the Schlemm canal"
+                },
+                {
+                  "label": "nongranulomatous anterior uveitis"
+                },
+                {
+                  "label": "ocular motility abnormalities",
+                  "children": [
+                    {
+                      "label": "congestion within the orbit"
+                    },
+                    {
+                      "label": "increased pressure in the cavernous sinus",
+                      "children": [
+                        {
+                          "label": "compression of cranial nerves III, IV, or, most commonly, VI,"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "CT scans",
+              "children": [
+                {
+                  "label": "diffuse enlargement of some or all of extraocular muscles"
+                },
+                {
+                  "label": "characteristically enlarged superior ophthalmic vein"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "indirect (dural) carotid-cavernous fistulas",
+          "children": [
+            {
+              "label": "connection between meningeal branches of internal or external carotid artery and cavernous sinus",
+              "children": [
+                {
+                  "label": "lower rate of blood flow"
+                }
+              ]
+            },
+            {
+              "label": "degenerative process in older patients with",
+              "children": [
+                {
+                  "label": "systemic hypertension"
+                },
+                {
+                  "label": "vascular disease"
+                },
+                {
+                  "label": "atherosclerosis"
+                }
+              ]
+            },
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "insidious onset"
+                },
+                {
+                  "label": "orbital congestion"
+                },
+                {
+                  "label": "proptosis"
+                },
+                {
+                  "label": "pain"
+                },
+                {
+                  "label": "arterialization of the conjunctival veins",
+                  "children": [
+                    {
+                      "label": "chronic red eye"
+                    }
+                  ]
+                },
+                {
+                  "label": "increased episcleral venous pressure",
+                  "children": [
+                    {
+                      "label": "IOP elevation on the ipsilateral side",
+                      "children": [
+                        {
+                          "label": "glaucomatous optic disc damage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "mild"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "magnetic resonance angiography (MRA)",
+              "children": [
+                {
+                  "label": "not as sensitive as conventional angiography"
+                }
+              ]
+            },
+            {
+              "label": "conventional angiography",
+              "children": [
+                {
+                  "label": "gold standard"
+                },
+                {
+                  "label": "stroke is a rare but possible adverse effect"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "endovascular treatment",
+              "children": [
+                {
+                  "label": "coils"
+                },
+                {
+                  "label": "glue"
+                }
+              ]
+            },
+            {
+              "label": "direct carotid-cavernous fistula",
+              "children": [
+                {
+                  "label": "usually requires intervention"
+                },
+                {
+                  "label": "transarterial approach",
+                  "children": [
+                    {
+                      "label": "more common"
+                    }
+                  ]
+                },
+                {
+                  "label": "transvenous approach by transcutaneous canalization of the superior ophthalmic vein",
+                  "children": [
+                    {
+                      "label": "may require an orbitotomy to directly access the vein"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "indirect (dural) carotid-cavernous fistula",
+              "children": [
+                {
+                  "label": "small dural carotid-cavernous fistulas often close spontaneously",
+                  "children": [
+                    {
+                      "label": "may initially be observed"
+                    }
+                  ]
+                },
+                {
+                  "label": "higher risk for intracranial hemorrhage",
+                  "children": [
+                    {
+                      "label": "some investigators have recommended more aggressive management"
+                    }
+                  ]
+                },
+                {
+                  "label": "transvenous access"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Arteriovenous Malformation (AVM)",
+      "children": [
+        {
+          "label": "vascular dysgenesis",
+          "children": [
+            {
+              "label": "high-flow"
+            },
+            {
+              "label": "abnormally formed anastomosing arteries and veins without an intervening capillary bed"
+            }
+          ]
+        },
+        {
+          "label": "dilated corkscrew episcleral vessels"
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "arteriography"
+            },
+            {
+              "label": "selective occlusion of the feeding vessels",
+              "children": [
+                {
+                  "label": "followed by surgical excision",
+                  "children": [
+                    {
+                      "label": "exsanguinating arterial hemorrhage may occur"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Orbital Hemorrhage",
+      "children": [
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "trauma"
+            },
+            {
+              "label": "surgery"
+            },
+            {
+              "label": "vascular malformations"
+            },
+            {
+              "label": "sudden increase in venous pressure (eg, Valsalva maneuver)",
+              "children": [
+                {
+                  "label": "rare"
+                },
+                {
+                  "label": "spontaneous orbital hemorrhage almost always occurs in the superior subperiosteal space"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "observation"
+            },
+            {
+              "label": "urgent drainage",
+              "children": [
+                {
+                  "label": "if there is associated visual compromise"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.5.2. Orbital Neoplasms and Malformations (II) - Vascular Tumors (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 121,
+      "connector_rejected": 1,
+      "connector_edges": 119,
+      "connector_width": 0.907,
+      "text_labels": 124,
+      "tree_nodes": 124,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.9835,
+      "root_font_size": 3.855,
+      "warnings": []
+    }
+  }
+}

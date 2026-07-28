@@ -1,0 +1,513 @@
+{
+  "label": "Congenital Esotropia",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "6-month-old boy has inward turning of his eye for the past 2 months"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "infantile (congenital) ET",
+          "children": [
+            {
+              "label": "present by 6 months of age",
+              "children": [
+                {
+                  "label": "external photograph shows an infant with left esotropia and cross fixation of the right eye in adducted position"
+                }
+              ]
+            },
+            {
+              "label": "often have positive family history of strabismus"
+            },
+            {
+              "label": "more common in prematurely born infants"
+            },
+            {
+              "label": "neurologic and developmental problems",
+              "children": [
+                {
+                  "label": "30%"
+                }
+              ]
+            },
+            {
+              "label": "versions and ductions are often normal initially"
+            },
+            {
+              "label": "deviation is comitant"
+            },
+            {
+              "label": ".>30Δ"
+            }
+          ]
+        },
+        {
+          "label": "accomodative ET"
+        },
+        {
+          "label": "sensory ET"
+        },
+        {
+          "label": "CN 6 palsy"
+        },
+        {
+          "label": "Duane retraction syndrome"
+        }
+      ]
+    },
+    {
+      "label": "Additional Testing",
+      "children": [
+        {
+          "label": "MRI",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "acute onset"
+                },
+                {
+                  "label": "headache"
+                },
+                {
+                  "label": "diplopia"
+                },
+                {
+                  "label": "abnormal head position"
+                },
+                {
+                  "label": "incomitant ET",
+                  "children": [
+                    {
+                      "label": "r/o CN 6 palsy"
+                    }
+                  ]
+                },
+                {
+                  "label": "acquired non-accomodative ET (comitant)",
+                  "children": [
+                    {
+                      "label": "divergence insufficiency",
+                      "children": [
+                        {
+                          "label": "distance ET>near ET"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "papilledema"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "esotropia, congenital"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "full hyperopic correction",
+              "children": [
+                {
+                  "label": "if >+2.00 D"
+                }
+              ]
+            },
+            {
+              "label": "amblyopia treatment",
+              "children": [
+                {
+                  "label": "patching",
+                  "children": [
+                    {
+                      "label": "2 hr/day while active"
+                    }
+                  ]
+                },
+                {
+                  "label": "before or after surgery"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "surgical correction",
+              "children": [
+                {
+                  "label": "symmetric bilateral MR recession"
+                },
+                {
+                  "label": "unilateral MR recess + LR resect",
+                  "children": [
+                    {
+                      "label": "< age 2 years"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "alignment within 8Δ–10Δ of orthotropia frequently results in the development of monofixation syndrom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "discuss risk of amblyopia"
+            },
+            {
+              "label": "discuss role of patching for amblyopia"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "treatment outcome",
+              "children": [
+                {
+                  "label": "good cosmetic result",
+                  "children": [
+                    {
+                      "label": "in contrast to see-saw nystagmus in which the elevating eye intorts",
+                      "children": [
+                        {
+                          "label": "in contrast to skew deviation in which the hypertropic eye intorts"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "stereopsis if ET corrected early"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Prognosis & Complications",
+          "children": [
+            {
+              "label": "DVD",
+              "children": [
+                {
+                  "label": "either eye slowly drifts upward and outward, with simultaneous extorsion",
+                  "children": [
+                    {
+                      "label": "when occluded or during periods of visual inattention"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "IO muscle overaction"
+            },
+            {
+              "label": "latent nystagmus"
+            },
+            {
+              "label": "recurrent ET"
+            },
+            {
+              "label": "consecutive XT"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "monitor for above complications"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "medical history",
+              "children": [
+                {
+                  "label": "neurological or developmental problems"
+                }
+              ]
+            },
+            {
+              "label": "ocular history",
+              "children": [
+                {
+                  "label": "onset/course of ET",
+                  "children": [
+                    {
+                      "label": "review old photos",
+                      "children": [
+                        {
+                          "label": "deviation"
+                        },
+                        {
+                          "label": "fixation preference (cross fixation)"
+                        },
+                        {
+                          "label": "abnormal head position"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "intermittent vs. constant"
+                },
+                {
+                  "label": "one eye or both eyes (alternating)"
+                },
+                {
+                  "label": "prior treatment",
+                  "children": [
+                    {
+                      "label": "glasses"
+                    },
+                    {
+                      "label": "surgery"
+                    }
+                  ]
+                },
+                {
+                  "label": "nystagmus"
+                }
+              ]
+            },
+            {
+              "label": "family hx of strabismus"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "VA",
+              "children": [
+                {
+                  "label": "preferential looking tests",
+                  "children": [
+                    {
+                      "label": "Teller cards"
+                    }
+                  ]
+                },
+                {
+                  "label": "cross fixation"
+                }
+              ]
+            },
+            {
+              "label": "abnormal head position"
+            },
+            {
+              "label": "EOM & alignment",
+              "children": [
+                {
+                  "label": "measure deviation",
+                  "children": [
+                    {
+                      "label": "at near & distance"
+                    },
+                    {
+                      "label": "comitant vs incomitant"
+                    },
+                    {
+                      "label": "cover tests",
+                      "children": [
+                        {
+                          "label": "cover-uncover test",
+                          "children": [
+                            {
+                              "label": "differentiates tropia from phoria"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "alternate cover test",
+                          "children": [
+                            {
+                              "label": "prism alternate cover test",
+                              "children": [
+                                {
+                                  "label": "plastic prisms should be held parallel to frontal plane"
+                                },
+                                {
+                                  "label": "do not stack prisms"
+                                },
+                                {
+                                  "label": "prisms can be divided between the 2 eyes"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "for measurement of deviation"
+                    },
+                    {
+                      "label": "light reflex tests",
+                      "children": [
+                        {
+                          "label": "Hirschberg",
+                          "children": [
+                            {
+                              "label": "22Δ/ mm"
+                            },
+                            {
+                              "label": "30Δ at pupil margin"
+                            },
+                            {
+                              "label": "60Δ at mid-iris"
+                            },
+                            {
+                              "label": "90Δ at limbus"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Krimsky",
+                          "children": [
+                            {
+                              "label": "uses prisms to center light reflex"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "limitation of abduction",
+                  "children": [
+                    {
+                      "label": "doll’s head maneuver"
+                    },
+                    {
+                      "label": "observation after patching either of the patient’s eyes"
+                    }
+                  ]
+                },
+                {
+                  "label": "oblique muscle overaction",
+                  "children": [
+                    {
+                      "label": "A or V pattern"
+                    }
+                  ]
+                },
+                {
+                  "label": "dissociated vertical deviation"
+                },
+                {
+                  "label": "latent nystagmus"
+                }
+              ]
+            },
+            {
+              "label": "anterior and posterior segment exam",
+              "children": [
+                {
+                  "label": "cataract"
+                },
+                {
+                  "label": "rb"
+                },
+                {
+                  "label": "optic nerve pathology"
+                },
+                {
+                  "label": "papilledema"
+                }
+              ]
+            },
+            {
+              "label": "cycloplegic refraction",
+              "children": [
+                {
+                  "label": "r/o significant hyperopia (>2.00 D)",
+                  "children": [
+                    {
+                      "label": "sensory ET"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "cannot differentiate tropia from phoria"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_Pediatric ophthalmology/Congenital Esotropia.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 205,
+      "connector_rejected": 2,
+      "connector_edges": 150,
+      "connector_width": 0.776,
+      "text_labels": 128,
+      "tree_nodes": 128,
+      "component_roots": 8,
+      "spatially_recovered_labels": 5,
+      "connector_match_ratio": 0.7317,
+      "root_font_size": 5.432,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "label": "5.2.1. Neuroimaging in Neuro- Ophthalmology (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "General",
+      "children": [
+        {
+          "label": "most neuro-ophthalmic diseases are best assessed with MRI of the brain and orbit",
+          "children": [
+            {
+              "label": "contrast"
+            },
+            {
+              "label": "fat-saturation techniques"
+            }
+          ]
+        },
+        {
+          "label": "If a vascular abnormality is suspected",
+          "children": [
+            {
+              "label": "magnetic resonance angiography (MRA)"
+            },
+            {
+              "label": "magnetic resonance venography (MRV)"
+            }
+          ]
+        },
+        {
+          "label": "open communication between the ophthalmologist and radiologist",
+          "children": [
+            {
+              "label": "selecting the best imaging modality",
+              "children": [
+                {
+                  "label": "prescriptive errors"
+                }
+              ]
+            },
+            {
+              "label": "interpreting the study results",
+              "children": [
+                {
+                  "label": "interpretive errors"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Retinal and Nerve Fiber Layer Imaging",
+      "children": [
+        {
+          "label": "Heidelberg retinal tomography (HRT)"
+        },
+        {
+          "label": "scanning laser polarimetry (GDx)"
+        },
+        {
+          "label": "optical coherence tomography (OCT)"
+        },
+        {
+          "label": "use laser or short coherence light"
+        }
+      ]
+    },
+    {
+      "label": "CT contrast contains hydrogen"
+    },
+    {
+      "label": "Computed Tomography (CT)",
+      "children": [
+        {
+          "label": "uses computer (digital) processing to generate a 2- or 3-dimensional image from a series of 2-dimensional x-ray (sectional) images"
+        },
+        {
+          "label": "by manipulating (“windowing”) the data, various structures can be visualized"
+        },
+        {
+          "label": "fat provides excellent contrast to the globe, lacrimal gland, optic nerve, and extraocular muscles"
+        },
+        {
+          "label": "bone and other calcium-containing processes can be visualized easily"
+        },
+        {
+          "label": "soft-tissue details can be further enhanced by the injection of iodinated contrast material",
+          "children": [
+            {
+              "label": "crosses a disturbed blood–brain barrier to accumulate within a local lesion",
+              "children": [
+                {
+                  "label": "reveals inflammatory and neoplastic processes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "modern CT scanners",
+          "children": [
+            {
+              "label": "image the patient with simultaneous sectioning (ie, spiral or helical)"
+            },
+            {
+              "label": "have multiplanar reconstruction capabilities"
+            }
+          ]
+        },
+        {
+          "label": "advantages of CT",
+          "children": [
+            {
+              "label": "relatively low cost"
+            },
+            {
+              "label": "wide availability"
+            },
+            {
+              "label": "excellent spatial resolution"
+            },
+            {
+              "label": "rapid image acquisition"
+            },
+            {
+              "label": "ability to identify acute blood"
+            },
+            {
+              "label": "ability to identify bone abnormalities"
+            },
+            {
+              "label": "See Table 2-1",
+              "children": [
+                {
+                  "label": "especially useful in trauma"
+                },
+                {
+                  "label": "iodinated",
+                  "children": [
+                    {
+                      "label": "similar to CT contrast"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sonography",
+      "children": [
+        {
+          "label": "reflection of 8–20 MHz ultrasound waves at acoustic interfaces"
+        },
+        {
+          "label": "advantages",
+          "children": [
+            {
+              "label": "inexpensive"
+            },
+            {
+              "label": "quick"
+            },
+            {
+              "label": "office-based"
+            }
+          ]
+        },
+        {
+          "label": "disadnantage",
+          "children": [
+            {
+              "label": "requires expertise in image acquisition and interpretation"
+            }
+          ]
+        },
+        {
+          "label": "carotid Doppler",
+          "children": [
+            {
+              "label": "accurate at detecting cervical carotid artery stenosis"
+            },
+            {
+              "label": "does not provide information about more proximal or distal vessels"
+            },
+            {
+              "label": "not accurate at detecting carotid artery dissection"
+            }
+          ]
+        },
+        {
+          "label": "orbital Doppler sonography",
+          "children": [
+            {
+              "label": "carotid-cavernous fistula",
+              "children": [
+                {
+                  "label": "reversal of normally retrograde venous blood flow"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "orbital ultrasound",
+          "children": [
+            {
+              "label": "provides useful data concerning",
+              "children": [
+                {
+                  "label": "optic nerve"
+                },
+                {
+                  "label": "muscle"
+                },
+                {
+                  "label": "vessels"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "globe ultrasound",
+          "children": [
+            {
+              "label": "to distinguish disc edema from optic nerve head drusen",
+              "children": [
+                {
+                  "label": "does not provide accurate imaging of the orbital apex"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Computed Tomography Angiography and Computed Tomography Venography",
+      "children": [
+        {
+          "label": "Computed tomography angiography (CTA)",
+          "children": [
+            {
+              "label": "high-speed spiral scanner"
+            },
+            {
+              "label": "excellent vessel resolution"
+            },
+            {
+              "label": "3-dimensional capability"
+            },
+            {
+              "label": "complementary to MRA"
+            },
+            {
+              "label": "employs ionizing radiation",
+              "children": [
+                {
+                  "label": "requires use of iodinated contrast dye"
+                }
+              ]
+            },
+            {
+              "label": "takes ≈ 15 minutes",
+              "children": [
+                {
+                  "label": "aneurysms >3 mm",
+                  "children": [
+                    {
+                      "label": "accurately detects aneurysms >3–4 mm in almost all patients with CN III palsy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "sensitivity",
+              "children": [
+                {
+                  "label": "stenosis >70%"
+                },
+                {
+                  "label": "≈ 95%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Computed tomography venography (CTV)",
+          "children": [
+            {
+              "label": "for visualizing the cerebral venous system"
+            },
+            {
+              "label": "comparable to MRV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Catheter or Contrast Angiography",
+      "children": [
+        {
+          "label": "gold standard for intracerebral vascular imaging"
+        },
+        {
+          "label": "catheter is placed intra-arterially",
+          "children": [
+            {
+              "label": "iodinated radiodense contrast dye is injected"
+            }
+          ]
+        },
+        {
+          "label": "digital subtraction angiography (DSA)",
+          "children": [
+            {
+              "label": "reduces artifacts by subtracting densities created by the overlying bony skull"
+            },
+            {
+              "label": "ability to visualize vascular structures with smaller amounts of contrast dye"
+            }
+          ]
+        },
+        {
+          "label": "demonstrates",
+          "children": [
+            {
+              "label": "stenosis"
+            },
+            {
+              "label": "aneurysms"
+            },
+            {
+              "label": "vascular malformations"
+            },
+            {
+              "label": "flow dynamics"
+            },
+            {
+              "label": "vessel wall irregularities"
+            }
+          ]
+        },
+        {
+          "label": "overall morbidity of approximately 2.5%",
+          "children": [
+            {
+              "label": "ischemia from emboli or vasospasm"
+            },
+            {
+              "label": "dye-related reactions"
+            },
+            {
+              "label": "complications at the arterial puncture site (eg, hematoma)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.2.1. Neuroimaging in Neuro- Ophthalmology (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 150,
+      "connector_rejected": 3,
+      "connector_edges": 121,
+      "connector_width": 1.063,
+      "text_labels": 98,
+      "tree_nodes": 98,
+      "component_roots": 6,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.8067,
+      "root_font_size": 3.721,
+      "warnings": []
+    }
+  }
+}

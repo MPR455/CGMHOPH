@@ -1,0 +1,602 @@
+{
+  "label": "5.3.1. The Patient With Decreased Vision: Evaluation (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Pupillary Testing",
+      "children": [
+        {
+          "label": "relative afferent pupillary defect (RAPD)",
+          "children": [
+            {
+              "label": "difference in pupillary responses after light stimulation of the right versus left eye"
+            }
+          ]
+        },
+        {
+          "label": "swinging flashlight test",
+          "children": [
+            {
+              "label": "most popular clinical method for detecting an RAPD"
+            },
+            {
+              "label": "technique",
+              "children": [
+                {
+                  "label": "patient stares into the distance"
+                },
+                {
+                  "label": "lights dimmed"
+                },
+                {
+                  "label": "examiner shines a bright focal light along the visual axis into 1 pupil for 2–3 seconds"
+                },
+                {
+                  "label": "rapidly swings the light to shine into the other pupil for 2–3 seconds"
+                },
+                {
+                  "label": "repeated 4–5 times"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "optic nerve disease",
+          "children": [
+            {
+              "label": "light stimulation of the affected eye will produce slower pupillary constriction of lower amplitude"
+            },
+            {
+              "label": "RAPD is an extremely reliable and sensitive indicator of optic nerve dysfunction",
+              "children": [
+                {
+                  "label": "absence of RAPD indicates",
+                  "children": [
+                    {
+                      "label": "lack of an optic neuropathy"
+                    },
+                    {
+                      "label": "bilateral optic nerve involvement"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "retinal disease",
+          "children": [
+            {
+              "label": "require substantial retinal involvement to produce an RAPD",
+              "children": [
+                {
+                  "label": "central retinal artery occlusion"
+                },
+                {
+                  "label": "retinal detachment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "chiasmal lesions",
+          "children": [
+            {
+              "label": "may produce RAPD secondary to asymmetric optic nerve involvement"
+            }
+          ]
+        },
+        {
+          "label": "optic tract lesions"
+        },
+        {
+          "label": "media opacities",
+          "children": [
+            {
+              "label": "cataract or vitreous hemorrhage",
+              "children": [
+                {
+                  "label": "produce mild contralateral RAPD",
+                  "children": [
+                    {
+                      "label": "each tract contains more crossed than uncrossed fibers"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "amblyopia"
+        },
+        {
+          "label": "rare"
+        }
+      ]
+    },
+    {
+      "label": "History",
+      "children": [
+        {
+          "label": "Unilateral Versus Bilateral Involvement",
+          "children": [
+            {
+              "label": "unilateral vision loss"
+            },
+            {
+              "label": "bilateral vision loss",
+              "children": [
+                {
+                  "label": "bilateral ocular",
+                  "children": [
+                    {
+                      "label": "anterior to the chiasm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Time Course of Vision Loss",
+          "children": [
+            {
+              "label": "sudden onset (within minutes)",
+              "children": [
+                {
+                  "label": "ischemic",
+                  "children": [
+                    {
+                      "label": "chiasmal or retrochiasmal"
+                    }
+                  ]
+                },
+                {
+                  "label": "patients may become acutely aware of chronic processes"
+                }
+              ]
+            },
+            {
+              "label": "rapid vision loss (over hours)",
+              "children": [
+                {
+                  "label": "ischemic"
+                }
+              ]
+            },
+            {
+              "label": "over days to weeks",
+              "children": [
+                {
+                  "label": "inflammatory"
+                }
+              ]
+            },
+            {
+              "label": "over months",
+              "children": [
+                {
+                  "label": "toxic"
+                }
+              ]
+            },
+            {
+              "label": "over months or years",
+              "children": [
+                {
+                  "label": "compressive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Associated Symptoms",
+          "children": [
+            {
+              "label": "globe tenderness/ipsilateral periorbital pain that increases with eye movement",
+              "children": [
+                {
+                  "label": "optic neuritis",
+                  "children": [
+                    {
+                      "label": "demyelinating disease",
+                      "children": [
+                        {
+                          "label": "diplopia"
+                        },
+                        {
+                          "label": "oscillopsia"
+                        },
+                        {
+                          "label": "hemiparesis"
+                        },
+                        {
+                          "label": "hemisensory changes"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "nonspecific pain, facial numbness, or diplopia",
+              "children": [
+                {
+                  "label": "orbital or cavernous sinus lesions"
+                }
+              ]
+            },
+            {
+              "label": "headache, jaw claudication, and systemic symptoms",
+              "children": [
+                {
+                  "label": "giant cell arteritis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Examination",
+      "children": [
+        {
+          "label": "Best-Corrected Visual Acuity (BCVA)",
+          "children": [
+            {
+              "label": "with refraction"
+            },
+            {
+              "label": "Improvement with pinhole viewing indicates refractive component",
+              "children": [
+                {
+                  "label": "worsening with pinhole viewing suggests retinal or lenticular contribution"
+                }
+              ]
+            },
+            {
+              "label": "visual acuity< 20/400",
+              "children": [
+                {
+                  "label": "quantify BCVA using a standard 200 optotype E",
+                  "children": [
+                    {
+                      "label": "the distance at which the patient discerns the letter orientation (e.g. “5/200”)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "distance and near BCVA should be similar",
+              "children": [
+                {
+                  "label": "better visual acuity at near",
+                  "children": [
+                    {
+                      "label": "nuclear sclerotic cataract"
+                    },
+                    {
+                      "label": "better visual acuity at distance",
+                      "children": [
+                        {
+                          "label": "macular disease"
+                        },
+                        {
+                          "label": "posterior subcapsular or polar cataracts"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "document the presence of",
+              "children": [
+                {
+                  "label": "eccentric fixation",
+                  "children": [
+                    {
+                      "label": "possible central scotoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "tendency to read half of the eye chart",
+                  "children": [
+                    {
+                      "label": "possible hemianopic field defect"
+                    }
+                  ]
+                },
+                {
+                  "label": "improvement in BCVA when reading single optotypes",
+                  "children": [
+                    {
+                      "label": "possible amblyopia"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "disc margins become sharper"
+    },
+    {
+      "label": "Fundus Examination",
+      "children": [
+        {
+          "label": "direct ophthalmoscopy",
+          "children": [
+            {
+              "label": "can screen for opacities/irregularities in the cornea, lens, or vitreous using the red reflex"
+            },
+            {
+              "label": "clarity of the view suggests how much visual impairment the media opacities might cause"
+            }
+          ]
+        },
+        {
+          "label": "optic disc atrophy",
+          "children": [
+            {
+              "label": "damage to the retinal ganglion cells",
+              "children": [
+                {
+                  "label": "from the cell bodies to their synapses at the lateral geniculate nucleus"
+                }
+              ]
+            },
+            {
+              "label": "optic disc pallor",
+              "children": [
+                {
+                  "label": "takes ≥4–6 weeks"
+                },
+                {
+                  "label": "subtle pallor is appreciated only in relation to the normal fellow eye",
+                  "children": [
+                    {
+                      "label": "difficult after unilateral cataract extraction"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "surface disc vascular net becomes thin or absent in early atrophy"
+            },
+            {
+              "label": "dropout of the NFL fibers may precede visible optic atrophy",
+              "children": [
+                {
+                  "label": "dark bands among normal striations",
+                  "children": [
+                    {
+                      "label": "rake defects"
+                    },
+                    {
+                      "label": "normal translucent, glistening quality of the retina may disappear",
+                      "children": [
+                        {
+                          "label": "dull red broad or fine radial patches",
+                          "children": [
+                            {
+                              "label": "Figure 3-3"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "initially affect the superior and inferior arcades"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "optic disc edema",
+          "children": [
+            {
+              "label": "impaired axoplasmic flow",
+              "children": [
+                {
+                  "label": "swelling of the unmyelinated nerve fibers"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "increased intracranial pressure"
+                },
+                {
+                  "label": "focal mechanical compression"
+                },
+                {
+                  "label": "ischemia"
+                },
+                {
+                  "label": "inflammation"
+                }
+              ]
+            },
+            {
+              "label": "clinical features",
+              "children": [
+                {
+                  "label": "elevation of the nerve head",
+                  "children": [
+                    {
+                      "label": "variable filling in of the physiologic cup"
+                    },
+                    {
+                      "label": "retinal vessels may appear to drape over the elevated disc margin"
+                    }
+                  ]
+                },
+                {
+                  "label": "blurring of the disc margins"
+                },
+                {
+                  "label": "peripapillary NFL opacification",
+                  "children": [
+                    {
+                      "label": "grayish white and opalescent with feathered margins"
+                    },
+                    {
+                      "label": "obscures portions of the retinal vessels"
+                    }
+                  ]
+                },
+                {
+                  "label": "hyperemia and dilation of the disc surface capillary net"
+                },
+                {
+                  "label": "retinal venous dilation and tortuosity"
+                },
+                {
+                  "label": "peripapillary hemorrhages, exudates, or cotton-wool spots"
+                },
+                {
+                  "label": "retinal or choroidal folds or macular edema"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Color Vision Testing",
+      "children": [
+        {
+          "label": "optic nerve disease",
+          "children": [
+            {
+              "label": "color vision loss > visual acuity loss",
+              "children": [
+                {
+                  "label": "an eye with 20/30 visual acuity but severe loss of color vision"
+                },
+                {
+                  "label": "persistent dyschromatopsia even after recovery of visual acuity"
+                }
+              ]
+            },
+            {
+              "label": "particularly demyelinating optic neuritis"
+            }
+          ]
+        },
+        {
+          "label": "macular disease"
+        },
+        {
+          "label": "congenital dyschromatopsia",
+          "children": [
+            {
+              "label": "color vision loss = visual acuity loss"
+            },
+            {
+              "label": "bilateral, symmetric color vision loss in men"
+            }
+          ]
+        },
+        {
+          "label": "most optic neuropathies manifest red-green defects"
+        },
+        {
+          "label": "blue-yellow color defects",
+          "children": [
+            {
+              "label": "optic neuropathy"
+            },
+            {
+              "label": "macular disease"
+            },
+            {
+              "label": "glaucoma"
+            }
+          ]
+        },
+        {
+          "label": "pseudoisochromatic color plate",
+          "children": [
+            {
+              "label": "screens for congenital red-green color deficiencies"
+            }
+          ]
+        },
+        {
+          "label": "Hardy-Rand-Rittler (HRR) plates",
+          "children": [
+            {
+              "label": "can screen for tritan (ie, blue-yellow) defects as well as red-green defects"
+            }
+          ]
+        },
+        {
+          "label": "Lanthony tritan plates",
+          "children": [
+            {
+              "label": "can detect blue-yellow defects"
+            }
+          ]
+        },
+        {
+          "label": "Farnsworth panel D-15 test"
+        },
+        {
+          "label": "Farnsworth-Munsell 100-hue test",
+          "children": [
+            {
+              "label": "requires a substantial amount of time"
+            },
+            {
+              "label": "shortened version, using only 21 color chips"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "may miss mild cases of acquired dyschromatopsia"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.3.1. The Patient With Decreased Vision - Evaluation (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 267,
+      "connector_rejected": 3,
+      "connector_edges": 180,
+      "connector_width": 0.899,
+      "text_labels": 149,
+      "tree_nodes": 149,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6742,
+      "root_font_size": 3.145,
+      "warnings": []
+    }
+  }
+}

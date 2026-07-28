@@ -1,0 +1,305 @@
+{
+  "label": "4.20.3. Ocular Involvement in Systemic Malignancies (III): Vitreoretinal Lymphoma",
+  "root": true,
+  "children": [
+    {
+      "label": "alternate names",
+      "children": [
+        {
+          "label": "primary intraocular lymphoma"
+        },
+        {
+          "label": "large cell lymphoma"
+        },
+        {
+          "label": "retinal lymphoma"
+        }
+      ]
+    },
+    {
+      "label": "demographics",
+      "children": [
+        {
+          "label": "most common lymphoma involving the eye"
+        },
+        {
+          "label": "most aggressive lymphoma involving the eye"
+        },
+        {
+          "label": "30% unilateral at presentation"
+        },
+        {
+          "label": "85% become bilateral"
+        },
+        {
+          "label": "associated with primary CNS lymphoma (PCNSL)",
+          "children": [
+            {
+              "label": "concomitant CNS involvement",
+              "children": [
+                {
+                  "label": "60%"
+                }
+              ]
+            },
+            {
+              "label": "neurologic deficits",
+              "children": [
+                {
+                  "label": "10%"
+                }
+              ]
+            },
+            {
+              "label": "increased incidence of PCNSL in recent decades",
+              "children": [
+                {
+                  "label": "both immunocompetent & immunocompromised patients"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "pathology",
+      "children": [
+        {
+          "label": "coordinate with pathologist prior to surgery"
+        },
+        {
+          "label": "sampling",
+          "children": [
+            {
+              "label": "pars plana vitrectomy",
+              "children": [
+                {
+                  "label": "diluted"
+                },
+                {
+                  "label": "undiluted"
+                },
+                {
+                  "label": "a second biopsy may be required"
+                }
+              ]
+            },
+            {
+              "label": "aspiration of subretinal (sub-RPE) infiltrates"
+            }
+          ]
+        },
+        {
+          "label": "cytologic evaluation",
+          "children": [
+            {
+              "label": "essential"
+            },
+            {
+              "label": "immunohistochemical studies for cell surface markers",
+              "children": [
+                {
+                  "label": "cell subclassification"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "flow cytometry"
+        },
+        {
+          "label": "PCR/FISH for gene rearrangement"
+        },
+        {
+          "label": "IL-10/IL-6 ratio",
+          "children": [
+            {
+              "label": "IL-10 levels are elevated with VR lymphoma"
+            },
+            {
+              "label": "high vitreous levels of IL-6 are found with inflammatory uveitis"
+            },
+            {
+              "label": "elevated IL-10/IL-6 ratio"
+            }
+          ]
+        },
+        {
+          "label": "ancillary studies"
+        }
+      ]
+    },
+    {
+      "label": "clinical findings",
+      "children": [
+        {
+          "label": "ocular findings may occur before CNS findings"
+        },
+        {
+          "label": "diffuse vitreous cells"
+        },
+        {
+          "label": "minimal anterior chamber reaction"
+        },
+        {
+          "label": "subretinal/sub-RPE yellow-white infiltrates",
+          "children": [
+            {
+              "label": "overlying RPE clumping"
+            },
+            {
+              "label": "\"headlight in fog\""
+            }
+          ]
+        },
+        {
+          "label": "+- retinal vasculitis"
+        },
+        {
+          "label": "+- vascular occlusion"
+        },
+        {
+          "label": "masquerades as nonspecific uveitis",
+          "children": [
+            {
+              "label": "bilateral posterior uveitis after age 50"
+            },
+            {
+              "label": "chronic uveitis in 5th-7th decades",
+              "children": [
+                {
+                  "label": "suggestive of VR lymphoma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "systemic chemotherapy",
+          "children": [
+            {
+              "label": "limited intraocular penetration"
+            },
+            {
+              "label": "high-dose methotrexate"
+            },
+            {
+              "label": "recurrence is common"
+            }
+          ]
+        },
+        {
+          "label": "EBR",
+          "children": [
+            {
+              "label": "tumor invariably recurs"
+            },
+            {
+              "label": "+- with systemic or intrathecal chemotherapy"
+            }
+          ]
+        },
+        {
+          "label": "intraocular chemotherapy",
+          "children": [
+            {
+              "label": "intravitreal methotrexate",
+              "children": [
+                {
+                  "label": "good response"
+                },
+                {
+                  "label": "low recurrence rate"
+                }
+              ]
+            },
+            {
+              "label": "intravitreal rituximab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ancillary testing",
+      "children": [
+        {
+          "label": "fundus photography"
+        },
+        {
+          "label": "fluorescein angiography"
+        },
+        {
+          "label": "ultrasonography",
+          "children": [
+            {
+              "label": "discrete nodular or placoid subretinal infiltration"
+            },
+            {
+              "label": "retinal detachment"
+            },
+            {
+              "label": "vitreous syneresis with increased reflectivity"
+            }
+          ]
+        },
+        {
+          "label": "neurologic consultation"
+        },
+        {
+          "label": "brain CT/MRI"
+        },
+        {
+          "label": "lumbar puncture"
+        },
+        {
+          "label": "rarely helfpul in differential diagnosis"
+        }
+      ]
+    },
+    {
+      "label": "prognosis",
+      "children": [
+        {
+          "label": "poor"
+        },
+        {
+          "label": "regular follow-up by experienced medical oncologist"
+        },
+        {
+          "label": "patients with primary CNS lymphoma need long-term follow-up by ophthalmologist",
+          "children": [
+            {
+              "label": "even after remission of CNS disease!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.20.3. Ocular Involvement in Systemic Malignancies (III) - Vitreoretinal Lymphoma.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 145,
+      "connector_rejected": 6,
+      "connector_edges": 105,
+      "connector_width": 2.1,
+      "text_labels": 78,
+      "tree_nodes": 78,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7241,
+      "root_font_size": 4.899,
+      "warnings": []
+    }
+  }
+}

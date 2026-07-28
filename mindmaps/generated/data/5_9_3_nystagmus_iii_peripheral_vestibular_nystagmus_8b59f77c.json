@@ -1,0 +1,382 @@
+{
+  "label": "5.9.3. Nystagmus (III): Peripheral Vestibular Nystagmus",
+  "root": true,
+  "children": [
+    {
+      "label": "clinical presentation",
+      "children": [
+        {
+          "label": "See Table 9-1"
+        },
+        {
+          "label": "symptoms worsened by particular head movements or postures"
+        },
+        {
+          "label": "acute phase",
+          "children": [
+            {
+              "label": "lasts days"
+            }
+          ]
+        },
+        {
+          "label": "slow period",
+          "children": [
+            {
+              "label": "weeks to months"
+            },
+            {
+              "label": "gradually waning symptoms"
+            },
+            {
+              "label": "may experience discomfort months to years later when their vestibular system is challenged"
+            }
+          ]
+        },
+        {
+          "label": "sudden onset of dysequilibrium",
+          "children": [
+            {
+              "label": "±",
+              "children": [
+                {
+                  "label": "vertigo"
+                },
+                {
+                  "label": "nausea"
+                },
+                {
+                  "label": "vomiting"
+                },
+                {
+                  "label": "oscillopsia"
+                },
+                {
+                  "label": "tinnitus"
+                },
+                {
+                  "label": "hearing loss"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "nystagmus",
+          "children": [
+            {
+              "label": "nystagmus may be evident in primary position",
+              "children": [
+                {
+                  "label": "a purely vertical or torsional nystagmus almost always signifies a central lesion"
+                },
+                {
+                  "label": "mixed horizontal-torsional nystagmus"
+                }
+              ]
+            },
+            {
+              "label": "slow phase is toward the side of involvement",
+              "children": [
+                {
+                  "label": "a left-sided lesion would produce leftward slow phases and right jerk nystagmus"
+                }
+              ]
+            },
+            {
+              "label": "follows Alexander’s law",
+              "children": [
+                {
+                  "label": "nystagmus is more pronounced when gaze is directed toward the side of the fast-beating component"
+                }
+              ]
+            },
+            {
+              "label": "visual fixation dampens the nystagmus",
+              "children": [
+                {
+                  "label": "evaluated during direct ophthalmoscopy by temporarily covering the contralateral fixating eye"
+                },
+                {
+                  "label": "INS worsens with visual attention & distant fixation",
+                  "children": [
+                    {
+                      "label": "other methods for enhancing vestibular nystagmus",
+                      "children": [
+                        {
+                          "label": "vigorous head shaking"
+                        },
+                        {
+                          "label": "hyperventilation"
+                        },
+                        {
+                          "label": "mastoid vibration"
+                        },
+                        {
+                          "label": "valsalva maneuver"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "± skew deviation"
+        }
+      ]
+    },
+    {
+      "label": "4 clinical patterns",
+      "children": [
+        {
+          "label": "acute, monophasic",
+          "children": [
+            {
+              "label": "(presumed viral) vestibular neuronitis"
+            }
+          ]
+        },
+        {
+          "label": "recurrent",
+          "children": [
+            {
+              "label": "usually progressive",
+              "children": [
+                {
+                  "label": "auditory symptoms (tinnitus and hearing loss)"
+                },
+                {
+                  "label": "long symptom-free intervals"
+                }
+              ]
+            },
+            {
+              "label": "Ménière disease"
+            }
+          ]
+        },
+        {
+          "label": "paroxysmal",
+          "children": [
+            {
+              "label": "benign paroxysmal positional vertigo (BPPV)"
+            },
+            {
+              "label": "vertigo in response to certain postures of the head"
+            },
+            {
+              "label": "free movement of otoconia particles, which act as foreign debris within a semicircular canal"
+            },
+            {
+              "label": "Dix-Hallpike maneuver",
+              "children": [
+                {
+                  "label": "patient’s head is turned 45° to the right or left and lowered below the horizontal plane of an examining table"
+                }
+              ]
+            },
+            {
+              "label": "repositioning treatments",
+              "children": [
+                {
+                  "label": "Epley maneuver"
+                },
+                {
+                  "label": "recurrence is not unusual"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "toxic",
+          "children": [
+            {
+              "label": "agents",
+              "children": [
+                {
+                  "label": "aminoglycosides"
+                },
+                {
+                  "label": "chemotherapeutics"
+                }
+              ]
+            },
+            {
+              "label": "head movement–related oscillopsia"
+            },
+            {
+              "label": "decreased vestibular ocular reflex (VOR) gain bilaterally with little or no nystagmus",
+              "children": [
+                {
+                  "label": "fast phase to opposite side",
+                  "children": [
+                    {
+                      "label": "worsens with gaze to opposite side"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "very large cerebellopontine angle tumor",
+      "children": [
+        {
+          "label": "vestibular schwannoma or meningioma"
+        },
+        {
+          "label": "Bruns nystagmus",
+          "children": [
+            {
+              "label": "combination of",
+              "children": [
+                {
+                  "label": "peripheral vestibular nystagmus",
+                  "children": [
+                    {
+                      "label": "initially, the vestibular nerve is affected",
+                      "children": [
+                        {
+                          "label": "eyes drift toward the side of the lesion"
+                        },
+                        {
+                          "label": "corrective fast phase in the opposite direction"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "small-amplitude, high-frequency vestibular nystagmus develops as the patient looks to the opposite side (direction of fast phase)",
+                      "children": [
+                        {
+                          "label": "Alexander's law",
+                          "children": [
+                            {
+                              "label": "fast phase to the opposite side"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "gaze-evoked nystagmus",
+                  "children": [
+                    {
+                      "label": "as the tumor enlarges, the ipsilateral brainstem is compressed",
+                      "children": [
+                        {
+                          "label": "problems in maintaining ipsilateral eccentric gaze"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "large-amplitude, lower-frequency gaze-evoked nystagmus develops as the patient looks to the side of the lesion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "worsens with gaze to same side"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fast phase to same side side"
+    },
+    {
+      "label": "pathogenesis",
+      "children": [
+        {
+          "label": "end-organ origin",
+          "children": [
+            {
+              "label": "components",
+              "children": [
+                {
+                  "label": "semicircular canals"
+                },
+                {
+                  "label": "otolithic structures"
+                },
+                {
+                  "label": "vestibular nerve"
+                }
+              ]
+            },
+            {
+              "label": "unilateral or asymmetric",
+              "children": [
+                {
+                  "label": "except in cases of toxicity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "disruption of the normally symmetric vestibular afferent input to the neural integrator",
+          "children": [
+            {
+              "label": "disrupts the output of the neural integrator to the contralateral PPRF",
+              "children": [
+                {
+                  "label": "produces a directional bias toward the diseased side"
+                },
+                {
+                  "label": "neural control of eye movements",
+                  "children": [
+                    {
+                      "label": "• nucleus prepositus hypoglossi: neural integrator for horizontal eye movements:",
+                      "children": [
+                        {
+                          "label": "• PPRF: saccadic generator for horizontal eye movements (pons )"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "• interstitial nucleus of Cajal: neural integrator for vertical and torsional eye movements:",
+                      "children": [
+                        {
+                          "label": "• riMLF: saccadic generator for vertical (and torsional) eye movements (midbrain)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.9.3. Nystagmus (III) - Peripheral Vestibular Nystagmus.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 155,
+      "connector_rejected": 1,
+      "connector_edges": 110,
+      "connector_width": 0.833,
+      "text_labels": 93,
+      "tree_nodes": 93,
+      "component_roots": 5,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.7097,
+      "root_font_size": 2.916,
+      "warnings": []
+    }
+  }
+}

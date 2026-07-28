@@ -1,0 +1,226 @@
+---
+title: "9.5.9. Clinical approach to uveitis (IX): Medical Management (IV): Immunomodulatory Medications (II)"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.5.9. Clinical approach to uveitis (IX) - Medical Management (IV) - Immunomodulatory Medications (II).pdf"
+---
+
+# 9.5.9. Clinical approach to uveitis (IX): Medical Management (IV): Immunomodulatory Medications (II)
+
+## Hierarchy
+
+- Behçet disease
+- drug-induced lupus
+  - 75% of patients receiving >3 infusions developed antinuclear antibodies
+- Biologic response modifiers
+  - introduction
+    - more expensive
+      - inhibit various cytokines
+      - than traditional IMT
+    - less systemic adverse effects
+    - reserved for specific conditions
+      - when traditional IMT has failed
+    - TNF-α
+      - plays a major role in the pathogenesis of
+        - JIA
+        - ankylosing spondylitis
+        - other spondyloarthropathies
+  - etanercept
+    - effective in controlling joint inflammation in
+      - polyarticular JIA
+      - adult rheumatoid arthritis
+    - generally less effective than infliximab
+    - TNF receptor blocker
+    - not effective in controlling active uveitis
+      - reports of paradoxical inflammation
+      - not a preferred biologic for uveitis treatment
+    - can cause a sarcoidlike syndrome
+  - infliximab
+    - chimeric IgG1 kappa monoclonal antibody directed against TNF-α
+      - intravenous infusion
+    - in recent study
+      - 78% of patients achieved control of inflammation at 10 weeks
+      - half could not complete the 50 weeks of therapy because of drug-induced toxicity
+    - adverse effects
+      - systemic vascular thrombosis
+      - congestive heart failure
+      - vitreous hemorrhage
+        - demyelinating disease
+          - may worsen MS
+            - etanercept can cause a sarcoidlike syndrome
+      - new malignancy
+      - disseminated tuberculosis
+        - in case of TB exposure, treatment with TNF inhibitors may be possible with concurrent TB therapy
+          - in patients with unknown, inactive, postprimary tuberculosis
+        - PPD test or interferon-gamma release assay to assess for TB exposure is mandatory before starting infliximab
+    - low-dose methotrexate (5–7.5 mg/week) administered concomitantly reduces
+      - risk of drug-induced lupus syndrome
+      - formation of human antichimeric antibodies
+        - lead to reduced efficacy of infliximab
+    - effective in controlling current inflammation and decreasing the likelihood of future attacks in >75% of patients with
+      - sarcoidosis
+        - VKH syndrome
+      - Behçet uveitis
+      - idiopathic uveitis
+      - corticosteroid-sparing effect
+        - HLA-B27–associated anterior uveitis
+  - adalimumab
+    - fully human monoclonal IgG1 antibody directed against TNF-α
+    - compared with infliximab
+      - as effective in controlling inflammation
+      - less expensive
+      - less development of antidrug antibodies
+    - indications
+      - pediatric uveitis
+        - no intravenous infusion
+          - can be self-administered by subcutaneous injection every 2 weeks
+        - ≤88% success without relapse
+      - adult uveitis
+        - 100% success with Behçet uveitis, posterior uveitis, and panuveitis
+          - 42% uveitis relapse requiring local corticosteroid injections
+    - adverse effects
+      - development of antidrug antibodies
+      - patients must be tested for TB exposure before starting therapy
+  - rituximab
+    - chimeric monoclonal antibody directed against CD20+ cells (mainly B lymphocytes)
+    - indications
+      - Behçet retinal vasculitis
+      - mucous membrane pemphigoid
+      - granulomatosis with polyangiitis–associated necrotizing scleritis
+  - anakinra
+    - recombinant IL-1 receptor antagonist
+    - treatment alternative for JIA-associated uveitis
+    - successfully treats neonatal-onset multisystem inflammatory disease (NOMID)
+      - can cause uveitis
+  - tocilizumab
+    - humanized monoclonal antibody against the IL-6 receptor
+    - JIA-associated uveitis and other types of uveitis that have been refractory to other treatments
+  - intravenous immunoglobulin (IVIG)
+    - mucous membrane pemphigoid
+    - uveitis that is otherwise refractory to immunosuppressive therapy
+  - interferon alfa-2a/2b (IFN-α2a/b)
+    - IFN-α2a
+      - alternative to anti-TNF drugs
+      - indications
+        - somewhat less effective in non-behçet uveitis
+          - 60% inflammation control
+        - behçet uveitis
+          - 90% inflammation control
+      - antiviral, immunomodulatory, and antiangiogenic effects
+      - before initiation of IFN-α2a, discontinue any other immunosuppressive drugs
+    - IFN-α2b
+      - treating uveitic cme
+    - adverse effects
+      - flulike syndrome
+        - during the first weeks of therapy
+        - symptoms may be reduced with prophylactic acetaminophen
+      - leukopenia or thrombocytopenia
+      - depression
+- Antimetabolites
+  - often the first immunomodulatory therapies used when corticosteroid sparing is desired
+  - drugs
+    - azathioprine
+      - slightly higher incidence of adverse effects
+    - methotrexate
+    - mycophenolate mofetil
+      - significantly shorter time to treatment success
+    - leflunomide
+  - azathioprine
+    - mechanism
+      - purine nucleoside analogue
+        - interferes with DNA replication & RNA transcription
+    - dose
+      - ≤2 mg/kg/day in adults
+        - start at 50 mg/day for 1 week
+          - watch for development of gastrointestinal adverse effects before escalating the dose
+      - well absorbed orally
+    - clinical response to azathioprine is variable
+      - variable activity of thiopurine S- methyltransferase (TPMT)
+        - 3 groups of patients based on genotypic test
+          - low/no TPMT activity (0.3% of patients); azathioprine therapy not recommended
+          - intermediate TPMT activity (11% of patients); azathioprine therapy at reduced dosage
+          - normal/high TPMT activity (89% of patients); azathioprine therapy at higher doses than in patients with intermediate TPMT activity
+      - nearly 50% of patients achieve inflammatory control
+        - can taper prednisone dosage to ≤10 mg/day
+    - adverse effects
+      - bone marrow suppression
+        - unusual at the doses used to treat uveitis
+        - complete blood counts
+          - higher risk with allopurinol + azathioprine
+      - reversible hepatic toxicity
+        - <2%
+        - dose reduction may remedy mild hepatotoxicity
+        - liver function tests
+      - contraindicated in patient's previously treated with alkylating agents
+    - indications
+      - intermediate uveitis
+        - gastrointestinal (nausea, upset stomach, and vomiting)
+          - ≤ 25%
+      - VKH syndrome
+      - sympathetic ophthalmia
+      - necrotizing scleritis
+        - first line of treatment
+      - Behçet disease
+        - effective in
+          - preventing ocular involvement among patients without eye disease
+          - decreasing the occurrence of contralateral eye involvement among patients with unilateral Behçet uveitis
+  - methotrexate
+    - mechanism of action
+      - extracellular release of adenosine
+        - anti-inflammatory effects
+      - folic acid analogue and inhibitor of dihydrofolate reductase
+        - inhibits DNA replication
+    - given as a weekly dose
+      - starting at 10–15 mg/week
+        - gradually increasing to 15–25 mg/week
+      - folate is given concurrently at a dose of 1 mg/ day
+    - routes of administration
+      - orally
+      - subcutaneously
+      - intramuscularly
+      - intravenously
+      - intravitreally
+        - 400 μg
+        - for refractory uveitis and uveitic CME
+          - reduction of inflammation and CME and reduced need for systemic IMT
+      - greater bioavailability when given parenterally
+    - adverse effects
+      - gastrointestinal distress and anorexia
+        - 10%
+      - reversible hepatotoxicity
+        - 15%
+        - liver function tests (and CBC) should be conducted regularly
+      - cirrhosis
+        - <0.1%
+      - teratogenic
+    - indications
+      - sarcoidosis
+        - JIA-associated anterior uveitis
+          - first-line choice for IMT in children
+            - mycophenolate mofetil can be a safe alternative to methotrexate in patients with pediatric uveitis
+      - panuveitis
+      - scleritis
+      - may take up to 6 months to produce its full effect
+      - can enable corticosteroid sparing in two-thirds of patients with chronic ocular inflammatory disorders
+  - Mycophenolate mofetil
+    - inhibits
+      - purine synthesis
+        - inosine monophosphate dehydrogenase
+        - DNA replication
+    - dose
+      - 1–1.5 g twice daily
+      - good oral bioavailability
+    - adverse effects
+      - Less than 20%
+        - do not take with antacids
+          - should be taken on empty stomach
+      - reversible gastrointestinal distress and diarrhea
+        - common
+        - managed by dose reduction
+      - similar efficacy in children (88%)
+        - very few patients find the drug intolerable
+    - indications
+      - tends to work rapidly
+        - median time to successful control of ocular inflammation (+ <10 mg/day of prednisone) is 4 months
+      - an effective corticosteroid-sparing agent in up to 85% of patients with chronic uveitis
+    - can be a safe alternative to methotrexate in patients with pediatric uveitis

@@ -1,0 +1,291 @@
+---
+title: "8.4.2. Infectious Diseases of the External Eye (II): DNA Viruses (I): Herpes Simplex"
+category: "External Diseases"
+subcategory: ""
+source_pdf: "MindmapPDF/External Diseases/8.4.2. Infectious Diseases of the External Eye (II) - DNA Viruses (I) - Herpes Simplex.pdf"
+---
+
+# 8.4.2. Infectious Diseases of the External Eye (II): DNA Viruses (I): Herpes Simplex
+
+## Hierarchy
+
+- pathogenesis
+  - DNA virus
+  - nearly 100% >60 years harbor HSV in their trigeminal ganglia
+    - 40%–80% of adults have serum antibodies to HSV-1
+  - types
+    - type 1 (HSV-1)
+      - orofacial and ocular infection
+        - generally helpful only when negative
+    - type 2 (HSV-2)
+      - genital infection
+  - Primary HSV-1 infection
+    - skin and mucosal surfaces innervated by CN V
+    - nonspecific upper respiratory tract infection
+    - latent infection in sensory nerve ganglia
+  - Recurrent HSV-1 infection
+    - reactivation of the latent virus in a sensory ganglion
+      - reinfection of ocular surface epithelia
+    - environmental triggers
+      - psychological stress
+      - systemic infection
+      - sunlight exposure
+      - menstrual cycle
+      - contact lens wear
+      - not confirmed by HEDS
+    - typically unilateral
+      - bilateral (3%)
+        - r/o immune dysfunction (e.g. atopic dermatitis)
+- HIV infection
+  - equal in severity to that occurring in immunocompetent persons
+- Primary ocular infection
+  - clinical presentation
+    - blepharoconjunctivitis
+      - follicular
+      - palpable preauricular lymph node
+      - Vesicles on the skin
+      - Vesicles on the eyelid margin
+    - epithelial keratitis
+    - stromal keratitis and uveitis are uncommon
+    - differentrial diagnosis with adenovirus
+      - cutaneous/eyelid margin vesicles (HSV)
+      - ulcers on the bulbar conjunctiva (HSV)
+      - dendritic epithelial keratitis (HSV)
+      - conjunctival membranes/pseudomembranes (adenovirus)
+      - both conditions can be either unilateral or bilateral
+        - HSV
+          - more commonly unilateral
+        - adenovirus
+          - more commonly bilateral
+  - laboratory evaluation
+    - indications
+      - diagnosis is uncertain
+      - suspected neonatal herpes
+    - Serologic tests
+      - rising antibody titer during primary infection
+      - no diagnostic assistance during recurrent episodes
+    - culture
+      - vesicular fluid
+    - cytology
+      - Scrapings from the vesicle base
+    - antigen detection
+    - PCR
+  - management
+    - self-limited
+    - Oral antiviral therapy
+      - speeds resolution
+      - See Table 4-5
+- Recurrent infection: Stromal keratitis
+  - most common cause of infectious corneal blindness in the United States
+  - each episode of stromal keratitis increases the risk of future episodes
+  - pathogenesis
+    - HSV-specific CD4 and CD8 T lymphocytes
+    - anti-HSV antibodies
+    - bystander effects of proinflammatory cytokines
+  - nonnecrotizing
+    - Herpetic interstitial keratitis
+      - unifocal/multifocal interstitial haze/whitening of the stroma
+      - no epithelial ulceration
+      - mild stromal edema
+      - corneal vascularization
+        - long-standing/multiply recurrent HSV interstitial keratitis
+        - VZV keratitis
+      - differential diagnosis
+        - Acanthamoeba keratitis
+        - syphilis
+        - EBV keratitis
+        - mumps keratitis
+        - Lyme disease
+        - sarcoidosis
+        - Cogan syndrome
+      - treatment
+        - visually significant herpetic interstitial keratitis
+          - 1% prednisolone drops every 2 hours
+            - taper every 1–2 weeks
+          - prophylactic antiviral drug
+            - topical trifluridine 4 times daily
+            - acyclovir 400 mg twice daily
+            - valacyclovir 500 mg once a day
+            - until using less than 1 drop of 1% prednisolone per day
+    - Herpetic disciform keratitis
+      - clinical findings
+        - corneal stromal and epithelial edema
+        - round or oval
+        - keratic precipitates
+        - oral acyclovir
+          - Iridocyclitis
+          - penetrates intact cornea
+            - stromal edema and keratic precipitates out of proportion to the anterior chamber reaction
+      - treatment
+        - topical antiviral medications
+          - not absorbed through intact epithelium
+  - necrotizing
+    - suppurative corneal inflammation
+      - indistinguishable from fulminant bacterial or fungal keratitis
+      - epithelial ulceration is common
+        - may occur somewhat eccentric to the infiltrate
+          - edges of the epithelial ulcer do not stain with rose bengal
+    - differential diagnosis
+      - microbial keratitis due to bacteria, fungi, or acanthamoebae
+      - retained foreign body
+      - anesthetic abuse
+      - diagnosis of exclusion
+    - treatment
+      - topical corticosteroids
+        - twice-a-day
+      - antiviral
+        - oral antiviral preferred
+  - management
+    - topical corticosteroids
+      - prophylactic antiviral
+        - topical antivirals are toxic and can confuse the clinical picture
+      - reduce persistence/progression of stromal inflammation
+        - shorten the duration of HSV stromal keratitis
+    - long-term prophylactic oral acyclovir
+      - reduces the rate of recurrent HSV keratitis
+        - 50%
+      - for patients with multiple recurrences of HSV stromal keratitis
+    - oral acyclovir
+      - used for active HSV stromal keratitis in patients receiving topical corticosteroids + trifluridine
+        - no additional benefit
+      - given briefly with trifluridine in an episode of epithelial keratitis
+        - did not prevent subsequent HSV stromal keratitis or iritis
+- identical to disciform keratitis due to VZV
+- primary endotheliitis
+- Recurrent infection: Blepharoconjunctivitis
+  - clinically indistinguishable from primary infection
+  - self-limited
+  - antiviral agents to shorten the course of illness
+- Recurrent infection: Iridocyclitis
+  - setting
+    - necrotizing stromal keratitis
+    - independent of corneal disease
+  - clinical findings
+    - granulomatous or nongranulomatous
+    - trabeculitis
+      - elevated intraocular pressure
+    - patchy iris transillumination
+  - HSV has been cultured from the anterior chamber
+  - treatment
+    - topical steroid
+    - +- oral acyclovir (400 mg, 5 times daily)
+      - statistical trend toward benefit
+- Recurrent infection: Epithelial keratitis
+  - symptoms
+    - foreign-body sensation
+    - light sensitivity
+    - redness
+    - blurred vision
+  - clinical findings
+    - punctate epithelial keratitis
+    - dendritic epithelial ulcers with terminal bulbs
+      - edge stains with rose bengal and lissamine green
+      - bed stains with fluorescein
+    - geographic epithelial ulcer
+    - ciliary flush and mild conjunctival injection
+    - mild stromal edema and subepithelial white blood cell infiltration
+      - scarring
+        - ghost dendrite
+    - reduction in corneal sensation
+      - not a reliable sign of herpetic disease
+  - most common cause of neurotrophic keratitis
+  - conditions that may produce dendritiform epithelial lesions
+    - VZV
+    - epithelial regeneration line
+    - Acanthamoeba epithelial keratitis
+    - neurotrophic keratopathy (postherpetic, diabetes mellitus)
+    - soft contact lens wear (thimerosal)
+    - topical medications (antivirals, β-blockers)
+      - cause neurotrophic keratitis
+    - epithelial deposits (iron lines, Fabry disease, tyrosinemia type II, systemic drugs)
+    - EBV (rare)
+    - adenovirus (uncommon)
+  - laboratory evaluation
+    - corneal scrapings
+      - multinucleated giant cells (nonspecific)
+      - intranuclear inclusions (more specific)
+    - tissue culture
+    - antigen detection techniques (ELISA)
+    - PCR
+  - management
+    - Most cases of HSV epithelial keratitis resolve spontaneously
+    - antiviral therapy
+      - shortens the clinical course
+      - may reduce
+        - associated herpetic neuropathy
+        - subepithelial scarring
+        - risk of immune-mediated diseases
+          - pyrimidine analogue
+    - epithelial debridement
+      - speeds resolution
+    - blocks DNA polymerase
+    - antiviral therapy
+      - x10-14 days
+      - topical trifluridine 1% solution
+        - 8x/day
+      - topical ganciclovir 0.15% gel
+        - 5x/day
+        - acyclovir 3% ophthalmic ointment
+        - less toxic than trifluridine
+      - valacyclovir
+        - prodrug of acyclovir
+        - oral
+        - thrombotic thrombocytopenic purpura/ hemolytic uremia syndrome in severely immunocompromised patients
+          - use with caution if immune status unknown
+      - oral acyclovir
+        - no ocular toxicity
+          - as effective as topical antivirals
+      - Topical corticosteroids
+        - contraindicated in the presence of active herpetic epithelial keratitis
+      - patients on systemic corticosteroids should be treated aggressively with systemic antiviral therapy
+- Complications
+  - Epitheliopathy
+    - diffuse punctate epithelial erosions
+      - prolonged topical antiviral treatment
+    - conjunctival injection
+  - Neurotrophic keratopathy
+    - Punctate epithelial erosions
+      - vortex pattern of punctate fluorescein staining
+    - chronic epithelial regeneration lines
+    - neurotrophic ulcers
+      - clinical findings
+        - round or oval
+        - central or inferior cornea
+        - rolled epithelial edge
+          - gray elevated appearance
+        - relative absence of rose bengal staining
+      - treatment
+        - nonpreserved lubricating drops, gels, and ointments
+        - punctal occlusion
+        - tarsorrhaphy
+          - if no response to conservative therapy
+            - similar to metaherpetic ulcer
+              - similar to epithelial ulceration of necrotizing herpetic stromal keratitis
+  - metaherpetic ulcer
+    - chronic epithelial defect over active/resolving interstitial stromal keratitis that does not stain with rose bengal
+  - persistent bullous keratopathy
+    - secondary to severe or long-standing disciform keratitis
+  - permanent corneal scarring
+    - irregular astigmatism
+      - gas-permeable contact lens
+    - may improve with time
+  - secondary lipid keratopathy
+    - topical corticosteroids
+- Surgical treatment
+  - Penetrating keratoplasty (PK)
+    - visually significant stromal scarring and astigmatism not correctable by spectacle or contact lens
+    - Oral antiviral therapy
+      - may improve graft survival
+      - preferable to topical antivirals
+        - allows more liberal use of topical corticosteroids
+    - 80% success in eyes without signs of active inflammation ≥ 6 months
+    - tectonic PK
+      - for impending or frank corneal perforation
+      - complications
+        - stromal inflammation/ulceration
+        - graft failure
+        - in inflamed herpetic eyes delay PK until inflammation is controlled
+  - conjunctival flaps
+  - amniotic membrane transplantation
+  - keratoprostheses
+  - anterior lamellar keratoplasty

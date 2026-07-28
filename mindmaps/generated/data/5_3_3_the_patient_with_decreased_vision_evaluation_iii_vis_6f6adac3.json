@@ -1,0 +1,409 @@
+{
+  "label": "5.3.3. The Patient With Decreased Vision: Evaluation (III): Visual Field Evaluation (II): Perimetry",
+  "root": true,
+  "children": [
+    {
+      "label": "General",
+      "children": [
+        {
+          "label": "more detailed evaluation of the visual field"
+        },
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "static testing",
+              "children": [
+                {
+                  "label": "stimuli turn on and off at designated points"
+                }
+              ]
+            },
+            {
+              "label": "kinetic testing",
+              "children": [
+                {
+                  "label": "stimulus moves from a nonseeing to a seeing area",
+                  "children": [
+                    {
+                      "label": "all points of equal sensitivity for a specific stimulus are connected to form an isopter",
+                      "children": [
+                        {
+                          "label": "represents the outer limit of visibility for that stimulus"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "analysis of several isopters (plotted with different stimuli) produces a “contour map”"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "visual field is analyzed for areas of decreased sensitivity, in location and degree"
+        }
+      ]
+    },
+    {
+      "label": "Tangent screen",
+      "children": [
+        {
+          "label": "patient seated 1 m from a black screen"
+        },
+        {
+          "label": "patient fixates on a central white target"
+        },
+        {
+          "label": "patient identifies targets moving in from the peripheral, nonseeing field along each radial meridian"
+        },
+        {
+          "label": "used to map 1 or 2 isopters kinetically"
+        },
+        {
+          "label": "targets",
+          "children": [
+            {
+              "label": "black wand with various-sized targets attached to the tip"
+            },
+            {
+              "label": "focal light source such as a handheld laser pointer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated static perimetry",
+      "children": [
+        {
+          "label": "advantages",
+          "children": [
+            {
+              "label": "less technician dependence",
+              "children": [
+                {
+                  "label": "standardized testing conditions, which improve serial and inter-institutional comparisons of results"
+                }
+              ]
+            },
+            {
+              "label": "improved sensitivity"
+            },
+            {
+              "label": "numerical data amenable to statistical analysis for comparisons and clinical studies"
+            },
+            {
+              "label": "results amenable to electronic data storage"
+            }
+          ]
+        },
+        {
+          "label": "technique",
+          "children": [
+            {
+              "label": "uses static stimuli",
+              "children": [
+                {
+                  "label": "similar in size to the standard Goldmann size III stimulus"
+                }
+              ]
+            },
+            {
+              "label": "randomly presents stimuli at predetermined locations within a specified region of the visual field"
+            },
+            {
+              "label": "sensitivity threshold",
+              "children": [
+                {
+                  "label": "stimuli vary in brightness"
+                },
+                {
+                  "label": "patient responses determine the minimum visible stimulus at each location",
+                  "children": [
+                    {
+                      "label": "the dimmest target identified 50% of the time at a given location"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "testing the central 24° or 30° is typically adequate for detecting most visual defects",
+          "children": [
+            {
+              "label": "80% of the visual cortex correlates to the central visual field"
+            }
+          ]
+        },
+        {
+          "label": "printout",
+          "children": [
+            {
+              "label": "threshold sensitivity plot",
+              "children": [
+                {
+                  "label": "for each region tested, the printout displays the threshold value in decibels",
+                  "children": [
+                    {
+                      "label": "measured values are not absolute numbers"
+                    },
+                    {
+                      "label": "a higher value at a certain point indicates that the patient is able to see a dimmer stimulus",
+                      "children": [
+                        {
+                          "label": "do not have equivalence among perimeters"
+                        },
+                        {
+                          "label": "greater visual sensitivity at that point"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "deviation from age-adjusted normal values",
+                  "children": [
+                    {
+                      "label": "probability plot for total deviation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "total-deviation plot",
+              "children": [
+                {
+                  "label": "optic neuropathy",
+                  "children": [
+                    {
+                      "label": "causes substantial total deviation depression"
+                    },
+                    {
+                      "label": "few or no pattern deviation abnormalities"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pattern-deviation plot",
+              "children": [
+                {
+                  "label": "total deviation adjusted for the general depression of the ovarall field (refractive error, cataract)",
+                  "children": [
+                    {
+                      "label": "determines the sensitivity values for all points shifted",
+                      "children": [
+                        {
+                          "label": "compensates for the overall sensitivity depression"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "total-deviation probability plot",
+              "children": [
+                {
+                  "label": "the statistical probability that the value falls outside the normal range as compared with age-matched control subjects",
+                  "children": [
+                    {
+                      "label": "allows recognition of abnormal patterns"
+                    }
+                  ]
+                },
+                {
+                  "label": "dark squares represent higher probability and lighter squares represent lower probability"
+                }
+              ]
+            },
+            {
+              "label": "pattern-deviation probability plot"
+            },
+            {
+              "label": "grayscale map",
+              "children": [
+                {
+                  "label": "symbolic representation of the threshold values"
+                },
+                {
+                  "label": "overall topographic impression of the visual field data"
+                },
+                {
+                  "label": "dark symbols for low-sensitivity points"
+                },
+                {
+                  "label": "lighter symbols for high-sensitivity points."
+                },
+                {
+                  "label": "computer program interpolates between tested points to provide a user-friendly picture"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "reliability of perimetry test results",
+          "children": [
+            {
+              "label": "false-positive response rate",
+              "children": [
+                {
+                  "label": "the patient signals when no light is displayed"
+                },
+                {
+                  "label": "<25% on threshold testing"
+                },
+                {
+                  "label": "<15% on SITA testing"
+                }
+              ]
+            },
+            {
+              "label": "false-negative response rate",
+              "children": [
+                {
+                  "label": "the patient fails to signal when a target brighter than the previously determined threshold for that spot is displayed"
+                },
+                {
+                  "label": "<25%"
+                },
+                {
+                  "label": "incidence increases in regions of true visual field loss"
+                }
+              ]
+            },
+            {
+              "label": "fixation losses",
+              "children": [
+                {
+                  "label": "the eye is not aligned with the fixation target"
+                }
+              ]
+            },
+            {
+              "label": "short-term fluctuation measurement",
+              "children": [
+                {
+                  "label": "consistency of patient responses at specific points at which repeat testing is performed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "global indices",
+          "children": [
+            {
+              "label": "mean deviation (MD)",
+              "children": [
+                {
+                  "label": "center-weighted mean of all point sensitivity depressions from normal",
+                  "children": [
+                    {
+                      "label": "based on total deviation plot"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pattern standard deviation (PSD)"
+            }
+          ]
+        },
+        {
+          "label": "shorter version (FASTPAC)",
+          "children": [
+            {
+              "label": "reduces testing time of full-threshold test but at a cost of accuracy"
+            }
+          ]
+        },
+        {
+          "label": "Swedish interactive threshold algorithm (SITA)",
+          "children": [
+            {
+              "label": "shortens the time needed to complete the full- threshold test by half but maintains the accuracy and reliability"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Goldmann perimetry",
+      "children": [
+        {
+          "label": "uses kinetic and static techniques"
+        },
+        {
+          "label": "evaluates the entire visual field"
+        },
+        {
+          "label": "kinetic testing",
+          "children": [
+            {
+              "label": "stimuli of varying sizes and intensities",
+              "children": [
+                {
+                  "label": "presented along each radial meridian from a peripheral to central location"
+                },
+                {
+                  "label": "2 or 3 isopters are plotted",
+                  "children": [
+                    {
+                      "label": "relative defects undetected using larger or brighter stimuli may become apparent using smaller or dimmer ones"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "static testing",
+          "children": [
+            {
+              "label": "examiner performs static testing within each isopter to identify scotomata"
+            },
+            {
+              "label": "varying the stimulus size, intensity, and location can delineate the depths and borders of scotomata"
+            }
+          ]
+        },
+        {
+          "label": "requires a skilled and knowledgeable perimetrist"
+        }
+      ]
+    },
+    {
+      "label": "the patient identifies the stimulus in the previously plotted physiologic blind spot location"
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.3.3. The Patient With Decreased Vision Evaluation (III) Visual Field Evaluation (II) Perimetry.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 173,
+      "connector_rejected": 3,
+      "connector_edges": 115,
+      "connector_width": 0.78,
+      "text_labels": 100,
+      "tree_nodes": 100,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6647,
+      "root_font_size": 2.728,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "label": "Recurrent Corneal Erosion",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "40-year-old woman complains of recurrent episodes of eye pain, foreign body sensation, and tearing upon opening her eyes in the morning"
+        },
+        {
+          "label": "Image Description"
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "recurrent corneal erosion secondary to epithelial basement membrane dystrophy"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "acute",
+              "children": [
+                {
+                  "label": "artificial tear drops",
+                  "children": [
+                    {
+                      "label": "artificial tear ointment at bedtime"
+                    }
+                  ]
+                },
+                {
+                  "label": "for larger defects",
+                  "children": [
+                    {
+                      "label": "antibiotic ointment"
+                    },
+                    {
+                      "label": "cycloplegic eyedrop"
+                    },
+                    {
+                      "label": "pressure patch"
+                    },
+                    {
+                      "label": "bandage contact lens",
+                      "children": [
+                        {
+                          "label": "until epithelium heals"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "chronic",
+              "children": [
+                {
+                  "label": "sodium-chloride drops",
+                  "children": [
+                    {
+                      "label": "sodium-chloride ointment at bedtime"
+                    }
+                  ]
+                },
+                {
+                  "label": "low-dose oral doxycycline"
+                },
+                {
+                  "label": "short-term topical steroid"
+                },
+                {
+                  "label": "treat x 3-6 months"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Surgical",
+          "children": [
+            {
+              "label": "traumatic cases outside visual axis",
+              "children": [
+                {
+                  "label": "anterior stromal puncture",
+                  "children": [
+                    {
+                      "label": "bent 30-g needle"
+                    },
+                    {
+                      "label": "Nd:YAG laser"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "large abnormal areas in visual axis",
+              "children": [
+                {
+                  "label": "epithelial debridement",
+                  "children": [
+                    {
+                      "label": "cellulose sponge or diamond burr"
+                    }
+                  ]
+                },
+                {
+                  "label": "PTK",
+                  "children": [
+                    {
+                      "label": "hyperopic shift"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "anterior corneal dystrophy",
+          "children": [
+            {
+              "label": "epithelial basement membrane dystrophy (MDF corneal dystrophy)",
+              "children": [
+                {
+                  "label": "anterior segment photography using sclerotic scatter demonstrates characteristic geographic maps"
+                }
+              ]
+            },
+            {
+              "label": "others",
+              "children": [
+                {
+                  "label": "Meesman",
+                  "children": [
+                    {
+                      "label": "subepithelial dystrophy"
+                    }
+                  ]
+                },
+                {
+                  "label": "Reis-Bucklers",
+                  "children": [
+                    {
+                      "label": "Bowman membrane dystrophyies"
+                    }
+                  ]
+                },
+                {
+                  "label": "Thiel-Behnke"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "stromal corneal dystrophy",
+          "children": [
+            {
+              "label": "lattice"
+            },
+            {
+              "label": "granular"
+            },
+            {
+              "label": "macular"
+            }
+          ]
+        },
+        {
+          "label": "trauma/surgery",
+          "children": [
+            {
+              "label": "may have happened years before"
+            }
+          ]
+        },
+        {
+          "label": "diabetes"
+        },
+        {
+          "label": "corneal degeneration",
+          "children": [
+            {
+              "label": "band keratopathy"
+            },
+            {
+              "label": "Salzmann nodular degeneration"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "General",
+          "children": [
+            {
+              "label": "explain pathophysiology"
+            }
+          ]
+        },
+        {
+          "label": "Prognosis",
+          "children": [
+            {
+              "label": "good"
+            }
+          ]
+        },
+        {
+          "label": "Course",
+          "children": [
+            {
+              "label": "complete healing may take a few months"
+            },
+            {
+              "label": "may recur"
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "q 1-2 days until epithelium heals",
+              "children": [
+                {
+                  "label": "use ointment for 3-6 mo after healing"
+                }
+              ]
+            },
+            {
+              "label": "then 1-3 months"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquistion",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "medical history",
+              "children": [
+                {
+                  "label": "diabetes"
+                }
+              ]
+            },
+            {
+              "label": "ocular history",
+              "children": [
+                {
+                  "label": "previous similar episodes"
+                },
+                {
+                  "label": "eye trauma/surgery or corneal abrasion"
+                }
+              ]
+            },
+            {
+              "label": "family history",
+              "children": [
+                {
+                  "label": "family history of corneal dystrophy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "slit lamp examination",
+              "children": [
+                {
+                  "label": "signs of corneal dystrophy",
+                  "children": [
+                    {
+                      "label": "examine both eyes"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal fluorescein staining",
+                  "children": [
+                    {
+                      "label": "abrasion",
+                      "children": [
+                        {
+                          "label": "negative or positive abrasion"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "heaped up epithelium"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Additional Testing"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case_example_Anterior segment/Recurrent Corneal Erosion.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 136,
+      "connector_rejected": 4,
+      "connector_edges": 92,
+      "connector_width": 0.96,
+      "text_labels": 83,
+      "tree_nodes": 83,
+      "component_roots": 6,
+      "spatially_recovered_labels": 4,
+      "connector_match_ratio": 0.6765,
+      "root_font_size": 6.721,
+      "warnings": []
+    }
+  }
+}

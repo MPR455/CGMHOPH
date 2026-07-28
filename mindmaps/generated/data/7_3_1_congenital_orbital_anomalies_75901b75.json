@@ -1,0 +1,488 @@
+{
+  "label": "7.3.1. Congenital Orbital Anomalies",
+  "root": true,
+  "children": [
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "most significant congenital anomalies of the eye and orbit are apparent on ultrasonography before birth"
+        },
+        {
+          "label": "the more profound the abnormality, the earlier in development it occurred"
+        },
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "slowing/cessation of a normal stage of development",
+              "children": [
+                {
+                  "label": "pure arrest"
+                },
+                {
+                  "label": "e.g. microphthalmia"
+                }
+              ]
+            },
+            {
+              "label": "superimposed aberrant growth following the original arrest",
+              "children": [
+                {
+                  "label": "resulting deformity does not represent any previous normal stage of development"
+                },
+                {
+                  "label": "e.g. orbital cyst following incomplete closure of the fetal fissure"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Anophthalmia",
+      "children": [
+        {
+          "label": "total absence of tissues of the eye"
+        },
+        {
+          "label": "primary anophthalmia",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "usually bilateral"
+            },
+            {
+              "label": "primary optic vesicle fails to grow out from the cerebral vesicle"
+            }
+          ]
+        },
+        {
+          "label": "secondary anophthalmia",
+          "children": [
+            {
+              "label": "rare"
+            },
+            {
+              "label": "lethal"
+            },
+            {
+              "label": "gross abnormality in the anterior neural tube"
+            }
+          ]
+        },
+        {
+          "label": "consecutive anophthalmia",
+          "children": [
+            {
+              "label": "secondary degeneration of the optic vesicle"
+            }
+          ]
+        },
+        {
+          "label": "orbital development is partially dependent on the size and growth of the globe",
+          "children": [
+            {
+              "label": "orbital bones, eyelids, and adnexal structures also fail to develop"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Microphthalmia",
+      "children": [
+        {
+          "label": "much more common than anophthalmia",
+          "children": [
+            {
+              "label": "most infants with a unilateral small orbit and no visible eye actually have a microphthalmic globe"
+            }
+          ]
+        },
+        {
+          "label": "small eye with axial length ≥2 standard deviations below the mean axial length for age",
+          "children": [
+            {
+              "label": "vary in size depending on the severity"
+            }
+          ]
+        },
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "isolated"
+            },
+            {
+              "label": "part of a well-defined syndrome",
+              "children": [
+                {
+                  "label": "multiple genetic mutations have been reported",
+                  "children": [
+                    {
+                      "label": "developmental phenotype !"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Craniofacial Clefting and Syndromic Congenital Craniofacial Anomalies",
+      "children": [
+        {
+          "label": "developmental arrest or mechanical disruption of development",
+          "children": [
+            {
+              "label": "failure of neural crest cell migration"
+            },
+            {
+              "label": "failure of fusion or movement of facial processes"
+            }
+          ]
+        },
+        {
+          "label": "skeletal facial clefts are distributed around the orbit and maxilla"
+        },
+        {
+          "label": "soft tissue clefts are most apparent around the eyelids and lips"
+        },
+        {
+          "label": "clefting syndromes affecting orbit and eyelids",
+          "children": [
+            {
+              "label": "oculoauriculovertebral spectrum",
+              "children": [
+                {
+                  "label": "hemifacial microsomia"
+                },
+                {
+                  "label": "oculoauriculovertebral dysplasia (Goldenhar syndrome)"
+                },
+                {
+                  "label": "mandibulofacial dysostosis (Treacher Collins– Franceschetti syndrome"
+                },
+                {
+                  "label": "some forms of midline clefts with hypertelorism"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "craniosynostosis",
+          "children": [
+            {
+              "label": "premature closure of 1 or more sutures in the bones of the skull"
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "isolated"
+                },
+                {
+                  "label": "syndromic",
+                  "children": [
+                    {
+                      "label": "genetically heterogeneous disorder",
+                      "children": [
+                        {
+                          "label": "fibroblast growth factor receptor 2 (FGFR2) genes",
+                          "children": [
+                            {
+                              "label": "autosomal dominant"
+                            },
+                            {
+                              "label": "chromosome 10"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "frequently associated with",
+                      "children": [
+                        {
+                          "label": "hypertelorism"
+                        },
+                        {
+                          "label": "proptosis"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Crouzon syndrome (craniofacial dysostosis)",
+                      "children": [
+                        {
+                          "label": "most common AD craniosynostosis syndrome"
+                        },
+                        {
+                          "label": "no syndactyly/polydactyly"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Apert syndrome (acrocephalosyndactyly)",
+                      "children": [
+                        {
+                          "label": "syndactyly > polydactyly"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Pfeiffer syndrome"
+                    },
+                    {
+                      "label": "Saethre-Chotzen syndrome",
+                      "children": [
+                        {
+                          "label": "TWIST gene",
+                          "children": [
+                            {
+                              "label": "milder manifestations"
+                            },
+                            {
+                              "label": "chromosome 7"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "complications",
+              "children": [
+                {
+                  "label": "various skeletal deformities",
+                  "children": [
+                    {
+                      "label": "including orbital defects"
+                    }
+                  ]
+                },
+                {
+                  "label": "ophthalmic problems",
+                  "children": [
+                    {
+                      "label": "strabismus"
+                    },
+                    {
+                      "label": "astigmatism"
+                    },
+                    {
+                      "label": "ptosis"
+                    },
+                    {
+                      "label": "exophthalmos"
+                    },
+                    {
+                      "label": "nasolacrimal duct obstruction"
+                    },
+                    {
+                      "label": "amblyopia"
+                    }
+                  ]
+                },
+                {
+                  "label": "secondary intracranial hypertension"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "intracranial contents can herniate through congenital clefts of skull or orbit",
+          "children": [
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "meningocele"
+                },
+                {
+                  "label": "encephalocele"
+                },
+                {
+                  "label": "meningoencephalocele"
+                }
+              ]
+            },
+            {
+              "label": "most commonly present anteriorly with subcutaneous protrusion near the medial canthus or over the bridge of the nose",
+              "children": [
+                {
+                  "label": "straining or crying may increase the size of the mass"
+                },
+                {
+                  "label": "globe may be displaced temporally and downward (inferolaterally)"
+                }
+              ]
+            },
+            {
+              "label": "less commonly move into the posterior orbit",
+              "children": [
+                {
+                  "label": "anterior displacement and pulsation of the globe"
+                }
+              ]
+            },
+            {
+              "label": "meningoceles/encephaloceles adjacent to the orbit are frequently associated with anomalies of the optic disc",
+              "children": [
+                {
+                  "label": "morning glory disc"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "collaboration with a neurosurgeon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "bony and soft tissue reconstruction"
+            },
+            {
+              "label": "operations are staged and require a team approach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment of Anophthalmia/Microphthalmia",
+      "children": [
+        {
+          "label": "most microphthalmic eyes have no potential for vision"
+        },
+        {
+          "label": "all children with microphthalmia have hypoplastic orbits"
+        },
+        {
+          "label": "treatment focuses on achieving a cosmetically acceptable appearance that is reasonably symmetrical"
+        },
+        {
+          "label": "treatment begins shortly after birth"
+        },
+        {
+          "label": "techniques",
+          "children": [
+            {
+              "label": "socket expansion with progressively larger conformers",
+              "children": [
+                {
+                  "label": "until the patient can be fitted with a prosthesis"
+                },
+                {
+                  "label": "enucleation is usually not necessary for the fitting of a conformer or an ocular prosthesis",
+                  "children": [
+                    {
+                      "label": "enucleation should be avoided because it may worsen the bony hypoplasia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "orbital volume augmentation with autogenous materials",
+              "children": [
+                {
+                  "label": "dermis-fat grafts",
+                  "children": [
+                    {
+                      "label": "may grow with the child, resulting in progressive socket expansion"
+                    }
+                  ]
+                },
+                {
+                  "label": "synthetic implants"
+                }
+              ]
+            },
+            {
+              "label": "intraorbital tissue expanders",
+              "children": [
+                {
+                  "label": "progressively inflated to enlarge the hypoplastic orbit"
+                }
+              ]
+            },
+            {
+              "label": "craniofacial techniques",
+              "children": [
+                {
+                  "label": "severe bony asymmetry"
+                },
+                {
+                  "label": "severe microphthalmia or anophthalmia"
+                },
+                {
+                  "label": "older children with previously untreated microphthalmia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "microphthalmia with orbital cyst",
+          "children": [
+            {
+              "label": "failure of the choroidal fissure to close in the embryo"
+            },
+            {
+              "label": "usually unilateral",
+              "children": [
+                {
+                  "label": "may be bilateral"
+                }
+              ]
+            },
+            {
+              "label": "orbital cyst may stimulate normal growth of involved orbital bone and eyelids"
+            },
+            {
+              "label": "in some cases, orbital cyst may be removed for fitting of an ocular prosthesis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Orbit and eyelids/7.3.1. Congenital Orbital Anomalies.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 118,
+      "connector_rejected": 2,
+      "connector_edges": 116,
+      "connector_width": 0.881,
+      "text_labels": 123,
+      "tree_nodes": 123,
+      "component_roots": 5,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.9831,
+      "root_font_size": 3.746,
+      "warnings": []
+    }
+  }
+}

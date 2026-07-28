@@ -1,0 +1,112 @@
+---
+title: "8.13.1. Toxic & Traumatic Injuries (I): Thermal Burns"
+category: "External Diseases"
+subcategory: ""
+source_pdf: "MindmapPDF/External Diseases/8.13.1. Toxic & Traumatic Injuries (I) - Thermal Burns.pdf"
+---
+
+# 8.13.1. Toxic & Traumatic Injuries (I): Thermal Burns
+
+## Hierarchy
+
+- Heat
+  - defense mechanisms
+    - rapid-reflex eyelid closure
+    - Bell phenomenon
+    - reflex movement away from the source of intense heat
+  - hair-curling irons
+    - epithelium burn
+  - molten metal that stays in contact with the eye
+    - more likely to cause corneal injuries with permanent scarring
+  - pathogenesis
+    - inflammation
+    - stromal protease expression
+      - collagen melt
+  - objectives of treatment
+    - relieve discomfort
+    - prevent secondary corneal inflammation, ulceration, and perforation from infection or from exposure (eyelid damage)
+    - minimize eyelid scarring and resultant malfunction
+  - treatment
+    - cycloplegic agent
+    - prophylactic antibiotics (topical and/or systemic)
+    - limited debridement of devitalized tissues
+      - full-thickness skin grafts
+      - tarsorrhaphy
+      - minimize eyelid scarring and ectropion
+    - lubricant
+      - sterile plastic wrap
+    - topical corticosteroids
+      - inhibit corneal wound healing
+      - for short periods
+- Ionizing Radiation
+  - causes
+    - nuclear explosions
+    - x-rays
+    - radioisotopes
+  - mechanism of damage
+    - direct killing of cells
+    - cellular DNA changes that produce lethal or other mutations
+    - radiation damage to blood vessels
+      - secondary ischemic necrosis
+  - level of tissue damage
+    - longer wavelengths
+      - penetrate less deeply
+        - superficial damage
+    - shorter wavelengths
+      - penetrate to deeper tissues
+  - clinical presentation
+    - acute
+      - conjunctiva
+        - edema
+        - scarring & shrinkage
+        - loss of tear production
+        - alterations in blood vessels with telangiectasia
+        - necrosis of the conjunctiva and underlying sclera
+          - if radioactive material embedded in the conjunctiva
+      - punctate corneal epithelial erosions
+        - acutely
+      - perforation of ocular tissues
+        - explosions involving ionizing radiation
+      - poor wound healing
+    - late
+      - lack of tears
+      - loss of corneal sensation
+      - loss of corneal epithelium and its failure to heal
+      - secondary microbial keratitis
+      - vascularization
+  - treatment
+    - artificial tears
+    - bandage soft contact lens
+    - tissue adhesive
+    - tarsorrhaphy
+    - contralateral autologous conjunctival flap
+    - mucous membrane graft
+    - amniotic membrane transplant
+    - limbal stem cell transplant
+    - penetrating keratoplasty
+      - poor prognosis
+    - scarring precludes the use of a conjunctival flap
+- Freezing
+  - transient corneal stromal edema
+  - predisposing conditions
+    - raynaud disease
+    - cranial nerve V (trigeminal) dysfunction
+      - sensory denervation
+        - influences ocular temperature regulation
+        - alters morphology and function of corneal cells, including endothelium
+- Ultraviolet Radiation
+  - corneal epithelium is highly susceptible to UV radiation
+  - painful foreign-body sensation and photophobia
+    - self-limited
+      - begin a few hours after exposure
+      - <24 hours
+  - etiology
+    - unprotected exposure to sunlamps
+    - arc welding
+    - prolonged outdoor exposure to reflected sunlight
+      - snow blindness
+  - treatment
+    - patching
+    - topical antibiotic ointment
+    - cycloplegia
+    - oral analgesics

@@ -1,0 +1,577 @@
+{
+  "label": "5.7.2. Supranuclear Disorders of Ocular Motility (II): Anatomy & Clinical Testing of the Functional Classes of Eye Movements",
+  "root": true,
+  "children": [
+    {
+      "label": "Ocular Stability",
+      "children": [
+        {
+          "label": "observing patient’s ability to fixate on a target when the head and body are held stationary"
+        },
+        {
+          "label": "spontaneous nystagmus",
+          "children": [
+            {
+              "label": "imbalance of vestibular input to the ocular motor nuclei"
+            },
+            {
+              "label": "can be suppressed by visual fixation!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Saccadic System",
+      "children": [
+        {
+          "label": "anatomy",
+          "children": [
+            {
+              "label": "cerebral cortex",
+              "children": [
+                {
+                  "label": "premotor zones"
+                },
+                {
+                  "label": "frontal eye field (FEF)",
+                  "children": [
+                    {
+                      "label": "produces conjugate, contralateral saccades"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "descending pathways from the FEF",
+              "children": [
+                {
+                  "label": "innervate the contralateral paramedian pontine reticular formation (PPRF)"
+                },
+                {
+                  "label": "communicate with several intermediate structures",
+                  "children": [
+                    {
+                      "label": "basal ganglia"
+                    },
+                    {
+                      "label": "superior colliculi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ocular motoneurons (cranial nerves III, IV, VI)",
+              "children": [
+                {
+                  "label": "speed encoded by the impulse frequency",
+                  "children": [
+                    {
+                      "label": "pulse"
+                    }
+                  ]
+                },
+                {
+                  "label": "amplitude encoded by the impulse duration",
+                  "children": [
+                    {
+                      "label": "step"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "horizontal eye movements",
+              "children": [
+                {
+                  "label": "pulse",
+                  "children": [
+                    {
+                      "label": "FEF"
+                    }
+                  ]
+                },
+                {
+                  "label": "step",
+                  "children": [
+                    {
+                      "label": "medial vestibular nucleus"
+                    },
+                    {
+                      "label": "accessory nucleus of CN XII"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "vertical and torsional eye movements",
+              "children": [
+                {
+                  "label": "pulse",
+                  "children": [
+                    {
+                      "label": "rostral interstitial nucleus of the medial longitudinal fasciculus (riMLF)",
+                      "children": [
+                        {
+                          "label": "midbrain"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "step",
+                  "children": [
+                    {
+                      "label": "interstitial nucleus of Cajal (INC)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "saccades and gaze holding are also strongly influenced by the cerebellum"
+            }
+          ]
+        },
+        {
+          "label": "clinical examination",
+          "children": [
+            {
+              "label": "have the patient rapidly shift gaze between 2 targets",
+              "children": [
+                {
+                  "label": "extended index fingers of the clinician’s outstretched hands"
+                }
+              ]
+            },
+            {
+              "label": "latency"
+            },
+            {
+              "label": "accuracy",
+              "children": [
+                {
+                  "label": "hypometric saccade",
+                  "children": [
+                    {
+                      "label": "falls short"
+                    },
+                    {
+                      "label": "1–2 small catch-up saccades may be within normal limits"
+                    }
+                  ]
+                },
+                {
+                  "label": "hypermetric saccade",
+                  "children": [
+                    {
+                      "label": "overshoots the target and is usually pathologic"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "velocity"
+            },
+            {
+              "label": "conjugacy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vestibular Ocular Reflex (VOR)",
+      "children": [
+        {
+          "label": "anatomy",
+          "children": [
+            {
+              "label": "sensory organs",
+              "children": [
+                {
+                  "label": "semicircular canals",
+                  "children": [
+                    {
+                      "label": "angular movements"
+                    },
+                    {
+                      "label": "each canal innervates 1 pair of yoked extraocular muscles"
+                    }
+                  ]
+                },
+                {
+                  "label": "otoliths of the utricle and saccule",
+                  "children": [
+                    {
+                      "label": "linear acceleration"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "VOR pathway",
+              "children": [
+                {
+                  "label": "vestibular nerves",
+                  "children": [
+                    {
+                      "label": "vestibular nuclei",
+                      "children": [
+                        {
+                          "label": "ocular motoneurons"
+                        },
+                        {
+                          "label": "strongly interconnected with the cerebellum"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "VOR dysfunction",
+          "children": [
+            {
+              "label": "spontaneous nystagmus",
+              "children": [
+                {
+                  "label": "hallmark of an uncompensated vestibular imbalance"
+                },
+                {
+                  "label": "clinical examination",
+                  "children": [
+                    {
+                      "label": "direct ophthalmoscopy",
+                      "children": [
+                        {
+                          "label": "repetitive shifts in the position of the optic nerve head",
+                          "children": [
+                            {
+                              "label": "drift of the optic disc to the patient’s right (drifting of the eyes to the left)",
+                              "children": [
+                                {
+                                  "label": "deficient left-sided vestibular input"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "label": "first, with the fellow eye fixating on a target"
+                        },
+                        {
+                          "label": "next, with the fellow eye not fixating",
+                          "children": [
+                            {
+                              "label": "covering the eye",
+                              "children": [
+                                {
+                                  "label": "an increase in nystagmus suggests the presence of an uncompensated imbalance of the peripheral vestibular system"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "horizontal head shaking x 10–15 seconds",
+                      "children": [
+                        {
+                          "label": "transient nystagmus after the head is held stable indicates asymmetry of the vestibular inputs",
+                          "children": [
+                            {
+                              "label": "peripheral or central vestibular lesions"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "prevent the patient from visually fixating during the test",
+                          "children": [
+                            {
+                              "label": "having the patient close his or her eyes in a dark environment"
+                            },
+                            {
+                              "label": "high-plus lenses (+20 D) on a trial frame"
+                            },
+                            {
+                              "label": "placing Frenzel goggles in front of both eyes"
+                            },
+                            {
+                              "label": "eye movements should be examined in still- darkened room with a light held to the side of 1 eye"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "imbalance in VOR gain",
+              "children": [
+                {
+                  "label": "VOR gain: ratio of the amplitude of eye rotation to the amplitude of head rotation",
+                  "children": [
+                    {
+                      "label": "normally, if the head is accelerated 10°, the eyes will move exactly 10° in the opposite direction"
+                    }
+                  ]
+                },
+                {
+                  "label": "clinical examination",
+                  "children": [
+                    {
+                      "label": "head thrust maneuver",
+                      "children": [
+                        {
+                          "label": "briskly turn the patient’s head (small amplitude) while the patient visually fixates on a target"
+                        },
+                        {
+                          "label": "imbalance in the VOR gain results in the eyes being off target at the end of the head thrust",
+                          "children": [
+                            {
+                              "label": "a refixation saccade is required to recapture the target"
+                            },
+                            {
+                              "label": "defective response when the head is rotated toward side of the lesion"
+                            },
+                            {
+                              "label": "small horizontal or vertical head rotations at approximately 2 Hz while the patient reads the Snellen chart",
+                              "children": [
+                                {
+                                  "label": "decrease in visual acuity by several lines (≥ 4) indicates bilateral vestibular loss/hypofunction"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "ophthalmoscopy",
+                      "children": [
+                        {
+                          "label": "more sensitive"
+                        },
+                        {
+                          "label": "more difficult"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "dynamic visual acuity",
+                      "children": [
+                        {
+                          "label": "measuring visual acuity during head rotations"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Optokinetic Nystagmus (OKN)",
+      "children": [
+        {
+          "label": "OKN system cannot be isolated for testing in the clinical setting",
+          "children": [
+            {
+              "label": "requires that the moving stimulus fill the complete visual environment"
+            },
+            {
+              "label": "rotating drum of black and white stripes",
+              "children": [
+                {
+                  "label": "tests only the pursuit and saccade systems!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vergence",
+      "children": [
+        {
+          "label": "anatomy",
+          "children": [
+            {
+              "label": "cerebral cortex",
+              "children": [
+                {
+                  "label": "binocularly driven cortical cells"
+                }
+              ]
+            },
+            {
+              "label": "brainstem neurons located in the mesencephalic reticular formation",
+              "children": [
+                {
+                  "label": "dorsal to the third nerve nuclei"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical examination",
+          "children": [
+            {
+              "label": "accommodative target that has enough visual detail",
+              "children": [
+                {
+                  "label": "beware of poor patient effort!",
+                  "children": [
+                    {
+                      "label": "penlight or finger is not adequate!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pursuit System",
+      "children": [
+        {
+          "label": "anatomy",
+          "children": [
+            {
+              "label": "cerebral cortex",
+              "children": [
+                {
+                  "label": "FEF"
+                },
+                {
+                  "label": "middle temporal (MT) area"
+                },
+                {
+                  "label": "medial superior temporal (MST) area"
+                },
+                {
+                  "label": "posterior parietal cortex"
+                }
+              ]
+            },
+            {
+              "label": "an area at the confluence of the parietal, temporal, and occipital lobes",
+              "children": [
+                {
+                  "label": "descending pathways",
+                  "children": [
+                    {
+                      "label": "pass through the posterior limb of the internal capsule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "brainstem",
+              "children": [
+                {
+                  "label": "uses some of the same architecture described for saccades",
+                  "children": [
+                    {
+                      "label": "medial longitudinal fasciculus [MLF]"
+                    },
+                    {
+                      "label": "cranial nerve nuclei"
+                    }
+                  ]
+                },
+                {
+                  "label": "several other pontine nuclei",
+                  "children": [
+                    {
+                      "label": "project to the cerebellum",
+                      "children": [
+                        {
+                          "label": "paraflocculus plays a role in sustaining pursuit movements"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical examination",
+          "children": [
+            {
+              "label": "have the patient follow a predictably moving target horizontally and then vertically",
+              "children": [
+                {
+                  "label": "while the head and body are held in position"
+                },
+                {
+                  "label": "target should move relatively slowly—not >30° per second"
+                },
+                {
+                  "label": "the eyes should accurately follow the slowly moving stimulus",
+                  "children": [
+                    {
+                      "label": "low gain",
+                      "children": [
+                        {
+                          "label": "eyes lag behind the stimulus",
+                          "children": [
+                            {
+                              "label": "generates a saccade that allows the eyes to catch up"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.7.2. Supranuclear Disorders of Ocular Motility (II) Anatomy & Clinical Testing of the Functional Classes of Eye Movements.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 259,
+      "connector_rejected": 1,
+      "connector_edges": 159,
+      "connector_width": 0.751,
+      "text_labels": 136,
+      "tree_nodes": 136,
+      "component_roots": 6,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6139,
+      "root_font_size": 2.627,
+      "warnings": []
+    }
+  }
+}

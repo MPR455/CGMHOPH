@@ -1,0 +1,382 @@
+{
+  "label": "4.17.5. Melanocytic Tumors (V): Melanoma of ciliary body or choroid (III): Treatment",
+  "root": true,
+  "children": [
+    {
+      "label": "choice of treatment option depends on",
+      "children": [
+        {
+          "label": "size, location, extent of tumor"
+        },
+        {
+          "label": "visual status of affected & fellow eyes"
+        },
+        {
+          "label": "age & general health of patient"
+        }
+      ]
+    },
+    {
+      "label": "external beam radiation (EBR)",
+      "children": [
+        {
+          "label": "types",
+          "children": [
+            {
+              "label": "conventional EBR",
+              "children": [
+                {
+                  "label": "ineffective as single-modality treatment"
+                },
+                {
+                  "label": "pre-enucleation EBR",
+                  "children": [
+                    {
+                      "label": "appears to limit orbital recurrence in large melanomas"
+                    },
+                    {
+                      "label": "no statistically significant reduction in 5-year mortality"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fractionated stereotactic radiotherapy"
+            },
+            {
+              "label": "gamma knife radiotherapy"
+            }
+          ]
+        },
+        {
+          "label": "cataract surgery after radiation",
+          "children": [
+            {
+              "label": "indicated when",
+              "children": [
+                {
+                  "label": "tumor nonviable"
+                },
+                {
+                  "label": "visual limitations related to cataract"
+                }
+              ]
+            },
+            {
+              "label": "does not increase mortality"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "observation",
+      "children": [
+        {
+          "label": "to document growth of small melanocytic lesions <1 mm in thickness"
+        },
+        {
+          "label": "larger tumors in elderly/systemically ill patients not candidates for therapeutic intervention"
+        }
+      ]
+    },
+    {
+      "label": "enucleation",
+      "children": [
+        {
+          "label": "many large and all extra-large tumors"
+        },
+        {
+          "label": "pre-enucleation external-beam radiation does not affect 5-year mortality rate (COMS)"
+        }
+      ]
+    },
+    {
+      "label": "brachytherapy (radioactive plaque)",
+      "children": [
+        {
+          "label": "most common isotopes",
+          "children": [
+            {
+              "label": "iodine 125"
+            },
+            {
+              "label": "ruthenium 106"
+            }
+          ]
+        },
+        {
+          "label": "local tumor control rate",
+          "children": [
+            {
+              "label": "≤95%"
+            }
+          ]
+        },
+        {
+          "label": "regrowth",
+          "children": [
+            {
+              "label": "10%"
+            }
+          ]
+        },
+        {
+          "label": "radiation complications",
+          "children": [
+            {
+              "label": "optic neuropathy"
+            },
+            {
+              "label": "retinopathy"
+            },
+            {
+              "label": "dose dependent"
+            },
+            {
+              "label": "increased rate for tumors close to macula or optic nerve"
+            },
+            {
+              "label": "50%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "alternative treatments",
+      "children": [
+        {
+          "label": "photoablation/hyperthermia",
+          "children": [
+            {
+              "label": "laser photocoagulation",
+              "children": [
+                {
+                  "label": "limited role"
+                },
+                {
+                  "label": "Bruch membrane rupture"
+                }
+              ]
+            },
+            {
+              "label": "transpupillary thermotherapy",
+              "children": [
+                {
+                  "label": "technique",
+                  "children": [
+                    {
+                      "label": "large spot size"
+                    },
+                    {
+                      "label": "long duration"
+                    },
+                    {
+                      "label": "relatively low energy"
+                    }
+                  ]
+                },
+                {
+                  "label": "reduction in tumor volume"
+                },
+                {
+                  "label": "higher rate of local tumor recurrence compared with brachytherapy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cyrotherapy",
+          "children": [
+            {
+              "label": "triple freeze-thaw"
+            },
+            {
+              "label": "small choroidal melanoma"
+            },
+            {
+              "label": "not standard treatment"
+            }
+          ]
+        },
+        {
+          "label": "transscleral diathermy",
+          "children": [
+            {
+              "label": "contraindicated!",
+              "children": [
+                {
+                  "label": "scleral damage my allow extrascleral tumor extension"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "surgical excision",
+          "children": [
+            {
+              "label": "limitations",
+              "children": [
+                {
+                  "label": "inability to evaluate tumor margins for residual disease"
+                },
+                {
+                  "label": "high rate of scleral, retinal, vitreous involvement in medium/large tumors"
+                },
+                {
+                  "label": "difficult surgical technique"
+                }
+              ]
+            },
+            {
+              "label": "combined brachytherapy and local excision"
+            }
+          ]
+        },
+        {
+          "label": "chemotherapy",
+          "children": [
+            {
+              "label": "not effective for primary or metastatic uveal melanoma"
+            }
+          ]
+        },
+        {
+          "label": "immunotherapy",
+          "children": [
+            {
+              "label": "tumor-directed T-cell activation",
+              "children": [
+                {
+                  "label": "uses",
+                  "children": [
+                    {
+                      "label": "cytokines"
+                    },
+                    {
+                      "label": "immunomodulatory agents"
+                    },
+                    {
+                      "label": "local vaccine therapy"
+                    }
+                  ]
+                },
+                {
+                  "label": "not available for primary uveal melanoma"
+                },
+                {
+                  "label": "investigational for metastatic disease"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "exenteration",
+          "children": [
+            {
+              "label": "traditionally used for extraocular extension of posterior uveal melanoma"
+            },
+            {
+              "label": "rarely used today"
+            },
+            {
+              "label": "combined enucleation with limited tenonectomy + local radiotherapy",
+              "children": [
+                {
+                  "label": "gives outcomes similar to exenteration"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "charged-particle radiation",
+      "children": [
+        {
+          "label": "charged particles",
+          "children": [
+            {
+              "label": "protons"
+            },
+            {
+              "label": "helium ions"
+            }
+          ]
+        },
+        {
+          "label": "mark basal tumor margins with tantalum clips",
+          "children": [
+            {
+              "label": "more homogenous radiation dose"
+            }
+          ]
+        },
+        {
+          "label": "compared with radioactive plaque",
+          "children": [
+            {
+              "label": "less lateral spread",
+              "children": [
+                {
+                  "label": "Bragg peak effect"
+                }
+              ]
+            },
+            {
+              "label": "higher radiation dose to anterior segment structures"
+            }
+          ]
+        },
+        {
+          "label": "local tumor control rate ≤98%"
+        },
+        {
+          "label": "complications",
+          "children": [
+            {
+              "label": "neovascular glaucoma",
+              "children": [
+                {
+                  "label": "10%"
+                }
+              ]
+            },
+            {
+              "label": "vision loss",
+              "children": [
+                {
+                  "label": "50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.17.5. Melanocytic Tumors (V) - Melanoma of ciliary body or choroid (III) - Treatment.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 177,
+      "connector_rejected": 1,
+      "connector_edges": 125,
+      "connector_width": 1.936,
+      "text_labels": 95,
+      "tree_nodes": 95,
+      "component_roots": 7,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.7062,
+      "root_font_size": 6.452,
+      "warnings": []
+    }
+  }
+}

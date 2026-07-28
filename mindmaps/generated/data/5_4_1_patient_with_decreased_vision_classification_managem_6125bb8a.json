@@ -1,0 +1,910 @@
+{
+  "label": "5.4.1. Patient With Decreased Vision: Classification & Management (I): Retinopathy (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Ocular Media Abnormality",
+      "children": [
+        {
+          "label": "irregularities/opacities of the ocular media",
+          "children": [
+            {
+              "label": "reduce visual acuity"
+            },
+            {
+              "label": "± cause generalized reduction of sensitivity on automated perimetry testing"
+            },
+            {
+              "label": "do not affect pupils, color vision, or the appearance of the posterior pole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vitamin A Deficiency",
+      "children": [
+        {
+          "label": "predisposing conditions",
+          "children": [
+            {
+              "label": "malnutrition"
+            },
+            {
+              "label": "malabsorption"
+            },
+            {
+              "label": "liver disease"
+            },
+            {
+              "label": "zinc deficiency",
+              "children": [
+                {
+                  "label": "cofactor in the conversion of retinol to 11-cis- retinal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "nyctalopia"
+            },
+            {
+              "label": "peripheral visual field loss"
+            },
+            {
+              "label": "± central vision loss"
+            },
+            {
+              "label": "xerosis"
+            },
+            {
+              "label": "conjunctival Bitôt spots"
+            },
+            {
+              "label": "keratomalacia"
+            }
+          ]
+        },
+        {
+          "label": "dramatic recovery with treatment",
+          "children": [
+            {
+              "label": "vitamin A supplementation"
+            },
+            {
+              "label": "treatment of any underlying systemic disorder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Retinopathy",
+      "children": [
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "decreased visual acuity"
+            },
+            {
+              "label": "central visual field loss",
+              "children": [
+                {
+                  "label": "focal and central",
+                  "children": [
+                    {
+                      "label": "optic nerve disease: visual field defects are larger, often cecocentral, and part of a generalized field depression"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "variable color vision loss",
+              "children": [
+                {
+                  "label": "color vision loss = visual acuity loss",
+                  "children": [
+                    {
+                      "label": "optic nerve disease: color vision loss > visual acuity loss"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "metamorphopsia",
+              "children": [
+                {
+                  "label": "almost never in optic neuropathy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "OCT",
+              "children": [
+                {
+                  "label": "absent relative afferent pupillary defect (RAPD)"
+                }
+              ]
+            },
+            {
+              "label": "fluorescein angiography"
+            },
+            {
+              "label": "multifocal electroretinography (mfERG)"
+            }
+          ]
+        },
+        {
+          "label": "maculopathies/retinopathies mistaken for optic nerve disease",
+          "children": [
+            {
+              "label": "acute idiopathic blind-spot enlargement",
+              "children": [
+                {
+                  "label": "overlaps with multiple evanescent white dot syndrome"
+                }
+              ]
+            },
+            {
+              "label": "cone dystrophy"
+            },
+            {
+              "label": "cancer-associated retinopathy (CAR) and melanoma-associated retinopathy (MAR)"
+            },
+            {
+              "label": "central serous retinopathy"
+            },
+            {
+              "label": "cystoid macular edema"
+            },
+            {
+              "label": "acute zonal occult outer retinopathy (AZOOR)"
+            }
+          ]
+        },
+        {
+          "label": "See Table 4-1"
+        }
+      ]
+    },
+    {
+      "label": "AIBSE"
+    },
+    {
+      "label": "Paraneoplastic Syndromes",
+      "children": [
+        {
+          "label": "Cancer-associated retinopathy (CAR)",
+          "children": [
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "photopsia"
+                },
+                {
+                  "label": "impaired dark adaptation",
+                  "children": [
+                    {
+                      "label": "nyctalopia"
+                    }
+                  ]
+                },
+                {
+                  "label": "dimming"
+                },
+                {
+                  "label": "peripheral and/or central visual field loss",
+                  "children": [
+                    {
+                      "label": "ring scotoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "often (50%) before the underlying malignancy is identified"
+                },
+                {
+                  "label": "progressively worsen over weeks to months"
+                }
+              ]
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "small cell lung carcinoma"
+                },
+                {
+                  "label": "other lung tumors"
+                },
+                {
+                  "label": "breast cancer"
+                },
+                {
+                  "label": "uterine cancer"
+                },
+                {
+                  "label": "cervical cancer"
+                }
+              ]
+            },
+            {
+              "label": "funduscopy",
+              "children": [
+                {
+                  "label": "initially normal",
+                  "children": [
+                    {
+                      "label": "attenuated retinal arterioles"
+                    }
+                  ]
+                },
+                {
+                  "label": "late",
+                  "children": [
+                    {
+                      "label": "thinned and mottled RPE"
+                    },
+                    {
+                      "label": "optic disc atrophy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ERG",
+              "children": [
+                {
+                  "label": "markedly reduced amplitudes",
+                  "children": [
+                    {
+                      "label": "both a- and b-waves"
+                    },
+                    {
+                      "label": "both rods and cones affected"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pathogenesis",
+              "children": [
+                {
+                  "label": "tumor expresses an antigen homologous to 23-kDa retinal photoreceptor protein",
+                  "children": [
+                    {
+                      "label": "recoverin",
+                      "children": [
+                        {
+                          "label": "calcium-binding protein"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "circulating autoantibodies against the tumor- associated antigen",
+                  "children": [
+                    {
+                      "label": "cross-react with retinal recoverin",
+                      "children": [
+                        {
+                          "label": "immune-mediated degeneration of rods and cones"
+                        },
+                        {
+                          "label": "• CaR = Cone + Rod ; ReCoverin • maR = Rod"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "corticosteroids",
+                  "children": [
+                    {
+                      "label": "treatment of inciting tumor has an unclear effect on retinal function"
+                    }
+                  ]
+                },
+                {
+                  "label": "plasmapheresis"
+                },
+                {
+                  "label": "intravenous immunoglobulin",
+                  "children": [
+                    {
+                      "label": "prognosis for vision is poor",
+                      "children": [
+                        {
+                          "label": "vision loss is typically severe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Melanoma-associated retinopathy (MAR)",
+          "children": [
+            {
+              "label": "extremely rare"
+            },
+            {
+              "label": "etiology",
+              "children": [
+                {
+                  "label": "previously diagnosed melanoma",
+                  "children": [
+                    {
+                      "label": "investigation often reveals recurrence or metastasis"
+                    }
+                  ]
+                },
+                {
+                  "label": "involves rod bipolar cells"
+                }
+              ]
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "photopsia",
+                  "children": [
+                    {
+                      "label": "• CaR = Cone + Rod ; ReCoverin • maR = Rod"
+                    }
+                  ]
+                },
+                {
+                  "label": "nyctalopia"
+                },
+                {
+                  "label": "prominent peripheral visual field loss",
+                  "children": [
+                    {
+                      "label": "CAR affects rods and cones",
+                      "children": [
+                        {
+                          "label": "CAR with auto-antibodies against alpha-enolase affects cones"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "develop rapidly over weeks to months",
+                  "children": [
+                    {
+                      "label": "visual acuity, color vision, and the central visual field are often initially normal"
+                    },
+                    {
+                      "label": "may have a sudden onset"
+                    }
+                  ]
+                },
+                {
+                  "label": "bilateral"
+                }
+              ]
+            },
+            {
+              "label": "fundus",
+              "children": [
+                {
+                  "label": "may appear normal"
+                },
+                {
+                  "label": "may show",
+                  "children": [
+                    {
+                      "label": "RPE irregularity"
+                    },
+                    {
+                      "label": "retinal arteriolar attenuation",
+                      "children": [
+                        {
+                          "label": "MAR"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "optic disc pallor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "diagnostic workup",
+              "children": [
+                {
+                  "label": "full-field ERG",
+                  "children": [
+                    {
+                      "label": "rod dysfunction",
+                      "children": [
+                        {
+                          "label": "MAR affects rod function !"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "negative ERG waveform",
+                      "children": [
+                        {
+                          "label": "similar to CSNB",
+                          "children": [
+                            {
+                              "label": "similar to Duchenne muscular dystrophy"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "mfERG",
+                  "children": [
+                    {
+                      "label": "relatively preserved",
+                      "children": [
+                        {
+                          "label": "mfERG measures photopic (cone) responses"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "prognosis",
+              "children": [
+                {
+                  "label": "visual function may remain stable and nonprogressive",
+                  "children": [
+                    {
+                      "label": "unlike CAR!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "no treatment has proven effective"
+                },
+                {
+                  "label": "intravenous immunoglobulin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Acute Idiopathic Blind-Spot Enlargement (AIBSE)",
+      "children": [
+        {
+          "label": "differential diagnosis of enlarged blind spot",
+          "children": [
+            {
+              "label": "optic disc edema"
+            },
+            {
+              "label": "optic disc tilting"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "AIBSE",
+              "children": [
+                {
+                  "label": "symptoms",
+                  "children": [
+                    {
+                      "label": "monocular scotoma",
+                      "children": [
+                        {
+                          "label": "temporal location"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "funduscopy",
+                  "children": [
+                    {
+                      "label": "± normal",
+                      "children": [
+                        {
+                          "label": "photopsias",
+                          "children": [
+                            {
+                              "label": "reflects disease of the outer retina"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "may show",
+                      "children": [
+                        {
+                          "label": "disc edema"
+                        },
+                        {
+                          "label": "peripapillary retinal lesions"
+                        },
+                        {
+                          "label": "choroiditis"
+                        },
+                        {
+                          "label": "retinal pigment epithelium (RPE) changes"
+                        },
+                        {
+                          "label": "uveitis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "multiple evanescent white dot syndrome (MEWDS)",
+              "children": [
+                {
+                  "label": "photopsia"
+                },
+                {
+                  "label": "retinal white spots",
+                  "children": [
+                    {
+                      "label": "small"
+                    },
+                    {
+                      "label": "deep"
+                    },
+                    {
+                      "label": "posterior retina"
+                    },
+                    {
+                      "label": "resolve spontaneously",
+                      "children": [
+                        {
+                          "label": "last weeks"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "±RAPD"
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "perimetry",
+              "children": [
+                {
+                  "label": "enlargement of the blind spot"
+                }
+              ]
+            },
+            {
+              "label": "mfERG",
+              "children": [
+                {
+                  "label": "peripapillary depression"
+                }
+              ]
+            },
+            {
+              "label": "spectral domain OCT",
+              "children": [
+                {
+                  "label": "peripapillary attenuation of outer retina"
+                }
+              ]
+            },
+            {
+              "label": "fluorescein angiography",
+              "children": [
+                {
+                  "label": "early wreathlike hyperfluorescence and late staining"
+                }
+              ]
+            },
+            {
+              "label": "ICG angiography",
+              "children": [
+                {
+                  "label": "peripapillary hypofluorescent lesions",
+                  "children": [
+                    {
+                      "label": "correspond to the enlarged blind spot"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "full-field ERG",
+              "children": [
+                {
+                  "label": "depressed a-waves"
+                },
+                {
+                  "label": "substantial intereye asymmetry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "prognosis",
+          "children": [
+            {
+              "label": "good visual prognosis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hydroxychloroquine and Chloroquine Retinopathy",
+      "children": [
+        {
+          "label": "risk factors",
+          "children": [
+            {
+              "label": "duration of use > 5 years"
+            },
+            {
+              "label": "cumulative dose",
+              "children": [
+                {
+                  "label": "1000 g (hydroxychloroquine)"
+                },
+                {
+                  "label": "460 g (chloroquine)"
+                },
+                {
+                  "label": "400 mg (hydroxychloroquine) or",
+                  "children": [
+                    {
+                      "label": "<6.5 mg/kg/day",
+                      "children": [
+                        {
+                          "label": "<5 mg/kg/day is safer"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "daily dose",
+              "children": [
+                {
+                  "label": "250 mg (chloroquine)",
+                  "children": [
+                    {
+                      "label": "<3 mg/kg/day"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "older age (>60 years)"
+            },
+            {
+              "label": "kidney or liver dysfunction"
+            },
+            {
+              "label": "preexisting macular disease"
+            }
+          ]
+        },
+        {
+          "label": "revised screening recommendations (2011)",
+          "children": [
+            {
+              "label": "baseline evaluation within 1 year of beginning treatment"
+            },
+            {
+              "label": "annual examinations after 5 years of treatment",
+              "children": [
+                {
+                  "label": "dilated fundus examination"
+                },
+                {
+                  "label": "automated, white 10-2 threshold perimetry"
+                },
+                {
+                  "label": "1 or more of the following 3 objective tests",
+                  "children": [
+                    {
+                      "label": "spectral domain OCT (to detect parafoveal outer retinal attenuation)"
+                    },
+                    {
+                      "label": "multifocal ERG (to detect parafoveal depressed amplitudes)"
+                    },
+                    {
+                      "label": "fundus autofluorescence (to detect parafoveal increased autofluorescence)"
+                    },
+                    {
+                      "label": "detect toxicity before fundus abnormalities become visible"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "fundus photography, Amsler grid testing, and color vision testing no longer recommended"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cone Dystrophy",
+      "children": [
+        {
+          "label": "symptoms",
+          "children": [
+            {
+              "label": "gradually progressive decline in visual acuity and color vision",
+              "children": [
+                {
+                  "label": "any age"
+                },
+                {
+                  "label": "bilateral"
+                }
+              ]
+            },
+            {
+              "label": "photophobia"
+            },
+            {
+              "label": "hemeralopia (“day blindness”)"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "funduscopy",
+              "children": [
+                {
+                  "label": "early stages"
+                },
+                {
+                  "label": "late stages",
+                  "children": [
+                    {
+                      "label": "macular RPE becomes atrophic in a central oval region",
+                      "children": [
+                        {
+                          "label": "“bull’s-eye” pattern",
+                          "children": [
+                            {
+                              "label": "similar to that observed in late chloroquine- induced maculopathy"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "diagnostic workup",
+          "children": [
+            {
+              "label": "fluorescein angiography"
+            },
+            {
+              "label": "fundus autofluorescence",
+              "children": [
+                {
+                  "label": "highlight these abnormalities before they become clinically apparent"
+                }
+              ]
+            },
+            {
+              "label": "full-field ERG",
+              "children": [
+                {
+                  "label": "may be normal initially"
+                },
+                {
+                  "label": "eventually shows markedly depressed photopic (cone) response and less prominently affected scotopic (rod) response"
+                }
+              ]
+            },
+            {
+              "label": "multifocal ERG",
+              "children": [
+                {
+                  "label": "central depression"
+                }
+              ]
+            },
+            {
+              "label": "OCT",
+              "children": [
+                {
+                  "label": "thinning of outer macular layers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Neuroophthalmology/5.4.1. Patient With Decreased Vision Classification & Management (I) Retinopathy (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 409,
+      "connector_rejected": 66,
+      "connector_edges": 262,
+      "connector_width": 0.707,
+      "text_labels": 227,
+      "tree_nodes": 227,
+      "component_roots": 8,
+      "spatially_recovered_labels": 7,
+      "connector_match_ratio": 0.6406,
+      "root_font_size": 2.475,
+      "warnings": []
+    }
+  }
+}

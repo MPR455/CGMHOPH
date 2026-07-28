@@ -1,0 +1,400 @@
+{
+  "label": "9.7.6. Infectious Ocular Inflammatory Diseases (VI): Rubella",
+  "root": true,
+  "children": [
+    {
+      "label": "single-stranded RNA virus",
+      "children": [
+        {
+          "label": "Togaviridae family"
+        },
+        {
+          "label": "lipid envelope (toga)"
+        },
+        {
+          "label": "teratogenic virus",
+          "children": [
+            {
+              "label": "Similar to LCMV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Similar to LCMV"
+    },
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "an important cause of blindness in resource- limited regions and nations"
+        },
+        {
+          "label": "peak age incidence",
+          "children": [
+            {
+              "label": "prevaccine era",
+              "children": [
+                {
+                  "label": "5–9 years"
+                }
+              ]
+            },
+            {
+              "label": "postvaccine era",
+              "children": [
+                {
+                  "label": "15–19 years"
+                }
+              ]
+            },
+            {
+              "label": "more recently",
+              "children": [
+                {
+                  "label": "20–24 years (young adults)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "5–25% of women of childbearing age are susceptible to primary infection"
+        }
+      ]
+    },
+    {
+      "label": "acquired infection (German measles)",
+      "children": [
+        {
+          "label": "prodrome",
+          "children": [
+            {
+              "label": "malaise and fever"
+            }
+          ]
+        },
+        {
+          "label": "erythematous, maculopapular rash",
+          "children": [
+            {
+              "label": "involves the entire body within 24 hours",
+              "children": [
+                {
+                  "label": "appears first on the face, spreads toward the hands and feet"
+                }
+              ]
+            },
+            {
+              "label": "rash is not always prominent",
+              "children": [
+                {
+                  "label": "disappears by the third day"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "lymphadenopathy",
+          "children": [
+            {
+              "label": "invariably present"
+            }
+          ]
+        },
+        {
+          "label": "ocular manifestations",
+          "children": [
+            {
+              "label": "conjunctivitis (70%)",
+              "children": [
+                {
+                  "label": "most frequent ocular complication of postnatally acquired rubella"
+                }
+              ]
+            },
+            {
+              "label": "epithelial keratitis"
+            },
+            {
+              "label": "acquired rubella retinitis",
+              "children": [
+                {
+                  "label": "acute-onset decreased vision",
+                  "children": [
+                    {
+                      "label": "visual acuity returns to normal"
+                    }
+                  ]
+                },
+                {
+                  "label": "multifocal chorioretinitis"
+                },
+                {
+                  "label": "large areas of bullous neurosensory detachment",
+                  "children": [
+                    {
+                      "label": "neurosensory detachments resolve spontaneously"
+                    }
+                  ]
+                },
+                {
+                  "label": "preretinal vitreous cells",
+                  "children": [
+                    {
+                      "label": "underlying pigment epithelial detachment involving the entire posterior pole"
+                    }
+                  ]
+                },
+                {
+                  "label": "dark gray atrophic lesions of the RPE"
+                },
+                {
+                  "label": "normal appearance of the retinal vessels and optic nerve"
+                },
+                {
+                  "label": "absence of retinal hemorrhage"
+                }
+              ]
+            },
+            {
+              "label": "Fuchs heterochromic uveitis",
+              "children": [
+                {
+                  "label": "chronic rubella virus infection",
+                  "children": [
+                    {
+                      "label": "similar to congenital rubella"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "congenital rubella syndrome (CRS)",
+      "children": [
+        {
+          "label": "clinical manifestations",
+          "children": [
+            {
+              "label": "cardiac malformations (patent ductus arteriosus, interventricular septal defects, and pulmonic stenosis)"
+            },
+            {
+              "label": "hearing loss",
+              "children": [
+                {
+                  "label": "most common systemic finding"
+                }
+              ]
+            },
+            {
+              "label": "ocular findings",
+              "children": [
+                {
+                  "label": "pigmentary retinopathy",
+                  "children": [
+                    {
+                      "label": "unilateral or bilateral",
+                      "children": [
+                        {
+                          "label": "the most common ocular manifestation of CRS",
+                          "children": [
+                            {
+                              "label": "25%–50%"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "“salt-and-pepper” fundus"
+                    },
+                    {
+                      "label": "considerable variation",
+                      "children": [
+                        {
+                          "label": "finely stippled, bone spicule–like, small, black, irregular masses"
+                        },
+                        {
+                          "label": "gross pigmentary irregularities with coarse, blotchy mottling"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "stationary or progressive"
+                    },
+                    {
+                      "label": "neither vision nor electroretinogram are affected"
+                    },
+                    {
+                      "label": "optic nerve and the retinal vessels are normal"
+                    }
+                  ]
+                },
+                {
+                  "label": "glaucoma (10%)"
+                },
+                {
+                  "label": "corneal clouding"
+                },
+                {
+                  "label": "strabismus"
+                },
+                {
+                  "label": "congenital (nuclear) cataract (15%)",
+                  "children": [
+                    {
+                      "label": "most frequent causes of poor visual acuity"
+                    }
+                  ]
+                },
+                {
+                  "label": "microphthalmia"
+                }
+              ]
+            },
+            {
+              "label": "greater risk for diabetes mellitus and subsequent diabetic retinopathy later in life"
+            }
+          ]
+        },
+        {
+          "label": "histology",
+          "children": [
+            {
+              "label": "retained cell nuclei in the embryonic lens nucleus"
+            },
+            {
+              "label": "anterior and posterior cortical degeneration"
+            },
+            {
+              "label": "poor development of the pupil dilator muscle"
+            },
+            {
+              "label": "necrosis of the iris pigment epithelium"
+            },
+            {
+              "label": "chronic nongranulomatous inflammation of iris"
+            },
+            {
+              "label": "alternating areas of RPE atrophy and hypertrophy"
+            },
+            {
+              "label": "anterior chamber angle appears similar to that of congenital glaucoma"
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "maternal viremia during primary infection",
+              "children": [
+                {
+                  "label": "transplacental fetal infection",
+                  "children": [
+                    {
+                      "label": "establishes a chronic, persistent infection during organogenesis",
+                      "children": [
+                        {
+                          "label": "inhibits cellular multiplication"
+                        },
+                        {
+                          "label": "persistence of viral replication after birth",
+                          "children": [
+                            {
+                              "label": "appearance of hearing and neurologic and/or ocular deficits long after birth"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "frequency of fetal infection is highest during the first 10 weeks and the final month of pregnancy"
+            },
+            {
+              "label": "rate of congenital defects varies inversely with gestational age",
+              "children": [
+                {
+                  "label": "obvious maternal infection during the first trimester of pregnancy may end in spontaneous abortion, stillbirth, or severe fetal malformations"
+                },
+                {
+                  "label": "seropositive asymptomatic maternal rubella may also result in severe fetal disease"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Serologic criteria for rubella infection",
+      "children": [
+        {
+          "label": "4x increase in rubella-specific IgG in paired sera 1–2 weeks apart"
+        },
+        {
+          "label": "new appearance of rubella-specific IgM"
+        },
+        {
+          "label": "specific IgM or IgA antibodies to rubella in the cord blood"
+        }
+      ]
+    },
+    {
+      "label": "treatment",
+      "children": [
+        {
+          "label": "no specific antiviral therapy for congenital rubella",
+          "children": [
+            {
+              "label": "treatment is supportive"
+            }
+          ]
+        },
+        {
+          "label": "uncomplicated acquired rubella does not require specific therapy"
+        },
+        {
+          "label": "systemic corticosteroids",
+          "children": [
+            {
+              "label": "rubella retinitis"
+            },
+            {
+              "label": "postvaccination optic neuritis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.7.6. Infectious Ocular Inflammatory Diseases (VI) - Rubella.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 183,
+      "connector_rejected": 2,
+      "connector_edges": 121,
+      "connector_width": 0.852,
+      "text_labels": 99,
+      "tree_nodes": 99,
+      "component_roots": 6,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6612,
+      "root_font_size": 3.619,
+      "warnings": []
+    }
+  }
+}

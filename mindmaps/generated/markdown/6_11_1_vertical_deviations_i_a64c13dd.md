@@ -1,0 +1,167 @@
+---
+title: "6.11.1. Vertical Deviations (I)"
+category: "Pediatric Ophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Ped ophthalmology/6.11.1. Vertical Deviations (I).pdf"
+---
+
+# 6.11.1. Vertical Deviations (I)
+
+## Hierarchy
+
+- terminology
+  - described according to resting position of deviating nonfixating eye
+  - if ability to alternately fixate is present, deviation is usually named for the hyperdeviating eye
+  - in case of a vertical heterophoria, the deviation is, by convention, termed according to the hyperdeviating eye
+  - 1
+- Superior oblique muscle overaction
+  - most bilateral cases are primary
+  - clinical features
+    - hypotropia of the adducting eye
+      - accentuated in the lower field
+    - hypotropia in primary position
+      - lower eye contains the overacting superior oblique muscle in unilateral overaction and the more prominently overacting superior oblique muscle in bilateral overaction
+    - ± horizontal deviation
+      - most often exotropia
+      - may lead to an A pattern
+    - intorsion
+      - common
+  - management
+    - indications for treatment
+      - clinically significant hypertropia or hypotropia
+        - SO tendon weakening
+          - recession
+          - tenotomy
+          - tenectomy
+          - lengthening
+            - insertion of a silicone spacer or nonabsorbable suture
+            - Z-lengthening
+          - significant intorsion will also be reduced
+      - A pattern
+        - horizontal deviation can be corrected during the same operative session
+        - SO weakening may have convergent effect in primary position
+          - adjust surgical amounts for horizontal rectus muscles when simultaneously weakening the superior oblique muscles
+          - some surgeons adjust amount of horizontal surgery because of potential effect of oblique muscle weakening on horizontal deviation
+            - particularly for superior oblique muscle surgery
+              - bilateral superior oblique weakening causes a change of 10Δ–15Δ toward convergence in primary position
+        - bilateral superior oblique tenotomy is a very powerful procedure
+          - may correct up to 40Δ–50Δ of A pattern
+          - risk of induced torsional imbalance
+            - may cause problems for patients with fusional ability
+    - asymmetric, torsional and/or vertical effects may cause diplopia in some cases after surgery
+      - many surgeons are reluctant to perform SO tendon weakening in patients with single binocular vision
+- Clinical Approach
+  - analyze the relationship between elevators and depressors of 2 eyes
+    - right hyperdeviation
+      - left eye is covered and right eye is forced to fixate
+        - look at final position of nonfixating left eye once cover is removed
+  - “true” vertical tropia
+    - innervation to depressors of right eye is matched in left eye
+      - leading to a left hypotropia of a magnitude similar to that of the original right hypertropia
+    - incomitant in horizontal plane
+      - oblique muscle disorder
+    - comitant in horizontal plane
+      - vertical rectus disorder
+  - unilateral DVD (right)
+    - left eye does not adopt a lower position but remains in the same position
+  - 2
+  - bilateral DVD
+    - left eye rises under cover, leading to a left hyperdeviation
+    - double hyperphoria
+  - 3
+  - primary versus secondary deviation due to a restriction or palsy
+    - OR
+      - combination of true vertical tropia + DVD
+    - left eye becomes hypotropic under cover but not to the same degree as the original right eye hypertropia
+  - 4
+  - pathogenesis
+    - innervational
+      - overaction or underaction of muscles
+      - one of the most common causes of a true vertical tropia is fourth nerve (superior oblique) palsy
+        - assume palsy is bilateral until proven otherwise
+    - mechanical
+  - head-tilt test
+    - indications
+      - deviation is incomitant in horizontal plane
+      - deviation is long-standing and comitant
+    - to determine whether an oblique muscle palsy may be the cause
+    - 3 steps
+      - Step 1
+        - determine which eye is hypertropic
+      - Step 2
+        - determine whether the vertical deviation is greater in right or left gaze
+      - Step 3
+        - determine whether the vertical deviation is greater in right or left head tilt
+- Inferior oblique muscle overaction
+  - introduction
+    - between 1-6 years
+    - in ≤2/3 of patients with infantile strabismus (ET or XT)
+      - less frequent with acquired esotropia or exotropia
+      - occasionally, in patients with no other strabismus
+    - classification
+      - primary
+        - not associated with superior oblique muscle palsy
+      - secondary
+        - associated with superior oblique muscle or the contralateral superior rectus muscle palsy
+  - clinical presentation
+    - eye is elevated in adduction, both on horizontal movement and in upgaze
+      - alternate cover testing
+        - higher (adducting) eye refixates with a downward movement and lower (abducting) eye refixates with an upward movement
+          - with DVD neither eye refixates with an upward movement!
+        - when bilateral, higher and lower eyes reverse their direction of movement in the opposite lateral gaze
+          - ± asymmetric
+            - greater overaction in an eye with poor vision
+    - V-pattern horizontal deviation and extorsion are common
+  - management
+    - inferior oblique muscle weakening
+      - technique
+        - recession
+          - modest recession actually functions as an anterior transposition
+            - useful for correcting marked overaction of the inferior oblique muscle and DVD
+            - extorsion can also be improved
+        - anterior transposition
+          - spread-out reinsertion, especially if closer to the limbus than inferior rectus muscle
+            - can restrict elevation, especially when the eye is abducted
+              - anti-elevation syndrome
+        - disinsertion
+        - myectomy
+        - marginal myotomy
+      - in general, weakening of inferior oblique muscles has an insignificant effect on horizontal alignment in primary position
+        - for inferior oblique muscle weakening procedures, amount of horizontal rectus muscle surgery does not need to be altered
+      - corrects ≤15Δ–20Δ of V pattern
+    - references
+- Incomitant Vertical Tropias
+  - hypertropia that is significantly worse on gaze to one side
+  - pathogenesis
+    - true overaction and underaction of the oblique muscles
+      - most common
+    - oblique muscle pseudo-overactions
+      - DVD
+      - large-angle exotropia
+      - thyroid eye disease
+      - rectus muscle pulley heterotopia
+        - connective tissue pulleys where path of oblique muscles crosses that of rectus muscles
+        - craniofacial syndromes
+        - inferiorly displaced lateral rectus muscle
+          - overelevation in adduction
+          - V-pattern deviation
+          - simulating an inferior oblique muscle overaction
+        - superiorly displaced lateral rectus muscle
+          - overdepression in adduction
+          - A-pattern deviation
+          - simulating a superior oblique overaction
+        - lateral and medial malpositioning of vertical rectus muscles
+        - large A and V patterns associated with these anomalous pulley positions respond poorly to oblique muscle surgery
+          - more effective to relocate rectus muscle positions
+      - Duane retraction syndrome
+      - restrictions of the superior or inferior rectus muscles
+        - causing overinnervation of contralateral oblique muscles
+      - skew deviation
+      - severe Brown syndrome
+      - limitation of elevation in abduction after inferior oblique muscle anterior transposition
+      - clinical examination indicates apparent overaction of both superior and inferior oblique muscles
+        - pathogenesis
+          - elevation or depression of vertical rectus muscle of opposite, abducting eye is restricted
+            - Hering’s law
+              - extra innervation to yoke oblique muscles
+          - slippage of a tight lateral rectus as eye adducts and rises above or below midline

@@ -1,0 +1,251 @@
+{
+  "label": "9.6.8. Posterior Uveitis (I): Collagen Vascular Diseases (I): Polyarteritis Nodosa",
+  "root": true,
+  "children": [
+    {
+      "label": "epidemiology",
+      "children": [
+        {
+          "label": "subacute or chronic, focal, necrotizing inflammation of medium-sized and small muscular arteries"
+        },
+        {
+          "label": "40-60 years",
+          "children": [
+            {
+              "label": "affects men 3x more frequently"
+            }
+          ]
+        },
+        {
+          "label": "annual incidence of 0.7/100,000 individuals"
+        },
+        {
+          "label": "no racial or geographic predisposing factors"
+        }
+      ]
+    },
+    {
+      "label": "pathogenesis",
+      "children": [
+        {
+          "label": "immune-complex disease",
+          "children": [
+            {
+              "label": "10% of patients are positive for hepatitis B surface antigen",
+              "children": [
+                {
+                  "label": "circulating immune complexes composed of hepatitis B antigen and antibodies in vessel walls"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ocular presentation",
+      "children": [
+        {
+          "label": "20%"
+        },
+        {
+          "label": "retinal arteriolar occlusive disease"
+        },
+        {
+          "label": "choroidal infarcts with exudative retinal detachment",
+          "children": [
+            {
+              "label": "consider PAN in the differential diagnosis of retinal vasculitis in patients with multiple systemic findings"
+            },
+            {
+              "label": "Elschnig spots",
+              "children": [
+                {
+                  "label": "focal areas of hyperpigmentation surrounded by hypopigmentation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "hypertensive retinopathy",
+          "children": [
+            {
+              "label": "macular star formation"
+            },
+            {
+              "label": "cotton-wool spots"
+            },
+            {
+              "label": "intraretinal hemorrhage"
+            },
+            {
+              "label": "in patients with renal disease"
+            }
+          ]
+        },
+        {
+          "label": "neuro-ophthalmic manifestations",
+          "children": [
+            {
+              "label": "cranial nerve palsies"
+            },
+            {
+              "label": "amaurosis fugax"
+            },
+            {
+              "label": "homonymous hemianopia"
+            },
+            {
+              "label": "Horner syndrome"
+            },
+            {
+              "label": "optic atrophy"
+            }
+          ]
+        },
+        {
+          "label": "scleral inflammatory disease"
+        },
+        {
+          "label": "peripheral ulcerative keratitis (PUK)",
+          "children": [
+            {
+              "label": "+scleritis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "systemic presentation",
+      "children": [
+        {
+          "label": "Constitutional symptoms",
+          "children": [
+            {
+              "label": "75%"
+            },
+            {
+              "label": "fatigue"
+            },
+            {
+              "label": "fever"
+            },
+            {
+              "label": "weight loss"
+            },
+            {
+              "label": "arthralgia"
+            }
+          ]
+        },
+        {
+          "label": "vasculitis-induced mononeuritis multiplex",
+          "children": [
+            {
+              "label": "most common symptom"
+            },
+            {
+              "label": "nerve damage in ≥2 named nerves in separate parts of the body"
+            }
+          ]
+        },
+        {
+          "label": "renal involvement"
+        },
+        {
+          "label": "secondary hypertension",
+          "children": [
+            {
+              "label": "one-third"
+            }
+          ]
+        },
+        {
+          "label": "gastrointestinal disease",
+          "children": [
+            {
+              "label": "small-bowel ischemia and infarction"
+            }
+          ]
+        },
+        {
+          "label": "cutaneous involvement",
+          "children": [
+            {
+              "label": "subcutaneous nodules"
+            },
+            {
+              "label": "purpura"
+            },
+            {
+              "label": "Raynaud phenomenon"
+            }
+          ]
+        },
+        {
+          "label": "coronary arteritis"
+        },
+        {
+          "label": "pericarditis"
+        },
+        {
+          "label": "hematologic abnormalities"
+        }
+      ]
+    },
+    {
+      "label": "lab work-up",
+      "children": [
+        {
+          "label": "not associated with antineutrophil cytoplasmic antibodies (ANCA)"
+        }
+      ]
+    },
+    {
+      "label": "management",
+      "children": [
+        {
+          "label": "5-year mortality of untreated PAN is 90%",
+          "children": [
+            {
+              "label": "systemic corticosteroid",
+              "children": [
+                {
+                  "label": "reduce this rate to 50%"
+                }
+              ]
+            },
+            {
+              "label": "combination therapy with immunomodulatory medications (e.g. cyclophosphamide)",
+              "children": [
+                {
+                  "label": "improves 5-year survival to 80%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.8. Posterior Uveitis (I) - Collagen Vascular Diseases (I) - Polyarteritis Nodosa.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 110,
+      "connector_rejected": 3,
+      "connector_edges": 76,
+      "connector_width": 1.184,
+      "text_labels": 62,
+      "tree_nodes": 62,
+      "component_roots": 6,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6909,
+      "root_font_size": 5.033,
+      "warnings": []
+    }
+  }
+}

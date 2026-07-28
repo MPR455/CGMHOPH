@@ -1,0 +1,198 @@
+{
+  "label": "Neovascular AMD (IV): Management II: Other Therapies",
+  "root": true,
+  "children": [
+    {
+      "label": "Low vision therapies",
+      "children": [
+        {
+          "label": "implantable miniature telescope",
+          "children": [
+            {
+              "label": "magnification ≤ 2.7x"
+            },
+            {
+              "label": "improves visual acuity by 2 lines"
+            },
+            {
+              "label": "corneal decompensation due to endothelial cell loss",
+              "children": [
+                {
+                  "label": "corneal transplant rate of 5% at 5 years"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Laser photocoagulation (“thermal laser”)",
+      "children": [
+        {
+          "label": "very rarely used"
+        },
+        {
+          "label": "lesions sufficiently peripheral to foveal center with minimal risk of iatrogenic foveal damage and lower rate of recurrence"
+        }
+      ]
+    },
+    {
+      "label": "overlay blank areas with small geometric figures or faces or any other image"
+    },
+    {
+      "label": "Low vision rehabilitation",
+      "children": [
+        {
+          "label": "visual effects of AMD",
+          "children": [
+            {
+              "label": "central scotomas"
+            },
+            {
+              "label": "visual release hallucinations (Charles Bonnet syndrome)"
+            }
+          ]
+        },
+        {
+          "label": "magnification",
+          "children": [
+            {
+              "label": "high-plus lenses"
+            },
+            {
+              "label": "video magnifiers"
+            }
+          ]
+        },
+        {
+          "label": "optimal lighting"
+        },
+        {
+          "label": "contrast enhancement techniques"
+        },
+        {
+          "label": "use of eccentric fixation outside the area of scotoma",
+          "children": [
+            {
+              "label": "adding PDT to ranibizumab reduced re-treatment rates but visual outcomes were inferior"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Photodynamic therapy (“cold laser”)",
+      "children": [
+        {
+          "label": "technique",
+          "children": [
+            {
+              "label": "intravenous administration of photo-sensitizing drug verteporfin"
+            },
+            {
+              "label": "application of light of a specific wavelength"
+            },
+            {
+              "label": "light incites localized photochemical reaction in targeted area",
+              "children": [
+                {
+                  "label": "CNV thrombosis"
+                }
+              ]
+            },
+            {
+              "label": "rare"
+            }
+          ]
+        },
+        {
+          "label": "slows CNV progression"
+        },
+        {
+          "label": "does not prevent significant vision loss in most eyes with CNV"
+        },
+        {
+          "label": "upregulates VEGF in treatment area"
+        },
+        {
+          "label": "rarely used",
+          "children": [
+            {
+              "label": "except for the most recalcitrant cases or for eyes with PCV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Combination treatment",
+      "children": [
+        {
+          "label": "RADICAL"
+        },
+        {
+          "label": "DENALI"
+        },
+        {
+          "label": "adding radiation to ranibizumab therapy may reduce injection burden but visual outcomes are inferior"
+        },
+        {
+          "label": "combination strategy (anti-VEGF + PDT) beneficial in some cases of PCV recalcitrant to anti-VEGF therapy alone"
+        }
+      ]
+    },
+    {
+      "label": "Surgical treatments",
+      "children": [
+        {
+          "label": "intravitreal or subretinal tissue plasminogen activator injection with pneumatic displacement",
+          "children": [
+            {
+              "label": "for thick submacular hemorrhage"
+            }
+          ]
+        },
+        {
+          "label": "submacular surgery",
+          "children": [
+            {
+              "label": "removal of the CNV from beneath the fovea"
+            }
+          ]
+        },
+        {
+          "label": "macular translocation surgery",
+          "children": [
+            {
+              "label": "fovea is moved over to an area of healthier RPE",
+              "children": [
+                {
+                  "label": "largely abandoned today"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Neovascular AMD (IV) - Management II - Other Therapies.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 62,
+      "connector_rejected": 0,
+      "connector_edges": 51,
+      "connector_width": 0.727,
+      "text_labels": 47,
+      "tree_nodes": 47,
+      "component_roots": 7,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.8226,
+      "root_font_size": 7.273,
+      "warnings": []
+    }
+  }
+}

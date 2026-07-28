@@ -1,0 +1,699 @@
+{
+  "label": "4.14.5. Orbit (V): Neoplasia (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Nerve sheath tumors",
+      "children": [
+        {
+          "label": "Neurofibroma",
+          "children": [
+            {
+              "label": "most common nerve sheath tumor"
+            },
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "slow-growing"
+                },
+                {
+                  "label": "firm/rubbery",
+                  "children": [
+                    {
+                      "label": "endoneural fibroblasts"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "cells",
+                  "children": [
+                    {
+                      "label": "Schwann cells"
+                    },
+                    {
+                      "label": "axons"
+                    }
+                  ]
+                },
+                {
+                  "label": "arranged in ribbons/cords"
+                },
+                {
+                  "label": "matrix of myxoid tissue and collagen",
+                  "children": [
+                    {
+                      "label": "contains axons"
+                    }
+                  ]
+                },
+                {
+                  "label": "not encapsulated"
+                }
+              ]
+            },
+            {
+              "label": "chromosome 9p rearrangement"
+            },
+            {
+              "label": "isolated neurofibromas",
+              "children": [
+                {
+                  "label": "no systemic involvement"
+                }
+              ]
+            },
+            {
+              "label": "plexiform neurofibromas",
+              "children": [
+                {
+                  "label": "neurofibromatosis type 1"
+                },
+                {
+                  "label": "S-shaped deformity of upper eyelid"
+                },
+                {
+                  "label": "CCN1 gene",
+                  "children": [
+                    {
+                      "label": "CCNs",
+                      "children": [
+                        {
+                          "label": "matricellular proteins",
+                          "children": [
+                            {
+                              "label": "connect cell surface and extracellular matrix"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Neurilemoma (schwannoma)",
+          "children": [
+            {
+              "label": "arise from Schwann cells"
+            },
+            {
+              "label": "slow growing",
+              "children": [
+                {
+                  "label": "encapsulated"
+                }
+              ]
+            },
+            {
+              "label": "associations",
+              "children": [
+                {
+                  "label": "solitary"
+                },
+                {
+                  "label": "associated with neurofibromatosis"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "patterns",
+                  "children": [
+                    {
+                      "label": "Antoni A pattern",
+                      "children": [
+                        {
+                          "label": "interlacing whorls/cords/palisades of spindle cells"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Antoni B pattern",
+                      "children": [
+                        {
+                          "label": "mucoid stroma",
+                          "children": [
+                            {
+                              "label": "Verocay bodies",
+                              "children": [
+                                {
+                                  "label": "fibrils resembling sensory corpuscles"
+                                }
+                              ]
+                            },
+                            {
+                              "label": "stellate cells"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "cysts"
+                },
+                {
+                  "label": "hemorrhagic necrosis"
+                },
+                {
+                  "label": "prominent thick-walled vessels",
+                  "children": [
+                    {
+                      "label": "in contrast to neurofibromas"
+                    }
+                  ]
+                },
+                {
+                  "label": "no axons"
+                }
+              ]
+            },
+            {
+              "label": "immunohistochemistry",
+              "children": [
+                {
+                  "label": "S-100"
+                },
+                {
+                  "label": "vimentin"
+                },
+                {
+                  "label": "CD68"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Tumors with fibrous proliferation",
+      "children": [
+        {
+          "label": "Fibrous histiocytoma (fibroxanthoma)",
+          "children": [
+            {
+              "label": "similar to embryonal RMS"
+            },
+            {
+              "label": "adults",
+              "children": [
+                {
+                  "label": "median age=43 years",
+                  "children": [
+                    {
+                      "label": "6 mo - 85 years"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "upper nasal orbit"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "fibroblasts",
+                  "children": [
+                    {
+                      "label": "storiform/whorly/matlike pattern"
+                    }
+                  ]
+                },
+                {
+                  "label": "histiocytes"
+                },
+                {
+                  "label": "immunohistochemistry",
+                  "children": [
+                    {
+                      "label": "CD45"
+                    },
+                    {
+                      "label": "CD68"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "clinical behavior",
+              "children": [
+                {
+                  "label": "benign",
+                  "children": [
+                    {
+                      "label": "most common"
+                    }
+                  ]
+                },
+                {
+                  "label": "intermediate"
+                },
+                {
+                  "label": "malignant",
+                  "children": [
+                    {
+                      "label": "high mitosis rate",
+                      "children": [
+                        {
+                          "label": ".>1/HPF"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "nuclear pleomorphism"
+                    },
+                    {
+                      "label": "necrosis"
+                    },
+                    {
+                      "label": "<10% have metastatic potential"
+                    }
+                  ]
+                },
+                {
+                  "label": "locally aggressive"
+                }
+              ]
+            },
+            {
+              "label": "difficult to distinguish, clinically and histologically, from hemangiopericytoma"
+            }
+          ]
+        },
+        {
+          "label": "Hemangiopericytoma",
+          "children": [
+            {
+              "label": "solitary fibrous tumor is part of hemangiopericytoma spectrum"
+            },
+            {
+              "label": "uncommon"
+            },
+            {
+              "label": "adults",
+              "children": [
+                {
+                  "label": "median age=42 years"
+                }
+              ]
+            },
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "proptosis",
+                  "children": [
+                    {
+                      "label": "similar to adenoid cystic carcinoma of lacrimal gland",
+                      "children": [
+                        {
+                          "label": "similar to fibrous histiocytoma"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "diplopia",
+                  "children": [
+                    {
+                      "label": "pain"
+                    }
+                  ]
+                },
+                {
+                  "label": "decreased visual acuity",
+                  "children": [
+                    {
+                      "label": "staghorn vascular pattern"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "pathology",
+              "children": [
+                {
+                  "label": "hypervascular"
+                },
+                {
+                  "label": "hypercellular",
+                  "children": [
+                    {
+                      "label": "plump pericytes that surround a rich capillary network"
+                    },
+                    {
+                      "label": "densely packed spindle-shaped cells"
+                    },
+                    {
+                      "label": "reticulin stain",
+                      "children": [
+                        {
+                          "label": "individual tumor cells wrapped in collagenous material"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "encapsulated"
+                },
+                {
+                  "label": "no correlation between mitotic rate and clinical behavior",
+                  "children": [
+                    {
+                      "label": "microscopically “benign” lesions may recur and metastasize"
+                    },
+                    {
+                      "label": "microscopically “malignant” lesions may remain localized"
+                    },
+                    {
+                      "label": "high mitosis rate"
+                    }
+                  ]
+                },
+                {
+                  "label": "immunohistochemistry",
+                  "children": [
+                    {
+                      "label": "CD34"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "resembles cavernous hemangiomas on CT and MRI"
+            },
+            {
+              "label": "clinical behavior",
+              "children": [
+                {
+                  "label": "benign",
+                  "children": [
+                    {
+                      "label": "?"
+                    },
+                    {
+                      "label": "most common"
+                    }
+                  ]
+                },
+                {
+                  "label": "intermediate"
+                },
+                {
+                  "label": "malignant",
+                  "children": [
+                    {
+                      "label": "infiltrating border"
+                    },
+                    {
+                      "label": "anaplasia"
+                    },
+                    {
+                      "label": "necrosis",
+                      "children": [
+                        {
+                          "label": "may recur, undergo malignant degeneration, or metastasize"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "complete excision"
+                },
+                {
+                  "label": "appear bluish intraoperatively"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bony lesions",
+      "children": [
+        {
+          "label": "Fibrous dysplasia",
+          "children": [
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "monostotic"
+                },
+                {
+                  "label": "polyostotic"
+                }
+              ]
+            },
+            {
+              "label": "orbital involvment is monostotic"
+            },
+            {
+              "label": "first 3 decades"
+            },
+            {
+              "label": "may cross suture lines"
+            },
+            {
+              "label": "narrowing of optic canal"
+            },
+            {
+              "label": "narrowing of lacrimal drainage system"
+            },
+            {
+              "label": "plain radiograph",
+              "children": [
+                {
+                  "label": "ground-glass appearance"
+                },
+                {
+                  "label": "lytic foci"
+                },
+                {
+                  "label": "cysts containing fluid"
+                }
+              ]
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "bony trabeculae",
+                  "children": [
+                    {
+                      "label": "immature woven bone"
+                    },
+                    {
+                      "label": "C-shaped"
+                    }
+                  ]
+                },
+                {
+                  "label": "highly vascularized fibrous stroma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Fibro-osseus dysplasia (juvenile ossifying fibroma)",
+          "children": [
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "bone spicules",
+                  "children": [
+                    {
+                      "label": "rimmed by osteoblasts"
+                    }
+                  ]
+                },
+                {
+                  "label": "cellular fibrous stroma"
+                }
+              ]
+            },
+            {
+              "label": "differential diagnosis",
+              "children": [
+                {
+                  "label": "psammomatous meningioma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "osseous/cartilaginous tumors",
+          "children": [
+            {
+              "label": "osteoma",
+              "children": [
+                {
+                  "label": "most common"
+                },
+                {
+                  "label": "slow growing"
+                },
+                {
+                  "label": "well circumscribed"
+                },
+                {
+                  "label": "mature bone"
+                },
+                {
+                  "label": "frontal sinus"
+                }
+              ]
+            },
+            {
+              "label": "osteoblastoma"
+            },
+            {
+              "label": "giant cell tumor"
+            },
+            {
+              "label": "chondroma"
+            },
+            {
+              "label": "Ewing sarcoma"
+            },
+            {
+              "label": "osteogenic sarcoma"
+            },
+            {
+              "label": "chondrosarcoma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Smooth muscle tumors",
+      "children": [
+        {
+          "label": "rare"
+        },
+        {
+          "label": "Leiomyoma",
+          "children": [
+            {
+              "label": "4th and 5th decade"
+            },
+            {
+              "label": "proptosis",
+              "children": [
+                {
+                  "label": "slowly progressive"
+                }
+              ]
+            },
+            {
+              "label": "spindle cells",
+              "children": [
+                {
+                  "label": "nuclei",
+                  "children": [
+                    {
+                      "label": "blunt-ended"
+                    },
+                    {
+                      "label": "cigar-shaped"
+                    }
+                  ]
+                },
+                {
+                  "label": "cytoplasm",
+                  "children": [
+                    {
+                      "label": "filamentous"
+                    },
+                    {
+                      "label": "trichrome-positive"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Leiomyosarcoma",
+          "children": [
+            {
+              "label": "7th decade"
+            },
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "have more",
+                  "children": [
+                    {
+                      "label": "cellularity"
+                    },
+                    {
+                      "label": "necrosis"
+                    },
+                    {
+                      "label": "nuclear pleomorphism"
+                    },
+                    {
+                      "label": "mitotic figures"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.14.5. Orbit (V) - Neoplasia (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 351,
+      "connector_rejected": 10,
+      "connector_edges": 240,
+      "connector_width": 1.223,
+      "text_labels": 178,
+      "tree_nodes": 178,
+      "component_roots": 4,
+      "spatially_recovered_labels": 3,
+      "connector_match_ratio": 0.6838,
+      "root_font_size": 4.279,
+      "warnings": []
+    }
+  }
+}

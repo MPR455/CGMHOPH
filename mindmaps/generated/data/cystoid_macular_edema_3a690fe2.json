@@ -1,0 +1,304 @@
+{
+  "label": "Cystoid Macular Edema",
+  "root": true,
+  "children": [
+    {
+      "label": "definition",
+      "children": [
+        {
+          "label": "intraretinal edema contained in honeycomb-like cystoid spaces"
+        }
+      ]
+    },
+    {
+      "label": "pathogenesis",
+      "children": [
+        {
+          "label": "abnormal perifoveal retinal capillary permeability"
+        }
+      ]
+    },
+    {
+      "label": "Rare causes of cystic macular change",
+      "children": [
+        {
+          "label": "nicotinic acid maculopathy"
+        },
+        {
+          "label": "X-linked hereditary retinoschisis"
+        },
+        {
+          "label": "Goldmann-Favre disease"
+        },
+        {
+          "label": "retinitis pigmentosa"
+        }
+      ]
+    },
+    {
+      "label": "imaging",
+      "children": [
+        {
+          "label": "fluorescein angiography",
+          "children": [
+            {
+              "label": "multiple small focal fluorescein leaks and late pooling of the dye in extracellular cystoid spaces"
+            },
+            {
+              "label": "“flower-petal” (petaloid) pattern"
+            }
+          ]
+        },
+        {
+          "label": "OCT",
+          "children": [
+            {
+              "label": "diffuse retinal thickening with cystic areas of low reflectivity",
+              "children": [
+                {
+                  "label": "more prominently in the inner nuclear and outer plexiform layers"
+                }
+              ]
+            },
+            {
+              "label": "subretinal fluid accumulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Incidence",
+      "children": [
+        {
+          "label": "cataract surgery",
+          "children": [
+            {
+              "label": "intracapsular lens extraction",
+              "children": [
+                {
+                  "label": "60%"
+                }
+              ]
+            },
+            {
+              "label": "Intraocular lens implantation at the time of extracapsular surgery does not appear to increase the incidence of CME"
+            },
+            {
+              "label": "peak incidence 6–10 weeks postoperatively"
+            },
+            {
+              "label": "spontaneous resolution in ≈ 95%",
+              "children": [
+                {
+                  "label": "usually within 6 months"
+                }
+              ]
+            },
+            {
+              "label": "2 types",
+              "children": [
+                {
+                  "label": "clinical CME",
+                  "children": [
+                    {
+                      "label": "severe cases",
+                      "children": [
+                        {
+                          "label": "vitreous cells"
+                        },
+                        {
+                          "label": "optic nerve head swelling"
+                        },
+                        {
+                          "label": "permanent vision loss"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "angiographic CME",
+                  "children": [
+                    {
+                      "label": "apparent only on fluorescein angiography"
+                    },
+                    {
+                      "label": "mild and asymptomatic"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "predisposing factors after cataract surgery",
+          "children": [
+            {
+              "label": "predisposing diseases"
+            },
+            {
+              "label": "degree of postoperative inflammation"
+            },
+            {
+              "label": "presence or absence of surgical complications",
+              "children": [
+                {
+                  "label": "vitreous loss"
+                },
+                {
+                  "label": "iris prolapse"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "histology",
+      "children": [
+        {
+          "label": "swelling in and between müllerian glia"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Pharmacologic therapy",
+          "children": [
+            {
+              "label": "combination of topical corticosteroids and NSAIDs",
+              "children": [
+                {
+                  "label": "for prophylaxis"
+                },
+                {
+                  "label": "for established edema"
+                }
+              ]
+            },
+            {
+              "label": "periocular steroid",
+              "children": [
+                {
+                  "label": "for cases refractory to topical therapy"
+                }
+              ]
+            },
+            {
+              "label": "intraocular steroid"
+            }
+          ]
+        },
+        {
+          "label": "chronic CME",
+          "children": [
+            {
+              "label": "systemic acetazolamide",
+              "children": [
+                {
+                  "label": "especially in cases associated with retinitis pigmentosa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "for vitreous adhesions to the iris or corneoscleral wound",
+          "children": [
+            {
+              "label": "interruption of vitreous strands by vitrectomy or Nd:YAG laser"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "etiology",
+      "children": [
+        {
+          "label": "diabetic retinopathy"
+        },
+        {
+          "label": "central and branch retinal vein occlusion"
+        },
+        {
+          "label": "uveitis"
+        },
+        {
+          "label": "retinitis pigmentosa"
+        },
+        {
+          "label": "ocular surgery",
+          "children": [
+            {
+              "label": "cataract extraction",
+              "children": [
+                {
+                  "label": "Irvine-Gass Syndrome"
+                }
+              ]
+            },
+            {
+              "label": "retinal detachment surgery"
+            },
+            {
+              "label": "vitrectomy"
+            },
+            {
+              "label": "glaucoma procedures"
+            },
+            {
+              "label": "photocoagulation"
+            },
+            {
+              "label": "cryopexy"
+            }
+          ]
+        },
+        {
+          "label": "prostaglandin analogues"
+        },
+        {
+          "label": "subretinal disease processes",
+          "children": [
+            {
+              "label": "choroidal neovascularization"
+            },
+            {
+              "label": "choroidal hemangioma"
+            },
+            {
+              "label": "subclinical retinal detachment"
+            }
+          ]
+        },
+        {
+          "label": "niacin"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Retina/Cystoid Macular Edema.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 124,
+      "connector_rejected": 9,
+      "connector_edges": 86,
+      "connector_width": 1.76,
+      "text_labels": 75,
+      "tree_nodes": 75,
+      "component_roots": 8,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6935,
+      "root_font_size": 7.629,
+      "warnings": []
+    }
+  }
+}

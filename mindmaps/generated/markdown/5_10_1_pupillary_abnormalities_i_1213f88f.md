@@ -1,0 +1,111 @@
+---
+title: "5.10.1. Pupillary Abnormalities (I)"
+category: "Neuroophthalmology"
+subcategory: ""
+source_pdf: "MindmapPDF/Neuroophthalmology/5.10.1. Pupillary Abnormalities (I).pdf"
+---
+
+# 5.10.1. Pupillary Abnormalities (I)
+
+## Hierarchy
+
+- History
+  - patient may not be aware of pupil abnormality
+    - especially dark-colored irides
+  - symptoms
+    - photophobia
+    - difficulty focusing when going from dark to light or light to dark
+    - blurring of vision
+  - clinician should inquire about
+    - new medications
+    - ocular infections
+    - face or neck trauma
+    - headache or facial pain
+    - change in eyelid position
+- Pupil Irregularity
+  - congenital iris malformations
+    - coloboma
+    - aniridia
+  - blunt trauma
+    - focal tears in the sphincter muscle.
+    - iridodialysis
+  - intraocular inflammation
+    - synechiae
+  - iris neovascularization
+  - surgical procedures
+    - cataract surgery
+      - leading cause of a misshapen pupil in an adult
+  - tadpole pupil
+    - focal spasm of the iris dilator muscle
+      - peaking of the pupil
+    - lasts a few minutes
+    - may occur numerous times over several days or a week
+    - spontaneous resolution
+    - small percentage harbor underlying sympathetic lesion
+      - pharmacologic testing for Horner syndrome is recommended !
+  - midbrain corectopia
+    - eccentric or oval pupils
+    - rostral midbrain disease
+      - incomplete damage of the pupillary fibers
+- Pupillary Examination
+  - inspection of previous photographs
+  - pupil size
+    - shine a handheld light obliquely from below the nose
+    - patient should fixate on a distant target
+      - do not block the patient’s fixation!
+    - poor vision in 1 eye is never a cause of anisocoria
+  - pupillary light reflex
+    - briefly shine a bright focal light onto 1 pupil and note the speed and amplitude of its constriction
+  - pupillary near response
+    - accommodative target with fine detail
+    - moderate room light
+      - patient’s pupils are midsize and the near object is clearly visible
+    - requires sufficient patient effort
+      - “practice runs” may be needed
+      - a better response is obtained if auditory input is added to the visual stimulus
+      - a lack of near response usually indicates that the patient is not trying hard enough
+  - slit-lamp examination
+    - an essential part of the pupillary examination
+    - acute corneal injury
+      - small pupil in the presence of ciliary spasm
+    - anterior chamber inflammation
+      - small pupil in the presence of ciliary spasm
+    - transillumination iris defects
+      - iris damage from previous trauma, infection, or inflammation
+    - angle-closure glaucoma
+      - dilated pupil
+    - sectoral paralysis of the iris sphincter
+      - tonic pupil
+      - aberrant regeneration of the oculomotor nerve
+      - placing a wide beam at an angle to the iris and turning the light off and on while observing one sector of the sphincter at a time under high magnification
+  - white pupil (leukocoria)
+    - persistent hyperplastic primary vitreous
+    - retinopathy of prematurity
+    - cataract
+    - retinoblastoma
+      - 20%
+  - pharmacologic agents
+    - can be used to confirm a clinical suspicion of
+      - Horner syndrome
+      - tonic pupil
+      - pharmacologic mydriasis
+    - false-positive and false-negative test results can occur
+- Baseline Pupil Size
+  - resting pupil size is influenced by
+    - ambient light
+    - retinal adaptation
+    - level of arousal
+      - sleepiness causes small pupils
+    - patient age
+      - pupils become smaller with age
+  - extremely small pupils
+    - pontine hemorrhage
+    - narcotic intoxication
+    - pilocarpine use
+  - extremely large pupils
+    - parasympathetic pharmacologic blockade
+    - stimulants
+    - high anxiety
+    - generalized tonic-clonic seizure
+      - dilated pupil
+    - elevated intraocular pressure

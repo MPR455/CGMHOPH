@@ -1,0 +1,206 @@
+{
+  "label": "9.6.4. Noninfectious Ocular Inflammatory Diseases (IV): Chronic Anterior Uveitis (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Fuchs heterochromic uveitis",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "2-3% of patients referred to uveitis clinics"
+            }
+          ]
+        },
+        {
+          "label": "clinical persentation",
+          "children": [
+            {
+              "label": "unilateral"
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "asymptomatic"
+                },
+                {
+                  "label": "mild blurring and discomfort"
+                }
+              ]
+            },
+            {
+              "label": "diffuse iris stromal atrophy (variable pigment epithelial layer atrophy)",
+              "children": [
+                {
+                  "label": "heterochromia",
+                  "children": [
+                    {
+                      "label": "usually a lighter-colored iris indicates the involved eye"
+                    },
+                    {
+                      "label": "may be subtle in a brown-eyed patient"
+                    },
+                    {
+                      "label": "in blue-eyed persons the affected eye may become darker"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "small, white, stellate KPs scattered diffusely over the entire endothelium"
+            },
+            {
+              "label": "cells in the anterior chamber & anterior vitreous",
+              "children": [
+                {
+                  "label": "lack of synechiae"
+                },
+                {
+                  "label": "some patients may experience visual disability as a result of extensive vitreous opacification",
+                  "children": [
+                    {
+                      "label": "may need pars plana vitrectomy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "cataract"
+            },
+            {
+              "label": "glaucoma"
+            },
+            {
+              "label": "macular edema",
+              "children": [
+                {
+                  "label": "abnormal vessels bridging the angle",
+                  "children": [
+                    {
+                      "label": "may bleed during cataract surgery, resulting in postoperative hyphema"
+                    }
+                  ]
+                },
+                {
+                  "label": "seldom"
+                }
+              ]
+            },
+            {
+              "label": "fundus scars and retinal periphlebitis",
+              "children": [
+                {
+                  "label": "rare"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "etiology",
+          "children": [
+            {
+              "label": "association with ocular toxoplasmosis, HSV, rubella, and CMV infection"
+            }
+          ]
+        },
+        {
+          "label": "Histologic examination",
+          "children": [
+            {
+              "label": "plasma cells in the ciliary body"
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "cataract surgery",
+              "children": [
+                {
+                  "label": "generally do well"
+                },
+                {
+                  "label": "IOLs can be implanted successfully"
+                }
+              ]
+            },
+            {
+              "label": "glaucoma control can be difficult"
+            },
+            {
+              "label": "few cases require therapy for inflammation",
+              "children": [
+                {
+                  "label": "prognosis is good in most cases even when the inflammation persists for decades"
+                },
+                {
+                  "label": "topical corticosteroids can lessen the inflammation but typically do not resolve it"
+                },
+                {
+                  "label": "cycloplegia",
+                  "children": [
+                    {
+                      "label": "seldom necessary"
+                    }
+                  ]
+                },
+                {
+                  "label": "aggressive treatment to eradicate the cellular reaction is not indicated"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Introduction",
+      "children": [
+        {
+          "label": "relapses <3 months after discontinuation of therapy"
+        },
+        {
+          "label": "usually starts insidiously"
+        },
+        {
+          "label": "variable amounts of redness, discomfort, and photophobia, inflammation",
+          "children": [
+            {
+              "label": "some patients have no symptoms"
+            }
+          ]
+        },
+        {
+          "label": "unilateral or bilateral"
+        },
+        {
+          "label": "CME is common"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.4. Noninfectious Ocular Inflammatory Diseases (IV) Chronic Anterior Uveitis (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 97,
+      "connector_rejected": 2,
+      "connector_edges": 61,
+      "connector_width": 1.103,
+      "text_labels": 49,
+      "tree_nodes": 49,
+      "component_roots": 2,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6289,
+      "root_font_size": 3.861,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,751 @@
+{
+  "label": "4.19.2. Retinoblastoma (II)",
+  "root": true,
+  "children": [
+    {
+      "label": "Classification",
+      "children": [
+        {
+          "label": "Reese-Ellsworth classification",
+          "children": [
+            {
+              "label": "probability of eye preservation after external beam radiation alone"
+            },
+            {
+              "label": "groups I-V"
+            },
+            {
+              "label": "based on",
+              "children": [
+                {
+                  "label": "tumor size"
+                },
+                {
+                  "label": "tumor number"
+                },
+                {
+                  "label": "tumor location"
+                },
+                {
+                  "label": "vitreous seeding"
+                }
+              ]
+            },
+            {
+              "label": "does not stage extraocular RB"
+            },
+            {
+              "label": "does not provide prognostic information about",
+              "children": [
+                {
+                  "label": "patient survival"
+                },
+                {
+                  "label": "vision"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "International classification",
+          "children": [
+            {
+              "label": "for response to chemotherapy"
+            },
+            {
+              "label": "groups A-E"
+            },
+            {
+              "label": "based on",
+              "children": [
+                {
+                  "label": "tumor size"
+                },
+                {
+                  "label": "subretinal fluid"
+                },
+                {
+                  "label": "extent of vitreous seeding"
+                },
+                {
+                  "label": "extent of subretinal seeding"
+                }
+              ]
+            },
+            {
+              "label": "unsalvageable (group E)",
+              "children": [
+                {
+                  "label": "anterior chamber involvement"
+                },
+                {
+                  "label": "ciliary body involvement"
+                },
+                {
+                  "label": "neovascular glaucoma"
+                },
+                {
+                  "label": "vitreous hemorrhage/hyphema"
+                },
+                {
+                  "label": "phthisis/pre-phthisis"
+                },
+                {
+                  "label": "orbital cellulitis-like presentation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Prognosis",
+      "children": [
+        {
+          "label": "95% survival in developed countries"
+        },
+        {
+          "label": "risk factors for death",
+          "children": [
+            {
+              "label": "extraocular tumor extension",
+              "children": [
+                {
+                  "label": "scleral invasion"
+                },
+                {
+                  "label": "optic nerve invastion",
+                  "children": [
+                    {
+                      "label": "especially to resected margin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "choroidal invasion",
+              "children": [
+                {
+                  "label": "significance of this finding is subject of debate"
+                }
+              ]
+            },
+            {
+              "label": "bilateral tumors",
+              "children": [
+                {
+                  "label": "association with primary intracranial tumors"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "non-ocular malignancies",
+          "children": [
+            {
+              "label": "increased incidence in patients with bilateral RB (germline mutation)",
+              "children": [
+                {
+                  "label": "no exposure to EBR",
+                  "children": [
+                    {
+                      "label": "25% within 50 years"
+                    },
+                    {
+                      "label": "20% within 20 years"
+                    },
+                    {
+                      "label": "up to 40% develop third malignancy within 20 years"
+                    }
+                  ]
+                },
+                {
+                  "label": "exposure to EBR",
+                  "children": [
+                    {
+                      "label": "decreased latency period"
+                    },
+                    {
+                      "label": "increased incidence of second cancers"
+                    },
+                    {
+                      "label": "increased incidence of second cancers in head & neck"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "latency",
+              "children": [
+                {
+                  "label": "9 years (mean)"
+                }
+              ]
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "pinealoma",
+                  "children": [
+                    {
+                      "label": "osteogenic sarcoma",
+                      "children": [
+                        {
+                          "label": "most common"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "cutaneous melanoma"
+                },
+                {
+                  "label": "soft tissue sarcomas"
+                },
+                {
+                  "label": "primitive unclassifiable tumors"
+                }
+              ]
+            },
+            {
+              "label": "survival in patients with sarcoma",
+              "children": [
+                {
+                  "label": "<50%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Spontaneous regression",
+          "children": [
+            {
+              "label": "histology",
+              "children": [
+                {
+                  "label": "diagnostic!"
+                },
+                {
+                  "label": "phthisis"
+                },
+                {
+                  "label": "vitreous cavity filled with islands of calcified cells embedded in fibroconnective tissue"
+                },
+                {
+                  "label": "exuberant proliferation of RPE and ciliary epithelia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "enucleation",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "tumor >50% of globe"
+                },
+                {
+                  "label": "suspected orbital or optic nerve involvement"
+                },
+                {
+                  "label": "anterior segment involvement"
+                },
+                {
+                  "label": "neovascular glaucoma"
+                },
+                {
+                  "label": "limited visual potential"
+                }
+              ]
+            },
+            {
+              "label": "obtain the greatest length of optic nerve",
+              "children": [
+                {
+                  "label": "avoid inadvertent globe penetration"
+                },
+                {
+                  "label": ".>10 mm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "chemotherapy",
+          "children": [
+            {
+              "label": "drug regimen",
+              "children": [
+                {
+                  "label": "carboplatin"
+                },
+                {
+                  "label": "vincristine"
+                },
+                {
+                  "label": "etoposide"
+                },
+                {
+                  "label": "cyclosporine"
+                },
+                {
+                  "label": "every 3-4 weeks x 4-9 cycles"
+                }
+              ]
+            },
+            {
+              "label": "reduces tumor volume"
+            },
+            {
+              "label": "consolidative focal therapy",
+              "children": [
+                {
+                  "label": "laser"
+                },
+                {
+                  "label": "cryotherapy"
+                },
+                {
+                  "label": "radiotherapy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "local chemotherapy",
+          "children": [
+            {
+              "label": "subconjunctival carboplatin",
+              "children": [
+                {
+                  "label": "vitreous seeds and retinal tumors respond"
+                },
+                {
+                  "label": "complications",
+                  "children": [
+                    {
+                      "label": "orbital myositis"
+                    },
+                    {
+                      "label": "periocular fibrosis"
+                    },
+                    {
+                      "label": "optic neuropathy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "selective canalization of the ophthalmic artery with local chemotherapy"
+            }
+          ]
+        },
+        {
+          "label": "photocoagulation",
+          "children": [
+            {
+              "label": "green laser",
+              "children": [
+                {
+                  "label": "532 nm"
+                }
+              ]
+            },
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "<3 mm in apical height"
+                },
+                {
+                  "label": "<10 mm in basal dimensions"
+                },
+                {
+                  "label": "posteriorly located tumors"
+                }
+              ]
+            },
+            {
+              "label": "technique",
+              "children": [
+                {
+                  "label": "2-3 rows of encircling retinal photocoagulation"
+                },
+                {
+                  "label": "direct confluent treatment of tumor surface"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "hyperthermia",
+          "children": [
+            {
+              "label": "diode laser",
+              "children": [
+                {
+                  "label": "810 nm"
+                }
+              ]
+            },
+            {
+              "label": "tumor temperature 45-60 degrees celsius"
+            },
+            {
+              "label": "direct cytotoxic effect",
+              "children": [
+                {
+                  "label": "augmented by chemotherapy and radiation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cryotherapy",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "<3 mm in apical height"
+                },
+                {
+                  "label": "<10 mm in basal dimensions"
+                },
+                {
+                  "label": "anteriorly located tumors"
+                }
+              ]
+            },
+            {
+              "label": "triple freeze-thaw"
+            }
+          ]
+        },
+        {
+          "label": "external beam radiation (EBR)",
+          "children": [
+            {
+              "label": "technique",
+              "children": [
+                {
+                  "label": "focused megavoltage radiation"
+                },
+                {
+                  "label": "lens-sparing technique"
+                },
+                {
+                  "label": "4000-4500 cGy over 4-6 weeks"
+                }
+              ]
+            },
+            {
+              "label": "indication",
+              "children": [
+                {
+                  "label": "bilateral disease not amenable to laser/ cryotherapy"
+                }
+              ]
+            },
+            {
+              "label": "result",
+              "children": [
+                {
+                  "label": "85% globe salvage rate"
+                },
+                {
+                  "label": "excellent visual outcome"
+                }
+              ]
+            },
+            {
+              "label": "limitations",
+              "children": [
+                {
+                  "label": "increased risk of second primary malignancies (in patients with germline RB1 mutation)"
+                },
+                {
+                  "label": "radiation-related sequelae",
+                  "children": [
+                    {
+                      "label": "midface hypoplasia"
+                    },
+                    {
+                      "label": "cataract"
+                    },
+                    {
+                      "label": "optic neuropathy/retinopathy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "combined modality therapy",
+              "children": [
+                {
+                  "label": "lower-dose EBR + chemotherapy",
+                  "children": [
+                    {
+                      "label": "increased globe conservation"
+                    },
+                    {
+                      "label": "decreased radiation morbidity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "systemic chemotherapy may delay need for EBR",
+              "children": [
+                {
+                  "label": "decreased risk of orbital hypoplasia"
+                },
+                {
+                  "label": "decreased risk of second malignancies"
+                },
+                {
+                  "label": "after age 1 year"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "plaque radiotherapy",
+          "children": [
+            {
+              "label": "indications",
+              "children": [
+                {
+                  "label": "salvage therapy",
+                  "children": [
+                    {
+                      "label": "after failure of globe-conserving therapies"
+                    }
+                  ]
+                },
+                {
+                  "label": "primary treatment",
+                  "children": [
+                    {
+                      "label": "basal diameter<16 mm"
+                    },
+                    {
+                      "label": "thickness<8 mm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "isotopes",
+              "children": [
+                {
+                  "label": "iodine 125"
+                },
+                {
+                  "label": "ruthenium 106",
+                  "children": [
+                    {
+                      "label": "+- greater likelihood of radiation optic neuropathy/retinopathy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "compared wtih EBR",
+              "children": [
+                {
+                  "label": "+- lower incidence of radiation-induced second malignancies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "targeted therapy",
+          "children": [
+            {
+              "label": "gene therapy",
+              "children": [
+                {
+                  "label": "adenoviral-mediated transfection of tumor cells with thymidine kinase"
+                },
+                {
+                  "label": "renders tumor susceptible to systemically administered ganciclovir"
+                }
+              ]
+            },
+            {
+              "label": "small-molecule inhibition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Associated conditons",
+      "children": [
+        {
+          "label": "Retinocytoma",
+          "children": [
+            {
+              "label": "clinically indistinguishable from retinoblastoma"
+            },
+            {
+              "label": "developmental biology",
+              "children": [
+                {
+                  "label": "retinoblastoma that has undergone differentiation"
+                },
+                {
+                  "label": "benign counterpart of retinoblastoma"
+                }
+              ]
+            },
+            {
+              "label": "carries the same genetic implications as retinoblastoma"
+            }
+          ]
+        },
+        {
+          "label": "Trilateral retinoblastoma",
+          "children": [
+            {
+              "label": "definition",
+              "children": [
+                {
+                  "label": "bilateral RB + ectopic intracranial RB"
+                }
+              ]
+            },
+            {
+              "label": "location",
+              "children": [
+                {
+                  "label": "pineal gland",
+                  "children": [
+                    {
+                      "label": "\"pinealoblastoma\""
+                    }
+                  ]
+                },
+                {
+                  "label": "parasellar region"
+                }
+              ]
+            },
+            {
+              "label": "incidence",
+              "children": [
+                {
+                  "label": "5% of children with germline RB1 mutation"
+                },
+                {
+                  "label": "systemic chemotherapy may decrease incidence of trilateral RB"
+                }
+              ]
+            },
+            {
+              "label": "presents months to years after treatment of intraocular RB"
+            },
+            {
+              "label": "ectopic intracranial RB is primary, NOT metastatic",
+              "children": [
+                {
+                  "label": "not associated with metastatic disease elsewhere in the body"
+                },
+                {
+                  "label": "demonstrate features of differentiation"
+                },
+                {
+                  "label": "evidence of photoreceptor differentiation in the pineal gland"
+                }
+              ]
+            },
+            {
+              "label": "screening",
+              "children": [
+                {
+                  "label": "all patients with RB should undergo baseline neuroimaging"
+                },
+                {
+                  "label": "patients with RB1 germline mutation should undergo serial neuroimaging",
+                  "children": [
+                    {
+                      "label": "bilateral RB"
+                    },
+                    {
+                      "label": "unilateral multifocal RB"
+                    },
+                    {
+                      "label": "unilateral RB with positive family history"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "neuroimaging technique",
+              "children": [
+                {
+                  "label": "MRI with & without contrast"
+                }
+              ]
+            },
+            {
+              "label": "median survival",
+              "children": [
+                {
+                  "label": "8 months"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.19.2. Retinoblastoma (II).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 384,
+      "connector_rejected": 4,
+      "connector_edges": 252,
+      "connector_width": 1.311,
+      "text_labels": 194,
+      "tree_nodes": 194,
+      "component_roots": 4,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6562,
+      "root_font_size": 4.371,
+      "warnings": []
+    }
+  }
+}

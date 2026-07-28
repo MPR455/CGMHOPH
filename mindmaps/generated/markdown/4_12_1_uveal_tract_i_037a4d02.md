@@ -1,0 +1,238 @@
+---
+title: "4.12.1. Uveal Tract (I)"
+category: "Pathology & Tumors"
+subcategory: ""
+source_pdf: "MindmapPDF/Pathology and tumor/4.12.1. Uveal Tract (I).pdf"
+---
+
+# 4.12.1. Uveal Tract (I)
+
+## Hierarchy
+
+- Infectious inflammations
+  - exogenous
+  - endogenous
+  - histology
+    - mixed acute and chronic inflammatory infiltrate
+    - granulomatous inflammation (epithelioid histiocytes)
+      - viral
+      - fungal
+      - protozoal
+- Topography
+  - embryology
+    - mesoderm
+    - neural crest
+  - strongest uveoscleral attachments
+    - major emissary channels
+      - vortex vein exit points
+    - anterior base of ciliary body
+      - scleral spur
+    - juxtapapillary region
+  - iris
+    - anterior border layer
+      - condensation of iris stroma & melanocytes
+      - crypts
+    - stroma
+      - blood vessels
+        - thick collar of collagen
+      - nerves
+      - melanocytes
+        - determine iris color
+      - fibrocytes
+      - clump cells
+        - macrophages
+          - type I clump cells of Koganei
+        - smooth muscle cells
+          - type II clump cells
+    - muscular layer
+      - sphincter muscle
+      - dilator muscle
+        - derived from anterior layer of pigment epithelium
+    - anterior & posterior pigment epithelium
+      - double layer of cuboidal cells
+      - apex-to-apex configuration
+      - packed with melanin granules
+  - ciliary body
+    - double layer of epithelial cells
+      - inner nonpigmented layer
+      - outer pigmented layer
+    - smooth muscle
+      - radial
+      - longitudinal (Brucke muscle)
+      - circular (Muller muscle)
+  - choroid
+    - lamina fusca (suprachoroid layer)
+    - stroma
+    - choriocarpillaris
+- Degenerations
+  - Iris neovascularization (rubeosis iridis)
+    - lack supporting fibrous cuff
+    - fibrous membrane component
+      - myofibroblasts
+    - neovascularization of angle
+      - peripheral anterior synechiae
+        - neovascular glaucoma
+    - ectropion uveae
+    - flattened iris surface
+    - atrophy of dilator muscle
+    - attenuation of iris pigment epithelium
+    - iris stromal fibrosis
+    - etiology
+      - CRVO
+      - CRAO
+      - BRVO
+      - carotid occlusive disease
+      - infectious/noninfectious uveitis
+      - retinal detachment
+      - Coats disease
+      - secondary glaucoma
+      - retinal detachment surgery
+      - radiation
+      - diabetes mellitus
+      - sickle cell disease
+      - retinoblastoma
+      - uveal melanoma
+      - metastatic carcinoma
+      - trauma
+- not pathognomonic
+  - VKH syndrome
+- Congenital anomalies
+  - Aniridia
+    - bilateral
+    - usually incomplete
+      - rudimentary rim of iris tissue
+    - histology
+      - rim of underdeveloped ectodermal- mesodermal neural crest elements
+      - underdeveloped angle
+      - peripheral anterior synechiae
+        - overgrowth of corneal endothelium
+    - ocular associations
+      - glaucoma
+        - 50%–75%
+        - rudimentary iris stump rotates anteriorly to progressively cover the trabecular meshwork
+          - synechial angle closure
+          - second decade of life or later
+          - closely follow the angle with serial gonioscopy
+        - primary maldevelopment of the drainage angle
+          - elevated IOP at a younger age
+      - cataract
+        - anterior and posterior polar lens opacities
+          - present at birth
+        - cortical, subcapsular, and lamellar opacities
+          - develop in 50%–85%
+          - within the first 2 decades
+      - ectopia lentis
+        - poor zonular integrity
+      - corneal pannus
+      - foveal and optic nerve hypoplasia
+      - nystagmus
+    - genetics
+      - familial
+        - 2/3
+        - AD
+          - PAX6
+        - few cases of Wilms tumor are seen in the familial form
+      - sporadic
+        - 1/3
+        - 20% associated with a large chromosomal deletion that includes the Wilms tumor 1 gene (WT1)
+          - 11p13 deletion
+          - tumor suppressor gene
+            - increased risk of Wilms tumor
+    - aniridia associated with systemic abnormalities
+      - WAGR syndrome
+        - 13% of patients with aniridia
+        - autosomal dominant
+        - Wilms tumor
+        - aniridia
+        - genitourinary anomalies
+        - mental retardation
+      - Gillespie syndrome
+        - 2% of patients with aniridia
+        - autosomal recessive
+        - cerebellar ataxia
+        - intellectual disability
+    - management
+      - prophylactic goniosurgery
+        - infants with a strong family history of aniridic glaucoma
+      - goniosurgery
+        - young children with progressive angle narrowing
+        - if the angle is not fully closed
+      - trabeculectomy
+      - glaucoma drainage devices
+      - cyclophotocoagulation
+  - Coloboma
+    - absence of part or all of iris, ciliary body, choroid or all 3 layers
+- Noninfectious inflammations
+  - Sympathetic ophthalmia
+    - phases
+      - trauma to 1 eye
+        - exciting/inciting eye
+      - latent period
+        - 9 days - 50 years
+      - uveitis in the other eye
+        - sympathizing eye
+    - histology
+      - diffuse granulomatous inflammation
+        - lymphocytes
+        - epithelioid histiocytes
+          - contain phagocytosed melanin pigment
+        - scant plasma cells
+          - choriocapillaris spared
+        - AC inflammation
+          - histiocyte deposits on corneal endothelium
+            - mutton-fat KP
+        - Dalen-Fuchs nodules
+          - between RPE and Bruch membrane
+            - lymphocytes
+            - epithelioid histiocytes
+  - VKH syndrome
+    - demographics
+      - asian/native american ancestry
+      - 30-50 yr
+    - histology
+      - diffuse chronic granulomatous uveitis
+        - does not spare choriocapillaris
+      - +- granulomatous retinal inflammation
+      - RPE hyperplasia/atrophy
+  - Sarcoidosis
+    - uvea is the most common site of ocular involvement
+      - clinical
+        - iris nodules
+          - at pupillary margin
+            - Keoppe nodules
+          - elsewhere on iris
+            - Busacca nodules
+        - chorioretinitis
+        - periphlebitis
+          - candlewax drippings
+        - chorioretinal nodules
+        - optic nerve inflammation
+      - histology
+        - sarcoid nodule
+          - noncaseating granuloma
+            - epithelioid histiocytes
+            - ± multinucleated giant cells
+              - star-shaped acidophilic bodies
+              - spherical, basophilic, calcified bodies
+                - asteroid bodies
+                  - not pathognomonic
+                  - Schaumann bodies
+            - cuff of lymphocytes
+            - no central necrosis
+              - noncaseating
+        - granulomatous uveal inflammation
+          - epithelioid histiocytes
+          - lymphocytes
+  - Juvenile xanthogranuloma
+    - children
+    - skin
+    - uvea
+      - iris
+        - spontaneous hyphema
+    - histology
+      - lipid-laden (foamy) histiocytes
+      - Touton giant cells
+      - lymphocytes
+      - eosinophils
+        - ring of nuclei surrounding a central homogeneous cytoplasm, while foamy cytoplasm surrounds the nuclei
+      - fragile blood vessels

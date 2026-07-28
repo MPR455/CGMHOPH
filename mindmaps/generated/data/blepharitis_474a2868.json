@@ -1,0 +1,461 @@
+{
+  "label": "Blepharitis",
+  "root": true,
+  "children": [
+    {
+      "label": "Case Description",
+      "children": [
+        {
+          "label": "30-year-old man with chronic redness and burning sensation of the eyelids"
+        },
+        {
+          "label": "Image Description",
+          "children": [
+            {
+              "label": "hard, brittle fibrinous scales and crusts surrounding individual cilia (collarettes) on the anterior eyelid margin without lash loss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data acquisition",
+      "children": [
+        {
+          "label": "History",
+          "children": [
+            {
+              "label": "onset & course of symptoms",
+              "children": [
+                {
+                  "label": "worse upon awakening"
+                }
+              ]
+            },
+            {
+              "label": "rosacea"
+            },
+            {
+              "label": "exacerbating foods/drinks (rosacea)",
+              "children": [
+                {
+                  "label": "hot beverages",
+                  "children": [
+                    {
+                      "label": "coffee"
+                    },
+                    {
+                      "label": "tea"
+                    }
+                  ]
+                },
+                {
+                  "label": "spicy foods"
+                },
+                {
+                  "label": "tobacco"
+                },
+                {
+                  "label": "vasodilators"
+                },
+                {
+                  "label": "alcohol"
+                },
+                {
+                  "label": "emotional stress"
+                }
+              ]
+            },
+            {
+              "label": "prior treatment"
+            }
+          ]
+        },
+        {
+          "label": "Physical Exam",
+          "children": [
+            {
+              "label": "external exam",
+              "children": [
+                {
+                  "label": "facial telangiectasia"
+                },
+                {
+                  "label": "rhinophyma"
+                },
+                {
+                  "label": "lid margin thickening & telangiectasia"
+                }
+              ]
+            },
+            {
+              "label": "slit lamp",
+              "children": [
+                {
+                  "label": "collarette/scurf/sleeve"
+                },
+                {
+                  "label": "lid margin ulceration",
+                  "children": [
+                    {
+                      "label": "Staph blepharitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "corneal pannus"
+                },
+                {
+                  "label": "marginal corneal ulcer"
+                },
+                {
+                  "label": "lash loss",
+                  "children": [
+                    {
+                      "label": "sebaceous cell carcinoma"
+                    }
+                  ]
+                },
+                {
+                  "label": "preauricular LAP"
+                },
+                {
+                  "label": "dendrites"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Assessment",
+      "children": [
+        {
+          "label": "blepharitis (Staphyloccocal)"
+        }
+      ]
+    },
+    {
+      "label": "Differential Diagnosis",
+      "children": [
+        {
+          "label": "blepharitis",
+          "children": [
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "itching, burning, FB sensation",
+                  "children": [
+                    {
+                      "label": "in contrast to dry eye syndrome"
+                    }
+                  ]
+                },
+                {
+                  "label": "worse upon awakening"
+                }
+              ]
+            },
+            {
+              "label": "signs",
+              "children": [
+                {
+                  "label": "crusting"
+                },
+                {
+                  "label": "red, thickened lid margins with prominent blood vessels"
+                }
+              ]
+            },
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "seborrheic",
+                  "children": [
+                    {
+                      "label": "anterior lid margin"
+                    },
+                    {
+                      "label": "scurf",
+                      "children": [
+                        {
+                          "label": "oily or greasy"
+                        },
+                        {
+                          "label": "does not surround eyelashes"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Staph",
+                  "children": [
+                    {
+                      "label": "anterior lid margin"
+                    },
+                    {
+                      "label": "collarettes",
+                      "children": [
+                        {
+                          "label": "surround eyelashes"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "meibomian gland dysfunction",
+                  "children": [
+                    {
+                      "label": "inspissated oil glands at posterior lid margin"
+                    },
+                    {
+                      "label": "commonly associated with rosacea"
+                    },
+                    {
+                      "label": "causes evaporative dry eye"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "demodicosis",
+          "children": [
+            {
+              "label": "cylindrical sleeves"
+            }
+          ]
+        },
+        {
+          "label": "herpes simplex blepharoconjunctivitis"
+        },
+        {
+          "label": "toxic blepharoconjunctivitis"
+        },
+        {
+          "label": "sebaceous cell carcinoma"
+        },
+        {
+          "label": "pediculosis"
+        }
+      ]
+    },
+    {
+      "label": "Treatment",
+      "children": [
+        {
+          "label": "Medical",
+          "children": [
+            {
+              "label": "lid hygiene",
+              "children": [
+                {
+                  "label": "warm compress",
+                  "children": [
+                    {
+                      "label": "bid-qid"
+                    },
+                    {
+                      "label": "5-10 min"
+                    }
+                  ]
+                },
+                {
+                  "label": "wash/scrub eyelid margin",
+                  "children": [
+                    {
+                      "label": "bid"
+                    },
+                    {
+                      "label": "mild shampoo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "erythromycin ointment (azithromycin gel)",
+              "children": [
+                {
+                  "label": "qhs"
+                },
+                {
+                  "label": "for moderate-severe cases"
+                }
+              ]
+            },
+            {
+              "label": "doxycycline (azithromycin)",
+              "children": [
+                {
+                  "label": "inhibits MMP"
+                },
+                {
+                  "label": "x 1-2 weeks",
+                  "children": [
+                    {
+                      "label": "taper to1/4 full dose",
+                      "children": [
+                        {
+                          "label": "continue x 3-6 months"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "omega-3 fatty acid oral supplementation"
+            },
+            {
+              "label": "cyclosporine 0.05% drops"
+            },
+            {
+              "label": "preservative-free artificial tears",
+              "children": [
+                {
+                  "label": "for dry eye"
+                }
+              ]
+            },
+            {
+              "label": "tea-tree oil eyelid scrub",
+              "children": [
+                {
+                  "label": "for demodex"
+                }
+              ]
+            },
+            {
+              "label": "metronidazole gel",
+              "children": [
+                {
+                  "label": "for facial rosacea"
+                }
+              ]
+            },
+            {
+              "label": "treat chalazia",
+              "children": [
+                {
+                  "label": "medical"
+                },
+                {
+                  "label": "incision & drainage"
+                }
+              ]
+            },
+            {
+              "label": "avoid ocular steroids in patients with ocular rosacea",
+              "children": [
+                {
+                  "label": "can cause corneal thinning & perforation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "do not prescribe tetracycline for",
+      "children": [
+        {
+          "label": "children ≤8 years"
+        },
+        {
+          "label": "nursing women"
+        },
+        {
+          "label": "pregnant women"
+        }
+      ]
+    },
+    {
+      "label": "Patient Education",
+      "children": [
+        {
+          "label": "Course",
+          "children": [
+            {
+              "label": "chronic",
+              "children": [
+                {
+                  "label": "needs longterm treatment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "dos",
+          "children": [
+            {
+              "label": "minimize sun exposure if using oral tetracycline"
+            }
+          ]
+        },
+        {
+          "label": "Don’ts",
+          "children": [
+            {
+              "label": "avoid exacerbating foods/ drinks",
+              "children": [
+                {
+                  "label": "alcohol"
+                },
+                {
+                  "label": "spicy foods",
+                  "children": [
+                    {
+                      "label": "if rosacea"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Follow-up",
+          "children": [
+            {
+              "label": "2-4 weeks",
+              "children": [
+                {
+                  "label": "taper treatment as symptoms improve"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Case example_External eye and adenexa/Blepharitis.pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 206,
+      "connector_rejected": 17,
+      "connector_edges": 130,
+      "connector_width": 1.414,
+      "text_labels": 114,
+      "tree_nodes": 114,
+      "component_roots": 7,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.6311,
+      "root_font_size": 6.599,
+      "warnings": []
+    }
+  }
+}

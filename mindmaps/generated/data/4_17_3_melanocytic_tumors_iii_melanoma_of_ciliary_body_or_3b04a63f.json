@@ -1,0 +1,634 @@
+{
+  "label": "4.17.3. Melanocytic Tumors (III): Melanoma of ciliary body or choroid (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Demographics",
+      "children": [
+        {
+          "label": "6-7 cases per million/year",
+          "children": [
+            {
+              "label": "most common primary intraocular malignant tumors in adults"
+            }
+          ]
+        },
+        {
+          "label": "50s and early 60s",
+          "children": [
+            {
+              "label": "light-colored complexion"
+            }
+          ]
+        },
+        {
+          "label": "risk factors",
+          "children": [
+            {
+              "label": "ocular/oculodermal melanocytosis"
+            },
+            {
+              "label": "genetic predisposition",
+              "children": [
+                {
+                  "label": "dysplastic nevus syndrome"
+                }
+              ]
+            },
+            {
+              "label": "cigarette smoking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Clinical",
+      "children": [
+        {
+          "label": "Ciliary body melanoma",
+          "children": [
+            {
+              "label": "asymptomatic in early stages"
+            },
+            {
+              "label": "not visible unless pupil is widely dilated"
+            },
+            {
+              "label": "erode through iris root",
+              "children": [
+                {
+                  "label": "anterior chamber invasion"
+                }
+              ]
+            },
+            {
+              "label": "extend through sclera",
+              "children": [
+                {
+                  "label": "extraocular extension",
+                  "children": [
+                    {
+                      "label": "dark epibulbar mass"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "dilated episcleral sentinel vessel"
+            },
+            {
+              "label": "subluxated lens"
+            },
+            {
+              "label": "secondary glaucoma"
+            },
+            {
+              "label": "retinal detachment"
+            },
+            {
+              "label": "iris neovascularization"
+            },
+            {
+              "label": "diffuse growth pattern",
+              "children": [
+                {
+                  "label": "ring melanoma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Choroidal melanoma",
+          "children": [
+            {
+              "label": "variable pigmentation"
+            },
+            {
+              "label": "shape",
+              "children": [
+                {
+                  "label": "dome-shaped"
+                },
+                {
+                  "label": "mushroom-shaped",
+                  "children": [
+                    {
+                      "label": "Bruch membrane rupture"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "orange pigment"
+            },
+            {
+              "label": "hemorrhage",
+              "children": [
+                {
+                  "label": "subretinal"
+                },
+                {
+                  "label": "vitreous"
+                },
+                {
+                  "label": "mushroom-shaped tumors"
+                }
+              ]
+            },
+            {
+              "label": "secondary angle-closure glaucoma",
+              "children": [
+                {
+                  "label": "anterior displacement of lens-iris diaphragm"
+                },
+                {
+                  "label": "neovascularization of iris"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Differential diagnosis",
+      "children": [
+        {
+          "label": "choroidal nevus",
+          "children": [
+            {
+              "label": "no single clinical characteristic is pathognomonic of choroidal melanoma"
+            },
+            {
+              "label": "management within ocular oncology centers enhances outcome"
+            }
+          ]
+        },
+        {
+          "label": "age-related macular degeneration",
+          "children": [
+            {
+              "label": "clinical",
+              "children": [
+                {
+                  "label": "subretinal neovascularization/fibrosis with variable pigmentation"
+                },
+                {
+                  "label": "hemorrhage",
+                  "children": [
+                    {
+                      "label": "commonly associated with disciform lesions"
+                    },
+                    {
+                      "label": "uncommon with melanoma unless tumor extends through Bruch membrane"
+                    }
+                  ]
+                },
+                {
+                  "label": "signs of AMD in the other eye"
+                },
+                {
+                  "label": "involution with serial observation"
+                }
+              ]
+            },
+            {
+              "label": "ancillary testing",
+              "children": [
+                {
+                  "label": "fluorescein angiography",
+                  "children": [
+                    {
+                      "label": "virtually pathognomonic",
+                      "children": [
+                        {
+                          "label": "early hypofluorescence (blockage by blood)"
+                        },
+                        {
+                          "label": "late hyperfluorescence"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "ultrasonography",
+                  "children": [
+                    {
+                      "label": "increased heterogeneity"
+                    },
+                    {
+                      "label": "lack of intrinsic vascularity"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Congential hypertrophy of retinal and pigment epithelium",
+          "children": [
+            {
+              "label": "solitary",
+              "children": [
+                {
+                  "label": "flat"
+                },
+                {
+                  "label": "well-defined"
+                },
+                {
+                  "label": "1mm - >10 mm"
+                },
+                {
+                  "label": "asymptomatic"
+                },
+                {
+                  "label": "young patient",
+                  "children": [
+                    {
+                      "label": "homogeneously black"
+                    }
+                  ]
+                },
+                {
+                  "label": "older patient",
+                  "children": [
+                    {
+                      "label": "lacunae develop"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "multiple",
+              "children": [
+                {
+                  "label": "bear tracks",
+                  "children": [
+                    {
+                      "label": "grouped pigmentation of the retina"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "melanocytoma",
+          "children": [
+            {
+              "label": "dark-brown to black"
+            },
+            {
+              "label": "fibrillar margin"
+            },
+            {
+              "label": "eccentric location over the optic disc"
+            },
+            {
+              "label": "+- elevated"
+            },
+            {
+              "label": "peripapillary nevus component",
+              "children": [
+                {
+                  "label": "1/3"
+                }
+              ]
+            },
+            {
+              "label": "minimal growth",
+              "children": [
+                {
+                  "label": "10%/5 year"
+                }
+              ]
+            },
+            {
+              "label": "afferent pupillary defect"
+            },
+            {
+              "label": "visual field abnormalities"
+            }
+          ]
+        },
+        {
+          "label": "suprachoroidal detachment",
+          "children": [
+            {
+              "label": "types",
+              "children": [
+                {
+                  "label": "hemorrhagic",
+                  "children": [
+                    {
+                      "label": "dome-shaped"
+                    },
+                    {
+                      "label": "multiple quadrants"
+                    },
+                    {
+                      "label": "breakthrough vitreous bleeding"
+                    }
+                  ]
+                },
+                {
+                  "label": "serous"
+                }
+              ]
+            },
+            {
+              "label": "associated with hypotony",
+              "children": [
+                {
+                  "label": "after ophthalmic surgery"
+                }
+              ]
+            },
+            {
+              "label": "ancillary testing",
+              "children": [
+                {
+                  "label": "ultrasonography",
+                  "children": [
+                    {
+                      "label": "absence of intrinsic vascularity"
+                    },
+                    {
+                      "label": "evolution of hemorrhage over time"
+                    }
+                  ]
+                },
+                {
+                  "label": "MRI with gadolinium",
+                  "children": [
+                    {
+                      "label": "in selected cases to document characteristic changes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "observational management"
+            }
+          ]
+        },
+        {
+          "label": "choroidal osteoma",
+          "children": [
+            {
+              "label": "juxtapapillary choroid"
+            },
+            {
+              "label": "adolescent to young adults"
+            },
+            {
+              "label": "F>M"
+            },
+            {
+              "label": "+- bilateral",
+              "children": [
+                {
+                  "label": "20-25%"
+                }
+              ]
+            },
+            {
+              "label": "yellow-orange"
+            },
+            {
+              "label": "well-defined margins"
+            },
+            {
+              "label": "slow enlargement"
+            },
+            {
+              "label": "subretinal neovascularization is a common complication"
+            },
+            {
+              "label": "ultrasonography",
+              "children": [
+                {
+                  "label": "high-amplitude echo"
+                },
+                {
+                  "label": "loss of orbital echoes behind lesion"
+                }
+              ]
+            },
+            {
+              "label": "calcification on CT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Diagnostic evaluation",
+      "children": [
+        {
+          "label": "indirect ophthalmoscopy",
+          "children": [
+            {
+              "label": "gold standard"
+            },
+            {
+              "label": "if opaque media",
+              "children": [
+                {
+                  "label": "ultrasonography"
+                },
+                {
+                  "label": "CT"
+                },
+                {
+                  "label": "MRI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "slit lamp biomicroscopy"
+        },
+        {
+          "label": "gonioscopy"
+        },
+        {
+          "label": "ultrasound biomicroscopy",
+          "children": [
+            {
+              "label": "iris/ciliary body tumors"
+            }
+          ]
+        },
+        {
+          "label": "ultrasonography",
+          "children": [
+            {
+              "label": "most important ancillary tool"
+            },
+            {
+              "label": "difficult to differentiate necrotic melanoma from",
+              "children": [
+                {
+                  "label": "subretinal hematoma"
+                },
+                {
+                  "label": "metastatic carcinoma"
+                }
+              ]
+            },
+            {
+              "label": "A-scan",
+              "children": [
+                {
+                  "label": "solid tumor pattern",
+                  "children": [
+                    {
+                      "label": "high amplitude initial echoes"
+                    },
+                    {
+                      "label": "low amplitude internal echoes",
+                      "children": [
+                        {
+                          "label": "low internal reflectivity"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "spontaneous vascular pulsations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B-scan",
+              "children": [
+                {
+                  "label": "highly reflective anterior border"
+                },
+                {
+                  "label": "acoustic hollowness"
+                },
+                {
+                  "label": "choroidal excavation"
+                },
+                {
+                  "label": "+- orbial shadowing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "transillumination",
+          "children": [
+            {
+              "label": "ciliary body/anterior choroidal melanomas",
+              "children": [
+                {
+                  "label": "degree of pigmentation"
+                },
+                {
+                  "label": "basal diameter"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "fundus photography",
+          "children": [
+            {
+              "label": "documenting appearance"
+            },
+            {
+              "label": "identifying interval change"
+            }
+          ]
+        },
+        {
+          "label": "fluorescein angiography",
+          "children": [
+            {
+              "label": "no pathognomonic patterns"
+            }
+          ]
+        },
+        {
+          "label": "CT/MRI",
+          "children": [
+            {
+              "label": "opaque media"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Classification",
+      "children": [
+        {
+          "label": "size",
+          "children": [
+            {
+              "label": "tumor volume"
+            },
+            {
+              "label": "tumor thickness"
+            },
+            {
+              "label": "tumor basal diameter"
+            },
+            {
+              "label": "collaborative ocular melanoma study (COMS)"
+            }
+          ]
+        },
+        {
+          "label": "staging",
+          "children": [
+            {
+              "label": "clinical features"
+            },
+            {
+              "label": "pathologic features"
+            },
+            {
+              "label": "American joint committee on cancer (AJCC)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Pathology and tumor/4.17.3. Melanocytic Tumors (III) - Melanoma of ciliary body or choroid (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 330,
+      "connector_rejected": 12,
+      "connector_edges": 217,
+      "connector_width": 1.159,
+      "text_labels": 163,
+      "tree_nodes": 163,
+      "component_roots": 5,
+      "spatially_recovered_labels": 0,
+      "connector_match_ratio": 0.6576,
+      "root_font_size": 3.865,
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,268 @@
+---
+title: "4.5.3. Conjunctiva (III)"
+category: "Pathology & Tumors"
+subcategory: ""
+source_pdf: "MindmapPDF/Pathology and tumor/4.5.3. Conjunctiva (III).pdf"
+---
+
+# 4.5.3. Conjunctiva (III)
+
+## Hierarchy
+
+- Lymphocytic lesions
+  - normal conjunctival follicles
+    - mucosa-associated lymphoid tissue
+    - structure
+      - germinal center
+      - corona
+        - mantle zone
+        - marginal zone
+  - benign lymphoid folliculosis
+    - children/adolescents
+    - bilateral prominent follicles in the inferior fornix
+    - differential diagnosis
+      - follicular conjunctivitis
+  - lymphoproliferative conditions
+    - salmon color
+    - benign or malignant
+      - only biopsy can differentiate benign from malignant
+    - unilateral or bilateral
+    - areas involved
+      - (inferior) forniceal
+      - caruncular
+      - tarsal
+      - bulbar
+      - may have orbital component
+    - biopsy sample
+      - formalin
+        - H & E stain
+        - immunohistochemistry
+        - 4-5 mm
+      - saline/special flow cytometry medium
+        - 4-5 mm
+    - benign lymphoid hyperplasia
+      - lymphoid follicles
+        - germinal center
+        - corona
+          - small mature lymphocytes
+      - some eventually develop lymphoma
+    - lymphoma
+      - sheet of lymphocytes
+        - no follicles
+      - extranodal marginal zone lymphoma
+        - arises from marginal zone
+        - most common
+        - low-grade
+        - B-cells>T-cells
+        - monoclonality
+          - in-situ hybridization
+            - for immunoglobulin light chain clonality (kappa vs lambda)
+          - flow cytometry
+            - more sensitive than ISH
+          - IgH gene rearrangement by PCR
+            - on fresh or formalin-fixed tissue
+        - fluorescent in-situ hybridization
+          - shows genetic translocations
+            - t(3;14) involving FOXP1 gene
+              - MALT lymphoma
+      - follicular lymphoma
+        - arises from germinal center
+      - mantle-cell lymphoma
+        - arises from mantle zone
+      - others
+        - diffuse large B-cell lymphoma
+        - hodgkin lymphoma
+        - burkitt lymphoma
+        - plasmacytoma
+        - T-cell lymphoma
+      - association with systemic lymphoma
+        - 2/3 are isolated
+        - high-grade lymphomas have greater frequency of systemic lymphoma
+          - mantle cell lymphoma>MALT lymphoma
+        - all patients need systemic work-up by oncologist
+      - microbial association
+        - chlamydia psittaci
+        - chlamydia pneumoniae
+        - chlamydia trachomatis
+        - helicobacter pylori
+        - viruses
+          - E-B virus
+          - hepatitis C
+      - treatment
+        - isolated
+          - radiation
+        - systemic lymphoma
+          - chemotherapy
+        - oral doxycycline
+      - prognosis
+        - depends on subtype of lymphoma
+          - good for low-grade lymphomas
+          - systemic lymphoma
+            - 20% disease-free survival at 5 years
+          - no systemic lymphoma
+            - 75-100% remission at 10 years
+              - average relapse time >5 years
+        - risk factors for lymphoma-related death
+          - advanced clinical stage
+          - age>60 years
+          - extent of p53 positivity
+          - MIB-1 positivity
+            - cell proliferation marker
+  - Glandular lesions
+    - Oncocytoma
+      - caruncle
+      - elderly women
+      - tan-red vascularized nodule
+      - differential diagnosis
+        - squamous
+        - melanocytic
+        - lymphocytic
+          - oxyphilic (eosinophilic) cystadenoma
+        - amyloid
+      - adenoma
+        - apocrine cystadenoma
+      - histology
+        - proliferation of apocrine epithelium (glands of Moll)
+          - eosinophilic cytoplasm
+        - Glandlike (cystic) spaces/lumina
+- Melanocytic lesions
+  - conjunctival nevi
+    - demographics
+      - children
+    - clinical features
+      - bulbar conjunctiva
+        - beware of pigmented conjunctival lesions involving palpebral conjunctiva
+      - +- pigmentation
+        - become more pigmented at puberty
+    - histology
+      - nested pattern of melanocytes
+      - epithelial inclusion cysts
+      - phases
+        - junctional
+          - interface between epithelium and substantia propria
+          - nests (theques)
+        - descend into substantia propria
+      - histologic types
+        - junctional
+          - only at the epithelial-stromal junction
+        - compound
+          - both junctional & subepithelial
+          - epithelial inclusion cysts
+        - subepithelial/stromal
+          - only in the substantia propria
+      - clinical variants
+        - blue nevus
+          - blue-gray to blue-black
+          - melanocytes in deep stroma
+          - spindly morphology
+            - similar to uveal nevi
+          - ocular melanocytosis is a form of blue nevus
+          - ocular/dermal melanocytosis
+            - unilateral
+            - darkly pigmented individuals
+            - deep episclera/sclera
+              - slate-gray color
+              - ocular melanocytosis
+            - uveal tract
+              - iris hyperchromia
+              - choroidal hyperchromia
+            - periocular skin
+              - dermal melanocytosis
+              - oculodermal melanocytosis/Nevus of Ota
+            - +- orbital melanocytosis
+            - GNAQ mutation
+            - malignant transformation into melanoma
+              - usually uveal melanoma
+            - secondary glaucoma
+  - Intraepithelial melanosis
+    - Benign acquired melanosis (BAM)
+      - bilateral
+      - young adults
+      - darkly pigmented individuals
+      - involved areas
+        - bulbar conjunctiva
+        - limbus
+        - cornea
+          - striate melanokeratosis
+        - caruncle
+        - palpebral conjunctiva
+      - histology
+        - proliferation of benign melanocytes along the basal epithelial layer
+    - Primary acquired melanosis (PAM)
+      - unilateral
+      - middle-aged adults
+      - lightly pigmented individuals
+      - • slowly enlarge
+      - • transformation into melanoma
+      - management
+        - <1 clock hour
+          - observe
+        - .>3 clock hours
+          - excise
+        - caruncle, fornix, palpebral conjunctiva
+          - excise
+        - extensive disease
+          - consider mitomycin-C
+      - classification
+        - PAM without atypia
+          - similar to BAM
+            - no cellular atypia
+            - limited to basal epithelial layer
+            - no risk of malignant transformation
+        - PAM with aypia
+          - migrates into more superficial epithelium
+            - pagetoid spread
+            - full-thickness epithelial involvement
+              - melanoma in-situ
+          - discohesiveness
+          - epithelioid cells
+            - hyperchromatic nuclei
+            - prominent nucleoli
+          - • mitosis
+          - • chronic inflammation
+  - Melanoma
+    - predisposing lesions
+      - PAM
+        - 50-70%
+      - nevus
+        - 20%
+      - de novo
+        - 10%
+    - clinical features
+      - nodular growth
+      - intrinsic vascularity
+      - pigmentation
+        - melanotic
+        - amelanotic
+          - even from pigmented PAM
+    - histology
+      - spindle to epithelioid cell morphology
+      - +- mitosis
+    - lymphatic spread
+      - preauricular, submandibular, cervical lymph nodes
+      - lung, liver, brain, bone, skin
+    - unfavorable prognostic features
+      - non-epibulbar location
+      - greater tumor thickness
+      - scleral invasion
+      - positive lateral margin
+      - poor prognostic indicators
+        - not involving the limbus
+          - location in the palpebral conjunctiva, caruncle, or fornix
+        - involvement of the eyelid margin
+        - melanomas arising de novo
+        - thickness >1.8 mm
+        - invasion into deeper tissues
+        - residual involvement at the surgical margins
+        - pagetoid or full-thickness intraepithelial spread
+        - lymphatic invasion
+        - mixed cell type
+    - treatment
+      - excision
+    - mortality
+      - 15-30%
+    - differential diagnosis
+      - extraocular extension of ciliary body melanoma
+        - sub-conjunctival
+        - no adjacent PAM
+      - metastatic cutaneous melanoma

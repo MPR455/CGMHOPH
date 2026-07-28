@@ -1,0 +1,701 @@
+{
+  "label": "9.6.3. Anterior Uveitis (III)",
+  "root": true,
+  "children": [
+    {
+      "label": "Tubulointerstitial nephritis and uveitis syndrome (TINU)",
+      "children": [
+        {
+          "label": "epidemiology",
+          "children": [
+            {
+              "label": "women < early 30s",
+              "children": [
+                {
+                  "label": "mean age of onset 21 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "anterior uveitis",
+              "children": [
+                {
+                  "label": "bilateral"
+                },
+                {
+                  "label": "nongranulomatous"
+                },
+                {
+                  "label": "ocular findings more severe in patients with recurrent disease",
+                  "children": [
+                    {
+                      "label": "fibrin, posterior synechiae, larger KPs, and, rarely, hypopyon"
+                    }
+                  ]
+                },
+                {
+                  "label": "posterior segment involvement is atypical",
+                  "children": [
+                    {
+                      "label": "mild vitritis"
+                    },
+                    {
+                      "label": "optic nerve and macular edema"
+                    }
+                  ]
+                },
+                {
+                  "label": "more commonly uveitis develops before systemic symptoms of TIN"
+                }
+              ]
+            },
+            {
+              "label": "diagnostic criteria for TIN",
+              "children": [
+                {
+                  "label": "abnormal serum creatinine level or decreased creatinine clearance"
+                },
+                {
+                  "label": "abnormal urinalysis findings: increased β2- microglobulin level, proteinuria, presence of eosinophils, pyuria or hematuria, urinary white cell casts, and normoglycemic glycosuria"
+                },
+                {
+                  "label": "associated systemic illness: fever, weight loss, anorexia, fatigue, arthralgias, and myalgias; there may also be abnormal liver function, eosinophilia, and an elevated erythrocyte sedimentation rate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "seroreactivity against retinal and renal antigens"
+            }
+          ]
+        },
+        {
+          "label": "pathology",
+          "children": [
+            {
+              "label": "severe interstitial fibrosis",
+              "children": [
+                {
+                  "label": "strongly associated with HLA-DRB1*0102"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "very responsive to high-dose oral corticosteroids"
+            },
+            {
+              "label": "immunomodulatory therapy",
+              "children": [
+                {
+                  "label": "small proportion of patients"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Drug-induced uveitis",
+      "children": [
+        {
+          "label": "rifabutin",
+          "children": [
+            {
+              "label": "antibiotic used in the prevention/ treatment of Mycobacterium avium-intracellulare infection"
+            },
+            {
+              "label": "anterior & posterior uveitis",
+              "children": [
+                {
+                  "label": "+- hypopyon",
+                  "children": [
+                    {
+                      "label": "reversible"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "stellate, refractile endothelial deposits",
+              "children": [
+                {
+                  "label": "initially in the periphery; may extend to the central cornea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "systemic fluoroquinolones",
+          "children": [
+            {
+              "label": "especially moxifloxacin"
+            },
+            {
+              "label": "iris depigmentation and uveitis"
+            }
+          ]
+        },
+        {
+          "label": "sulfonamides"
+        },
+        {
+          "label": "bisphosphonates"
+        },
+        {
+          "label": "diethylcarbamazine",
+          "children": [
+            {
+              "label": "antifilarial drug",
+              "children": [
+                {
+                  "label": "loiasis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "oral contraceptives"
+        },
+        {
+          "label": "certain anti-TNF drugs (eg, etanercept)",
+          "children": [
+            {
+              "label": "new-onset uveitis and a systemic sarcoid-like syndrome"
+            }
+          ]
+        },
+        {
+          "label": "vaccines",
+          "children": [
+            {
+              "label": "BCG"
+            },
+            {
+              "label": "influenza"
+            }
+          ]
+        },
+        {
+          "label": "tuberculin skin test"
+        },
+        {
+          "label": "Intravesical BCG vaccine",
+          "children": [
+            {
+              "label": "treatment of bladder cancer"
+            },
+            {
+              "label": "can result in an infectious uveitis"
+            }
+          ]
+        },
+        {
+          "label": "topical antiglaucoma medications",
+          "children": [
+            {
+              "label": "metipranolol",
+              "children": [
+                {
+                  "label": "nonselective beta-blocking drug"
+                }
+              ]
+            },
+            {
+              "label": "anticholinesterase inhibitors"
+            },
+            {
+              "label": "prostaglandin F2α analogues"
+            }
+          ]
+        },
+        {
+          "label": "drugs that are injected directly into the eye",
+          "children": [
+            {
+              "label": "antibiotics"
+            },
+            {
+              "label": "urokinase (a plasminogen activator)"
+            },
+            {
+              "label": "cidofovir",
+              "children": [
+                {
+                  "label": "cytosine analogue effective against CMV"
+                }
+              ]
+            },
+            {
+              "label": "VEGF inhibitors"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "topical corticosteroids and cycloplegic drugs"
+            },
+            {
+              "label": "cessation/tapering of the offending medication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Glaucomatocyclitic crisis (Posner- Schlossman syndrome)",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "infection with herpetic viruses (CMV)"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "vague symptoms",
+              "children": [
+                {
+                  "label": "discomfort"
+                },
+                {
+                  "label": "blurred vision"
+                },
+                {
+                  "label": "halos"
+                }
+              ]
+            },
+            {
+              "label": "signs",
+              "children": [
+                {
+                  "label": "markedly elevated iop"
+                },
+                {
+                  "label": "corneal edema"
+                },
+                {
+                  "label": "low-grade cell and flare"
+                },
+                {
+                  "label": "slightly dilated pupil"
+                }
+              ]
+            },
+            {
+              "label": "episodes last from hours to days"
+            },
+            {
+              "label": "recurrences are common over many years"
+            }
+          ]
+        },
+        {
+          "label": "treatment",
+          "children": [
+            {
+              "label": "topical corticosteroids"
+            },
+            {
+              "label": "antiglaucoma medication"
+            },
+            {
+              "label": "possible role for antiviral therapy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "KPs",
+      "children": [
+        {
+          "label": "vary in size/distribution"
+        }
+      ]
+    },
+    {
+      "label": "Postoperative inflammation: IOL-associated uveitis",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "surgical manipulation",
+              "children": [
+                {
+                  "label": "breakdown of the blood–aqueous barrier"
+                }
+              ]
+            },
+            {
+              "label": "IOL implantation",
+              "children": [
+                {
+                  "label": "can activate complement cascades and promote neutrophil chemotaxis",
+                  "children": [
+                    {
+                      "label": "cellular deposits on the IOL"
+                    },
+                    {
+                      "label": "synechiae formation"
+                    },
+                    {
+                      "label": "capsular opacification"
+                    },
+                    {
+                      "label": "anterior capsule phimosis"
+                    }
+                  ]
+                },
+                {
+                  "label": "the more biocompatible the IOL material, the less likely it is to incite an inflammatory response",
+                  "children": [
+                    {
+                      "label": "acrylic IOLs appear to have excellent biocompatibility"
+                    },
+                    {
+                      "label": "foldable implant materials are well tolerated in many patients with uveitis"
+                    },
+                    {
+                      "label": "polypropylene haptics",
+                      "children": [
+                        {
+                          "label": "cause enhanced bacterial and leukocyte binding",
+                          "children": [
+                            {
+                              "label": "probably should be avoided in patients with uveitis!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "silicone optics are associated with increased cellular deposition (compared with acrylic or hydrogel optics)"
+                    }
+                  ]
+                },
+                {
+                  "label": "Irregular/damaged IOL surfaces"
+                }
+              ]
+            },
+            {
+              "label": "retained lens material",
+              "children": [
+                {
+                  "label": "exacerbates the usual transient postoperative inflammation"
+                }
+              ]
+            },
+            {
+              "label": "iris chafing caused by the edges/loops of IOLs",
+              "children": [
+                {
+                  "label": "<1%",
+                  "children": [
+                    {
+                      "label": "sulcus placement of a single-piece acrylic IOL",
+                      "children": [
+                        {
+                          "label": "may also occur with appropriately placed 3- piece IOL in the sulcus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "older rigid ACIOLs (>flexible anterior chamber IOLs)"
+                },
+                {
+                  "label": "motion of an iris-supported or anterior chamber IOL may cause",
+                  "children": [
+                    {
+                      "label": "corneal endothelial damage or decompensation"
+                    },
+                    {
+                      "label": "low-grade anterior uveitis"
+                    },
+                    {
+                      "label": "peripheral anterior synechiae"
+                    },
+                    {
+                      "label": "recalcitrant glaucoma"
+                    },
+                    {
+                      "label": "CME"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "UGH syndrome",
+          "children": [
+            {
+              "label": "irritation of the iris root by any intraocular implant",
+              "children": [
+                {
+                  "label": "UBM or anterior segment OCT"
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "topical corticosteroids"
+                },
+                {
+                  "label": "some may require IOL explantation/ repositioning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cataract surgery in patients with uveitis",
+          "children": [
+            {
+              "label": "aggressive control of intraocular inflammation in the preoperative and postoperative periods"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lens-associated uveitis",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "immune reaction to lens protein",
+              "children": [
+                {
+                  "label": "disruption of the lens capsule (traumatic or surgical)",
+                  "children": [
+                    {
+                      "label": "phacoantigenic uveitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "leakage of lens protein through intact lens capsule in mature/hypermature cataracts",
+                  "children": [
+                    {
+                      "label": "phacolytic uveitis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "patients previously sensitized to lens protein can experience inflammation within 24 hours"
+            }
+          ]
+        },
+        {
+          "label": "Phacoantigenic uveitis",
+          "children": [
+            {
+              "label": "\"phacoanaphylactic endophthalmitis\""
+            },
+            {
+              "label": "anterior uveitis",
+              "children": [
+                {
+                  "label": "granulomatous or nongranulomatous"
+                },
+                {
+                  "label": "KPs",
+                  "children": [
+                    {
+                      "label": "small or large"
+                    }
+                  ]
+                },
+                {
+                  "label": "variable AC reaction",
+                  "children": [
+                    {
+                      "label": "+- hypopyon"
+                    }
+                  ]
+                },
+                {
+                  "label": "posterior synechiae"
+                },
+                {
+                  "label": "elevated IOP"
+                },
+                {
+                  "label": "anterior vitreous inflammation"
+                }
+              ]
+            },
+            {
+              "label": "pathology",
+              "children": [
+                {
+                  "label": "zonal granulomatous inflammation",
+                  "children": [
+                    {
+                      "label": "neutrophils around the lens material with surrounding lymphocytes, plasma cells, epithelioid cells, and occasional giant cells"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "topical corticosteroids",
+                  "children": [
+                    {
+                      "label": "when small amounts of lens material remain, corticosteroid therapy alone may be sufficient"
+                    }
+                  ]
+                },
+                {
+                  "label": "systemic corticosteroids",
+                  "children": [
+                    {
+                      "label": "for severe cases"
+                    }
+                  ]
+                },
+                {
+                  "label": "cycloplegic and mydriatic agents"
+                },
+                {
+                  "label": "surgical removal of all lens material"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Phacolytic uveitis",
+          "children": [
+            {
+              "label": "acute increase in IOP",
+              "children": [
+                {
+                  "label": "phacolytic glaucoma"
+                },
+                {
+                  "label": "clogging of the trabecular meshwork by macrophages engorged with lens proteins"
+                }
+              ]
+            },
+            {
+              "label": "refractile bodies in the aqueous",
+              "children": [
+                {
+                  "label": "lipid-laden macrophages"
+                },
+                {
+                  "label": "aqueous tap reveals swollen macrophages"
+                }
+              ]
+            },
+            {
+              "label": "lack of KPs and synechiae"
+            },
+            {
+              "label": "treatment",
+              "children": [
+                {
+                  "label": "pressure reduction",
+                  "children": [
+                    {
+                      "label": "osmotic agents and topical medications"
+                    }
+                  ]
+                },
+                {
+                  "label": "cataract extraction",
+                  "children": [
+                    {
+                      "label": "quickly !"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Postoperative inflammation: infectious endophthalmitis",
+      "children": [
+        {
+          "label": "delayed/late-onset endophthalmitis after cataract surgery",
+          "children": [
+            {
+              "label": "Infection with low-virulence organisms",
+              "children": [
+                {
+                  "label": "Propionibacterium acnes"
+                },
+                {
+                  "label": "Staphylococcus epidermidis"
+                },
+                {
+                  "label": "fungal species"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/Uveitis/9.6.3. Anterior Uveitis (III).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 344,
+      "connector_rejected": 6,
+      "connector_edges": 222,
+      "connector_width": 0.802,
+      "text_labels": 176,
+      "tree_nodes": 176,
+      "component_roots": 7,
+      "spatially_recovered_labels": 1,
+      "connector_match_ratio": 0.6453,
+      "root_font_size": 2.806,
+      "warnings": []
+    }
+  }
+}

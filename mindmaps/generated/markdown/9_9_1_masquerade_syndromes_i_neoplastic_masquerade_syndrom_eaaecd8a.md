@@ -1,0 +1,146 @@
+---
+title: "9.9.1. Masquerade Syndromes (I): Neoplastic Masquerade Syndromes (I)"
+category: "Uveitis"
+subcategory: ""
+source_pdf: "MindmapPDF/Uveitis/9.9.1. Masquerade Syndromes (I) - Neoplastic Masquerade Syndromes (I).pdf"
+---
+
+# 9.9.1. Masquerade Syndromes (I): Neoplastic Masquerade Syndromes (I)
+
+## Hierarchy
+
+- Masquerade syndromes
+  - disorders mimicking immune-mediated entities
+  - 5% of patients evaluated in uveitis referral clinics
+    - neoplastic masquerade syndromes
+    - non-neoplastic masquerade syndromes
+      - 2%–3% of patients evaluated in uveitis referral clinics
+- Juvenile xanthogranuloma
+  - age <1 year
+  - affected tissues
+    - skin
+      - reddish-yellow skin lesions
+    - eyes
+      - iris
+        - spontaneous hyphema
+    - viscera
+      - if skin of eyelids is involved, the globe is usually spared
+        - biopsy shows fewer foamy histiocytes and Touton giant cells than skin
+      - rare
+  - pathology
+    - Touton giant cells
+      - large histiocytes with foamy cytoplasm
+  - treartment
+    - topical, periocular, or systemic corticosteroid therapy
+    - resistant cases
+      - local resection
+      - radiation
+      - immunomodulatory therapy
+- Bilateral diffuse uveal melanocytic proliferation
+  - associated with systemic malignancy
+  - clinical presentation
+    - rapid vision loss
+    - cataracts
+    - multiple pigmented and nonpigmented placoid iris and choroidal nodules
+    - serous retinal detachment
+      - can mimic VKH syndrome
+  - histology
+    - ± necrosis
+      - diffuse infiltration of the uveal tract by benign nevoid or spindle-shaped cells
+    - scleral involvement is common
+  - treatment
+    - treating the underlying primary lesion
+- Retinoblastoma
+  - 1%–3% present with signs of ocular inflammation
+  - diffuse infiltrating retinoblastoma
+    - age 4-6 years at presentation
+  - conjunctival chemosis
+  - pseudohypopyon
+    - shifts with change in head position
+    - usually white as opposed to yellow inflammatory hypopyon
+  - vitritis
+  - diagnostically confusing
+    - limited visibility of the fundus
+    - lack of calcification
+- Leukemia
+  - anterior segment
+    - pseudohypopyon
+      - gray-yellow
+    - hypopyon or hyphema
+      - iris heterochromia
+  - posterior segment
+    - retinal findings
+      - intraretinal hemorrhages
+      - white-centered hemorrhages
+      - cotton-wool spots
+      - microaneurysms
+      - peripheral neovascularization
+    - choroid
+      - exudative retinal detachment
+      - angiographically similar to Vogt-Koyanagi- Harada (VKH) syndrome
+    - leukemic cells may invade the vitreous cavity
+- episcleritis
+- Uveal melanoma
+  - 5% present with signs of ocular inflammation
+  - anterior or posterior uveitis
+    - panuveitis
+  - epithelioid-cell or mixed-cell
+  - ultrasonography
+    - useful in diagnosing atypical cases
+    - low internal reflectivity
+- vitritis
+- Uveal lymphoid proliferations
+  - benign reactive uveal lymphoid hyperplasia
+  - unilateral or bilateral
+  - vision loss that is gradual, painless
+  - multifocal creamy choroidal lesions
+  - ± CME
+  - anterior uveitis
+    - pain, redness, and photophobia
+  - angle structures may be infiltrated by lymphocytes
+    - elevated intraocular pressure
+  - fleshy episcleral/conjunctival masses
+    - appear salmon-pink
+    - not mobile and attached firmly to the sclera
+  - pathology
+  - treatment
+    - systemic/periocular corticosteroid therapy
+      - mature lymphocytes and plasma cells
+    - external-beam radiation
+- Metastatic tumors
+  - most intraocular malignancies in adults are metastatic tumors
+  - most common primary cancers include lung and breast
+  - choroidal metastasis
+    - often bilateral and multifocal
+    - serous retinal detachment
+    - ± CME
+  - anterior uveal metastasis
+    - cells in the aqueous humor
+    - iris nodules
+    - rubeosis iridis
+    - elevated IOP
+    - anterior chamber paracentesis for diagnosis
+  - retinal metastases
+    - extremely rare
+    - primary cancers
+      - cutaneous melanoma
+        - brown spherules in the retina
+      - lung
+      - gastrointestinal
+      - breast
+    - white to yellow
+      - perivascular sheathing
+        - simulate retinal vasculitis or necrotizing retinitis
+- the most common
+- Systemic lymphoma
+  - can spread hematogenously to
+    - choroid
+    - subretinal space
+    - vitreous
+    - anterior chamber
+  - vitritis
+    - pseudohypopyon
+  - creamy subretinal infiltrates
+  - retinal vasculitis
+  - necrotizing retinitis
+  - diffuse choroiditis or uveal masses

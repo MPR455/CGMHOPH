@@ -1,0 +1,962 @@
+{
+  "label": "8.7.6. Immune-mediated diseases (VI): Cornea (I)",
+  "root": true,
+  "children": [
+    {
+      "label": "Thygeson Superficial Punctate Keratitis",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "unknown"
+            },
+            {
+              "label": "+- immune-mediated"
+            },
+            {
+              "label": "no inflammatory cells"
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "children to older adults"
+            },
+            {
+              "label": "bilateral",
+              "children": [
+                {
+                  "label": "may develop initially in 1 eye"
+                },
+                {
+                  "label": "may be markedly asymmetric"
+                }
+              ]
+            },
+            {
+              "label": "recurrent episodes"
+            },
+            {
+              "label": "symptoms",
+              "children": [
+                {
+                  "label": "tearing"
+                },
+                {
+                  "label": "foreign-body sensation"
+                },
+                {
+                  "label": "photophobia"
+                },
+                {
+                  "label": "reduced vision"
+                },
+                {
+                  "label": "symptoms may far exceed the apparent signs"
+                }
+              ]
+            },
+            {
+              "label": "slightly elevated corneal epithelial lesions",
+              "children": [
+                {
+                  "label": "each opacity is a cluster of multiple smaller gray, granular pinpoint opacities"
+                },
+                {
+                  "label": "multiple (2-40)"
+                },
+                {
+                  "label": "greatest density in the central cornea"
+                },
+                {
+                  "label": "\"negative staining\"",
+                  "children": [
+                    {
+                      "label": "stain faintly with fluorescein and rose bengal"
+                    }
+                  ]
+                },
+                {
+                  "label": "minimal conjunctival reaction"
+                },
+                {
+                  "label": "waxing and waning appearance of individual epithelial opacities",
+                  "children": [
+                    {
+                      "label": "change in location and number",
+                      "children": [
+                        {
+                          "label": "in contrast to adenoviral keratoconjunctivitis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "+- mild subepithelial opacity",
+                  "children": [
+                    {
+                      "label": "in patients who have received topical antiviral therapy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "mild cases",
+              "children": [
+                {
+                  "label": "artificial tears"
+                }
+              ]
+            },
+            {
+              "label": "persistently symptomatic cases",
+              "children": [
+                {
+                  "label": "low-dose topical corticosteroids",
+                  "children": [
+                    {
+                      "label": "fluorometholone 0.1%"
+                    },
+                    {
+                      "label": "very responsive to corticosteroids"
+                    },
+                    {
+                      "label": "recur in the same or different locations after the topical corticosteroids are stopped"
+                    },
+                    {
+                      "label": "the use of corticosteroids should be minimized"
+                    }
+                  ]
+                },
+                {
+                  "label": "topical cyclosporine 0.05%"
+                },
+                {
+                  "label": "bandage soft contact lenses",
+                  "children": [
+                    {
+                      "label": "tacrolimus ophthalmic suspension 0.1%",
+                      "children": [
+                        {
+                          "label": "preferred over corticosteroids"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Interstitial Keratitis Associated With Infectious Diseases",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "type IV hypersensitivity",
+              "children": [
+                {
+                  "label": "to infectious microorganisms",
+                  "children": [
+                    {
+                      "label": "congenital syphilis",
+                      "children": [
+                        {
+                          "label": "only rarely in acquired (as opposed to congenital) syphilis",
+                          "children": [
+                            {
+                              "label": "unilateral in 60%"
+                            },
+                            {
+                              "label": "uveitis and retinitis are much more common manifestations of acquired syphilis than keratitis"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "manifestations of congenital syphilis that occur early in life (within the first 2 years) are infectious"
+                        },
+                        {
+                          "label": "IK is an immune-mediated manifestation of congenital syphilis",
+                          "children": [
+                            {
+                              "label": "develops late in the first decade of life (or even later)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "herpes simplex virus"
+                    },
+                    {
+                      "label": "varicella-zoster virus keratitis"
+                    },
+                    {
+                      "label": "mycobacterium tuberculosis"
+                    },
+                    {
+                      "label": "mycobacterium leprae"
+                    },
+                    {
+                      "label": "borrelia burgdorferi (lyme disease)"
+                    },
+                    {
+                      "label": "measles virus"
+                    },
+                    {
+                      "label": "epstein-barr virus (infectious mononucleosis)"
+                    },
+                    {
+                      "label": "chlamydia trachomatis (lymphogranuloma venereum)"
+                    },
+                    {
+                      "label": "leishmania spp"
+                    },
+                    {
+                      "label": "onchocerca volvulus (onchocerciasis)"
+                    }
+                  ]
+                },
+                {
+                  "label": "to other antigens"
+                }
+              ]
+            },
+            {
+              "label": "nonsuppurative inflammation of the corneal stroma",
+              "children": [
+                {
+                  "label": "cellular infiltration"
+                },
+                {
+                  "label": "vascularization"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Syphilitic interstitial keratitis",
+          "children": [
+            {
+              "label": "clinical presentation",
+              "children": [
+                {
+                  "label": "congenital syphilis>>acquired syphilis",
+                  "children": [
+                    {
+                      "label": "no primary involvement of the corneal epithelium or endothelium"
+                    }
+                  ]
+                },
+                {
+                  "label": "bilateral (80%)",
+                  "children": [
+                    {
+                      "label": "develops late in the first decade of life (or even later)"
+                    },
+                    {
+                      "label": "both eyes may not be affected simultaneously or to the same degree"
+                    }
+                  ]
+                },
+                {
+                  "label": "nonocular signs of congenital syphilis",
+                  "children": [
+                    {
+                      "label": "dental deformities: notched (hutchinson) incisors and mulberry molars"
+                    },
+                    {
+                      "label": "bone and cartilage abnormalities: saddle nose, palatal perforation, saber shins, and frontal bossing"
+                    },
+                    {
+                      "label": "cranial nerve VIII (vestibulocochlear) deafness"
+                    },
+                    {
+                      "label": "rhagades (circumoral radiating scars)"
+                    },
+                    {
+                      "label": "cognitive impairment"
+                    }
+                  ]
+                },
+                {
+                  "label": "symptoms",
+                  "children": [
+                    {
+                      "label": "pain"
+                    },
+                    {
+                      "label": "tearing"
+                    },
+                    {
+                      "label": "photophobia"
+                    },
+                    {
+                      "label": "perilimbal injection"
+                    }
+                  ]
+                },
+                {
+                  "label": "sectoral superior stromal inflammation and keratic precipitates (early)",
+                  "children": [
+                    {
+                      "label": "spreads centrally",
+                      "children": [
+                        {
+                          "label": "corneal opacification and edema"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "deep stromal neovascularization",
+                      "children": [
+                        {
+                          "label": "cornea appears pink",
+                          "children": [
+                            {
+                              "label": "salmon patch"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "inflammation may last for several weeks if left untreated",
+                  "children": [
+                    {
+                      "label": "sequelae",
+                      "children": [
+                        {
+                          "label": "corneal scarring & opacification"
+                        },
+                        {
+                          "label": "corneal thinning"
+                        },
+                        {
+                          "label": "ghost vessels"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "laboratory evaluation",
+              "children": [
+                {
+                  "label": "serology",
+                  "children": [
+                    {
+                      "label": "rapid plasma reagin (RPR) test"
+                    },
+                    {
+                      "label": "FTA-ABS"
+                    },
+                    {
+                      "label": "cycloplegic agents",
+                      "children": [
+                        {
+                          "label": "microhemagglutination assay for Treponema pallidum [MHA-TP]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "management",
+              "children": [
+                {
+                  "label": "topical corticosteroids"
+                },
+                {
+                  "label": "systemic syphilis (or neuroretinal manifestations)",
+                  "children": [
+                    {
+                      "label": "penicillin or an appropriate alternative antibiotic"
+                    }
+                  ]
+                },
+                {
+                  "label": "necessity of lumbar puncture in syphilitic IK is uncertain"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Marginal Corneal Infiltrates Associated With Blepharoconjunctivitis",
+      "children": [
+        {
+          "label": "Pathogenesis",
+          "children": [
+            {
+              "label": "limbus",
+              "children": [
+                {
+                  "label": "antigen-presenting cells",
+                  "children": [
+                    {
+                      "label": "express MHC class II antigens",
+                      "children": [
+                        {
+                          "label": "mobilize and induce T-cells"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "vessels",
+                  "children": [
+                    {
+                      "label": "circulating immune cells, immune complexes, and complement factors"
+                    }
+                  ]
+                },
+                {
+                  "label": "immune-related corneal changes occur adjacent to the limbus"
+                }
+              ]
+            },
+            {
+              "label": "Predisposing Factors",
+              "children": [
+                {
+                  "label": "blepharoconjunctivitis"
+                },
+                {
+                  "label": "contact lens wear"
+                },
+                {
+                  "label": "trauma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Clinical Presentation",
+          "children": [
+            {
+              "label": "gray-white infiltrates",
+              "children": [
+                {
+                  "label": "endophthalmitis"
+                }
+              ]
+            },
+            {
+              "label": "well circumscribed"
+            },
+            {
+              "label": "where the eyelid margins intersect with the corneal surface",
+              "children": [
+                {
+                  "label": "10-, 2-, 4-, and 8-o’clock positions"
+                }
+              ]
+            },
+            {
+              "label": "clear zone of cornea between infiltrate and limbus",
+              "children": [
+                {
+                  "label": "1 mm inside the limbus"
+                }
+              ]
+            },
+            {
+              "label": "superficial blood vessels may cross the clear interval"
+            },
+            {
+              "label": "overlying epithelium",
+              "children": [
+                {
+                  "label": "intact"
+                },
+                {
+                  "label": "punctate epithelial erosions"
+                },
+                {
+                  "label": "ulcerated"
+                }
+              ]
+            },
+            {
+              "label": "following resolution",
+              "children": [
+                {
+                  "label": "stromal opacification"
+                },
+                {
+                  "label": "peripheral corneal thinning"
+                },
+                {
+                  "label": "pannus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cogan Syndrome",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "autoimmune disorder"
+            },
+            {
+              "label": "young adults",
+              "children": [
+                {
+                  "label": "upper respiratory tract infection 1–2 weeks before"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical findings",
+          "children": [
+            {
+              "label": "stromal keratitis",
+              "children": [
+                {
+                  "label": "early",
+                  "children": [
+                    {
+                      "label": "bilateral faint white subepithelial infiltrates",
+                      "children": [
+                        {
+                          "label": "peripheral cornea"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "late",
+                  "children": [
+                    {
+                      "label": "multifocal nodular infiltrates in the posterior cornea"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "vertigo"
+            },
+            {
+              "label": "hearing loss"
+            },
+            {
+              "label": "systemic vasculitis",
+              "children": [
+                {
+                  "label": "polyarteritis nodosa",
+                  "children": [
+                    {
+                      "label": "similar to congenital syphilis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "ocular and vestibular changes can proceed rapidly"
+            }
+          ]
+        },
+        {
+          "label": "laboratory evaluation",
+          "children": [
+            {
+              "label": "diagnosis of exclusion",
+              "children": [
+                {
+                  "label": "exclude syphilis",
+                  "children": [
+                    {
+                      "label": "VDRL",
+                      "children": [
+                        {
+                          "label": "or",
+                          "children": [
+                            {
+                              "label": "RPR test",
+                              "children": [
+                                {
+                                  "label": "may become nonreactive in congenital syphilis"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "FTA-ABS",
+                      "children": [
+                        {
+                          "label": "or",
+                          "children": [
+                            {
+                              "label": "MHA-TP"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "topical corticosteroids",
+              "children": [
+                {
+                  "label": "acute keratitis"
+                }
+              ]
+            },
+            {
+              "label": "cytotoxic agents",
+              "children": [
+                {
+                  "label": "oral corticosteroids",
+                  "children": [
+                    {
+                      "label": "vestibuloauditory symptoms",
+                      "children": [
+                        {
+                          "label": "deafness is more likely if the condition is not treated early"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "for severe and unresponsive cases"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Reactive Arthritis (Reiter syndrome)",
+      "children": [
+        {
+          "label": "pathogenesis",
+          "children": [
+            {
+              "label": "predisposing conditions",
+              "children": [
+                {
+                  "label": "dysentery",
+                  "children": [
+                    {
+                      "label": "gram-negative bacteria",
+                      "children": [
+                        {
+                          "label": "Salmonella, Shigella, and Yersinia"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "HLA-B27–positive",
+              "children": [
+                {
+                  "label": "75%",
+                  "children": [
+                    {
+                      "label": "nongonococcal urethritis",
+                      "children": [
+                        {
+                          "label": "C trachomatis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "clinical presentation",
+          "children": [
+            {
+              "label": "classic triad",
+              "children": [
+                {
+                  "label": "ocular inflammation",
+                  "children": [
+                    {
+                      "label": "bilateral papillary conjunctivitis",
+                      "children": [
+                        {
+                          "label": "mucopurulent discharge",
+                          "children": [
+                            {
+                              "label": "should be considered in any case of chronic, nonfollicular, mucopurulent conjunctivitis with negative cultures"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "30%–60%"
+                        },
+                        {
+                          "label": "self-limited",
+                          "children": [
+                            {
+                              "label": "days to weeks"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "episcleritis"
+                    },
+                    {
+                      "label": "mild nongranulomatous iritis",
+                      "children": [
+                        {
+                          "label": "3%–12%"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "keratitis",
+                      "children": [
+                        {
+                          "label": "diffuse punctate epithelial erosions"
+                        },
+                        {
+                          "label": "superficial or deep focal infiltrates"
+                        },
+                        {
+                          "label": "superficial or deep vascularization"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "urethral inflammation"
+                },
+                {
+                  "label": "joint inflammation",
+                  "children": [
+                    {
+                      "label": "oligoarticular"
+                    },
+                    {
+                      "label": "highly asymmetric"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "less common manifestations",
+              "children": [
+                {
+                  "label": "keratoderma blennorrhagicum"
+                },
+                {
+                  "label": "aphthous stomatitis"
+                },
+                {
+                  "label": "fever",
+                  "children": [
+                    {
+                      "label": "balanitis"
+                    }
+                  ]
+                },
+                {
+                  "label": "lymphadenopathy"
+                },
+                {
+                  "label": "pneumonitis"
+                },
+                {
+                  "label": "pericarditis"
+                },
+                {
+                  "label": "myocarditis"
+                }
+              ]
+            },
+            {
+              "label": "manifestations can appear simultaneously or separately, in any sequence"
+            },
+            {
+              "label": "self-limited attacks",
+              "children": [
+                {
+                  "label": "2 to several months"
+                },
+                {
+                  "label": "may recur periodically over the course of several years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "management",
+          "children": [
+            {
+              "label": "palliative"
+            },
+            {
+              "label": "topical corticosteroids",
+              "children": [
+                {
+                  "label": "corneal infiltrates and vascularization"
+                }
+              ]
+            },
+            {
+              "label": "systemic antibiotic",
+              "children": [
+                {
+                  "label": "related infections"
+                }
+              ]
+            },
+            {
+              "label": "systemic immune suppression",
+              "children": [
+                {
+                  "label": "intraocular (uveitic) component"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Corneal Transplant Rejection",
+      "children": [
+        {
+          "label": "tolerance of a corneal graft is an active process based on several features",
+          "children": [
+            {
+              "label": "absence of blood and lymphatic channels in the graft and its bed"
+            },
+            {
+              "label": "absence of MHC class II+ APCs in the graft"
+            },
+            {
+              "label": "reduced expression of MHC-encoded alloantigens on graft cells replaced with minor peptides (nonclassical MHC-Ib molecules) to avoid lysis by natural killer cells"
+            },
+            {
+              "label": "expression of T-cell–deleting CD95 ligand (Fas ligand, or FasL) on endothelium, which can induce apoptosis in killer T cells"
+            },
+            {
+              "label": "immunosuppressive microenvironment of the aqueous humor",
+              "children": [
+                {
+                  "label": "transforming growth factor β2, α-melanocyte- stimulating hormone, vasoactive intestinal peptide, and calcitonin gene–related peptide"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "allograft rejection is associated with cellular immune mechanisms",
+          "children": [
+            {
+              "label": "anterior chamber–associated immune deviation (ACAID) involving the development of suppressor T cells",
+              "children": [
+                {
+                  "label": "ACAID is a downregulation of delayed-type cellular immunity"
+                }
+              ]
+            },
+            {
+              "label": "T-lymphocyte–mediated response",
+              "children": [
+                {
+                  "label": "delayed (type IV) hypersensitivity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "for the endothelial cells to be rejected, they must express MHC class II antigens",
+          "children": [
+            {
+              "label": "endothelial cells’ endogenous minor H antigens",
+              "children": [
+                {
+                  "label": "recognized by the CD4+ T cells"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "converter_version": "2.0.0",
+    "source_pdf": "MindmapPDF/External Diseases/8.7.6. Immune-mediated diseases (VI) - Cornea (I).pdf",
+    "page_count": 1,
+    "stats": {
+      "connector_candidates": 453,
+      "connector_rejected": 90,
+      "connector_edges": 278,
+      "connector_width": 0.924,
+      "text_labels": 241,
+      "tree_nodes": 241,
+      "component_roots": 6,
+      "spatially_recovered_labels": 2,
+      "connector_match_ratio": 0.6137,
+      "root_font_size": 3.08,
+      "warnings": []
+    }
+  }
+}
