@@ -175,6 +175,8 @@ function collectVisible(n,a){ a.push(n); visKids(n).forEach(c=>collectVisible(c,
 function subtree(n,a){ a.push(n); visKids(n).forEach(c=>subtree(c,a)); return a; }
 function hasKids(n){ return n.children&&n.children.length; }
 function escapeHtml(s){return s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+function displayTitle(s){ return String(s||"").replace(/^\s*(?:\d+(?:\.\d+)+(?:\.)?|\d+\.)\s*/,""); }
+function displayNodeLabel(n){ return n.root?displayTitle(n.label):n.label; }
 function leafCount(n){ const k=visKids(n); if(!k.length)return 1; return k.reduce((s,c)=>s+leafCount(c),0); }
 function eachNode(fn){ (function w(n){ fn(n); (n.children||[]).forEach(w); })(ROOT); }
 
@@ -194,7 +196,7 @@ function ensureEls(vis){
       else { el.style.background=`hsl(${n._hue},70%,95%)`; el.style.borderColor=`hsl(${n._hue},48%,66%)`; el.style.color=`hsl(${n._hue},55%,26%)`; }
     }
     const badge=hasKids(n)?`<span class="badge">${n.collapsed?'+'+n.children.length:'−'}</span>`:'';
-    el.innerHTML=`<div class="row"><span class="txt">${escapeHtml(n.label)}</span>${badge}</div>`;
+    el.innerHTML=`<div class="row"><span class="txt">${escapeHtml(displayNodeLabel(n))}</span>${badge}</div>`;
   });
   vis.forEach(n=>{ const el=nodeEls.get(n._id); n._w=el.offsetWidth; n._h=el.offsetHeight; });
 }
@@ -284,7 +286,7 @@ function makeLi(n,depth){
   const lbl=document.createElement('span'); lbl.className='llbl';
   lbl.style.fontWeight=depth===0?'700':(depth===1?'650':'400');
   lbl.style.color=depth===0?'var(--accent)':(depth>=3?'var(--muted)':'var(--ink)');
-  lbl.textContent=n.label;
+  lbl.textContent=displayNodeLabel(n);
   if(hasKids(n)){ const c=document.createElement('span'); c.className='lcount'; c.textContent='('+n.children.length+')'; lbl.appendChild(c); }
   row.appendChild(tog); row.appendChild(lbl); li.appendChild(row);
   if(hasKids(n)){
@@ -332,7 +334,7 @@ async function loadMap(map){
   eachNode(n=>{ n.collapsed=false; });
   nodeEls.forEach(el=>el.remove()); nodeEls.clear(); svg.innerHTML="";
   const sub=map.subcategory?" / "+escapeHtml(map.subcategory):"";
-  document.getElementById("crumb").innerHTML=escapeHtml(map.title)+" <small>· "+escapeHtml(map.category)+sub+"</small>";
+  document.getElementById("crumb").innerHTML=escapeHtml(displayTitle(map.title))+" <small>· "+escapeHtml(map.category)+sub+"</small>";
   const pdfLink=document.getElementById("sourcePdf");
   pdfLink.style.display=(SOURCE_PDFS_AVAILABLE&&map.sourcePdf)?"inline-block":"none"; if(map.sourcePdf) pdfLink.href=map.sourcePdf;
   document.querySelectorAll(".mapbtn").forEach(b=>b.classList.toggle("active", b.dataset.id===map.id));
@@ -363,8 +365,8 @@ function buildSidebar(){
         if(sub){ const sh=document.createElement("div"); sh.className="subhead"; sh.textContent=sub; body.appendChild(sh); }
         const grid=document.createElement("div"); grid.className="cbody-grid";
         maps.filter(m=>(m.subcategory||"")===sub).forEach(m=>{
-          const btn=document.createElement("button"); btn.className="mapbtn"; btn.dataset.id=m.id; btn.title=m.title;
-          btn.innerHTML="<b>"+escapeHtml(m.title)+"</b>";
+          const btn=document.createElement("button"); btn.className="mapbtn"; btn.dataset.id=m.id; btn.title=displayTitle(m.title);
+          btn.innerHTML="<b>"+escapeHtml(displayTitle(m.title))+"</b>";
           btn.onclick=()=>{ setToolboxExpanded(false); loadMap(m); };
           grid.appendChild(btn);
         });
