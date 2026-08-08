@@ -2257,9 +2257,9 @@ document.addEventListener("keydown", function(e){
   if(e.ctrlKey||e.metaKey||e.altKey) return;
   if(!ankiCards.length) return;
   var k=(e.key||"").toLowerCase();
-  if(k==="a"){ ankiPrev(); e.preventDefault(); }
-  else if(k==="s"){ ankiReveal(); e.preventDefault(); }
-  else if(k==="d"){ ankiNext(); e.preventDefault(); }
+  if(k==="a"||k==="arrowleft"){ ankiPrev(); e.preventDefault(); }
+  else if(k==="s"||k==="arrowdown"){ ankiReveal(); e.preventDefault(); }
+  else if(k==="d"||k==="arrowright"){ ankiNext(); e.preventDefault(); }
 });
 
 function ophmedCollapse(){ var l=document.getElementById("ophmed-list"); if(!l) return; l.querySelectorAll("details[open]").forEach(function(d){ d.removeAttribute("open"); }); }
