@@ -18,10 +18,6 @@ nav{display:flex;gap:4px}
 nav button{background:transparent;border:none;color:#cfe3f5;padding:8px 14px;font-size:14px;cursor:pointer;border-radius:6px}
 nav button.active{background:#fff;color:var(--acc2);font-weight:600}
 nav button:hover:not(.active){background:rgba(255,255,255,.15)}
-nav button.progress-live-tab{position:relative;background:linear-gradient(135deg,rgba(55,224,153,.18),rgba(65,155,255,.13));box-shadow:0 0 0 1px rgba(93,255,187,.30),0 0 16px rgba(52,224,143,.38)}
-nav button.progress-live-tab.active{background:#fff;color:var(--acc2);box-shadow:0 0 0 2px rgba(79,232,157,.68),0 0 22px rgba(55,224,143,.58)}
-.nav-live-badge{display:inline-flex;align-items:center;margin-left:5px;border-radius:999px;background:#42dd91;color:#073d25;padding:2px 6px;font-size:9px;font-weight:900;line-height:1.25;vertical-align:middle;letter-spacing:.25px;text-transform:uppercase;box-shadow:0 0 10px rgba(66,221,145,.55)}
-body.theme-black nav button.progress-live-tab.active{background:#ffd21f;color:#000;box-shadow:0 0 0 2px #71f2ad,0 0 22px rgba(70,255,155,.65)}
 main{padding:14px 18px;max-width:1500px;margin:0 auto}
 .tab{display:none}
 .tab.active{display:block}
@@ -405,7 +401,7 @@ body.theme-dark .pn-badge.preop,body.theme-black .pn-badge.preop{background:#3a2
     <button data-tab="pgy" onclick="showTab('pgy')">🩺 PGY Guide</button>
     <button data-tab="builder" onclick="showTab('builder')">📝 Consult Note</button>
     <button data-tab="opd" onclick="showTab('opd')">📋 OPD Note</button>
-    <button class="progress-live-tab" data-tab="progress" onclick="showTab('progress')">📈 Progress Note <span class="nav-live-badge">Live</span></button>
+    <button data-tab="progress" onclick="showTab('progress')">📈 Progress Note</button>
     <button data-tab="bank" onclick="showTab('bank')">📚 Template Bank</button>
     <button data-tab="ophmed" onclick="showTab('ophmed')">💊 OPH Med</button>
     <button data-tab="anki" onclick="showTab('anki')">🃏 OPH Study</button>
