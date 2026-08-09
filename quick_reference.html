@@ -84,6 +84,30 @@ body.theme-macaroon .usedfor-chip:hover,
 body.theme-dark .usedfor-chip:hover,
 body.theme-black .usedfor-chip:hover{color:#000}
 
+/* intervention use, currency and subgroup ranking */
+.proc-guide{font-size:12px;color:var(--sub);margin:-7px 0 15px;line-height:1.45}
+.proc-subgroup{margin:0 0 22px}
+.proc-subgroup-title{display:flex;align-items:baseline;gap:8px;font-size:14px;font-weight:800;color:var(--acc2);margin:0 0 8px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.proc-subgroup-count{font-size:11px;font-weight:600;color:var(--sub)}
+.proc-meta{display:flex;flex-wrap:wrap;gap:5px;margin-top:7px}
+.proc-pill{display:inline-flex;align-items:center;border-radius:999px;padding:3px 8px;font-size:10.5px;font-weight:800;line-height:1.2;border:1px solid transparent}
+.proc-rank{background:#e8edf3;color:#405061;border-color:#d4dce4}
+.proc-common{background:#e4f7e9;color:#166534;border-color:#bde8c8}
+.proc-routine{background:#e3f0ff;color:#0b4a8f;border-color:#bfdcff}
+.proc-selective{background:#fff2d9;color:#8a5a00;border-color:#f0d49d}
+.proc-rare{background:#f1e9fb;color:#6b21a8;border-color:#ddc7f5}
+.proc-current{background:#e4f7e9;color:#166534;border-color:#bde8c8}
+.proc-option{background:#e3f0ff;color:#0b4a8f;border-color:#bfdcff}
+.proc-limited{background:#fff2d9;color:#8a5a00;border-color:#f0d49d}
+.proc-outdated{background:#fde8e8;color:#a61b1b;border-color:#f4bcbc}
+.proc-detail-meta{margin:8px 0 13px}
+body.theme-dark .proc-rank,body.theme-black .proc-rank{background:#243544;color:#d9e5ef;border-color:#3b5265}
+body.theme-dark .proc-common,body.theme-black .proc-common,body.theme-dark .proc-current,body.theme-black .proc-current{background:#0e2e18;color:#7ee39a;border-color:#205c32}
+body.theme-dark .proc-routine,body.theme-black .proc-routine,body.theme-dark .proc-option,body.theme-black .proc-option{background:#0d2740;color:#7fc0ff;border-color:#1f4c74}
+body.theme-dark .proc-selective,body.theme-black .proc-selective,body.theme-dark .proc-limited,body.theme-black .proc-limited{background:#3a2a06;color:#ffcb66;border-color:#6c4e0b}
+body.theme-dark .proc-rare,body.theme-black .proc-rare{background:#2d183e;color:#d9a7ff;border-color:#5b2d7d}
+body.theme-dark .proc-outdated,body.theme-black .proc-outdated{background:#3c1111;color:#ff9c9c;border-color:#742727}
+
 /* inline highlights */
 .hl-med{background:#e3f0ff;color:#0b4a8f;border-radius:4px;padding:0 3px;font-weight:600}
 .hl-dur{background:#fff2d9;color:#8a5a00;border-radius:4px;padding:0 3px;font-weight:600}
@@ -216,6 +240,73 @@ var BYPROCCAT = {};
 PROC_CAT_ORDER.forEach(function(c){BYPROCCAT[c]=[];});
 PROCS.forEach(function(p){ if(!BYPROCCAT[p.h2])BYPROCCAT[p.h2]=[]; BYPROCCAT[p.h2].push(p); });
 var PROCBYID = {}; PROCS.forEach(function(p){PROCBYID[p.id]=p;});
+
+/* Qualitative contemporary-use guide. Scores are derived from the clinical
+   wording already present in each procedure record, then used only for
+   within-subgroup ordering (not as incidence estimates). */
+function procedureUseScore(p){
+  var text = [p.t,p.indication,p.notes,p.prognosis].join(' ').toLowerCase();
+  var score = 50;
+  if(/first[- ]line|gold standard|mainstay|standard of care|most common|commonly performed/.test(text)) score += 22;
+  else if(/preferred|widely used|routine(?:ly)?|standard procedure|standard technique/.test(text)) score += 12;
+  if(/reserved for|selected cases|select patients|specialist centres|limited availability/.test(text)) score -= 10;
+  if(/rarely used|less commonly performed|largely replaced|supplanted|fallen out of favour/.test(text)) score -= 18;
+  if(/historical procedure|historical\/limited|largely withdrawn|now obsolete|no longer performed|essentially a historical procedure/.test(text)) score = 5;
+
+  /* Explicit whole-procedure overrides avoid mistaking a historical note about
+     one step or implant material for the status of the entire intervention. */
+  if(/radial keratotomy|corneal inlays for presbyopia/.test(p.t.toLowerCase())) score = 3;
+  if(/intracapsular cataract extraction|lasek and epi-lasik|cyclocryotherapy/.test(p.t.toLowerCase())) score = Math.min(score,18);
+  if(/transpupillary thermotherapy/.test(p.t.toLowerCase()) && /retinal lasers/i.test(p.h3)) score = 8;
+  return Math.max(0,Math.min(100,score));
+}
+
+function procedureStatus(p,score){
+  var title = p.t.toLowerCase();
+  var text = [p.indication,p.notes,p.prognosis].join(' ').toLowerCase();
+  var outdated = /radial keratotomy|corneal inlays for presbyopia/.test(title) ||
+    (/transpupillary thermotherapy/.test(title) && /retinal lasers/i.test(p.h3)) ||
+    /now obsolete|no longer performed anywhere|largely withdrawn|essentially a historical procedure/.test(text);
+  if(outdated) return {label:'Historical / outdated',cls:'proc-outdated'};
+  if(score < 35 || /rarely used|less commonly performed|largely replaced|supplanted|fallen out of favour|historical standard/.test(text)) return {label:'Limited / niche',cls:'proc-limited'};
+  if(score >= 65) return {label:'Current standard',cls:'proc-current'};
+  return {label:'Current option',cls:'proc-option'};
+}
+
+function initProcedureUseGuide(){
+  var groups = {};
+  PROCS.forEach(function(p,sourceIndex){
+    p.useSourceOrder = sourceIndex;
+    p.useScore = procedureUseScore(p);
+    p.useStatus = procedureStatus(p,p.useScore);
+    (groups[p.h3]||(groups[p.h3]=[])).push(p);
+  });
+  Object.keys(groups).forEach(function(h3){
+    /* Procedure records are authored in clinical-use order. Preserve that
+       curation, while ensuring limited and historical entries follow current
+       options in the same subgroup. */
+    var statusOrder = {'Current standard':0,'Current option':0,'Limited / niche':1,'Historical / outdated':2};
+    groups[h3].sort(function(a,b){
+      return statusOrder[a.useStatus.label]-statusOrder[b.useStatus.label] || a.useSourceOrder-b.useSourceOrder;
+    });
+    groups[h3].forEach(function(p,i){
+      p.useRank = i+1;
+      p.useGroupSize = groups[h3].length;
+      var q = (i+1)/groups[h3].length;
+      if(i === 0) p.useFrequency = {label:'Commonly used',cls:'proc-common'};
+      else if(q <= .55) p.useFrequency = {label:'Regular use',cls:'proc-routine'};
+      else if(q <= .82) p.useFrequency = {label:'Selective use',cls:'proc-selective'};
+      else p.useFrequency = {label:'Uncommon use',cls:'proc-rare'};
+    });
+  });
+}
+initProcedureUseGuide();
+
+function procedureMetaHtml(p){
+  return '<span class="proc-pill proc-rank">#' + p.useRank + ' of ' + p.useGroupSize + ' in subgroup</span>' +
+    '<span class="proc-pill ' + p.useFrequency.cls + '">' + p.useFrequency.label + '</span>' +
+    '<span class="proc-pill ' + p.useStatus.cls + '">' + p.useStatus.label + '</span>';
+}
 
 var TABS = [["criteria","Criteria"],["treatment","Treatment"],["prognosis","Prognosis"],["prevalence","Prevalence"],["teach","Teaching"]];
 var PROC_TABS = [["indication","Indication"],["method","Method"],["preop","Pre-op"],["postop","Post-op"],["contra","Contraindications"],["prognosis","Prognosis"],["notes","Notes"]];
@@ -426,13 +517,22 @@ function renderTopicSection(){
 
 function renderItemGrid(cat){
   if(MODE === 'intervention'){
-    var plist = (BYPROCCAT[cat] || []).slice().sort(function(a,b){ return a.t.localeCompare(b.t); });
+    var plist = (BYPROCCAT[cat] || []).slice();
     var meta = currentCatMeta();
-    var html = '<div class="opd-h1">' + (meta.icon[cat]||'') + ' ' + cat + '</div><div class="dis-grid">';
-    plist.forEach(function(p){
-      html += '<button class="dis-tile" data-action="proc" data-id="' + escapeAttr(p.id) + '">' + p.t + '<span class="dt-sub">' + p.h3 + '</span></button>';
+    var subgroups = {};
+    plist.forEach(function(p){ (subgroups[p.h3]||(subgroups[p.h3]=[])).push(p); });
+    var subgroupOrder = [];
+    plist.forEach(function(p){ if(subgroupOrder.indexOf(p.h3)<0) subgroupOrder.push(p.h3); });
+    var html = '<div class="opd-h1">' + (meta.icon[cat]||'') + ' ' + cat + '</div>' +
+      '<div class="proc-guide">Ranked within each clinical subgroup by qualitative contemporary use. Frequency and status are guidance labels, not procedure-volume statistics.</div>';
+    subgroupOrder.forEach(function(h3){
+      var group = subgroups[h3].sort(function(a,b){ return a.useRank-b.useRank; });
+      html += '<section class="proc-subgroup"><div class="proc-subgroup-title">' + h3 + '<span class="proc-subgroup-count">' + group.length + ' interventions</span></div><div class="dis-grid">';
+      group.forEach(function(p){
+        html += '<button class="dis-tile" data-action="proc" data-id="' + escapeAttr(p.id) + '">' + p.t + '<span class="proc-meta">' + procedureMetaHtml(p) + '</span></button>';
+      });
+      html += '</div></section>';
     });
-    html += '</div>';
     return html;
   }
   var srcBy = (MODE === 'diseases') ? BYDISH2 : BYCAT;
@@ -486,7 +586,7 @@ function renderSearchResults(q){
     plist.forEach(function(p){
       var snippet = findMatchSnippet(p, ql, PROC_SEARCH_FIELDS);
       var subText = snippet ? escapeHtml(snippet) : p.h2;
-      html += '<button class="dis-tile" data-action="proc" data-id="' + escapeAttr(p.id) + '">' + p.t + '<span class="dt-sub">' + subText + '</span></button>';
+      html += '<button class="dis-tile" data-action="proc" data-id="' + escapeAttr(p.id) + '">' + p.t + '<span class="dt-sub">' + subText + '</span><span class="proc-meta">' + procedureMetaHtml(p) + '</span></button>';
     });
     html += '</div>';
     return html;
@@ -543,6 +643,7 @@ function renderProcDetail(p){
   return '<div class="card">' +
     '<div class="dtitle">' + p.t + '</div>' +
     '<div class="dbread">' + p.h2 + ' &rsaquo; ' + p.h3 + '</div>' +
+    '<div class="proc-meta proc-detail-meta">' + procedureMetaHtml(p) + '</div>' +
     usedForHtml +
     '<div class="dtabs">' + tabsHtml + '</div>' +
     panelsHtml +

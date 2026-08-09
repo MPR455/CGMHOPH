@@ -31,10 +31,18 @@
   #sidebar{position:fixed;top:var(--bar-h);left:0;bottom:0;width:var(--side);z-index:25;overflow:auto;
            background:var(--panel);border-right:1px solid var(--line);padding:6px 5px 40px;box-shadow:4px 0 18px rgba(0,0,0,.08)}
   #sidebar{transition:width .22s,padding .22s}
+  .toolbox-search-wrap{position:sticky;top:-6px;z-index:4;display:flex;gap:5px;padding:6px 2px 8px;background:var(--panel)}
+  .toolbox-search{min-width:0;flex:1;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);font-size:12px;outline:none}
+  .toolbox-search:focus{border-color:var(--accent);box-shadow:0 0 0 2px color-mix(in srgb,var(--accent) 20%,transparent)}
+  .toolbox-search::placeholder{color:var(--muted)}
+  .toolbox-search-clear{display:none;flex:0 0 auto;padding:6px 9px;color:var(--muted)}
+  .toolbox-search-wrap.has-query .toolbox-search-clear{display:block}
+  .toolbox-no-results{display:none;padding:22px 12px;text-align:center;color:var(--muted);font-size:13px}
   .cat{margin-bottom:2px}
   .cat>.chead{display:flex;align-items:center;gap:5px;padding:5px 7px;border-radius:7px;cursor:pointer;
         font-size:11px;letter-spacing:.2px;text-transform:uppercase;color:var(--muted);font-weight:700;user-select:none}
   .cat>.chead:hover{background:rgba(255,255,255,.04);color:var(--ink)}
+  .cat.current-cat>.chead{color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,transparent)}
   .cat>.chead .car{transition:transform .15s;font-size:10px}
   .cat.collapsed>.chead .car{transform:rotate(-90deg)}
   .cat>.chead .cn{margin-left:auto;font-size:10px;background:rgba(255,255,255,.08);border-radius:9px;padding:1px 6px;color:var(--muted)}
@@ -43,7 +51,8 @@
   .mapbtn{display:block;width:100%;text-align:left;padding:5px 7px;border-radius:6px;font-size:12px;line-height:1.2;
           white-space:normal;overflow:visible;background:rgba(255,255,255,.025);border:1px solid transparent;color:var(--ink)}
   .mapbtn:hover{background:rgba(255,255,255,.07);border-color:var(--accent)}
-  .mapbtn.active{background:var(--panel);border-color:var(--accent);color:var(--accent);font-weight:700;box-shadow:inset 3px 0 0 var(--accent)}
+  .mapbtn.active{position:relative;padding-right:57px;background:color-mix(in srgb,var(--accent) 12%,var(--panel));border-color:var(--accent);color:var(--accent);font-weight:700;box-shadow:inset 3px 0 0 var(--accent),0 0 0 1px color-mix(in srgb,var(--accent) 18%,transparent)}
+  .mapbtn.active::after{content:"Current";position:absolute;right:6px;top:50%;transform:translateY(-50%);padding:2px 5px;border-radius:8px;background:var(--accent);color:var(--on-accent);font-size:8.5px;font-weight:800;letter-spacing:.2px;text-transform:uppercase}
   .mapbtn b{display:inline;font-weight:550}
   .empty{padding:5px 10px;color:#5b6a86;font-size:12px;font-style:italic;grid-column:1/-1}
 
@@ -56,11 +65,16 @@
 
   /* full-page toolbox: categories stay grouped; individual maps become cards */
   body.toolbox-expanded #sidebar{right:0;width:auto;z-index:55;padding:18px 42px 70px;border-right:0;box-shadow:none}
+  body.toolbox-expanded #sidebar .toolbox-search-wrap{top:-18px;margin:0 -4px 16px;padding:14px 4px 10px}
+  body.toolbox-expanded #sidebar .toolbox-search{padding:12px 14px;border-radius:10px;font-size:14px}
+  body.toolbox-expanded #sidebar .toolbox-search-clear{padding:9px 13px;font-size:14px}
   body.toolbox-expanded #sidebar .cat{margin:0 0 14px;border:1px solid var(--line);border-radius:12px;padding:6px;background:color-mix(in srgb,var(--panel) 92%,var(--accent))}
   body.toolbox-expanded #sidebar .chead{padding:8px 10px;font-size:12px;color:var(--ink)}
   body.toolbox-expanded #sidebar .cbody{padding:2px 6px 8px}
   body.toolbox-expanded #sidebar .cbody-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:8px}
   body.toolbox-expanded #sidebar .mapbtn{min-height:48px;padding:9px 11px;white-space:normal;background:var(--bg);border-color:var(--line);font-size:13px}
+  body.toolbox-expanded #sidebar .mapbtn.active{padding-right:72px;background:color-mix(in srgb,var(--accent) 13%,var(--bg));border-color:var(--accent);box-shadow:inset 4px 0 0 var(--accent),0 0 0 2px color-mix(in srgb,var(--accent) 22%,transparent)}
+  body.toolbox-expanded #sidebar .mapbtn.active::after{right:9px;padding:3px 7px;font-size:9px}
   body.toolbox-expanded #sidebar .mapbtn:hover{border-color:var(--accent);transform:translateY(-1px)}
   body.toolbox-expanded #viewtoggles{visibility:hidden}
 
@@ -158,6 +172,7 @@
 <script>
 /* data comes from mindmaps/generated/manifest.json and is lazy-loaded per map */
 let CATEGORIES=[]; let MAPS=[];
+let CURRENT_MAP_ID=null;
 const SOURCE_PDFS_AVAILABLE=!location.hostname.endsWith("github.io");
 
 /* =====================================================================
@@ -331,13 +346,14 @@ async function loadMap(map){
     map._prepped=true;
   }
   ROOT=map.data;
+  CURRENT_MAP_ID=map.id;
   eachNode(n=>{ n.collapsed=false; });
   nodeEls.forEach(el=>el.remove()); nodeEls.clear(); svg.innerHTML="";
   const sub=map.subcategory?" / "+escapeHtml(map.subcategory):"";
   document.getElementById("crumb").innerHTML=escapeHtml(displayTitle(map.title))+" <small>· "+escapeHtml(map.category)+sub+"</small>";
   const pdfLink=document.getElementById("sourcePdf");
   pdfLink.style.display=(SOURCE_PDFS_AVAILABLE&&map.sourcePdf)?"inline-block":"none"; if(map.sourcePdf) pdfLink.href=map.sourcePdf;
-  document.querySelectorAll(".mapbtn").forEach(b=>b.classList.toggle("active", b.dataset.id===map.id));
+  revealCurrentMap();
   const ip=document.getElementById("imgpanel");
   const imgs=(map.images&&map.images.length)?map.images:(map.image?[{file:map.image,caption:map.imageCaption||""}]:[]);
   if(imgs.length){ ip.querySelector(".lbl").textContent=imgs.length>1?"Images":"Image";
@@ -352,9 +368,18 @@ document.getElementById('tgImg').onclick=e=>{ document.body.classList.toggle('im
 
 function buildSidebar(){
   const sb=document.getElementById("sidebar"); sb.innerHTML="";
+  const searchWrap=document.createElement("div"); searchWrap.className="toolbox-search-wrap";
+  const search=document.createElement("input"); search.id="toolboxSearch"; search.className="toolbox-search"; search.type="search";
+  search.placeholder="Search mind maps..."; search.setAttribute("aria-label","Search mind maps");
+  const clear=document.createElement("button"); clear.className="toolbox-search-clear"; clear.type="button"; clear.textContent="Clear";
+  clear.title="Clear search"; clear.onclick=()=>clearToolboxSearch();
+  search.oninput=()=>filterToolbox(search.value);
+  searchWrap.appendChild(search); searchWrap.appendChild(clear); sb.appendChild(searchWrap);
+  const noResults=document.createElement("div"); noResults.id="toolboxNoResults"; noResults.className="toolbox-no-results";
+  noResults.textContent="No mind maps match that search."; sb.appendChild(noResults);
   CATEGORIES.forEach(cat=>{
     const maps=MAPS.filter(m=>m.category===cat);
-    const wrap=document.createElement("div"); wrap.className="cat collapsed";
+    const wrap=document.createElement("div"); wrap.className="cat collapsed"; wrap.dataset.search=cat.toLowerCase();
     const head=document.createElement("div"); head.className="chead";
     head.innerHTML="<span class=\"car\">▾</span><span>"+escapeHtml(cat)+"</span><span class=\"cn\">"+maps.length+"</span>";
     head.onclick=()=>wrap.classList.toggle("collapsed");
@@ -366,8 +391,9 @@ function buildSidebar(){
         const grid=document.createElement("div"); grid.className="cbody-grid";
         maps.filter(m=>(m.subcategory||"")===sub).forEach(m=>{
           const btn=document.createElement("button"); btn.className="mapbtn"; btn.dataset.id=m.id; btn.title=displayTitle(m.title);
+          btn.dataset.search=[displayTitle(m.title),m.title,m.category,m.subcategory||""].join(" ").toLowerCase();
           btn.innerHTML="<b>"+escapeHtml(displayTitle(m.title))+"</b>";
-          btn.onclick=()=>{ setToolboxExpanded(false); loadMap(m); };
+          btn.onclick=()=>{ CURRENT_MAP_ID=m.id; clearToolboxSearch(); setToolboxExpanded(false); loadMap(m); };
           grid.appendChild(btn);
         });
         body.appendChild(grid);
@@ -375,15 +401,70 @@ function buildSidebar(){
     } else { const em=document.createElement("div"); em.className="empty"; em.textContent="no maps yet"; body.appendChild(em); }
     wrap.appendChild(head); wrap.appendChild(body); sb.appendChild(wrap);
   });
+  revealCurrentMap({scroll:false});
+}
+
+function clearToolboxSearch(){
+  const search=document.getElementById('toolboxSearch');
+  if(!search) return;
+  search.value=''; filterToolbox('');
+}
+
+function filterToolbox(value){
+  const q=String(value||'').trim().toLowerCase();
+  const wrap=document.querySelector('#sidebar .toolbox-search-wrap');
+  if(wrap) wrap.classList.toggle('has-query',!!q);
+  let matches=0;
+  document.querySelectorAll('#sidebar .cat').forEach(cat=>{
+    const categoryMatch=!!q && (cat.dataset.search||'').includes(q);
+    let catMatches=0;
+    cat.querySelectorAll('.cbody-grid').forEach(grid=>{
+      let gridMatches=0;
+      grid.querySelectorAll('.mapbtn').forEach(btn=>{
+        const hit=!q || categoryMatch || (btn.dataset.search||'').includes(q);
+        btn.hidden=!hit;
+        if(hit){ gridMatches++; catMatches++; matches++; }
+      });
+      grid.hidden=gridMatches===0;
+      const subhead=grid.previousElementSibling;
+      if(subhead&&subhead.classList.contains('subhead')) subhead.hidden=gridMatches===0;
+    });
+    cat.hidden=!!q&&catMatches===0;
+    if(q&&catMatches) cat.classList.remove('collapsed');
+    else if(!q) cat.classList.toggle('collapsed',!document.body.classList.contains('toolbox-expanded')&&!cat.classList.contains('current-cat'));
+  });
+  const empty=document.getElementById('toolboxNoResults');
+  if(empty) empty.style.display=(q&&matches===0)?'block':'none';
+}
+
+function revealCurrentMap(options){
+  options=options||{};
+  let active=null;
+  document.querySelectorAll('#sidebar .mapbtn').forEach(btn=>{
+    const current=!!CURRENT_MAP_ID&&btn.dataset.id===CURRENT_MAP_ID;
+    btn.classList.toggle('active',current);
+    if(current){ btn.setAttribute('aria-current','page'); active=btn; }
+    else btn.removeAttribute('aria-current');
+  });
+  document.querySelectorAll('#sidebar .cat').forEach(cat=>cat.classList.toggle('current-cat',!!active&&cat.contains(active)));
+  if(!active) return;
+  const currentCat=active.closest('.cat');
+  if(currentCat) currentCat.classList.remove('collapsed');
+  if(options.scroll===false) return;
+  setTimeout(()=>active.scrollIntoView({block:document.body.classList.contains('toolbox-expanded')?'center':'nearest',behavior:'smooth'}),30);
 }
 
 const drawerToggle=document.getElementById('drawerToggle');
 function setToolboxExpanded(expanded){
   document.body.classList.toggle('toolbox-expanded',expanded);
-  document.querySelectorAll('#sidebar .cat').forEach(cat=>cat.classList.toggle('collapsed',!expanded));
+  revealCurrentMap({scroll:false});
+  document.querySelectorAll('#sidebar .cat').forEach(cat=>cat.classList.toggle('collapsed',!expanded&&!cat.classList.contains('current-cat')));
   drawerToggle.textContent=expanded?'◀':'▶';
   drawerToggle.title=expanded?'Return to compact map library':'Expand map library';
   drawerToggle.setAttribute('aria-label',drawerToggle.title);
+  const search=document.getElementById('toolboxSearch');
+  if(search&&search.value.trim()) filterToolbox(search.value);
+  revealCurrentMap();
   if(!expanded&&mode==='map') setTimeout(fit,240);
 }
 drawerToggle.onclick=()=>setToolboxExpanded(!document.body.classList.contains('toolbox-expanded'));
