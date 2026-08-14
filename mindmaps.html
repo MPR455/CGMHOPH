@@ -145,6 +145,24 @@
   body.bar-hidden #sidebar,body.bar-hidden #stage,body.bar-hidden #list{top:0}
   body.bar-hidden #drawerToggle{top:12px}
   body.imgs-off #imgpanel{display:none !important}
+
+  /* On phones the compact toolbox becomes an off-canvas drawer so the map
+     keeps the full viewport. Reopening it returns to the current map entry. */
+  @media (max-width:720px){
+    #sidebar{right:0;width:auto;padding:10px 12px 70px;border-right:0;transform:translateX(-100%);
+             transition:transform .22s ease;box-shadow:none}
+    #stage,#list{left:0}
+    #drawerToggle{left:0;width:34px;height:48px;border-left:1px solid var(--line);border-radius:0 10px 10px 0;
+                  background:var(--panel);color:var(--accent);font-size:17px}
+    body.toolbox-expanded #sidebar{padding:10px 12px 70px;transform:translateX(0);box-shadow:0 8px 26px rgba(0,0,0,.28)}
+    body.toolbox-expanded #sidebar .toolbox-search-wrap{top:-10px;margin:0;padding:10px 0}
+    body.toolbox-expanded #sidebar .cat{margin-bottom:8px}
+    body.toolbox-expanded #sidebar .cbody-grid{grid-template-columns:1fr}
+    body.toolbox-expanded #sidebar .mapbtn{min-height:44px}
+    body.toolbox-expanded #drawerToggle{right:0;width:34px;border-radius:10px 0 0 10px}
+    #viewtoggles{left:12px}
+    #imgpanel{right:10px;bottom:10px;width:min(190px,52vw)}
+  }
 </style>
 </head>
 <body>
@@ -459,9 +477,10 @@ function setToolboxExpanded(expanded){
   document.body.classList.toggle('toolbox-expanded',expanded);
   revealCurrentMap({scroll:false});
   document.querySelectorAll('#sidebar .cat').forEach(cat=>cat.classList.toggle('collapsed',!expanded&&!cat.classList.contains('current-cat')));
-  drawerToggle.textContent=expanded?'◀':'▶';
+  drawerToggle.innerHTML=expanded?'&#9664;':'&#9654;';
   drawerToggle.title=expanded?'Return to compact map library':'Expand map library';
   drawerToggle.setAttribute('aria-label',drawerToggle.title);
+  drawerToggle.setAttribute('aria-expanded',expanded?'true':'false');
   const search=document.getElementById('toolboxSearch');
   if(search&&search.value.trim()) filterToolbox(search.value);
   revealCurrentMap();
