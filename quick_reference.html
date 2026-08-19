@@ -299,6 +299,140 @@ DATA.push({
   treatmentLinks: []
 });
 
+/* Traditional Chinese patient-facing explanations. These deliberately use
+   plain language and complement, rather than replace, the clinical tabs. */
+var PROC_LAY_ZH = {
+  "Standard Cataract Extraction Techniques": ["移除混濁的水晶體，改善白內障造成的視力模糊、眩光與色彩變淡。", "顯微手術器械；多數情況會植入人工水晶體，超音波乳化術另使用超音波探頭。", "在角膜邊緣做小切口，把混濁水晶體分解或完整取出，再放入人工水晶體；通常使用眼藥水或局部麻醉。", "多數為日間手術，術後需點藥、避免揉眼與重物，並依約回診。", "感染、發炎、眼壓變化、視網膜剝離、人工水晶體度數誤差或位置異常；嚴重併發症少見。"],
+  "Complex Cataract Surgery: Paediatric, Zonular Weakness, Small Pupil and Combined Procedures": ["處理兒童白內障、瞳孔太小、水晶體懸韌帶鬆弛，或需要同時接受其他眼內手術的複雜白內障。", "人工水晶體、囊袋張力環或節段、虹膜鉤／瞳孔擴張環，以及視情況使用的玻璃體切除器械。", "依眼睛問題加上支撐囊袋、擴大瞳孔或前段玻璃體切除等步驟；兒童通常需要全身麻醉。", "恢復與追蹤通常比一般白內障手術更久，兒童還可能需要眼鏡、遮眼與弱視治療。", "囊袋破裂、玻璃體脫出、發炎、青光眼、人工水晶體偏位及再次手術。"],
+  "Secondary IOL (intraocular lens) Implantation, IOL (intraocular lens) Exchange and Lens-Related Salvage Procedures": ["處理沒有合適人工水晶體、人工水晶體移位／度數不合、後囊混濁或白內障手術相關併發症。", "人工水晶體、縫線或鞏膜固定器械；部分處置使用玻璃體切除器或 Nd:YAG 雷射。", "依問題更換、重新固定或補植人工水晶體，清除殘留水晶體／玻璃體，或用雷射打開混濁後囊。", "術後視力恢復速度取決於原本的問題；需監測眼壓、發炎、視網膜與人工水晶體位置。", "出血、感染、角膜傷害、黃斑水腫、視網膜裂孔／剝離及人工水晶體再次移位。"],
+  "Keratoplasty and Keratoprosthesis": ["以健康捐贈角膜的部分或全層取代混濁、變形或失去功能的角膜；極重症可使用人工角膜。", "捐贈角膜組織、細縫線、氣體／空氣；人工角膜手術則使用角膜義體與相關固定材料。", "移除病變角膜層並縫合或貼附移植物；內皮移植常以氣泡將薄片固定在眼內。", "視力改善可能需數週至數月；必須長期點藥並監測排斥，部分縫線需日後拆除。", "排斥、移植物失敗、感染、散光、眼壓升高、氣泡移位或需要再次移植。"],
+  "Corneal Ectasia, Stromal and Epithelial Procedures": ["強化、重塑或平整角膜，用於圓錐角膜、角膜表面混濁／不規則、反覆角膜破皮等問題。", "紫外光與核黃素、準分子雷射、角膜環、細針或表面刮除器械；實際使用取決於處置。", "可能移除表皮、以雷射修整表面、在角膜內放入環段，或用核黃素加紫外光使角膜膠原交聯。", "早期常有異物感、畏光與模糊；表皮癒合前通常需要保護性隱形眼鏡及抗生素／類固醇眼藥。", "感染、疤痕、角膜霧化、視力或度數改變、疼痛、癒合延遲；角膜環可能移位或外露。"],
+  "Ocular Surface Reconstruction and Tectonic Procedures": ["修補角膜或結膜缺損、保護快要穿孔的眼睛，或重建受損的眼表與角膜幹細胞環境。", "羊膜、結膜／角膜緣組織、組織膠、保護性隱形眼鏡、縫線或眼瞼暫時縫合材料。", "清除不健康組織後，以移植物、羊膜、膠或眼瞼覆蓋並保護傷口；範圍依缺損大小調整。", "需頻繁點藥與回診觀察傷口是否密合、感染及血管新生；移植者可能需長期抗排斥藥。", "感染、移植物失敗、疤痕、復發、角膜持續變薄／穿孔及視力受損。"],
+  "Post-Keratoplasty Management: Rejection, Sutures and Astigmatism": ["處理角膜移植後的排斥、縫線問題或散光，目標是保住移植物並改善視力。", "類固醇與其他眼藥、縫線拆除器械；需要時使用額外縫線、切口、雷射或人工水晶體。", "先判斷排斥或散光來源，再以藥物、選擇性拆線、調整縫線或屈光手術處理。", "治療後需密集追蹤角膜透明度、眼壓、散光與感染；紅、痛、怕光或視力下降要立即回診。", "排斥無法逆轉、感染、傷口裂開、散光惡化及需要再次移植。"],
+  "Corneal Laser Refractive Surgery": ["改變角膜弧度，減少近視、散光或部分遠視對眼鏡／隱形眼鏡的依賴。", "飛秒雷射或準分子雷射；表層手術常加保護性隱形眼鏡。SMILE 會取出雷射製作的角膜微透鏡。", "依術式製作角膜瓣、移除表層後雷射塑形，或經小切口取出角膜微透鏡；通常使用眼藥水麻醉。", "多數為門診手術；短期乾澀、眩光與夜間光暈常見，需按時點藥並避免揉眼。", "感染、角膜霧化、度數不足／過度、乾眼、夜間視覺問題、角膜擴張；LASIK 另有角膜瓣相關風險。"],
+  "Lens-Based and Incisional Refractive Surgery": ["利用植入鏡片、置換水晶體或角膜切口矯正高度近視、散光或老花。", "植入式隱形眼鏡／人工水晶體、黏彈劑及顯微手術器械；角膜切開術使用精密刀或飛秒雷射。", "可能保留原水晶體並植入鏡片、移除原水晶體後換人工水晶體，或做弧形切口放鬆散光。", "需要追蹤眼壓、角膜內皮、鏡片位置與視網膜；近距離視力效果依鏡片設計而異。", "感染、眼壓升高、白內障、角膜內皮減少、眩光光暈、視網膜剝離及鏡片位置異常。"],
+  "Refractive Retreatment and Management of Complications": ["修正屈光手術後殘留度數、角膜瓣問題或角膜逐漸變薄凸出的併發症。", "準分子／飛秒雷射、核黃素與紫外光交聯設備、保護性隱形眼鏡；嚴重時可能需要角膜移植。", "先以角膜地形圖找出原因，再選擇再次雷射、掀瓣／轉換切口、交聯或其他重建方式。", "恢復取決於原併發症；角膜擴張通常需要長期地形圖追蹤及視力矯正。", "感染、疤痕、度數不穩、角膜瓣再次受損、擴張持續或最佳矯正視力下降。"],
+  "Penetrating Filtration Surgery": ["建立新的房水排出通道以降低眼壓，用於藥物或雷射控制不佳的青光眼。", "顯微器械、細縫線及常用的抗疤痕藥物 mitomycin C 或 5-fluorouracil；部分術式使用膠原植入物。", "在眼白製作可控制流量的小通道，讓房水流到結膜下形成濾過泡；非穿透術保留一層薄膜。", "術後需密集調整眼藥、縫線與濾過泡，避免揉眼和感染來源。", "眼壓過低／過高、前房變淺、出血、感染、白內障、脈絡膜積液及濾過失敗。"],
+  "Glaucoma Drainage Devices": ["利用引流管把眼內房水帶到眼球表面的儲液盤，降低難治型青光眼的眼壓。", "矽膠管、引流盤、固定縫線及覆蓋管子的角膜／鞏膜等補片。", "將細管放入眼內，連到固定在眼白後方的引流盤；部分裝置有閥門，部分會先暫時綁住管子。", "需追蹤眼壓、管子位置與角膜狀況；無閥裝置常在數週後才完全開始引流。", "眼壓過低、管子阻塞／外露／移位、角膜內皮受損、複視、感染及再次手術。"],
+  "Subconjunctival Minimally Invasive Glaucoma Surgery": ["用細小植入物把房水導到結膜下，降低眼壓，切口通常比傳統濾過手術小。", "XEN 或 PreserFlo 等微型引流植入物、導入器及抗疤痕藥物。", "經眼內或眼外放入微型管道，使房水形成較小的濾過泡；常與白內障手術合併。", "仍需要像濾過手術一樣觀察濾過泡，可能需針撥或補充抗疤痕藥物。", "疤痕造成失敗、眼壓過低、植入物阻塞／移位／外露、感染及需要再次手術。"],
+  "Angle-Based MIGS (minimally invasive glaucoma surgery)": ["從眼內改善天然房水排出路徑，常用於輕至中度開放隅角青光眼並與白內障手術合併。", "微型支架、切割刀、導管或黏彈劑；依術式可能不留下永久植入物。", "經角膜小切口，在房角放入支架、切除部分小樑網，或以導管擴張 Schlemm 管。", "恢復通常較傳統青光眼手術快，但仍需追蹤眼壓且不一定能停掉所有眼藥。", "短暫前房出血、眼壓波動、支架位置不良、效果不足及日後需要其他青光眼手術。"],
+  "Cyclodestructive Procedures": ["降低製造房水的睫狀體功能，以控制難治或疼痛性青光眼。", "二極體雷射探頭、內視鏡探頭、微脈衝探頭或冷凍探頭。", "從眼外、眼內或以冷凍方式處理部分睫狀體，減少房水產生；能量依眼睛狀況調整。", "術後常需類固醇與降眼壓藥，效果可能逐步出現且有時需要重複治療。", "發炎、疼痛、眼壓過低、視力下降、黃斑水腫；過度治療可造成眼球萎縮。"],
+  "Congenital and Paediatric Glaucoma Surgery": ["打開兒童先天異常的房水排出通道，保護視神經並促進正常視覺發育。", "房角鏡、微型刀或小樑切開探頭／導管；通常需要全身麻醉。", "由眼內切開小樑網，或從眼外將探頭送入 Schlemm 管並切開一段或一圈。", "兒童需長期在麻醉或門診下測量眼壓、角膜與視神經，並同時處理眼鏡與弱視。", "出血、感染、眼壓控制不足、角膜混濁及再次手術。"],
+  "Bleb Management and Complications of Filtration Surgery": ["修復青光眼濾過手術後阻塞、漏水、眼壓過低或前房變淺等問題。", "細針、縫線、組織補片、黏彈劑、氣體及抗疤痕藥物，依問題選用。", "可能用針鬆開疤痕、縫補漏口、重建濾過泡，或注入藥物／材料恢復眼球形態與壓力。", "需密集監測眼壓、前房深度、傷口滲漏與感染，並調整眼藥。", "感染、持續漏水、眼壓過低／過高、出血、脈絡膜積液及再次修補。"],
+  "Core Retinal Detachment Procedures": ["把脫離的視網膜重新貼回並封住裂孔，避免視野和中央視力永久喪失。", "玻璃體切除器、冷凍／雷射、眼內氣體或矽油；鞏膜扣壓術使用矽膠帶，氣體網膜固定術使用膨脹氣體。", "依病情從眼內移除玻璃體並封孔、在眼外加壓，或注入氣泡配合雷射／冷凍。", "若有氣體需嚴格維持指定姿勢，且在氣體完全消失前不可搭飛機或接受笑氣麻醉。", "白內障、眼壓升高、感染、出血、增殖性疤痕、再次剝離及視力無法完全恢復。"],
+  "Macular Surgery": ["移除拉扯黃斑的薄膜或關閉黃斑裂孔，以改善變形、中央模糊或防止惡化。", "微創玻璃體切除器、細鉗、黃斑染劑，以及黃斑裂孔手術常用的氣體。", "先移除玻璃體，再剝除黃斑表面的膜或內界膜；裂孔手術通常注入氣體協助癒合。", "視力多在數週至數月逐步改善；有氣體時需依指示趴睡／低頭並避免飛行。", "白內障、視網膜裂孔／剝離、感染、出血、視野小缺損及裂孔未閉合。"],
+  "Complex Detachment, Tamponade and PVR (proliferative vitreoretinopathy) Surgery": ["處理複雜或反覆視網膜剝離、嚴重疤痕拉扯，並選擇維持視網膜貼附的填充物。", "重水、氣體、標準或重型矽油、雷射、剪刀及玻璃體切除器械。", "移除玻璃體與疤痕膜，必要時切開或移除僵硬視網膜，再以雷射及氣體／矽油固定。", "常需特定姿勢與多次手術；矽油可能日後取出，視力恢復通常較慢且有限。", "再次剝離、眼壓異常、角膜損傷、白內障、低眼壓、感染及永久視力受損。"],
+  "Vitreoretinal Surgery in Special Situations": ["處理糖尿病牽引、巨大裂孔、早產兒視網膜病變、眼內出血或其他高難度後段疾病。", "微創玻璃體切除器、雷射、氣體／矽油、鑷子與依病情需要的扣壓帶或人工水晶體固定器材。", "依病因移除血液與牽引膜、封閉裂孔並固定視網膜；有時需合併白內障或人工水晶體手術。", "恢復與預後高度取決於原疾病，常需長期視網膜追蹤及控制糖尿病等全身問題。", "出血、再次剝離、青光眼、白內障、感染、低眼壓及有限的視力恢復。"],
+  "Adjunctive and Diagnostic Vitreoretinal Procedures": ["取得眼內檢體、治療脈絡膜上腔出血，或輔助診斷感染、發炎與眼內腫瘤。", "玻璃體切除／抽吸器械、檢體瓶與微生物／病理檢驗設備；出血引流可使用套管與灌流。", "經眼白小切口抽取玻璃體或引流積血，檢體立即送驗；必要時同時注射治療藥物。", "依原因追蹤感染、出血、眼壓與視網膜；檢驗結果可能決定後續抗生素、免疫或腫瘤治療。", "出血、感染、視網膜裂孔／剝離、低眼壓及檢體不足。"],
+  "Glaucoma Lasers": ["用雷射改善房水排出、解除瞳孔阻滯或輔助控制青光眼眼壓。", "裂隙燈雷射、接觸鏡及局部麻醉眼藥；依術式使用 YAG、氬或選擇性雷射。", "坐在雷射機前，醫師放置接觸鏡並在虹膜或房角打雷射；通常數分鐘完成。", "當天可能模糊或輕微不適；需按指示點藥並短期複查眼壓，效果不一定永久。", "短暫眼壓升高、發炎、出血、角膜傷害、眩光；少數仍需手術。"],
+  "Anterior Segment and Adjunctive Lasers": ["處理後囊混濁、玻璃體混濁或調整青光眼手術縫線等前段問題。", "YAG 或氬雷射、接觸鏡及局部麻醉眼藥。", "在門診雷射機前瞄準混濁組織或縫線，製作開口、切斷組織或調整濾過效果。", "術後短期可能飛蚊、模糊或發炎，通常需量眼壓並依問題安排散瞳檢查。", "眼壓升高、發炎、黃斑水腫、視網膜裂孔／剝離、人工水晶體損傷。"],
+  "Retinal Lasers and Photodynamic Therapy": ["封閉視網膜裂孔、治療缺血或滲漏血管，或控制特定黃斑／脈絡膜血管病灶。", "視網膜雷射與接觸鏡；光動力治療另需靜脈注射 verteporfin 光敏感藥物。", "經散瞳後以雷射在視網膜做治療點；光動力治療先注射藥物，再以特定波長照射病灶。", "可能暫時模糊、畏光；光動力治療後需依指示避強光，視網膜病患者仍需長期追蹤。", "視野或夜視下降、黃斑水腫、誤傷中央視網膜、出血；光動力治療可造成光敏感反應。"],
+  "Office and Minor Procedures": ["在門診完成的小型處置，用於取異物、處理霰粒腫／睫毛倒插、淚點問題、注射藥物或暫時緩解症狀。", "局部麻醉眼藥或注射、細針／小刀／鑷子、燒灼或冷凍設備；眼內注射會使用無菌眼瞼撐開器與消毒藥。", "消毒與局部麻醉後，依問題進行切開、刮除、拔除、注射、沖洗或燒灼；多數當天可回家。", "按指示點藥並保持清潔；眼內注射後若劇痛、明顯紅眼或視力驟降要立刻就醫。", "出血、感染、腫脹、復發、疤痕；眼內注射另有眼內炎、視網膜剝離與眼壓升高風險。"],
+  "Ptosis Surgery": ["抬高下垂的上眼皮，改善視野遮擋、頭部代償姿勢或外觀。", "細縫線；額肌懸吊術可能使用自體筋膜或矽膠等吊帶材料。", "縮短／前移提眼肌、切除部分 Müller 肌，或用吊帶把眼瞼連到額肌；通常由皮膚或結膜切口進行。", "術後腫脹瘀青常見，需冰敷與塗藥；眼瞼高度可能在消腫後才穩定。", "左右不對稱、矯正不足／過度、眼睛閉不緊、乾眼、感染及再次調整。"],
+  "Blepharoplasty and Brow Surgery": ["移除或重新分布多餘皮膚與脂肪，或抬高眉毛，以改善視野遮擋、眼皮沉重或外觀。", "手術刀／電燒、細縫線；部分手術使用內視鏡、固定器或脂肪重新定位。", "沿眼皮摺痕、下眼瞼內側／皮膚或眉部切口處理皮膚、肌肉與脂肪。", "瘀青腫脹通常持續一至數週；需冰敷、抬高頭部並暫停隱形眼鏡與劇烈活動。", "出血、感染、疤痕、乾眼、閉眼不全、眼瞼外翻／不對稱；眼窩後出血雖罕見但可能威脅視力。"],
+  "Eyelid Malposition: Ectropion, Entropion and Trichiasis": ["矯正眼瞼外翻、內翻或睫毛倒插，減少流淚、異物感及角膜磨損。", "細縫線；需要時使用皮膚移植、黏膜移植、電解針、雷射或冷凍探頭。", "依原因拉緊眼瞼、重接下眼瞼肌肉、加入移植物，或破壞／重新排列異常睫毛毛囊。", "術後短期腫脹、瘀青與拉緊感常見；需塗藥並保護角膜。", "復發、左右不對稱、矯正過度、疤痕、感染及角膜持續受傷。"],
+  "Canthal Surgery, Chalazion and Eyelid Lesion Biopsy": ["重建眼角張力、治療霰粒腫，或取得眼瞼腫塊組織以確認診斷。", "局部麻醉、細縫線、刮匙與病理檢體瓶；較大缺損可能使用局部皮瓣。", "依處置切開眼瞼內側刮除內容物、切取部分／全部腫塊，或固定外眼角組織。", "保持傷口清潔並等待病理報告；惡性結果可能需要擴大切除或其他治療。", "出血、感染、疤痕、復發、眼瞼形狀改變及病灶未完全移除。"],
+  "Eyelid Reconstruction by Defect Size and Lamella": ["在腫瘤切除或外傷後重建眼瞼，保護眼球並盡量恢復外觀與閉眼功能。", "局部皮瓣、皮膚／黏膜／硬顎／瞼板移植物、細縫線；部分方法需暫時把上下眼瞼連在一起。", "依缺損大小分別重建外層皮膚肌肉與內層支撐黏膜，使用直接縫合、鄰近皮瓣或游離移植物。", "可能需分兩階段手術；癒合期間眼裂可能暫時被遮住，需照護傷口與眼表。", "皮瓣或移植物壞死、感染、疤痕、眼瞼缺刻／內外翻、閉眼不全及再次修整。"],
+  "Eyelid Trauma, Corneal Protection and Botulinum Toxin": ["修補眼瞼／淚小管外傷、保護無法閉合的角膜，或以肉毒桿菌毒素減少不自主痙攣。", "細縫線、淚小管矽膠管、眼瞼配重金／鉑片，或 botulinum toxin 注射。", "可能精細對合眼瞼與淚管、暫時縫合眼瞼、植入配重，或在特定肌肉注射少量藥物。", "外傷與植入物需追蹤癒合及感染；肉毒桿菌效果通常維持數月後需重複。", "疤痕、流淚、感染、植入物外露、眼瞼下垂、複視或表情不對稱。"],
+  "Orbital Decompression and Orbitotomy": ["為凸眼減壓，或進入眼窩取得腫塊檢體／移除病灶。", "內視鏡或顯微器械、骨鑽、止血材料與病理檢體容器。", "經眼皮、結膜、眼角或鼻內切口，移除部分眼窩骨／脂肪，或沿安全路徑到達腫塊。", "腫脹瘀青可持續數週；需監測視力、眼球活動、感染與病理結果。", "出血、感染、複視、眼球位置改變、眼窩下神經麻木、腦脊髓液漏及罕見視力喪失。"],
+  "Orbital Trauma, Compartment Syndrome and Infection": ["修復眼窩骨折、緊急釋放眼窩高壓，或引流可能威脅視力／生命的眼窩感染。", "眼窩植入片、引流管、細菌培養瓶；緊急減壓使用剪刀與止血器械。", "依情況放回受困組織並覆蓋骨缺損、切開外眼角減壓，或經眼皮／鼻竇引流膿瘍。", "需密切監測視力、瞳孔、眼球運動與感染；感染通常同時需要靜脈抗生素。", "出血、感染、複視、眼球凹陷／位置異常、神經麻木及永久視力損傷。"],
+  "Lacrimal Drainage Surgery": ["打通或繞過阻塞的淚液排出通道，改善持續流淚、分泌物或反覆淚囊感染。", "矽膠淚管、探針、球囊、內視鏡；完全無法使用原通道時可放置 Jones 玻璃管。", "擴張／探通淚道，或從皮膚／鼻內建立淚囊到鼻腔的新開口；部分手術放入暫時支架。", "術後需點藥、鼻腔照護並避免擤鼻；矽膠管通常數週至數月後移除。", "出血、感染、疤痕再阻塞、管子移位、鼻腔沾黏及仍然流淚。"],
+  "Socket Surgery: Enucleation, Evisceration and Socket Reconstruction": ["移除無法保留、疼痛或有腫瘤的眼球內容，或重建萎縮眼窩以便配戴義眼。", "眼窩植入物、包覆材料、真皮脂肪或黏膜移植物、義眼模具與細縫線。", "依病情移除整個眼球或保留眼白只移除內容物，再放入植入物補充體積；後續可重建眼窩皺褶。", "傷口癒合後由義眼師製作外觀義眼；需長期清潔並監測植入物與眼窩。", "出血、感染、植入物外露／移位、眼窩凹陷、義眼活動不佳及需要再次重建。"],
+  "Rectus Muscle Surgery and Dosing": ["調整水平或垂直眼外肌力量，改善斜視、複視或異常頭位。", "細縫線與眼外肌鉤；可調式手術使用術後可微調的縫線結。", "把肌肉後移以減弱，或縮短／前移以增強；可調式縫線可在清醒後依眼位微調。", "眼紅、異物感與複視波動常持續數天至數週；眼位可能數週後才穩定。", "矯正不足／過度、複視、感染、肌肉滑脫／遺失、眼球穿孔及再次手術。"],
+  "Oblique Muscle Surgery": ["調整斜肌力量，改善垂直斜視、眼球旋轉或特定頭位。", "細縫線、眼外肌鉤；部分術式使用矽膠擴張帶。", "依問題將斜肌後移、切除一段、延長、縮短或改變附著位置。", "術後眼位與旋轉感可能逐步適應，需追蹤複視與頭位。", "矯正不足／過度、黏連、限制性斜視、複視及需要再次手術。"],
+  "Faden, Transposition and Chemodenervation": ["改變肌肉在特定視線方向的作用，治療神經麻痺、複雜斜視或暫時降低過強肌肉力量。", "細縫線、眼外肌器械；化學去神經使用 botulinum toxin。", "可把肌肉固定在較後方、將其他肌肉移位來代替麻痺肌肉，或注射肉毒桿菌毒素暫時放鬆肌肉。", "效果與眼位需數週評估；肉毒桿菌效果會逐漸消退，可能需重複或改做手術。", "複視、矯正不足／過度、眼瞼下垂、垂直偏差、前節缺血及再次手術。"],
+  "Pattern Strabismus, Special Syndromes and Complications": ["處理 A/V 型斜視、Duane 症候群、眼震、滑脫／遺失肌肉或其他特殊斜視問題。", "細縫線、眼外肌鉤及依個案使用的肌肉搜尋／固定器械。", "依眼球運動分析選擇肌肉移位、縮短／後移、固定或重新找到受損肌肉；目標常是改善正前方眼位與頭位。", "結果因原疾病而異，可能需要稜鏡、視覺復健或多次手術。", "複視、新的眼球運動限制、矯正不足／過度、前節缺血、眼球穿孔及再次手術。"],
+  "Radiotherapy and Thermal Ablation for Intraocular Tumours": ["以局部放射線或熱能控制眼內腫瘤，盡量保留眼球與可用視力。", "放射性斑塊、質子／立體定位放射設備，或紅外線熱治療雷射。", "把放射源暫時縫在眼球外側腫瘤位置，或由外部精準照射；熱治療則經瞳孔加熱腫瘤。", "腫瘤縮小需數月，必須終身追蹤局部復發、轉移及放射線副作用。", "白內障、乾眼、視網膜／視神經放射損傷、青光眼、視力下降及腫瘤控制失敗。"],
+  "Tumour Resection, Biopsy and Removal of the Eye": ["取得眼內腫瘤組織、局部切除腫瘤，或在無法安全保留時移除眼球／眼窩內容。", "細針與檢體容器、顯微切除器械、冷凍探頭；移除眼球時可能放置眼窩植入物。", "依腫瘤位置由眼白或眼內切取檢體／腫瘤；廣泛惡性疾病可能需移除眼球甚至眼窩組織。", "病理與基因結果會影響轉移風險評估及後續治療；需腫瘤團隊長期追蹤。", "出血、視網膜剝離、腫瘤播散、視力喪失、局部復發及手術外觀／心理影響。"],
+  "Retinoblastoma Chemotherapy and Focal Therapy": ["治療兒童視網膜母細胞瘤，目標依序是保命、保眼，再盡量保留視力。", "全身化療藥、眼動脈導管、玻璃體內／前房內細針，以及雷射或冷凍探頭。", "可由靜脈、眼動脈或直接眼內給藥，再用雷射／冷凍加強局部控制；通常需多個療程並在全身麻醉下檢查。", "兒童需由眼腫瘤、兒科腫瘤與遺傳團隊長期追蹤另一眼、復發及第二癌症風險。", "骨髓抑制、感染、眼動脈阻塞、視網膜／脈絡膜傷害、白內障、腫瘤播散及治療失敗。"],
+  "Ocular Surface and Adnexal Tumour Procedures": ["診斷並清除結膜、角膜或眼瞼腫瘤，確認邊界與是否已擴散到淋巴結。", "手術刀／剪、冷凍探頭、酒精、局部化療眼藥、活檢容器；前哨淋巴結手術使用放射性示蹤劑。", "依腫瘤採不接觸切除、角膜表層移除、地圖式多點活檢或前哨淋巴結定位切除，並送病理檢查。", "需依病理結果決定追加冷凍、局部化療、放射線或更大範圍手術，並長期監測復發。", "感染、疤痕、角膜幹細胞缺乏、淚道狹窄、腫瘤復發／播散及淋巴結手術相關神經傷害。"]
+};
+
+var PROC_LAY_ZH_OVERRIDES = {
+  "p17-nd-yag-yttrium-aluminium-garnet-laser-la": ["用途：用雷射打開白內障手術後變混濁的後囊膜，改善再次出現的霧視與眩光。", "材料／器械：Nd:YAG 雷射、接觸鏡與局部麻醉眼藥。", "怎麼做：坐在雷射機前，醫師在混濁後囊中央製作透明開口；通常數分鐘完成，沒有切口。"],
+  "p18-anterior-vitrectomy-for-posterior-capsul": ["用途：清除白內障手術中跑到前房或傷口的玻璃體，避免拉扯視網膜及其他併發症。", "材料／器械：前段玻璃體切除器、灌流液與視情況使用的人工水晶體。", "怎麼做：經小切口以高速切割吸除脫出的玻璃體，穩定眼內結構後再決定人工水晶體放置方式。"],
+  "p30-corneal-biopsy": ["用途：取得少量角膜組織，診斷一般檢查無法確定的感染、發炎、沉積或腫瘤。", "材料／器械：細刀／環鑽、鑷子與分開標示的微生物及病理檢體瓶。", "怎麼做：局部麻醉後切取病灶邊緣少量組織並立即送驗，必要時放置保護性隱形眼鏡。"],
+  "p37-therapeutic-epithelial-debridement": ["用途：移除鬆脫或不健康的角膜表皮，讓新的表皮較平整地長回，常用於反覆角膜糜爛。", "材料／器械：棉棒、鈍刮匙或細刀，以及保護性隱形眼鏡。", "怎麼做：點麻醉藥後輕輕移除病變表皮，清潔表面並戴上保護鏡片等待癒合。"],
+  "p39-corneal-suture-removal-after-keratoplast": ["用途：拆除角膜移植後鬆脫、感染或造成散光的縫線。", "材料／器械：裂隙燈、細針／剪與鑷子、局部麻醉及抗生素眼藥。", "怎麼做：在顯微鏡下切斷並抽出指定縫線；通常一次只處理部分縫線，以免角膜形狀突然改變。"],
+  "p88-silicone-oil-removal-sor": ["用途：視網膜穩定後取出先前為固定視網膜而放入的矽油。", "材料／器械：微創玻璃體手術套管、灌流與抽吸設備；有時同時處理白內障或殘留膜。", "怎麼做：經眼白小切口抽出矽油並補充眼內液體或氣體，再確認視網膜仍貼附。"],
+  "p94-drainage-of-suprachoroidal-haemorrhage": ["用途：引流眼球壁與脈絡膜之間的大量積血，減輕眼內擠壓、疼痛與結構損害。", "材料／器械：鞏膜切開器械、套管、灌流液；必要時合併玻璃體切除。", "怎麼做：等待血塊適度液化後，在影像定位處做眼白開口讓積血緩慢流出，同時維持眼球壓力。"],
+  "p95-diagnostic-vitrectomy-and-vitreous-biops": ["用途：抽取玻璃體檢體，找出不明原因眼內發炎、感染或淋巴瘤。", "材料／器械：玻璃體切除器與分裝給微生物、細胞學、流式細胞及分子檢驗的無菌檢體容器。", "怎麼做：經眼白微小切口先取得未稀釋玻璃體，再完成必要的玻璃體切除並立即送驗。"],
+  "p112-corneal-foreign-body-removal-and-rust-ri": ["用途：取出卡在角膜的金屬或其他異物，並清除可能殘留的鐵鏽環。", "材料／器械：局部麻醉、細針／異物鏟或低速鏽環鑽。", "怎麼做：在裂隙燈下輕輕挑出異物與適量鏽環，再點抗生素並安排角膜癒合追蹤。"],
+  "p113-chalazion-incision-and-curettage": ["用途：清除長期不退或較大的霰粒腫。", "材料／器械：局部麻醉、霰粒腫夾、小刀與刮匙。", "怎麼做：固定並翻開眼皮，通常從內側切開後刮除發炎內容物，不一定需要皮膚縫線。"],
+  "p114-punctal-plug-insertion-and-punctal-canal": ["用途：堵住淚液排出口，讓自然眼淚在眼表停留更久，改善嚴重乾眼。", "材料／器械：可溶性或矽膠淚點塞；永久處置可使用熱燒灼。", "怎麼做：局部麻醉後把小塞子放入淚點，或以燒灼封閉淚點／淚小管。"],
+  "p115-botulinum-toxin-injection-for-blepharosp": ["用途：暫時放鬆過度收縮的肌肉，治療眼瞼痙攣、半面痙攣或部分斜視。", "材料／器械：botulinum toxin、細針與依體重／肌肉位置計算的劑量。", "怎麼做：在門診把少量藥物注射到指定眼周或眼外肌；效果通常在數天內出現並維持數月。"],
+  "p118-intravitreal-injection-as-an-office-proc": ["用途：把藥物直接送入玻璃體，治療黃斑水腫、新生血管、眼內感染或發炎。", "材料／器械：抗 VEGF、類固醇、抗生素等指定藥物，無菌細針、眼瞼撐開器與優碘消毒。", "怎麼做：消毒並點麻醉後，從眼白安全位置以極細針注入藥物；實際注射只需數秒。"],
+  "p146-lateral-canthotomy-and-cantholysis-for-o": ["用途：眼窩內急性出血造成高壓、威脅視神經時，立即減壓搶救視力。", "材料／器械：局部麻醉、止血鉗與剪刀；這是不能等待影像檢查的急救處置。", "怎麼做：切開外眼角並放鬆外眼角韌帶，讓眼球後方壓力迅速下降，之後再處理出血原因。"],
+  "p156-enucleation-with-orbital-implant": ["用途：因眼內惡性腫瘤、無法修復的嚴重外傷或疼痛盲眼而移除整個眼球。", "材料／器械：眼窩植入物、包覆材料、義眼模具與細縫線。", "怎麼做：保留眼外肌與眼窩組織，移除完整眼球後放入植入物補充體積，癒合後再配製義眼。"],
+  "p157-evisceration-with-orbital-implant-with-o": ["用途：移除失去功能且疼痛或嚴重感染眼睛的眼內內容，同時保留眼白外殼；不適用於疑似眼內腫瘤。", "材料／器械：眼窩植入物、義眼模具與細縫線。", "怎麼做：移除角膜及眼內內容後清潔眼白殼，放入植入物並關閉傷口，日後配製義眼。"],
+  "p180-fine-needle-aspiration-biopsy-fnab-of-uv": ["用途：用少量腫瘤細胞確認診斷並進行染色體／基因風險分析。", "材料／器械：極細針、導引與多個專用檢體容器。", "怎麼做：從眼白或眼內路徑將細針送入腫瘤抽取少量細胞，立即分送病理與基因檢驗。"],
+  "p189-sentinel-lymph-node-biopsy-slnb-for-conj": ["用途：檢查眼表或眼瞼腫瘤最先流向的淋巴結是否已有微小轉移。", "材料／器械：放射性示蹤劑、淋巴攝影、手持伽瑪探測器；有時加用染劑。", "怎麼做：先在腫瘤周圍注射示蹤劑定位前哨淋巴結，再由頭頸外科切除並做精細病理檢查。"]
+};
+
+function procedureLaserZh(p){
+  var id = p.id;
+  var text = [p.t,p.method].join(" ").toLowerCase();
+  var notes = [];
+  function add(note){ if(notes.indexOf(note) < 0) notes.push(note); }
+
+  if(/^p4-/.test(id)) add("**飛秒雷射（femtosecond laser）— 光裂解／光致破壞（photodisruption）：**以極短脈衝在組織內產生微小氣泡，製作角膜切口並分割白內障水晶體；不是靠熱燒灼。");
+  if(/^p17-|^p97-|^p101-|^p103-/.test(id)) add("**Nd:YAG 雷射 — 光裂解／光致破壞（photodisruption）：**以極短高能量脈衝產生微小電漿與衝擊波，切開後囊膜、虹膜或玻璃體混濁；主要不是熱燒灼。");
+  if(/^p11-|^p21-|^p22-|^p44-|^p45-/.test(id)) add("**若以 Nd:YAG 雷射製作周邊虹膜切開：光裂解／光致破壞（photodisruption）**在虹膜形成小孔以預防瞳孔阻滯；這是手術前的輔助步驟，部分情況改以手術剪開。");
+  if(/^p24-|^p25-/.test(id)) add("**UVA 紫外光照射 — 光化學交聯（photochemical cross-linking）：**先讓角膜吸收核黃素，再用 UVA 促使膠原形成更多連結以增加強度；這不是雷射，也不是切削或燒灼角膜。");
+  if(/^p27-|^p41-|^p42-|^p43-|^p50-/.test(id)) add("**準分子雷射（excimer laser，通常 193 nm）— 光消融（photoablation）：**用紫外光打斷分子鍵，逐層移除極薄角膜組織來改變弧度，熱擴散很少。");
+  if(/^p41-|^p50-|^p191-/.test(id)) add("**飛秒雷射 — 光裂解／光致破壞（photodisruption）：**在角膜內製作精確組織平面；LASIK 用來製作角膜瓣，SMILE 用來製作可由小切口取出的角膜微透鏡。");
+  if(/^p26-|^p48-/.test(id)) add("**若使用飛秒雷射：光裂解／光致破壞（photodisruption）**在角膜內製作放置環段的隧道或放置角膜嵌片的口袋；不是用熱燒出空間。");
+  if(/^p29-/.test(id)) add("**若選擇 Nd:YAG 雷射角膜基質穿刺：光裂解／光致破壞（photodisruption）**製作微小點狀作用以增加表皮黏著；機械式細針穿刺則不使用雷射。");
+  if(/^p49-/.test(id)) add("**只有後續以 PRK 修正殘留度數時才使用準分子雷射光消融（photoablation）；**原始放射狀角膜切開術是用刀做切口，本身不是雷射手術。");
+  if(/^p51-/.test(id)) add("**角膜交聯使用核黃素加 UVA 的光化學交聯（photochemical cross-linking），不是雷射消融；**若另以 PRK 規則化角膜，才會使用 193 nm 準分子雷射光消融（photoablation）。");
+  if(/^p52-/.test(id)) add("**若需重新製作或轉換角膜瓣，飛秒雷射以光裂解（photodisruption）建立組織平面；若改做表層 PRK，準分子雷射以光消融（photoablation）塑形。**許多角膜瓣併發症只需掀瓣、沖洗或重新定位，不一定使用雷射。");
+  if(/^p40-|^p47-/.test(id)) add("**若使用飛秒雷射：光裂解／光致破壞（photodisruption）**製作弧形角膜切口；**若使用準分子雷射：光消融（photoablation）**重新塑形角膜。並非每位病人都會使用雷射。");
+  if(/^p69-/.test(id)) add("**810 nm 二極體內視鏡雷射 — 光熱凝固（photothermal coagulation）：**在眼內直接看到並縮小部分睫狀突，減少房水製造。");
+  if(/^p70-|^p104-/.test(id)) add("**連續波 810 nm 二極體雷射 — 光熱凝固／睫狀體消融（photothermal coagulation/cycloablation）：**由眼球外把熱能傳到睫狀體，降低房水製造。");
+  if(/^p71-/.test(id)) add("**微脈衝 810 nm 二極體雷射 — 分段式光熱作用（micropulse photothermal effect）：**把能量分成短脈衝並留冷卻時間，以調節睫狀體功能並減少連續熱破壞。");
+  if(/^p98-/.test(id)) add("**氬雷射 — 光熱凝固（photothermal coagulation）：**讓周邊虹膜基質收縮、把虹膜拉離房角；不是在虹膜打穿孔洞。");
+  if(/^p99-/.test(id)) add("**SLT 選擇性雷射（532 nm、倍頻 Q-switched Nd:YAG）— 選擇性光熱作用（selective photothermolysis）：**主要作用於含色素的小樑網細胞，促進房水排出，周圍組織的熱傷害較少。");
+  if(/^p100-/.test(id)) add("**氬雷射（ALT）— 光熱凝固（photothermal coagulation）：**在小樑網形成微小熱凝固點，藉組織收縮與重塑改善房水排出。");
+  if(/^p102-/.test(id)) add("**氬雷射 — 光熱切斷（photothermal suture lysis）：**加熱並切斷青光眼手術縫線，增加濾過量；能量作用在縫線而不是用來消融眼組織。");
+  if(/^p53-/.test(id)) add("**若術後做雷射拆線：氬雷射的光熱作用（photothermal suture lysis）**經特殊接觸鏡切斷鞏膜瓣縫線以增加引流；trabeculectomy 主手術本身不是雷射手術。");
+  if(/^p54-/.test(id)) add("**若術後做 Nd:YAG goniopuncture：光裂解／光致破壞（photodisruption）**在保留的薄膜製作微小開口以增加房水流出；deep sclerectomy 主手術本身不是雷射手術。");
+  if(/^p60-/.test(id)) add("**若管口被虹膜阻塞：氬雷射以光熱收縮／凝固（photothermal contraction），或 Nd:YAG 以光裂解（photodisruption）移開／切開阻塞組織；**並非每次引流管修正都需要雷射。");
+  if(/^p77-/.test(id)) add("**若以氬雷射關閉睫狀體脫離裂隙：光熱凝固（photothermal coagulation）**在裂隙處造成可控制的發炎與黏著；其他低眼壓原因可能完全不用雷射。");
+  if(/^p105-|^p106-|^p108-/.test(id)) add("**視網膜雷射 — 光熱凝固（retinal photocoagulation）：**色素吸收光能後轉成熱，在視網膜形成可控制的凝固點，用來降低缺血驅動、封閉滲漏或在裂孔周圍形成黏著疤痕。");
+  if(/^p107-/.test(id)) add("**次閾值微脈衝雷射 — 分段式光熱刺激（subthreshold micropulse photothermal stimulation）：**短脈衝之間保留冷卻時間，目標是刺激視網膜色素上皮反應而不形成肉眼可見的燒灼疤。");
+  if(/^p109-/.test(id)) add("**光動力治療（PDT）— 光化學作用（photochemical activation）：**非熱性雷射光啟動血液中的 verteporfin，產生活性氧並選擇性封閉異常血管；不是直接把病灶燒掉。");
+  if(/^p110-|^p178-/.test(id)) add("**810 nm 二極體雷射 — 光熱加溫（transpupillary thermotherapy）：**以較長時間、較低功率把腫瘤或脈絡膜組織加熱；屬熱療，不是光裂解或角膜光消融。");
+  if((p.h2 === "Vitreoretinal Surgery") && /laser/.test(text)) add("**眼內視網膜雷射（endolaser）— 光熱凝固（photocoagulation）：**由眼內探頭在裂孔或缺血視網膜周圍形成凝固點與後續黏著疤痕；不是用雷射切除玻璃體。");
+  if((/^p117-|^p130-/.test(id)) && /laser/.test(text)) add("**若使用氬雷射治療倒睫：光熱凝固（photothermal follicle destruction）**把熱能送到睫毛毛囊以減少再生；並非每種倒睫處置都使用雷射。");
+  if(/^p15-|^p16-/.test(id)) add("**只有發現周邊視網膜裂孔時才使用眼內雷射：光熱凝固（photocoagulation）**在裂孔周圍形成黏著疤痕；主要的人工水晶體／水晶體手術本身不是雷射手術。");
+  if(/^p114-/.test(id)) add("**若選擇氬雷射封閉淚點：光熱凝固（photothermal coagulation）**使淚點組織收縮結疤；再通率較高，因此常改用塞子或熱燒灼。");
+  if(/^p124-/.test(id)) add("**若合併眼皮皮膚雷射 resurfacing：CO2 雷射以光熱汽化／消融為主，Er:YAG 雷射以較精細的光消融為主；**下眼瞼整形的脂肪與肌肉步驟仍是傳統手術。");
+  if(/^p149-/.test(id)) add("**若採雷射輔助鼻內淚囊鼻腔吻合：常用二極體雷射的光熱消融（photothermal ablation）**在鼻腔側建立開口；機械式內視鏡 DCR 則以器械與骨鑽造口。");
+  if(/^p176-/.test(id)) add("**斑塊放射治療本身使用游離輻射，不是雷射；**若另加經瞳孔熱療，則以 810 nm 二極體雷射產生光熱加溫（photothermal hyperthermia）治療腫瘤頂端。");
+  if(/^p179-/.test(id)) add("**若合併視網膜雷射固定：眼內雷射以光熱凝固（photocoagulation）**在切除區或裂孔周圍形成黏著；腫瘤切除本身是顯微手術，不是雷射消融。");
+  if(/^p180-/.test(id)) add("**若以雷射處理針道：視網膜／脈絡膜雷射以光熱凝固（photocoagulation）**封閉進針處並降低腫瘤細胞播散疑慮；細針抽吸本身不用雷射。");
+  if((/^p183-/.test(id)) && /laser/.test(text)) add("**視網膜母細胞瘤局部雷射 — 光熱凝固／熱療（photothermal coagulation/thermotherapy）：**加熱腫瘤及其供血組織，常與化學治療合併，而不是以光裂解切除腫瘤。");
+
+  return notes.join("<br>");
+}
+
+function buildProcedureLayZh(p){
+  var profile = PROC_LAY_ZH[p.h3] || ["以較容易理解的方式說明此項眼科處置的目的。", "實際材料與器械依病情及醫院設備而定。", "醫師會先完成檢查與麻醉，再依標準步驟進行。", "術後需按時用藥並依約回診。", "所有處置都有感染、出血、發炎及效果不如預期的可能。"];
+  var override = PROC_LAY_ZH_OVERRIDES[p.id];
+  var purpose = override ? override[0].replace(/^用途：/, "") : profile[0];
+  var materials = override ? override[1].replace(/^材料／器械：/, "") : profile[1];
+  var method = override ? override[2].replace(/^怎麼做：/, "") : profile[2];
+  var laser = procedureLaserZh(p);
+  return "**這是做什麼的？**<br>" + purpose +
+    "<br><br>**會用到什麼材料或器械？**<br>" + materials +
+    "<br><br>**大致怎麼進行？**<br>" + method +
+    (laser ? "<br><br>**若使用雷射：種類與作用方式**<br>" + laser : "") +
+    "<br><br>**術後與恢復**<br>" + profile[3] +
+    "<br><br>**主要風險**<br>" + profile[4] +
+    "<br><br><em>這是一般性的病人版說明；實際做法、材料、麻醉與恢復時間會依個人病情及醫師判斷調整。</em>";
+}
+PROCS.forEach(function(p){ p.layzh = buildProcedureLayZh(p); });
+
 var BYCAT = {};
 CAT_ORDER.forEach(function(c){BYCAT[c]=[];});
 DATA.forEach(function(d){ d.cats.forEach(function(c){ if(!BYCAT[c])BYCAT[c]=[]; BYCAT[c].push(d); }); });
@@ -328,8 +462,14 @@ function procedureUseScore(p){
   /* Explicit whole-procedure overrides avoid mistaking a historical note about
      one step or implant material for the status of the entire intervention. */
   if(/radial keratotomy|corneal inlays for presbyopia/.test(p.t.toLowerCase())) score = 3;
-  if(/intracapsular cataract extraction|lasek and epi-lasik|cyclocryotherapy/.test(p.t.toLowerCase())) score = Math.min(score,18);
+  if(/intracapsular cataract extraction|cyclocryotherapy/.test(p.t.toLowerCase()) || p.id === "p43-lasek-and-epi-lasik-epithelial-flap-surf") score = Math.min(score,18);
   if(/transpupillary thermotherapy/.test(p.t.toLowerCase()) && /retinal lasers/i.test(p.h3)) score = 8;
+  /* Contemporary corneal-laser use: LASIK remains the global reference,
+     SMILE is a mainstream high-volume option, PRK is established but more
+     selective, and LASEK/epi-LASIK is now comparatively niche. */
+  if(p.id === "p41-laser-in-situ-keratomileusis-lasik-micro") score = 78;
+  if(p.id === "p191-smile-small-incision-lenticule-extraction") score = 74;
+  if(p.id === "p42-photorefractive-keratectomy-prk-surface-") score = 70;
   return Math.max(0,Math.min(100,score));
 }
 
@@ -347,6 +487,12 @@ function procedureStatus(p,score){
 
 function initProcedureUseGuide(){
   var groups = {};
+  var explicitUseOrder = {
+    "p41-laser-in-situ-keratomileusis-lasik-micro": 1,
+    "p191-smile-small-incision-lenticule-extraction": 2,
+    "p42-photorefractive-keratectomy-prk-surface-": 3,
+    "p43-lasek-and-epi-lasik-epithelial-flap-surf": 4
+  };
   PROCS.forEach(function(p,sourceIndex){
     p.useSourceOrder = sourceIndex;
     p.useScore = procedureUseScore(p);
@@ -359,7 +505,16 @@ function initProcedureUseGuide(){
        options in the same subgroup. */
     var statusOrder = {'Current standard':0,'Current option':0,'Limited / niche':1,'Historical / outdated':2};
     groups[h3].sort(function(a,b){
-      return statusOrder[a.useStatus.label]-statusOrder[b.useStatus.label] || a.useSourceOrder-b.useSourceOrder;
+      var statusDelta = statusOrder[a.useStatus.label]-statusOrder[b.useStatus.label];
+      if(statusDelta) return statusDelta;
+      var aExplicit = explicitUseOrder[a.id];
+      var bExplicit = explicitUseOrder[b.id];
+      if(aExplicit !== undefined || bExplicit !== undefined){
+        if(aExplicit === undefined) return 1;
+        if(bExplicit === undefined) return -1;
+        return aExplicit-bExplicit;
+      }
+      return a.useSourceOrder-b.useSourceOrder;
     });
     groups[h3].forEach(function(p,i){
       p.useRank = i+1;
@@ -381,7 +536,7 @@ function procedureMetaHtml(p){
 }
 
 var TABS = [["criteria","Criteria"],["treatment","Treatment"],["prognosis","Prognosis"],["prevalence","Prevalence"],["teach","Teaching"]];
-var PROC_TABS = [["indication","Indication"],["method","Method"],["preop","Pre-op"],["postop","Post-op"],["contra","Contraindications"],["prognosis","Prognosis"],["notes","Notes"]];
+var PROC_TABS = [["layzh","白話說明（繁中）"],["indication","Indication"],["method","Method"],["preop","Pre-op"],["postop","Post-op"],["contra","Contraindications"],["prognosis","Prognosis"],["notes","Notes"]];
 var PREV_LABELS = ["", "Rare", "Uncommon", "Occasional", "Common", "Very common"];
 function prevSort(a,b){
   var ta = a.prevTier||3, tb = b.prevTier||3;
