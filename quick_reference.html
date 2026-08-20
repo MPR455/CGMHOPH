@@ -28,7 +28,27 @@
 .dis-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
 .dis-tile{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;cursor:pointer;text-align:left;font-size:13.6px;font-weight:600;color:var(--ink);line-height:1.4}
 .dis-tile:hover{border-color:var(--acc);background:var(--chip)}
+.dis-tile.sex-female{background:linear-gradient(135deg,rgba(244,114,182,.18),var(--card) 72%);box-shadow:inset 0 0 22px rgba(244,114,182,.12),0 0 10px rgba(244,114,182,.12)}
+.dis-tile.sex-male{background:linear-gradient(135deg,rgba(96,165,250,.18),var(--card) 72%);box-shadow:inset 0 0 22px rgba(96,165,250,.12),0 0 10px rgba(96,165,250,.12)}
+.dis-tile.sex-female:hover{background:linear-gradient(135deg,rgba(244,114,182,.26),var(--chip) 78%)}
+.dis-tile.sex-male:hover{background:linear-gradient(135deg,rgba(96,165,250,.26),var(--chip) 78%)}
 .dis-tile .dt-sub{display:block;font-size:11px;font-weight:500;color:var(--sub);margin-top:3px}
+.genetic-badges{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
+.genetic-pill{display:inline-flex;align-items:center;border-radius:999px;padding:2px 7px;font-size:10px;font-weight:800;line-height:1.25;border:1px solid #cab8ea;background:#f0e9fb;color:#5b238d}
+.gene-pill{border-color:#b8d7f4;background:#e7f2fd;color:#0b4a8f}
+.ird-symptom{display:block;margin-top:7px;padding-top:6px;border-top:1px dashed var(--line);font-size:11px;font-weight:500;color:var(--sub);line-height:1.4}
+.ird-symptom b{color:var(--ink)}
+.disease-detail-badges{margin:7px 0 13px}
+.sex-bias-tag{display:inline-flex;margin-left:6px;border-radius:999px;padding:2px 7px;font-size:9.5px;font-weight:900;vertical-align:middle}
+.sex-female .sex-bias-tag{background:#fce7f3;color:#9d174d;border:1px solid #f9a8d4}
+.sex-male .sex-bias-tag{background:#e0f2fe;color:#075985;border:1px solid #93c5fd}
+.sex-bias-legend{display:flex;gap:8px;flex-wrap:wrap;margin:-5px 0 12px;font-size:11px;color:var(--sub)}
+.sex-legend-item{display:inline-flex;align-items:center;gap:5px}
+.sex-legend-swatch{width:17px;height:11px;border-radius:4px;border:1px solid var(--line)}
+.sex-legend-female{background:rgba(244,114,182,.28)}
+.sex-legend-male{background:rgba(96,165,250,.28)}
+body.theme-dark .genetic-pill,body.theme-black .genetic-pill{background:#2d183e;color:#d9a7ff;border-color:#5b2d7d}
+body.theme-dark .gene-pill,body.theme-black .gene-pill{background:#0d2740;color:#7fc0ff;border-color:#1f4c74}
 .opd-empty{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:40px 20px;text-align:center;color:var(--sub)}
 .dtitle{font-size:18px;font-weight:700;color:var(--acc2);margin:0 0 4px}
 .dbread{font-size:12px;color:var(--sub);margin-bottom:12px}
@@ -472,6 +492,236 @@ function buildProcedureAdditionalKnowledge(p){
 }
 PROCS.forEach(function(p){ p.layzh = buildProcedureLayZh(p); });
 
+/* Expanded IRD catalogue. These compact records are promoted into the main
+   DATA array so Disease, Symptom, search and IRD views stay synchronised. */
+var IRD_CATALOGUE_ADDITIONS = [
+  {id:"ird-ad-rp",t:"Autosomal dominant retinitis pigmentosa (AD-RP)",patterns:["Autosomal dominant"],genes:["RHO","PRPF31","RP1","PRPH2","SNRNP200","TOPORS"],symptom:"Progressive night blindness followed by mid-peripheral field loss; onset and severity vary markedly between families",cats:["Night vision problems","Reduced peripheral or field of vision","Blurred or gradually reduced vision"]},
+  {id:"ird-rpgr-xlrp",t:"RPGR-related X-linked retinitis pigmentosa",patterns:["X-linked"],genes:["RPGR"],sexBias:"male",symptom:"Early night blindness and rapidly progressive peripheral field loss in affected males; female carriers range from asymptomatic to severely affected",cats:["Night vision problems","Reduced peripheral or field of vision","Blurred or gradually reduced vision"]},
+  {id:"ird-rp2-xlrp",t:"RP2-related X-linked retinitis pigmentosa",patterns:["X-linked"],genes:["RP2"],sexBias:"male",symptom:"Childhood-onset night blindness, high myopia and progressive field constriction, usually more severe in males",cats:["Night vision problems","Reduced peripheral or field of vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-rpe65",t:"RPE65-related early-onset retinal dystrophy",patterns:["Autosomal recessive"],genes:["RPE65"],symptom:"Severe childhood night blindness, poor dark adaptation, nystagmus and progressive peripheral then central visual loss",cats:["Night vision problems","Poor vision or unusual appearance noticed in a baby or child","Abnormal or wobbling eye movements"]},
+  {id:"ird-cep290",t:"CEP290-related Leber congenital amaurosis",patterns:["Autosomal recessive"],genes:["CEP290"],symptom:"Severe visual impairment from infancy with nystagmus, high hyperopia and oculodigital behaviour",cats:["Poor vision or unusual appearance noticed in a baby or child","Abnormal or wobbling eye movements"]},
+  {id:"ird-aipl1",t:"AIPL1-related Leber congenital amaurosis",patterns:["Autosomal recessive"],genes:["AIPL1"],symptom:"Profound infantile visual impairment with nystagmus and rapidly progressive retinal degeneration",cats:["Poor vision or unusual appearance noticed in a baby or child","Abnormal or wobbling eye movements"]},
+  {id:"ird-gucy2d",t:"GUCY2D-related Leber congenital amaurosis / cone-rod dystrophy",patterns:["Autosomal recessive","Autosomal dominant"],genes:["GUCY2D"],symptom:"Infantile severe visual loss in recessive disease or later cone-rod dysfunction with photophobia and central visual loss in dominant disease",cats:["Poor vision or unusual appearance noticed in a baby or child","Blurred or gradually reduced vision"]},
+  {id:"ird-crb1",t:"CRB1-related retinal dystrophy",patterns:["Autosomal recessive"],genes:["CRB1"],symptom:"Early rod-cone dystrophy or Leber congenital amaurosis, often with hyperopia, nystagmus and markedly reduced fields",cats:["Night vision problems","Reduced peripheral or field of vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-rdh12",t:"RDH12-related early-onset retinal dystrophy",patterns:["Autosomal recessive","Autosomal dominant"],genes:["RDH12"],symptom:"Childhood night blindness with progressive central macular atrophy and severe visual loss",cats:["Night vision problems","Blurred or gradually reduced vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-nmnat1",t:"NMNAT1-related Leber congenital amaurosis",patterns:["Autosomal recessive"],genes:["NMNAT1"],symptom:"Severe infantile visual loss with nystagmus and characteristic early macular atrophy",cats:["Poor vision or unusual appearance noticed in a baby or child","Abnormal or wobbling eye movements"]},
+  {id:"ird-tulp1",t:"TULP1-related retinal dystrophy",patterns:["Autosomal recessive"],genes:["TULP1"],symptom:"Early-onset night blindness, nystagmus and progressive rod-cone degeneration",cats:["Night vision problems","Poor vision or unusual appearance noticed in a baby or child","Reduced peripheral or field of vision"]},
+  {id:"ird-midd",t:"Maternally inherited diabetes and deafness (MIDD) with macular pattern dystrophy",patterns:["Mitochondrial"],genes:["MT-TL1"],symptom:"Maternally inherited diabetes and sensorineural hearing loss with a characteristic macular pattern dystrophy; vision may remain good until macular atrophy develops",cats:["Blurred or gradually reduced vision","Distorted vision","No symptoms, found on routine check"]},
+  {id:"ird-kearns-sayre",t:"Kearns-Sayre syndrome (mitochondrial pigmentary retinopathy)",patterns:["Mitochondrial"],genes:["mtDNA deletion"],symptom:"Pigmentary retinopathy with onset before age 20, progressive external ophthalmoplegia and ptosis; cardiac conduction disease is a critical systemic risk",cats:["Blurred or gradually reduced vision","Eyelid malposition","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-narp",t:"NARP syndrome / MT-ATP6-related retinal degeneration",patterns:["Mitochondrial"],genes:["MT-ATP6"],symptom:"Night blindness or pigmentary retinopathy with neuropathy, ataxia and developmental or learning difficulties",cats:["Night vision problems","Blurred or gradually reduced vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-mtp",t:"Mitochondrial trifunctional protein and LCHAD disorders with chorioretinopathy",patterns:["Autosomal recessive"],genes:["HADHA","HADHB"],symptom:"Progressive chorioretinal degeneration in a fatty-acid oxidation disorder, often with hypoglycaemia, cardiomyopathy, neuropathy or rhabdomyolysis",cats:["Blurred or gradually reduced vision","Reduced peripheral or field of vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-hjmd",t:"Congenital hypotrichosis with juvenile macular dystrophy",patterns:["Autosomal recessive"],genes:["CDH3"],symptom:"Sparse hair from birth followed by childhood or adolescent central visual loss from progressive posterior-pole chorioretinal atrophy",cats:["Blurred or gradually reduced vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-laurence-moon",t:"Laurence-Moon syndrome with retinal dystrophy",patterns:["Autosomal recessive","Mixed / other"],genes:["PNPLA6","BBS genes"],symptom:"Rod-cone dystrophy with spastic paraplegia, ataxia, developmental impairment and hypogonadism; genetically heterogeneous and clinically overlaps other ciliopathies",cats:["Night vision problems","Reduced peripheral or field of vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-dram2",t:"DRAM2-related retinal dystrophy with macular atrophy",patterns:["Autosomal recessive"],genes:["DRAM2"],symptom:"Central visual loss from macular atrophy with variable cone-rod or rod-cone dysfunction and later peripheral field loss",cats:["Blurred or gradually reduced vision","Distorted vision","Reduced peripheral or field of vision"]},
+  {id:"ird-md-rp-overlap",t:"Inherited macular dystrophy / retinitis pigmentosa overlap phenotype",patterns:["Autosomal dominant","Autosomal recessive","X-linked","Mixed / other"],genes:["ABCA4","PRPH2","PROM1","CRX","RP1L1","CDHR1"],symptom:"Central macular atrophy or flecks accompanied by night blindness or peripheral field loss; the precise phenotype depends on the causal gene",cats:["Blurred or gradually reduced vision","Night vision problems","Reduced peripheral or field of vision","Distorted vision"]},
+  {id:"ird-macular-dystrophy-heterogeneous",t:"Inherited macular dystrophy (genetically heterogeneous)",patterns:["Autosomal dominant","Autosomal recessive","X-linked","Mixed / other"],genes:["ABCA4","BEST1","PRPH2","PROM1","CRX","IMPG1","IMPG2","RP1L1"],symptom:"Bilateral progressive central blur, reading difficulty, colour disturbance or distortion, with peripheral vision often preserved early",cats:["Blurred or gradually reduced vision","Distorted vision"]},
+  {id:"ird-lord",t:"Late-onset retinal degeneration (L-ORD)",patterns:["Autosomal dominant"],genes:["C1QTNF5"],symptom:"Delayed dark adaptation and night blindness beginning in midlife, followed by peripheral and central visual loss",cats:["Night vision problems","Reduced peripheral or field of vision","Blurred or gradually reduced vision"]},
+  {id:"ird-stgd3",t:"Autosomal dominant Stargardt-like macular dystrophy (STGD3)",patterns:["Autosomal dominant"],genes:["ELOVL4"],symptom:"Childhood or early-adult central visual loss with macular atrophy and flecks resembling Stargardt disease",cats:["Blurred or gradually reduced vision","Distorted vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-stgd4",t:"PROM1-related Stargardt-like macular dystrophy (STGD4)",patterns:["Autosomal dominant","Autosomal recessive"],genes:["PROM1"],symptom:"Progressive central visual loss from bull's-eye or geographic macular atrophy, sometimes with cone-rod degeneration",cats:["Blurred or gradually reduced vision","Distorted vision"]},
+  {id:"ird-doyne",t:"Doyne honeycomb retinal dystrophy / Malattia Leventinese",patterns:["Autosomal dominant"],genes:["EFEMP1"],symptom:"Radial macular and peripapillary drusen with adult-onset distortion or central visual loss; macular neovascularisation may occur",cats:["Distorted vision","Blurred or gradually reduced vision","No symptoms, found on routine check"]},
+  {id:"ird-ncmd",t:"North Carolina macular dystrophy",patterns:["Autosomal dominant"],genes:["PRDM13","IRX1 locus"],symptom:"Congenital, usually non-progressive macular developmental anomaly ranging from drusen-like deposits to central coloboma-like atrophy",cats:["Poor vision or unusual appearance noticed in a baby or child","No symptoms, found on routine check"]},
+  {id:"ird-cacd",t:"Central areolar choroidal dystrophy",patterns:["Autosomal dominant"],genes:["PRPH2"],symptom:"Adult-onset progressive central blur and reading difficulty from sharply demarcated macular chorioretinal atrophy",cats:["Blurred or gradually reduced vision","Distorted vision"]},
+  {id:"ird-arb",t:"Autosomal recessive bestrophinopathy",patterns:["Autosomal recessive"],genes:["BEST1"],symptom:"Bilateral multifocal subretinal deposits or fluid with hyperopia, shallow anterior chambers and possible angle-closure glaucoma",cats:["Blurred or gradually reduced vision","No symptoms, found on routine check"]},
+  {id:"ird-imp-vitelliform",t:"IMPG1/IMPG2-related vitelliform macular dystrophy",patterns:["Autosomal dominant","Autosomal recessive"],genes:["IMPG1","IMPG2"],symptom:"Adult-onset vitelliform macular deposits with mild-to-moderate central blur or distortion",cats:["Distorted vision","Blurred or gradually reduced vision","No symptoms, found on routine check"]},
+  {id:"ird-enhanced-s-cone",t:"Enhanced S-cone syndrome / Goldmann-Favre syndrome",patterns:["Autosomal recessive"],genes:["NR2E3","NRL"],symptom:"Early night blindness with increased blue-light sensitivity, nummular pigment, cystic macular change and possible retinoschisis",cats:["Night vision problems","Blurred or gradually reduced vision","Reduced peripheral or field of vision"]},
+  {id:"ird-kcnv2",t:"KCNV2-associated cone dystrophy with supernormal rod response",patterns:["Autosomal recessive"],genes:["KCNV2"],symptom:"Childhood photophobia, reduced central acuity, colour-vision loss and sometimes later night blindness; electroretinography has a characteristic supernormal rod response",cats:["Blurred or gradually reduced vision","Poor vision or unusual appearance noticed in a baby or child","Night vision problems"]},
+  {id:"ird-bradyopsia",t:"Bradyopsia (slow photoreceptor deactivation)",patterns:["Autosomal recessive"],genes:["RGS9","R9AP"],symptom:"Difficulty adapting between light levels, delayed vision after sudden illumination changes and problems seeing moving objects despite relatively preserved acuity",cats:["Blurred or gradually reduced vision","No symptoms, found on routine check"]},
+  {id:"ird-bornholm",t:"Bornholm eye disease",patterns:["X-linked"],genes:["OPN1LW","OPN1MW"],sexBias:"male",symptom:"High myopia, reduced visual acuity and red-green colour-vision deficiency in affected males",cats:["Blurred or gradually reduced vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-oligocone",t:"Oligocone trichromacy",patterns:["Autosomal recessive"],genes:["CNGB3","PDE6C"],symptom:"Reduced visual acuity and mild photophobia with relatively preserved colour discrimination and non-progressive cone dysfunction",cats:["Blurred or gradually reduced vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-blue-cone",t:"Blue-cone monochromacy",patterns:["X-linked"],genes:["OPN1LW","OPN1MW","LCR"],sexBias:"male",symptom:"Infantile nystagmus, photophobia, reduced acuity, myopia and severe red-green colour discrimination loss in males",cats:["Abnormal or wobbling eye movements","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-xl-csnb-complete",t:"Complete X-linked congenital stationary night blindness",patterns:["X-linked"],genes:["NYX"],sexBias:"male",symptom:"Lifelong non-progressive night blindness with myopia, nystagmus or strabismus and an electronegative electroretinogram",cats:["Night vision problems","Abnormal or wobbling eye movements","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-xl-csnb-incomplete",t:"Incomplete X-linked congenital stationary night blindness",patterns:["X-linked"],genes:["CACNA1F"],sexBias:"male",symptom:"Congenital reduced acuity, nystagmus, high myopia or hyperopia and variable night blindness",cats:["Night vision problems","Abnormal or wobbling eye movements","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-ar-csnb",t:"Autosomal recessive complete congenital stationary night blindness",patterns:["Autosomal recessive"],genes:["TRPM1","GRM6","GPR179","LRIT3","CABP4","EGFLAM"],symptom:"Non-progressive night blindness from childhood, often with myopia, nystagmus and reduced acuity",cats:["Night vision problems","Poor vision or unusual appearance noticed in a baby or child","Abnormal or wobbling eye movements"]},
+  {id:"ird-riggs-csnb",t:"Riggs-type autosomal dominant congenital stationary night blindness",patterns:["Autosomal dominant"],genes:["GNAT1","PDE6B","RHO"],symptom:"Lifelong non-progressive night blindness with relatively normal fundus appearance and reduced rod electroretinography",cats:["Night vision problems","No symptoms, found on routine check"]},
+  {id:"ird-norrie",t:"Norrie disease and NDP-related retinopathy",patterns:["X-linked"],genes:["NDP"],sexBias:"male",symptom:"Congenital bilateral retinal dysplasia or detachment causing severe visual impairment in males, sometimes with hearing loss and developmental or behavioural features",cats:["Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-wagner",t:"Wagner vitreoretinopathy",patterns:["Autosomal dominant"],genes:["VCAN"],symptom:"Optically empty vitreous, myopia, early cataract and progressive chorioretinal atrophy with field loss; retinal detachment can occur",cats:["Flashes and floaters","Reduced peripheral or field of vision","Blurred or gradually reduced vision"]},
+  {id:"ird-knobloch",t:"Knobloch syndrome",patterns:["Autosomal recessive"],genes:["COL18A1"],symptom:"High myopia and vitreoretinal degeneration with retinal detachment risk, associated with occipital skull defects or encephalocele",cats:["Poor vision or unusual appearance noticed in a baby or child","Flashes and floaters","Sudden vision loss"]},
+  {id:"ird-snowflake",t:"Snowflake vitreoretinal degeneration",patterns:["Autosomal dominant"],genes:["KCNJ13"],symptom:"Vitreous degeneration, early cataract and peripheral crystalline retinal deposits with variable retinal detachment risk",cats:["Flashes and floaters","Blurred or gradually reduced vision","No symptoms, found on routine check"]},
+  {id:"ird-kif11",t:"KIF11-related chorioretinal dysplasia / microcephaly-lymphedema syndrome",patterns:["Autosomal dominant"],genes:["KIF11"],symptom:"Congenital chorioretinal atrophy or retinal folds with microcephaly, developmental delay and sometimes limb lymphedema",cats:["Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-incontinentia",t:"Incontinentia pigmenti retinal vasculopathy",patterns:["X-linked"],genes:["IKBKG"],sexBias:"female",symptom:"Peripheral retinal nonperfusion and neovascularisation in an infant or girl with characteristic evolving skin lesions; tractional retinal detachment can threaten vision",cats:["Poor vision or unusual appearance noticed in a baby or child","No symptoms, found on routine check"]},
+  {id:"ird-pxe",t:"Pseudoxanthoma elasticum with angioid streaks",patterns:["Autosomal recessive"],genes:["ABCC6"],symptom:"Peau d'orange and angioid streaks may remain asymptomatic until macular neovascularisation causes sudden central blur or distortion; skin and vascular disease coexist",cats:["Distorted vision","Sudden vision loss","No symptoms, found on routine check"]},
+  {id:"ird-sveinsson",t:"Sveinsson chorioretinal atrophy / helicoid peripapillary chorioretinal degeneration",patterns:["Autosomal dominant"],genes:["TEAD1"],symptom:"Congenital or slowly progressive wing-shaped peripapillary chorioretinal atrophy with variable field defects",cats:["Reduced peripheral or field of vision","No symptoms, found on routine check"]},
+  {id:"ird-bothnia",t:"Bothnia dystrophy / RLBP1-related retinitis punctata albescens",patterns:["Autosomal recessive"],genes:["RLBP1"],symptom:"Early night blindness with numerous white retinal dots, prolonged dark adaptation and later macular or peripheral atrophy",cats:["Night vision problems","Reduced peripheral or field of vision","Blurred or gradually reduced vision"]},
+  {id:"ird-alstrom",t:"Alstrom syndrome",patterns:["Autosomal recessive"],genes:["ALMS1"],symptom:"Infantile cone-rod dystrophy with photophobia and nystagmus, followed by hearing loss, obesity, insulin resistance, cardiomyopathy and renal or hepatic disease",cats:["Poor vision or unusual appearance noticed in a baby or child","Abnormal or wobbling eye movements","Blurred or gradually reduced vision"]},
+  {id:"ird-refsum",t:"Adult Refsum disease with retinitis pigmentosa",patterns:["Autosomal recessive"],genes:["PHYH","PEX7"],symptom:"Night blindness and field constriction with anosmia, neuropathy, ataxia, hearing loss and ichthyosis; phytanic-acid reduction is clinically important",cats:["Night vision problems","Reduced peripheral or field of vision","Blurred or gradually reduced vision"]},
+  {id:"ird-senior-loken",t:"Senior-Loken syndrome",patterns:["Autosomal recessive"],genes:["NPHP1","NPHP4","IQCB1","CEP290","WDR19"],symptom:"Childhood retinal dystrophy or Leber congenital amaurosis accompanied by nephronophthisis and progressive renal failure",cats:["Poor vision or unusual appearance noticed in a baby or child","Night vision problems"]},
+  {id:"ird-joubert",t:"Joubert syndrome-related retinal dystrophy",patterns:["Autosomal recessive"],genes:["AHI1","CEP290","TMEM67","CC2D2A","CPLANE1"],symptom:"Retinal dystrophy with developmental delay, hypotonia, abnormal breathing or eye movements and the molar-tooth sign on brain imaging",cats:["Poor vision or unusual appearance noticed in a baby or child","Abnormal or wobbling eye movements"]},
+  {id:"ird-mainzer",t:"Mainzer-Saldino syndrome",patterns:["Autosomal recessive"],genes:["IFT140","WDR19"],symptom:"Cone-rod dystrophy with nephronophthisis, short stature and skeletal abnormalities",cats:["Blurred or gradually reduced vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-sensenbrenner",t:"Sensenbrenner syndrome / cranioectodermal dysplasia with retinal dystrophy",patterns:["Autosomal recessive"],genes:["IFT122","WDR35","IFT43","WDR60"],symptom:"Retinal dystrophy with craniosynostosis, sparse hair, skeletal abnormalities and progressive renal or liver disease",cats:["Poor vision or unusual appearance noticed in a baby or child","Blurred or gradually reduced vision"]},
+  {id:"ird-cohen",t:"Cohen syndrome retinal dystrophy",patterns:["Autosomal recessive"],genes:["VPS13B"],symptom:"High myopia and progressive rod-cone dystrophy with developmental delay, microcephaly, joint hypermobility, neutropenia and a characteristic cheerful disposition",cats:["Night vision problems","Reduced peripheral or field of vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-ncl",t:"Neuronal ceroid lipofuscinosis (Batten disease) with retinal degeneration",patterns:["Autosomal recessive"],genes:["PPT1","TPP1","CLN3","CLN5","CLN6","MFSD8","CLN8"],symptom:"Rapidly progressive visual loss or retinal degeneration with seizures, cognitive regression and motor deterioration",cats:["Blurred or gradually reduced vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-pharc",t:"PHARC syndrome",patterns:["Autosomal recessive"],genes:["ABHD12"],symptom:"Pigmentary retinopathy and cataract with polyneuropathy, hearing loss and cerebellar ataxia",cats:["Night vision problems","Blurred or gradually reduced vision","Reduced peripheral or field of vision"]},
+  {id:"ird-boucher-neuhauser",t:"Boucher-Neuhauser syndrome",patterns:["Autosomal recessive"],genes:["PNPLA6"],symptom:"Chorioretinal dystrophy with cerebellar ataxia and hypogonadotropic hypogonadism",cats:["Night vision problems","Blurred or gradually reduced vision","Reduced peripheral or field of vision"]},
+  {id:"ird-oliver-mcfarlane",t:"Oliver-McFarlane syndrome",patterns:["Autosomal recessive"],genes:["PNPLA6"],symptom:"Childhood chorioretinal dystrophy with congenital trichomegaly, sparse scalp hair, short stature and developmental or neurologic abnormalities",cats:["Poor vision or unusual appearance noticed in a baby or child","Blurred or gradually reduced vision"]},
+  {id:"ird-jalili",t:"Jalili syndrome",patterns:["Autosomal recessive"],genes:["CNNM4"],symptom:"Cone-rod dystrophy with photophobia and central visual loss accompanied by amelogenesis imperfecta",cats:["Poor vision or unusual appearance noticed in a baby or child","Blurred or gradually reduced vision"]},
+  {id:"ird-morm",t:"MORM syndrome",patterns:["Autosomal recessive"],genes:["INPP5E"],symptom:"Progressive retinal dystrophy with obesity, intellectual disability and micropenis",cats:["Night vision problems","Reduced peripheral or field of vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-abetalipoproteinemia",t:"Abetalipoproteinemia with pigmentary retinopathy",patterns:["Autosomal recessive"],genes:["MTTP"],symptom:"Pigmentary retinopathy and night blindness with fat malabsorption, acanthocytosis, neuropathy and vitamin E deficiency",cats:["Night vision problems","Reduced peripheral or field of vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-ctx",t:"Cerebrotendinous xanthomatosis with retinal involvement",patterns:["Autosomal recessive"],genes:["CYP27A1"],symptom:"Juvenile cataract and possible retinal degeneration with chronic diarrhoea, tendon xanthomas and progressive neurologic disease",cats:["Blurred or gradually reduced vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-aved",t:"Ataxia with vitamin E deficiency and pigmentary retinopathy",patterns:["Autosomal recessive"],genes:["TTPA"],symptom:"Pigmentary retinopathy with progressive ataxia, neuropathy and loss of proprioception from impaired vitamin E transport",cats:["Night vision problems","Reduced peripheral or field of vision","Blurred or gradually reduced vision"]},
+  {id:"ird-heimler",t:"Heimler syndrome",patterns:["Autosomal recessive"],genes:["PEX1","PEX6"],symptom:"Mild peroxisomal disorder with sensorineural hearing loss, enamel abnormalities and macular or cone-rod dystrophy",cats:["Blurred or gradually reduced vision","Poor vision or unusual appearance noticed in a baby or child"]},
+  {id:"ird-zellweger",t:"Zellweger spectrum disorder with retinal dystrophy",patterns:["Autosomal recessive"],genes:["PEX1","PEX6","PEX10","PEX12","PEX26"],symptom:"Infantile retinal dystrophy with hypotonia, hearing loss, seizures, craniofacial features and liver dysfunction",cats:["Poor vision or unusual appearance noticed in a baby or child","Abnormal or wobbling eye movements"]},
+  {id:"ird-kjellin",t:"Kjellin syndrome / SPG11-related retinal degeneration",patterns:["Autosomal recessive"],genes:["SPG11"],symptom:"Macular flecks or retinal degeneration with hereditary spastic paraplegia, thin corpus callosum and cognitive impairment",cats:["Blurred or gradually reduced vision","Reduced peripheral or field of vision"]},
+  {id:"ird-mucolipidosis-iv",t:"Mucolipidosis IV retinal degeneration",patterns:["Autosomal recessive"],genes:["MCOLN1"],symptom:"Corneal clouding, strabismus and progressive retinal degeneration in a child with severe developmental impairment and achlorhydria",cats:["Poor vision or unusual appearance noticed in a baby or child","Blurred or gradually reduced vision"]},
+  {id:"ird-mactel2",t:"Macular telangiectasia type 2 (complex familial, non-Mendelian)",patterns:["Mixed / other"],genes:["PHGDH","CPS1","TMEM161B"],symptom:"Adult-onset bilateral reading difficulty, paracentral blur or metamorphopsia with temporal parafoveal greying, crystals and right-angled venules",cats:["Distorted vision","Blurred or gradually reduced vision","No symptoms, found on routine check"]}
+];
+
+var IRD_ACTIONABLE_MANAGEMENT = {
+  "ird-rpe65":"Biallelic RPE65 disease may be eligible for voretigene neparvovec where viable retina remains; refer to an inherited-retinal-disease centre.",
+  "ird-mtp":"Metabolic emergency planning and avoidance of fasting are essential; coordinate with metabolic medicine and monitor retina serially.",
+  "ird-refsum":"A low-phytanic-acid diet and, in acute severe disease, plasma exchange can reduce systemic progression; coordinate urgently with metabolic medicine.",
+  "ird-abetalipoproteinemia":"Early specialist fat-soluble vitamin replacement, especially vitamin E, can slow neurologic and retinal progression.",
+  "ird-ctx":"Chenodeoxycholic acid is disease-modifying and should be started through metabolic/neurology services as early as possible.",
+  "ird-aved":"High-dose vitamin E under specialist monitoring can prevent or slow neurologic progression.",
+  "ird-kearns-sayre":"Cardiology assessment and ongoing electrocardiographic surveillance are mandatory because conduction block may be life-threatening."
+};
+
+var IRD_CRITERIA_NOTES = {
+  "ird-kearns-sayre":"Most cases result from a sporadic large-scale mitochondrial-DNA deletion rather than ordinary maternal transmission; classify it here by mitochondrial genome involvement, not by recurrence risk.",
+  "ird-laurence-moon":"Laurence-Moon is a historical, clinically heterogeneous designation that overlaps PNPLA6-related disease and Bardet-Biedl-spectrum phenotypes; molecular diagnosis should replace syndromic labelling where possible.",
+  "ird-mactel2":"Macular telangiectasia type 2 has familial aggregation and polygenic/metabolic susceptibility but is not usually a Mendelian single-gene IRD. PHGDH, CPS1 and TMEM161B are susceptibility loci, not a routine diagnostic gene-test result.",
+  "ird-md-rp-overlap":"This is a phenotype/search category, not one molecular diagnosis; assign the final diagnosis only after phenotype-genotype correlation.",
+  "ird-macular-dystrophy-heterogeneous":"This is a phenotype/search category, not one molecular diagnosis; use imaging and molecular testing to identify the specific macular dystrophy."
+};
+
+IRD_CATALOGUE_ADDITIONS.forEach(function(x){
+  var geneText = x.genes.length ? x.genes.join(", ") : "a phenotype-directed IRD panel";
+  DATA.push({
+    id:x.id,t:x.t,h2:"Retina & Vitreous",h3:"Expanded inherited retinal disease catalogue",cats:x.cats,
+    symptom:x.symptom,
+    criteria:"<b>Clinical pattern:</b> "+x.symptom+"<br>"+(IRD_CRITERIA_NOTES[x.id] ? "<b>Classification note:</b> "+IRD_CRITERIA_NOTES[x.id]+"<br>" : "")+"<b>Genetic confirmation:</b> "+(x.id === "ird-mactel2" ? "routine single-gene diagnostic testing is not established; diagnose clinically with multimodal imaging." : "test an affected individual first using phenotype-directed sequencing and copy-number analysis; relevant gene(s): <b>"+geneText+"</b>. Interpret variants with the phenotype, segregation, retinal imaging, visual fields and electroretinography rather than from a gene list alone."),
+    treatment:(IRD_ACTIONABLE_MANAGEMENT[x.id] ? "<b>Systemic or gene-specific point:</b> "+IRD_ACTIONABLE_MANAGEMENT[x.id]+"<br>" : "")+"Offer genetic counselling, family testing after a molecular diagnosis, low-vision support and IRD-centre/clinical-trial referral. Treat complications such as cataract, cystoid macular oedema, macular neovascularisation or retinal detachment when present. No unapproved supplement or gene treatment should be assumed to work across different genotypes.",
+    prognosis:"Usually rare and genetically determined, but onset, rate of progression and residual central or peripheral vision vary by genotype and even within a family. Establish a baseline with multimodal imaging, visual fields and electroretinography, then individualise follow-up.",
+    prevalence:"Rare inherited retinal disorder; exact population prevalence is unknown and is generally well below 1 per 100,000. Referral cohorts and founder populations may show a higher frequency.",
+    teach:"This is an inherited condition affecting the light-sensing retina. The gene result helps confirm the diagnosis, estimate family risk and identify relevant trials; it does not by itself predict exactly how quickly an individual's sight will change.<br>Seek urgent assessment for sudden new distortion, a curtain or field defect, flashes/floaters, or abrupt visual loss because these may represent a treatable complication rather than expected slow progression.",
+    prevTier:1,prevNum:0.005,treatmentLinks:[]
+  });
+});
+
+var choroideremiaRecord = DATA.find(function(d){ return d.id === "d207-choroideremia"; });
+if(choroideremiaRecord){
+  choroideremiaRecord.t = "Choroideremia and female carriers";
+  choroideremiaRecord.symptom = "Affected males develop childhood night blindness followed by progressive peripheral field constriction; heterozygous female carriers often show patchy fundus autofluorescence and may be asymptomatic or variably affected";
+  if(choroideremiaRecord.cats.indexOf("No symptoms, found on routine check") < 0) choroideremiaRecord.cats.push("No symptoms, found on routine check");
+}
+var stargardtRecord = DATA.find(function(d){ return d.id === "d204-stargardt-disease-stgd1-and-fundus-flavi"; });
+if(stargardtRecord) stargardtRecord.t = "Stargardt disease / Stargardt dystrophy (STGD1; ABCA4-related) and fundus flavimaculatus";
+
+/* Inherited retinal disease catalogue. Disorders with genetic heterogeneity
+   may intentionally appear under more than one inheritance pattern. */
+var INHERITANCE_ORDER = ["Autosomal dominant","Autosomal recessive","X-linked","Mitochondrial","Mixed / other"];
+var INHERITANCE_ICON = {"Autosomal dominant":"AD","Autosomal recessive":"AR","X-linked":"XL","Mitochondrial":"mtDNA","Mixed / other":"DNA"};
+var IRD_META_BY_ID = {
+  "d199-retinitis-pigmentosa-rod-cone-dystrophy": {patterns:["Autosomal dominant","Autosomal recessive","X-linked","Mixed / other"],genes:["RHO","USH2A","RPGR","PRPF31","EYS","PRPH2","ROM1"]},
+  "d200-usher-syndrome-types-1-2-and-3": {patterns:["Autosomal recessive"],genes:["MYO7A","USH2A","ADGRV1","CLRN1","CDH23"]},
+  "d201-bardet-biedl-syndrome-and-other-syndromi": {patterns:["Autosomal recessive","Mitochondrial","Mixed / other"],genes:["BBS1","BBS10","ALMS1","PHYH","PEX7","MTTP","mtDNA"]},
+  "d202-leber-congenital-amaurosis-lca-and-early": {patterns:["Autosomal recessive","Autosomal dominant"],genes:["CEP290","RPE65","GUCY2D","CRB1","RDH12"]},
+  "d203-cone-dystrophy-and-cone-rod-dystrophy": {patterns:["Autosomal dominant","Autosomal recessive","X-linked"],genes:["ABCA4","GUCY2D","CRX","RPGR","PROM1"]},
+  "d204-stargardt-disease-stgd1-and-fundus-flavi": {patterns:["Autosomal recessive"],genes:["ABCA4"]},
+  "d205-best-vitelliform-macular-dystrophy": {patterns:["Autosomal dominant"],genes:["BEST1"]},
+  "d206-pattern-dystrophy-of-the-rpe-adult-onset": {patterns:["Autosomal dominant"],genes:["PRPH2","BEST1"]},
+  "d207-choroideremia": {patterns:["X-linked"],genes:["CHM"],sexBias:"male"},
+  "d208-gyrate-atrophy-of-the-choroid-and-retina": {patterns:["Autosomal recessive"],genes:["OAT"]},
+  "d209-congenital-stationary-night-blindness-cs": {patterns:["X-linked","Autosomal recessive","Autosomal dominant"],genes:["NYX","CACNA1F","TRPM1","GRM6","GNAT1"]},
+  "d210-oguchi-disease-and-fundus-albipunctatus": {patterns:["Autosomal recessive"],genes:["SAG","GRK1","RDH5"]},
+  "d211-achromatopsia-rod-monochromatism-and-blu": {patterns:["Autosomal recessive","X-linked"],genes:["CNGA3","CNGB3","GNAT2","PDE6C","ATF6","OPN1LW/OPN1MW"]},
+  "d212-x-linked-juvenile-retinoschisis-xlrs": {patterns:["X-linked"],genes:["RS1"],sexBias:"male"},
+  "d213-stickler-syndrome-and-other-hereditary-v": {patterns:["Autosomal dominant","Autosomal recessive"],genes:["COL2A1","COL11A1","COL9A1","COL9A2","COL18A1","VCAN"]},
+  "d214-bietti-crystalline-dystrophy": {patterns:["Autosomal recessive"],genes:["CYP4V2"]},
+  "d218-familial-exudative-vitreoretinopathy-fev": {patterns:["Autosomal dominant","Autosomal recessive","X-linked"],genes:["FZD4","LRP5","TSPAN12","NDP","ZNF408","KIF11"]},
+  "d376-sorsby-fundus-dystrophy": {patterns:["Autosomal dominant"],genes:["TIMP3"]}
+};
+IRD_CATALOGUE_ADDITIONS.forEach(function(x){
+  IRD_META_BY_ID[x.id] = {patterns:x.patterns,genes:x.genes,sexBias:x.sexBias || ""};
+});
+
+function explicitSexBias(d){
+  var p = String(d.prevalence || '').toLowerCase();
+  var femaleSignal = /\bfemale predilection|\bfemale predominance|\bpredominantly female|more common in (?:women|females|girls)\b|\bwomen (?:are )?(?:more commonly|more often|outnumber)|\baffects women more/.test(p);
+  var maleSignal = /\bmale predilection|\bmale predominance|\bpredominantly male|\balmost exclusively (?:affects |in )?males|more common in (?:men|males|boys)\b|\baffects men more|\bmainly affects males/.test(p);
+  /* Do not colour heterogeneous entries when different populations or
+     subtypes explicitly point in opposite directions. */
+  if(femaleSignal && maleSignal) return '';
+  var ratio = p.match(/\b(female|women|male|men)[\s:-]+(?:to[\s-]+)?(female|women|male|men)\s*(\d+(?:\.\d+)?)\s*[:/]\s*(\d+(?:\.\d+)?)/);
+  if(ratio){
+    var firstFemale = /female|women/.test(ratio[1]);
+    var secondFemale = /female|women/.test(ratio[2]);
+    var a = parseFloat(ratio[3]), b = parseFloat(ratio[4]);
+    if(firstFemale !== secondFemale && a !== b) return (a > b ? firstFemale : secondFemale) ? 'female' : 'male';
+  }
+  if(femaleSignal) return 'female';
+  if(maleSignal) return 'male';
+  return '';
+}
+
+function explicitInheritedMeta(d){
+  var text = [d.t,d.criteria,d.prevalence,d.prognosis].join(' ');
+  var low = text.toLowerCase();
+  var patterns = [];
+  function add(pattern){ if(patterns.indexOf(pattern) < 0) patterns.push(pattern); }
+  if(/autosomal dominant/.test(low)) add("Autosomal dominant");
+  if(/autosomal recessive/.test(low)) add("Autosomal recessive");
+  if(/x-linked/.test(low)) add("X-linked");
+  if(/mitochondrial inheritance|maternally inherited|mitochondrial dna|mtdna/.test(low)) add("Mitochondrial");
+  if(/digenic|oligogenic/.test(low)) add("Mixed / other");
+  var geneticallyExplicit = patterns.length || /pathogenic variant|gene mutation|mutations? in the [a-z0-9-]+ gene|hereditary|inherited disorder/.test(low);
+  if(!geneticallyExplicit) return null;
+  var genes = [];
+  var genePatterns = [
+    /\b([A-Z][A-Z0-9-]{1,15})\s+gene\b/g,
+    /\b(?:mutation(?:s)?|variant(?:s)?)\s+in\s+(?:the\s+)?([A-Z][A-Z0-9-]{1,15})\b/g,
+    /\bpathogenic\s+(?:mutation|variant)\s+in\s+([A-Z][A-Z0-9-]{1,15})\b/g
+  ];
+  genePatterns.forEach(function(re){
+    var match;
+    while((match = re.exec(text))){ if(genes.indexOf(match[1]) < 0 && !/^(DNA|RNA|HLA|OCT)$/.test(match[1])) genes.push(match[1]); }
+  });
+  if(!patterns.length) patterns.push("Mixed / other");
+  return {patterns:patterns,genes:genes};
+}
+
+var INHERITED_META_EXCLUDE = {
+  "d28-pellucid-marginal-degeneration-pmd-and-k":1,
+  "d31-drug-induced-toxic-keratopathy-including":1,
+  "d89-iridocorneal-endothelial-ice-syndrome":1,
+  "d161-coats-disease":1,
+  "d182-angioid-streaks":1,
+  "d183-optic-disc-pit-maculopathy":1,
+  "d189-lattice-degeneration-and-other-predispos":1,
+  "d193-degenerative-senile-retinoschisis":1,
+  "d231-retinal-cavernous-haemangioma":1,
+  "d258-tilted-disc-syndrome":1,
+  "d300-duane-retraction-syndrome":1,
+  "d310-congenital-ptosis":1,
+  "d313-paediatric-refractive-error-and-vision-s":1,
+  "d320-trichiasis-and-distichiasis":1
+};
+
+var SEX_BIAS_EXCLUDE = {
+  "d29-corneal-degenerations-arcus-senilis-juve":1,
+  "d30-peripheral-ulcerative-keratitis-puk-and-":1,
+  "d107-ectopia-lentis-marfan-homocystinuria-wei":1,
+  "d192-exudative-serous-retinal-detachment":1,
+  "d234-ocular-surface-squamous-neoplasia-ossn-c":1,
+  "d238-paraneoplastic-retinopathies-car-mar-and":1
+};
+
+DATA.forEach(function(d){
+  var curated = IRD_META_BY_ID[d.id];
+  d.irdMeta = curated || null;
+  d.inheritedMeta = curated || (INHERITED_META_EXCLUDE[d.id] ? null : explicitInheritedMeta(d));
+  d.sexBias = (curated && curated.sexBias) || (SEX_BIAS_EXCLUDE[d.id] ? '' : explicitSexBias(d));
+});
+
+var IRD_DISEASES = DATA.filter(function(d){ return !!d.irdMeta; });
+var IRD_BY_PATTERN = {};
+INHERITANCE_ORDER.forEach(function(pattern){ IRD_BY_PATTERN[pattern] = []; });
+IRD_DISEASES.forEach(function(d){
+  d.irdMeta.patterns.forEach(function(pattern){
+    if(!IRD_BY_PATTERN[pattern]) IRD_BY_PATTERN[pattern] = [];
+    IRD_BY_PATTERN[pattern].push(d);
+  });
+});
+
 var BYCAT = {};
 CAT_ORDER.forEach(function(c){BYCAT[c]=[];});
 DATA.forEach(function(d){ d.cats.forEach(function(c){ if(!BYCAT[c])BYCAT[c]=[]; BYCAT[c].push(d); }); });
@@ -589,6 +839,7 @@ function prevSort(a,b){
 var MODES = [
   {key:"symptoms", label:"Symptoms", icon:"🩺"},
   {key:"diseases", label:"Diseases", icon:"📋"},
+  {key:"ird", label:"IRD", icon:"🧬"},
   {key:"intervention", label:"Intervention", icon:"🔧"}
 ];
 
@@ -622,6 +873,36 @@ function escapeAttr(s){
 
 function escapeRegex(s){
   return String(s).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function diseaseTileClass(d){
+  return 'dis-tile' + (d.sexBias === 'female' ? ' sex-female' : (d.sexBias === 'male' ? ' sex-male' : ''));
+}
+
+function geneticBadgesHtml(d, patternOnly){
+  var meta = d.inheritedMeta;
+  if(!meta) return '';
+  var patterns = meta.patterns || [];
+  var genes = patternOnly ? [] : (meta.genes || []);
+  var html = '<span class="genetic-badges">';
+  patterns.forEach(function(pattern){ html += '<span class="genetic-pill">' + escapeHtml(pattern) + '</span>'; });
+  genes.slice(0,6).forEach(function(gene){ html += '<span class="genetic-pill gene-pill">' + escapeHtml(gene) + '</span>'; });
+  if(genes.length > 6) html += '<span class="genetic-pill gene-pill">+' + (genes.length-6) + ' genes</span>';
+  return html + '</span>';
+}
+
+function diseaseTileHtml(d,subText,showSymptoms){
+  var symptomHtml = showSymptoms ? '<span class="ird-symptom"><b>Symptoms:</b> ' + escapeHtml(d.symptom || 'Variable; see the disease record.') + '</span>' : '';
+  var sexTag = d.sexBias === 'female' ? '<span class="sex-bias-tag">F&gt;M</span>' : (d.sexBias === 'male' ? '<span class="sex-bias-tag">M&gt;F</span>' : '');
+  return '<button class="' + diseaseTileClass(d) + '" data-action="dis" data-id="' + escapeAttr(d.id) + '">' +
+    d.t + sexTag + geneticBadgesHtml(d,false) +
+    (subText ? '<span class="dt-sub">' + subText + '</span>' : '') + symptomHtml + '</button>';
+}
+
+function sexBiasLegendHtml(){
+  return '<div class="sex-bias-legend"><span class="sex-legend-item"><span class="sex-legend-swatch sex-legend-female"></span>Light pink: F&gt;M</span>' +
+    '<span class="sex-legend-item"><span class="sex-legend-swatch sex-legend-male"></span>Light blue: M&gt;F</span>' +
+    '<span>Uncoloured: no clear documented predominance</span></div>';
 }
 
 var MED_PATTERN = (function(){
@@ -735,6 +1016,7 @@ function doSearch(q){
 function currentCatMeta(){
   if(MODE === "symptoms") return {order: CAT_ORDER, icon: CAT_ICON, by: BYCAT};
   if(MODE === "diseases") return {order: DIS_H2_ORDER, icon: DIS_H2_ICON, by: BYDISH2};
+  if(MODE === "ird") return {order: INHERITANCE_ORDER, icon: INHERITANCE_ICON, by: IRD_BY_PATTERN};
   return {order: PROC_CAT_ORDER, icon: PROC_CAT_ICON, by: BYPROCCAT};
 }
 
@@ -760,7 +1042,8 @@ function renderCrumb(){
 
 function renderCategoryGrid(){
   var meta = currentCatMeta();
-  var html = '<div class="opd-h1">Browse by ' + (MODE === 'symptoms' ? 'symptom' : (MODE === 'diseases' ? 'disease category' : 'procedure category')) + '</div><div class="cat-grid">';
+  var browseLabel = MODE === 'symptoms' ? 'symptom' : (MODE === 'diseases' ? 'disease category' : (MODE === 'ird' ? 'inheritance pattern' : 'procedure category'));
+  var html = '<div class="opd-h1">Browse by ' + browseLabel + '</div>' + (MODE === 'intervention' ? '' : sexBiasLegendHtml()) + '<div class="cat-grid">';
   meta.order.forEach(function(c){
     var n = (meta.by[c] || []).length;
     var icon = meta.icon[c] || '•';
@@ -772,9 +1055,9 @@ function renderCategoryGrid(){
 }
 
 function renderTopicSection(){
-  var list = (MODE === 'intervention') ? PROCS.slice() : DATA.slice();
+  var list = (MODE === 'intervention') ? PROCS.slice() : (MODE === 'ird' ? IRD_DISEASES.slice() : DATA.slice());
   list.sort(function(a,b){ return a.t.localeCompare(b.t); });
-  var label = (MODE === 'intervention') ? 'procedures' : 'diseases';
+  var label = (MODE === 'intervention') ? 'procedures' : (MODE === 'ird' ? 'inherited retinal diseases' : 'diseases');
   var html = '<button class="topic-toggle" data-action="toggletopics">' + (topicOpen ? 'Hide' : 'Browse all ' + list.length + ' ' + label + ' A-Z') + '</button>';
   html += '<div class="topic-list' + (topicOpen ? ' open' : '') + '">';
   list.forEach(function(item){
@@ -786,6 +1069,13 @@ function renderTopicSection(){
 }
 
 function renderItemGrid(cat){
+  if(MODE === 'ird'){
+    var irdList = (IRD_BY_PATTERN[cat] || []).slice().sort(function(a,b){ return a.t.localeCompare(b.t); });
+    var irdHtml = '<div class="opd-h1">' + (INHERITANCE_ICON[cat]||'🧬') + ' ' + cat + '</div>' +
+      '<div class="opd-h2sub">Inherited retinal diseases may appear in more than one group when genetically heterogeneous. Gene badges are representative, not exhaustive.</div>' + sexBiasLegendHtml() + '<div class="dis-grid">';
+    irdList.forEach(function(d){ irdHtml += diseaseTileHtml(d,'Genes and inheritance shown above',true); });
+    return irdHtml + '</div>';
+  }
   if(MODE === 'intervention'){
     var plist = (BYPROCCAT[cat] || []).slice();
     var meta = currentCatMeta();
@@ -808,11 +1098,11 @@ function renderItemGrid(cat){
   var srcBy = (MODE === 'diseases') ? BYDISH2 : BYCAT;
   var list = (srcBy[cat] || []).slice().sort(prevSort);
   var meta = currentCatMeta();
-  var html = '<div class="opd-h1">' + (meta.icon[cat]||'') + ' ' + cat + '</div><div class="opd-h2sub">Ranked by prevalence, most common first</div><div class="dis-grid">';
+  var html = '<div class="opd-h1">' + (meta.icon[cat]||'') + ' ' + cat + '</div><div class="opd-h2sub">Ranked by prevalence, most common first</div>' + sexBiasLegendHtml() + '<div class="dis-grid">';
   list.forEach(function(d){
     var tag = PREV_LABELS[d.prevTier] || '';
     var subText = (MODE === 'diseases') ? d.h3 : d.h2;
-    html += '<button class="dis-tile" data-action="dis" data-id="' + escapeAttr(d.id) + '">' + d.t + '<span class="dt-sub">' + (tag? tag + ' &middot; ' : '') + subText + '</span></button>';
+    html += diseaseTileHtml(d,(tag? tag + ' &middot; ' : '') + subText,false);
   });
   html += '</div>';
   return html;
@@ -839,6 +1129,10 @@ function findMatchSnippet(item, ql, fieldDefs){
 
 function matchesQuery(item, ql, fieldDefs){
   if(item.t.toLowerCase().indexOf(ql) >= 0) return true;
+  if(item.inheritedMeta){
+    var geneticText = (item.inheritedMeta.patterns || []).concat(item.inheritedMeta.genes || []).join(' ').toLowerCase();
+    if(geneticText.indexOf(ql) >= 0) return true;
+  }
   for(var i=0;i<fieldDefs.length;i++){
     var val = item[fieldDefs[i][1]] || '';
     if(val.toLowerCase().indexOf(ql) >= 0) return true;
@@ -861,15 +1155,16 @@ function renderSearchResults(q){
     html += '</div>';
     return html;
   }
-  var list = DATA.filter(function(d){ return matchesQuery(d, ql, DIS_SEARCH_FIELDS); }).sort(prevSort);
-  var html = '<div class="opd-h1">Search results for &ldquo;' + escapeHtml(q) + '&rdquo; (' + list.length + ')</div>';
+  var diseaseSearchSource = MODE === 'ird' ? IRD_DISEASES : DATA;
+  var list = diseaseSearchSource.filter(function(d){ return matchesQuery(d, ql, DIS_SEARCH_FIELDS); }).sort(MODE === 'ird' ? function(a,b){ return a.t.localeCompare(b.t); } : prevSort);
+  var html = '<div class="opd-h1">Search results for &ldquo;' + escapeHtml(q) + '&rdquo; (' + list.length + ')</div>' + sexBiasLegendHtml();
   if(list.length === 0){ html += '<div class="nomatch">No diseases match that text.</div>'; return html; }
   html += '<div class="dis-grid">';
   list.forEach(function(d){
     var tag = PREV_LABELS[d.prevTier] || '';
     var snippet = findMatchSnippet(d, ql, DIS_SEARCH_FIELDS);
-    var subText = snippet ? escapeHtml(snippet) : ((tag? tag + ' \u00b7 ' : '') + d.h2);
-    html += '<button class="dis-tile" data-action="dis" data-id="' + escapeAttr(d.id) + '">' + d.t + '<span class="dt-sub">' + subText + '</span></button>';
+    var subText = snippet ? escapeHtml(snippet) : (MODE === 'ird' ? 'Inherited retinal disease' : ((tag? tag + ' \u00b7 ' : '') + d.h2));
+    html += diseaseTileHtml(d,subText,MODE === 'ird');
   });
   html += '</div>';
   return html;
@@ -889,6 +1184,7 @@ function renderDiseaseDetail(d){
   return '<div class="card">' +
     '<div class="dtitle">' + d.t + '</div>' +
     '<div class="dbread">' + d.h2 + ' &rsaquo; ' + d.h3 + '</div>' +
+    (d.inheritedMeta ? '<div class="disease-detail-badges">' + geneticBadgesHtml(d,false) + '</div>' : '') +
     '<div class="dtabs">' + tabsHtml + '</div>' +
     panelsHtml +
     '</div>';
