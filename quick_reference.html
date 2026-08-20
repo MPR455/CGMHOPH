@@ -37,6 +37,14 @@
 .dtab-btn.active{background:var(--acc);color:#fff;font-weight:700}
 .dtab-panel{display:none;font-size:var(--opd-fs);line-height:1.68}
 .dtab-panel.active{display:block}
+.dtab-panel.proc-teaching-panel{line-height:1.48}
+.teach-compact{display:grid;gap:7px}
+.teach-section{border-left:3px solid var(--acc);padding:3px 8px}
+.teach-section>strong{display:block;margin-bottom:1px;color:var(--acc)}
+.teach-additional{margin-top:3px;border:1px solid var(--border);border-radius:7px;padding:8px 10px;background:var(--soft)}
+.teach-additional-title{font-weight:800;color:var(--acc);margin-bottom:5px}
+.teach-additional-row{margin-top:4px}
+.teach-additional-row>strong{display:inline;margin-right:5px}
 .opd-seg{background:#f2f7fc;border-left:4px solid var(--acc);border-radius:6px;padding:10px 14px;margin:0 0 8px;font-size:var(--opd-fs);line-height:1.62}
 .opd-seg b{color:var(--acc2)}
 body.theme-dark .opd-seg{background:#0d1a24;border-color:var(--acc)}
@@ -423,13 +431,44 @@ function buildProcedureLayZh(p){
   var materials = override ? override[1].replace(/^材料／器械：/, "") : profile[1];
   var method = override ? override[2].replace(/^怎麼做：/, "") : profile[2];
   var laser = procedureLaserZh(p);
-  return "**這是做什麼的？**<br>" + purpose +
-    "<br><br>**會用到什麼材料或器械？**<br>" + materials +
-    "<br><br>**大致怎麼進行？**<br>" + method +
-    (laser ? "<br><br>**若使用雷射：種類與作用方式**<br>" + laser : "") +
-    "<br><br>**術後與恢復**<br>" + profile[3] +
-    "<br><br>**主要風險**<br>" + profile[4] +
-    "<br><br><em>這是一般性的病人版說明；實際做法、材料、麻醉與恢復時間會依個人病情及醫師判斷調整。</em>";
+  return '<div class="teach-compact">' +
+    '<div class="teach-section"><strong>這是做什麼的？</strong>' + purpose + '</div>' +
+    '<div class="teach-section"><strong>會用到什麼材料或器械？</strong>' + materials + '</div>' +
+    '<div class="teach-section"><strong>大致怎麼進行？</strong>' + method + '</div>' +
+    (laser ? '<div class="teach-section"><strong>若使用雷射：種類與作用方式</strong>' + laser + '</div>' : '') +
+    '<div class="teach-section"><strong>術後與恢復</strong>' + profile[3] + '</div>' +
+    '<div class="teach-section"><strong>主要風險</strong>' + profile[4] + '</div>' +
+    buildProcedureAdditionalKnowledge(p) +
+    '</div>';
+}
+
+function procedureTeachingPlain(value,maxLength){
+  var text = String(value || '')
+    .replace(/<br\s*\/?>/gi,' ')
+    .replace(/<[^>]*>/g,' ')
+    .replace(/\*\*/g,'')
+    .replace(/\\"/g,'"')
+    .replace(/\s+/g,' ')
+    .trim()
+    .replace(/^Pearls?:\s*/i,'');
+  if(text.length > maxLength){
+    var clipped = text.slice(0,maxLength);
+    var sentenceEnd = Math.max(clipped.lastIndexOf('. '),clipped.lastIndexOf('; '));
+    text = (sentenceEnd > Math.floor(maxLength * 0.55) ? clipped.slice(0,sentenceEnd + 1) : clipped.replace(/\s+\S*$/,'') + '…');
+  }
+  return text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function buildProcedureAdditionalKnowledge(p){
+  var pearl = procedureTeachingPlain(p.notes || p.prognosis,420);
+  var solution = procedureTeachingPlain(p.indication,420);
+  var title = procedureTeachingPlain(p.t,220);
+  return '<div class="teach-additional">' +
+    '<div class="teach-additional-title">Additional knowledge</div>' +
+    '<div class="teach-additional-row"><strong>High-yield knowledge:</strong>' + pearl + '</div>' +
+    '<div class="teach-additional-row"><strong>Pimp question:</strong>What is the main clinical indication for ' + title + '?</div>' +
+    '<div class="teach-additional-row"><strong>Solution:</strong>' + solution + '</div>' +
+    '</div>';
 }
 PROCS.forEach(function(p){ p.layzh = buildProcedureLayZh(p); });
 
@@ -536,7 +575,7 @@ function procedureMetaHtml(p){
 }
 
 var TABS = [["criteria","Criteria"],["treatment","Treatment"],["prognosis","Prognosis"],["prevalence","Prevalence"],["teach","Teaching"]];
-var PROC_TABS = [["layzh","白話說明（繁中）"],["indication","Indication"],["method","Method"],["preop","Pre-op"],["postop","Post-op"],["contra","Contraindications"],["prognosis","Prognosis"],["notes","Notes"]];
+var PROC_TABS = [["indication","Indication"],["method","Method"],["preop","Pre-op"],["postop","Post-op"],["contra","Contraindications"],["prognosis","Prognosis"],["notes","Notes"],["layzh","Teaching"]];
 var PREV_LABELS = ["", "Rare", "Uncommon", "Occasional", "Common", "Very common"];
 function prevSort(a,b){
   var ta = a.prevTier||3, tb = b.prevTier||3;
@@ -632,6 +671,10 @@ function formatContent(raw, opts){
     body = highlightDur(body);
     return '<div class="opd-seg">' + labelHtml + body + '</div>';
   }).join("");
+}
+
+function formatTeachingContent(raw){
+  return String(raw || "").replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>");
 }
 
 function setFont(delta){
@@ -859,7 +902,9 @@ function renderProcDetail(p){
   var panelsHtml = PROC_TABS.map(function(t){
     var content = p[t[0]];
     var activeCls = (t[0] === curTab) ? ' active' : '';
-    return '<div class="dtab-panel' + activeCls + '">' + formatContent(content) + '</div>';
+    var teachingCls = (t[0] === 'layzh') ? ' proc-teaching-panel' : '';
+    var panelContent = (t[0] === 'layzh') ? formatTeachingContent(content) : formatContent(content);
+    return '<div class="dtab-panel' + teachingCls + activeCls + '">' + panelContent + '</div>';
   }).join('');
   var usedForHtml = '';
   if(p.usedFor && p.usedFor.length){
