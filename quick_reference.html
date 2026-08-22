@@ -75,6 +75,7 @@ body.theme-dark .gene-pill,body.theme-black .gene-pill{background:#0d2740;color:
 .teach-additional-title{font-weight:800;color:var(--acc);margin-bottom:5px}
 .teach-additional-row{margin-top:4px}
 .teach-additional-row>strong{display:inline;margin-right:5px}
+.teach-card-source{display:block;margin-top:3px;padding:5px 7px;border-radius:5px;background:color-mix(in srgb,var(--chip) 72%,transparent);font-size:.9em;line-height:1.42}
 .opd-seg{background:#f2f7fc;border-left:4px solid var(--acc);border-radius:6px;padding:10px 14px;margin:0 0 8px;font-size:var(--opd-fs);line-height:1.62}
 .opd-seg b{color:var(--acc2)}
 body.theme-dark .opd-seg{background:#0d1a24;border-color:var(--acc)}
@@ -457,17 +458,25 @@ function procedureLaserZh(p){
 function buildProcedureLayZh(p){
   var profile = PROC_LAY_ZH[p.h3] || ["以較容易理解的方式說明此項眼科處置的目的。", "實際材料與器械依病情及醫院設備而定。", "醫師會先完成檢查與麻醉，再依標準步驟進行。", "術後需按時用藥並依約回診。", "所有處置都有感染、出血、發炎及效果不如預期的可能。"];
   var override = PROC_LAY_ZH_OVERRIDES[p.id];
-  var purpose = override ? override[0].replace(/^用途：/, "") : profile[0];
-  var materials = override ? override[1].replace(/^材料／器械：/, "") : profile[1];
-  var method = override ? override[2].replace(/^怎麼做：/, "") : profile[2];
+  var exactIndication = procedureTeachingComplete(p.indication,1);
+  var exactMethod = procedureTeachingComplete(p.method,2);
+  var exactPostop = procedureTeachingComplete(p.postop,2);
+  var exactOutcome = procedureTeachingComplete(p.prognosis,1);
+  var purpose = (override ? override[0].replace(/^用途：/, "") : profile[0]) +
+    '<span class="teach-card-source"><strong>此卡片的專屬適應症：</strong>' + exactIndication + '</span>';
+  var materials = (override ? override[1].replace(/^材料／器械：/, "") : profile[1]) +
+    '<span class="teach-card-source"><strong>此術式實際使用的器械／材料線索：</strong>' + procedureTeachingComplete(p.method,1) + '</span>';
+  var method = (override ? override[2].replace(/^怎麼做：/, "") : profile[2]) +
+    '<span class="teach-card-source"><strong>此卡片的實際步驟摘要：</strong>' + exactMethod + '</span>';
   var laser = procedureLaserZh(p);
   return '<div class="teach-compact">' +
+    '<div class="teach-section"><strong>本卡片處置</strong>' + procedureTeachingPlain(p.t,1000) + '</div>' +
     '<div class="teach-section"><strong>這是做什麼的？</strong>' + purpose + '</div>' +
     '<div class="teach-section"><strong>會用到什麼材料或器械？</strong>' + materials + '</div>' +
     '<div class="teach-section"><strong>大致怎麼進行？</strong>' + method + '</div>' +
     (laser ? '<div class="teach-section"><strong>若使用雷射：種類與作用方式</strong>' + laser + '</div>' : '') +
-    '<div class="teach-section"><strong>術後與恢復</strong>' + profile[3] + '</div>' +
-    '<div class="teach-section"><strong>主要風險</strong>' + profile[4] + '</div>' +
+    '<div class="teach-section"><strong>術後與恢復</strong>' + profile[3] + '<span class="teach-card-source"><strong>此術式的術後重點：</strong>' + exactPostop + '</span></div>' +
+    '<div class="teach-section"><strong>主要風險</strong>' + profile[4] + '<span class="teach-card-source"><strong>此術式的特定結果／風險：</strong>' + exactOutcome + '</span></div>' +
     buildProcedureAdditionalKnowledge(p) +
     '</div>';
 }
@@ -489,15 +498,30 @@ function procedureTeachingPlain(value,maxLength){
   return text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
+function procedureTeachingComplete(value,maxSegments){
+  var segments = String(value || '').split(/<br\s*\/?>/i).map(function(segment){
+    return segment.replace(/<[^>]*>/g,' ').replace(/\*\*/g,'').replace(/\\"/g,'"').replace(/\s+/g,' ').trim().replace(/^Pearls?:\s*/i,'');
+  }).filter(Boolean);
+  var text = segments.slice(0,Math.max(1,maxSegments || 1)).join(' ');
+  return text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function procedureTeachingKeyPoint(value){
+  var complete = procedureTeachingComplete(value,1);
+  var sentences = complete.split(/(?<=[.!?])\s+/).filter(Boolean);
+  return sentences.slice(0,2).join(' ');
+}
+
 function buildProcedureAdditionalKnowledge(p){
-  var pearl = procedureTeachingPlain(p.notes || p.prognosis,420);
-  var solution = procedureTeachingPlain(p.indication,420);
+  var pearl = procedureTeachingKeyPoint(p.notes || p.prognosis);
+  var indicationAnswer = procedureTeachingComplete(p.indication,1);
+  var principleAnswer = procedureTeachingKeyPoint(p.notes || p.method);
   var title = procedureTeachingPlain(p.t,220);
   return '<div class="teach-additional">' +
     '<div class="teach-additional-title">Additional knowledge</div>' +
     '<div class="teach-additional-row"><strong>High-yield knowledge:</strong>' + pearl + '</div>' +
-    '<div class="teach-additional-row"><strong>Pimp question:</strong>What is the main clinical indication for ' + title + '?</div>' +
-    '<div class="teach-additional-row"><strong>Solution:</strong>' + solution + '</div>' +
+    '<div class="teach-additional-row"><strong>HY question:</strong>What are the principal indication and one key technical or clinical point for ' + title + '?</div>' +
+    '<div class="teach-additional-row"><strong>Solution:</strong><br><strong>Indication:</strong>' + indicationAnswer + '<br><strong>Key point:</strong>' + principleAnswer + '</div>' +
     '</div>';
 }
 PROCS.forEach(function(p){ p.layzh = buildProcedureLayZh(p); });
@@ -1319,9 +1343,9 @@ function renderDiseaseDetail(d){
     '<div class="dtitle">' + d.t + '</div>' +
     '<div class="dbread">' + d.h2 + ' &rsaquo; ' + d.h3 + '</div>' +
     (d.inheritedMeta ? '<div class="disease-detail-badges">' + geneticBadgesHtml(d,false) + '</div>' : '') +
-    detailArrowNavHtml() +
     '<div class="dtabs">' + tabsHtml + '</div>' +
     panelsHtml +
+    detailArrowNavHtml() +
     '</div>';
 }
 
@@ -1348,9 +1372,9 @@ function renderProcDetail(p){
     '<div class="dbread">' + p.h2 + ' &rsaquo; ' + p.h3 + '</div>' +
     '<div class="proc-meta proc-detail-meta">' + procedureMetaHtml(p) + '</div>' +
     usedForHtml +
-    detailArrowNavHtml() +
     '<div class="dtabs">' + tabsHtml + '</div>' +
     panelsHtml +
+    detailArrowNavHtml() +
     '</div>';
 }
 
