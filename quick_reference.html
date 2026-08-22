@@ -39,6 +39,13 @@
 .ird-symptom{display:block;margin-top:7px;padding-top:6px;border-top:1px dashed var(--line);font-size:11px;font-weight:500;color:var(--sub);line-height:1.4}
 .ird-symptom b{color:var(--ink)}
 .disease-detail-badges{margin:7px 0 13px}
+.detail-arrow-nav{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:8px;align-items:center;margin:8px 0 12px}
+.detail-arrow-btn{min-width:0;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);padding:7px 10px;cursor:pointer;font:inherit;font-size:11px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.detail-arrow-btn:first-child{text-align:left}.detail-arrow-btn:last-child{text-align:right}
+.detail-arrow-btn:hover:not(:disabled){border-color:var(--acc);background:var(--chip);color:var(--acc)}
+.detail-arrow-btn:disabled{opacity:.35;cursor:default}
+.detail-key-hint{font-size:10px;color:var(--sub);text-align:center;line-height:1.35}
+@media(max-width:620px){.detail-arrow-nav{grid-template-columns:1fr 1fr}.detail-key-hint{grid-column:1/-1;grid-row:2}.detail-arrow-btn{font-size:10px;padding:7px}}
 .sex-bias-tag{display:inline-flex;margin-left:6px;border-radius:999px;padding:2px 7px;font-size:9.5px;font-weight:900;vertical-align:middle}
 .sex-female .sex-bias-tag{background:#fce7f3;color:#9d174d;border:1px solid #f9a8d4}
 .sex-male .sex-bias-tag{background:#e0f2fe;color:#075985;border:1px solid #93c5fd}
@@ -906,6 +913,7 @@ var curCat = null;
 var curDetailKind = null;  // "dis" | "proc"
 var curDetailId = null;
 var curTab = "criteria";
+var DETAIL_NAV_IDS = [];
 var topicOpen = false;
 var FS_MIN = 12.5, FS_MAX = 19, FS_STEP = 1.25;
 
@@ -1067,6 +1075,44 @@ function selectTab(name){
   curTab = name;
   render();
 }
+function detailTabs(){ return curDetailKind === 'proc' ? PROC_TABS : TABS; }
+function normaliseDetailNavigation(){
+  if(DETAIL_NAV_IDS.indexOf(curDetailId) >= 0) return;
+  var fallback = curDetailKind === 'proc' ? PROCS.slice() : (MODE === 'ird' ? IRD_DISEASES.slice() : DATA.slice());
+  fallback.sort(function(a,b){ return a.t.localeCompare(b.t); });
+  DETAIL_NAV_IDS = fallback.map(function(item){ return item.id; });
+}
+function navigateDetail(delta){
+  if(VIEW !== 'detail' || !curDetailId) return;
+  normaliseDetailNavigation();
+  var index = DETAIL_NAV_IDS.indexOf(curDetailId);
+  var nextIndex = index + delta;
+  if(index < 0 || nextIndex < 0 || nextIndex >= DETAIL_NAV_IDS.length) return;
+  curDetailId = DETAIL_NAV_IDS[nextIndex];
+  VIEW = 'detail';
+  render();
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+function cycleDetailTab(delta){
+  if(VIEW !== 'detail') return;
+  var tabs = detailTabs();
+  var index = tabs.findIndex(function(tab){ return tab[0] === curTab; });
+  if(index < 0) index = 0;
+  curTab = tabs[(index + delta + tabs.length) % tabs.length][0];
+  render();
+}
+function detailArrowNavHtml(){
+  normaliseDetailNavigation();
+  var index = DETAIL_NAV_IDS.indexOf(curDetailId);
+  var lookup = curDetailKind === 'proc' ? PROCBYID : BYID;
+  var prev = index > 0 ? lookup[DETAIL_NAV_IDS[index-1]] : null;
+  var next = index >= 0 && index < DETAIL_NAV_IDS.length-1 ? lookup[DETAIL_NAV_IDS[index+1]] : null;
+  return '<div class="detail-arrow-nav">' +
+    '<button class="detail-arrow-btn" data-action="detailprev"' + (prev ? ' title="Previous: '+escapeAttr(prev.t)+'">← Previous: '+escapeHtml(prev.t) : ' disabled>← Previous') + '</button>' +
+    '<div class="detail-key-hint">← / → card<br>↑ / ↓ tab</div>' +
+    '<button class="detail-arrow-btn" data-action="detailnext"' + (next ? ' title="Next: '+escapeAttr(next.t)+'">Next: '+escapeHtml(next.t)+' →' : ' disabled>Next →') + '</button>' +
+    '</div>';
+}
 function toggleTopics(){
   topicOpen = !topicOpen;
   render();
@@ -1134,6 +1180,7 @@ function renderCategoryGrid(){
 function renderTopicSection(){
   var list = (MODE === 'intervention') ? PROCS.slice() : (MODE === 'ird' ? IRD_DISEASES.slice() : DATA.slice());
   list.sort(function(a,b){ return a.t.localeCompare(b.t); });
+  DETAIL_NAV_IDS = list.map(function(item){ return item.id; });
   var label = (MODE === 'intervention') ? 'procedures' : (MODE === 'ird' ? 'inherited retinal diseases' : 'diseases');
   var html = '<button class="topic-toggle" data-action="toggletopics">' + (topicOpen ? 'Hide' : 'Browse all ' + list.length + ' ' + label + ' A-Z') + '</button>';
   html += '<div class="topic-list' + (topicOpen ? ' open' : '') + '">';
@@ -1149,6 +1196,7 @@ function renderItemGrid(cat){
   if(MODE === 'ird'){
     var irdMeta = currentCatMeta();
     var irdList = (irdMeta.by[cat] || []).slice().sort(function(a,b){ return a.t.localeCompare(b.t); });
+    DETAIL_NAV_IDS = irdList.map(function(d){ return d.id; });
     var groupNote = IRD_BROWSE === 'inheritance' ? 'Diseases may appear in more than one inheritance group when genetically heterogeneous.' :
       (IRD_BROWSE === 'symptom' ? 'Presentations overlap; use this as a clinical starting point rather than a diagnosis.' : 'Age bands reflect typical presentation and can vary within the same genotype.');
     var irdHtml = renderIrdBrowseTabs() + '<div class="opd-h1">' + (irdMeta.icon[cat]||'🧬') + ' ' + cat + '</div>' +
@@ -1163,20 +1211,24 @@ function renderItemGrid(cat){
     plist.forEach(function(p){ (subgroups[p.h3]||(subgroups[p.h3]=[])).push(p); });
     var subgroupOrder = [];
     plist.forEach(function(p){ if(subgroupOrder.indexOf(p.h3)<0) subgroupOrder.push(p.h3); });
+    var displayedProcIds = [];
     var html = '<div class="opd-h1">' + (meta.icon[cat]||'') + ' ' + cat + '</div>' +
       '<div class="proc-guide">Ranked within each clinical subgroup by qualitative contemporary use. Frequency and status are guidance labels, not procedure-volume statistics.</div>';
     subgroupOrder.forEach(function(h3){
       var group = subgroups[h3].sort(function(a,b){ return a.useRank-b.useRank; });
+      group.forEach(function(p){ displayedProcIds.push(p.id); });
       html += '<section class="proc-subgroup"><div class="proc-subgroup-title">' + h3 + '<span class="proc-subgroup-count">' + group.length + ' interventions</span></div><div class="dis-grid">';
       group.forEach(function(p){
         html += '<button class="dis-tile" data-action="proc" data-id="' + escapeAttr(p.id) + '">' + p.t + '<span class="proc-meta">' + procedureMetaHtml(p) + '</span></button>';
       });
       html += '</div></section>';
     });
+    DETAIL_NAV_IDS = displayedProcIds;
     return html;
   }
   var srcBy = (MODE === 'diseases') ? BYDISH2 : BYCAT;
   var list = (srcBy[cat] || []).slice().sort(prevSort);
+  DETAIL_NAV_IDS = list.map(function(d){ return d.id; });
   var meta = currentCatMeta();
   var html = '<div class="opd-h1">' + (meta.icon[cat]||'') + ' ' + cat + '</div><div class="opd-h2sub">Ranked by prevalence, most common first</div>' + sexBiasLegendHtml() + '<div class="dis-grid">';
   list.forEach(function(d){
@@ -1224,6 +1276,7 @@ function renderSearchResults(q){
   var ql = q.toLowerCase();
   if(MODE === 'intervention'){
     var plist = PROCS.filter(function(p){ return matchesQuery(p, ql, PROC_SEARCH_FIELDS); }).sort(function(a,b){ return a.t.localeCompare(b.t); });
+    DETAIL_NAV_IDS = plist.map(function(p){ return p.id; });
     var html = '<div class="opd-h1">Search results for &ldquo;' + escapeHtml(q) + '&rdquo; (' + plist.length + ')</div>';
     if(plist.length === 0){ html += '<div class="nomatch">No procedures match that text.</div>'; return html; }
     html += '<div class="dis-grid">';
@@ -1237,6 +1290,7 @@ function renderSearchResults(q){
   }
   var diseaseSearchSource = MODE === 'ird' ? IRD_DISEASES : DATA;
   var list = diseaseSearchSource.filter(function(d){ return matchesQuery(d, ql, DIS_SEARCH_FIELDS); }).sort(MODE === 'ird' ? function(a,b){ return a.t.localeCompare(b.t); } : prevSort);
+  DETAIL_NAV_IDS = list.map(function(d){ return d.id; });
   var html = '<div class="opd-h1">Search results for &ldquo;' + escapeHtml(q) + '&rdquo; (' + list.length + ')</div>' + sexBiasLegendHtml();
   if(list.length === 0){ html += '<div class="nomatch">No diseases match that text.</div>'; return html; }
   html += '<div class="dis-grid">';
@@ -1265,6 +1319,7 @@ function renderDiseaseDetail(d){
     '<div class="dtitle">' + d.t + '</div>' +
     '<div class="dbread">' + d.h2 + ' &rsaquo; ' + d.h3 + '</div>' +
     (d.inheritedMeta ? '<div class="disease-detail-badges">' + geneticBadgesHtml(d,false) + '</div>' : '') +
+    detailArrowNavHtml() +
     '<div class="dtabs">' + tabsHtml + '</div>' +
     panelsHtml +
     '</div>';
@@ -1293,6 +1348,7 @@ function renderProcDetail(p){
     '<div class="dbread">' + p.h2 + ' &rsaquo; ' + p.h3 + '</div>' +
     '<div class="proc-meta proc-detail-meta">' + procedureMetaHtml(p) + '</div>' +
     usedForHtml +
+    detailArrowNavHtml() +
     '<div class="dtabs">' + tabsHtml + '</div>' +
     panelsHtml +
     '</div>';
@@ -1331,6 +1387,18 @@ document.getElementById('opd-main').addEventListener('click', function(e){
   else if(action === 'tab'){ selectTab(el.getAttribute('data-tab')); }
   else if(action === 'toggletopics'){ toggleTopics(); }
   else if(action === 'irdbrowse'){ switchIrdBrowse(el.getAttribute('data-ird-browse')); }
+  else if(action === 'detailprev'){ navigateDetail(-1); }
+  else if(action === 'detailnext'){ navigateDetail(1); }
+});
+
+document.addEventListener('keydown', function(e){
+  if(VIEW !== 'detail' || e.defaultPrevented || e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+  var target = e.target;
+  if(target && (target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName))) return;
+  if(e.key === 'ArrowLeft'){ e.preventDefault(); navigateDetail(-1); }
+  else if(e.key === 'ArrowRight'){ e.preventDefault(); navigateDetail(1); }
+  else if(e.key === 'ArrowUp'){ e.preventDefault(); cycleDetailTab(-1); }
+  else if(e.key === 'ArrowDown'){ e.preventDefault(); cycleDetailTab(1); }
 });
 
 document.getElementById('opd-nav-left').addEventListener('click', function(e){
