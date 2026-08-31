@@ -117,6 +117,7 @@ kbd{background:#eef1f5;border:1px solid #ccd4dd;border-bottom-width:2px;border-r
 .brand .burger{font-size:20px;color:#fff;line-height:1}
 .logo-chip{background:#fff;border-radius:6px;padding:2px 8px;display:flex;align-items:center}
 .logo-chip svg{height:30px;width:auto;display:block}
+.mobile-header-current,.mobile-tabs-trigger,.mobile-bottom-nav,.mobile-tabs-layer{display:none}
 .menu-dd{position:fixed;top:50px;left:14px;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:0 12px 34px rgba(0,0,0,.28);min-width:230px;max-height:calc(100vh - 78px);overflow:auto;padding:6px;display:none;z-index:200}
 .menu-dd.open{display:block}
 .menu-item{display:block;width:100%;text-align:left;background:transparent;border:none;padding:9px 12px;font-size:14px;color:var(--ink);border-radius:7px;cursor:pointer}
@@ -172,14 +173,19 @@ body.theme-black details.subguide>summary{color:#ffd21f}
 html,body{max-width:100%;overflow-x:hidden}
 .brand-hint{display:none;color:#fff;font-size:13px;font-weight:600;white-space:nowrap}
 @media(max-width:860px){
-  header{padding:8px 10px;gap:8px}
+  body{padding-bottom:calc(68px + env(safe-area-inset-bottom))}
+  header{padding:7px 10px;gap:9px;min-height:54px}
   .brand{flex:0 0 auto}
   .brand-hint{display:none}
-  header nav{display:flex;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;gap:3px;flex:1 1 auto;min-width:0;scrollbar-width:none}
-  header nav::-webkit-scrollbar{display:none}
-  header nav button{flex:0 0 auto;white-space:nowrap;padding:8px 10px}
+  header nav{display:none}
+  .logo-chip{padding:2px 6px}
+  .logo-chip svg{height:26px;max-width:112px}
+  .mobile-header-current{display:flex;flex:1 1 auto;min-width:0;flex-direction:column;line-height:1.15}
+  .mobile-header-current span{font-size:9.5px;text-transform:uppercase;letter-spacing:.7px;color:rgba(255,255,255,.7)}
+  .mobile-header-current strong{font-size:14px;color:#fff;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .mobile-tabs-trigger{display:flex;flex:0 0 auto;align-items:center;gap:6px;border:1px solid rgba(255,255,255,.42);border-radius:9px;background:rgba(255,255,255,.12);color:#fff;padding:7px 9px;font:600 12px/1 inherit;cursor:pointer}
+  .mobile-tabs-trigger .grid-icon{font-size:16px;line-height:1}
   main{padding:12px 10px}
-  .logo-chip svg{height:30px}
   details.guide>.gbody, details.subguide>.sgbody, .card{overflow-x:auto}
   .menu-dd{position:fixed;top:52px;left:8px;right:8px;min-width:0;max-height:calc(100vh - 64px);overflow:auto}
   .cols{gap:10px}
@@ -190,6 +196,32 @@ html,body{max-width:100%;overflow-x:hidden}
   .exam-grid input{font-size:12px;padding:4px 5px;min-width:0}
   .exam-grid .lbl{font-size:11.5px}
   .btnrow{gap:6px}
+  body.banner-hidden main{padding-top:12px}
+  #fab{bottom:calc(82px + env(safe-area-inset-bottom))}
+  #np-panel{bottom:calc(136px + env(safe-area-inset-bottom));max-height:calc(100vh - 160px);max-height:calc(100dvh - 160px)}
+  .mobile-bottom-nav{position:fixed;left:0;right:0;bottom:0;z-index:190;display:grid;grid-template-columns:repeat(5,1fr);gap:2px;padding:5px 6px calc(5px + env(safe-area-inset-bottom));background:var(--card);border-top:1px solid var(--line);box-shadow:0 -5px 18px rgba(10,34,55,.12)}
+  .mobile-nav-item{min-width:0;min-height:54px;border:0;border-radius:9px;background:transparent;color:var(--sub);padding:5px 2px 4px;font:600 10.5px/1.1 inherit;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;cursor:pointer}
+  .mobile-nav-item .mobile-nav-icon{font-size:19px;line-height:1.1;filter:grayscale(.18)}
+  .mobile-nav-item.active{background:var(--chip);color:var(--acc);font-weight:700}
+  .mobile-nav-item.active .mobile-nav-icon{filter:none;transform:translateY(-1px)}
+  .mobile-tabs-layer{position:fixed;inset:0;z-index:360}
+  .mobile-tabs-layer.open{display:block}
+  .mobile-tabs-backdrop{position:absolute;inset:0;border:0;background:rgba(8,20,31,.56);width:100%;height:100%;padding:0;cursor:pointer}
+  .mobile-tabs-sheet{position:absolute;left:0;right:0;bottom:0;background:var(--card);color:var(--ink);border-radius:20px 20px 0 0;padding:9px 14px calc(18px + env(safe-area-inset-bottom));box-shadow:0 -12px 38px rgba(0,0,0,.26);max-height:82vh;max-height:82dvh;overflow:auto}
+  .mobile-sheet-handle{width:38px;height:4px;border-radius:4px;background:var(--line);margin:0 auto 9px}
+  .mobile-sheet-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px}
+  .mobile-sheet-head h2{margin:0;font-size:18px;color:var(--ink)}
+  .mobile-sheet-head p{margin:2px 0 0;font-size:11.5px;color:var(--sub)}
+  .mobile-sheet-close{width:38px;height:38px;border:0;border-radius:50%;background:var(--chip);color:var(--ink);font-size:20px;line-height:1;cursor:pointer}
+  .mobile-tab-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+  .mobile-tab-card{min-width:0;min-height:72px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink);padding:9px 5px;font:600 11.5px/1.25 inherit;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;text-align:center;cursor:pointer}
+  .mobile-tab-card .mobile-tab-icon{font-size:23px;line-height:1}
+  .mobile-tab-card.active{border-color:var(--acc);background:var(--chip);color:var(--acc);box-shadow:inset 0 0 0 1px var(--acc)}
+  body.mobile-tabs-open{overflow:hidden}
+}
+@media(max-width:360px){
+  .logo-chip svg{height:23px;max-width:88px}
+  .mobile-header-current strong{font-size:13px}
 }
 html{overflow-y:scroll}
 body.banner-hidden header{display:none}
@@ -407,9 +439,34 @@ body.theme-dark .pn-badge.preop,body.theme-black .pn-badge.preop{background:#3a2
     <button data-tab="anki" onclick="showTab('anki')">🃏 OPH Study</button>
     <button data-tab="info" onclick="showTab('info')" title="Information" style="font-size:17px">&#9432;</button>
   </nav>
+  <div class="mobile-header-current" aria-live="polite">
+    <span>Current section</span>
+    <strong id="mobile-current-title">Quick Guides</strong>
+  </div>
+  <button class="mobile-tabs-trigger" id="mobile-tabs-trigger" type="button" onclick="openMobileTabs()" aria-controls="mobile-tabs-layer" aria-expanded="false">
+    <span class="grid-icon" aria-hidden="true">▦</span><span>All tabs</span>
+  </button>
 </header>
 <div id="menu-dd" class="menu-dd"></div>
 <button id="float-logo" onclick="toggleMenu(event)" title="Menu">☰</button>
+<div class="mobile-bottom-nav" role="navigation" aria-label="Main sections">
+  <button class="mobile-nav-item active" type="button" data-tab="guides" onclick="mobileGo('guides')"><span class="mobile-nav-icon" aria-hidden="true">🔍</span><span>Guides</span></button>
+  <button class="mobile-nav-item" type="button" data-tab="builder" onclick="mobileGo('builder')"><span class="mobile-nav-icon" aria-hidden="true">📝</span><span>Consult</span></button>
+  <button class="mobile-nav-item" type="button" data-tab="opd" onclick="mobileGo('opd')"><span class="mobile-nav-icon" aria-hidden="true">📋</span><span>OPD</span></button>
+  <button class="mobile-nav-item" type="button" data-tab="progress" onclick="mobileGo('progress')"><span class="mobile-nav-icon" aria-hidden="true">📈</span><span>Progress</span></button>
+  <button class="mobile-nav-item" id="mobile-more-tab" type="button" onclick="openMobileTabs()" aria-controls="mobile-tabs-layer" aria-expanded="false"><span class="mobile-nav-icon" aria-hidden="true">▦</span><span>All</span></button>
+</div>
+<div class="mobile-tabs-layer" id="mobile-tabs-layer" aria-hidden="true">
+  <button class="mobile-tabs-backdrop" type="button" onclick="closeMobileTabs()" aria-label="Close all tabs"></button>
+  <section class="mobile-tabs-sheet" role="dialog" aria-modal="true" aria-labelledby="mobile-tabs-title">
+    <div class="mobile-sheet-handle" aria-hidden="true"></div>
+    <div class="mobile-sheet-head">
+      <div><h2 id="mobile-tabs-title">All sections</h2><p>Choose where you want to go</p></div>
+      <button class="mobile-sheet-close" type="button" onclick="closeMobileTabs()" aria-label="Close">×</button>
+    </div>
+    <div class="mobile-tab-grid" id="mobile-tab-grid"></div>
+  </section>
+</div>
 <main>
 
 <!-- ============ BUILDER TAB ============ -->
@@ -2622,12 +2679,71 @@ function amslerResize(v){ var img=document.getElementById("amslerimg"); if(img) 
 function rosFullResize(v){ var img=document.getElementById("ros-full-img"); if(img) img.style.width=v+"px"; }
 function rosFullClose(){ document.getElementById("ros-full").classList.remove("open"); }
 /* ================= tabs ================= */
+var MOBILE_TABS = [
+  {id:'guides',icon:'🔍',label:'Quick Guides'},
+  {id:'pgy',icon:'🩺',label:'PGY Guide'},
+  {id:'builder',icon:'📝',label:'Consult Note'},
+  {id:'opd',icon:'📋',label:'OPD Note'},
+  {id:'progress',icon:'📈',label:'Progress Note'},
+  {id:'bank',icon:'📚',label:'Template Bank'},
+  {id:'ophmed',icon:'💊',label:'OPH Med'},
+  {id:'anki',icon:'🃏',label:'OPH Study'},
+  {id:'info',icon:'ⓘ',label:'Information'}
+];
+function buildMobileTabs(){
+  var grid=document.getElementById('mobile-tab-grid'); if(!grid) return;
+  grid.innerHTML=MOBILE_TABS.map(function(tab){
+    return '<button class="mobile-tab-card" type="button" data-tab="'+tab.id+'" onclick="mobileGo(\''+tab.id+'\')">'
+      +'<span class="mobile-tab-icon" aria-hidden="true">'+tab.icon+'</span><span>'+tab.label+'</span></button>';
+  }).join('');
+  var active=document.querySelector('header nav button.active');
+  syncMobileTabs(active?active.dataset.tab:'guides');
+}
+function openMobileTabs(){
+  var layer=document.getElementById('mobile-tabs-layer'); if(!layer) return;
+  if(!document.getElementById('mobile-tab-grid').children.length) buildMobileTabs();
+  layer.classList.add('open'); layer.setAttribute('aria-hidden','false');
+  document.body.classList.add('mobile-tabs-open');
+  document.getElementById('mobile-tabs-trigger').setAttribute('aria-expanded','true');
+  document.getElementById('mobile-more-tab').setAttribute('aria-expanded','true');
+  var active=layer.querySelector('.mobile-tab-card.active');
+  if(active) setTimeout(function(){ active.focus(); },0);
+}
+function closeMobileTabs(restoreFocus){
+  var layer=document.getElementById('mobile-tabs-layer'); if(!layer) return;
+  var wasOpen=layer.classList.contains('open');
+  layer.classList.remove('open'); layer.setAttribute('aria-hidden','true');
+  document.body.classList.remove('mobile-tabs-open');
+  var trigger=document.getElementById('mobile-tabs-trigger'), more=document.getElementById('mobile-more-tab');
+  if(trigger) trigger.setAttribute('aria-expanded','false');
+  if(more) more.setAttribute('aria-expanded','false');
+  if(wasOpen&&restoreFocus!==false&&trigger&&getComputedStyle(trigger).display!=='none') trigger.focus();
+}
+function mobileGo(id){ showTab(id); closeMobileTabs(false); }
+function syncMobileTabs(id){
+  var meta=MOBILE_TABS.find(function(tab){ return tab.id===id; });
+  var title=document.getElementById('mobile-current-title'); if(title&&meta) title.textContent=meta.label;
+  var primary=false;
+  document.querySelectorAll('.mobile-bottom-nav .mobile-nav-item[data-tab]').forEach(function(button){
+    var active=button.dataset.tab===id; button.classList.toggle('active',active);
+    if(active){ button.setAttribute('aria-current','page'); primary=true; } else button.removeAttribute('aria-current');
+  });
+  var more=document.getElementById('mobile-more-tab');
+  if(more){ more.classList.toggle('active',!primary); if(!primary) more.setAttribute('aria-current','page'); else more.removeAttribute('aria-current'); }
+  document.querySelectorAll('.mobile-tab-card').forEach(function(button){
+    var active=button.dataset.tab===id; button.classList.toggle('active',active);
+    if(active) button.setAttribute('aria-current','page'); else button.removeAttribute('aria-current');
+  });
+}
 function showTab(id){
   document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active', t.id==='tab-'+id));
   document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('active', b.dataset.tab===id));
   var fc=document.getElementById('float-collapse'); if(fc) fc.style.display=(id==='guides'||id==='ophmed')?'block':'none';
   if(typeof buildMenuActive==='function') buildMenuActive(id);
+  syncMobileTabs(id);
 }
+document.addEventListener('keydown',function(event){ if(event.key==='Escape') closeMobileTabs(); });
+window.addEventListener('resize',function(){ if(window.innerWidth>860) closeMobileTabs(false); });
 function floatCollapse(){
   var g=document.getElementById('tab-guides'), o=document.getElementById('tab-ophmed');
   if(g&&g.classList.contains('active')) collapseGuides();
@@ -3430,7 +3546,7 @@ function buildVF(){
 }
 
 /* ================= init ================= */
-applySavedTheme(); applyBanner(); buildMenu(); npLoad(); applyFab(); buildQuickTpl(); ankiInitManifest(); document.getElementById("tab-builder").classList.add("locked"); document.getElementById("tab-progress").classList.add("locked"); document.getElementById("tab-bank").classList.add("locked"); document.getElementById("tab-anki").classList.add("locked");
+applySavedTheme(); applyBanner(); buildMenu(); buildMobileTabs(); npLoad(); applyFab(); buildQuickTpl(); ankiInitManifest(); document.getElementById("tab-builder").classList.add("locked"); document.getElementById("tab-progress").classList.add("locked"); document.getElementById("tab-bank").classList.add("locked"); document.getElementById("tab-anki").classList.add("locked");
 buildExamGrid(); buildFundSelects(); buildDenyChips(); buildPlanChips(); fillCatSelect(); renderBank(); setAllNormal(); buildGuides();
 var requestedTab=new URLSearchParams(window.location.search).get('tab');if(requestedTab&&document.getElementById('tab-'+requestedTab))showTab(requestedTab);
 document.getElementById('o-eom').addEventListener('change', function(){ document.getElementById('eombox').style.display = document.getElementById('o-eom').checked ? 'block':'none'; renderPreview(); });
