@@ -214,7 +214,7 @@ html,body{max-width:100%;overflow-x:hidden}
   .mobile-sheet-head p{margin:2px 0 0;font-size:11.5px;color:var(--sub)}
   .mobile-sheet-close{width:38px;height:38px;border:0;border-radius:50%;background:var(--chip);color:var(--ink);font-size:20px;line-height:1;cursor:pointer}
   .mobile-tab-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
-  .mobile-tab-card{min-width:0;min-height:72px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink);padding:9px 5px;font:600 11.5px/1.25 inherit;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;text-align:center;cursor:pointer}
+  .mobile-tab-card{min-width:0;min-height:72px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink);padding:9px 5px;font:600 11.5px/1.25 inherit;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;text-align:center;text-decoration:none;cursor:pointer}
   .mobile-tab-card .mobile-tab-icon{font-size:23px;line-height:1}
   .mobile-tab-card.active{border-color:var(--acc);background:var(--chip);color:var(--acc);box-shadow:inset 0 0 0 1px var(--acc)}
   body.mobile-tabs-open{overflow:hidden}
@@ -452,8 +452,8 @@ body.theme-dark .pn-badge.preop,body.theme-black .pn-badge.preop{background:#3a2
 <div class="mobile-bottom-nav" role="navigation" aria-label="Main sections">
   <button class="mobile-nav-item active" type="button" data-tab="guides" onclick="mobileGo('guides')"><span class="mobile-nav-icon" aria-hidden="true">🔍</span><span>Guides</span></button>
   <button class="mobile-nav-item" type="button" data-tab="builder" onclick="mobileGo('builder')"><span class="mobile-nav-icon" aria-hidden="true">📝</span><span>Consult</span></button>
-  <button class="mobile-nav-item" type="button" data-tab="opd" onclick="mobileGo('opd')"><span class="mobile-nav-icon" aria-hidden="true">📋</span><span>OPD</span></button>
-  <button class="mobile-nav-item" type="button" data-tab="progress" onclick="mobileGo('progress')"><span class="mobile-nav-icon" aria-hidden="true">📈</span><span>Progress</span></button>
+  <button class="mobile-nav-item" type="button" data-tab="pgy" onclick="mobileGo('pgy')"><span class="mobile-nav-icon" aria-hidden="true">🩺</span><span>PGY</span></button>
+  <button class="mobile-nav-item" type="button" data-tab="anki" onclick="mobileGo('anki')"><span class="mobile-nav-icon" aria-hidden="true">🃏</span><span>OPH Study</span></button>
   <button class="mobile-nav-item" id="mobile-more-tab" type="button" onclick="openMobileTabs()" aria-controls="mobile-tabs-layer" aria-expanded="false"><span class="mobile-nav-icon" aria-hidden="true">▦</span><span>All</span></button>
 </div>
 <div class="mobile-tabs-layer" id="mobile-tabs-layer" aria-hidden="true">
@@ -2362,6 +2362,7 @@ else BANK = mergeConsultBank(BANK, PUBLISHED_CONSULT);
 function saveBank(){ localStorage.setItem('oph_bank_v2', JSON.stringify(BANK)); }
 function cats(){ return [...new Set(BANK.map(t=>t.category))].sort((a,b)=>a.localeCompare(b)); }
 
+var ACCESS_LOCK_ENABLED=false; // Temporary switch: set to true to restore password gates.
 var TAB_LABELS={builder:"Consult Note",progress:"Progress Note",bank:"Template Bank",anki:"OPH Study"};
 function accessFor(pw){
   pw=(pw||"").trim().toLowerCase();
@@ -2609,11 +2610,13 @@ function buildMenu(){
     h+='<button class="menu-item" data-tab="'+b.dataset.tab+'" onclick="menuGo(\''+b.dataset.tab+'\')">'+b.textContent.trim()+'</button>';
   });
   h+='<div class="menu-sep"></div><button class="menu-item" onclick="toggleBanner()">'+(document.body.classList.contains("banner-hidden")?"\u2913 Show top banner":"\u2912 Hide top banner")+'</button>';
-  h+='<div class="menu-sep"></div><div class="menu-label">Access</div>'
-   +'<div style="padding:2px 12px 8px"><input id="menu-pw" type="password" placeholder="Password" onkeydown="if(event.key===\'Enter\')menuLogin()" style="width:100%">'
-   +'<button class="btn sm" style="margin-top:6px;width:100%" onclick="menuLogin()">Unlock tabs</button>'
-   +'<div class="small" id="menu-pw-msg" style="margin-top:5px"></div></div>'
-   +'<div class="menu-sep"></div><div class="menu-label">Color theme</div><div class="theme-row">'
+  if(ACCESS_LOCK_ENABLED){
+    h+='<div class="menu-sep"></div><div class="menu-label">Access</div>'
+     +'<div style="padding:2px 12px 8px"><input id="menu-pw" type="password" placeholder="Password" onkeydown="if(event.key===\'Enter\')menuLogin()" style="width:100%">'
+     +'<button class="btn sm" style="margin-top:6px;width:100%" onclick="menuLogin()">Unlock tabs</button>'
+     +'<div class="small" id="menu-pw-msg" style="margin-top:5px"></div></div>';
+  }
+  h+='<div class="menu-sep"></div><div class="menu-label">Color theme</div><div class="theme-row">'
    +'<div class="theme-dot" title="Default" data-theme="default" style="background:#0f6bb2" onclick="setTheme(\'default\')"></div>'
    +'<div class="theme-dot" title="Macaroon" data-theme="macaroon" style="background:#e0873a" onclick="setTheme(\'macaroon\')"></div>'
    +'<div class="theme-dot" title="Dark" data-theme="dark" style="background:#1a2632" onclick="setTheme(\'dark\')"></div>'
@@ -2681,6 +2684,8 @@ function rosFullClose(){ document.getElementById("ros-full").classList.remove("o
 /* ================= tabs ================= */
 var MOBILE_TABS = [
   {id:'guides',icon:'🔍',label:'Quick Guides'},
+  {href:'quick_reference.html',icon:'⚡',label:'Quick Reference'},
+  {href:'mindmaps.html',icon:'🗺',label:'Mindmaps'},
   {id:'pgy',icon:'🩺',label:'PGY Guide'},
   {id:'builder',icon:'📝',label:'Consult Note'},
   {id:'opd',icon:'📋',label:'OPD Note'},
@@ -2693,6 +2698,8 @@ var MOBILE_TABS = [
 function buildMobileTabs(){
   var grid=document.getElementById('mobile-tab-grid'); if(!grid) return;
   grid.innerHTML=MOBILE_TABS.map(function(tab){
+    if(tab.href) return '<a class="mobile-tab-card" href="'+tab.href+'" target="_blank" rel="noopener">'
+      +'<span class="mobile-tab-icon" aria-hidden="true">'+tab.icon+'</span><span>'+tab.label+'</span></a>';
     return '<button class="mobile-tab-card" type="button" data-tab="'+tab.id+'" onclick="mobileGo(\''+tab.id+'\')">'
       +'<span class="mobile-tab-icon" aria-hidden="true">'+tab.icon+'</span><span>'+tab.label+'</span></button>';
   }).join('');
@@ -3184,6 +3191,8 @@ function toast(msg){
 
 /* ================= quick guides ================= */
 const GUIDES = [
+{title:'⚡ Quick Reference', link:'quick_reference.html'},
+{title:'🗺 Mindmaps', link:'mindmaps.html'},
 {title:'📖 Rosenbaum Pocket Vision Screener (near card)', html:`
 <div style="display:flex;align-items:center;gap:10px;margin:8px 0">
   <span class="small" style="white-space:nowrap">Size:</span>
@@ -3546,7 +3555,7 @@ function buildVF(){
 }
 
 /* ================= init ================= */
-applySavedTheme(); applyBanner(); buildMenu(); buildMobileTabs(); npLoad(); applyFab(); buildQuickTpl(); ankiInitManifest(); document.getElementById("tab-builder").classList.add("locked"); document.getElementById("tab-progress").classList.add("locked"); document.getElementById("tab-bank").classList.add("locked"); document.getElementById("tab-anki").classList.add("locked");
+applySavedTheme(); applyBanner(); buildMenu(); buildMobileTabs(); npLoad(); applyFab(); buildQuickTpl(); ankiInitManifest(); if(ACCESS_LOCK_ENABLED){ ["builder","progress","bank","anki"].forEach(function(id){ document.getElementById("tab-"+id).classList.add("locked"); }); }
 buildExamGrid(); buildFundSelects(); buildDenyChips(); buildPlanChips(); fillCatSelect(); renderBank(); setAllNormal(); buildGuides();
 var requestedTab=new URLSearchParams(window.location.search).get('tab');if(requestedTab&&document.getElementById('tab-'+requestedTab))showTab(requestedTab);
 document.getElementById('o-eom').addEventListener('change', function(){ document.getElementById('eombox').style.display = document.getElementById('o-eom').checked ? 'block':'none'; renderPreview(); });
