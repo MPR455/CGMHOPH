@@ -206,6 +206,9 @@
       link.remove();
       window.setTimeout(() => URL.revokeObjectURL(url), 1000);
       status.textContent = "已下載：" + filename;
+      textBlock.value = "";
+      updateCount();
+      textBlock.focus();
     }
 
     async function pasteText() {
