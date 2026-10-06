@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>文字儲存工具</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: "Microsoft JhengHei", "Noto Sans TC", Arial, sans-serif;
+      --ink: #17202a;
+      --muted: #667085;
+      --line: #cfd6df;
+      --page: #f2f4f7;
+      --surface: #ffffff;
+      --blue: #175cd3;
+      --blue-dark: #0b4db3;
+      --green: #067647;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--page);
+      color: var(--ink);
+    }
+
+    main {
+      width: min(1000px, calc(100% - 28px));
+      margin: 24px auto 60px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: clamp(28px, 5vw, 44px);
+    }
+
+    .intro {
+      margin: 0 0 18px;
+      color: var(--muted);
+      font-size: 17px;
+    }
+
+    .editor {
+      padding: 18px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: var(--surface);
+      box-shadow: 0 12px 35px rgba(16, 24, 40, 0.1);
+    }
+
+    textarea {
+      display: block;
+      width: 100%;
+      min-height: 48vh;
+      resize: vertical;
+      border: 2px solid var(--line);
+      border-radius: 14px;
+      padding: 18px;
+      background: #ffffff;
+      color: var(--ink);
+      font: 18px/1.65 Consolas, "Microsoft JhengHei", monospace;
+      outline: none;
+    }
+
+    textarea:focus {
+      border-color: #84adff;
+      box-shadow: 0 0 0 4px rgba(23, 92, 211, 0.12);
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 12px;
+    }
+
+    .tools {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .secondary {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 10px 14px;
+      background: white;
+      color: var(--ink);
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .secondary:hover { background: #f8fafc; }
+
+    #count {
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    #saveButton {
+      width: 100%;
+      min-height: 190px;
+      margin: 0 0 18px;
+      border: 0;
+      border-radius: 22px;
+      padding: 24px;
+      background: var(--blue);
+      color: white;
+      font: inherit;
+      font-size: clamp(32px, 7vw, 70px);
+      font-weight: 800;
+      letter-spacing: 0.02em;
+      cursor: pointer;
+      box-shadow: inset 0 -7px 0 rgba(0, 0, 0, 0.16);
+      transition: transform 90ms ease, background 120ms ease;
+    }
+
+    #saveButton:hover { background: var(--blue-dark); }
+    #saveButton:active { transform: translateY(4px); }
+
+    #status {
+      min-height: 28px;
+      margin: 14px 2px 0;
+      color: var(--green);
+      font-size: 17px;
+      font-weight: 700;
+    }
+
+    .note {
+      margin: 6px 2px 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    @media (max-width: 600px) {
+      main { width: min(100% - 16px, 1000px); margin-top: 10px; }
+      .editor { padding: 12px; border-radius: 14px; }
+      textarea { min-height: 43vh; padding: 14px; }
+      #saveButton { min-height: 160px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>文字儲存工具</h1>
+    <p class="intro">將文字貼到上方區塊，再按下大按鈕下載 TXT 檔案。</p>
+
+    <section class="editor" aria-label="文字編輯器">
+      <button id="saveButton" type="button">儲存並下載 TXT</button>
+      <label for="textBlock" hidden>要儲存的文字</label>
+      <textarea id="textBlock" placeholder="在這裡貼上或輸入文字……" autofocus></textarea>
+
+      <div class="toolbar">
+        <div class="tools">
+          <button id="pasteButton" class="secondary" type="button">貼上剪貼簿</button>
+          <button id="copyButton" class="secondary" type="button">複製內容</button>
+          <button id="clearButton" class="secondary" type="button">清除</button>
+        </div>
+        <div id="count">0 個字元</div>
+      </div>
+
+      <div id="status" role="status" aria-live="polite"></div>
+      <p class="note">檔名會使用按下按鈕時的本機時間，例如 2026-10-07_14-30-05.txt。也可按 Ctrl+Enter 儲存。</p>
+    </section>
+  </main>
+
+  <script>
+    const textBlock = document.getElementById("textBlock");
+    const saveButton = document.getElementById("saveButton");
+    const pasteButton = document.getElementById("pasteButton");
+    const copyButton = document.getElementById("copyButton");
+    const clearButton = document.getElementById("clearButton");
+    const count = document.getElementById("count");
+    const status = document.getElementById("status");
+
+    function pad(value) {
+      return String(value).padStart(2, "0");
+    }
+
+    function makeTimestamp(date) {
+      return date.getFullYear()
+        + "-" + pad(date.getMonth() + 1)
+        + "-" + pad(date.getDate())
+        + "_" + pad(date.getHours())
+        + "-" + pad(date.getMinutes())
+        + "-" + pad(date.getSeconds());
+    }
+
+    function updateCount() {
+      count.textContent = textBlock.value.length.toLocaleString() + " 個字元";
+    }
+
+    function saveText() {
+      const filename = makeTimestamp(new Date()) + ".txt";
+      const blob = new Blob([textBlock.value], { type: "text/plain;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = filename;
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      window.setTimeout(() => URL.revokeObjectURL(url), 1000);
+      status.textContent = "已下載：" + filename;
+    }
+
+    async function pasteText() {
+      try {
+        if (!navigator.clipboard || !navigator.clipboard.readText) throw new Error("Clipboard unavailable");
+        const pasted = await navigator.clipboard.readText();
+        textBlock.setRangeText(pasted, textBlock.selectionStart, textBlock.selectionEnd, "end");
+        updateCount();
+        status.textContent = "已貼上剪貼簿內容。";
+        textBlock.focus();
+      } catch (error) {
+        status.textContent = "瀏覽器無法讀取剪貼簿，請在文字區按 Ctrl+V。";
+        textBlock.focus();
+      }
+    }
+
+    async function copyText() {
+      try {
+        if (navigator.clipboard && window.isSecureContext) {
+          await navigator.clipboard.writeText(textBlock.value);
+        } else {
+          textBlock.focus();
+          textBlock.select();
+          if (!document.execCommand("copy")) throw new Error("Copy blocked");
+        }
+        status.textContent = "文字已複製到剪貼簿。";
+      } catch (error) {
+        status.textContent = "瀏覽器封鎖了複製功能，請選取文字後按 Ctrl+C。";
+      }
+    }
+
+    function clearText() {
+      textBlock.value = "";
+      updateCount();
+      status.textContent = "內容已清除。";
+      textBlock.focus();
+    }
+
+    textBlock.addEventListener("input", updateCount);
+    textBlock.addEventListener("keydown", (event) => {
+      if (event.ctrlKey && event.key === "Enter") {
+        event.preventDefault();
+        saveText();
+      }
+    });
+    saveButton.addEventListener("click", saveText);
+    pasteButton.addEventListener("click", pasteText);
+    copyButton.addEventListener("click", copyText);
+    clearButton.addEventListener("click", clearText);
+    updateCount();
+  </script>
+</body>
+</html>
