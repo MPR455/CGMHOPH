@@ -96,9 +96,15 @@ body.theme-black .cat-tile:hover{box-shadow:0 4px 14px rgba(255,210,31,.15)}
 .opd-nav-circle{width:52px;height:52px;border-radius:50%;background:var(--card);border:2px solid var(--line);display:flex;align-items:center;justify-content:center;font-size:22px;box-shadow:0 3px 10px rgba(0,0,0,.12);transition:transform .12s, border-color .12s}
 .opd-nav-btn:hover .opd-nav-circle{transform:scale(1.06);border-color:var(--acc)}
 .opd-nav-btn.active .opd-nav-circle{background:var(--acc);border-color:var(--acc);color:#fff}
+.opd-nav-btn[data-mode="emergent"] .opd-nav-circle{border-color:#dc2626}
+.opd-nav-btn[data-mode="emergent"].active .opd-nav-circle{background:#dc2626;border-color:#dc2626;color:#fff}
+.opd-nav-btn[data-mode="emergent"].active .opd-nav-label{color:#b91c1c}
 body.theme-macaroon .opd-nav-btn.active .opd-nav-circle,
 body.theme-dark .opd-nav-btn.active .opd-nav-circle,
 body.theme-black .opd-nav-btn.active .opd-nav-circle{color:#000}
+body.theme-macaroon .opd-nav-btn[data-mode="emergent"].active .opd-nav-circle,
+body.theme-dark .opd-nav-btn[data-mode="emergent"].active .opd-nav-circle,
+body.theme-black .opd-nav-btn[data-mode="emergent"].active .opd-nav-circle{color:#fff}
 .opd-nav-label{font-size:10px;font-weight:700;color:var(--sub);text-align:center;line-height:1.15;max-width:64px}
 .opd-nav-btn.active .opd-nav-label{color:var(--acc2)}
 
@@ -810,6 +816,15 @@ IRD_ONSET_ORDER.forEach(function(onset){ IRD_BY_ONSET[onset] = []; });
 IRD_DISEASES.forEach(function(d){ d.irdOnset = inferIrdOnset(d); IRD_BY_ONSET[d.irdOnset].push(d); });
 
 var BYCAT = {};
+/* Correct PAC in the allergic-conjunctivitis record before building indexes;
+   here it means perennial allergic conjunctivitis, not primary angle closure. */
+var ALLERGIC_CONJUNCTIVITIS = DATA.filter(function(d){ return d.id === "d37-allergic-conjunctivitis-seasonal-sac-per"; })[0];
+if(ALLERGIC_CONJUNCTIVITIS){
+  ALLERGIC_CONJUNCTIVITIS.t = "Allergic conjunctivitis (seasonal allergic conjunctivitis, SAC / perennial allergic conjunctivitis, PAC)";
+  ALLERGIC_CONJUNCTIVITIS.criteria = ALLERGIC_CONJUNCTIVITIS.criteria
+    .replace("SAC/PAC (primary angle closure)", "SAC/PAC (seasonal/perennial allergic conjunctivitis)")
+    .replace("PAC (primary angle closure) by house dust mite", "PAC (perennial allergic conjunctivitis) is triggered by house dust mite");
+}
 CAT_ORDER.forEach(function(c){BYCAT[c]=[];});
 DATA.forEach(function(d){ d.cats.forEach(function(c){ if(!BYCAT[c])BYCAT[c]=[]; BYCAT[c].push(d); }); });
 var BYID = {}; DATA.forEach(function(d){BYID[d.id]=d;});
@@ -817,6 +832,108 @@ var BYID = {}; DATA.forEach(function(d){BYID[d.id]=d;});
 var BYDISH2 = {};
 DIS_H2_ORDER.forEach(function(c){BYDISH2[c]=[];});
 DATA.forEach(function(d){ if(!BYDISH2[d.h2])BYDISH2[d.h2]=[]; BYDISH2[d.h2].push(d); });
+
+/* Emergency browsing is organised by presenting symptom or injury mechanism,
+   because that is how an undifferentiated patient reaches the clinician. A
+   disease may appear in several groups, and some records are emergent only
+   when the red-flag presentation described in that record is present. */
+var EMERGENT_CAT_ORDER = [
+  "Sudden vision loss",
+  "Painful red eye or acute pressure rise",
+  "Flashes, floaters or curtain",
+  "Proptosis, orbital swelling or tight orbit",
+  "Diplopia, ptosis or abnormal pupil",
+  "Headache with visual or neurologic red flags",
+  "Chemical or thermal exposure",
+  "Penetrating injury or foreign body",
+  "Blunt ocular injury",
+  "Infant, child or safeguarding emergency"
+];
+var EMERGENT_CAT_ICON = {
+  "Sudden vision loss":"⚡",
+  "Painful red eye or acute pressure rise":"🔴",
+  "Flashes, floaters or curtain":"✨",
+  "Proptosis, orbital swelling or tight orbit":"👁",
+  "Diplopia, ptosis or abnormal pupil":"👀",
+  "Headache with visual or neurologic red flags":"🤕",
+  "Chemical or thermal exposure":"🧪",
+  "Penetrating injury or foreign body":"⚠️",
+  "Blunt ocular injury":"💥",
+  "Infant, child or safeguarding emergency":"👶"
+};
+var EMERGENT_GROUP_IDS = {
+  "Sudden vision loss":[
+    "d75-acute-angle-closure-crisis-aacc","d81-neovascular-glaucoma-nvg","d86-lens-induced-glaucomas-phacomorphic-phac",
+    "d107-ectopia-lentis-marfan-homocystinuria-wei","d134-acute-retinal-necrosis-arn","d135-progressive-outer-retinal-necrosis-porn",
+    "d138-endogenous-endophthalmitis-bacterial-and","d139-fungal-candida-chorioretinitis-and-endop",
+    "d156-branch-retinal-artery-occlusion-brao","d157-central-retinal-artery-occlusion-crao",
+    "d159-hypertensive-retinopathy-choroidopathy-a","d190-rhegmatogenous-retinal-detachment-rrd",
+    "d196-vitreous-haemorrhage","d243-arteritic-aion-anterior-ischaemic-optic-","d245-idiopathic-intracranial-hypertension-pap",
+    "d250-methanol-optic-neuropathy","d267-cavernous-sinus-and-orbital-apex-syndrom","d333-thyroid-eye-disease-active-phase",
+    "d347-carotid-cavernous-fistula","d348-cavernous-sinus-thrombosis","d369-post-traumatic-endophthalmitis",
+    "d372-orbital-compartment-syndrome-and-retrobu","d374-traumatic-optic-neuropathy-in-the-trauma"
+  ],
+  "Painful red eye or acute pressure rise":[
+    "d9-bacterial-keratitis","d10-fungal-keratitis-filamentary-and-yeast","d14-acanthamoeba-keratitis",
+    "d16-contact-lens-related-microbial-keratitis","d30-peripheral-ulcerative-keratitis-puk-and-",
+    "d33-corneal-graft-rejection-epithelial-subep","d34-bacterial-conjunctivitis-simple-and-hype",
+    "d42-stevens-johnson-syndrome-toxic-epidermal","d49-anterior-scleritis-diffuse-nodular-and-n",
+    "d75-acute-angle-closure-crisis-aacc","d81-neovascular-glaucoma-nvg","d86-lens-induced-glaucomas-phacomorphic-phac",
+    "d107-ectopia-lentis-marfan-homocystinuria-wei","d126-beh-et-disease","d134-acute-retinal-necrosis-arn",
+    "d138-endogenous-endophthalmitis-bacterial-and","d139-fungal-candida-chorioretinitis-and-endop","d311-ophthalmia-neonatorum"
+  ],
+  "Flashes, floaters or curtain":[
+    "d187-acute-posterior-vitreous-detachment-pvd","d188-retinal-tears-horseshoe-u-tear-operculat",
+    "d190-rhegmatogenous-retinal-detachment-rrd","d196-vitreous-haemorrhage"
+  ],
+  "Proptosis, orbital swelling or tight orbit":[
+    "d267-cavernous-sinus-and-orbital-apex-syndrom","d333-thyroid-eye-disease-active-phase",
+    "d346-orbital-cellulitis-and-subperiosteal-abs","d347-carotid-cavernous-fistula",
+    "d348-cavernous-sinus-thrombosis","d371-orbital-blow-out-fracture",
+    "d372-orbital-compartment-syndrome-and-retrobu"
+  ],
+  "Diplopia, ptosis or abnormal pupil":[
+    "d107-ectopia-lentis-marfan-homocystinuria-wei","d264-third-nerve-palsy-pupil-involving-vs-pup",
+    "d267-cavernous-sinus-and-orbital-apex-syndrom","d278-chiasmal-compression-pituitary-adenoma-a",
+    "d347-carotid-cavernous-fistula","d348-cavernous-sinus-thrombosis",
+    "d363-lens-subluxation-and-dislocation","d371-orbital-blow-out-fracture"
+  ],
+  "Headache with visual or neurologic red flags":[
+    "d75-acute-angle-closure-crisis-aacc","d159-hypertensive-retinopathy-choroidopathy-a",
+    "d243-arteritic-aion-anterior-ischaemic-optic-","d245-idiopathic-intracranial-hypertension-pap",
+    "d250-methanol-optic-neuropathy","d264-third-nerve-palsy-pupil-involving-vs-pup",
+    "d267-cavernous-sinus-and-orbital-apex-syndrom","d278-chiasmal-compression-pituitary-adenoma-a",
+    "d348-cavernous-sinus-thrombosis"
+  ],
+  "Chemical or thermal exposure":[
+    "d357-chemical-burn-alkali-and-acid-roper-hall","d358-thermal-burn-of-the-ocular-surface-and-a"
+  ],
+  "Penetrating injury or foreign body":[
+    "d354-corneal-and-conjunctival-foreign-body","d367-open-globe-injury-penetrating-perforatin",
+    "d368-intraocular-foreign-body-siderosis-and-c","d369-post-traumatic-endophthalmitis",
+    "d373-eyelid-and-canalicular-laceration"
+  ],
+  "Blunt ocular injury":[
+    "d353-corneal-abrasion","d355-traumatic-iritis-traumatic-anterior-uvei","d359-traumatic-hyphaema",
+    "d360-traumatic-mydriasis-sphincter-tears-and-","d361-angle-recession-and-angle-recession-glau",
+    "d362-traumatic-cataract","d363-lens-subluxation-and-dislocation","d364-commotio-retinae-berlin-oedema",
+    "d365-choroidal-rupture","d366-traumatic-macular-hole","d367-open-globe-injury-penetrating-perforatin",
+    "d371-orbital-blow-out-fracture","d372-orbital-compartment-syndrome-and-retrobu",
+    "d374-traumatic-optic-neuropathy-in-the-trauma"
+  ],
+  "Infant, child or safeguarding emergency":[
+    "d221-abusive-head-trauma-shaken-baby-syndrome","d307-leukocoria-retinoblastoma-and-differenti",
+    "d311-ophthalmia-neonatorum","d371-orbital-blow-out-fracture",
+    "d375-non-accidental-injury-abusive-head-traum"
+  ]
+};
+var BYEMERGCAT = {};
+var EMERGENT_IDS = [];
+EMERGENT_CAT_ORDER.forEach(function(cat){
+  BYEMERGCAT[cat] = (EMERGENT_GROUP_IDS[cat] || []).map(function(id){ return BYID[id]; }).filter(Boolean);
+  (EMERGENT_GROUP_IDS[cat] || []).forEach(function(id){ if(EMERGENT_IDS.indexOf(id) < 0) EMERGENT_IDS.push(id); });
+});
+var EMERGENT_DISEASES = EMERGENT_IDS.map(function(id){ return BYID[id]; }).filter(Boolean);
 
 var BYPROCCAT = {};
 PROC_CAT_ORDER.forEach(function(c){BYPROCCAT[c]=[];});
@@ -926,6 +1043,7 @@ function prevSort(a,b){
 var MODES = [
   {key:"symptoms", label:"Symptoms", icon:"🩺"},
   {key:"diseases", label:"Diseases", icon:"📋"},
+  {key:"emergent", label:"Emergent", icon:"🚨"},
   {key:"ird", label:"IRD", icon:"🧬"},
   {key:"intervention", label:"Intervention", icon:"🔧"}
 ];
@@ -1102,7 +1220,8 @@ function selectTab(name){
 function detailTabs(){ return curDetailKind === 'proc' ? PROC_TABS : TABS; }
 function normaliseDetailNavigation(){
   if(DETAIL_NAV_IDS.indexOf(curDetailId) >= 0) return;
-  var fallback = curDetailKind === 'proc' ? PROCS.slice() : (MODE === 'ird' ? IRD_DISEASES.slice() : DATA.slice());
+  var fallback = curDetailKind === 'proc' ? PROCS.slice() :
+    (MODE === 'ird' ? IRD_DISEASES.slice() : (MODE === 'emergent' ? EMERGENT_DISEASES.slice() : DATA.slice()));
   fallback.sort(function(a,b){ return a.t.localeCompare(b.t); });
   DETAIL_NAV_IDS = fallback.map(function(item){ return item.id; });
 }
@@ -1151,6 +1270,7 @@ function doSearch(q){
 function currentCatMeta(){
   if(MODE === "symptoms") return {order: CAT_ORDER, icon: CAT_ICON, by: BYCAT};
   if(MODE === "diseases") return {order: DIS_H2_ORDER, icon: DIS_H2_ICON, by: BYDISH2};
+  if(MODE === "emergent") return {order: EMERGENT_CAT_ORDER, icon: EMERGENT_CAT_ICON, by: BYEMERGCAT};
   if(MODE === "ird"){
     if(IRD_BROWSE === "symptom") return {order: IRD_SYMPTOM_ORDER, icon: CAT_ICON, by: IRD_BY_SYMPTOM};
     if(IRD_BROWSE === "onset") return {order: IRD_ONSET_ORDER, icon: IRD_ONSET_ICON, by: IRD_BY_ONSET};
@@ -1189,8 +1309,10 @@ function renderCrumb(){
 function renderCategoryGrid(){
   var meta = currentCatMeta();
   var irdBrowseLabel = IRD_BROWSE === 'symptom' ? 'presenting symptom' : (IRD_BROWSE === 'onset' ? 'age at onset' : 'inheritance pattern');
-  var browseLabel = MODE === 'symptoms' ? 'symptom' : (MODE === 'diseases' ? 'disease category' : (MODE === 'ird' ? irdBrowseLabel : 'procedure category'));
-  var html = (MODE === 'ird' ? renderIrdBrowseTabs() : '') + '<div class="opd-h1">Browse by ' + browseLabel + '</div>' + (MODE === 'intervention' ? '' : sexBiasLegendHtml()) + '<div class="cat-grid">';
+  var browseLabel = MODE === 'symptoms' ? 'symptom' :
+    (MODE === 'emergent' ? 'emergency presentation' : (MODE === 'diseases' ? 'disease category' : (MODE === 'ird' ? irdBrowseLabel : 'procedure category')));
+  var emergencyNote = MODE === 'emergent' ? '<div class="opd-h2sub">Grouped by presenting symptom or injury mechanism. A disease may appear in more than one group; some are emergent only when the red-flag feature in the record is present.</div>' : '';
+  var html = (MODE === 'ird' ? renderIrdBrowseTabs() : '') + '<div class="opd-h1">Browse by ' + browseLabel + '</div>' + emergencyNote + (MODE === 'intervention' || MODE === 'emergent' ? '' : sexBiasLegendHtml()) + '<div class="cat-grid">';
   meta.order.forEach(function(c){
     var n = (meta.by[c] || []).length;
     var icon = meta.icon[c] || '•';
@@ -1202,10 +1324,11 @@ function renderCategoryGrid(){
 }
 
 function renderTopicSection(){
-  var list = (MODE === 'intervention') ? PROCS.slice() : (MODE === 'ird' ? IRD_DISEASES.slice() : DATA.slice());
+  var list = (MODE === 'intervention') ? PROCS.slice() :
+    (MODE === 'ird' ? IRD_DISEASES.slice() : (MODE === 'emergent' ? EMERGENT_DISEASES.slice() : DATA.slice()));
   list.sort(function(a,b){ return a.t.localeCompare(b.t); });
   DETAIL_NAV_IDS = list.map(function(item){ return item.id; });
-  var label = (MODE === 'intervention') ? 'procedures' : (MODE === 'ird' ? 'inherited retinal diseases' : 'diseases');
+  var label = (MODE === 'intervention') ? 'procedures' : (MODE === 'ird' ? 'inherited retinal diseases' : (MODE === 'emergent' ? 'emergent diseases' : 'diseases'));
   var html = '<button class="topic-toggle" data-action="toggletopics">' + (topicOpen ? 'Hide' : 'Browse all ' + list.length + ' ' + label + ' A-Z') + '</button>';
   html += '<div class="topic-list' + (topicOpen ? ' open' : '') + '">';
   list.forEach(function(item){
@@ -1250,15 +1373,16 @@ function renderItemGrid(cat){
     DETAIL_NAV_IDS = displayedProcIds;
     return html;
   }
-  var srcBy = (MODE === 'diseases') ? BYDISH2 : BYCAT;
-  var list = (srcBy[cat] || []).slice().sort(prevSort);
+  var srcBy = MODE === 'diseases' ? BYDISH2 : (MODE === 'emergent' ? BYEMERGCAT : BYCAT);
+  var list = (srcBy[cat] || []).slice().sort(MODE === 'emergent' ? function(a,b){ return a.t.localeCompare(b.t); } : prevSort);
   DETAIL_NAV_IDS = list.map(function(d){ return d.id; });
   var meta = currentCatMeta();
-  var html = '<div class="opd-h1">' + (meta.icon[cat]||'') + ' ' + cat + '</div><div class="opd-h2sub">Ranked by prevalence, most common first</div>' + sexBiasLegendHtml() + '<div class="dis-grid">';
+  var listNote = MODE === 'emergent' ? 'Open a record for the specific red flags, evaluation and treatment pathway.' : 'Ranked by prevalence, most common first';
+  var html = '<div class="opd-h1">' + (meta.icon[cat]||'') + ' ' + cat + '</div><div class="opd-h2sub">' + listNote + '</div>' + (MODE === 'emergent' ? '' : sexBiasLegendHtml()) + '<div class="dis-grid">';
   list.forEach(function(d){
     var tag = PREV_LABELS[d.prevTier] || '';
-    var subText = (MODE === 'diseases') ? d.h3 : d.h2;
-    html += diseaseTileHtml(d,(tag? tag + ' &middot; ' : '') + subText,false);
+    var subText = (MODE === 'diseases' || MODE === 'emergent') ? d.h3 : d.h2;
+    html += diseaseTileHtml(d,(MODE === 'emergent' ? '' : (tag? tag + ' &middot; ' : '')) + subText,false);
   });
   html += '</div>';
   return html;
@@ -1312,16 +1436,16 @@ function renderSearchResults(q){
     html += '</div>';
     return html;
   }
-  var diseaseSearchSource = MODE === 'ird' ? IRD_DISEASES : DATA;
-  var list = diseaseSearchSource.filter(function(d){ return matchesQuery(d, ql, DIS_SEARCH_FIELDS); }).sort(MODE === 'ird' ? function(a,b){ return a.t.localeCompare(b.t); } : prevSort);
+  var diseaseSearchSource = MODE === 'ird' ? IRD_DISEASES : (MODE === 'emergent' ? EMERGENT_DISEASES : DATA);
+  var list = diseaseSearchSource.filter(function(d){ return matchesQuery(d, ql, DIS_SEARCH_FIELDS); }).sort((MODE === 'ird' || MODE === 'emergent') ? function(a,b){ return a.t.localeCompare(b.t); } : prevSort);
   DETAIL_NAV_IDS = list.map(function(d){ return d.id; });
-  var html = '<div class="opd-h1">Search results for &ldquo;' + escapeHtml(q) + '&rdquo; (' + list.length + ')</div>' + sexBiasLegendHtml();
+  var html = '<div class="opd-h1">Search results for &ldquo;' + escapeHtml(q) + '&rdquo; (' + list.length + ')</div>' + (MODE === 'emergent' ? '' : sexBiasLegendHtml());
   if(list.length === 0){ html += '<div class="nomatch">No diseases match that text.</div>'; return html; }
   html += '<div class="dis-grid">';
   list.forEach(function(d){
     var tag = PREV_LABELS[d.prevTier] || '';
     var snippet = findMatchSnippet(d, ql, DIS_SEARCH_FIELDS);
-    var subText = snippet ? escapeHtml(snippet) : (MODE === 'ird' ? 'Inherited retinal disease' : ((tag? tag + ' \u00b7 ' : '') + d.h2));
+    var subText = snippet ? escapeHtml(snippet) : (MODE === 'ird' ? 'Inherited retinal disease' : (MODE === 'emergent' ? d.h2 : ((tag? tag + ' \u00b7 ' : '') + d.h2)));
     html += diseaseTileHtml(d,subText,MODE === 'ird');
   });
   html += '</div>';
