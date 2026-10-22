@@ -1,0 +1,631 @@
+{
+ "id": "ch20",
+ "num": 20,
+ "title": "Ocular Tumours",
+ "chunks": [
+  {
+   "id": "ch20-01",
+   "group": "Conjunctiva",
+   "title": "Conjunctival naevus & papilloma",
+   "minutes": 3,
+   "tldr": "<b>Naevus</b>: commonest pigmented lesion, juxtalimbal, <b>mobile, contains cysts</b> (&gt;50%), appears in 1st–2nd decade; malignant change &lt;1%. Worry if: <b>palpebral/fornix site, feeder vessels, sudden growth, new after age 20</b>. <b>Papilloma</b>: HPV 6/11, sessile or frond-like.",
+   "points": [
+    "Naevus types: compound (commonest), subepithelial, junctional.",
+    "Often amelanotic; can get inflamed in teens (mimics malignancy).",
+    "Papilloma: limbus, fornix, caruncle; may regress.",
+    "Papilloma Rx: excision + cryo to base; recurrences → interferon, MMC, CO2 laser, oral cimetidine."
+   ],
+   "hook": "<b>Cysts = calm</b> (naevus). Fornix pigment = fear.",
+   "cards": [
+    {
+     "q": "Key clinical feature favouring conjunctival naevus over melanoma?",
+     "a": "Intralesional cysts (and mobility, onset in childhood, juxtalimbal location)."
+    },
+    {
+     "q": "HPV types in conjunctival papilloma?",
+     "a": "Types 6 and 11."
+    }
+   ]
+  },
+  {
+   "id": "ch20-02",
+   "group": "Conjunctiva",
+   "title": "Dermoid, dermolipoma, granuloma & melanosis",
+   "minutes": 3,
+   "tldr": "<b>Limbal dermoid</b> (choristoma): inferotemporal limbus, hairs → <b>Goldenhar</b>. <b>Dermolipoma</b>: adults, superotemporal, <b>don't operate deep</b> (ptosis, dry eye, motility). <b>Pyogenic granuloma</b>: after chalazion/squint surgery → topical steroid. <b>Benign melanosis</b>: bilateral, dark skin, flat, mobile.",
+   "points": [
+    "Dermoid treat for astigmatism/amblyopia, dellen, cosmesis (lamellar keratosclerectomy if big).",
+    "Goldenhar: malar/mandible hypoplasia, ear tags, hemivertebrae, lid coloboma.",
+    "Also: Treacher Collins, linear naevus sebaceous of Jadassohn.",
+    "Dermolipoma vs prolapsed orbital fat vs lacrimal gland lobe vs lymphoma.",
+    "Pyogenic granuloma = neither pyogenic nor granulomatous.",
+    "Others: epibulbar telangiectasia (Sturge–Weber), pseudo-epitheliomatous hyperplasia, melanocytoma, post-radiation angioma."
+   ],
+   "hook": "<b>Goldenhar = Golden (yellow) limbal lump + ear tags.</b>",
+   "cards": [
+    {
+     "q": "Syndrome associated with limbal dermoid?",
+     "a": "Goldenhar (oculoauriculovertebral spectrum)."
+    },
+    {
+     "q": "First-line treatment for pyogenic granuloma?",
+     "a": "Topical steroids (excise if resistant)."
+    }
+   ]
+  },
+  {
+   "id": "ch20-03",
+   "group": "Conjunctiva",
+   "title": "PAM / C-MIN",
+   "minutes": 3,
+   "tldr": "Unilateral, <b>flat golden–brown patches</b> in a <b>middle-aged white</b> person (median 56). <b>Without atypia</b>: harmless. <b>With severe atypia</b> = melanoma in situ. ~75% of conjunctival melanomas arise from PAM. <b>Evert lids</b>. Rx: excision ± cryo, <b>MMC</b>.",
+   "points": [
+    "C-MIN graded 0–10 (5 = melanoma in situ).",
+    "Bigger extent (clock hours) = higher risk.",
+    "DDx: naevus, benign melanosis, ocular melanocytosis, Addison, pigmented SCC.",
+    "Observe &lt;1 clock hour (photos) or excise.",
+    "MMC 0.04% QDS 1 week cycles with punctal plugs; corneal part: alcohol epitheliectomy + MMC.",
+    "Lifelong follow-up."
+   ],
+   "hook": "<b>Benign melanosis = Both eyes, Black patients. PAM = one eye, Pale patients.</b>",
+   "cards": [
+    {
+     "q": "Which PAM is a melanoma precursor?",
+     "a": "PAM with (severe) atypia."
+    },
+    {
+     "q": "Proportion of conjunctival melanomas arising from PAM?",
+     "a": "About 75%."
+    }
+   ]
+  },
+  {
+   "id": "ch20-04",
+   "group": "Conjunctiva",
+   "title": "Conjunctival melanoma",
+   "minutes": 3,
+   "tldr": "~2% of ocular cancers; from PAM (75%), naevus (25%). Black/grey <b>vascular nodule</b>, may be fixed. Bad sites: <b>caruncle, fornix, lid margin</b>; thickness ≥2 mm. Mortality ~30% at 10 yrs; spreads to <b>lymph nodes</b>. Rx: <b>wide no-touch excision</b> + cryo/MMC/radiotherapy.",
+   "points": [
+    "Use fresh instruments to close (avoid seeding).",
+    "Screen: nodes, LFTs, liver US, chest X-ray, PET/CT; sentinel node biopsy.",
+    "Exenteration doesn't improve survival — only for extensive disease.",
+    "<b>BRAF V600E</b> in ~50% → vemurafenib for metastases."
+   ],
+   "hook": "<b>Conjunctival melanoma goes to the Nodes (like skin); uveal goes to the Liver.</b>",
+   "cards": [
+    {
+     "q": "Poor-prognosis locations for conjunctival melanoma?",
+     "a": "Caruncle, fornix, palpebral/lid margin (non-limbal)."
+    },
+    {
+     "q": "Targeted therapy for metastatic conjunctival melanoma?",
+     "a": "BRAF inhibitor (vemurafenib) if BRAF V600E present."
+    }
+   ]
+  },
+  {
+   "id": "ch20-05",
+   "group": "Conjunctiva",
+   "title": "OSSN (squamous neoplasia)",
+   "minutes": 3,
+   "tldr": "Spectrum: dysplasia → CIS → invasive SCC. Interpalpebral limbus; gelatinous, leukoplakic, papillomatous, feeder vessels. Risks: <b>UV, HIV</b>, HPV16, ciclosporin, smoking, xeroderma pigmentosum. Rx: <b>excision 2–4 mm + cryo</b> or <b>topical interferon α-2b (~80% resolve)</b>, MMC, 5-FU.",
+   "points": [
+    "Young patient with OSSN → test for HIV (Africa: women + HIV).",
+    "AS-OCT/UBM for depth; impression cytology.",
+    "Don't cut below Bowman's layer.",
+    "Recurrence 5–33% after excision.",
+    "Immunosuppressed: lifelong daily interferon drops."
+   ],
+   "hook": "<b>Sun + HIV + HPV = OSSN.</b>",
+   "cards": [
+    {
+     "q": "Topical agent achieving ~80% resolution of OSSN with few side effects?",
+     "a": "Interferon alfa-2b."
+    },
+    {
+     "q": "Systemic disease to test for in young patients with OSSN?",
+     "a": "HIV."
+    }
+   ]
+  },
+  {
+   "id": "ch20-06",
+   "group": "Conjunctiva",
+   "title": "Lymphoma, amyloid & Kaposi",
+   "minutes": 2,
+   "tldr": "<b>Lymphoma</b>: <b>salmon-pink</b> mobile fornix patch; mostly <b>MALT B-cell</b>; 30% systemic → biopsy + staging; <b>radiotherapy</b>. <b>Amyloid</b>: light chains, Congo red apple-green, mostly local. <b>Kaposi</b>: purple nodule in AIDS (HHV-8).",
+   "points": [
+    "Biopsy other inferior fornix too.",
+    "Bilateral → systemic more likely.",
+    "Lymphoma Rx: EBRT, rituximab, interferon, chemo.",
+    "Mantle cell lymphoma: poor survival.",
+    "Kaposi: optimise HAART, local radiotherapy/excision."
+   ],
+   "hook": "<b>Salmon patch = lymphoma.</b>",
+   "cards": [
+    {
+     "q": "Typical appearance of conjunctival lymphoma?",
+     "a": "Salmon-pink, mobile subconjunctival infiltrate, often in the fornix."
+    }
+   ]
+  },
+  {
+   "id": "ch20-07",
+   "group": "Iris",
+   "title": "Iris naevus, freckles & melanoma",
+   "minutes": 4,
+   "tldr": "Iris naevus: up to 8% transform over 15 yrs — risk: <b>age &lt;40, inferior, bleeding, diffuse, feathery margin, ectropion uveae</b>. <b>Iris melanoma</b> (8% of uveal): inferior, ≥3 mm × 1 mm, vessels, <b>good prognosis (5% mets at 10 yrs)</b>. Rx: iridectomy/iridocyclectomy, plaque, proton.",
+   "points": [
+    "Uveal melanoma risks: fair skin, light iris, dysplastic naevi, naevus of Ota/ocular melanocytosis, welding.",
+    "Iris melanoma presents a decade earlier than choroidal.",
+    "Signs: pupil distortion, ectropion uveae, hyphaema, glaucoma.",
+    "UBM to exclude ciliary body spread.",
+    "Freckle: flat, normal cell number.",
+    "<b>Brushfield spots</b>: Down syndrome. <b>Lisch nodules</b>: NF1.",
+    "Iris mets: fast, white/pink, uveitis, hyphaema (breast, lung, skin melanoma).",
+    "<b>JXG</b>: toddlers, yellow iris lesion, <b>spontaneous hyphaema</b>, skin nodules."
+   ],
+   "hook": "<b>Iris melanoma = Inferior, Infrequently fatal.</b>",
+   "cards": [
+    {
+     "q": "Cause of spontaneous hyphaema in a toddler with skin nodules?",
+     "a": "Juvenile xanthogranuloma."
+    },
+    {
+     "q": "Metastatic rate of iris melanoma at 10 years?",
+     "a": "About 5%."
+    }
+   ]
+  },
+  {
+   "id": "ch20-08",
+   "group": "Iris",
+   "title": "Iris cysts",
+   "minutes": 2,
+   "tldr": "<b>Pigment epithelial</b> cysts: peripheral bulge, harmless (DDx ciliary body melanoma → <b>UBM/AS-OCT</b>). <b>Stromal</b>: translucent; congenital ones aggressive. <b>Traumatic/implantation</b> cysts grow → glaucoma. <b>Miotic cysts</b>: pupil margin; prevent with phenylephrine.",
+   "points": [
+    "Epithelial cysts may float free.",
+    "Stromal cyst Rx: aspiration, excision, ethanol sclerosis.",
+    "Implantation cysts after penetrating injury/surgery.",
+    "Parasitic: very rare."
+   ],
+   "hook": "<b>Bump behind the iris? UBM it.</b>",
+   "cards": [
+    {
+     "q": "How are miotic-induced iris cysts prevented?",
+     "a": "Concurrent topical phenylephrine 2.5%."
+    }
+   ]
+  },
+  {
+   "id": "ch20-09",
+   "group": "Ciliary body",
+   "title": "Ciliary body melanoma & medulloepithelioma",
+   "minutes": 3,
+   "tldr": "~12% of uveal melanomas; hidden → <b>sentinel episcleral vessel</b>, lens displacement (astigmatism, cataract), angle invasion. Ix: UBM, gonioscopy, biopsy. Rx: iridocyclectomy, plaque/proton, enucleation. <b>Medulloepithelioma</b>: child, ciliary body mass, leukocoria.",
+   "points": [
+    "DDx: iridociliary cyst, uveal effusion.",
+    "May erode iris root or exit through sclera.",
+    "Check liver.",
+    "Medulloepithelioma (diktyoma): from inner optic cup; may need enucleation."
+   ],
+   "hook": "<b>One fat episcleral vessel = look behind the iris.</b>",
+   "cards": [
+    {
+     "q": "Subtle external sign of ciliary body melanoma?",
+     "a": "Dilated episcleral 'sentinel' vessel(s)."
+    }
+   ]
+  },
+  {
+   "id": "ch20-10",
+   "group": "Choroid",
+   "title": "Choroidal naevus & red flags",
+   "minutes": 4,
+   "tldr": "5–10% of whites; grey, feathery, <b>drusen + halo</b>. Growth in adult = suspicious. Risk factors '<b>TFSOM-UHHD</b>': <b>Thickness &gt;2 mm, Fluid, Symptoms, Orange pigment, Margin ≤3 mm disc, Ultrasound Hollow, Halo absent, Drusen absent</b>.",
+   "points": [
+    "Lifetime transformation up to 1%.",
+    "FAF shows orange pigment (bright); OCT finds subtle SRF; US measures thickness/hollowness.",
+    "FA doesn't distinguish naevus from melanoma.",
+    "Review: none suspicious → 6 m then yearly; 1–2 → 4–6 monthly; ≥3 → ocular oncology.",
+    "Long stability doesn't guarantee safety."
+   ],
+   "hook": "<b>'To Find Small Ocular Melanoma Using Helpful Hints Daily'.</b>",
+   "cards": [
+    {
+     "q": "Name four risk factors for a choroidal naevus becoming melanoma.",
+     "a": "Thickness &gt;2 mm, subretinal fluid, symptoms, orange pigment (also margin near disc, acoustic hollowness, no halo, no drusen)."
+    },
+    {
+     "q": "Which overlying features favour a benign choroidal naevus?",
+     "a": "Drusen and a depigmented halo."
+    }
+   ]
+  },
+  {
+   "id": "ch20-11",
+   "group": "Choroid",
+   "title": "Choroidal melanoma: features & tests",
+   "minutes": 4,
+   "tldr": "Commonest adult primary intraocular cancer (80% of uveal). Grey-brown dome, <b>orange pigment</b>, SRF, <b>collar-stud (mushroom)</b> if through Bruch. US: <b>low–medium internal reflectivity, acoustic hollowing, choroidal excavation</b>. Mets → <b>liver</b>; ~50% mortality at 10 yrs. <b>BAP1/monosomy 3</b> = bad.",
+   "points": [
+    "Spindle cells (better) vs epithelioid (worse).",
+    "~60% within 3 mm of disc/fovea.",
+    "Other signs: sentinel vessels, folds, rubeosis, glaucoma, cataract.",
+    "FA: <b>dual circulation</b>, late leak (not diagnostic). ICGA: hypo. FAF: diffuse bright.",
+    "MRI: melanin is <b>T1 bright, T2 dark</b>; extraocular spread.",
+    "Biopsy (FNA or 25G vitrectomy) + <b>genetic profiling</b> for prognosis.",
+    "Only 1–2% have mets at diagnosis; LFTs + liver US mainstay."
+   ],
+   "hook": "<b>Mushroom on ultrasound = melanoma.</b>",
+   "cards": [
+    {
+     "q": "Pathognomonic B-scan shape of choroidal melanoma?",
+     "a": "Collar-stud (mushroom) configuration."
+    },
+    {
+     "q": "Typical internal reflectivity of melanoma on A/B-scan?",
+     "a": "Low to medium, with acoustic hollowing."
+    }
+   ]
+  },
+  {
+   "id": "ch20-12",
+   "group": "Choroid",
+   "title": "Choroidal melanoma: mimics",
+   "minutes": 3,
+   "tldr": "Pigmented mimics: <b>naevus</b>, <b>melanocytoma</b> (black, disc), <b>CHRPE</b> (flat, lacunae), <b>haemorrhage</b> (CNV, macroaneurysm, PEHCR), metastatic skin melanoma. Non-pigmented: <b>haemangioma</b> (orange), <b>metastasis</b> (cream, multiple), granuloma, <b>posterior scleritis (pain)</b>, peripheral CNV, vortex ampulla (disappears with pressure).",
+   "points": [
+    "Haemangioma: smooth orange dome, high internal reflectivity.",
+    "Metastasis: big exudative RD, history of cancer.",
+    "Vortex vein ampulla: small, brown, near equator."
+   ],
+   "hook": "<b>Orange = haemangioma; cream = metastasis; brown = melanoma.</b>",
+   "cards": [
+    {
+     "q": "Non-pigmented choroidal mass with pain – consider?",
+     "a": "Posterior scleritis."
+    }
+   ]
+  },
+  {
+   "id": "ch20-13",
+   "group": "Choroid",
+   "title": "Choroidal melanoma: treatment",
+   "minutes": 4,
+   "tldr": "<b>Plaque brachytherapy</b>: &lt;20 mm base, ≤10 mm thick; survival = enucleation (COMS). <b>Proton beam</b>: large/posterior. TTT, trans-scleral resection for selected. <b>Enucleation</b>: large, disc invasion, blind eye. Check the <b>correct eye with ophthalmoscopy after draping</b>.",
+   "points": [
+    "Plaque regression starts 1–2 months; complications: cataract, radiation retinopathy/papillopathy, toxic tumour syndrome (anti-VEGF/steroid/endoresection).",
+    "Proton: tantalum markers; lash loss, keratitis.",
+    "Stereotactic radiotherapy: higher complication rate.",
+    "TTT: small tumours or adjunct; recurrences common.",
+    "AU-011 light-activated particles: trial for small tumours.",
+    "No proven benefit of systemic chemo without mets."
+   ],
+   "hook": "<b>Plaque = Preserve eye, same survival.</b>",
+   "cards": [
+    {
+     "q": "Size limits for plaque brachytherapy?",
+     "a": "Basal diameter &lt;20 mm and thickness ≤10 mm."
+    },
+    {
+     "q": "Essential safety step before enucleation?",
+     "a": "Ophthalmoscopy after draping to confirm the tumour eye."
+    }
+   ]
+  },
+  {
+   "id": "ch20-14",
+   "group": "Choroid",
+   "title": "Choroidal haemangiomas & melanocytoma",
+   "minutes": 3,
+   "tldr": "<b>Circumscribed</b>: orange posterior dome, no systemic link, exudative RD in young adults; <b>ICGA early bright, late washout</b>; US <b>high reflectivity</b>. Rx: <b>PDT</b>. <b>Diffuse</b>: 'tomato ketchup' fundus in <b>Sturge–Weber</b>. <b>Melanocytoma</b>: jet-black disc lesion, darker skin, benign, may have RAPD.",
+   "points": [
+    "Circumscribed: median 6 mm × 3 mm; FA early spotty, late intense.",
+    "Other Rx: TTT, laser, radiotherapy, anti-VEGF, oral propranolol (for fluid).",
+    "Diffuse: risk exudative RD → neovascular glaucoma; PDT/low-dose radiotherapy.",
+    "Melanocytoma: women, ~50 yrs; FA hypo; rare malignant change."
+   ],
+   "hook": "<b>Sturge–Weber: port-wine face, ketchup fundus, glaucoma.</b>",
+   "cards": [
+    {
+     "q": "Treatment of choice for symptomatic circumscribed choroidal haemangioma?",
+     "a": "Photodynamic therapy."
+    },
+    {
+     "q": "Diffuse choroidal haemangioma is associated with?",
+     "a": "Sturge–Weber syndrome (ipsilateral to naevus flammeus)."
+    }
+   ]
+  },
+  {
+   "id": "ch20-15",
+   "group": "Choroid",
+   "title": "Choroidal osteoma & metastases",
+   "minutes": 3,
+   "tldr": "<b>Osteoma</b>: young women, orange→yellow-white plaque near disc, scalloped edges; <b>US/CT: bone-bright + shadowing</b>; CNV risk. <b>Metastasis</b>: commonest uveal tumour (choroid 90%); <b>breast</b> (known history) and <b>lung</b> (may be first sign); creamy, flat, multifocal, bilateral, big exudative RD; median survival <b>8–12 months</b>.",
+   "points": [
+    "Osteoma: bilateral 10–20%; EDI-OCT lattice like cancellous bone; poor VA if fovea involved.",
+    "DDx: sclerochoroidal calcification (older, bilateral, yellow-white).",
+    "Mets: no dual circulation on FA; ICGA finds extra deposits.",
+    "Find primary: breast exam/mammogram, chest imaging, LFTs, PET/CT.",
+    "Rx: systemic chemo, radiotherapy (EBRT/plaque), PDT/TTT, anti-VEGF."
+   ],
+   "hook": "<b>Bone in the eye of a young woman = osteoma. Cream patches in an older woman = breast mets.</b>",
+   "cards": [
+    {
+     "q": "Commonest primaries for choroidal metastasis?",
+     "a": "Breast and bronchus (lung)."
+    },
+    {
+     "q": "Imaging hallmark of choroidal osteoma?",
+     "a": "Highly reflective plaque with orbital shadowing on US; bone density on CT."
+    }
+   ]
+  },
+  {
+   "id": "ch20-16",
+   "group": "Retinoblastoma",
+   "title": "Retinoblastoma: genetics",
+   "minutes": 4,
+   "tldr": "Commonest childhood eye cancer (~1:18,000). <b>RB1 (13q14), Knudson two-hit</b>. <b>Heritable 40%</b>: bilateral/multifocal, younger, <b>pinealoblastoma (trilateral)</b>, later <b>osteosarcoma</b>, sarcomas, melanoma. Non-heritable 60%: unilateral (90% of unilateral cases).",
+   "points": [
+    "Germline AD; ~40% of offspring affected (incomplete penetrance).",
+    "Sibling risk: 2% if parents healthy, 40% if parent affected; sporadic unilateral → ~1%.",
+    "Second cancer risk ~6% → ×5 with external beam radiotherapy.",
+    "Screen at-risk siblings: prenatal US, exam soon after birth, regularly till 4–5 yrs.",
+    "Examine parents for retinomas/scars.",
+    "Histology: small blue cells, <b>Flexner–Wintersteiner</b> & Homer–Wright rosettes, fleurettes."
+   ],
+   "hook": "<b>RB = Really Bad if Both eyes</b> (germline → more cancers).",
+   "cards": [
+    {
+     "q": "What is trilateral retinoblastoma?",
+     "a": "Bilateral retinoblastoma plus pinealoblastoma."
+    },
+    {
+     "q": "Why avoid external beam radiotherapy in heritable RB?",
+     "a": "Greatly increases second malignancies (e.g. sarcoma) in the field."
+    }
+   ]
+  },
+  {
+   "id": "ch20-17",
+   "group": "Retinoblastoma",
+   "title": "Retinoblastoma: presentation & groups",
+   "minutes": 4,
+   "tldr": "Age: bilateral &lt;1 yr, unilateral ~2 yrs. <b>Leukocoria 60%</b>, <b>squint 20%</b> (→ dilated fundus in every child with squint). White dome with <b>calcification</b>; endophytic (seeds) vs exophytic (RD). EUA, US/MRI (CT radiation). Groups <b>A–E</b>.",
+   "points": [
+    "Others: red painful eye/glaucoma, buphthalmos, pseudo-uveitis, orbital cellulitis mimic, proptosis.",
+    "Red reflex test screens.",
+    "EUA: IOP, corneal diameter, AC, drawings/photos, refraction.",
+    "MRI: optic nerve, extraocular, pineal.",
+    "Spread: optic nerve → CSF → brain; nodes, lung, bone.",
+    "A: &lt;3 mm away from fovea/disc. B: &gt;3 mm or macular/juxtapapillary/SRF. C: focal seeds ≤3 mm. D: diffuse seeds. E: &gt;50% globe, NVG, AC/optic nerve."
+   ],
+   "hook": "<b>White pupil in a photo = RB until proven otherwise.</b>",
+   "cards": [
+    {
+     "q": "Most common presentation of retinoblastoma?",
+     "a": "Leukocoria (~60%), then strabismus (~20%)."
+    },
+    {
+     "q": "Which imaging detects calcification without radiation?",
+     "a": "Ultrasound (CT also does but with radiation; MRI does not)."
+    }
+   ]
+  },
+  {
+   "id": "ch20-18",
+   "group": "Retinoblastoma",
+   "title": "Retinoblastoma: treatment",
+   "minutes": 4,
+   "tldr": "<b>Chemoreduction (IV carboplatin, etoposide, vincristine)</b> + focal <b>TTT/cryo</b>; <b>intra-arterial melphalan</b> (great for group D); <b>intravitreal melphalan</b> for seeds; plaque. <b>Enucleation</b> for group E, NVG, AC/optic nerve invasion — with <b>≥10 mm optic nerve</b>. Survival &gt;95% in good centres.",
+   "points": [
+    "Cryo: triple freeze–thaw for anterior tumours.",
+    "EBRT only for relapse after chemo; side effects: cataract, retinopathy, orbital hypoplasia.",
+    "Adjuvant chemo if retrolaminar optic nerve or massive choroidal invasion.",
+    "EBRT if tumour at cut nerve end or through sclera.",
+    "Frequent follow-up for new tumours (heritable)."
+   ],
+   "hook": "<b>Take 10 mm of nerve</b> with the eye.",
+   "cards": [
+    {
+     "q": "Minimum optic nerve length at enucleation for RB?",
+     "a": "At least 10 mm."
+    },
+    {
+     "q": "Treatment offering high globe salvage in group D RB?",
+     "a": "Selective ophthalmic artery chemotherapy (melphalan)."
+    }
+   ]
+  },
+  {
+   "id": "ch20-19",
+   "group": "Retinoblastoma",
+   "title": "Leukocoria differentials",
+   "minutes": 4,
+   "tldr": "<b>PFV</b> (microphthalmic, retrolental mass, <b>elongated ciliary processes</b>), <b>Coats</b> (boys, unilateral, older, exudate), <b>ROP</b>, <b>Toxocara</b>, uveitis, <b>vitreoretinal dysplasia</b> (<b>Norrie</b>, <b>incontinentia pigmenti</b>, Walker–Warburg), <b>retinoma</b>, astrocytoma, cataract.",
+   "points": [
+    "Anterior PFV: lens opacity, angle closure; early surgery may help.",
+    "Posterior PFV: fold from disc to ora; untreatable.",
+    "Norrie (XLR, NDP): blind boys, deaf, learning disability.",
+    "Incontinentia pigmenti (XLD, NEMO): girls; blistering → swirled pigment; teeth, hair, CNS.",
+    "Walker–Warburg (AR): lissencephaly, Peters, microphthalmos.",
+    "Retinoma: benign RB variant, calcified scar; rare transformation."
+   ],
+   "hook": "<b>Small eye + stretched ciliary processes = PFV, not RB.</b>",
+   "cards": [
+    {
+     "q": "Key sign of persistent fetal vasculature?",
+     "a": "Retrolental fibrovascular mass with elongated ciliary processes in a microphthalmic eye."
+    },
+    {
+     "q": "X-linked leukocoria with deafness in boys?",
+     "a": "Norrie disease."
+    }
+   ]
+  },
+  {
+   "id": "ch20-20",
+   "group": "Retinal tumours",
+   "title": "Astrocytoma & tuberous sclerosis",
+   "minutes": 3,
+   "tldr": "<b>Retinal astrocytic hamartoma</b>: white/yellow, <b>mulberry</b> calcified nodule; ~50% of <b>tuberous sclerosis</b>. TS (AD): epilepsy, learning difficulty, <b>adenoma sebaceum</b>, <b>ash-leaf spots</b> (Wood lamp), shagreen patch, subungual fibromas, renal angiomyolipoma, cardiac rhabdomyoma.",
+   "points": [
+    "Also in NF1, RP.",
+    "Most need no treatment.",
+    "OCT: granular hyper-reflective inner retina; FA: superficial vessels, late leak.",
+    "TS: 60% sporadic; subependymal nodules, giant cell astrocytoma.",
+    "Iris hypopigmentation, atypical colobomas."
+   ],
+   "hook": "<b>Mulberry in the retina + ash leaf on the skin = tuberous sclerosis.</b>",
+   "cards": [
+    {
+     "q": "Classic triad of tuberous sclerosis?",
+     "a": "Epilepsy, learning disability, adenoma sebaceum."
+    }
+   ]
+  },
+  {
+   "id": "ch20-21",
+   "group": "Retinal tumours",
+   "title": "Capillary haemangioma & VHL",
+   "minutes": 4,
+   "tldr": "Orange-red ball with <b>dilated feeder artery + draining vein</b>; peripheral or juxtapapillary. Multiple = <b>von Hippel–Lindau</b> (chr 3, AD): <b>cerebellar haemangioblastoma, renal cell carcinoma, phaeochromocytoma</b>, pancreatic tumours, cysts. Rx: <b>laser (small), cryo (larger)</b>, PDT/anti-VEGF for disc lesions.",
+   "points": [
+    "VHL patients present younger (median 18 vs 31).",
+    "Complications: exudate, ERM, TRD/RRD, VH, glaucoma.",
+    "Observe asymptomatic juxtapapillary lesions.",
+    "Cryo may cause temporary exudative RD.",
+    "Screening: retina from 2–5 yrs; urine catecholamines; renal US from 15; brain/abdo MRI 2-yearly; audiometry if symptoms; genetic testing for relatives."
+   ],
+   "hook": "<b>VHL = Very Hard on Lots of organs</b> (brain, kidney, adrenal, eye).",
+   "cards": [
+    {
+     "q": "Chromosome and gene in von Hippel–Lindau?",
+     "a": "VHL tumour suppressor gene on chromosome 3."
+    },
+    {
+     "q": "Treatment for a small peripheral retinal capillary haemangioma?",
+     "a": "Laser photocoagulation (cryo for larger lesions)."
+    }
+   ]
+  },
+  {
+   "id": "ch20-22",
+   "group": "Retinal tumours",
+   "title": "Cavernous, racemose & vasoproliferative tumours",
+   "minutes": 3,
+   "tldr": "<b>Cavernous</b>: '<b>bunch of grapes</b>' with <b>fluid levels</b> (sedimented RBCs), no leak, <b>don't laser</b>; skin/CNS cavernomas. <b>Racemose (AV communication)</b>: groups 1–3; severe → <b>Wyburn-Mason</b> (brain AVM). <b>Vasoproliferative</b>: inferotemporal yellow-red mass, exudate; primary or secondary (uveitis, RP).",
+   "points": [
+    "Cavernous FA: slow venous filling, plasma–RBC menisci.",
+    "Racemose: group 1 capillary plexus + macrovessel; group 2 direct; group 3 large tortuous.",
+    "Vasoproliferative Rx: cryo or plaque."
+   ],
+   "hook": "<b>Grapes with fluid levels = cavernous.</b> Big tangled vessels + brain AVM = Wyburn-Mason.",
+   "cards": [
+    {
+     "q": "Why shouldn't cavernous haemangioma be lasered?",
+     "a": "May precipitate haemorrhage and enlargement; it rarely needs treatment."
+    },
+    {
+     "q": "Retinal racemose haemangioma with ipsilateral brain AVM?",
+     "a": "Wyburn-Mason syndrome."
+    }
+   ]
+  },
+  {
+   "id": "ch20-23",
+   "group": "Lymphoma & RPE",
+   "title": "Primary vitreoretinal lymphoma",
+   "minutes": 4,
+   "tldr": "Older adult, 'uveitis' with <b>vitritis</b> + <b>creamy sub-RPE infiltrates</b>, <b>no CMO</b>, poor steroid response. Large B-cell PCNSL subset → most get <b>brain involvement (~29 months)</b>. FA: <b>leopard spots</b>. Dx: <b>vitreous biopsy</b> (cytology, IL-10:IL-6, MYD88), MRI brain, LP. Rx: <b>intravitreal methotrexate</b>/rituximab, systemic chemo, radiotherapy.",
+   "points": [
+    "~20% of PCNSL have eye disease.",
+    "Hodgkin: uveitis-like; non-Hodgkin: conjunctiva/orbit.",
+    "Neurological: headache, personality change, seizures, palsies.",
+    "Vitreous cells fragile → handle sample fast.",
+    "Absence of CMO is a big clue (real uveitis almost always has CMO)."
+   ],
+   "hook": "<b>Old 'uveitis' without CMO that ignores steroids = lymphoma.</b>",
+   "cards": [
+    {
+     "q": "Clinical clue that vitritis may be lymphoma rather than uveitis?",
+     "a": "Absence of cystoid macular oedema (and poor steroid response, sub-RPE infiltrates)."
+    },
+    {
+     "q": "Local treatment for intraocular lymphoma?",
+     "a": "Intravitreal methotrexate (or rituximab), ± ocular radiotherapy."
+    }
+   ]
+  },
+  {
+   "id": "ch20-24",
+   "group": "Lymphoma & RPE",
+   "title": "CHRPE & FAP",
+   "minutes": 3,
+   "tldr": "<b>Solitary CHRPE</b>: flat jet-black, sharp edge, <b>halo + lacunae</b>; no bowel risk; rare adenoma. <b>Grouped</b> ('bear tracks'): one eye, sectoral, harmless. <b>Atypical</b> (bilateral, multiple, <b>fishtail/comma</b> shapes with pale edges) = <b>FAP (APC)</b> → colonoscopy; Gardner, Turcot.",
+   "points": [
+    "70–80% of FAP have atypical CHRPE (present at birth).",
+    "FAP untreated → colorectal cancer by 50.",
+    "Gardner: + osteomas, epidermoid cysts, fibromas.",
+    "Turcot: + brain tumours (medulloblastoma, glioma).",
+    "Solitary CHRPE slowly enlarges; review long-term."
+   ],
+   "hook": "<b>Bear tracks = fine. Fishtails in both eyes = check the colon.</b>",
+   "cards": [
+    {
+     "q": "Which CHRPE pattern is associated with FAP?",
+     "a": "Atypical: bilateral, multiple, oval/fishtail-shaped lesions with depigmented margins."
+    },
+    {
+     "q": "Gene in familial adenomatous polyposis?",
+     "a": "APC."
+    }
+   ]
+  },
+  {
+   "id": "ch20-25",
+   "group": "Lymphoma & RPE",
+   "title": "Combined hamartoma & other RPE lesions",
+   "minutes": 2,
+   "tldr": "<b>Combined hamartoma of retina + RPE</b>: grey juxtapapillary lesion with <b>ERM, retinal wrinkling, tortuous vessels</b>; child with poor VA/squint; association <b>NF2</b>. <b>Simple RPE hamartoma</b>: tiny jet-black nodule next to the fovea. <b>RPE adenoma</b>: peripheral, feeder vessels, no metastasis.",
+   "points": [
+    "Combined hamartoma: VA ≤6/60 in 40–50%; amblyopia therapy; vitrectomy for ERM sometimes.",
+    "RPE hyperplasia can mimic melanoma."
+   ],
+   "hook": "<b>Wrinkled grey patch by the disc in a child → combined hamartoma (think NF2).</b>",
+   "cards": [
+    {
+     "q": "Systemic association of combined hamartoma of retina and RPE?",
+     "a": "Neurofibromatosis type 2."
+    }
+   ]
+  },
+  {
+   "id": "ch20-26",
+   "group": "Lymphoma & RPE",
+   "title": "Paraneoplastic: BDUMP, CAR, MAR",
+   "minutes": 3,
+   "tldr": "<b>BDUMP</b>: bilateral multiple naevus-like lesions + fast cataract + exudative RD → hidden cancer. <b>CAR</b>: <b>small cell lung ca</b>; vision loss <b>before</b> cancer diagnosis; photoreceptors → <b>ERG photopic + scotopic both down</b>. <b>MAR</b>: <b>after</b> skin melanoma; bipolar cells → <b>negative ERG</b> (b-wave lost, a-wave OK); milder.",
+   "points": [
+    "CAR: photopsia, glare, colour loss, night blindness, ring scotoma; fundus initially normal.",
+    "CAR without cancer = autoimmune retinopathy.",
+    "MAR: may have vitiligo; prognosis better.",
+    "BDUMP: plasmapheresis; treat primary."
+   ],
+   "hook": "<b>CAR comes before the Cancer; MAR comes after Melanoma (and flattens the b-wave).</b>",
+   "cards": [
+    {
+     "q": "ERG pattern in melanoma-associated retinopathy?",
+     "a": "Electronegative: reduced b-wave with preserved a-wave (bipolar cell dysfunction)."
+    },
+    {
+     "q": "Most common cancer associated with CAR?",
+     "a": "Small cell carcinoma of the lung."
+    }
+   ]
+  }
+ ]
+}
