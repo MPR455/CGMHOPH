@@ -1,0 +1,578 @@
+{
+ "id": "ch10",
+ "num": 10,
+ "title": "Lens",
+ "chunks": [
+  {
+   "id": "ch10-01",
+   "group": "Acquired cataract",
+   "title": "Age-related cataract types",
+   "minutes": 4,
+   "tldr": "<b>Nuclear</b> = yellow-brown, <b>myopic shift</b> ('second sight'). <b>Cortical</b> = spokes/wedges, glare. <b>PSC</b> = glare, worse <b>reading and in bright light</b>.",
+   "points": [
+    "<b>Posterior subcapsular (PSC)</b>: granular plaque in front of the back capsule. Black and vacuolated on retroillumination (<b>Wedl/bladder cells</b>). At the nodal point → <b>big effect on vision</b>. Glare from headlights, worse with a small pupil (reading, sunlight).",
+    "<b>Anterior subcapsular</b>: fibrous metaplasia of lens epithelium.",
+    "<b>Nuclear sclerosis</b>: exaggerated ageing. Yellow → brown → (rarely) black. ↑ refractive index → <b>myopic shift</b> → can read without glasses again ('<b>second sight of the aged</b>').",
+    "<b>Cortical</b>: clefts → <b>wedge/spoke</b> opacities, often start <b>inferonasally</b>. Glare.",
+    "<b>Christmas tree</b>: colourful needle-like crystals (also in myotonic dystrophy).",
+    "Maturity: <b>immature</b> (partly opaque) → <b>mature</b> (fully opaque) → <b>hypermature</b> (shrunken, wrinkled capsule) → <b>Morgagnian</b> (cortex liquefies, nucleus sinks)."
+   ],
+   "hook": "<b>N</b>uclear = <b>N</b>ear-sighted shift. <b>P</b>SC = <b>P</b>roblems with <b>P</b>upil small (reading, bright light).",
+   "cards": [
+    {
+     "q": "Which cataract causes 'second sight of the aged'?",
+     "a": "Nuclear sclerosis (myopic shift)."
+    },
+    {
+     "q": "Cataract where liquefied cortex lets the nucleus sink?",
+     "a": "Morgagnian (hypermature) cataract."
+    }
+   ]
+  },
+  {
+   "id": "ch10-02",
+   "group": "Acquired cataract",
+   "title": "Cataract from disease, drugs & injury",
+   "minutes": 4,
+   "tldr": "Learn the shapes: <b>snowflake</b> (diabetes), <b>stellate/Christmas tree</b> (myotonic dystrophy), <b>shield</b> (atopic), <b>glaukomflecken</b> (past acute angle closure), <b>flower/rosette</b> (blunt trauma).",
+   "points": [
+    "<b>Diabetes</b>: glucose → <b>sorbitol</b> → lens swells. Refraction swings (high sugar → myopic). Rare young <b>snowflake</b> cataract. Age-related cataract earlier.",
+    "<b>Myotonic dystrophy</b> (90%): iridescent 'Christmas tree' → <b>stellate PSC</b>.",
+    "<b>Atopic dermatitis</b> (~10%): <b>shield-like anterior subcapsular</b> plaque, young, both eyes.",
+    "<b>NF2</b>: early PSC/capsular cataract (&gt;60%).",
+    "<b>Chronic anterior uveitis</b>: commonest secondary cataract (+ steroids). Starts as a polychromatic sheen at the posterior pole.",
+    "<b>Glaukomflecken</b>: grey-white anterior subcapsular flecks = infarcts from a past <b>acute angle closure</b> (pathognomonic).",
+    "High myopia, <b>RP</b>, LCA, gyrate atrophy, Stickler → <b>PSC</b>.",
+    "<b>Steroids</b> → PSC. <b>Chlorpromazine</b> → anterior stellate.",
+    "Trauma = commonest one-sided cataract in the young. Blunt → <b>flower-shaped</b>. Electric shock → milky/snowflake. <b>Infrared (glassblowers)</b> → true capsular exfoliation. Radiation → PSC (delayed)."
+   ],
+   "hook": "<b>Glaukomflecken = a fossil</b> from an old angle-closure attack.",
+   "cards": [
+    {
+     "q": "Grey-white anterior subcapsular flecks in the pupil area?",
+     "a": "Glaukomflecken: sign of previous acute angle closure."
+    },
+    {
+     "q": "Shield-like anterior subcapsular cataract in a young adult with eczema?",
+     "a": "Atopic cataract."
+    },
+    {
+     "q": "True exfoliation of the anterior capsule occurs in?",
+     "a": "Infrared exposure (glassblower's cataract)."
+    }
+   ]
+  },
+  {
+   "id": "ch10-03",
+   "group": "Before surgery",
+   "title": "Pre-op checks for cataract surgery",
+   "minutes": 4,
+   "tldr": "Ask about <b>tamsulosin</b> (floppy iris), anticoagulants (check <b>INR</b>), allergies (iodine, latex). Examine for: <b>RAPD</b> (cataract never causes it), lid disease, <b>guttata</b>, shallow AC, small pupil, <b>PXF</b>.",
+   "points": [
+    "Indications: <b>visual</b> (daily life affected) or <b>medical</b> (phacolytic/phacomorphic glaucoma, need to see/treat the fundus).",
+    "General: control diabetes/BP, wait <b>3–6 months after MI</b>, <b>6 months after stroke</b>, can they lie flat?",
+    "Drugs: <b>alpha-blockers (tamsulosin) → IFIS</b>. Antiplatelets usually continued. Warfarin: INR in range, check within 24 h.",
+    "Allergies: iodine (use chlorhexidine), latex, hyaluronidase (insect-bite cross-reaction).",
+    "Eye: cover test (amblyopia, squint), <b>RAPD = posterior pathology</b>, treat blepharitis/dacryocystitis/ectropion first (endophthalmitis risk).",
+    "Cornea: <b>guttata</b> → protect endothelium. AC depth, pupil dilation, red reflex (trypan blue if poor).",
+    "Lens: hard brown/black nucleus (consider ECCE). <b>PXF</b> → weak zonules, phacodonesis, small pupil.",
+    "Fundus: AMD etc. Dense cataract → <b>B-scan</b> for RD. Long/thin eyes or buckles → avoid peribulbar block."
+   ],
+   "hook": "<b>Tamsulosin = Trampoline iris</b> (floppy).",
+   "cards": [
+    {
+     "q": "Drug most associated with intraoperative floppy iris syndrome?",
+     "a": "Tamsulosin (systemic alpha-1 blockers)."
+    },
+    {
+     "q": "Patient with cataract has an RAPD. What does it mean?",
+     "a": "Additional posterior pathology (retina/optic nerve): cataract never causes an RAPD."
+    }
+   ]
+  },
+  {
+   "id": "ch10-04",
+   "group": "Before surgery",
+   "title": "Consent: risk numbers to know",
+   "minutes": 3,
+   "tldr": "Key numbers: <b>PC rupture ~1%</b>, dropped nucleus ~0.2%, RD &lt;1%, <b>endophthalmitis ~0.1% (1 in 1000)</b>, <b>suprachoroidal haemorrhage ~0.04%</b>. Severe sight loss ~1 in 1000.",
+   "points": [
+    "Most operations are straightforward with good results.",
+    "~1 in 1000 left with little/no sight. ~1 in 10,000 lose the eye.",
+    "Common, mild: bruising, drop allergy, IOP spike, iritis, <b>PCO</b>.",
+    "Less common: <b>PC rupture/vitreous loss ≤1%</b>, zonular dehiscence, <b>dropped nucleus ~0.2%</b>, wound leak, <b>CMO</b>, corneal decompensation, refractive surprise, <b>RD &lt;1%</b>, IOL dislocation, ptosis, diplopia.",
+    "Rare but serious: <b>endophthalmitis 0.1%</b>, <b>suprachoroidal haemorrhage 0.04%</b>.",
+    "Anaesthesia risks (blocks): retrobulbar haemorrhage, globe perforation, brainstem anaesthesia.",
+    "Other eye: essentially no risk (sympathetic ophthalmia extremely rare)."
+   ],
+   "hook": "<b>1 in 100</b> capsule breaks. <b>1 in 1000</b> gets infected.",
+   "cards": [
+    {
+     "q": "Approximate risk of endophthalmitis after cataract surgery?",
+     "a": "About 0.1% (1 in 1000)."
+    },
+    {
+     "q": "Approximate risk of suprachoroidal haemorrhage?",
+     "a": "About 0.04%."
+    }
+   ]
+  },
+  {
+   "id": "ch10-05",
+   "group": "Before surgery",
+   "title": "Biometry & choosing the target",
+   "minutes": 4,
+   "tldr": "IOL power needs <b>keratometry + axial length</b>. Optical biometry is best. Special care for <b>short eyes</b> (Hoffer Q) and <b>post-refractive surgery</b> eyes (Haigis-L etc.). Aim for slight myopia (~−0.25 D).",
+   "points": [
+    "<b>Optical (partial coherence interferometry)</b>: non-contact, accurate, also measures K, ACD, white-to-white.",
+    "<b>A-scan ultrasound</b>: contact or (better) immersion. For dense cataracts.",
+    "Formulae: <b>SRK/T, Haigis, Hoffer Q, Holladay 1 & 2</b>. Hoffer Q often for <b>short eyes</b>. Short eyes = most surprises.",
+    "<b>After LASIK/PRK</b>: standard formulae fail (overestimate corneal power → hyperopic surprise). Use history method, CL method, Masket, <b>Haigis-L</b>. Warn the patient.",
+    "Stop soft CLs ~1 week, rigid 2 weeks before biometry.",
+    "<b>Personalised A-constant</b> corrects a surgeon's consistent error.",
+    "Target: emmetropia or slight myopia (−0.25 D). Hyperopia tolerated worse.",
+    "Keep within <b>~2 D of the other eye</b> (aniseikonia), unless that eye will be done soon.",
+    "<b>Monovision</b>: non-dominant eye −1 to −2 D. <b>Multifocal IOLs</b>: need accurate refraction, may cause glare.",
+    "Under ~55: warn about losing accommodation with a monofocal IOL."
+   ],
+   "hook": "<b>K + AL = IOL.</b> Previous LASIK? <b>Special formula</b>, warn about surprises.",
+   "cards": [
+    {
+     "q": "Two measurements needed for basic IOL calculation?",
+     "a": "Keratometry and axial length."
+    },
+    {
+     "q": "Max usual refractive difference between the two eyes to avoid aniseikonia?",
+     "a": "About 2 dioptres."
+    }
+   ]
+  },
+  {
+   "id": "ch10-06",
+   "group": "Before surgery",
+   "title": "IOLs: where they go & what they're made of",
+   "minutes": 4,
+   "tldr": "Best place = <b>in the bag</b>. Torn capsule → <b>3-piece IOL in the sulcus</b> (never a 1-piece) or an AC lens. <b>Square edges</b> reduce PCO. <b>Toric</b> IOLs can rotate.",
+   "points": [
+    "IOL = <b>optic</b> + <b>haptics</b>.",
+    "Positions: <b>bag</b> (ideal), <b>sulcus</b> (3-piece only), <b>AC</b> (angle-supported, special lens). Add-on sulcus lens for refractive surprise (avoid in very short eyes → angle closure).",
+    "<b>Hydrophobic acrylic</b>: thin, but more <b>dysphotopsia</b>.",
+    "<b>Hydrophilic acrylic (hydrogel)</b>: biocompatible, but past problems with <b>calcification</b>, more PCO.",
+    "<b>Silicone</b>: biocompatible, but <b>silicone oil sticks</b> to it (avoid in oil-filled eyes).",
+    "<b>PMMA</b>: rigid, 5–6 mm incision, cheap (developing countries), more PCO.",
+    "<b>Square-edged</b> optic → <b>less PCO</b> (but more dysphotopsia).",
+    "Blue-light filters, <b>aspheric</b> optics (better contrast), heparin coating (uveitis, unproven).",
+    "<b>Toric</b>: for corneal astigmatism; can <b>rotate</b> → reposition early.",
+    "<b>Multifocal/bifocal</b>, 'accommodating', light-adjustable IOLs."
+   ],
+   "hook": "<b>Capsule torn? 3 pieces in the sulcus</b>, never 1.",
+   "cards": [
+    {
+     "q": "Which IOL design feature reduces posterior capsular opacification?",
+     "a": "Square (sharp)-edged optic."
+    },
+    {
+     "q": "Why avoid silicone IOLs in eyes with silicone oil?",
+     "a": "Silicone oil deposits on the IOL."
+    }
+   ]
+  },
+  {
+   "id": "ch10-07",
+   "group": "Surgery",
+   "title": "Anaesthesia & manual cataract surgery",
+   "minutes": 3,
+   "tldr": "Mostly <b>local</b>: sub-Tenon (safe), peribulbar (good akinesia, rare globe perforation), topical. <b>ECCE</b> = big incision, nucleus out whole. <b>MSICS</b> = self-sealing scleral tunnel, cheap and fast.",
+   "points": [
+    "<b>GA</b>: children, young adults, anxiety, learning difficulties, dementia, tremor, epilepsy.",
+    "<b>Sub-Tenon</b>: blunt cannula inferonasally 5 mm from the limbus. Good analgesia, variable akinesia, chemosis/subconj haemorrhage.",
+    "<b>Peribulbar</b>: 25 mm needle. Good akinesia. <b>Globe perforation</b> risk → avoid in <b>long eyes</b>.",
+    "<b>Topical</b> ± intracameral lidocaine: no akinesia, fewer anaesthetic complications, slightly more surgical ones.",
+    "<b>ICCE</b> (old): cryoprobe removes lens + capsule.",
+    "<b>ECCE</b>: big capsulotomy, 8–10 mm limbal incision, nucleus expressed whole, sutures (astigmatism).",
+    "<b>MSICS</b>: sclerocorneal tunnel, stained capsule, nucleus out manually. As good as phaco, faster, no expensive machine."
+   ],
+   "hook": "<b>Long eye → no sharp needle</b> (use sub-Tenon or topical).",
+   "cards": [
+    {
+     "q": "Why avoid peribulbar blocks in high myopes?",
+     "a": "Higher risk of globe perforation (long eye, thin sclera)."
+    },
+    {
+     "q": "What is MSICS?",
+     "a": "Manual small-incision cataract surgery via a self-sealing scleral tunnel."
+    }
+   ]
+  },
+  {
+   "id": "ch10-08",
+   "group": "Surgery",
+   "title": "Phaco machine settings & viscoelastics",
+   "minutes": 4,
+   "tldr": "<b>Bottle height</b> = AC pressure. <b>Flow (AFR)</b> = how fast things come to the tip. <b>Vacuum</b> = how tight it grips. <b>Surge</b> after occlusion breaks = capsule danger. <b>Cohesive</b> OVD makes space; <b>dispersive</b> coats the endothelium.",
+   "points": [
+    "Higher AFR → need a higher bottle. Trainees: keep AFR and vacuum <b>low</b>.",
+    "<b>Post-occlusion surge</b>: when the blockage breaks, a sudden rush out → AC collapses → capsule rupture risk.",
+    "<b>Peristaltic pump</b>: vacuum builds only when the tip is occluded.",
+    "<b>Venturi pump</b>: vacuum always available, flow tied to vacuum.",
+    "Phaco tip: titanium needle vibrating ultrasonically, cooling sleeve protects the wound. Torsional modes use less energy.",
+    "<b>Cohesive OVD</b> (e.g. Healon GV): fills/maintains space (capsulorhexis, IOL insertion), pushes the iris back, easy to remove, bigger IOP spike if left.",
+    "<b>Dispersive OVD</b> (e.g. Viscoat): coats and <b>protects the endothelium</b>, plugs small capsule tears, harder to remove, traps bubbles.",
+    "<b>Soft shell</b>: dispersive under cohesive, for guttata."
+   ],
+   "hook": "<b>Cohesive = Creates space. Dispersive = Defends the endothelium.</b>",
+   "cards": [
+    {
+     "q": "Which OVD type is better for protecting the endothelium?",
+     "a": "Dispersive."
+    },
+    {
+     "q": "Which pump generates vacuum only when the tip is occluded?",
+     "a": "Peristaltic."
+    }
+   ]
+  },
+  {
+   "id": "ch10-09",
+   "group": "Surgery",
+   "title": "Phaco step by step",
+   "minutes": 4,
+   "tldr": "<b>Povidone-iodine 5%</b> (3 min) → drape lashes → side port + main incision → <b>capsulorhexis</b> → <b>hydrodissection</b> → <b>divide &amp; conquer / chop</b> → cortex aspiration → IOL in the bag → <b>intracameral antibiotic</b>.",
+   "points": [
+    "<b>Povidone-iodine 5%</b> in the fornix and on the lids, wait ≥<b>3 minutes</b>. Drape out the lashes.",
+    "Side port ~60° from the main incision. Main incision on the steep axis or temporal (less astigmatism, maybe slightly more endophthalmitis).",
+    "<b>Continuous curvilinear capsulorhexis</b> (cystotome/forceps). Poor red reflex → <b>trypan blue</b>.",
+    "<b>Hydrodissection</b>: fluid under the capsule edge → frees the nucleus (see the fluid wave).",
+    "<b>Divide &amp; conquer</b>: sculpt a cross, crack into quarters, emulsify each. Safe for learners.",
+    "<b>Phaco chop</b> (horizontal/vertical): faster, less energy. Stop and chop = hybrid.",
+    "Cortex: aspirate, peel to the centre (I/A, bimanual, Simcoe).",
+    "IOL: fill the bag with cohesive OVD, inject and unfold. Rotate toric to axis. Remove OVD.",
+    "Finish: hydroseal wounds, <b>intracameral antibiotic</b> (e.g. cefuroxime) ± subconj.",
+    "<b>Femtosecond laser</b>: automates incisions, capsulotomy, nuclear fragmentation, LRIs. Precise, but costly and slower."
+   ],
+   "hook": "Phaco recipe: <b>Clean → Cut → Circle (rhexis) → Float (hydro) → Crack → Clean up → Lens in.</b>",
+   "cards": [
+    {
+     "q": "Minimum contact time for povidone-iodine before surgery?",
+     "a": "3 minutes."
+    },
+    {
+     "q": "Purpose of hydrodissection?",
+     "a": "Separate the nucleus/cortex from the capsule so it can rotate and be removed."
+    }
+   ]
+  },
+  {
+   "id": "ch10-10",
+   "group": "Complications",
+   "title": "Posterior capsule rupture & dropped lens",
+   "minutes": 4,
+   "tldr": "PC rupture: AC <b>suddenly deepens/shallows</b>, pupil briefly <b>dilates</b>. Plug with <b>dispersive OVD</b>, lower flow, clear vitreous (<b>triamcinolone</b> to see it), <b>3-piece IOL in the sulcus</b> (optic capture if possible).",
+   "points": [
+    "Other signs: nucleus falls away, aspiration slows (vitreous in the tip), visible tear/vitreous.",
+    "Vitreous loss sequelae: <b>CMO, RD, endophthalmitis</b>, peaked pupil, vitreous wick, glaucoma, IOL dislocation.",
+    "Manage: dispersive OVD, convert to ECCE if a big nucleus remains, <b>Sheets glide</b>, low bottle/flow phaco, dry cortex aspiration.",
+    "<b>Bimanual anterior vitrectomy</b> (infusion high, cutter low). <b>Triamcinolone</b> or trypan to see vitreous.",
+    "IOL: small tear → in the bag. Big tear → <b>3-piece in the sulcus</b>, <b>optic capture</b> through the rhexis (same power or −0.5 D; without capture −0.5 to −1.0 D).",
+    "No support → <b>AC IOL + peripheral iridectomy</b> (risk: bullous keratopathy, hyphaema) or iris/scleral-fixated lens.",
+    "<b>Suture the wound</b> after any PC rupture. Acetylcholine to constrict the pupil.",
+    "<b>Dropped lens fragments</b>: glaucoma, uveitis, RD, CMO → treat IOP/inflammation → <b>PPV</b> for big pieces.",
+    "<b>Dropped IOL/bag</b> (e.g. PXF): PPV with reposition/exchange."
+   ],
+   "hook": "Capsule breaks: <b>Stop, Plug (dispersive), Slow down, Sweep vitreous, Sulcus lens.</b>",
+   "cards": [
+    {
+     "q": "What helps visualise vitreous strands in the AC during vitrectomy?",
+     "a": "Intracameral triamcinolone (or trypan blue)."
+    },
+    {
+     "q": "AC IOL inserted: what extra step is mandatory?",
+     "a": "Peripheral iridectomy (to prevent pupil block)."
+    }
+   ]
+  },
+  {
+   "id": "ch10-11",
+   "group": "Complications",
+   "title": "Suprachoroidal haemorrhage",
+   "minutes": 3,
+   "tldr": "AC suddenly <b>shallows</b>, IOP rises, iris prolapses, <b>dark mound</b> behind the pupil → <b>close the wound NOW</b> (suture). Drain later (7–14 days) if needed.",
+   "points": [
+    "Bleed from a <b>posterior ciliary artery</b> into the suprachoroidal space. Severe = <b>expulsive</b>.",
+    "Risks: old age, <b>glaucoma</b>, <b>long eye</b>, cardiovascular disease, vitreous loss, conversion to ECCE.",
+    "Signs: shallowing AC, high IOP, iris prolapse, vitreous extrusion, loss of red reflex, dark mound.",
+    "Act: <b>suture shut immediately</b> (leave the OVD). <b>No posterior sclerostomy</b> during surgery.",
+    "After: acetazolamide, intensive steroids, antibiotics, avoid NSAIDs, pause anticoagulants if safe.",
+    "Drain at <b>7–14 days</b> once the clot liquefies. Retinal apposition &gt;14 days ('kissing') → worse prognosis. PPV if RD."
+   ],
+   "hook": "Dark mound rising → <b>shut the door</b> (suture).",
+   "cards": [
+    {
+     "q": "First action for intraoperative suprachoroidal haemorrhage?",
+     "a": "Immediately close the wound with sutures."
+    },
+    {
+     "q": "When is drainage of a suprachoroidal haemorrhage usually performed?",
+     "a": "7–14 days later, once the clot has liquefied."
+    }
+   ]
+  },
+  {
+   "id": "ch10-12",
+   "group": "Complications",
+   "title": "Acute endophthalmitis: recognise & prevent",
+   "minutes": 4,
+   "tldr": "Days after surgery: <b>pain, red eye, vision drop, hypopyon, vitritis</b>. Mostly <b>Staph epidermidis</b> (90% Gram-positive). Prevent with <b>povidone-iodine 5%</b> + <b>intracameral cefuroxime</b>.",
+   "points": [
+    "Incidence ~0.1%. Toxins + inflammation destroy photoreceptors fast.",
+    "Risks: <b>PC rupture</b>, long surgery, combined procedures, clear corneal sutureless/temporal wound, <b>leaking wound day 1</b>, topical anaesthesia, lid disease, diabetes.",
+    "Source: patient's own <b>lid/conjunctival flora</b>.",
+    "Prevent: <b>povidone-iodine 5% ≥3 min</b>, drape lashes, treat blepharitis/dacryocystitis/other socket first, <b>intracameral cefuroxime 1 mg/0.1 ml</b> (or moxifloxacin). <b>Avoid intracameral vancomycin</b> (HORV). Resuture leaks.",
+    "Signs: lid swelling, chemosis, <b>RAPD</b>, corneal haze, fibrin, <b>hypopyon</b>, vitritis, poor red reflex.",
+    "Differentials: retained lens matter, vitreous haemorrhage, sterile uveitis (trial of steroid, review in 6–24 h), <b>TASS</b> (toxic reaction to fluids: fibrin + corneal oedema within a day, no infection).",
+    "<b>If in doubt, treat as infection.</b>"
+   ],
+   "hook": "<b>Painful red eye + hypopyon after cataract surgery = endophthalmitis</b> until proven otherwise.",
+   "cards": [
+    {
+     "q": "Most common organism in acute post-cataract endophthalmitis?",
+     "a": "Staphylococcus epidermidis (coagulase-negative staph)."
+    },
+    {
+     "q": "Why avoid routine intracameral vancomycin?",
+     "a": "Risk of haemorrhagic occlusive retinal vasculitis (HORV)."
+    }
+   ]
+  },
+  {
+   "id": "ch10-13",
+   "group": "Complications",
+   "title": "Acute endophthalmitis: tap & inject",
+   "minutes": 4,
+   "tldr": "<b>Tap (aqueous + vitreous) and inject</b>: intravitreal <b>vancomycin 2 mg + ceftazidime 2 mg</b> (amikacin 0.4 mg if penicillin-allergic). <b>EVS: vision PL only → immediate vitrectomy.</b>",
+   "points": [
+    "No view → B-scan first (exclude RD).",
+    "Aqueous: 0.1–0.2 ml via paracentesis (25 G). Vitreous: 0.2–0.4 ml, <b>3.5 mm behind the limbus</b> (pseudophakic), needle or vitrector. Vitreous is more often positive.",
+    "Send immediately (microscopy, culture, PCR).",
+    "Intravitreal: <b>vancomycin 2 mg/0.1 ml</b> (Gram+ incl. MRSA) + <b>ceftazidime 2 mg/0.1 ml</b> (Gram−, Pseudomonas). Amikacin 0.4 mg if allergic (more retinal toxicity).",
+    "Plus: oral <b>moxifloxacin 400 mg</b> ×10 days, topical antibiotics, <b>topical dexamethasone</b>, atropine.",
+    "Oral pred 1 mg/kg after 12–24 h in severe cases (if fungus excluded).",
+    "<b>Endophthalmitis Vitrectomy Study</b>: VA <b>light perception</b> → immediate PPV (halves severe vision loss). HM or better → tap and inject.",
+    "Worse at 48 h → review sensitivities, PPV, repeat injection.",
+    "Outcome: PL at presentation → 30% reach 6/12. Better than PL → 60%. <b>Bacillus cereus, Strep</b> → poor."
+   ],
+   "hook": "<b>Light perception only? Vitrectomy.</b> Better than that? <b>Tap and inject.</b>",
+   "cards": [
+    {
+     "q": "Standard intravitreal antibiotics for endophthalmitis?",
+     "a": "Vancomycin 2 mg/0.1 ml + ceftazidime 2 mg/0.1 ml."
+    },
+    {
+     "q": "EVS criterion for immediate vitrectomy?",
+     "a": "Presenting VA of light perception only."
+    }
+   ]
+  },
+  {
+   "id": "ch10-14",
+   "group": "Complications",
+   "title": "Delayed (chronic) endophthalmitis",
+   "minutes": 3,
+   "tldr": "Months after surgery: <b>painless</b>, low-grade uveitis with <b>big KPs</b> and a <b>white capsular plaque</b> that keeps relapsing when steroids stop → <b>P. acnes</b>.",
+   "points": [
+    "Low-virulence bug (<b>Propionibacterium/Cutibacterium acnes</b>) trapped in the capsular bag, hiding in macrophages.",
+    "Onset 4 weeks to years (average 9 months). Can be triggered by YAG capsulotomy.",
+    "Signs: mild AC inflammation, medium-large KPs, vitritis, <b>white capsular plaque</b>.",
+    "Responds to steroids, then relapses → eventually steroid-resistant.",
+    "First try: oral <b>moxifloxacin</b> (or clarithromycin) 10–14 days.",
+    "Then: aqueous/vitreous tap, <b>anaerobic culture</b> (10–14 days), PCR.",
+    "Definitive: <b>PPV + remove capsular bag/IOL</b> + intravitreal <b>vancomycin</b>. Injection alone usually fails."
+   ],
+   "hook": "<b>Plaque in the bag = P. acnes.</b>",
+   "cards": [
+    {
+     "q": "Organism in chronic saccular endophthalmitis?",
+     "a": "Propionibacterium (Cutibacterium) acnes."
+    },
+    {
+     "q": "Definitive treatment?",
+     "a": "Vitrectomy with capsular bag (± IOL) removal and intravitreal vancomycin."
+    }
+   ]
+  },
+  {
+   "id": "ch10-15",
+   "group": "Complications",
+   "title": "PCO & YAG capsulotomy",
+   "minutes": 3,
+   "tldr": "<b>PCO</b> = commonest late complication (20–25%): blur, glare. <b>Elschnig pearls</b> or fibrosis. Fix with <b>Nd:YAG capsulotomy</b> (~4–5 mm, start 1 mJ).",
+   "points": [
+    "Leftover lens epithelial cells grow on the back capsule.",
+    "Less PCO: rhexis overlapping the optic, <b>square-edged</b> IOL. More PCO: PMMA, hydrogel.",
+    "<b>Pearl type</b> (Elschnig pearls, swollen cells) and <b>fibrosis type</b>. <b>Soemmering ring</b> = doughnut of cells in the bag periphery.",
+    "YAG: start <b>1 mJ</b>, cruciate or circular, opening ≈ scotopic pupil (~4–5 mm), don't go past the optic edge. Keep total energy low (&lt;80 mJ).",
+    "Be cautious in: <b>high myopes</b> (RD), uveitis (CMO), PXF (lens dislocation).",
+    "Complications: IOL pitting, IOP spike, <b>RD</b> (warn myopes about flashes/floaters), CMO (less if after 6 months), IOL shift.",
+    "<b>Capsulophimosis</b>: rhexis shrinks (small rhexis, <b>PXF</b>, RP, plate silicone IOL) → YAG anterior relaxing cuts."
+   ],
+   "hook": "<b>YAG = 'Yes, Again Good vision'.</b> Warn myopes about RD.",
+   "cards": [
+    {
+     "q": "Most common late complication of cataract surgery?",
+     "a": "Posterior capsular opacification."
+    },
+    {
+     "q": "Name 2 risk factors for anterior capsular phimosis.",
+     "a": "Pseudoexfoliation, small capsulorhexis (also RP, plate silicone IOL)."
+    }
+   ]
+  },
+  {
+   "id": "ch10-16",
+   "group": "Complications",
+   "title": "CMO, dysphotopsia & other late problems",
+   "minutes": 4,
+   "tldr": "<b>Irvine–Gass CMO</b> peaks <b>6–10 weeks</b>: blurry near vision → OCT → <b>topical NSAID</b> ± steroid. <b>Negative dysphotopsia</b> = dark temporal crescent.",
+   "points": [
+    "CMO risks: ERM, CMO in the other eye, <b>vitreous loss/wick</b>, AC IOL, secondary IOL, <b>prostaglandin drops</b>, diabetes, uveitis.",
+    "CMO treatment: <b>NSAID drops</b> (ketorolac, bromfenac, nepafenac) for months, steroids (topical, periocular, intravitreal), CAIs, anti-VEGF, YAG/vitrectomy for vitreous wick, PPV.",
+    "<b>Dysphotopsia</b> (~1 in 10): <b>negative</b> = dark temporal shadow (most bothersome). <b>Positive</b> = streaks, haloes, flashes. Usually improves. Options: reverse optic capture, sulcus IOL/piggyback, IOL exchange. Avoid YAG (makes exchange hard).",
+    "<b>Ptosis</b>: wait a year.",
+    "<b>IOL malposition</b>: reposition or exchange.",
+    "<b>Corneal decompensation</b>: low cell count, dense nucleus, long surgery, PXF, high IOP → dispersive OVD protection.",
+    "<b>RD</b>: lattice, breaks, high myopia, <b>vitreous loss</b>. Usually PPV.",
+    "<b>Refractive surprise</b>: refract, check for CMO (hyperopic) or capsular block (myopic), recheck biometry/K (missed keratoconus, prior LASIK). Fix: glasses/CL, <b>early IOL exchange</b>, laser refractive surgery, piggyback."
+   ],
+   "hook": "CMO after cataract = <b>2 months later, can't read</b> → NSAID drops.",
+   "cards": [
+    {
+     "q": "Peak onset of pseudophakic CMO?",
+     "a": "6–10 weeks after surgery."
+    },
+    {
+     "q": "Dark temporal crescent after uncomplicated phaco?",
+     "a": "Negative dysphotopsia."
+    }
+   ]
+  },
+  {
+   "id": "ch10-17",
+   "group": "Congenital cataract",
+   "title": "Causes of congenital cataract",
+   "minutes": 4,
+   "tldr": "~3 per 10,000 births. Bilateral → often <b>AD inherited</b>, also metabolic, infection, chromosomal. Unilateral → usually sporadic, healthy baby. <b>Oil droplet</b> = galactosaemia.",
+   "points": [
+    "<b>Galactosaemia</b> (AR, GPUT deficiency): <b>oil-droplet</b> cataract in weeks. Remove milk → can reverse. Otherwise fatal.",
+    "<b>Lowe syndrome</b> (X-linked, OCRL1): cataract always, microphakia, <b>congenital glaucoma (~50%)</b>, kidney problems. Carriers have lens dots.",
+    "<b>Mannosidosis</b>: spoke-like posterior cortical dots. Also Fabry, hypoparathyroidism, glucose problems.",
+    "Infections (TORCH): <b>rubella</b> (pearly nuclear cataract ~15%), toxo, CMV, varicella, measles, syphilis, HSV, HIV.",
+    "<b>Down syndrome</b> (75% cataract, late childhood), Brushfield spots, keratoconus. <b>Edwards</b> (trisomy 18).",
+    "<b>Hallermann–Streiff</b> (90%), <b>Nance–Horan</b> (X-linked, carriers have Y-suture opacities).",
+    "Morphology: <b>blue dot</b> (harmless), nuclear, coronary, <b>lamellar with riders</b>, oil droplet, sutural, anterior polar, <b>posterior polar</b> (capsule may be missing → ruptures in surgery)."
+   ],
+   "hook": "<b>Galactose = oil drop.</b> Stop the milk!",
+   "cards": [
+    {
+     "q": "'Oil droplet' cataract in a neonate?",
+     "a": "Galactosaemia."
+    },
+    {
+     "q": "Congenital cataract + glaucoma + renal tubular problems in a boy?",
+     "a": "Lowe (oculocerebrorenal) syndrome."
+    },
+    {
+     "q": "Which congenital cataract has a high risk of capsule rupture during surgery?",
+     "a": "Posterior polar cataract."
+    }
+   ]
+  },
+  {
+   "id": "ch10-18",
+   "group": "Congenital cataract",
+   "title": "Managing congenital cataract",
+   "minutes": 4,
+   "tldr": "Dense bilateral → operate at <b>4–10 weeks</b>. Dense unilateral → <b>by 6 weeks</b> + aggressive patching. Too early (&lt;4 weeks) → more <b>glaucoma</b>. Always do <b>posterior capsulorhexis + vitrectomy</b>.",
+   "points": [
+    "Significance: no red reflex = dense. Can see vessels with indirect but not direct = significant (&gt;3 mm central/posterior). Nystagmus, no fixation, squint = bad signs.",
+    "Check family members. B-scan if no view (PFV?). VEP, preferential looking.",
+    "Investigations (non-familial): <b>TORCH</b>, urine reducing substances (galactosaemia), amino acids (Lowe), glucose, calcium, phosphate, GPUT.",
+    "Bilateral dense: surgery <b>4–10 weeks</b>, worse eye first.",
+    "Unilateral dense: <b>4–6 weeks</b>, then hard patching. Found after 16 weeks → poor prognosis.",
+    "Partial: observe, dilate, part-time patch.",
+    "Surgery: rhexis, aspirate, <b>posterior capsulorhexis + anterior vitrectomy</b>, ± IOL.",
+    "Complications: PCO (almost certain if capsule left), membranes, Soemmering ring, <b>glaucoma</b> (up to 20% by 5 years; earlier surgery = more), pupil block (microphthalmos), RD.",
+    "Rehab: <b>contact lenses</b> (best for aphakia), glasses (bilateral), IOL (aim hyperopic; myopic shift with growth). <b>Treat amblyopia</b>."
+   ],
+   "hook": "<b>Earlier = less amblyopia, more glaucoma.</b> Sweet spot ~4–6 weeks.",
+   "cards": [
+    {
+     "q": "Why avoid operating on congenital cataract before ~4 weeks?",
+     "a": "Higher risk of later aphakic/secondary glaucoma."
+    },
+    {
+     "q": "Latest recommended time for surgery on a dense unilateral congenital cataract?",
+     "a": "About 6 weeks of age."
+    }
+   ]
+  },
+  {
+   "id": "ch10-19",
+   "group": "Ectopia lentis",
+   "title": "Displaced lens: which way & why",
+   "minutes": 4,
+   "tldr": "<b>Marfan</b> → lens goes <b>UP and out</b> (superotemporal), zonules intact. <b>Homocystinuria</b> → <b>DOWN and in</b> (inferonasal), zonules dissolve. <b>Weill–Marchesani</b> → small round lens → <b>pupil block</b>.",
+   "points": [
+    "Subluxated (still in the pupil) vs luxated (fully out). <b>Phacodonesis</b> = wobbly lens.",
+    "Acquired: <b>trauma</b> (commonest), <b>PXF</b>, chronic uveitis, syphilis, hypermature cataract, buphthalmos/high myopia, ciliary body tumour.",
+    "<b>Familial ectopia lentis</b> (AD): both eyes, superotemporal.",
+    "<b>Ectopia lentis et pupillae</b> (AR): lens and pupil go <b>opposite directions</b>, small pupils.",
+    "<b>Marfan</b> (AD, <b>FBN1</b>): tall, long limbs/fingers, high palate, aortic root dilatation/dissection, mitral prolapse. Lens <b>superotemporal</b> (80%), accommodation kept. Also glaucoma, <b>lattice → RD</b>.",
+    "<b>Weill–Marchesani</b> (AR/AD FBN1): short, stubby fingers. <b>Microspherophakia</b> → lens falls <b>inferiorly / into the AC</b> → <b>pupil block angle closure</b>.",
+    "<b>Homocystinuria</b> (AR): blond hair, blue eyes, malar flush, Marfanoid, learning delay, <b>thrombosis</b> (GA risk!). Lens <b>inferonasal</b>, zonules (cysteine-poor) break down. Treat with <b>B6, folate, B12</b>.",
+    "Others: sulfite oxidase deficiency (always), Stickler, Ehlers–Danlos, hyperlysinaemia.",
+    "Manage: glasses/aphakic correction. Surgery for intractable refraction, amblyopia, cataract, glaucoma, uveitis, corneal touch."
+   ],
+   "hook": "<b>Marfan looks UP</b> (tall people look up). <b>Homocystinuria goes DOWN</b> (homes are on the ground).",
+   "cards": [
+    {
+     "q": "Typical direction of lens subluxation in Marfan syndrome?",
+     "a": "Superotemporal."
+    },
+    {
+     "q": "Inferonasal subluxation + thromboembolic risk?",
+     "a": "Homocystinuria."
+    },
+    {
+     "q": "Short stature + brachydactyly + microspherophakia + angle closure?",
+     "a": "Weill–Marchesani syndrome."
+    }
+   ]
+  },
+  {
+   "id": "ch10-20",
+   "group": "Lens shape",
+   "title": "Lenticonus, microspherophakia, coloboma",
+   "minutes": 2,
+   "tldr": "<b>Anterior lenticonus</b> = <b>Alport</b> (deaf + kidneys). <b>Posterior lenticonus</b> = one eye, sporadic. Lens 'coloboma' = <b>zonular gap</b>, not a true coloboma.",
+   "points": [
+    "<b>Anterior lenticonus</b>: both eyes, front of the lens bulges forward, <b>oil-droplet</b> reflex. Almost always <b>Alport syndrome</b> (sensorineural deafness, nephritis). Also retinal flecks, PPCD.",
+    "<b>Posterior lenticonus</b>: back bulges, thin/absent capsule. Usually <b>one eye, sporadic</b>. PSC develops, can suddenly opacify.",
+    "<b>Lentiglobus</b>: whole lens hemispherical (rare).",
+    "<b>Microspherophakia</b>: small round lens. Weill–Marchesani, Marfan, hyperlysinaemia, rubella, Peters. → lenticular myopia, subluxation, pupil block.",
+    "<b>Microphakia</b>: small diameter (Lowe).",
+    "<b>Lens coloboma</b>: notch in the edge from <b>missing zonules</b>."
+   ],
+   "hook": "<b>A</b>nterior lenticonus = <b>A</b>lport.",
+   "cards": [
+    {
+     "q": "Anterior lenticonus is associated with?",
+     "a": "Alport syndrome."
+    },
+    {
+     "q": "What actually causes a 'lens coloboma'?",
+     "a": "Localised zonular deficiency (not a true coloboma)."
+    }
+   ]
+  }
+ ]
+}
