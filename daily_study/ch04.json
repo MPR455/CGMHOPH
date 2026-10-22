@@ -1,0 +1,681 @@
+{
+ "id": "ch04",
+ "num": 4,
+ "title": "Orbit",
+ "chunks": [
+  {
+   "id": "ch04-01",
+   "group": "Basics",
+   "title": "Orbit walls & fissures",
+   "minutes": 4,
+   "tldr": "<b>Medial wall is paper-thin</b> → ethmoid sinusitis spreads in. <b>Floor</b> breaks in blowouts. The <b>SOF</b> carries most of the eye-movement nerves.",
+   "points": [
+    "<b>Roof</b> (2 bones: frontal, lesser wing of sphenoid). A hole here → <b>pulsating proptosis without a bruit</b> (brain pulse).",
+    "<b>Lateral wall</b> (2: zygomatic, greater wing). The strongest wall. The front of the globe sticks out past it.",
+    "<b>Floor</b> (3: maxilla, zygomatic, palatine). Weak posteromedial maxilla → <b>blowout fracture</b>. Maxillary cancer pushes the eye <b>up</b>.",
+    "<b>Medial wall</b> (4: maxilla, lacrimal, ethmoid, sphenoid). <b>Lamina papyracea</b> is paper-thin → <b>orbital cellulitis from ethmoid sinusitis</b>.",
+    "<b>Superior orbital fissure</b>: top part = lacrimal, frontal, <b>IV</b>, superior ophthalmic vein. Bottom part (inside the ring) = <b>III (both divisions), VI, nasociliary</b>, sympathetics.",
+    "<b>Inferior orbital fissure</b>: maxillary nerve (V2), zygomatic nerve, inferior ophthalmic vein.",
+    "Optic nerve in the orbit = <b>25 mm</b>, but the globe-to-canal distance is only 18 mm → spare slack for proptosis."
+   ],
+   "hook": "Walls by bone count: <b>Roof 2, Lateral 2, Floor 3, Medial 4</b>.",
+   "cards": [
+    {
+     "q": "Why does ethmoid sinusitis cause orbital cellulitis so easily?",
+     "a": "The lamina papyracea of the medial wall is paper-thin with many foramina."
+    },
+    {
+     "q": "Which nerve passes through the SOF but outside the annulus of Zinn: III, IV or VI?",
+     "a": "IV (trochlear)."
+    }
+   ]
+  },
+  {
+   "id": "ch04-02",
+   "group": "Basics",
+   "title": "Signs of orbital disease",
+   "minutes": 4,
+   "tldr": "Hertel <b>&gt;20 mm</b> or a <b>2–3 mm difference</b> = proptosis. <b>Axial</b> → inside the muscle cone. <b>Dystopia</b> → outside the cone.",
+   "points": [
+    "Look from <b>above and behind</b> the patient to spot asymmetric proptosis.",
+    "<b>Axial</b> (straight forward) proptosis: intraconal mass (cavernous haemangioma, optic nerve tumour, TED).",
+    "<b>Dystopia</b> (pushed up, down or sideways): extraconal mass, e.g. a lacrimal gland tumour pushes the eye <b>down and in</b>.",
+    "<b>Pseudoproptosis</b>: big myopic eye, buphthalmos, lid retraction, <b>enophthalmos on the other side</b>.",
+    "<b>Enophthalmos</b>: blowout fracture, atrophy, <b>scirrhous breast metastasis</b>, blind babies poking their eyes (oculodigital sign).",
+    "Proptosis that gets <b>worse with Valsalva or head-down</b> → venous anomaly (varix).",
+    "<b>Pulsation + bruit</b> → carotid-cavernous fistula. <b>Pulsation, no bruit</b> → roof defect (e.g. NF1)."
+   ],
+   "hook": "Bruit = <b>blood</b> (CCF). No bruit = <b>brain</b> (roof defect).",
+   "cards": [
+    {
+     "q": "Hertel readings 18 and 21 mm. Significant?",
+     "a": "Yes: &gt;20 mm, and a 3 mm difference."
+    },
+    {
+     "q": "Enophthalmos in a woman with a history of breast cancer?",
+     "a": "Scirrhous breast metastasis (sclerosing)."
+    }
+   ]
+  },
+  {
+   "id": "ch04-03",
+   "group": "Basics",
+   "title": "Restriction vs palsy & fundus clues",
+   "minutes": 3,
+   "tldr": "<b>Forced duction</b> tells restriction from palsy. <b>Opticociliary shunts</b> → think <b>optic nerve sheath meningioma</b>.",
+   "points": [
+    "<b>Forced duction</b>: grab the muscle insertion with forceps and rotate. Resistance → <b>restrictive</b> (TED, fracture). No resistance → nerve palsy.",
+    "<b>Differential IOP test</b>: IOP rises <b>≥6 mmHg</b> when looking toward the limited side → restriction (<b>Braley sign</b>).",
+    "<b>Saccades</b>: slow in palsy. Normal speed but a sudden stop in restriction.",
+    "Fundus: <b>disc swelling</b> (early compression) → <b>optic atrophy</b> (late), <b>choroidal folds</b>.",
+    "<b>Opticociliary shunt vessels</b>: big twisty vessels on the disc that vanish at the edge. Commonest with <b>optic nerve sheath meningioma</b> (also glioma, CRVO, IIH, glaucoma).",
+    "Imaging: <b>CT</b> for bone, trauma, abscess. <b>MRI</b> for the apex, intracranial spread, inflammation (STIR shows active TED)."
+   ],
+   "hook": "<b>Shunts = Sheath meningioma.</b>",
+   "cards": [
+    {
+     "q": "IOP rises from 16 to 24 on upgaze. What does this suggest?",
+     "a": "Restrictive myopathy (e.g. TED inferior rectus): positive Braley sign."
+    },
+    {
+     "q": "Most common tumour with opticociliary shunts?",
+     "a": "Optic nerve sheath meningioma."
+    }
+   ]
+  },
+  {
+   "id": "ch04-04",
+   "group": "Thyroid eye disease",
+   "title": "TED: who gets it & why",
+   "minutes": 4,
+   "tldr": "TED = commonest cause of proptosis in adults (<b>one or both eyes</b>). <b>Smoking</b> is the biggest risk factor. <b>Radioiodine</b> can make it worse.",
+   "points": [
+    "<b>Graves disease</b>: IgG antibodies switch on TSH receptors → hyperthyroid. Women, aged 40s–50s.",
+    "Body clues: weight loss, heat intolerance, tremor, goitre, <b>acropachy</b> (clubbing-like), <b>pretibial myxoedema</b>.",
+    "TED can also happen when <b>euthyroid or hypothyroid</b>, and can come <b>before</b> any thyroid problem.",
+    "<b>Smoking</b> = biggest risk. More cigarettes = more risk. Stopping helps.",
+    "Women 5× more (because Graves is more common in women).",
+    "<b>Radioiodine</b> can worsen TED → give <b>oral steroid cover</b> if they already have eye disease.",
+    "Mechanism: antibodies hit <b>orbital fibroblasts</b> → <b>glycosaminoglycans</b> soak up water → muscles swell (up to <b>8×</b>) → later fibrosis → restriction."
+   ],
+   "hook": "TED's 3 'S': <b>Smoking, Steroid cover for radioiodine, Swollen muscles</b>.",
+   "cards": [
+    {
+     "q": "Biggest modifiable risk factor for TED?",
+     "a": "Smoking."
+    },
+    {
+     "q": "TED patient needs radioiodine. What else do you give?",
+     "a": "A short course of oral steroids."
+    }
+   ]
+  },
+  {
+   "id": "ch04-05",
+   "group": "Thyroid eye disease",
+   "title": "TED signs: lids, proptosis, muscles",
+   "minutes": 5,
+   "tldr": "Two phases: <b>red, hot, active</b> (1–3 years) → <b>white, burnt-out</b> fibrosis. Commonest motility problem = <b>can't look up</b> (tight <b>inferior rectus</b>).",
+   "points": [
+    "<b>Soft tissue</b>: red over the recti insertions, puffy lids, chemosis, fat prolapse, dry eye, <b>SLK</b>.",
+    "<b>Lid retraction</b> (~50% of Graves). <b>Dalrymple</b> = retraction looking straight ahead. <b>Kocher</b> = frightened stare. <b>von Graefe</b> = lid lag on downgaze.",
+    "<b>Proptosis</b>: axial, often permanent → exposure keratopathy, ulcers.",
+    "<b>Restrictive myopathy</b> (30–50%). Muscles most often involved: <b>Inferior rectus → Medial → Superior → Lateral</b> ('<b>I'M SLow</b>').",
+    "Tight IR → <b>can't look up</b> (mimics SR palsy). Tight MR → <b>can't abduct</b> (mimics a VI palsy).",
+    "On scans: <b>muscle belly</b> swollen, <b>tendon spared</b>.",
+    "EUGOGO severity: <b>sight-threatening</b> (optic neuropathy or corneal breakdown) / moderate–severe / mild."
+   ],
+   "hook": "<b>I'M SLow</b>: Inferior, Medial, Superior, Lateral rectus.",
+   "cards": [
+    {
+     "q": "Lid lag on downgaze in TED is called?",
+     "a": "von Graefe sign."
+    },
+    {
+     "q": "Most commonly involved muscle in TED, and the resulting motility defect?",
+     "a": "Inferior rectus → defective elevation."
+    },
+    {
+     "q": "TED vs myositis on imaging?",
+     "a": "TED spares the tendon; myositis usually involves it."
+    }
+   ]
+  },
+  {
+   "id": "ch04-06",
+   "group": "Thyroid eye disease",
+   "title": "TED optic neuropathy: don't miss it",
+   "minutes": 3,
+   "tldr": "Fat muscles squeeze the nerve at the <b>apex</b>, even <b>without much proptosis</b>. <b>Colour desaturation</b> is the most sensitive sign.",
+   "points": [
+    "Up to <b>6%</b> of TED patients.",
+    "Squeezed at the <b>orbital apex</b> by swollen recti. Tight orbits (little proptosis) are actually <b>more</b> at risk.",
+    "Signs: ↓VA (not always), <b>colour desaturation</b>, ↓brightness, <b>RAPD</b>, central/paracentral field loss.",
+    "The disc may be normal, swollen, or (rarely) pale.",
+    "Can look like <b>POAG</b> (field defects + high IOP from tight muscles).",
+    "Teach patients to check themselves: cover one eye, read small print, compare <b>colour on the TV</b>."
+   ],
+   "hook": "TED + <b>colours look washed out</b> = emergency for the nerve.",
+   "cards": [
+    {
+     "q": "Most sensitive early sign of TED optic neuropathy?",
+     "a": "Colour desaturation."
+    },
+    {
+     "q": "Can compressive optic neuropathy occur in TED without proptosis?",
+     "a": "Yes (apical crowding)."
+    }
+   ]
+  },
+  {
+   "id": "ch04-07",
+   "group": "Thyroid eye disease",
+   "title": "Treating TED",
+   "minutes": 5,
+   "tldr": "<b>Stop smoking</b>. Mild → lubricants. Active moderate–severe (<b>CAS ≥3/7</b>) → <b>IV methylprednisolone</b>. Surgery order: <b>orbit → squint → lids</b>.",
+   "points": [
+    "Everyone: stop smoking, control the thyroid.",
+    "Mild: lubricants, sleep with the head raised, tape the lids, selenium.",
+    "<b>Clinical Activity Score</b> (1 point each): pain at rest, pain on eye movement, lid swelling, lid redness, conjunctival redness, chemosis, swollen caruncle/plica. <b>≥3/7 = active.</b>",
+    "Active moderate–severe: <b>IV methylprednisolone</b> 0.5 g weekly × 6, then 0.25 g weekly × 6. Max total <b>&lt;8 g</b> (liver). Oral steroids are the alternative.",
+    "<b>Orbital radiotherapy</b>: add-on, works in ~6 weeks. Avoid in <b>diabetics</b> (retinopathy) and young patients.",
+    "<b>Teprotumumab</b> (IGF-1R blocker) reduces proptosis and CAS. Rituximab is another option.",
+    "<b>Optic neuropathy</b>: pulsed IV steroids. If no response → urgent <b>orbital decompression</b>.",
+    "Burnt-out phase, in order: <b>decompression → squint surgery</b> (stable 6–12 months; <b>recess only, never resect</b>; adjustable sutures) → <b>lid surgery last</b>."
+   ],
+   "hook": "Surgery order <b>O-S-L</b>: <b>O</b>rbit, <b>S</b>quint, <b>L</b>ids. Like getting dressed: <b>trousers before shoes</b>.",
+   "pearls": [
+    "Decompression: 1 wall (deep lateral) ≈ 4–5 mm, least diplopia. 3 walls ≈ 6–10 mm, more diplopia and infraorbital numbness."
+   ],
+   "cards": [
+    {
+     "q": "Name 3 CAS items.",
+     "a": "Any of: spontaneous pain, pain on eye movement, lid swelling, lid redness, conjunctival redness, chemosis, caruncle/plica swelling."
+    },
+    {
+     "q": "TED strabismus surgery: recess or resect?",
+     "a": "Recess only (usually IR/MR), with adjustable sutures."
+    },
+    {
+     "q": "Why is orbital radiotherapy avoided in diabetics?",
+     "a": "Higher risk of radiation retinopathy."
+    }
+   ]
+  },
+  {
+   "id": "ch04-08",
+   "group": "Infections",
+   "title": "Preseptal vs orbital cellulitis",
+   "minutes": 4,
+   "tldr": "<b>Preseptal</b>: swollen lid but <b>normal vision, pupils, eye movements, no proptosis</b>. Any of those abnormal → <b>orbital</b> cellulitis → admit + CT.",
+   "points": [
+    "<b>Preseptal</b>: in front of the septum. Staph/Strep. From a cut, insect bite, stye, dacryocystitis, URTI.",
+    "Preseptal: oral <b>co-amoxiclav</b>. Check tetanus. Imaging only if unsure.",
+    "<b>Orbital</b>: behind the septum. Mostly <b>kids</b>, usually from <b>ethmoid sinusitis</b>. Strep pneumoniae, Staph aureus, Strep pyogenes, H. influenzae.",
+    "Orbital signs: fever, <b>pain on eye movement</b>, <b>proptosis</b>, <b>ophthalmoplegia</b>, chemosis, ↓VA, colour loss, <b>RAPD</b>.",
+    "Complications: optic neuropathy, <b>subperiosteal abscess</b> (usually medial), <b>meningitis, brain abscess, cavernous sinus thrombosis</b>.",
+    "Treat: <b>admit</b>, CT of orbit + sinuses + brain, IV antibiotics (e.g. ceftazidime + metronidazole) until <b>fever-free for 4 days</b>, ENT review, check the nerve every <b>4 h</b>. Drain an abscess."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Preseptal",
+     "Orbital"
+    ],
+    "rows": [
+     [
+      "Proptosis",
+      "No",
+      "Yes"
+     ],
+     [
+      "Eye movements",
+      "Normal",
+      "Painful / limited"
+     ],
+     [
+      "VA / RAPD",
+      "Normal",
+      "Can drop / RAPD"
+     ],
+     [
+      "Treatment",
+      "Oral antibiotics",
+      "Admit, IV, CT"
+     ]
+    ]
+   },
+   "hook": "<b>The septum is the wall.</b> Behind the wall = the eye is in trouble.",
+   "cards": [
+    {
+     "q": "Swollen red lid, VA 6/6, full motility, no proptosis. Diagnosis?",
+     "a": "Preseptal cellulitis."
+    },
+    {
+     "q": "Commonest source of orbital cellulitis?",
+     "a": "Ethmoid sinusitis."
+    }
+   ]
+  },
+  {
+   "id": "ch04-09",
+   "group": "Infections",
+   "title": "Mucormycosis",
+   "minutes": 2,
+   "tldr": "<b>Diabetic ketoacidosis</b> or immunosuppressed + <b>black eschar</b> on the palate, nose or lids = mucor. Often fatal.",
+   "points": [
+    "Fungus (Mucoraceae) breathed in → sinuses → orbit → brain.",
+    "Invades <b>blood vessels</b> → clots → tissue dies (<b>black eschar</b>).",
+    "Slower than bacterial cellulitis. Can cause retinal artery occlusion and multiple cranial nerve palsies.",
+    "Treat: fix the <b>DKA</b>, <b>IV antifungal</b> (amphotericin), debride dead tissue. May need <b>exenteration</b>. Hyperbaric O₂ can help."
+   ],
+   "hook": "<b>Diabetic + black spot = mucor.</b>",
+   "cards": [
+    {
+     "q": "Black necrotic palate in a patient with DKA and orbital signs?",
+     "a": "Rhino-orbital mucormycosis."
+    }
+   ]
+  },
+  {
+   "id": "ch04-10",
+   "group": "Inflammation",
+   "title": "Orbital inflammation (pseudotumour) & myositis",
+   "minutes": 4,
+   "tldr": "<b>IOID</b> = painful, inflamed orbit with no infection or cancer. Diagnosis of exclusion → <b>biopsy before steroids</b> if it's atypical.",
+   "points": [
+    "Painful red swelling, proptosis, ophthalmoplegia ± optic nerve problems. Adults: one side. <b>Kids: can be both sides + fever</b>.",
+    "CT: ill-defined fuzzy orbital tissue.",
+    "Course: goes away, keeps coming back, or scars into a <b>'frozen orbit'</b>.",
+    "Treat: watch, then <b>NSAIDs</b>, then <b>oral pred 1–1.5 mg/kg</b> (only once infection, lymphoma, GPA are excluded). Radiotherapy if no response in 2 weeks. Methotrexate, etc.",
+    "<b>Orbital myositis</b>: young adult, <b>painful diplopia</b>, redness over one muscle. Scan: muscle <b>and tendon</b> swollen (TED spares the tendon).",
+    "Myositis responds dramatically to steroids, but <b>50% recur</b>."
+   ],
+   "hook": "Myositis takes the <b>tendon</b> too. Thyroid leaves the <b>tendon</b> alone.",
+   "cards": [
+    {
+     "q": "Why confirm the diagnosis before steroids in suspected IOID?",
+     "a": "Steroids can mask infection, lymphoma or GPA."
+    },
+    {
+     "q": "Imaging difference between orbital myositis and TED?",
+     "a": "Myositis involves the tendon; TED spares it."
+    }
+   ]
+  },
+  {
+   "id": "ch04-11",
+   "group": "Inflammation",
+   "title": "Dacryoadenitis, Tolosa–Hunt, GPA",
+   "minutes": 4,
+   "tldr": "Swollen lacrimal gland → <b>S-shaped lid</b>. Painful ophthalmoplegia at the apex → <b>Tolosa–Hunt</b>. Both orbits + sinuses → <b>GPA (cANCA)</b>.",
+   "points": [
+    "<b>Acute dacryoadenitis</b>: idiopathic or viral (<b>mumps, EBV</b>, CMV). Tender gland, <b>S-shaped ptosis</b>, eye pushed down and in.",
+    "Chronic, two-sided gland swelling: <b>sarcoid, Sjögren</b>, TED.",
+    "<b>Bone erosion on CT → tumour</b>, not inflammation.",
+    "<b>Tolosa–Hunt</b>: granulomatous inflammation of the cavernous sinus/SOF/apex. One-sided pain + III/IV/VI palsies + V1/V2 numbness. Rule everything else out. Responds to <b>steroids</b>, relapses.",
+    "<b>GPA (Wegener)</b>: orbit (often both sides) spread from the <b>sinuses/nose</b>. Also scleritis, PUK. Test <b>cANCA</b>. Treat with <b>cyclophosphamide + steroids</b>."
+   ],
+   "hook": "<b>Bilateral orbital inflammation + bad sinuses = GPA</b> until proven otherwise.",
+   "cards": [
+    {
+     "q": "Serology for granulomatosis with polyangiitis?",
+     "a": "cANCA (PR3)."
+    },
+    {
+     "q": "Painful ophthalmoplegia + V1 numbness responding dramatically to steroids?",
+     "a": "Tolosa–Hunt syndrome."
+    }
+   ]
+  },
+  {
+   "id": "ch04-12",
+   "group": "Vascular",
+   "title": "Cavernous sinus thrombosis & CCF",
+   "minutes": 5,
+   "tldr": "<b>Direct CCF</b> = trauma, <b>pulsatile proptosis + bruit + chemosis</b>. <b>Indirect (dural)</b> = slow red eye with <b>corkscrew vessels</b>, often missed.",
+   "points": [
+    "<b>Cavernous sinus thrombosis</b>: from face/sinus/orbit infection. Both eyes proptosed, chemosis, III–VI palsies, very sick. <b>20%</b> die even with treatment. IV antibiotics.",
+    "<b>Direct CCF</b>: high flow, ICA tears into the sinus. <b>75% trauma</b>, or a ruptured aneurysm (middle-aged hypertensive woman).",
+    "Direct signs: <b>pulsatile proptosis, bruit</b> (stops when you press the carotid), haemorrhagic chemosis, big epibulbar vessels, ↑IOP, anterior segment ischaemia, CRVO.",
+    "<b>VI nerve</b> is hit most (it floats free in the sinus). III and IV sit in the wall, so they're safer.",
+    "<b>Indirect (dural) CCF</b>: low flow through meningeal branches. Slowly red eye(s), <b>corkscrew vessels</b>, ↑IOP (higher on that side), big ocular pulse on applanation.",
+    "Scan: enlarged <b>superior ophthalmic vein</b>, fat muscles. Gold standard = <b>angiography</b>.",
+    "Treat: direct → <b>endovascular coil/balloon</b>. Indirect → up to 50% close by themselves. Cortical venous drainage = <b>stroke risk</b>, refer urgently."
+   ],
+   "hook": "<b>Red eye that never gets better + corkscrew vessels + high IOP</b> → dural CCF.",
+   "cards": [
+    {
+     "q": "Triad of a direct CCF?",
+     "a": "Pulsatile proptosis, chemosis, whooshing noise (bruit)."
+    },
+    {
+     "q": "Which cranial nerve is most often palsied in CCF, and why?",
+     "a": "VI: it floats free inside the cavernous sinus."
+    },
+    {
+     "q": "Key CT/MRI sign of CCF?",
+     "a": "Dilated superior ophthalmic vein."
+    }
+   ]
+  },
+  {
+   "id": "ch04-13",
+   "group": "Cysts",
+   "title": "Dermoid, dacryops, mucocoele, encephalocoele",
+   "minutes": 4,
+   "tldr": "Kid with a smooth lump at the <b>upper-outer</b> orbit = <b>dermoid</b>. Take it out <b>in one piece</b>: if it bursts, it causes nasty inflammation.",
+   "points": [
+    "<b>Dermoid cyst</b>: choristoma (normal tissue in the wrong place). Lined with skin, contains hair and glands. Among the commonest orbital tumours in kids.",
+    "<b>Superficial dermoid</b>: babies, firm 1–2 cm lump, usually <b>superotemporal</b>, fixed to bone, back edge easy to feel.",
+    "<b>Deep dermoid</b>: teens/adults, slow proptosis, or sudden inflammation if it ruptures. Can go through bone.",
+    "Remove <b>intact</b>. Leaking keratin → granulomatous inflammation.",
+    "<b>Dacryops</b>: cyst of the lacrimal gland ducts, bulges into the upper fornix.",
+    "<b>Sinus mucocoele</b>: blocked sinus (usually <b>frontal/ethmoid</b>) slowly erodes into the orbit → dystopia, diplopia, watering. CT shows thinned bone.",
+    "<b>Encephalocoele</b>: brain/meninges poking through a skull defect. Front ones push the eye down and out. Back ones (<b>NF1</b>) push it down. Swells when crying, <b>pulsates with no bruit</b>."
+   ],
+   "hook": "Dermoid = a little <b>skin bag</b> in the wrong place. Don't pop it.",
+   "cards": [
+    {
+     "q": "Commonest location of a superficial orbital dermoid?",
+     "a": "Superotemporal (near the frontozygomatic suture)."
+    },
+    {
+     "q": "Why must a dermoid be removed intact?",
+     "a": "Rupture releases keratin → severe granulomatous inflammation."
+    }
+   ]
+  },
+  {
+   "id": "ch04-14",
+   "group": "Vascular tumours",
+   "title": "Varices & lymphangioma",
+   "minutes": 3,
+   "tldr": "<b>Varix</b> = proptosis that comes and goes with <b>Valsalva/head-down</b>. <b>Lymphangioma</b> = child with sudden painful proptosis from a bleed (<b>'chocolate cyst'</b>).",
+   "points": [
+    "<b>Orbital varices</b>: floppy, low-flow veins. Usually <b>upper nasal</b>.",
+    "Proptosis on and off, <b>no pulse or bruit</b>, worse with coughing, straining, head-down.",
+    "Scans: <b>phleboliths</b> (little calcified clots). Long-standing → fat atrophy → <b>enophthalmos</b> + deep sulcus.",
+    "Complications: bleed, clot, optic nerve squeeze. Surgery is hard (they bleed easily).",
+    "<b>Lymphangioma</b>: kids. Bluish soft masses in front, or deep with a sudden bleed → <b>chocolate cyst</b>.",
+    "Not encapsulated, infiltrates tissue → hard to remove. Drain bad cysts or use CO₂ laser."
+   ],
+   "hook": "<b>Varix: Valsalva.</b> <b>Lymphangioma: Little kid, sudden bLeed.</b>",
+   "cards": [
+    {
+     "q": "Proptosis that appears when the patient bends forward, no bruit?",
+     "a": "Orbital varix."
+    },
+    {
+     "q": "Child with sudden painful proptosis after a cold, MRI shows a blood-filled cyst?",
+     "a": "Lymphangioma with haemorrhage (chocolate cyst)."
+    }
+   ]
+  },
+  {
+   "id": "ch04-15",
+   "group": "Vascular tumours",
+   "title": "Capillary haemangioma (baby)",
+   "minutes": 4,
+   "tldr": "Commonest orbital tumour in <b>children</b>. Grows fast, then shrinks (<b>75% gone by age 7</b>). Treat for <b>amblyopia</b>: <b>propranolol/timolol</b>.",
+   "points": [
+    "<b>Girls 3:1</b>. Noticed in the first months (30% at birth).",
+    "Surface = bright red strawberry. Deeper = <b>blue/purple</b>. Swells when crying. <b>No pulse or bruit.</b>",
+    "Many lesions / big ones → check for <b>visceral</b> lesions: <b>Kasabach–Merritt</b> (low platelets, up to 50% mortality), heart failure, <b>PHACE</b> syndrome.",
+    "Grows for 3–6 months, then slowly fades: <b>30% gone by age 3, 75% by age 7</b>.",
+    "Treat if: <b>amblyopia</b> (from astigmatism, covering the pupil, or squint), nerve compression, exposure.",
+    "<b>Oral propranolol</b> (paediatrician) or <b>topical timolol</b> = first choice.",
+    "Steroid injection works, but <b>don't inject deep</b> (risk of CRAO). Also laser, interferon."
+   ],
+   "hook": "<b>Baby + strawberry = beta-blocker.</b> The worry is <b>amblyopia</b>, not cancer.",
+   "cards": [
+    {
+     "q": "Main indication to treat a periocular capillary haemangioma?",
+     "a": "Amblyopia (astigmatism, occlusion, strabismus)."
+    },
+    {
+     "q": "First-line treatment?",
+     "a": "Beta-blocker: oral propranolol or topical timolol."
+    }
+   ]
+  },
+  {
+   "id": "ch04-16",
+   "group": "Vascular tumours",
+   "title": "Cavernous haemangioma (adult)",
+   "minutes": 2,
+   "tldr": "Commonest benign orbital tumour in <b>adults</b>: middle-aged woman, slow <b>axial</b> proptosis, <b>well-defined oval</b> intraconal mass. Easy to remove.",
+   "points": [
+    "~70% women. Can grow faster in <b>pregnancy</b>.",
+    "Sits <b>inside the muscle cone</b>, behind the globe → <b>axial proptosis</b>, choroidal folds, disc oedema.",
+    "At the apex it can squeeze the nerve with little proptosis. <b>Gaze-evoked blur</b>.",
+    "CT/MRI: <b>well-circumscribed oval</b>, fills slowly with contrast.",
+    "Often found by chance → watch. Symptomatic → excise (<b>encapsulated</b>, comes out easily)."
+   ],
+   "hook": "<b>Capillary = Child</b>. <b>Cavernous = Can be a mum</b> (middle-aged woman).",
+   "cards": [
+    {
+     "q": "Most common benign orbital tumour in adults?",
+     "a": "Cavernous haemangioma."
+    },
+    {
+     "q": "Gaze-evoked transient blur + slowly progressive axial proptosis in a 45-year-old woman?",
+     "a": "Intraconal cavernous haemangioma."
+    }
+   ]
+  },
+  {
+   "id": "ch04-17",
+   "group": "Lacrimal gland tumours",
+   "title": "Pleomorphic adenoma vs carcinoma",
+   "minutes": 4,
+   "tldr": "<b>Benign</b>: painless, &gt;1 year, smooth bone dent → <b>excise whole, don't biopsy</b>. <b>Malignant</b>: <b>painful</b>, quick, bone <b>eroded</b> → biopsy.",
+   "points": [
+    "<b>Pleomorphic adenoma</b>: commonest lacrimal gland epithelial tumour. Young to middle-aged adults.",
+    "Slow, painless, <b>&gt;12 months</b>. Pushes the eye <b>down and in</b> (inferonasal dystopia).",
+    "CT: smooth round mass, bone <b>indented, not destroyed</b>.",
+    "<b>Don't biopsy</b> → it seeds and recurs, and can turn malignant. Remove <b>intact</b> via <b>lateral orbitotomy</b>.",
+    "<b>Lacrimal carcinoma</b>: <b>adenoid cystic</b> (50%) is the commonest. High mortality.",
+    "Clues: short history, <b>pain</b>, numbness (lacrimal nerve), old adenoma that suddenly grows, or recurrences after piecemeal removal.",
+    "CT: <b>irregular edge, bone erosion</b>, calcification.",
+    "Adenoid cystic spreads along <b>nerves</b> → into the cavernous sinus. Often needs exenteration. Poor prognosis."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Benign adenoma",
+     "Carcinoma"
+    ],
+    "rows": [
+     [
+      "History",
+      "&gt;1 year",
+      "Months"
+     ],
+     [
+      "Pain",
+      "No",
+      "Often"
+     ],
+     [
+      "Bone on CT",
+      "Smooth dent",
+      "Eroded"
+     ],
+     [
+      "Biopsy?",
+      "No: excise whole",
+      "Yes"
+     ]
+    ]
+   },
+   "hook": "<b>Painless + slow = leave it whole.</b> <b>Pain + bone erosion = cancer.</b>",
+   "cards": [
+    {
+     "q": "Why avoid incisional biopsy of a suspected pleomorphic adenoma?",
+     "a": "Seeding → recurrence and possible malignant change."
+    },
+    {
+     "q": "Commonest lacrimal gland carcinoma, and its special way of spreading?",
+     "a": "Adenoid cystic carcinoma: perineural spread."
+    }
+   ]
+  },
+  {
+   "id": "ch04-18",
+   "group": "Neural tumours",
+   "title": "Optic nerve glioma vs sheath meningioma",
+   "minutes": 5,
+   "tldr": "<b>Glioma</b> = child (~6 y), <b>NF1</b>, fusiform nerve. <b>Meningioma</b> = middle-aged woman, <b>NF2</b>, <b>tram-track calcification</b>, shunt vessels. Both: <b>vision drops before proptosis</b>.",
+   "points": [
+    "<b>Glioma</b>: pilocytic astrocytoma, median age <b>6.5</b>. <b>30% have NF1</b> (they do better).",
+    "Vision loss → proptosis (often pushed down/out). Disc swollen → pale. Can spread to the <b>chiasm</b>/hypothalamus.",
+    "MRI/CT: <b>fusiform</b> (spindle-shaped) nerve enlargement.",
+    "Treat: watch with serial MRI. Surgery (loses the vision in that eye) if growing toward the chiasm. Chemo/radio.",
+    "<b>Sheath meningioma</b>: middle-aged <b>women</b>. More aggressive in kids. Linked with <b>NF2</b>.",
+    "<b>Hoyt–Spencer triad</b>: slow vision loss, <b>optic atrophy</b>, <b>opticociliary shunts</b>.",
+    "CT: thickened, <b>calcified</b> sheath ('tram-track'). MRI is best.",
+    "Treat: watch, or <b>fractionated stereotactic radiotherapy</b> (saves vision). Surgery if blind or spreading into the skull.",
+    "<b>Plexiform neurofibroma</b> (NF1): 'bag of worms', S-shaped lid. <b>Isolated neurofibroma</b>: adults, easy to remove."
+   ],
+   "hook": "<b>G</b>lioma = <b>G</b>irl/boy (child), NF<b>1</b>. <b>M</b>eningioma = <b>M</b>um (middle-aged woman), NF<b>2</b>.",
+   "cards": [
+    {
+     "q": "Hoyt–Spencer triad?",
+     "a": "Progressive visual loss, optic atrophy, opticociliary shunts (optic nerve sheath meningioma)."
+    },
+    {
+     "q": "Optic nerve glioma is associated with which neurofibromatosis?",
+     "a": "NF1."
+    }
+   ]
+  },
+  {
+   "id": "ch04-19",
+   "group": "Malignant",
+   "title": "Orbital lymphoma",
+   "minutes": 3,
+   "tldr": "Older adult, <b>painless, rubbery 'salmon'</b> mass that moulds around things. Usually <b>B-cell non-Hodgkin</b>. Biopsy + <b>whole-body staging</b>.",
+   "points": [
+    "~8% of extranodal lymphomas are around the eye. <b>80% B-cell NHL</b>.",
+    "Slow, often painless. Rubbery mass, can be in the orbit, lacrimal gland, or conjunctiva.",
+    "Many 'primary' cases later show up elsewhere in the body → <b>systemic workup</b> (haematology).",
+    "MRI moulds around structures. <b>Biopsy</b> for diagnosis.",
+    "Treat: <b>radiotherapy</b> (localised), chemo (widespread), <b>rituximab</b>.",
+    "Conjunctiva-only and small lesions do best."
+   ],
+   "hook": "<b>Old + painless + rubbery = lymphoma.</b>",
+   "cards": [
+    {
+     "q": "Most orbital lymphomas are which type?",
+     "a": "Non-Hodgkin, B-cell."
+    }
+   ]
+  },
+  {
+   "id": "ch04-20",
+   "group": "Malignant",
+   "title": "Rhabdomyosarcoma",
+   "minutes": 3,
+   "tldr": "Commonest primary orbital <b>cancer in children</b> (~7 years). <b>Fast proptosis that looks like cellulitis</b> but the skin <b>isn't warm</b>.",
+   "points": [
+    "From cells that can become striated muscle. 90% under 16.",
+    "<b>Embryonal</b> (85%): good prognosis. <b>Alveolar</b>: worse (specific chromosome translocations).",
+    "Usually <b>superonasal/superior</b>. Rapid proptosis, red swollen skin, <b>not warm</b>. Diplopia more than pain.",
+    "CT/MRI: ill-defined mass, can destroy bone.",
+    "<b>Urgent biopsy</b>. Check lung and bone for spread.",
+    "Treat: chemo + radiotherapy (± debulking). Orbit-confined disease does well."
+   ],
+   "hook": "Kid with 'orbital cellulitis' that <b>isn't hot and doesn't respond</b> → think <b>rhabdo</b>.",
+   "cards": [
+    {
+     "q": "Most common primary orbital malignancy in children?",
+     "a": "Rhabdomyosarcoma."
+    },
+    {
+     "q": "Which subtype has the best prognosis?",
+     "a": "Embryonal."
+    }
+   ]
+  },
+  {
+   "id": "ch04-21",
+   "group": "Malignant",
+   "title": "Metastases & invasion from nearby",
+   "minutes": 4,
+   "tldr": "Adult orbital mets: <b>breast</b> (up to 70%), lung, prostate. <b>Scirrhous breast → enophthalmos</b>. Child: <b>neuroblastoma</b> → black eyes + proptosis.",
+   "points": [
+    "Adult primaries: <b>breast</b>, bronchus, prostate, melanoma, GI, kidney. Mostly <b>palliative radiotherapy</b> (median survival ~4 months).",
+    "Signs: proptosis, dystopia, firm orbit that resists push-back, cranial nerve palsies, or <b>enophthalmos</b> (scirrhous).",
+    "<b>Neuroblastoma</b>: abdominal (adrenal) primary in young kids. Sudden proptosis + <b>lid bruising</b> ('raccoon eyes'), can be both sides.",
+    "<b>Myeloid sarcoma</b> (chloroma): green tumour, leukaemia, age ~7.",
+    "<b>Langerhans cell histiocytosis</b>: lytic bone lesion, <b>superotemporal</b>, kids.",
+    "<b>Maxillary carcinoma</b>: pushes the eye <b>up</b>, epistaxis, facial pain. Ethmoid → lateral dystopia.",
+    "<b>Sphenoid-wing meningioma</b>, <b>fibrous dysplasia</b> (McCune–Albright if polyostotic), lid/conjunctival/intraocular cancers can also invade."
+   ],
+   "hook": "Child + <b>black eyes + proptosis</b> with no trauma → <b>neuroblastoma</b>.",
+   "cards": [
+    {
+     "q": "Commonest primary site for adult orbital metastases?",
+     "a": "Breast."
+    },
+    {
+     "q": "Upward dystopia + epistaxis + facial pain?",
+     "a": "Maxillary sinus carcinoma."
+    }
+   ]
+  },
+  {
+   "id": "ch04-22",
+   "group": "Socket & skull",
+   "title": "Enucleation, evisceration, exenteration",
+   "minutes": 4,
+   "tldr": "<b>Enucleation</b> = remove the globe (tumour). <b>Evisceration</b> = remove the contents, keep the sclera (blind painful eye, <b>never</b> with tumour). <b>Exenteration</b> = remove everything in the orbit.",
+   "points": [
+    "<b>Enucleation</b>: intraocular cancer (sent whole to the lab), severe trauma (to prevent <b>sympathetic ophthalmia</b>).",
+    "<b>Evisceration</b>: blind painful eye. Better movement (muscles left in place). <b>Not if malignancy is suspected.</b>",
+    "<b>Exenteration</b>: orbital cancer or invasion, mucormycosis. Prosthesis on glasses, glue, or magnets.",
+    "<b>Orbital implant</b> replaces volume. Porous (hydroxyapatite, polyethylene) lets tissue grow in → better movement.",
+    "<b>PESS</b> (post-enucleation socket syndrome): not enough volume → deep sulcus, ptosis, enophthalmos.",
+    "<b>Extrusion</b>: avoid by placing the implant deep with good tissue cover.",
+    "Conformer first → prosthesis mould at <b>6–8 weeks</b>.",
+    "<b>Cosmetic shell</b>: sits over a phthisical eye."
+   ],
+   "hook": "<b>E-nucleation = Eye out. E-visceration = Empty the eye. Ex-enteration = Everything out.</b>",
+   "cards": [
+    {
+     "q": "Why is evisceration contraindicated with suspected intraocular tumour?",
+     "a": "It disrupts the specimen for histology and may spread tumour."
+    },
+    {
+     "q": "Deep upper sulcus, ptosis, enophthalmos after enucleation?",
+     "a": "Post-enucleation socket syndrome (volume deficit)."
+    }
+   ]
+  },
+  {
+   "id": "ch04-23",
+   "group": "Socket & skull",
+   "title": "Craniosynostoses: Crouzon, Apert, Pfeiffer",
+   "minutes": 3,
+   "tldr": "Skull sutures close too early → <b>shallow orbits → proptosis + hypertelorism</b>. Crouzon and Apert = <b>FGFR2</b>. Apert = <b>fused fingers</b>.",
+   "points": [
+    "<b>Crouzon</b>: AD, FGFR2. Midface underdevelopment, prominent jaw, <b>proptosis</b>, hypertelorism, <b>V-pattern exotropia</b>.",
+    "Vision risks: <b>exposure keratopathy</b>, <b>optic atrophy</b> (papilloedema, sleep apnoea).",
+    "<b>Apert</b>: the most severe. Conical skull, parrot-beak nose, <b>syndactyly</b>, developmental delay. Mostly sporadic (older parents). FGFR2.",
+    "<b>Pfeiffer</b>: down-slanting fissures, <b>broad big toes and thumbs</b>. AD."
+   ],
+   "hook": "<b>Apert = Attached fingers.</b> <b>Pfeiffer = big Feet (toes).</b>",
+   "cards": [
+    {
+     "q": "Craniosynostosis with syndactyly?",
+     "a": "Apert syndrome."
+    },
+    {
+     "q": "Gene in Crouzon and Apert?",
+     "a": "FGFR2."
+    }
+   ]
+  }
+ ]
+}
