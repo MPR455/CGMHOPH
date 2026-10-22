@@ -1,0 +1,130 @@
+{
+ "id": "ch09", "num": 9, "title": "Episclera and Sclera",
+ "chunks": [
+  {
+   "id": "ch09-01", "group": "Episcleritis", "title": "Episcleritis vs scleritis: the vessel test", "minutes": 3,
+   "tldr": "<b>Episcleritis</b> = superficial vessels, mild, <b>blanches with phenylephrine 10%</b>. <b>Scleritis</b> = deep plexus, <b>purple</b>, <b>severe boring pain</b>, doesn't blanch.",
+   "points": [
+    "3 vessel layers: <b>conjunctival</b> (top, mobile), <b>superficial episcleral</b> (radial, straight), <b>deep plexus</b> (in the sclera).",
+    "Phenylephrine <b>2.5%</b> blanches conjunctival vessels. <b>10%</b> also blanches superficial episcleral vessels. <b>Deep plexus doesn't blanch</b> → scleritis.",
+    "Scleritis has a <b>purple/violaceous</b> tint best seen in <b>daylight</b>.",
+    "Episcleritis: common, benign, middle-aged women, often both eyes, lasts days to 3 weeks, recurs. Mostly idiopathic (sometimes RA, gout, Crohn, HZO, rosacea, CL).",
+    "<b>Simple</b> (75%): sectoral or diffuse redness, mild discomfort, VA normal. Peaks in 24 h.",
+    "<b>Nodular</b>: tender red nodule in the interpalpebral zone. Slit beam: <b>scleral surface flat</b> underneath (not scleritis).",
+    "Treat: nothing, cold tears, <b>weak topical steroid</b> 1–2 weeks, or oral NSAID."
+   ],
+   "hook": "<b>Episcleritis annoys. Scleritis destroys (and keeps you up at night).</b>",
+   "cards": [
+    {"q": "Which phenylephrine strength blanches superficial episcleral vessels?", "a": "10%."},
+    {"q": "How do you confirm a nodule is episcleral, not scleral?", "a": "Slit beam shows a flat, non-elevated scleral surface beneath; nodule blanches/moves."}
+   ]
+  },
+  {
+   "id": "ch09-02", "group": "Scleritis", "title": "Anterior non-necrotizing scleritis", "minutes": 4,
+   "tldr": "<b>Diffuse</b> or <b>nodular</b>. Deep pain that <b>wakes them at night</b>, radiates to the face/temple, painkillers barely help. Often linked to systemic disease.",
+   "points": [
+    "Scleritis = whole-thickness scleral inflammation. Much rarer than episcleritis. May be the <b>first sign of systemic disease</b>.",
+    "Classification: <b>anterior</b> (non-necrotizing: diffuse, nodular; necrotizing: vaso-occlusive, granulomatous, surgically induced; <b>scleromalacia perforans</b>) and <b>posterior</b>.",
+    "<b>Diffuse</b>: women, ~40s. Red → pain days later, worst <b>early morning</b>. ± chemosis, uveitis, high IOP. Afterwards: <b>grey-blue translucent</b> sclera (rearranged fibres, not thinning).",
+    "Lasts ~6 years on average, recurs at the same spot.",
+    "<b>Nodular</b>: same age. Many have had <b>HZO</b>. Deep blue-red, <b>immobile</b> nodule; slit beam shows the <b>sclera is raised</b>. Doesn't blanch with phenylephrine 10%.",
+    "&gt;10% of nodular cases progress to necrotizing."
+   ],
+   "hook": "Scleritis pain = <b>3 am toothache in the eye</b>.",
+   "cards": [
+    {"q": "Bluish-grey area after scleritis resolves: thinning?", "a": "No: increased translucency from fibre rearrangement (not true thinning)."},
+    {"q": "Previous infection common in nodular scleritis?", "a": "Herpes zoster ophthalmicus."}
+   ]
+  },
+  {
+   "id": "ch09-03", "group": "Scleritis", "title": "Necrotizing scleritis & scleromalacia perforans", "minutes": 4,
+   "tldr": "<b>Necrotizing with inflammation</b> = severe pain, white avascular patches, age ~60 → needs <b>systemic immunosuppression</b> (rituximab works well). <b>Scleromalacia perforans</b> = <b>painless</b> thinning in old women with <b>RA</b>.",
+   "points": [
+    "Necrotizing: bilateral in 60%. Severe, constant pain to temple/jaw, ruins sleep.",
+    "<b>Vaso-occlusive</b>: <b>RA</b>. Patches of oedema with <b>non-perfused (white)</b> overlying tissue → necrosis.",
+    "<b>Granulomatous</b>: <b>GPA, PAN</b>. Starts at the limbus, everything raised and swollen within 24 h.",
+    "<b>Surgically induced</b>: within ~3 weeks of surgery (squint, <b>trab with MMC</b>, <b>pterygium</b>, buckle). Starts at the wound, stays in that sector.",
+    "<b>Scleromalacia perforans</b> (5%): elderly woman, long-standing RA. <b>No pain, no redness</b>. Yellow-white necrotic plaques → thinning → <b>uvea shows through</b>. Rarely perforates.",
+    "Complications of anterior scleritis: <b>sclerosing keratitis</b>, infiltrative keratitis, <b>PUK</b>, uveitis, <b>glaucoma</b> (commonest cause of vision loss), hypotony.",
+    "Investigate: ESR/CRP, FBC, <b>RF, anti-CCP, ANA, ANCA</b>, uric acid, syphilis, Lyme, Hep B, chest X-ray, anterior segment FA/ICG, B-scan."
+   ],
+   "hook": "<b>Scleromalacia = Silent</b> melting (no pain).",
+   "cards": [
+    {"q": "Painless scleral thinning with uveal show in an elderly woman with RA?", "a": "Scleromalacia perforans."},
+    {"q": "Most common cause of eventual visual loss in scleritis?", "a": "Glaucoma."}
+   ]
+  },
+  {
+   "id": "ch09-04", "group": "Scleritis", "title": "Posterior scleritis", "minutes": 3,
+   "tldr": "Younger (&lt;40), often missed. <b>Choroidal folds, exudative RD, disc oedema</b>, pain on eye movement. <b>B-scan 'T sign'</b>.",
+   "points": [
+    "Often under 40 and healthy. Over 55 → a third have systemic disease. Both eyes in 35%.",
+    "Pain variable (worse if myositis), photophobia not prominent.",
+    "Signs: horizontal <b>choroidal folds</b>, <b>exudative RD</b> (~25%), subretinal mass (can look like a tumour), uveal effusion, <b>disc oedema</b> (treat fast!), myositis (diplopia), mild proptosis.",
+    "Anterior scleritis only present in a minority.",
+    "<b>B-scan</b>: thick sclera, fluid in Tenon space → <b>'T sign'</b> (optic nerve = stem, fluid = crossbar).",
+    "Differentials: choroidal tumour, VKH, CSR, orbital inflammation, TED, papilloedema."
+   ],
+   "hook": "<b>T sign = Tenon fluid.</b>",
+   "cards": [
+    {"q": "Characteristic B-scan sign of posterior scleritis?", "a": "'T sign': fluid in sub-Tenon space alongside the optic nerve."}
+   ]
+  },
+  {
+   "id": "ch09-05", "group": "Scleritis", "title": "Systemic links & treatment", "minutes": 4,
+   "tldr": "<b>RA</b> = commonest association. <b>GPA</b> (cANCA), <b>relapsing polychondritis</b>, <b>PAN</b> (Hep B), Crohn. Non-necrotizing → <b>oral NSAID</b>. Necrotizing → <b>systemic steroid + immunosuppressant</b>.",
+   "points": [
+    "<b>Rheumatoid arthritis</b>: commonest. Any scleritis type, more aggressive. Also dry eye, PUK.",
+    "<b>GPA (Wegener)</b>: sinuses, lungs, kidneys. <b>cANCA &gt;90%</b>. Necrotizing granulomatous scleritis, PUK, orbit, NLD.",
+    "<b>Relapsing polychondritis</b>: cartilage inflammation: <b>floppy red ears</b>, saddle nose, airway. Stubborn scleritis.",
+    "<b>Polyarteritis nodosa</b>: medium vessels, men 3:1, <b>1/3 Hep B</b>. Aggressive necrotizing scleritis.",
+    "<b>Crohn</b>: episcleritis (tracks bowel activity), uveitis, marginal keratitis.",
+    "Treat: topical steroids = symptoms only. <b>Oral NSAID</b> for non-necrotizing only (watch GI bleeding; COX-2 in elderly).",
+    "<b>Periocular steroid: NOT in necrotizing</b>.",
+    "<b>Oral pred 1–1.5 mg/kg</b> or IV methylpred for necrotizing/NSAID failure.",
+    "GPA, PAN, necrotizing RA, polychondritis → <b>immunomodulators straight away</b> (cyclophosphamide, MTX, azathioprine, MMF, ciclosporin). <b>Rituximab</b> excellent for necrotizing."
+   ],
+   "hook": "<b>Necrotizing = No needles</b> (no periocular steroid), go <b>systemic</b>.",
+   "cards": [
+    {"q": "Why avoid periocular steroid injection in necrotizing scleritis?", "a": "Risk of further scleral thinning/perforation."},
+    {"q": "Floppy inflamed ears + saddle nose + scleritis?", "a": "Relapsing polychondritis."},
+    {"q": "Biologic particularly effective for necrotizing scleritis?", "a": "Rituximab."}
+   ]
+  },
+  {
+   "id": "ch09-06", "group": "Other scleral problems", "title": "Infectious scleritis & porphyria", "minutes": 3,
+   "tldr": "Commonest infectious cause = <b>herpes zoster</b>. Also TB, leprosy, syphilis, Lyme, Pseudomonas, fungi. Think infection after <b>surgery/trauma</b> or if steroids make it worse.",
+   "points": [
+    "Looks like immune scleritis at first. Can follow surgery, trauma, endophthalmitis, or spread from corneal infection.",
+    "<b>Zoster</b>: necrotizing, very stubborn, punched-out thinning.",
+    "<b>TB</b>: nodular or necrotizing. <b>Leprosy</b>: recurs even after cure. <b>Syphilis</b>: diffuse (secondary) or nodules (tertiary). <b>Lyme</b>: years after the bite.",
+    "Treat the bug ± steroids, debride if needed.",
+    "<b>Porphyria</b> (congenital erythropoietic, variegata, cutanea tarda): porphyrins in the sclera + sun → sharply demarcated <b>interpalpebral thinning</b>. Avoid sunlight, phlebotomy."
+   ],
+   "hook": "Scleritis after <b>surgery or shingles</b>? Think <b>infection</b>.",
+   "cards": [
+    {"q": "Most common infective cause of scleritis?", "a": "Herpes zoster."}
+   ]
+  },
+  {
+   "id": "ch09-07", "group": "Other scleral problems", "title": "Scleral colours: blue, black, slate-grey", "minutes": 4,
+   "tldr": "<b>Blue</b> = thin sclera: <b>osteogenesis imperfecta</b>, <b>Ehlers–Danlos VI</b>. <b>Black</b> = <b>alkaptonuria</b> (dark urine). <b>Slate-grey patches</b> = <b>naevus of Ota</b> → watch for glaucoma and uveal melanoma.",
+   "points": [
+    "<b>Osteogenesis imperfecta</b>: type I collagen. Type I (AD): few fractures, deafness, blue sclera, megalocornea. Type IIA: multiple fractures, death in infancy.",
+    "<b>Ehlers–Danlos VI</b> (ocular-sclerotic): stretchy skin, loose joints, vascular rupture. <b>Fragile sclera</b> (ruptures with minor trauma), keratoconus, keratoglobus, ectopia lentis, myopia, RD.",
+    "<b>Alkaptonuria</b> (AR): homogentisic acid → <b>ochronosis</b>: dark sclera near the horizontal recti, <b>urine turns black</b>, arthritis.",
+    "<b>Haemochromatosis</b>: rusty-brown limbal discolouration, dry eye.",
+    "<b>Congenital melanocytosis</b>: slate-grey scleral/episcleral patches that <b>don't move</b> with the conjunctiva. Ocular only / skin only / both (<b>naevus of Ota</b>, V1/V2 skin).",
+    "Ota associations: iris hyperchromia, <b>iris mammillations</b>, fundus pigment, trabecular pigment → <b>glaucoma ~10%</b>, <b>uveal melanoma</b> (lifelong review).",
+    "<b>Idiopathic sclerochoroidal calcification</b>: elderly, yellow-white geographic fundus plaques along the arcades, very bright on ultrasound. Harmless.",
+    "<b>Scleral hyaline plaque</b> / <b>senile scleromalacia</b>: grey patches near horizontal recti insertions in the elderly. Harmless (not scleromalacia perforans)."
+   ],
+   "hook": "<b>Ota → Occasionally Turns into melanoma</b> (and glaucoma).",
+   "cards": [
+    {"q": "Dark sclera near the recti + black urine + arthritis?", "a": "Alkaptonuria (ochronosis)."},
+    {"q": "Two long-term risks in naevus of Ota?", "a": "Glaucoma and uveal melanoma."},
+    {"q": "Grey patch near the horizontal rectus insertion in an elderly patient?", "a": "Scleral hyaline plaque (innocuous)."}
+   ]
+  }
+ ]
+}

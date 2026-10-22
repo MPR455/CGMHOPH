@@ -896,7 +896,43 @@
    "num": 9,
    "title": "Episclera and Sclera",
    "file": "ch09.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "ch09-01",
+     "title": "Episcleritis vs scleritis: the vessel test",
+     "group": "Episcleritis"
+    },
+    {
+     "id": "ch09-02",
+     "title": "Anterior non-necrotizing scleritis",
+     "group": "Scleritis"
+    },
+    {
+     "id": "ch09-03",
+     "title": "Necrotizing scleritis & scleromalacia perforans",
+     "group": "Scleritis"
+    },
+    {
+     "id": "ch09-04",
+     "title": "Posterior scleritis",
+     "group": "Scleritis"
+    },
+    {
+     "id": "ch09-05",
+     "title": "Systemic links & treatment",
+     "group": "Scleritis"
+    },
+    {
+     "id": "ch09-06",
+     "title": "Infectious scleritis & porphyria",
+     "group": "Other scleral problems"
+    },
+    {
+     "id": "ch09-07",
+     "title": "Scleral colours: blue, black, slate-grey",
+     "group": "Other scleral problems"
+    }
+   ]
   },
   {
    "id": "ch10",
