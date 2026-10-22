@@ -1,0 +1,276 @@
+{
+ "book": "Kanski's Clinical Ophthalmology (9th ed.)",
+ "updated": "2026-10-22",
+ "chapters": [
+  {
+   "id": "ch01",
+   "num": 1,
+   "title": "Examination Techniques",
+   "file": "ch01.json",
+   "chunks": [
+    {
+     "id": "ch01-01",
+     "title": "Visual acuity: Snellen basics",
+     "group": "Vision tests"
+    },
+    {
+     "id": "ch01-02",
+     "title": "Very poor vision: CF, HM, PL",
+     "group": "Vision tests"
+    },
+    {
+     "id": "ch01-03",
+     "title": "LogMAR charts (the research chart)",
+     "group": "Vision tests"
+    },
+    {
+     "id": "ch01-04",
+     "title": "Near vision & contrast sensitivity",
+     "group": "Vision tests"
+    },
+    {
+     "id": "ch01-05",
+     "title": "Amsler grid",
+     "group": "Vision tests"
+    },
+    {
+     "id": "ch01-06",
+     "title": "Macula or optic nerve? Brightness & photostress",
+     "group": "Vision tests"
+    },
+    {
+     "id": "ch01-07",
+     "title": "Colour vision",
+     "group": "Vision tests"
+    },
+    {
+     "id": "ch01-08",
+     "title": "Visual field basics: the hill of vision",
+     "group": "Perimetry"
+    },
+    {
+     "id": "ch01-09",
+     "title": "Types of perimetry & test patterns",
+     "group": "Perimetry"
+    },
+    {
+     "id": "ch01-10",
+     "title": "Reading a Humphrey printout",
+     "group": "Perimetry"
+    },
+    {
+     "id": "ch01-11",
+     "title": "Early-glaucoma fields & field errors",
+     "group": "Perimetry"
+    },
+    {
+     "id": "ch01-12",
+     "title": "Slit lamp lighting tricks",
+     "group": "Slit lamp & fundus"
+    },
+    {
+     "id": "ch01-13",
+     "title": "Direct ophthalmoscope & slit-lamp fundus lenses",
+     "group": "Slit lamp & fundus"
+    },
+    {
+     "id": "ch01-14",
+     "title": "Goldmann 3-mirror lens",
+     "group": "Slit lamp & fundus"
+    },
+    {
+     "id": "ch01-15",
+     "title": "Indirect ophthalmoscopy (BIO) & fundus drawing",
+     "group": "Slit lamp & fundus"
+    },
+    {
+     "id": "ch01-16",
+     "title": "Goldmann applanation tonometry",
+     "group": "Tonometry & CCT"
+    },
+    {
+     "id": "ch01-17",
+     "title": "Why the IOP reading might be wrong",
+     "group": "Tonometry & CCT"
+    },
+    {
+     "id": "ch01-18",
+     "title": "Other tonometers & corneal hysteresis",
+     "group": "Tonometry & CCT"
+    },
+    {
+     "id": "ch01-23",
+     "title": "Central corneal thickness (CCT)",
+     "group": "Tonometry & CCT"
+    },
+    {
+     "id": "ch01-19",
+     "title": "Gonioscopy: why & how",
+     "group": "Gonioscopy"
+    },
+    {
+     "id": "ch01-20",
+     "title": "Indentation gonioscopy: apposition vs PAS",
+     "group": "Gonioscopy"
+    },
+    {
+     "id": "ch01-21",
+     "title": "Angle structures: front to back",
+     "group": "Gonioscopy"
+    },
+    {
+     "id": "ch01-22",
+     "title": "Abnormal angle findings: the lists",
+     "group": "Gonioscopy"
+    }
+   ]
+  },
+  {
+   "id": "ch02",
+   "num": 2,
+   "title": "Eyelids",
+   "file": "ch02.json",
+   "chunks": []
+  },
+  {
+   "id": "ch03",
+   "num": 3,
+   "title": "Lacrimal Drainage System",
+   "file": "ch03.json",
+   "chunks": []
+  },
+  {
+   "id": "ch04",
+   "num": 4,
+   "title": "Orbit",
+   "file": "ch04.json",
+   "chunks": []
+  },
+  {
+   "id": "ch05",
+   "num": 5,
+   "title": "Dry Eye",
+   "file": "ch05.json",
+   "chunks": []
+  },
+  {
+   "id": "ch06",
+   "num": 6,
+   "title": "Conjunctiva",
+   "file": "ch06.json",
+   "chunks": []
+  },
+  {
+   "id": "ch07",
+   "num": 7,
+   "title": "Cornea",
+   "file": "ch07.json",
+   "chunks": []
+  },
+  {
+   "id": "ch08",
+   "num": 8,
+   "title": "Corneal and Refractive Surgery",
+   "file": "ch08.json",
+   "chunks": []
+  },
+  {
+   "id": "ch09",
+   "num": 9,
+   "title": "Episclera and Sclera",
+   "file": "ch09.json",
+   "chunks": []
+  },
+  {
+   "id": "ch10",
+   "num": 10,
+   "title": "Lens",
+   "file": "ch10.json",
+   "chunks": []
+  },
+  {
+   "id": "ch11",
+   "num": 11,
+   "title": "Glaucoma",
+   "file": "ch11.json",
+   "chunks": []
+  },
+  {
+   "id": "ch12",
+   "num": 12,
+   "title": "Uveitis",
+   "file": "ch12.json",
+   "chunks": []
+  },
+  {
+   "id": "ch13",
+   "num": 13,
+   "title": "Retinal Vascular Disease",
+   "file": "ch13.json",
+   "chunks": []
+  },
+  {
+   "id": "ch14",
+   "num": 14,
+   "title": "Acquired Macular Disorders",
+   "file": "ch14.json",
+   "chunks": []
+  },
+  {
+   "id": "ch15",
+   "num": 15,
+   "title": "Hereditary Fundus Dystrophies",
+   "file": "ch15.json",
+   "chunks": []
+  },
+  {
+   "id": "ch16",
+   "num": 16,
+   "title": "Retinal Detachment",
+   "file": "ch16.json",
+   "chunks": []
+  },
+  {
+   "id": "ch17",
+   "num": 17,
+   "title": "Vitreous Opacities",
+   "file": "ch17.json",
+   "chunks": []
+  },
+  {
+   "id": "ch18",
+   "num": 18,
+   "title": "Strabismus",
+   "file": "ch18.json",
+   "chunks": []
+  },
+  {
+   "id": "ch19",
+   "num": 19,
+   "title": "Neuro-ophthalmology",
+   "file": "ch19.json",
+   "chunks": []
+  },
+  {
+   "id": "ch20",
+   "num": 20,
+   "title": "Ocular Tumours",
+   "file": "ch20.json",
+   "chunks": []
+  },
+  {
+   "id": "ch21",
+   "num": 21,
+   "title": "Ophthalmic Side Effects of Systemic Medication",
+   "file": "ch21.json",
+   "chunks": []
+  },
+  {
+   "id": "ch22",
+   "num": 22,
+   "title": "Trauma",
+   "file": "ch22.json",
+   "chunks": []
+  }
+ ]
+}

@@ -1,0 +1,637 @@
+{
+ "id": "ch01",
+ "num": 1,
+ "title": "Examination Techniques",
+ "chunks": [
+  {
+   "id": "ch01-01",
+   "group": "Vision tests",
+   "title": "Visual acuity: Snellen basics",
+   "minutes": 3,
+   "tldr": "Visual acuity = the smallest letter you can read. Normal is <b>6/6</b> (same as 20/20).",
+   "points": [
+    "<b>Snellen chart</b> = black letters on white, read from a set distance (6 m).",
+    "Test the <b>worse eye first</b>, cover the other eye, and push the patient to read every letter they can.",
+    "<b>BCVA</b> (best-corrected VA) = best they can see with the right glasses.",
+    "<b>Pinhole</b> (~1 mm hole) cancels out refractive error. If VA gets better with pinhole → it's a glasses problem.",
+    "Pinhole can make vision <b>worse</b> in macular disease or posterior lens opacity.",
+    "Using both eyes together usually beats the better eye alone."
+   ],
+   "hook": "Pinhole helps = 'just needs glasses'. Pinhole doesn't help = look for disease.",
+   "pearls": [
+    "If VA is worse than 6/6, always repeat with a pinhole."
+   ],
+   "cards": [
+    {
+     "q": "VA 6/18 improves to 6/6 with pinhole. What's the likely cause?",
+     "a": "Refractive error (needs glasses)."
+    },
+    {
+     "q": "Which eye do you test first?",
+     "a": "The eye the patient says is worse."
+    }
+   ]
+  },
+  {
+   "id": "ch01-02",
+   "group": "Vision tests",
+   "title": "Very poor vision: CF, HM, PL",
+   "minutes": 2,
+   "tldr": "If they can't read the top letter, step down: <b>CF → HM → PL → NPL</b>.",
+   "points": [
+    "<b>CF (counts fingers)</b>: can count your fingers, usually at 1 metre. Write down the distance.",
+    "<b>HM (hand movements)</b>: can tell your hand is moving just in front of them.",
+    "<b>PL (perception of light)</b>: sees light only, no shapes. Cover the other eye <b>really</b> well.",
+    "<b>Light projection</b>: can they tell which direction the light comes from? With just a dense cataract they should get it right. If they get directions wrong → think retina or optic nerve problem."
+   ],
+   "hook": "Going down the ladder: Fingers → Hand → Light. Each step needs less vision.",
+   "cards": [
+    {
+     "q": "Dense cataract, PL vision. Should light projection be accurate?",
+     "a": "Yes. Wrong projection suggests retinal or optic nerve disease behind the cataract."
+    },
+    {
+     "q": "Order the poor-vision levels from best to worst.",
+     "a": "CF → HM → PL → NPL."
+    }
+   ]
+  },
+  {
+   "id": "ch01-03",
+   "group": "Vision tests",
+   "title": "LogMAR charts (the research chart)",
+   "minutes": 4,
+   "tldr": "LogMAR is a fairer, more accurate chart. <b>6/6 = 0.00</b>, <b>6/60 = 1.00</b>. Lower score = better vision.",
+   "points": [
+    "LogMAR = log of the <b>Minimum Angle of Resolution</b>. 6/6 → MAR 1 → log = <b>0</b>.",
+    "6/12 → MAR 2 → <b>0.30</b>. 6/60 → MAR 10 → <b>1.00</b>. Better than 6/6 gives a <b>negative</b> number.",
+    "Each row has <b>5 letters</b>. Each row = 0.1, so <b>each letter = 0.02</b>. Every letter counts.",
+    "Keep going until they get half a line wrong.",
+    "<b>Bailey–Lovie</b> chart: 6 m. <b>ETDRS</b> chart: 4 m, square Sloan letters.",
+    "Better than Snellen: same number of letters on every row (equal 'crowding'), evenly spaced. Downside: takes longer."
+   ],
+   "table": {
+    "head": [
+     "Snellen",
+     "LogMAR"
+    ],
+    "rows": [
+     [
+      "6/6 (20/20)",
+      "0.00"
+     ],
+     [
+      "6/12 (20/40)",
+      "0.30"
+     ],
+     [
+      "6/60 (20/200)",
+      "1.00"
+     ]
+    ]
+   },
+   "hook": "LogMAR is like golf: <b>lower score wins</b>.",
+   "pearls": [
+    "Clinical trials use logMAR because it's the most accurate VA test."
+   ],
+   "cards": [
+    {
+     "q": "What is 6/60 in logMAR?",
+     "a": "1.00"
+    },
+    {
+     "q": "How much is one letter worth on a logMAR chart?",
+     "a": "0.02 (5 letters per 0.1 row)."
+    }
+   ]
+  },
+  {
+   "id": "ch01-04",
+   "group": "Vision tests",
+   "title": "Near vision & contrast sensitivity",
+   "minutes": 3,
+   "tldr": "Near vision is a sensitive test for macular disease. Contrast sensitivity picks up problems even when VA is still normal.",
+   "points": [
+    "<b>Near VA</b>: wear reading glasses, measure the reading distance, record smallest print for each eye, then both eyes.",
+    "<b>Contrast sensitivity</b> = seeing grey on grey, not just black on white.",
+    "Contrast can drop while VA stays normal in: <b>amblyopia, optic neuropathy, some cataracts, higher-order aberrations</b>.",
+    "Use it when the patient says 'I see badly, especially in dim light' but VA looks fine.",
+    "<b>Pelli–Robson</b> chart: viewed at <b>1 m</b>. Letters stay the same size but get fainter in groups of 3.",
+    "<b>SPARCS</b>: online grating test, works for people who can't read."
+   ],
+   "hook": "VA = 'Can you read it?'  Contrast = 'Can you see it in fog?'",
+   "cards": [
+    {
+     "q": "Pelli–Robson is viewed at what distance?",
+     "a": "1 metre."
+    },
+    {
+     "q": "Name 2 conditions where contrast drops but VA stays normal.",
+     "a": "Amblyopia, optic neuropathy (also some cataracts, higher-order aberrations)."
+    }
+   ]
+  },
+  {
+   "id": "ch01-05",
+   "group": "Vision tests",
+   "title": "Amsler grid",
+   "minutes": 4,
+   "tldr": "Amsler grid checks the <b>central 20°</b> of vision. Wavy lines → macula. Missing lines → nerve.",
+   "points": [
+    "Used to screen and monitor <b>macular disease</b>. People at risk of <b>CNV</b> (wet AMD) should use one at home.",
+    "Hold at about <b>33 cm</b>, wear reading glasses, pupils <b>not dilated</b>, do it <b>before</b> the slit lamp (bright light messes it up).",
+    "Cover one eye, stare at the central dot, and report any <b>wavy, blurry or missing</b> areas.",
+    "<b>Wavy</b> (metamorphopsia) → macular disease. <b>Faint/missing but not wavy</b> → optic neuropathy.",
+    "Missing <b>corners or edges</b> → think beyond the macula: glaucoma, retinitis pigmentosa.",
+    "There are 7 charts. <b>Chart 1</b> is standard: 5 mm squares, each = 1°. <b>Chart 3 is red</b> for toxic maculopathy and optic neuropathy. <b>Chart 4 is dots only</b>: tells a scotoma apart from distortion."
+   ],
+   "hook": "Macula makes it <b>Wavy</b>; Nerve makes it <b>Not there</b>.",
+   "pearls": [
+    "Red Amsler (chart 3) picks up colour desaturation in toxic maculopathy, optic neuropathy and chiasmal lesions."
+   ],
+   "cards": [
+    {
+     "q": "Patient sees wavy lines on Amsler. Where's the problem?",
+     "a": "Macula (metamorphopsia)."
+    },
+    {
+     "q": "Which Amsler chart has only random dots, and why?",
+     "a": "Chart 4. No lines to bend, so it tells a scotoma apart from metamorphopsia."
+    }
+   ]
+  },
+  {
+   "id": "ch01-06",
+   "group": "Vision tests",
+   "title": "Macula or optic nerve? Brightness & photostress",
+   "minutes": 3,
+   "tldr": "Two quick bedside tests: <b>brightness</b> drops in nerve disease, <b>photostress recovery</b> is slow in macular disease.",
+   "points": [
+    "<b>Light brightness comparison</b>: shine a light in the good eye, then the bad eye. In <b>optic neuropathy</b> the light looks dimmer. Patient scores it 1–5.",
+    "<b>Photostress test</b>: bleach the macula with a light ~3 cm away for ~<b>10 s</b>, then time how long until they can read the old VA line again.",
+    "Normal recovery: <b>15–30 seconds</b>.",
+    "<b>Macular disease</b> (mild CMO, CSR): slow, sometimes <b>50 s or more</b>. <b>Optic neuropathy</b>: normal.",
+    "<b>Plus lens test</b>: CSR lifts the retina → causes a temporary <b>hyperopic shift</b>. A +1.00 lens shows it."
+   ],
+   "hook": "Macula = slow to <b>recharge</b> (like a phone battery). Nerve = <b>dim cable</b>.",
+   "cards": [
+    {
+     "q": "Photostress recovery 60 s in the bad eye, 20 s in the good eye. Macula or nerve?",
+     "a": "Macula."
+    },
+    {
+     "q": "What refractive shift does CSR cause?",
+     "a": "Hypermetropic (hyperopic) shift, because the retina is lifted forward."
+    }
+   ]
+  },
+  {
+   "id": "ch01-07",
+   "group": "Vision tests",
+   "title": "Colour vision",
+   "minutes": 4,
+   "tldr": "Optic nerve disease → <b>red-green</b> defects. Macular disease → <b>blue-yellow</b> defects. Ishihara only screens red-green.",
+   "points": [
+    "Three cone types: <b>blue (tritan)</b>, <b>green (deuteran)</b>, <b>red (protan)</b>.",
+    "Weak cone = '-anomaly' (protanomaly). Missing cone = '-anopia' (protanopia).",
+    "Most congenital colour-blind people are <b>anomalous trichromats</b>: all 3 cones present, one works badly.",
+    "<b>Ishihara</b>: screens <b>congenital red-green</b> only. If they can't read the <b>test plate</b> (and VA is OK) → think <b>non-organic</b> visual loss.",
+    "<b>Hardy–Rand–Rittler</b>: like Ishihara but catches <b>all 3</b> defects (blue too).",
+    "<b>Farnsworth–Munsell 100-hue</b>: actually <b>85 caps</b>. Sensitive for congenital <b>and</b> acquired defects, but slow."
+   ],
+   "hook": "<b>R</b>ed-green = ne<b>R</b>ve. <b>B</b>lue-yellow = <b>B</b>ack of the eye (macula).",
+   "pearls": [
+    "How many caps in the '100-hue' test? 85."
+   ],
+   "cards": [
+    {
+     "q": "Patient can't read the Ishihara test plate, VA 6/6. Think?",
+     "a": "Non-organic (functional) visual loss."
+    },
+    {
+     "q": "Which colour test detects tritan (blue) defects: Ishihara or HRR?",
+     "a": "HRR (Hardy–Rand–Rittler)."
+    }
+   ]
+  },
+  {
+   "id": "ch01-08",
+   "group": "Perimetry",
+   "title": "Visual field basics: the hill of vision",
+   "minutes": 4,
+   "tldr": "The visual field is a <b>hill</b>: highest at the fovea, sloping down to the edges. A <b>scotoma</b> is a hole in it.",
+   "points": [
+    "Field size: <b>50° up, 60° nasal, 70° down, 90° temporal</b>.",
+    "Blind spot: <b>10–20° temporal</b>, a little below the horizontal.",
+    "<b>Isopter</b> = a line joining points of equal sensitivity (like contour lines on a map).",
+    "<b>Scotoma</b> = area of lost vision with seeing area around it. Relative = dimmed. Absolute = gone.",
+    "<b>Decibels (dB)</b>: higher dB = <b>more</b> sensitive (they saw a dimmer light). 10 dB = 1 log unit. Blind spot = 0 dB.",
+    "Sensitivity drops about <b>1 dB every 10 years</b> after age 20.",
+    "<b>Threshold</b> = the brightness seen <b>50%</b> of the time."
+   ],
+   "hook": "Tem-<b>po</b>-ral is the <b>bigger</b> side: 90°. Remember '50-60-70-90' going up → nasal → down → temporal.",
+   "cards": [
+    {
+     "q": "Point A = 20 dB, point B = 30 dB. Which is more sensitive?",
+     "a": "B (higher dB = more sensitive)."
+    },
+    {
+     "q": "How far does the normal field go temporally?",
+     "a": "About 90°."
+    }
+   ]
+  },
+  {
+   "id": "ch01-09",
+   "group": "Perimetry",
+   "title": "Types of perimetry & test patterns",
+   "minutes": 4,
+   "tldr": "<b>Static</b> = light stays still and gets brighter. <b>Kinetic</b> = light moves in from outside. Glaucoma uses <b>24-2</b>.",
+   "points": [
+    "<b>Static</b> (Humphrey, Octopus): fixed spot, brightness changes. Standard in clinic (SAP).",
+    "<b>Kinetic</b> (Goldmann): fixed brightness, moved in from the edge until seen. Good for peripheral fields and patients who can't manage a machine.",
+    "<b>Threshold</b> testing: finds the exact dB at each point. Used to monitor glaucoma. Uses a 'staircase': big 4 dB steps, then fine 2 dB steps.",
+    "<b>Suprathreshold</b>: just 'can you see this normal-brightness spot?' Quick, used for <b>screening</b>.",
+    "<b>SITA</b> (Humphrey) and <b>TOP</b> (Octopus) = fast algorithms, nearly as accurate.",
+    "<b>24-2</b> = routine glaucoma (24° temporal). <b>10-2</b> = central 10°, used for <b>advanced glaucoma</b> threatening fixation.",
+    "<b>Esterman</b> = binocular test for <b>driving</b>."
+   ],
+   "hook": "<b>S</b>tatic = <b>S</b>till spot. <b>K</b>inetic = <b>K</b>eeps moving.",
+   "cards": [
+    {
+     "q": "Advanced glaucoma with split fixation. Which pattern?",
+     "a": "10-2."
+    },
+    {
+     "q": "Which field test is used for driving licences?",
+     "a": "Esterman (binocular)."
+    }
+   ]
+  },
+  {
+   "id": "ch01-10",
+   "group": "Perimetry",
+   "title": "Reading a Humphrey printout",
+   "minutes": 5,
+   "tldr": "Step 1: check <b>reliability</b>. Step 2: look at <b>pattern deviation</b> for focal loss. Step 3: check <b>MD / PSD / GHT</b>.",
+   "points": [
+    "<b>Fixation losses</b>: light flashed in the blind spot and they pressed → not looking straight.",
+    "<b>False positives</b>: pressed when there was no light → 'trigger-happy'. Grey scale looks <b>too pale/white</b>.",
+    "<b>False negatives</b>: missed a bright light they saw before → tired or not paying attention. Grey scale looks like a <b>clover leaf</b>.",
+    "Cut-offs: SITA → FP/FN over <b>~15%</b> is bad. Full-threshold → fixation loss over <b>20%</b>, FP/FN over <b>33%</b>.",
+    "<b>Total deviation</b> = compared with normal people your age. <b>Pattern deviation</b> = removes overall dimming (like cataract) to show <b>focal</b> defects.",
+    "<b>MD</b> = average overall loss. <b>PSD</b> = how patchy/focal the loss is → <b>more specific for glaucoma</b>.",
+    "<b>VFI</b> = whole field as %, normal 100%. <b>GHT</b> = compares top vs bottom half, for glaucoma only.",
+    "Each grey-scale shade = 5 dB."
+   ],
+   "hook": "False <b>P</b>ositive = <b>P</b>ale. False <b>N</b>egative = clover leaf (<b>N</b>ot paying attention).",
+   "pearls": [
+    "Cataract lowers total deviation everywhere but pattern deviation can still look normal."
+   ],
+   "cards": [
+    {
+     "q": "Grey scale looks abnormally white. Which reliability index is high?",
+     "a": "False positives."
+    },
+    {
+     "q": "MD or PSD: which is more specific for glaucoma?",
+     "a": "PSD (focal loss)."
+    }
+   ]
+  },
+  {
+   "id": "ch01-11",
+   "group": "Perimetry",
+   "title": "Early-glaucoma fields & field errors",
+   "minutes": 4,
+   "tldr": "SAP only shows damage late. <b>SWAP</b> and <b>FDT</b> try to catch it earlier. Lots of simple things can fake a bad field.",
+   "points": [
+    "<b>SWAP</b>: blue light on yellow background. Catches early glaucoma, but <b>cataract ruins it</b> (yellow lens blocks blue).",
+    "<b>FDT</b> (frequency doubling): flickering grating, tests big magnocellular cells lost early in glaucoma. Humphrey Matrix version.",
+    "<b>Microperimetry</b> (MAIA): tracks the fundus while testing the central 9°. Normal ≈ 18 dB. For macular disease.",
+    "Errors that fake defects: <b>wrong date of birth</b>, no near glasses, <b>spectacle rim</b> scotoma, small pupil (<b>&lt;3 mm → dilate</b>), cataract, <b>ptosis</b> (top field lost), testing right after ophthalmoscopy."
+   ],
+   "hook": "Before you call it glaucoma, check the <b>3 P's</b>: Pupil, Ptosis, Patient details.",
+   "cards": [
+    {
+     "q": "Why isn't SWAP widely used?",
+     "a": "Cataract (yellow lens) reduces blue sensitivity, and the test is long."
+    },
+    {
+     "q": "Pupil size below which you should dilate before perimetry?",
+     "a": "Less than 3 mm."
+    }
+   ]
+  },
+  {
+   "id": "ch01-12",
+   "group": "Slit lamp & fundus",
+   "title": "Slit lamp lighting tricks",
+   "minutes": 3,
+   "tldr": "Four ways to light the cornea. Each one shows different things.",
+   "points": [
+    "<b>Direct illumination</b>: narrow beam shows a cornea cross-section and lesion <b>depth</b>. Beam height measures size.",
+    "<b>Red-free filter</b>: makes red things look black → easier to see blood vessels. <b>Cobalt blue</b> → used with fluorescein.",
+    "<b>Scleral scatter</b>: shine on the limbus, light travels inside the cornea → shows subtle <b>stromal haze</b> and infiltrates.",
+    "<b>Retroillumination</b>: bounce light off iris or fundus → shows epithelial cysts, <b>KPs</b>, small vessels.",
+    "<b>Specular reflection</b>: shows the <b>endothelium</b> → cell density, <b>guttata</b>."
+   ],
+   "hook": "Need to see endothelium/guttata? → <b>Specular</b> = 'Spec-tacular endothelium'.",
+   "cards": [
+    {
+     "q": "Which slit-lamp technique shows corneal guttata?",
+     "a": "Specular reflection."
+    },
+    {
+     "q": "Best technique for subtle stromal haze?",
+     "a": "Scleral scatter."
+    }
+   ]
+  },
+  {
+   "id": "ch01-13",
+   "group": "Slit lamp & fundus",
+   "title": "Direct ophthalmoscope & slit-lamp fundus lenses",
+   "minutes": 4,
+   "tldr": "Direct ophthalmoscope = <b>×15</b> zoom, no 3D, tiny field. Slit-lamp lenses give an <b>upside-down, flipped</b> image.",
+   "points": [
+    "Direct: right eye → your right hand, right eye. Approach from the temporal side, disc appears at ~3.5 cm.",
+    "<b>Red reflex</b>: use +15 D lens from 15–20 cm.",
+    "Hyperope → <b>plus (green)</b> lens. Myope → <b>minus (red)</b> lens.",
+    "Macula is about <b>2 disc diameters temporal</b> to the disc.",
+    "<b>60 D</b>: high zoom, posterior pole. <b>90 D</b>: wide field, small pupils (×1.3 disc correction). <b>78 D</b>: all-rounder (×1.1).",
+    "Don't use contact lenses if there's a <b>penetrating injury</b>, hyphaema, or corneal infection."
+   ],
+   "hook": "Bigger lens number = wider view, less zoom. <b>90 sees wide, 60 sees close.</b>",
+   "cards": [
+    {
+     "q": "Magnification of the direct ophthalmoscope?",
+     "a": "About ×15."
+    },
+    {
+     "q": "Which slit-lamp lens is best for small pupils: 60D or 90D?",
+     "a": "90D."
+    }
+   ]
+  },
+  {
+   "id": "ch01-14",
+   "group": "Slit lamp & fundus",
+   "title": "Goldmann 3-mirror lens",
+   "minutes": 4,
+   "tldr": "<b>Smaller mirror = further out</b> in the retina. Put the mirror <b>opposite</b> the area you want to see.",
+   "points": [
+    "<b>Centre lens</b>: posterior pole, 30°, upright view.",
+    "<b>Biggest (oblong) mirror</b>: 30° to the equator.",
+    "<b>Middle (square) mirror</b>: equator to ora serrata.",
+    "<b>Smallest (dome) mirror</b>: gonioscopy, far periphery, pars plana.",
+    "To see 12 o'clock, put the mirror at <b>6 o'clock</b>.",
+    "Vertical view = upside down but <b>not</b> flipped left-right. Horizontal view = flipped left-right.",
+    "Needs coupling gel (methylcellulose), cup no more than half full."
+   ],
+   "hook": "Mirrors get <b>smaller</b> as you go <b>further</b> out, like looking through a keyhole.",
+   "cards": [
+    {
+     "q": "Which 3-mirror part sees the ora serrata?",
+     "a": "Middle-sized square (peripheral) mirror."
+    },
+    {
+     "q": "To view 9 o'clock retina, where's the mirror?",
+     "a": "At 3 o'clock (opposite)."
+    }
+   ]
+  },
+  {
+   "id": "ch01-15",
+   "group": "Slit lamp & fundus",
+   "title": "Indirect ophthalmoscopy (BIO) & fundus drawing",
+   "minutes": 4,
+   "tldr": "BIO sees through <b>cloudier media</b> and allows <b>indentation</b>. Magnification = <b>60 ÷ lens power</b>.",
+   "points": [
+    "<b>20 D</b>: ×3, 45° field. The everyday lens.",
+    "<b>28 D</b>: ×2.27, 53°, good for small pupils. <b>40 D</b>: ×1.5, 65°, for small children.",
+    "Patient lies down, pupils dilated, both eyes open. Look at the <b>periphery first</b> so they get used to the light.",
+    "<b>Scleral indentation</b>: see retina in front of the equator. Keep the indenter <b>tangential</b>. Pushing straight in hurts and can perforate thin sclera.",
+    "Drawing colours: detached retina = <b>blue</b>, flat retina = <b>red</b>, breaks = <b>red outlined in blue</b>, lattice = <b>blue hatching</b>, pigment = black, exudate = yellow, vitreous = green."
+   ],
+   "hook": "60 ÷ 20 = 3. Lower lens power → more zoom, smaller field.",
+   "cards": [
+    {
+     "q": "Magnification of a 20D BIO lens?",
+     "a": "×3 (60 ÷ 20)."
+    },
+    {
+     "q": "In fundus drawings, what colour is detached retina?",
+     "a": "Blue."
+    }
+   ]
+  },
+  {
+   "id": "ch01-16",
+   "group": "Tonometry & CCT",
+   "title": "Goldmann applanation tonometry",
+   "minutes": 4,
+   "tldr": "Flatten a <b>3.06 mm</b> circle of cornea. Dial reading <b>× 10 = IOP</b> in mmHg.",
+   "points": [
+    "Imbert–Fick law: <b>Pressure = Force ÷ Area</b>.",
+    "At 3.06 mm, corneal stiffness and tear-film pull <b>cancel out</b>.",
+    "Anaesthetic + fluorescein, cobalt blue light at ~60°, start the dial at 1 (10 mmHg).",
+    "Two green half-circles (mires). Turn the dial until their <b>inner edges just touch</b>.",
+    "Mires should be about <b>10%</b> of the arc thick.",
+    "Clean the prism: <b>2% hypochlorite</b> kills adenovirus and HSV. Alcohol wipes <b>don't</b>."
+   ],
+   "hook": "<b>3.06 mm</b>: the 'magic circle' where all the forces balance.",
+   "cards": [
+    {
+     "q": "Dial reads 1.8. What's the IOP?",
+     "a": "18 mmHg."
+    },
+    {
+     "q": "What diameter of cornea does Goldmann flatten?",
+     "a": "3.06 mm."
+    }
+   ]
+  },
+  {
+   "id": "ch01-17",
+   "group": "Tonometry & CCT",
+   "title": "Why the IOP reading might be wrong",
+   "minutes": 4,
+   "tldr": "<b>Thick cornea → reads too high. Thin cornea → reads too low.</b> Plus lots of technique errors.",
+   "points": [
+    "<b>Too much fluorescein</b> → thick mires → reads <b>high</b>. Too little → reads <b>low</b>.",
+    "<b>Squeezing the lids, your finger pressing the globe, thyroid eye muscles</b> → falsely <b>high</b>.",
+    "<b>Thin cornea</b> (after LASIK, NTG) → falsely <b>low</b>. <b>Thick cornea</b> (ocular hypertension) → falsely <b>high</b>.",
+    "<b>Corneal oedema</b> → falsely <b>low</b> (soft, boggy cornea).",
+    "Astigmatism <b>&gt;3 D</b> → average 2 readings at 90° apart, or line up the red mark with the minus axis.",
+    "Repeated readings → slight fall (massage effect). Tight collar / holding breath → higher.",
+    "Check calibration with the calibration bar before each clinic."
+   ],
+   "hook": "Thick cornea = a thick wall, harder to push → <b>overestimates</b>.",
+   "pearls": [
+    "Post-LASIK eyes are thin and altered → IOP is underestimated."
+   ],
+   "cards": [
+    {
+     "q": "After LASIK, is GAT IOP over- or under-estimated?",
+     "a": "Underestimated."
+    },
+    {
+     "q": "Too much fluorescein makes IOP read…?",
+     "a": "Too high."
+    }
+   ]
+  },
+  {
+   "id": "ch01-18",
+   "group": "Tonometry & CCT",
+   "title": "Other tonometers & corneal hysteresis",
+   "minutes": 3,
+   "tldr": "Know which tonometer suits which patient. <b>Low corneal hysteresis = higher glaucoma progression risk.</b>",
+   "points": [
+    "<b>Air-puff</b> (pneumotonometer): no touch, no drops → community screening. Average 3 readings.",
+    "<b>Perkins</b>: handheld Goldmann → bed-bound or anaesthetised patients.",
+    "<b>Tono-Pen</b>: works on <b>scarred/oedematous corneas</b> and through a soft contact lens.",
+    "<b>iCare</b> (rebound): small probe bounces off the cornea, no drops, can be used <b>at home</b>.",
+    "<b>DCT (Pascal)</b>: less affected by corneal stiffness → closer to the true IOP.",
+    "<b>Ocular Response Analyser</b>: measures <b>corneal hysteresis</b> = how the cornea absorbs energy. Low hysteresis → more likely to progress. Also linked to how well prostaglandins lower IOP."
+   ],
+   "hook": "<b>Low</b> hysteresis = 'poor shock absorber' = <b>high</b> risk.",
+   "cards": [
+    {
+     "q": "Best tonometer for an oedematous, irregular cornea?",
+     "a": "Tono-Pen."
+    },
+    {
+     "q": "Low corneal hysteresis means?",
+     "a": "Higher risk of glaucoma progression."
+    }
+   ]
+  },
+  {
+   "id": "ch01-23",
+   "group": "Tonometry & CCT",
+   "title": "Central corneal thickness (CCT)",
+   "minutes": 2,
+   "tldr": "Normal CCT ≈ <b>540 ± 30 µm</b>. Thin cornea hides a <b>higher</b> true IOP.",
+   "points": [
+    "Measure with pachymetry or Orbscan.",
+    "<b>Thin cornea</b> → true IOP is <b>higher</b> than measured. <b>Thick</b> → true IOP is <b>lower</b>.",
+    "There's <b>no reliable correction formula</b>.",
+    "<b>NTG</b> patients tend to have thin corneas.",
+    "Always measure CCT in <b>ocular hypertension</b>: thin CCT = higher risk of turning into glaucoma.",
+    "Also a quick check of <b>endothelial function</b> (a swollen cornea gets thicker)."
+   ],
+   "hook": "Thin cornea = thin disguise: the <b>real IOP is worse</b> than it looks.",
+   "cards": [
+    {
+     "q": "OHT patient with CCT 490 µm: higher or lower risk of glaucoma?",
+     "a": "Higher."
+    },
+    {
+     "q": "Normal mean CCT?",
+     "a": "About 540 µm (±30)."
+    }
+   ]
+  },
+  {
+   "id": "ch01-19",
+   "group": "Gonioscopy",
+   "title": "Gonioscopy: why & how",
+   "minutes": 4,
+   "tldr": "You can't see the angle directly because of <b>total internal reflection</b>. A goniolens fixes that.",
+   "points": [
+    "Light from the angle bounces back at the tear–air surface (critical angle ~<b>46°</b>). The goniolens removes that surface.",
+    "<b>Indirect</b> (mirror) lenses at the slit lamp: show the angle <b>opposite</b> the mirror.",
+    "Do it in a <b>dark room</b>, with a <b>short beam that doesn't go through the pupil</b>. Light shrinks the pupil and can make a closed angle look open.",
+    "<b>Goldmann</b> lens: needs coupling gel. Pressing hard on it → angle looks <b>narrower</b>.",
+    "<b>Zeiss / Posner / Sussman</b> (4-mirror): no gel needed → used for <b>indentation</b>.",
+    "<b>Direct</b> lenses (Koeppe, Swan–Jacob): patient lying down, often under GA → congenital glaucoma surgery.",
+    "AS-OCT and UBM help but <b>don't replace</b> gonioscopy."
+   ],
+   "hook": "Gonioscopy in the <b>dark</b>: a bright light makes the angle look <b>open</b> when it isn't.",
+   "cards": [
+    {
+     "q": "Why can't you see the angle without a lens?",
+     "a": "Total internal reflection at the tear film–air interface."
+    },
+    {
+     "q": "Which goniolens is used for indentation?",
+     "a": "Zeiss / Posner / Sussman 4-mirror."
+    }
+   ]
+  },
+  {
+   "id": "ch01-20",
+   "group": "Gonioscopy",
+   "title": "Indentation gonioscopy: apposition vs PAS",
+   "minutes": 2,
+   "tldr": "Push gently on the cornea. Angle <b>opens</b> → just touching (appositional). <b>Stays shut</b> → stuck (PAS).",
+   "points": [
+    "Pressing pushes aqueous into the angle and pushes the iris back.",
+    "<b>Appositional closure</b>: iris just touching the angle → it opens.",
+    "<b>Peripheral anterior synechiae (PAS)</b>: iris stuck to the angle → stays closed.",
+    "Also helps tell a pigmented <b>Schwalbe line</b> apart from pigmented trabecular meshwork."
+   ],
+   "hook": "Touching opens, stuck stays shut.",
+   "cards": [
+    {
+     "q": "On indentation the angle stays closed. Why?",
+     "a": "PAS (synechial closure)."
+    }
+   ]
+  },
+  {
+   "id": "ch01-21",
+   "group": "Gonioscopy",
+   "title": "Angle structures: front to back",
+   "minutes": 4,
+   "tldr": "From the front: <b>Schwalbe line → trabecular meshwork → scleral spur → ciliary body</b>.",
+   "points": [
+    "<b>Schwalbe line</b>: where Descemet ends. White line. Find it with the <b>corneal wedge</b> (where the two light reflections meet). Pigment here = <b>Sampaolesi line</b> (e.g. PXF).",
+    "<b>Trabecular meshwork</b> (~600 µm): front part non-pigmented, back part pigmented = the working filter. Most pigmented <b>inferiorly</b>.",
+    "<b>Schlemm canal</b>: dark line behind the meshwork. Blood in it can be normal, or from low IOP / high episcleral venous pressure.",
+    "<b>Scleral spur</b>: white band, where the ciliary muscle attaches.",
+    "<b>Ciliary body</b>: grey-brown band. <b>Wider in myopes</b>, narrower in hyperopes.",
+    "<b>Iris processes</b> (normal, fine, about 1/3 of eyes) vs <b>PAS</b> (thick, reach further forward).",
+    "Any vessel crossing the <b>scleral spur onto the meshwork = abnormal</b>."
+   ],
+   "hook": "\"<b>S</b>ome <b>T</b>eachers <b>S</b>tudy <b>C</b>arefully\": Schwalbe, Trabeculum, Spur, Ciliary body.",
+   "cards": [
+    {
+     "q": "Most anterior angle structure?",
+     "a": "Schwalbe line."
+    },
+    {
+     "q": "A vessel crosses the scleral spur onto the TM. Normal?",
+     "a": "No, it's abnormal (think neovascularisation)."
+    }
+   ]
+  },
+  {
+   "id": "ch01-22",
+   "group": "Gonioscopy",
+   "title": "Abnormal angle findings: the lists",
+   "minutes": 4,
+   "tldr": "Five things to spot in the angle: <b>PAS, new vessels, too much pigment, trauma, blood in Schlemm</b>.",
+   "points": [
+    "<b>PAS</b>: primary angle closure, anterior uveitis, ICE syndrome.",
+    "<b>New vessels</b>: neovascular glaucoma, <b>Fuchs heterochromic cyclitis</b>, chronic anterior uveitis.",
+    "<b>Heavy pigment</b>: pigment dispersion, PXF, trauma, uveitis, after acute angle closure or YAG PI, melanoma/naevus, naevus of Ota.",
+    "<b>Trauma</b>: angle recession, trabecular dialysis, cyclodialysis, foreign body.",
+    "<b>Blood in Schlemm canal</b>: normal variant, <b>carotid-cavernous fistula</b>, <b>Sturge–Weber</b>, SVC obstruction (all raise episcleral venous pressure)."
+   ],
+   "hook": "Blood in Schlemm = <b>back-pressure</b> from the veins (CCF, Sturge–Weber, SVC).",
+   "cards": [
+    {
+     "q": "Name a uveitis with angle new vessels but usually no PAS.",
+     "a": "Fuchs heterochromic cyclitis."
+    },
+    {
+     "q": "3 causes of blood in Schlemm canal?",
+     "a": "Carotid-cavernous fistula, Sturge–Weber, SVC obstruction (or normal variant)."
+    }
+   ]
+  }
+ ]
+}

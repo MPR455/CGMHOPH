@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CGMH OPH — Daily Study</title>
+<style>
+:root{
+  --bg:#f4f6f9; --card:#ffffff; --ink:#1c2733; --sub:#5b6b7c; --line:#dde4ec;
+  --acc:#0f6bb2; --acc2:#0a4f86; --chip:#eaf2fa; --chipink:#0f5d9c;
+  --ok:#1a7f4e; --warn:#b3541e; --mono:"Consolas","Menlo","Courier New",monospace;
+  --hook:#fff8ec; --hookline:#eeddb4; --hookink:#7a5a17;
+}
+*{box-sizing:border-box}
+html{overflow-y:scroll}
+html,body{max-width:100%;overflow-x:hidden}
+body{margin:0;font-family:"Segoe UI","Noto Sans TC",system-ui,sans-serif;background:var(--bg);color:var(--ink);font-size:14px}
+header{background:var(--acc2);color:#fff;padding:5px 18px;display:flex;align-items:center;gap:16px;position:sticky;top:0;z-index:50;min-height:50px}
+nav{display:flex;gap:4px}
+nav a{background:transparent;border:none;color:#cfe3f5;padding:8px 14px;font-size:14px;cursor:pointer;border-radius:6px;text-decoration:none}
+nav a.active{background:#fff;color:var(--acc2);font-weight:600}
+nav a:hover:not(.active){background:rgba(255,255,255,.15)}
+.brand{display:flex;align-items:center;gap:10px;cursor:pointer;user-select:none}
+.logo-chip{background:#fff;border-radius:6px;padding:2px 8px;display:flex;align-items:center}
+.logo-chip img{height:30px;width:auto;display:block}
+.hdr-title{margin-left:auto;font-size:13px;color:#cfe3f5;white-space:nowrap}
+.menu-dd{position:fixed;top:50px;left:14px;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:0 12px 34px rgba(0,0,0,.28);min-width:230px;max-height:calc(100vh - 78px);overflow:auto;padding:6px;display:none;z-index:200}
+.menu-dd.open{display:block}
+.menu-item{display:block;width:100%;text-align:left;background:transparent;border:none;padding:9px 12px;font-size:14px;color:var(--ink);border-radius:7px;cursor:pointer;text-decoration:none}
+.menu-item:hover{background:var(--chip)}
+.menu-item.active{background:var(--chip);font-weight:600}
+.menu-sep{border-top:1px solid var(--line);margin:6px 4px}
+.menu-label{font-size:11.5px;color:var(--sub);padding:6px 12px 2px;text-transform:uppercase;letter-spacing:.5px}
+.theme-row{display:flex;gap:12px;padding:6px 12px 10px;align-items:center}
+.theme-dot{width:26px;height:26px;border-radius:50%;cursor:pointer;border:2px solid transparent;box-shadow:0 0 0 1px var(--line)}
+.theme-dot.sel{border-color:var(--acc);box-shadow:0 0 0 2px var(--acc)}
+main{padding:14px 18px;max-width:1200px;margin:0 auto}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:14px}
+.card h2{margin:0 0 10px;font-size:15px;color:var(--acc2)}
+button.btn{background:var(--acc);color:#fff;border:none;border-radius:6px;padding:8px 14px;font-size:13.5px;cursor:pointer;font-weight:600;font-family:inherit}
+button.btn:hover{background:var(--acc2)}
+button.btn.sec{background:#e8edf3;color:var(--ink);font-weight:500}
+button.btn.sec:hover{background:#d9e2ec}
+button.btn.sm{padding:4px 10px;font-size:12.5px;font-weight:500}
+button.btn.done{background:var(--ok)}
+.small{font-size:12px;color:var(--sub)}
+.badge{font-size:10.5px;background:#e4ecf5;color:var(--sub);border-radius:8px;padding:1px 7px;white-space:nowrap}
+
+/* layout */
+.study{display:grid;grid-template-columns:300px 1fr;gap:14px;align-items:start}
+.side{position:sticky;top:64px;max-height:calc(100vh - 80px);overflow:auto;padding:10px}
+.search{width:100%;padding:7px 9px;border:1px solid var(--line);border-radius:7px;font-size:13px;font-family:inherit;background:var(--card);color:var(--ink);margin-bottom:8px}
+.search:focus{outline:2px solid #bcd8ef;border-color:var(--acc)}
+.prog{height:8px;background:var(--chip);border-radius:6px;overflow:hidden;margin:4px 0 10px}
+.prog>div{height:100%;background:var(--ok);width:0;transition:width .3s}
+.chap{border-bottom:1px solid var(--line)}
+.chap>.chead{display:flex;align-items:center;gap:6px;padding:8px 6px;cursor:pointer;font-weight:600;font-size:13px;color:var(--acc2);border-radius:6px}
+.chap>.chead:hover{background:var(--chip)}
+.chap>.chead .car{font-size:10px;transition:transform .15s;color:var(--sub)}
+.chap.open>.chead .car{transform:rotate(90deg)}
+.chap>.chead .badge{margin-left:auto}
+.chap.soon>.chead{color:var(--sub);font-weight:500;cursor:default}
+.chap .cbody{display:none;padding:0 0 8px 8px}
+.chap.open .cbody{display:block}
+.grp{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--sub);margin:8px 6px 2px}
+.item{display:flex;gap:7px;align-items:center;padding:5px 8px;border-radius:6px;cursor:pointer;font-size:13px;line-height:1.3}
+.item:hover{background:var(--chip)}
+.item.cur{background:var(--acc);color:#fff}
+.item .tick{flex:0 0 16px;text-align:center;color:var(--ok);font-weight:700}
+.item.cur .tick{color:#fff}
+.loading{padding:8px;color:var(--sub);font-size:12.5px}
+
+/* chunk view */
+.hero{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.hero .small b{color:var(--ink)}
+.chunk h1{font-size:22px;margin:4px 0 2px;color:var(--ink);line-height:1.25}
+.crumb{font-size:12px;color:var(--sub)}
+.tldr{background:var(--chip);color:var(--chipink);border-radius:10px;padding:12px 14px;font-size:16px;font-weight:600;margin:12px 0;line-height:1.4}
+.tldr::before{content:"⚡ TL;DR  ";font-size:12px;letter-spacing:.5px;opacity:.8}
+ul.pts{list-style:none;padding:0;margin:8px 0}
+ul.pts li{padding:9px 12px 9px 36px;position:relative;font-size:15px;line-height:1.5;border-bottom:1px dashed var(--line)}
+ul.pts li:last-child{border-bottom:0}
+ul.pts li::before{content:attr(data-n);position:absolute;left:6px;top:9px;width:22px;height:22px;border-radius:50%;background:var(--acc);color:#fff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center}
+ul.pts b{color:var(--acc2)}
+.hook{background:var(--hook);border:1px solid var(--hookline);border-radius:10px;padding:10px 14px;color:var(--hookink);font-size:14.5px;margin:12px 0;line-height:1.45}
+.hook::before{content:"🧠 Memory hook: ";font-weight:700}
+.pearl{border-left:4px solid var(--warn);background:var(--card);padding:6px 12px;margin:6px 0;font-size:14px;line-height:1.45}
+.pearl::before{content:"🎯 Exam: ";font-weight:700;color:var(--warn)}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px;margin-top:8px}
+.fc{border:1px solid var(--line);border-radius:10px;padding:12px;cursor:pointer;background:var(--card);min-height:84px;font-size:14px;line-height:1.4;transition:background .15s}
+.fc:hover{background:var(--chip)}
+.fc .a{display:none;margin-top:8px;padding-top:8px;border-top:1px dashed var(--line);color:var(--ok);font-weight:600}
+.fc.flip .a{display:block}
+.fc .q::before{content:"❓ "}
+.fc .tap{font-size:11px;color:var(--sub);margin-top:6px}
+.fc.flip .tap{display:none}
+h3.sec{margin:18px 0 4px;font-size:12.5px;color:var(--sub);text-transform:uppercase;letter-spacing:.6px}
+.navrow{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px;align-items:center}
+.navrow .sp{flex:1}
+table.mini{border-collapse:collapse;width:100%;font-size:13.5px;margin:8px 0}
+table.mini th{background:#eef3f9;color:var(--acc2);text-align:left;padding:6px 9px;border:1px solid var(--line)}
+table.mini td{padding:6px 9px;border:1px solid var(--line);vertical-align:top}
+.toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);background:var(--ok);color:#fff;padding:9px 20px;border-radius:24px;font-size:13.5px;opacity:0;pointer-events:none;transition:opacity .25s;z-index:99}
+.toast.show{opacity:1}
+.welcome p{font-size:15px;line-height:1.55;margin:6px 0}
+
+/* themes (same as index) */
+body.theme-macaroon{--bg:#faf3e9;--card:#fffdf8;--ink:#3d3128;--sub:#927f6e;--line:#ecdcc7;--acc:#e0873a;--acc2:#c26a1e;--chip:#f6e7d3;--chipink:#a85f1c;--ok:#3f7d4e;--warn:#b3541e}
+body.theme-macaroon table.mini th{background:#f2e3cf}
+body.theme-dark{--bg:#0f1720;--card:#1a2632;--ink:#e6edf3;--sub:#a8bccc;--line:#2c3d4d;--acc:#4db1ea;--acc2:#7fc4f0;--chip:#243544;--chipink:#bfe0f7;--ok:#4cc38a;--warn:#e0894a;--hook:#241f12;--hookline:#4a3f22;--hookink:#ecd9a6}
+body.theme-dark header{background:#0c141d}
+body.theme-dark nav a.active{background:#fff;color:#0c3350}
+body.theme-dark button.btn.sec{background:#243544;color:var(--ink)}
+body.theme-dark button.btn.sec:hover{background:#2d4152}
+body.theme-dark table.mini th{background:#20303d}
+body.theme-dark .badge{background:#243544}
+body.theme-black{--bg:#000000;--card:#0b0b0b;--ink:#ffffff;--sub:#cfcfcf;--line:#333333;--acc:#ffd21f;--acc2:#ffd21f;--chip:#1a1a1a;--chipink:#ffd21f;--ok:#8ce0a8;--warn:#ffb000;--hook:#161200;--hookline:#5a4a00;--hookink:#ffe98a}
+body.theme-black header{background:#000;border-bottom:1px solid #333}
+body.theme-black nav a.active{background:#ffd21f;color:#000}
+body.theme-black button.btn{color:#000}
+body.theme-black button.btn.sec{background:#1a1a1a;color:#ffd21f}
+body.theme-black ul.pts li::before{color:#000}
+body.theme-black .item.cur{color:#000}
+body.theme-black .item.cur .tick{color:#000}
+body.theme-black table.mini th{background:#161600}
+body.theme-black .badge{background:#1a1a1a}
+
+@media(max-width:860px){
+  header{padding:7px 10px;gap:9px;min-height:54px}
+  header nav{display:none}
+  .logo-chip img{height:26px;max-width:112px}
+  main{padding:12px 10px}
+  .study{grid-template-columns:1fr}
+  .side{position:static;max-height:none}
+  .side.collapsed .tree{display:none}
+  .chunk h1{font-size:19px}
+  ul.pts li{font-size:14.5px}
+}
+@media(min-width:861px){ #toggle-side{display:none} }
+</style>
+</head>
+<body>
+<header>
+  <div id="menu-wrap" style="position:relative">
+    <div class="brand" onclick="toggleMenu(event)" title="Menu">
+      <span class="logo-chip"><img src="logo.svg" alt="CGMH Ophthalmology"></span>
+    </div>
+  </div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="mindmaps.html">Mind Maps</a>
+    <a href="daily_study.html" class="active">Daily Study</a>
+  </nav>
+  <span class="hdr-title">📖 Kanski, one bite at a time</span>
+</header>
+<div id="menu-dd" class="menu-dd"></div>
+
+<main>
+  <div class="study">
+    <aside class="card side" id="side">
+      <div style="display:flex;align-items:center;gap:8px">
+        <h2 style="margin:0">Topics</h2>
+        <button class="btn sec sm" id="toggle-side" style="margin-left:auto" onclick="document.getElementById('side').classList.toggle('collapsed')">Show / hide</button>
+      </div>
+      <div class="small" id="prog-txt" style="margin-top:6px">Loading…</div>
+      <div class="prog"><div id="prog-bar"></div></div>
+      <div class="tree">
+        <input class="search" id="search" placeholder="Filter loaded topics…" oninput="filterTree()">
+        <div id="tree"></div>
+      </div>
+    </aside>
+    <section id="view"></section>
+  </div>
+</main>
+<div class="toast" id="toast"></div>
+
+<script>
+var DATA_DIR = "daily_study/";
+var IDX = null;            // daily_study/index.json
+var CHAPTERS = {};         // id -> loaded chapter JSON (lazy)
+var LOADING = {};
+var CUR = null;            // {chap, i}
+var DONE = {};
+try{ DONE = JSON.parse(localStorage.getItem("cgmh_daily_done")) || {}; }catch(e){ DONE = {}; }
+function saveDone(){ try{ localStorage.setItem("cgmh_daily_done", JSON.stringify(DONE)); }catch(e){} }
+
+function esc(s){ return String(s).replace(/[&<>"]/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
+function toast(t){ var el=document.getElementById("toast"); el.textContent=t; el.classList.add("show"); setTimeout(function(){ el.classList.remove("show"); }, 1600); }
+
+function loadIndex(){
+  fetch(DATA_DIR+"index.json", {cache:"no-cache"}).then(function(r){ return r.json(); }).then(function(j){
+    IDX = j; renderTree(); updateProgress();
+    var h = location.hash.replace("#","");
+    if(h){ openChunkById(h); } else { renderWelcome(); }
+  }).catch(function(){
+    document.getElementById("tree").innerHTML='<div class="loading">Could not load topic list. (If opened as a local file, use a local server or the GitHub Pages site.)</div>';
+  });
+}
+
+// Lazy-load one chapter's notes only when needed.
+function loadChapter(id){
+  if(CHAPTERS[id]) return Promise.resolve(CHAPTERS[id]);
+  if(LOADING[id]) return LOADING[id];
+  var meta = IDX.chapters.find(function(c){ return c.id===id; });
+  LOADING[id] = fetch(DATA_DIR+meta.file, {cache:"no-cache"}).then(function(r){ return r.json(); }).then(function(j){
+    CHAPTERS[id]=j; delete LOADING[id]; return j;
+  });
+  return LOADING[id];
+}
+
+function renderTree(){
+  var h="";
+  IDX.chapters.forEach(function(c){
+    var ready = c.chunks && c.chunks.length;
+    var done = ready ? c.chunks.filter(function(k){ return DONE[k.id]; }).length : 0;
+    h+='<div class="chap'+(ready?'':' soon')+'" id="chap-'+c.id+'">'
+      +'<div class="chead" onclick="'+(ready?'toggleChap(\''+c.id+'\')':'')+'"><span class="car">'+(ready?'▶':'·')+'</span>'
+      +'<span>'+c.num+'. '+esc(c.title)+'</span>'
+      +'<span class="badge">'+(ready? done+'/'+c.chunks.length : 'coming soon')+'</span></div>'
+      +'<div class="cbody" id="cbody-'+c.id+'"></div></div>';
+  });
+  document.getElementById("tree").innerHTML=h;
+}
+
+function toggleChap(id, forceOpen){
+  var el=document.getElementById("chap-"+id);
+  var open = forceOpen || !el.classList.contains("open");
+  el.classList.toggle("open", open);
+  if(open) renderChapItems(id);
+}
+
+function renderChapItems(id){
+  var meta = IDX.chapters.find(function(c){ return c.id===id; });
+  var body=document.getElementById("cbody-"+id);
+  var h="", lastG=null;
+  meta.chunks.forEach(function(k, i){
+    if(k.group && k.group!==lastG){ h+='<div class="grp">'+esc(k.group)+'</div>'; lastG=k.group; }
+    var cur = CUR && CUR.chap===id && CUR.i===i;
+    h+='<div class="item'+(cur?' cur':'')+'" data-t="'+esc((k.title+' '+(k.group||'')).toLowerCase())+'" onclick="openChunk(\''+id+'\','+i+')">'
+      +'<span class="tick">'+(DONE[k.id]?'✓':'')+'</span><span>'+esc(k.title)+'</span></div>';
+  });
+  body.innerHTML=h;
+}
+
+function filterTree(){
+  var q=document.getElementById("search").value.trim().toLowerCase();
+  if(q){ IDX.chapters.forEach(function(c){ if(c.chunks&&c.chunks.length) toggleChap(c.id, true); }); }
+  document.querySelectorAll("#tree .item").forEach(function(it){ it.style.display = (!q || it.dataset.t.indexOf(q)>=0) ? "" : "none"; });
+}
+
+function allChunks(){
+  var out=[]; IDX.chapters.forEach(function(c){ (c.chunks||[]).forEach(function(k,i){ out.push({chap:c.id,i:i,id:k.id}); }); }); return out;
+}
+function updateProgress(){
+  var all=allChunks(), d=all.filter(function(x){ return DONE[x.id]; }).length;
+  var ready=IDX.chapters.filter(function(c){ return c.chunks&&c.chunks.length; }).length;
+  document.getElementById("prog-txt").innerHTML = '<b>'+d+'</b> / '+all.length+' bites done · '+ready+'/'+IDX.chapters.length+' chapters written';
+  document.getElementById("prog-bar").style.width = all.length ? (100*d/all.length)+"%" : "0";
+}
+function nextUndone(){ return allChunks().find(function(x){ return !DONE[x.id]; }); }
+
+function renderWelcome(){
+  var n=nextUndone();
+  document.getElementById("view").innerHTML =
+   '<div class="card welcome"><h2>Daily Study — Kanski, dumbed down</h2>'
+   +'<p>Each <b>bite</b> takes about <b>3–5 minutes</b>: one TL;DR line, a few numbered points, a memory hook, and flip cards to test yourself.</p>'
+   +'<p>Do a few bites, tick them off, take a break. Your progress is saved in this browser.</p>'
+   +'<div class="navrow">'+(n?'<button class="btn" onclick="openChunk(\''+n.chap+'\','+n.i+')">▶ Start next bite</button>':'<span class="small">All bites done 🎉</span>')
+   +'<button class="btn sec" onclick="randomBite()">🎲 Random bite</button></div>'
+   +'<p class="small" style="margin-top:14px">Source: '+esc(IDX.book)+'. Simplified study notes — always check the book for the details. Last updated '+esc(IDX.updated)+'.</p></div>';
+}
+function randomBite(){ var a=allChunks(); if(!a.length) return; var x=a[Math.floor(Math.random()*a.length)]; openChunk(x.chap,x.i); }
+
+function openChunkById(cid){
+  var x=allChunks().find(function(k){ return k.id===cid; });
+  if(x) openChunk(x.chap,x.i); else renderWelcome();
+}
+
+function openChunk(id, i){
+  document.getElementById("view").innerHTML='<div class="card loading">Loading…</div>';
+  loadChapter(id).then(function(ch){
+    CUR={chap:id,i:i};
+    var k=ch.chunks[i], meta=IDX.chapters.find(function(c){ return c.id===id; });
+    history.replaceState(null,"","#"+k.id);
+    var h='<div class="card chunk">'
+      +'<div class="hero"><div class="crumb">Ch '+meta.num+' · '+esc(meta.title)+(k.group?' › '+esc(k.group):'')+'</div>'
+      +'<span class="badge">⏱ ~'+(k.minutes||3)+' min · bite '+(i+1)+'/'+ch.chunks.length+'</span></div>'
+      +'<h1>'+esc(k.title)+'</h1>'
+      +'<div class="tldr">'+k.tldr+'</div>'
+      +'<ul class="pts">'+k.points.map(function(p,n){ return '<li data-n="'+(n+1)+'">'+p+'</li>'; }).join("")+'</ul>'
+      +(k.table?renderTable(k.table):'')
+      +(k.hook?'<div class="hook">'+k.hook+'</div>':'')
+      +((k.pearls&&k.pearls.length)?'<h3 class="sec">Exam pearls</h3>'+k.pearls.map(function(p){ return '<div class="pearl">'+p+'</div>'; }).join(""):'')
+      +((k.cards&&k.cards.length)?'<h3 class="sec">Quick check — tap to flip</h3><div class="cards">'+k.cards.map(function(c){ return '<div class="fc" onclick="this.classList.toggle(\'flip\')"><div class="q">'+c.q+'</div><div class="a">'+c.a+'</div><div class="tap">tap to reveal</div></div>'; }).join("")+'</div>':'')
+      +'<div class="navrow">'
+      +'<button class="btn sec" onclick="step(-1)">← Prev</button>'
+      +'<button class="btn '+(DONE[k.id]?'done':'')+'" id="donebtn" onclick="toggleDone()">'+(DONE[k.id]?'✓ Done':'Mark done')+'</button>'
+      +'<button class="btn sec" onclick="step(1)">Next →</button><span class="sp"></span>'
+      +'<button class="btn sec sm" onclick="renderWelcome()">Home</button></div></div>';
+    document.getElementById("view").innerHTML=h;
+    toggleChap(id, true);
+    window.scrollTo({top:0,behavior:"smooth"});
+    if(window.innerWidth<=860) document.getElementById("side").classList.add("collapsed");
+  }).catch(function(){ document.getElementById("view").innerHTML='<div class="card">Could not load this chapter.</div>'; });
+}
+function renderTable(t){
+  return '<table class="mini"><tr>'+t.head.map(function(c){ return '<th>'+c+'</th>'; }).join("")+'</tr>'
+    +t.rows.map(function(r){ return '<tr>'+r.map(function(c){ return '<td>'+c+'</td>'; }).join("")+'</tr>'; }).join("")+'</table>';
+}
+function step(d){
+  var a=allChunks(), idx=a.findIndex(function(x){ return x.chap===CUR.chap && x.i===CUR.i; });
+  var n=a[idx+d]; if(n) openChunk(n.chap,n.i); else toast(d>0?"That's the last bite so far 🎉":"This is the first bite");
+}
+function toggleDone(){
+  var meta=IDX.chapters.find(function(c){ return c.id===CUR.chap; }), k=meta.chunks[CUR.i];
+  if(DONE[k.id]) delete DONE[k.id]; else { DONE[k.id]=1; toast("Nice! +1 bite 🧠"); }
+  saveDone(); updateProgress(); renderTree(); toggleChap(CUR.chap,true);
+  var b=document.getElementById("donebtn"); b.classList.toggle("done",!!DONE[k.id]); b.textContent=DONE[k.id]?"✓ Done":"Mark done";
+  if(DONE[k.id]) setTimeout(function(){ step(1); }, 700);
+}
+
+/* menu + themes (same behaviour as index) */
+function toggleMenu(e){ if(e) e.stopPropagation(); document.getElementById("menu-dd").classList.toggle("open"); }
+function closeMenu(){ var m=document.getElementById("menu-dd"); if(m) m.classList.remove("open"); }
+function buildMenu(){
+  var dd=document.getElementById("menu-dd");
+  var h='<a class="menu-item" href="index.html">🏠 Home</a><a class="menu-item" href="mindmaps.html">🧭 Mind Maps</a><a class="menu-item active" href="daily_study.html">📖 Daily Study</a>';
+  h+='<div class="menu-sep"></div><div class="menu-label">Color theme</div><div class="theme-row">'
+   +'<div class="theme-dot" title="Default" data-theme="default" style="background:#0f6bb2" onclick="setTheme(\'default\')"></div>'
+   +'<div class="theme-dot" title="Macaroon" data-theme="macaroon" style="background:#e0873a" onclick="setTheme(\'macaroon\')"></div>'
+   +'<div class="theme-dot" title="Dark" data-theme="dark" style="background:#1a2632" onclick="setTheme(\'dark\')"></div>'
+   +'<div class="theme-dot" title="Black / high-contrast" data-theme="black" style="background:#000" onclick="setTheme(\'black\')"></div>'
+   +'</div>';
+  dd.innerHTML=h; markThemeDot();
+}
+function setTheme(t){
+  document.body.classList.remove("theme-macaroon","theme-dark","theme-black");
+  if(t==="macaroon"||t==="dark"||t==="black") document.body.classList.add("theme-"+t);
+  try{ localStorage.setItem("cgmh_theme", t); }catch(e){}
+  markThemeDot();
+}
+function markThemeDot(){
+  var cur="default"; if(document.body.classList.contains("theme-macaroon"))cur="macaroon"; else if(document.body.classList.contains("theme-dark"))cur="dark"; else if(document.body.classList.contains("theme-black"))cur="black";
+  document.querySelectorAll("#menu-dd .theme-dot").forEach(function(d){ d.classList.toggle("sel", d.dataset.theme===cur); });
+}
+document.addEventListener("click", function(e){ if(!e.target.closest("#menu-wrap") && !e.target.closest("#menu-dd")) closeMenu(); });
+document.addEventListener("keydown", function(e){
+  if(!CUR || e.target.tagName==="INPUT") return;
+  if(e.key==="ArrowRight") step(1); else if(e.key==="ArrowLeft") step(-1);
+});
+
+(function(){ var t="default"; try{ t=localStorage.getItem("cgmh_theme")||"default"; }catch(e){} buildMenu(); setTheme(t); loadIndex(); })();
+</script>
+</body>
+</html>
