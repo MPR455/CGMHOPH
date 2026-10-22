@@ -1,0 +1,107 @@
+{
+ "id": "ch21", "num": 21, "title": "Ophthalmic Side Effects of Systemic Medication",
+ "chunks": [
+  {
+   "id": "ch21-01", "group": "Front of eye", "title": "Lids, cornea & lens deposits", "minutes": 4,
+   "tldr": "<b>Vortex keratopathy</b>: <b>amiodarone</b> (nearly all, harmless), antimalarials, <b>Fabry</b>. <b>Chlorpromazine</b>: brown deep corneal + <b>anterior lens capsule stellate</b> deposits. <b>Gold</b>: purple glitter (chrysiasis). <b>Silver</b>: grey Descemet (argyrosis). <b>Steroids</b>: <b>PSC cataract</b>.",
+   "points": [
+    "EGFR inhibitors: <b>trichomegaly</b>, blepharitis. Imatinib: periorbital oedema. <b>Ipilimumab</b>: thyroid-eye-like orbitopathy.",
+    "Vortex: horizontal line → cat whiskers → whorl below pupil; spares limbus.",
+    "Amiodarone vision loss mild (~5%); not a reason to stop; also anterior subcapsular deposits + optic neuropathy.",
+    "Antimalarial keratopathy unrelated to dose (unlike retinopathy).",
+    "Gold &gt;1500 mg → corneal deposits; harmless.",
+    "Amantadine: white punctate opacities + oedema; reversible.",
+    "Allopurinol: ↑ cataract risk in elderly."
+   ],
+   "hook": "<b>Whorls: 'FACT'</b> — Fabry, Amiodarone, Chloroquine, Tamoxifen (and indomethacin).",
+   "cards": [
+    {"q": "Most common drug cause of vortex keratopathy?", "a": "Amiodarone."},
+    {"q": "Typical cataract from steroids?", "a": "Posterior subcapsular."}
+   ]
+  },
+  {
+   "id": "ch21-02", "group": "Front of eye", "title": "Topiramate effusion & drug uveitis", "minutes": 3,
+   "tldr": "<b>Topiramate</b> (and other <b>sulfonamides</b>, acetazolamide, bupropion): <b>ciliochoroidal effusion</b> → <b>myopic shift + bilateral angle closure</b> within a month. <b>Stop drug</b>, lower IOP (cycloplegia; <b>no PI, no pilocarpine</b>). Uveitis: <b>rifabutin</b> (hypopyon), <b>cidofovir</b>, <b>bisphosphonates</b> (± scleritis), <b>moxifloxacin (BAIT)</b>, TNF inhibitors.",
+   "points": [
+    "Topiramate angle closure is not pupil block → PI doesn't help.",
+    "Rifabutin uveitis ↑ with clarithromycin, fluconazole (enzyme inhibitors); mimics endophthalmitis.",
+    "Cidofovir: fibrinous AAU, low IOP; topical steroid.",
+    "Bisphosphonates: within 2 days (sooner IV).",
+    "Sulfonamides: SJS.",
+    "TNF inhibitors paradoxically cause uveitis/sarcoid."
+   ],
+   "hook": "<b>Bilateral angle closure + new myopia + migraine pill = topiramate.</b>",
+   "cards": [
+    {"q": "Mechanism of topiramate-induced angle closure?", "a": "Ciliochoroidal effusion rotating the lens–iris diaphragm forward (non-pupil block)."},
+    {"q": "Antimycobacterial causing hypopyon uveitis?", "a": "Rifabutin."}
+   ]
+  },
+  {
+   "id": "ch21-03", "group": "Retina", "title": "Hydroxychloroquine retinopathy", "minutes": 4,
+   "tldr": "Keep dose <b>≤5 mg/kg real weight/day</b>. Risk 7.5% after 5 yrs; 20–50% after 20 yrs. Earliest sign: <b>parafoveal outer retinal loss on SD-OCT</b> (Asians: more peripheral) → <b>'flying saucer'</b> → bull's-eye. Screen: baseline, then <b>annually after 5 yrs</b> (OCT + 10-2 fields ± mfERG/FAF).",
+   "points": [
+    "Binds melanin (RPE, choroid); damage can progress after stopping.",
+    "Risks: <b>renal impairment</b>, <b>tamoxifen</b>, high dose, long duration, pre-existing maculopathy.",
+    "Chloroquine more toxic (risk &gt;300 g cumulative).",
+    "Inferotemporal macula affected first.",
+    "Ishihara is insensitive.",
+    "Stop drug (with rheumatologist) if toxicity suspected."
+   ],
+   "hook": "<b>HCQ: 5 mg/kg, screen after 5 yrs.</b>",
+   "cards": [
+    {"q": "Maximum recommended hydroxychloroquine dose?", "a": "5 mg/kg actual body weight per day."},
+    {"q": "Earliest sensitive sign of HCQ toxicity?", "a": "Parafoveal outer retinal (ellipsoid zone) loss on SD-OCT."}
+   ]
+  },
+  {
+   "id": "ch21-04", "group": "Retina", "title": "Phenothiazines, digoxin & crystals", "minutes": 3,
+   "tldr": "<b>Thioridazine</b> &gt;800 mg/day → salt-and-pepper → RPE/choriocapillaris loss. <b>Digoxin</b>: <b>yellow vision (xanthopsia)</b>. <b>Crystalline maculopathy</b>: <b>tamoxifen</b> (inner retinal crystals, foveal cysts), <b>canthaxanthine</b> (tanning pills; doughnut), <b>methoxyflurane</b> (oxalate), nitrofurantoin.",
+   "points": [
+    "Chlorpromazine retinopathy only with huge doses.",
+    "Digoxin: also blue/green tints; ERG b-wave delayed.",
+    "Non-drug crystals: hyperoxaluria, Bietti, cystinosis, Sjögren–Larsson, gyrate atrophy, MacTel, talc emboli, West African crystalline maculopathy (kola nuts)."
+   ],
+   "hook": "<b>Digoxin = Daffodil (yellow) vision.</b>",
+   "cards": [
+    {"q": "Drug that causes xanthopsia?", "a": "Digoxin (digitalis)."},
+    {"q": "Drug causing doughnut-shaped glistening macular crystals in tanning pill users?", "a": "Canthaxanthine."}
+   ]
+  },
+  {
+   "id": "ch21-05", "group": "Retina", "title": "Other retinotoxic drugs", "minutes": 2,
+   "tldr": "<b>Interferon α</b>: cotton wool spots + haemorrhages (usually reversible). <b>Desferrioxamine</b>: rapid loss, macular greying → mottled pigment, abnormal ERG. <b>Nicotinic acid</b> &gt;1.5 g: CMO <b>without leakage</b>. <b>Poppers (alkyl nitrites)</b>: yellow foveal spot, ellipsoid defect.",
+   "points": [
+    "Interferon: also CMO, RVO, disc oedema, muscle palsy.",
+    "Niacin maculopathy resolves on stopping.",
+    "Poppers: young, bilateral, photopsia; may recover."
+   ],
+   "hook": "<b>CMO that doesn't leak: niacin, XLRS, taxanes, Goldmann–Favre.</b>",
+   "cards": [{"q": "Drug causing CMO without fluorescein leakage?", "a": "Nicotinic acid (niacin)."}]
+  },
+  {
+   "id": "ch21-06", "group": "Optic nerve & brain", "title": "Ethambutol & amiodarone neuropathy", "minutes": 4,
+   "tldr": "<b>Ethambutol</b>: keep <b>≤15 mg/kg/day</b> (&lt;1% risk; 18% at &gt;35); onset <b>3–6 months</b>; bilateral central loss, <b>red–green</b> (early blue–yellow) defects, contrast loss → <b>stop</b> (usually recovers). Worse with renal disease, isoniazid. <b>Amiodarone</b> neuropathy: 1–2%, often <b>bilateral, slow, prolonged disc swelling</b> vs NAION.",
+   "points": [
+    "Ethambutol screening: baseline VA + colour; repeat 6-monthly; report any symptoms.",
+    "Amiodarone: ~6–9 months after start; ⅓ asymptomatic; 20% end &lt;6/60.",
+    "Amiodarone vs NAION clues: no crowded disc, insidious, bilateral, swelling lasting months, other amiodarone toxicity.",
+    "Discuss stopping amiodarone with cardiologist."
+   ],
+   "hook": "<b>Ethambutol: 15 is the limit, 3–6 months is the danger zone.</b>",
+   "cards": [
+    {"q": "Safe daily dose of ethambutol?", "a": "≤15 mg/kg/day."},
+    {"q": "Features favouring amiodarone neuropathy over NAION?", "a": "Insidious onset, bilateral involvement, prolonged disc swelling, no crowded disc."}
+   ]
+  },
+  {
+   "id": "ch21-07", "group": "Optic nerve & brain", "title": "Vigabatrin, methotrexate & bevacizumab", "minutes": 2,
+   "tldr": "<b>Vigabatrin</b>: <b>bilateral concentric/binasal field loss</b>, common if cumulative &gt;3 kg; <b>irreversible</b>; baseline + <b>3-monthly fields/OCT</b>; max 3 g/day. <b>Methotrexate</b>: rare optic neuropathy (folate). <b>Bevacizumab (systemic)</b>: rare cortical blindness.",
+   "points": [
+    "Vigabatrin: males higher risk; avoid with other retinotoxic drugs; OCT RNFL thinning may precede field loss.",
+    "Methotrexate: check folate, supplement B12/folate."
+   ],
+   "hook": "<b>Vigabatrin = visual field 'vice' squeezes from the sides.</b>",
+   "cards": [{"q": "Characteristic field defect from vigabatrin?", "a": "Bilateral concentric (binasal-predominant) constriction."}]
+  }
+ ]
+}

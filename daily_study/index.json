@@ -2472,14 +2472,126 @@
    "num": 21,
    "title": "Ophthalmic Side Effects of Systemic Medication",
    "file": "ch21.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "ch21-01",
+     "title": "Lids, cornea & lens deposits",
+     "group": "Front of eye"
+    },
+    {
+     "id": "ch21-02",
+     "title": "Topiramate effusion & drug uveitis",
+     "group": "Front of eye"
+    },
+    {
+     "id": "ch21-03",
+     "title": "Hydroxychloroquine retinopathy",
+     "group": "Retina"
+    },
+    {
+     "id": "ch21-04",
+     "title": "Phenothiazines, digoxin & crystals",
+     "group": "Retina"
+    },
+    {
+     "id": "ch21-05",
+     "title": "Other retinotoxic drugs",
+     "group": "Retina"
+    },
+    {
+     "id": "ch21-06",
+     "title": "Ethambutol & amiodarone neuropathy",
+     "group": "Optic nerve & brain"
+    },
+    {
+     "id": "ch21-07",
+     "title": "Vigabatrin, methotrexate & bevacizumab",
+     "group": "Optic nerve & brain"
+    }
+   ]
   },
   {
    "id": "ch22",
    "num": 22,
    "title": "Trauma",
    "file": "ch22.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "ch22-01",
+     "title": "Black eye & lid lacerations",
+     "group": "Lids & orbit"
+    },
+    {
+     "id": "ch22-02",
+     "title": "Orbital floor blow-out fracture",
+     "group": "Lids & orbit"
+    },
+    {
+     "id": "ch22-03",
+     "title": "Other orbital fractures & retrobulbar haemorrhage",
+     "group": "Lids & orbit"
+    },
+    {
+     "id": "ch22-04",
+     "title": "Terminology & imaging",
+     "group": "Globe"
+    },
+    {
+     "id": "ch22-05",
+     "title": "Blunt trauma: front of eye",
+     "group": "Globe"
+    },
+    {
+     "id": "ch22-06",
+     "title": "Globe rupture",
+     "group": "Globe"
+    },
+    {
+     "id": "ch22-07",
+     "title": "Blunt trauma: back of eye",
+     "group": "Globe"
+    },
+    {
+     "id": "ch22-08",
+     "title": "Traumatic optic neuropathy & avulsion",
+     "group": "Globe"
+    },
+    {
+     "id": "ch22-09",
+     "title": "Abusive head trauma (shaken baby)",
+     "group": "Globe"
+    },
+    {
+     "id": "ch22-10",
+     "title": "Penetrating injury repair",
+     "group": "Penetrating"
+    },
+    {
+     "id": "ch22-11",
+     "title": "Superficial foreign bodies",
+     "group": "Penetrating"
+    },
+    {
+     "id": "ch22-12",
+     "title": "IOFB, siderosis & chalcosis",
+     "group": "Penetrating"
+    },
+    {
+     "id": "ch22-13",
+     "title": "Post-traumatic endophthalmitis",
+     "group": "Penetrating"
+    },
+    {
+     "id": "ch22-14",
+     "title": "Chemical injury: emergency",
+     "group": "Chemical"
+    },
+    {
+     "id": "ch22-15",
+     "title": "Chemical injury: grading & treatment",
+     "group": "Chemical"
+    }
+   ]
   }
  ]
 }

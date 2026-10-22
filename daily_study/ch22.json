@@ -1,0 +1,215 @@
+{
+ "id": "ch22", "num": 22, "title": "Trauma",
+ "chunks": [
+  {
+   "id": "ch22-01", "group": "Lids & orbit", "title": "Black eye & lid lacerations", "minutes": 4,
+   "tldr": "Black eye: rule out <b>globe injury</b>, <b>roof fracture</b> (subconj haemorrhage with <b>no posterior limit</b>), <b>basal skull fracture</b> ('panda eyes'). Lid margin: <b>align with vertical mattress at grey line/meibomian line</b> → no notch. <b>Canalicular</b> tear → repair within 24 h with stent (3–6 m). Check <b>tetanus</b>.",
+   "points": [
+    "Open swollen lids gently; no pressure on globe until integrity confirmed; CT if needed.",
+    "Superficial: 6-0 silk/nylon, out at 5–6 days.",
+    "Margin: 5-0 silk vertical mattress 2 mm from edge, tarsus 5-0 absorbable, tie margin so it puckers, skin 6-0/7-0; keep knots away from cornea.",
+    "Mild loss → lateral cantholysis; big loss → reconstruction.",
+    "Canaliculus: Crawford (bicanalicular) or Mini Monoka.",
+    "Tetanus: unimmunised → 250 U immunoglobulin IM; booster if &gt;10 yrs.",
+    "Suspected FB in lid → CT; orbital cellulitis risk."
+   ],
+   "hook": "<b>Panda eyes = base of skull.</b> Subconj blood with no back edge = roof.",
+   "cards": [
+    {"q": "What does a subconjunctival haemorrhage with no visible posterior limit suggest after trauma?", "a": "Orbital roof (or other orbital wall) fracture."},
+    {"q": "Time frame for canalicular laceration repair?", "a": "Within 24 hours (stent left 3–6 months)."}
+   ]
+  },
+  {
+   "id": "ch22-02", "group": "Lids & orbit", "title": "Orbital floor blow-out fracture", "minutes": 4,
+   "tldr": "Fist/ball (&gt;5 cm) → floor breaks over infraorbital canal. <b>Infraorbital numbness</b>, <b>diplopia in up + down gaze</b> (IR/IO tethering, <b>positive forced duction</b>), enophthalmos, emphysema. CT coronal. <b>Don't blow nose</b>, oral antibiotics. Repair within <b>2 weeks</b> if entrapment, &gt;2 mm enophthalmos, &gt;½ floor, persistent primary-gaze diplopia.",
+   "points": [
+    "Diplopia causes: oedema/haemorrhage (settles), entrapment (forced duction +), muscle injury (forced duction −, recovers ~2 m).",
+    "Enophthalmos appears as swelling settles.",
+    "Check globe: hyphaema, angle recession, dialysis.",
+    "Hess chart to monitor.",
+    "Small cracks/no herniation/improving → observe.",
+    "<b>'White-eyed' blow-out</b> (&lt;18 yrs): trapdoor, little bruising, nausea/vomiting, <b>oculocardiac reflex</b> (bradycardia) → <b>urgent repair</b>.",
+    "Repair: transconjunctival/subciliary, free tissue, implant."
+   ],
+   "hook": "<b>Kid + quiet eye + vomiting + can't look up = white-eyed blow-out → operate today.</b>",
+   "cards": [
+    {"q": "What is a 'white-eyed' blow-out fracture?", "a": "Trapdoor floor fracture in a young patient with muscle incarceration, minimal external signs, nausea/bradycardia – needs urgent repair."},
+    {"q": "Sensory sign of orbital floor fracture?", "a": "Infraorbital nerve anaesthesia (cheek, upper lip, upper teeth)."}
+   ]
+  },
+  {
+   "id": "ch22-03", "group": "Lids & orbit", "title": "Other orbital fractures & retrobulbar haemorrhage", "minutes": 3,
+   "tldr": "<b>Roof</b>: kids, upper lid haematoma spreading, globe pulsation, <b>CSF leak</b>. <b>Medial wall</b>: emphysema on nose-blowing, ± MR entrapment. <b>Lateral</b>: big facial trauma. <b>Retrobulbar haemorrhage</b> (orbital compartment syndrome): tight proptosis, ↑IOP, RAPD → <b>immediate lateral canthotomy + inferior cantholysis</b>.",
+   "points": [
+    "Causes of orbital haemorrhage: trauma, <b>peri/retrobulbar block</b>, vascular lesions, coagulopathy.",
+    "Canthotomy: clamp 60 s, cut 1–2 cm at lateral canthus.",
+    "Cantholysis: cut inferior crus (scissors parallel to rim, away from globe); canthotomy alone rarely enough.",
+    "Superior crus only if still tight (risk to lacrimal gland/levator)."
+   ],
+   "hook": "<b>Rock-hard proptosis + losing vision = cut the canthus now.</b>",
+   "cards": [{"q": "Emergency treatment for orbital compartment syndrome?", "a": "Lateral canthotomy with inferior cantholysis."}]
+  },
+  {
+   "id": "ch22-04", "group": "Globe", "title": "Terminology & imaging", "minutes": 3,
+   "tldr": "<b>Closed</b> (contusion, lamellar laceration) vs <b>open</b> (rupture = blunt, weakest point; laceration = sharp). Penetrating = entry only; <b>perforating = entry + exit</b>. Imaging: <b>CT best for IOFB</b>; US gently; <b>no MRI if ferrous FB</b>.",
+   "points": [
+    "Plain X-ray: FB moving with gaze = intraocular.",
+    "MRI better for soft tissue/occult rupture but contraindicated with metal.",
+    "ERG for retained FB effects."
+   ],
+   "hook": "<b>Penetrate = in. Perforate = in and out.</b>",
+   "cards": [
+    {"q": "Difference between penetrating and perforating injury?", "a": "Penetrating has an entry wound only; perforating has entry and exit wounds."},
+    {"q": "Best imaging for intraocular metallic FB?", "a": "CT (thin axial + coronal)."}
+   ]
+  },
+  {
+   "id": "ch22-05", "group": "Globe", "title": "Blunt trauma: front of eye", "minutes": 4,
+   "tldr": "Abrasion, corneal oedema. <b>Hyphaema</b> (iris root/ciliary body bleed) → watch IOP (<b>corneal blood staining</b>; sickle!). <b>Vossius ring</b>, sphincter tears, traumatic mydriasis, <b>iridodialysis</b> (D-pupil, diplopia/glare). <b>Angle recession</b> → <b>6–9% late glaucoma</b>. Low IOP with hyphaema → <b>occult rupture</b>.",
+   "points": [
+    "Descemet tears from birth trauma are vertical (vs Haab striae horizontal).",
+    "Lens: <b>rosette (flower) PSC cataract</b>, subluxation (phakodonesis, deep AC), dislocation (check pseudoexfoliation, Marfan).",
+    "Traumatic aniridia possible in pseudophakes (iris expelled through wound)."
+   ],
+   "hook": "<b>Flower in the lens = punch to the eye.</b>",
+   "cards": [
+    {"q": "Characteristic cataract after blunt trauma?", "a": "Rosette (flower-shaped) posterior subcapsular opacity."},
+    {"q": "Risk of glaucoma after angle recession?", "a": "About 6–9% (late)."}
+   ]
+  },
+  {
+   "id": "ch22-06", "group": "Globe", "title": "Globe rupture", "minutes": 3,
+   "tldr": "Ruptures at weak points: near <b>Schlemm canal</b>, <b>behind rectus insertions</b>, old <b>surgical wounds</b>. Occult posterior rupture: <b>deep AC, low IOP</b>, bullous chemosis/360° subconj blood, poor vision. Prognosis bad if <b>PL or worse</b>. Shield, no pressure, CT, theatre.",
+   "points": [
+    "Prolapse of iris, lens, ciliary body, vitreous.",
+    "Asymmetric AC depth is a clue.",
+    "Gentle B-scan or CT/MRI to find it."
+   ],
+   "hook": "<b>Soft eye + deep chamber after blunt trauma = hidden hole in the back.</b>",
+   "cards": [{"q": "Signs of occult posterior scleral rupture?", "a": "Low IOP, abnormally deep anterior chamber, extensive subconjunctival haemorrhage/chemosis, poor vision."}]
+  },
+  {
+   "id": "ch22-07", "group": "Globe", "title": "Blunt trauma: back of eye", "minutes": 4,
+   "tldr": "<b>Commotio retinae</b> (grey retina, cherry-red spot; clears ~6 wks). <b>Choroidal rupture</b>: <b>crescent concentric to disc</b>; late <b>CNV</b>. <b>Dialysis</b> (<b>superonasal/inferotemporal</b>, young male, slow RD months later). Trauma = ~10% of RDs, commonest in kids. Macular hole.",
+   "points": [
+    "Severe commotio → pigment degeneration, hole.",
+    "Direct rupture anterior parallel to ora; indirect opposite impact.",
+    "Dialysis may show 'bucket-handle' vitreous base avulsion.",
+    "Equatorial breaks at impact site; giant tears."
+   ],
+   "hook": "<b>White crescent around the disc = old choroidal rupture → watch for CNV.</b>",
+   "cards": [
+    {"q": "Shape and orientation of an indirect choroidal rupture?", "a": "Crescentic, concentric with the optic disc."},
+    {"q": "Typical locations of traumatic retinal dialysis?", "a": "Superonasal and inferotemporal."}
+   ]
+  },
+  {
+   "id": "ch22-08", "group": "Globe", "title": "Traumatic optic neuropathy & avulsion", "minutes": 3,
+   "tldr": "Sudden loss after head/orbit trauma with <b>RAPD but normal disc</b> (pallor weeks later). Indirect &gt;&gt; direct. Up to 50% improve spontaneously (not if NPL). <b>Steroids controversial (CRASH ↑ death)</b>; decompression unproven. Exclude orbital haemorrhage. <b>Avulsion</b>: hole where disc should be; no treatment.",
+   "points": [
+    "Occurs in up to 5% of facial fractures.",
+    "Mechanisms: shearing at canal, contusion, haematoma, bone fragment.",
+    "CT for canal fracture; MRI for haematoma.",
+    "Canal fracture = poor prognosis."
+   ],
+   "hook": "<b>RAPD + normal-looking eye after a head knock = traumatic optic neuropathy.</b>",
+   "cards": [{"q": "Why are high-dose steroids for traumatic optic neuropathy controversial?", "a": "No proven benefit; CRASH trial showed higher mortality with steroids in head injury."}]
+  },
+  {
+   "id": "ch22-09", "group": "Globe", "title": "Abusive head trauma (shaken baby)", "minutes": 3,
+   "tldr": "Under 2 yrs; mortality &gt;25%. <b>Multilayered retinal haemorrhages to the periphery</b> (bilateral usually), subdural haemorrhage, rib/long-bone fractures. Presents vague (irritable, vomiting). <b>Examine with a specialist paediatrician</b>; document carefully.",
+   "points": [
+    "Rotational acceleration–deceleration; brainstem injury → apnoea → hypoxia.",
+    "Retinal haemorrhages pre-, intra-, subretinal; macular schisis.",
+    "Visual loss ~20%, mostly cortical."
+   ],
+   "hook": "<b>Haemorrhages too many, too deep, too far out = abuse until proven otherwise.</b>",
+   "cards": [{"q": "Most common ocular sign of abusive head trauma?", "a": "Multilayered retinal haemorrhages extending to the periphery."}]
+  },
+  {
+   "id": "ch22-10", "group": "Penetrating", "title": "Penetrating injury repair", "minutes": 4,
+   "tldr": "Shield, <b>no pressure</b>, tetanus, <b>systemic antibiotics</b> (± intravitreal), CT, theatre. Signs: <b>peaked pupil</b>, shallow AC, Seidel +. Cornea <b>10-0 nylon</b>; limbus 9-0; sclera 8-0 nylon/7-0 absorbable. Reposit viable uvea, cut vitreous flush. Primary enucleation only if unrepairable; secondary within <b>10–14 days</b> (sympathetic ophthalmia).",
+   "points": [
+    "Males 3×, age 15–34; eye protection prevents most.",
+    "Small self-sealing corneal wound: bandage CL.",
+    "Lens damaged: suture then remove lens; primary IOL often fine.",
+    "Vitreous incarceration → fibrous ingrowth → tractional RD.",
+    "Posterior lacerations: close sclera first, retina later.",
+    "Small lid wound + hammering → lift the lid, look for scleral entry."
+   ],
+   "hook": "<b>Peaked pupil points to the hole.</b>",
+   "cards": [
+    {"q": "Suture for corneal laceration repair?", "a": "10-0 nylon."},
+    {"q": "Recommended timing for enucleation to reduce sympathetic ophthalmia risk?", "a": "Within 10–14 days of injury."}
+   ]
+  },
+  {
+   "id": "ch22-11", "group": "Penetrating", "title": "Superficial foreign bodies", "minutes": 2,
+   "tldr": "<b>Linear vertical corneal abrasions</b> → <b>evert upper lid</b> (subtarsal FB). Corneal FB: remove with 25G needle at slit lamp; <b>rust ring</b> with burr; antibiotic ointment. Always consider an <b>IOFB</b> (hammering!).",
+   "points": [
+    "Infiltrate, discharge or bad uveitis → treat as bacterial keratitis.",
+    "Organic/stone FB riskier for infection than metal.",
+    "Cycloplegic/NSAID for comfort."
+   ],
+   "hook": "<b>Scratches like rain on the cornea → flip the lid.</b>",
+   "cards": [{"q": "Linear vertical corneal abrasions suggest?", "a": "Subtarsal foreign body – evert the upper lid."}]
+  },
+  {
+   "id": "ch22-12", "group": "Penetrating", "title": "IOFB, siderosis & chalcosis", "minutes": 4,
+   "tldr": "<b>CT</b> to find (no MRI). Remove: magnet via sclerotomy or <b>vitrectomy + forceps</b>. <b>Siderosis (iron)</b>: rusty iris (heterochromia), anterior capsular brown dots, <b>pigmentary retinopathy</b>, <b>progressive ERG b-wave loss</b>. <b>Copper</b>: pure → violent endophthalmitis; alloy → <b>chalcosis</b> (KF ring, sunflower cataract, golden retinal plaques).",
+   "points": [
+    "Inert: glass, plastic, gold, silver.",
+    "Stone/organic FBs → high infection rate; give intravitreal antibiotics.",
+    "Siderosis can cause glaucoma; retinal damage severe.",
+    "Copper less retinotoxic than iron → vision may be kept."
+   ],
+   "hook": "<b>Iron rusts the eye; copper paints it like Wilson.</b>",
+   "cards": [
+    {"q": "ERG finding in ocular siderosis?", "a": "Progressive reduction of the b-wave."},
+    {"q": "Signs of chalcosis?", "a": "Kayser–Fleischer ring, sunflower cataract, golden retinal plaques."}
+   ]
+  },
+  {
+   "id": "ch22-13", "group": "Penetrating", "title": "Post-traumatic endophthalmitis", "minutes": 2,
+   "tldr": "~1 in 10 penetrating injuries with retained FB. Risks: <b>delayed repair, retained IOFB, ruptured lens, dirty/rural wound</b>. Bugs: <b>Staph & Bacillus (~90%)</b> — Bacillus is fulminant. Prophylaxis: <b>oral moxifloxacin/ciprofloxacin</b>, intravitreal (vancomycin) for high-risk, remove IOFB promptly, culture the FB.",
+   "points": [
+    "Manage established cases like acute postoperative endophthalmitis (tap + inject).",
+    "Don't tape the removed FB into the notes — send for culture!"
+   ],
+   "hook": "<b>Farm injury + metal FB = think Bacillus.</b>",
+   "cards": [{"q": "Organisms in most culture-positive post-traumatic endophthalmitis?", "a": "Staphylococcus and Bacillus species."}]
+  },
+  {
+   "id": "ch22-14", "group": "Chemical", "title": "Chemical injury: emergency", "minutes": 4,
+   "tldr": "<b>Irrigate immediately</b> — tap water if that's all there is; topical anaesthetic + speculum; saline/Ringer's <b>15–30 min until pH neutral</b>. <b>Double-evert</b> upper lid, remove particles, debride necrotic epithelium. <b>Alkali (ammonia, NaOH, lime) penetrate deeper</b>; acids coagulate (except hydrofluoric).",
+   "points": [
+    "Alkali burns 2× commoner than acid.",
+    "Speed + efficacy of irrigation = biggest prognostic factor.",
+    "Damage: limbal stem cell loss → conjunctivalisation, persistent epithelial defects, melts; stroma opacity; AC → iris/lens; ciliary body → ↓ascorbate, hypotony, phthisis.",
+    "Admit grades 3–4."
+   ],
+   "hook": "<b>Wash first, ask questions later.</b>",
+   "cards": [
+    {"q": "Most important first step in chemical eye injury?", "a": "Immediate copious irrigation until pH is neutral."},
+    {"q": "Why are alkali burns worse than most acid burns?", "a": "Alkalis saponify cell membranes and penetrate deeply; acids coagulate surface proteins forming a barrier."}
+   ]
+  },
+  {
+   "id": "ch22-15", "group": "Chemical", "title": "Chemical injury: grading & treatment", "minutes": 4,
+   "tldr": "<b>Roper-Hall</b>: 1 clear cornea, no ischaemia; 2 hazy, iris seen, &lt;⅓ limbal ischaemia; 3 total epithelial loss, iris hidden, ⅓–½; 4 opaque, &gt;½. Rx: PF antibiotics, <b>steroids for 7–10 days only</b> (then NSAID), cycloplegia, <b>ascorbate</b>, <b>citrate</b>, <b>doxycycline</b>, glass-rod symblepharon lysis, oral acetazolamide. Surgery: <b>amniotic membrane, Tenon advancement, limbal stem cell graft</b>; keratoplasty after ≥6 months; KPro.",
+   "points": [
+    "Steroids beyond 10 days impair collagen repair → melt risk.",
+    "Topical ascorbate 10% 2-hourly + oral vit C 1–2 g QDS (not in renal disease).",
+    "Citrate 10% 2-hourly + oral: blocks neutrophils/collagenase.",
+    "Tetracycline/doxycycline, acetylcysteine = anticollagenase.",
+    "Late: symblepharon division, mucous membrane grafts, entropion repair.",
+    "Thermal burns: mostly lids; antibiotics; lid surgery; keratoplasty for scars."
+   ],
+   "hook": "<b>Roper-Hall: count the limbus — 0, &lt;⅓, ⅓–½, &gt;½.</b> Steroids stop at day 10.",
+   "cards": [
+    {"q": "Roper-Hall grade 3 chemical injury?", "a": "Total epithelial loss, stromal haze obscuring iris detail, ⅓–½ limbal ischaemia (guarded prognosis)."},
+    {"q": "Why taper topical steroids by 10 days after an alkali burn?", "a": "They inhibit collagen synthesis/keratocytes; sterile ulceration peaks around then."}
+   ]
+  }
+ ]
+}
