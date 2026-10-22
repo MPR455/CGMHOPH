@@ -532,7 +532,103 @@
    "num": 6,
    "title": "Conjunctiva",
    "file": "ch06.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "ch06-01",
+     "title": "Conjunctiva anatomy in 1 minute",
+     "group": "Basics"
+    },
+    {
+     "id": "ch06-02",
+     "title": "Reading a red eye: discharge & reactions",
+     "group": "Basics"
+    },
+    {
+     "id": "ch06-03",
+     "title": "Follicles vs papillae",
+     "group": "Basics"
+    },
+    {
+     "id": "ch06-04",
+     "title": "Acute bacterial conjunctivitis",
+     "group": "Bacterial"
+    },
+    {
+     "id": "ch06-05",
+     "title": "Adult chlamydial conjunctivitis",
+     "group": "Bacterial"
+    },
+    {
+     "id": "ch06-06",
+     "title": "Trachoma",
+     "group": "Bacterial"
+    },
+    {
+     "id": "ch06-07",
+     "title": "Neonatal conjunctivitis (ophthalmia neonatorum)",
+     "group": "Bacterial"
+    },
+    {
+     "id": "ch06-08",
+     "title": "Adenoviral conjunctivitis: the types",
+     "group": "Viral"
+    },
+    {
+     "id": "ch06-09",
+     "title": "Adenovirus: cornea & treatment",
+     "group": "Viral"
+    },
+    {
+     "id": "ch06-10",
+     "title": "Acute, seasonal & perennial allergic conjunctivitis",
+     "group": "Allergic"
+    },
+    {
+     "id": "ch06-11",
+     "title": "Vernal keratoconjunctivitis (VKC)",
+     "group": "Allergic"
+    },
+    {
+     "id": "ch06-12",
+     "title": "Atopic keratoconjunctivitis (AKC)",
+     "group": "Allergic"
+    },
+    {
+     "id": "ch06-13",
+     "title": "Treating VKC & AKC",
+     "group": "Allergic"
+    },
+    {
+     "id": "ch06-14",
+     "title": "Contact lens papillary conjunctivitis (GPC) & friends",
+     "group": "Allergic"
+    },
+    {
+     "id": "ch06-15",
+     "title": "Mucous membrane pemphigoid (OCP)",
+     "group": "Scarring diseases"
+    },
+    {
+     "id": "ch06-16",
+     "title": "Stevens–Johnson / TEN",
+     "group": "Scarring diseases"
+    },
+    {
+     "id": "ch06-17",
+     "title": "SLK, ligneous, Parinaud, factitious",
+     "group": "Odd ones"
+    },
+    {
+     "id": "ch06-18",
+     "title": "Pinguecula & pterygium",
+     "group": "Degenerations"
+    },
+    {
+     "id": "ch06-19",
+     "title": "Little stuff: concretions, cysts, subconj haemorrhage",
+     "group": "Degenerations"
+    }
+   ]
   },
   {
    "id": "ch07",

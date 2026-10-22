@@ -1,0 +1,610 @@
+{
+ "id": "ch06",
+ "num": 6,
+ "title": "Conjunctiva",
+ "chunks": [
+  {
+   "id": "ch06-01",
+   "group": "Basics",
+   "title": "Conjunctiva anatomy in 1 minute",
+   "minutes": 2,
+   "tldr": "Three parts: <b>palpebral</b> (stuck to the tarsus), <b>forniceal</b> (loose), <b>bulbar</b> (on the eye). Limbal stem cells live in the <b>palisades of Vogt</b>.",
+   "points": [
+    "Lymph drains to the <b>preauricular and submandibular</b> nodes (same as the lids).",
+    "Bulbar conjunctiva fuses with Tenon at the <b>limbus</b>. <b>Palisades of Vogt</b> = corneal stem cell reservoir.",
+    "Epithelium: non-keratinised, ~5 cells thick. <b>Goblet cells</b> are densest <b>inferonasally</b> and in the fornices.",
+    "Stroma holds the accessory lacrimal glands (<b>Krause, Wolfring</b>) and immune tissue (<b>CALT</b>).",
+    "Medially: <b>plica semilunaris</b> + <b>caruncle</b> (modified skin)."
+   ],
+   "hook": "<b>Vogt</b> = the <b>vault</b> where stem cells are stored.",
+   "cards": [
+    {
+     "q": "Where are the corneal limbal stem cells thought to reside?",
+     "a": "Palisades of Vogt."
+    }
+   ]
+  },
+  {
+   "id": "ch06-02",
+   "group": "Basics",
+   "title": "Reading a red eye: discharge & reactions",
+   "minutes": 4,
+   "tldr": "<b>Itch = allergy.</b> <b>Watery</b> = viral/allergic. <b>Pus</b> = bacterial. <b>Lots of pus</b> = gonococcus. Real <b>pain/photophobia</b> = the cornea is involved.",
+   "points": [
+    "Discharge: watery (viral, acute allergy) → mucoid (chronic allergy, dry eye) → mucopurulent (chlamydia, bacteria) → <b>hyperpurulent (gonococcus)</b>.",
+    "Conjunctival injection = beefy red, <b>worse away from the limbus</b>. Ciliary flush (uveitis) = worst at the limbus.",
+    "<b>Petechial haemorrhages</b> → viral. Big haemorrhages → severe bacterial.",
+    "<b>Chemosis</b>: acute = allergy. Chronic = TED, SVC obstruction, heart failure, nephrotic syndrome.",
+    "<b>Pseudomembrane</b> peels off cleanly. <b>True membrane</b> tears and bleeds. Causes: adenovirus, gonococcus, Strep, <b>diphtheria</b>, ligneous, SJS.",
+    "<b>Lymph nodes</b> (preauricular): viral, chlamydia, gonococcus, Parinaud."
+   ],
+   "hook": "Discharge ladder: <b>Water → Mucus → Pus → Flood of pus (gonococcus)</b>.",
+   "cards": [
+    {
+     "q": "Hyperacute profuse purulent discharge suggests?",
+     "a": "Neisseria gonorrhoeae (or meningococcus)."
+    },
+    {
+     "q": "Membrane that bleeds when peeled: true or pseudo?",
+     "a": "True membrane."
+    }
+   ]
+  },
+  {
+   "id": "ch06-03",
+   "group": "Basics",
+   "title": "Follicles vs papillae",
+   "minutes": 3,
+   "tldr": "<b>Follicles</b> = rice grains with vessels <b>around</b> them (lymphoid). <b>Papillae</b> = red dots with a vessel <b>in the middle</b>.",
+   "points": [
+    "<b>Follicles</b>: pale, translucent, mainly in the <b>fornices</b>. Histology: lymphoid <b>germinal centre</b>.",
+    "Follicle causes: <b>viral, chlamydia</b>, Parinaud, <b>drug hypersensitivity</b> (e.g. brimonidine, atropine). Small follicles are normal in kids.",
+    "<b>Papillae</b>: only where the conjunctiva is tethered (tarsus, limbus). <b>Central vascular core</b>.",
+    "Sizes: micro → macro (&lt;1 mm) → <b>giant (&gt;1 mm)</b>.",
+    "Papillae causes: <b>bacterial, allergy</b>, blepharitis, <b>contact lenses</b>, SLK, floppy eyelid."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Follicle",
+     "Papilla"
+    ],
+    "rows": [
+     [
+      "Vessel",
+      "Around it",
+      "In the middle"
+     ],
+     [
+      "Where",
+      "Fornix",
+      "Tarsus, limbus"
+     ],
+     [
+      "Think",
+      "Virus, chlamydia, drops",
+      "Allergy, bacteria, CL"
+     ]
+    ]
+   },
+   "hook": "<b>F</b>ollicle = <b>F</b>orniceal, viral. <b>P</b>apilla = has a <b>P</b>ipe (vessel) in the middle.",
+   "cards": [
+    {
+     "q": "Which has a central vascular core: follicle or papilla?",
+     "a": "Papilla."
+    },
+    {
+     "q": "Two infections that cause a follicular conjunctivitis?",
+     "a": "Adenovirus and Chlamydia."
+    }
+   ]
+  },
+  {
+   "id": "ch06-04",
+   "group": "Bacterial",
+   "title": "Acute bacterial conjunctivitis",
+   "minutes": 4,
+   "tldr": "Sticky, red, lids glued shut in the morning. <b>60% settle in 5 days</b> anyway. <b>Gonococcus/meningococcus need systemic antibiotics.</b>",
+   "points": [
+    "Common bugs: <b>Strep pneumoniae, Staph aureus, H. influenzae, Moraxella</b>.",
+    "<b>Gonococcus</b> can get through <b>intact cornea</b> → ulcer → perforation. Gram stain: Gram-negative <b>kidney-shaped intracellular diplococci</b>. Culture on <b>chocolate / Thayer–Martin</b> agar.",
+    "Usually both eyes (one first), mucopurulent, vision normal, no nodes (unless gonococcal).",
+    "Treat: topical antibiotic QID for a week (none is better than another). No contact lenses until 48 h after it clears.",
+    "<b>Gonococcus</b> → <b>IM/IV ceftriaxone</b> + hourly topical + GUM referral.",
+    "<b>H. influenzae</b> in kids → oral co-amoxiclav (25% get otitis).",
+    "<b>Meningococcus</b> in kids → systemic antibiotics <b>now</b> (30% go systemic).",
+    "<b>Giant fornix syndrome</b>: elderly person with levator disinsertion, debris in a huge upper fornix → recurrent Staph pus. Sweep the fornix + antibiotics."
+   ],
+   "hook": "<b>Gono goes through</b> (intact cornea). Treat the body, not just the eye.",
+   "cards": [
+    {
+     "q": "Gram stain appearance of N. gonorrhoeae?",
+     "a": "Gram-negative intracellular kidney-shaped diplococci."
+    },
+    {
+     "q": "Systemic treatment of gonococcal conjunctivitis?",
+     "a": "Third-generation cephalosporin, e.g. ceftriaxone."
+    }
+   ]
+  },
+  {
+   "id": "ch06-05",
+   "group": "Bacterial",
+   "title": "Adult chlamydial conjunctivitis",
+   "minutes": 4,
+   "tldr": "Young sexually active adult, <b>months of follicular conjunctivitis</b> + tender preauricular node. Serovars <b>D–K</b>. Treat with oral <b>azithromycin</b> + <b>GUM referral</b>.",
+   "points": [
+    "<b>Chlamydia trachomatis D–K</b>. Spread from genital secretions to the eye. Incubation ~1 week.",
+    "Men: often silent urethritis. Women: PID → infertility, <b>Fitz-Hugh–Curtis</b> (perihepatitis). Can trigger <b>reactive arthritis</b>.",
+    "Eye: <b>large follicles in the inferior fornix</b> (and upper tarsus), tender preauricular nodes, SPK, <b>peripheral subepithelial infiltrates</b> after 2–3 weeks, <b>superior pannus</b>.",
+    "Tests: <b>PCR</b>, Giemsa (intracytoplasmic inclusions), immunofluorescence, McCoy culture.",
+    "Treat: <b>azithromycin 1 g</b> (repeat after a week) or doxycycline 10 days. Topical alone is <b>not enough</b>.",
+    "<b>GUM clinic</b>: other STIs, contact tracing, pregnancy test. Retest at 6–12 weeks.",
+    "Follicles and infiltrates can take <b>months</b> to fade."
+   ],
+   "hook": "Chronic follicles in a <b>young adult</b> that 'won't go away' → ask about <b>sex</b>.",
+   "cards": [
+    {
+     "q": "Which C. trachomatis serovars cause adult inclusion conjunctivitis?",
+     "a": "D–K."
+    },
+    {
+     "q": "Treatment of choice?",
+     "a": "Oral azithromycin 1 g (± repeat), plus genitourinary referral."
+    }
+   ]
+  },
+  {
+   "id": "ch06-06",
+   "group": "Bacterial",
+   "title": "Trachoma",
+   "minutes": 4,
+   "tldr": "World's leading cause of <b>preventable blindness</b>. Serovars <b>A–C</b>. Repeated infections → <b>scarring → entropion/trichiasis → corneal opacity</b>. WHO plan: <b>SAFE</b>.",
+   "points": [
+    "Poverty, crowding, <b>flies</b>. Kids are the reservoir.",
+    "Repeated infection → <b>type IV</b> reaction → scarring. (Vaccines don't help: they sensitise like a first infection.)",
+    "<b>Active</b> (pre-school kids): follicles on the upper tarsus, papillae, <b>superior pannus</b>.",
+    "<b>Cicatricial</b> (middle age): stellate scars, <b>Arlt line</b> (scar band on the upper tarsus), <b>Herbert pits</b> (healed limbal follicles), trichiasis, entropion, dry eye, corneal opacity.",
+    "WHO grades: <b>TF</b> (≥5 follicles), <b>TI</b> (intense), <b>TS</b> (scarring), <b>TT</b> (trichiasis), <b>CO</b> (corneal opacity).",
+    "<b>SAFE</b>: <b>S</b>urgery (bilamellar tarsal rotation), <b>A</b>ntibiotics (single dose <b>azithromycin 20 mg/kg</b>, treat the whole family/community), <b>F</b>ace washing, <b>E</b>nvironment (water, sanitation, fly control)."
+   ],
+   "hook": "<b>Herbert pits</b> = <b>H</b>oles where limbal follicles used to be. <b>Arlt line</b> = <b>A</b> line of scar.",
+   "cards": [
+    {
+     "q": "What does SAFE stand for?",
+     "a": "Surgery, Antibiotics, Facial cleanliness, Environmental improvement."
+    },
+    {
+     "q": "Shallow depressions at the superior limbus in old trachoma?",
+     "a": "Herbert pits."
+    },
+    {
+     "q": "Trachoma serovars?",
+     "a": "A, B, Ba, C."
+    }
+   ]
+  },
+  {
+   "id": "ch06-07",
+   "group": "Bacterial",
+   "title": "Neonatal conjunctivitis (ophthalmia neonatorum)",
+   "minutes": 5,
+   "tldr": "<b>Timing tells the bug</b>: chemical (day 1–2) → <b>gonococcus (week 1)</b> → bacteria (end of week 1) → HSV (1–2 weeks) → <b>chlamydia (1–3 weeks)</b>.",
+   "points": [
+    "Conjunctivitis in the <b>first month</b>. Up to 10% of newborns. Usually caught during birth.",
+    "<b>Chlamydia</b> = commonest cause of moderate–severe cases. Can come with <b>pneumonitis</b>, otitis. Treat with <b>oral erythromycin 2 weeks</b>.",
+    "<b>Gonococcus</b>: hyperpurulent, very swollen lids, cornea can perforate fast. Treat with <b>IV/IM ceftriaxone</b> (+ cover chlamydia).",
+    "<b>HSV (type 2)</b>: watery, lid vesicles, <b>dendrites</b>. Treat as <b>systemic</b> disease: <b>IV aciclovir</b>, CSF PCR for encephalitis.",
+    "Mild sticky eye: Staph, or a blocked tear duct.",
+    "Prophylaxis: <b>povidone-iodine 2.5%</b>, erythromycin/tetracycline ointment, silver nitrate (where gonococcus is common).",
+    "Always think of <b>congenital glaucoma</b> (one-sided watering!). Refer mum and partners to GUM. Notifiable."
+   ],
+   "table": {
+    "head": [
+     "Onset",
+     "Cause"
+    ],
+    "rows": [
+     [
+      "Day 1–3",
+      "Chemical"
+     ],
+     [
+      "Week 1",
+      "Gonococcus"
+     ],
+     [
+      "End of week 1",
+      "Staph/other bacteria"
+     ],
+     [
+      "1–2 weeks",
+      "HSV"
+     ],
+     [
+      "1–3 weeks",
+      "Chlamydia"
+     ]
+    ]
+   },
+   "hook": "<b>Gono is Go-fast</b> (week 1). <b>Chlamydia is Chill</b> (weeks 1–3).",
+   "cards": [
+    {
+     "q": "Neonate, day 10, mucopurulent conjunctivitis + cough. Likely organism and treatment?",
+     "a": "Chlamydia: oral erythromycin for 2 weeks."
+    },
+    {
+     "q": "Neonatal HSV conjunctivitis treatment?",
+     "a": "IV aciclovir (treat as systemic disease)."
+    }
+   ]
+  },
+  {
+   "id": "ch06-08",
+   "group": "Viral",
+   "title": "Adenoviral conjunctivitis: the types",
+   "minutes": 4,
+   "tldr": "Adenovirus = 90% of viral conjunctivitis. <b>Very contagious.</b> <b>PCF</b> = sore throat (3, 4, 7). <b>EKC</b> = worst, keratitis in 80% (8, 19, 37).",
+   "points": [
+    "Spread by hands, towels, instruments. Survives on surfaces for <b>weeks</b>. Shed before symptoms.",
+    "One eye, then the other 1–2 days later (milder). Watery, itchy/gritty, <b>follicles</b>, <b>tender preauricular node</b>.",
+    "<b>Non-specific follicular</b>: commonest, mild, ± cold symptoms.",
+    "<b>Pharyngoconjunctival fever</b>: serotypes <b>3, 4, 7</b>, sore throat, family spread. Keratitis 30%.",
+    "<b>Epidemic keratoconjunctivitis</b>: serotypes <b>8, 19, 37</b>. Keratitis 80%, photophobia.",
+    "<b>Acute haemorrhagic</b>: enterovirus/coxsackie, tropical, big haemorrhages.",
+    "Other viruses: <b>HSV</b> (one-sided + skin vesicles), measles, mumps, VZV, <b>molluscum</b> (lid nodule)."
+   ],
+   "hook": "<b>PCF = 3-4-7</b> (Pharynx). <b>EKC = 8-19-37</b> ('8 is Epidemic').",
+   "cards": [
+    {
+     "q": "Adenovirus serotypes for EKC?",
+     "a": "8, 19, 37."
+    },
+    {
+     "q": "Follicular conjunctivitis + sore throat + fever in a child?",
+     "a": "Pharyngoconjunctival fever (adenovirus 3, 4, 7)."
+    }
+   ]
+  },
+  {
+   "id": "ch06-09",
+   "group": "Viral",
+   "title": "Adenovirus: cornea & treatment",
+   "minutes": 4,
+   "tldr": "Cornea: microcysts → punctate keratitis (day 7–10) → <b>subepithelial infiltrates</b> (immune, can last months). <b>No antiviral works</b>: hygiene + comfort.",
+   "points": [
+    "Signs: follicles, petechial haemorrhages, chemosis, <b>pseudomembranes</b> (can scar).",
+    "Cornea: non-staining microcysts → staining <b>PEK</b> → <b>white subepithelial infiltrates</b> (immune response). Can recur for months or years.",
+    "Tests (if unsure): <b>point-of-care adenovirus test</b> (10 min), PCR. Giemsa: mononuclear cells (HSV → multinucleated giant cells).",
+    "Self-limiting in <b>2–3 weeks</b>.",
+    "<b>Infection control</b>: hand-washing, no shared towels, clean instruments and surfaces (hypochlorite, povidone-iodine).",
+    "Comfort: cold compresses, preservative-free tears, antihistamine drops.",
+    "<b>Steroids</b> only for <b>membranes</b> or infiltrates hurting vision. They <b>don't speed recovery</b>, may <b>prolong infectivity</b>, and infiltrates rebound if stopped early. Watch the IOP.",
+    "Peel off membranes. Povidone-iodine may cut infectivity."
+   ],
+   "hook": "Adeno: <b>wash hands, wait 2–3 weeks, steroids only if you must</b>.",
+   "cards": [
+    {
+     "q": "Why be cautious with steroids in adenoviral keratoconjunctivitis?",
+     "a": "They don't speed resolution, may prolong viral shedding, and infiltrates rebound when stopped."
+    },
+    {
+     "q": "Cause of subepithelial infiltrates in adenovirus?",
+     "a": "Immune response to viral antigen."
+    }
+   ]
+  },
+  {
+   "id": "ch06-10",
+   "group": "Allergic",
+   "title": "Acute, seasonal & perennial allergic conjunctivitis",
+   "minutes": 3,
+   "tldr": "Allergy = <b>type I (IgE, mast cells)</b>. <b>Itch</b> is the key symptom. Treat with <b>dual-action</b> drops (olopatadine, ketotifen, azelastine).",
+   "points": [
+    "<b>Acute allergic</b>: kid playing outside → sudden <b>dramatic chemosis</b> + itch. Settles in hours. Cool compress ± a drop of adrenaline.",
+    "<b>Seasonal</b> ('hay fever eyes'): spring/summer, tree and grass pollen. Commonest form.",
+    "<b>Perennial</b>: all year, worse in autumn: <b>house dust mite</b>, pets, fungi. Milder.",
+    "Signs: red, mild papillae, chemosis, lid swelling. Vision normal. Eosinophils on scraping.",
+    "<b>Mast cell stabilisers</b> (cromoglicate, nedocromil, lodoxamide): take days to work, good for prevention.",
+    "<b>Antihistamines</b> (emedastine, epinastine, levocabastine): quick relief.",
+    "<b>Dual-action</b> (<b>olopatadine, ketotifen, azelastine</b>): fast and effective.",
+    "Rarely: NSAIDs, steroids, oral antihistamines."
+   ],
+   "hook": "<b>If it doesn't itch, it's probably not allergy.</b>",
+   "cards": [
+    {
+     "q": "Allergic conjunctivitis is which hypersensitivity type?",
+     "a": "Type I (IgE-mediated mast cell degranulation)."
+    },
+    {
+     "q": "Name a dual-action antihistamine/mast cell stabiliser drop.",
+     "a": "Olopatadine (or ketotifen, azelastine)."
+    }
+   ]
+  },
+  {
+   "id": "ch06-11",
+   "group": "Allergic",
+   "title": "Vernal keratoconjunctivitis (VKC)",
+   "minutes": 5,
+   "tldr": "<b>Boys</b> from age ~5, hot dry climates, spring/summer. <b>Cobblestone giant papillae</b> on the upper tarsus, <b>Trantas dots</b>, <b>shield ulcer</b>. 95% grow out of it by the late teens.",
+   "points": [
+    "Both IgE and cell-mediated. Mediterranean, Middle East, Africa. Most have asthma/eczema.",
+    "Symptoms: <b>intense itch</b>, thick ropey mucus, photophobia, lots of blinking.",
+    "<b>Palpebral</b>: velvety papillae → <b>cobblestones</b> (flat-topped) → <b>giant papillae &gt;1 mm</b> with mucus between them.",
+    "<b>Limbal</b> (black and Asian patients): gelatinous limbal papillae + <b>Horner–Trantas dots</b> (white specks of eosinophils).",
+    "Cornea: superior <b>punctate erosions</b> → macroerosions → <b>shield ulcer/plaque</b> (mucus + calcium on Bowman). Shield ulcer = urgent (infection risk).",
+    "Later: grey oval subepithelial scars, <b>pseudogerontoxon</b> (arcus-like scar after limbal VKC), <b>keratoconus</b> (eye rubbing), aggressive HSV."
+   ],
+   "hook": "<b>V</b>ernal = <b>V</b>ery young boy in spring. <b>Cobblestones + shield.</b>",
+   "cards": [
+    {
+     "q": "White dots at the limbus in VKC?",
+     "a": "Horner–Trantas dots (eosinophil collections)."
+    },
+    {
+     "q": "Which VKC corneal lesion is most urgent?",
+     "a": "Shield ulcer/plaque."
+    },
+    {
+     "q": "Arcus-like scar next to previously inflamed limbus in VKC?",
+     "a": "Pseudogerontoxon."
+    }
+   ]
+  },
+  {
+   "id": "ch06-12",
+   "group": "Allergic",
+   "title": "Atopic keratoconjunctivitis (AKC)",
+   "minutes": 4,
+   "tldr": "<b>Adult</b> (30–50) with lifelong <b>eczema</b>. Worse in <b>winter</b>, rarely goes away. <b>Lower</b> lid involved, <b>scarring</b>, keratoconus, <b>shield cataract</b>.",
+   "points": [
+    "Long history of atopic dermatitis + asthma. ~5% had VKC as a child. No sex bias.",
+    "Lids: <b>eczema</b> (red, scaly, cracked), staph blepharitis, <b>Hertoghe sign</b> (outer eyebrow lost), <b>Dennie–Morgan folds</b>, ectropion, ptosis.",
+    "Conjunctiva: <b>inferior</b> more than superior (VKC is superior). Watery discharge. Smaller papillae, then <b>scarring, symblepharon</b>, fornix shortening, keratinised caruncle.",
+    "Cornea: inferior PEEs, <b>vascularisation and scarring</b> (more than VKC), persistent epithelial defects, plaques, <b>bad HSV</b>, bacterial/fungal infection, <b>keratoconus (~15%)</b>.",
+    "<b>Shield-like anterior/posterior subcapsular cataract</b> (also from steroids).",
+    "Cataract surgery: higher <b>endophthalmitis</b> risk (Staph on the lids) and <b>RD</b> risk."
+   ],
+   "table": {
+    "head": [
+     "",
+     "VKC",
+     "AKC"
+    ],
+    "rows": [
+     [
+      "Age",
+      "Boys from ~5",
+      "Adults 30–50"
+     ],
+     [
+      "Season",
+      "Spring/summer",
+      "All year, worse in winter"
+     ],
+     [
+      "Lid",
+      "Upper tarsus",
+      "Lower tarsus"
+     ],
+     [
+      "Outcome",
+      "Grows out by late teens",
+      "Chronic, scarring"
+     ]
+    ]
+   },
+   "hook": "<b>VKC = Very young, goes Up (upper lid), goes away.</b> <b>AKC = Adult, Always there, scarring.</b>",
+   "cards": [
+    {
+     "q": "Absence of the lateral eyebrows in atopic patients?",
+     "a": "Hertoghe sign."
+    },
+    {
+     "q": "Why is endophthalmitis risk higher after cataract surgery in AKC?",
+     "a": "Heavy Staph aureus carriage on the lid margins."
+    }
+   ]
+  },
+  {
+   "id": "ch06-13",
+   "group": "Allergic",
+   "title": "Treating VKC & AKC",
+   "minutes": 4,
+   "tldr": "Base = <b>mast cell stabiliser / dual-action drop</b>. Flares = <b>short, intense steroid</b> (watch IOP). Steroid-sparing = <b>ciclosporin</b> or <b>tacrolimus</b>. Shield ulcer → <b>debride</b>.",
+   "points": [
+    "General: avoid allergens, cool compresses, lid hygiene, moisturiser on the lid skin.",
+    "Long-term: <b>mast cell stabiliser</b> (cromoglicate, nedocromil, lodoxamide) ± <b>dual-action</b> (olopatadine, ketotifen, azelastine). NSAIDs can be added.",
+    "Flares: <b>topical steroid</b> (FML, loteprednol, prednisolone) 2-hourly then quick taper. <b>Monitor IOP.</b>",
+    "<b>Acetylcysteine</b> breaks up mucus and early plaques.",
+    "<b>Ciclosporin</b> 0.05–2%: steroid-sparing, takes weeks.",
+    "<b>Tacrolimus</b> ointment: lids in AKC (0.03%), and <b>0.1%</b> works well for <b>shield ulcers</b>.",
+    "<b>Supratarsal steroid injection</b> for severe palpebral disease or poor compliance.",
+    "Systemic: oral antihistamine (less night rubbing), doxycycline (AKC blepharitis), immunosuppressants.",
+    "Surgery: <b>superficial keratectomy</b> (or PTK) for plaques/shield ulcers, amniotic membrane, glue for perforation."
+   ],
+   "hook": "Stabilise daily, <b>steroid-blitz flares</b>, swap to <b>ciclosporin/tacrolimus</b> if it keeps coming back.",
+   "cards": [
+    {
+     "q": "Topical agent particularly useful for shield ulcers without steroids?",
+     "a": "Tacrolimus 0.1% ointment."
+    },
+    {
+     "q": "Surgical treatment for a VKC plaque?",
+     "a": "Superficial keratectomy (or excimer PTK)."
+    }
+   ]
+  },
+  {
+   "id": "ch06-14",
+   "group": "Allergic",
+   "title": "Contact lens papillary conjunctivitis (GPC) & friends",
+   "minutes": 3,
+   "tldr": "Upper tarsal papillae from <b>rubbing on something</b>: contact lens, prosthesis, suture, buckle, bleb. Fix = <b>remove the trigger</b> + new lenses.",
+   "points": [
+    "<b>CLPC</b>: protein deposits on the lens rub the upper tarsus. Itch, mucus, blur, lens rides up (caught by the lid), <b>can't tolerate lenses</b>.",
+    "Papillae on the upper tarsus (giant = &gt;1 mm, but early ones are small). Cornea is usually fine.",
+    "Other triggers: <b>ocular prosthesis</b>, exposed sutures, scleral buckle, filtering bleb, <b>'mucus fishing'</b> (patient keeps pulling mucus out).",
+    "Treat: stop lenses for weeks, replace them, switch to <b>daily disposables</b> or <b>rigid lenses</b> (only ~5% get CLPC), preservative-free solutions, protein-removal tablets.",
+    "Drops: mast cell stabiliser (preservative-free with soft lenses), antihistamine, short steroid.",
+    "<b>Contact allergic blepharoconjunctivitis</b>: type IV reaction to drops, lens solutions, mascara → red, thick, scaly lid skin. Stop the cause.",
+    "<b>Non-allergic eosinophilic conjunctivitis</b>: middle-aged women, dry eye, eosinophils but no IgE."
+   ],
+   "hook": "<b>GPC = something keeps rubbing the upper lid.</b> Find it and remove it.",
+   "cards": [
+    {
+     "q": "Which contact lens type carries the lowest risk of CLPC?",
+     "a": "Rigid gas-permeable (or daily disposable soft)."
+    },
+    {
+     "q": "Name 3 non-CL causes of giant papillary conjunctivitis.",
+     "a": "Ocular prosthesis, exposed sutures, scleral buckle, filtering bleb."
+    }
+   ]
+  },
+  {
+   "id": "ch06-15",
+   "group": "Scarring diseases",
+   "title": "Mucous membrane pemphigoid (OCP)",
+   "minutes": 5,
+   "tldr": "Elderly woman with chronic 'conjunctivitis' that slowly <b>scars</b>: <b>shallow lower fornix → symblepharon → keratinisation</b>. Type II, <b>linear IgG/C3 at the basement membrane</b>. Treat <b>systemically</b> (dapsone first).",
+   "points": [
+    "Autoimmune <b>type II</b>: antibodies at the <b>basement membrane zone</b> → blisters → scarring. Linked with <b>HLA-DR4, DQB1</b>. Women 2:1, old age.",
+    "Often <b>misdiagnosed as dry eye</b> for years.",
+    "<b>Foster stages</b>: I = chronic conjunctivitis + subepithelial fibrosis. II = <b>fornix shortening</b> (inferior). III = <b>symblepharon</b>. IV = keratinisation + <b>ankyloblepharon</b>.",
+    "Lids: trichiasis, keratinised lid margin, ankyloblepharon (lids stuck together at the outer canthus).",
+    "Cornea: epithelial defects, vessels, stem cell failure → conjunctivalisation, opacity.",
+    "Body: <b>mouth blisters</b> (common), oesophageal/laryngeal strictures, skin blisters (25%).",
+    "Biopsy: <b>linear antibody + complement at the BMZ</b>.",
+    "Treat <b>systemically</b>: <b>dapsone</b> (check <b>G6PD</b> first!) → azathioprine/methotrexate/MMF → <b>cyclophosphamide</b>, steroids for rapid control, IVIG, rituximab.",
+    "Local: preservative-free tears, lid care, retinoic acid. Surgery only when quiet: avoid cutting conjunctiva, mucous membrane grafts, keratoprosthesis at the end."
+   ],
+   "hook": "Measure the <b>lower fornix</b> in any old person with chronic red eyes. <b>Dapsone → check G6PD.</b>",
+   "cards": [
+    {
+     "q": "Foster stage III OCP?",
+     "a": "Symblepharon formation."
+    },
+    {
+     "q": "Test before starting dapsone?",
+     "a": "G6PD level (risk of haemolysis)."
+    },
+    {
+     "q": "Immunofluorescence finding in MMP?",
+     "a": "Linear IgG/IgA/C3 deposition at the basement membrane zone."
+    }
+   ]
+  },
+  {
+   "id": "ch06-16",
+   "group": "Scarring diseases",
+   "title": "Stevens–Johnson / TEN",
+   "minutes": 5,
+   "tldr": "<b>Drug reaction</b> (sulfonamides, anticonvulsants, nevirapine…) → flu-like illness → <b>mouth and lip crusting + skin sloughing</b>. Eye: membranes acutely, <b>scarring later</b>. Check the eyes <b>daily</b>.",
+   "points": [
+    "Type IV, usually a <b>drug</b>: <b>sulfonamides, trimethoprim</b>, paracetamol, <b>nevirapine</b>, <b>anticonvulsants</b>. Also <b>Mycoplasma</b>, HSV.",
+    "TEN = severe form. SJS mortality ~5% (TEN much higher). Young adults.",
+    "Flu-like up to 2 weeks → <b>haemorrhagic crusting of lips</b>, mouth/genital blisters, purpuric/necrotic skin. (Target lesions = erythema multiforme, a different disease.)",
+    "Acute eye: <b>haemorrhagic lid crusts</b>, conjunctivitis, <b>membranes/pseudomembranes</b>, epithelial defects, iritis.",
+    "Late eye: <b>symblepharon</b>, keratinised lid margin/conjunctiva, trichiasis, entropion, dry eye, corneal vessels and scarring.",
+    "Systemic: <b>stop the drug</b>, fluids/nutrition, <b>burns unit</b>. Steroids/IVIG are controversial.",
+    "Acute eye care: <b>daily review</b>, preservative-free lubricants hourly, <b>break early symblephara with a glass rod</b>, <b>scleral ring</b>, topical steroid, cycloplegic, consider <b>amniotic membrane</b>.",
+    "Chronic: lubricate, plugs, retinoic acid, scleral lenses, mucous membrane grafts, limbal stem cells, keratoprosthesis.",
+    "<b>Ocular GVHD</b> (after stem-cell transplant, 40–60%): looks like SJS: dry eye, membranes, scarring. Main treatment: <b>topical ciclosporin</b>."
+   ],
+   "hook": "<b>New drug + crusty bleeding lips + red eyes = SJS.</b> Sweep the fornices daily.",
+   "cards": [
+    {
+     "q": "Drug classes most often triggering SJS?",
+     "a": "Sulfonamides, anticonvulsants, nevirapine (also trimethoprim, paracetamol)."
+    },
+    {
+     "q": "Acute measure to prevent symblepharon in SJS?",
+     "a": "Daily lysis with a glass rod, scleral ring, (amniotic membrane)."
+    }
+   ]
+  },
+  {
+   "id": "ch06-17",
+   "group": "Odd ones",
+   "title": "SLK, ligneous, Parinaud, factitious",
+   "minutes": 5,
+   "tldr": "<b>SLK</b> → <b>check the thyroid</b>. <b>Ligneous</b> → <b>plasminogen deficiency</b>, woody membranes. <b>Parinaud oculoglandular</b> → <b>cat scratch</b>. <b>Factitious</b> → inferior staining only.",
+   "points": [
+    "<b>Superior limbic keratoconjunctivitis</b>: middle-aged women, <b>~50% thyroid disease</b>. Red radial band of superior bulbar conjunctiva, limbal papillae, velvety upper tarsus, superior PEEs, <b>filaments</b>. Symptoms &gt; signs.",
+    "SLK cause: loose superior conjunctiva rubbed by blinking. Treat: lubricants, acetylcysteine, ciclosporin, <b>bandage CL</b>, silver nitrate 0.5%, <b>resect superior conjunctiva</b>.",
+    "<b>Ligneous conjunctivitis</b>: kids (~5 y), <b>woody fibrin pseudomembranes</b> on the tarsus. <b>Plasminogen deficiency</b>. Can affect gums, lungs, kidneys. Stop antifibrinolytics. Excise + topical <b>heparin + steroid</b>, topical plasminogen.",
+    "<b>Parinaud oculoglandular syndrome</b>: fever + one-sided <b>granulomatous conjunctivitis</b> + big <b>preauricular node</b>. <b>Bartonella henselae</b> (cat scratch). Also tularaemia, TB, syphilis, sporotrichosis.",
+    "<b>Factitious</b>: self-inflicted. <b>Inferior</b> injection/staining with a <b>quiet superior</b> conjunctiva, linear abrasions, Candida. Avoid confrontation, consider psychiatry."
+   ],
+   "hook": "SLK = <b>S</b>uperior + thyroid. <b>Ligneous</b> = like <b>wood</b> (Latin 'lignum').",
+   "cards": [
+    {
+     "q": "Investigation every SLK patient needs?",
+     "a": "Thyroid function tests."
+    },
+    {
+     "q": "Deficiency underlying ligneous conjunctivitis?",
+     "a": "Plasminogen."
+    },
+    {
+     "q": "Granulomatous conjunctivitis + preauricular node after a kitten scratch?",
+     "a": "Parinaud oculoglandular syndrome (Bartonella henselae)."
+    }
+   ]
+  },
+  {
+   "id": "ch06-18",
+   "group": "Degenerations",
+   "title": "Pinguecula & pterygium",
+   "minutes": 4,
+   "tldr": "Both are <b>UV damage</b>. <b>Pinguecula</b> stays off the cornea. <b>Pterygium</b> grows <b>onto</b> the cornea. Pterygium surgery: <b>conjunctival autograft</b> (or MMC) to stop recurrence.",
+   "points": [
+    "<b>Pinguecula</b>: yellow-white bump next to the limbus (nasal more often). Harmless. Can get inflamed (<b>pingueculitis</b>) → lubricant or short steroid.",
+    "<b>Pterygium</b>: triangle of fibrovascular tissue over the limbus, invading <b>Bowman layer</b>. Parts: <b>cap, head, body</b>.",
+    "Signs: <b>Stocker line</b> (iron line in front of the head), <b>Fuchs islets</b> (flecks at the edge).",
+    "Problems: irritation (dellen), <b>astigmatism</b>, blocks the visual axis, cosmetic, restricted movement if recurrent.",
+    "<b>Pseudopterygium</b>: after a burn, ulcer or trauma. <b>Off the horizontal</b>, only stuck at the <b>apex</b> (a probe passes under it).",
+    "Surgery: bare sclera alone → <b>~80% recurrence</b>. <b>Conjunctival autograft</b> (sutured or <b>fibrin glue</b>) or <b>mitomycin C</b> / beta radiation lowers recurrence. Wear sunglasses."
+   ],
+   "hook": "<b>Pinguecula = Parked</b> (stays off the cornea). <b>Pterygium = Pushes in.</b>",
+   "cards": [
+    {
+     "q": "Iron line in the epithelium ahead of a pterygium?",
+     "a": "Stocker line."
+    },
+    {
+     "q": "Recurrence rate after bare-sclera excision?",
+     "a": "Up to ~80%."
+    },
+    {
+     "q": "How to tell a pseudopterygium?",
+     "a": "Off the horizontal, adherent only at its apex (probe passes under), history of injury/ulcer."
+    }
+   ]
+  },
+  {
+   "id": "ch06-19",
+   "group": "Degenerations",
+   "title": "Little stuff: concretions, cysts, subconj haemorrhage",
+   "minutes": 3,
+   "tldr": "<b>Concretions</b> = yellow specks on the lower tarsus (pick out if they scratch). <b>Subconjunctival haemorrhage</b> = scary-looking but usually harmless: check BP; in a <b>baby</b> think abuse or scurvy.",
+   "points": [
+    "<b>Concretions</b>: tiny yellow-white keratin deposits, <b>inferior tarsus/fornix</b>. Age, trachoma. Remove with a needle if eroding through.",
+    "<b>Conjunctivochalasis</b>: loose lower fold → watering, irritation. Lubricate, treat blepharitis, resect if severe.",
+    "<b>Retention cyst</b>: clear bubble on the bulbar conjunctiva. Puncture (recurs) → excise.",
+    "<b>Lymphangiectasia</b>: string of sausage-shaped clear channels, can fill with blood.",
+    "<b>Subconjunctival haemorrhage</b>: often spontaneous, coughing/sneezing, contact lenses (young), <b>hypertension</b>, aspirin/anticoagulants. Clears in 1–2 weeks.",
+    "<b>Infant</b> with subconj haemorrhage → consider <b>non-accidental injury</b> and vitamin C deficiency."
+   ],
+   "hook": "Old person bleed → <b>check BP</b>. Baby bleed → <b>think abuse</b>.",
+   "cards": [
+    {
+     "q": "Systemic check in an elderly patient with recurrent subconjunctival haemorrhage?",
+     "a": "Blood pressure (and anticoagulant/antiplatelet use)."
+    }
+   ]
+  }
+ ]
+}
