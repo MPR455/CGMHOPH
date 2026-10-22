@@ -1245,7 +1245,178 @@
    "num": 12,
    "title": "Uveitis",
    "file": "ch12.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "ch12-01",
+     "title": "Classifying uveitis (SUN)",
+     "group": "Basics"
+    },
+    {
+     "id": "ch12-02",
+     "title": "Anterior uveitis signs",
+     "group": "Basics"
+    },
+    {
+     "id": "ch12-03",
+     "title": "Posterior uveitis signs",
+     "group": "Basics"
+    },
+    {
+     "id": "ch12-04",
+     "title": "Who to investigate & which tests",
+     "group": "Basics"
+    },
+    {
+     "id": "ch12-05",
+     "title": "Treating anterior uveitis",
+     "group": "Treatment"
+    },
+    {
+     "id": "ch12-06",
+     "title": "Immunomodulators for uveitis",
+     "group": "Treatment"
+    },
+    {
+     "id": "ch12-07",
+     "title": "Spondyloarthropathies: AS, reactive, psoriatic",
+     "group": "Systemic associations"
+    },
+    {
+     "id": "ch12-08",
+     "title": "Fuchs uveitis syndrome",
+     "group": "Systemic associations"
+    },
+    {
+     "id": "ch12-09",
+     "title": "JIA uveitis",
+     "group": "Systemic associations"
+    },
+    {
+     "id": "ch12-10",
+     "title": "Bowel & kidney: UC, Crohn, Whipple, TINU",
+     "group": "Systemic associations"
+    },
+    {
+     "id": "ch12-11",
+     "title": "Intermediate uveitis & pars planitis",
+     "group": "Intermediate uveitis"
+    },
+    {
+     "id": "ch12-12",
+     "title": "Vogt–Koyanagi–Harada (VKH)",
+     "group": "Panuveitis"
+    },
+    {
+     "id": "ch12-13",
+     "title": "Sympathetic ophthalmia & lens-induced uveitis",
+     "group": "Panuveitis"
+    },
+    {
+     "id": "ch12-14",
+     "title": "Sarcoidosis: body",
+     "group": "Panuveitis"
+    },
+    {
+     "id": "ch12-15",
+     "title": "Sarcoidosis: eye & diagnosis",
+     "group": "Panuveitis"
+    },
+    {
+     "id": "ch12-16",
+     "title": "Behçet disease",
+     "group": "Panuveitis"
+    },
+    {
+     "id": "ch12-17",
+     "title": "Toxoplasmosis: basics & signs",
+     "group": "Parasitic"
+    },
+    {
+     "id": "ch12-18",
+     "title": "Toxoplasmosis: tests & treatment",
+     "group": "Parasitic"
+    },
+    {
+     "id": "ch12-19",
+     "title": "Toxocariasis",
+     "group": "Parasitic"
+    },
+    {
+     "id": "ch12-20",
+     "title": "Onchocerciasis, cysticercosis, DUSN",
+     "group": "Parasitic"
+    },
+    {
+     "id": "ch12-21",
+     "title": "HIV and the eye",
+     "group": "Viral"
+    },
+    {
+     "id": "ch12-22",
+     "title": "CMV retinitis",
+     "group": "Viral"
+    },
+    {
+     "id": "ch12-23",
+     "title": "ARN vs PORN",
+     "group": "Viral"
+    },
+    {
+     "id": "ch12-24",
+     "title": "Viral anterior uveitis: HSV, VZV, CMV",
+     "group": "Viral"
+    },
+    {
+     "id": "ch12-25",
+     "title": "Histoplasmosis (POHS) & AIDS fungi",
+     "group": "Fungal"
+    },
+    {
+     "id": "ch12-26",
+     "title": "Endogenous Candida & Aspergillus",
+     "group": "Fungal"
+    },
+    {
+     "id": "ch12-27",
+     "title": "Tuberculous uveitis",
+     "group": "Bacterial"
+    },
+    {
+     "id": "ch12-28",
+     "title": "Syphilitic uveitis",
+     "group": "Bacterial"
+    },
+    {
+     "id": "ch12-29",
+     "title": "Lyme, brucella, endogenous bacteria, cat scratch, leprosy",
+     "group": "Bacterial"
+    },
+    {
+     "id": "ch12-30",
+     "title": "MEWDS, AIBSE & APMPPE",
+     "group": "White dots"
+    },
+    {
+     "id": "ch12-31",
+     "title": "Serpiginous & related (RPC, PPM, AMN, AZOOR)",
+     "group": "White dots"
+    },
+    {
+     "id": "ch12-32",
+     "title": "PIC, MCP & SFU ('pseudo-POHS')",
+     "group": "White dots"
+    },
+    {
+     "id": "ch12-33",
+     "title": "Birdshot retinochoroiditis",
+     "group": "White dots"
+    },
+    {
+     "id": "ch12-34",
+     "title": "Rare ones: ARPE, AIM, FBA, IRVAN & more",
+     "group": "White dots"
+    }
+   ]
   },
   {
    "id": "ch13",

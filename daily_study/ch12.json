@@ -1,0 +1,1061 @@
+{
+ "id": "ch12",
+ "num": 12,
+ "title": "Uveitis",
+ "chunks": [
+  {
+   "id": "ch12-01",
+   "group": "Basics",
+   "title": "Classifying uveitis (SUN)",
+   "minutes": 3,
+   "tldr": "By site: <b>anterior</b> (AC), <b>intermediate</b> (vitreous, pars planitis), <b>posterior</b> (retina/choroid), <b>panuveitis</b>. By cause: <b>infectious, non-infectious, masquerade</b>.",
+   "points": [
+    "SUN timing: onset sudden/insidious. Duration <b>limited (≤3 months)</b> or persistent.",
+    "<b>Acute</b> = sudden + limited. <b>Recurrent</b> = episodes with untreated quiet gaps. <b>Chronic</b> = persistent, relapses <b>&lt;3 months</b> after stopping treatment.",
+    "<b>Remission</b> = no cells for ≥3 months.",
+    "Anterior uveitis is the commonest. Iritis ≈ iridocyclitis clinically.",
+    "<b>AAU</b>: mostly <b>HLA-B27</b> or idiopathic. Also trauma, surgery, lens, HSV, keratitis, scleritis, sarcoid.",
+    "<b>CAU</b>: more often bilateral, more systemic disease, often <b>granulomatous</b>.",
+    "~50% of anterior uveitis has <b>no systemic cause</b>. HLA-B27 ~20% of AAU. Others: VZV, TB, syphilis, Lyme, JIA, sarcoid, Behçet, TINU, SLE, MS, drugs, masquerade (lymphoma, melanoma, JXG)."
+   ],
+   "hook": "Uveitis map: <b>Front, Middle, Back, Everywhere</b>.",
+   "cards": [
+    {
+     "q": "SUN definition of chronic uveitis?",
+     "a": "Persistent uveitis with relapse within 3 months of stopping treatment."
+    },
+    {
+     "q": "Proportion of AAU that is HLA-B27 related?",
+     "a": "About 20% (≈50% of otherwise healthy AAU patients are B27+)."
+    }
+   ]
+  },
+  {
+   "id": "ch12-02",
+   "group": "Basics",
+   "title": "Anterior uveitis signs",
+   "minutes": 5,
+   "tldr": "AAU: <b>painful red photophobic eye</b>, ciliary flush, small pupil, <b>cells + flare</b>, KPs. <b>Mutton-fat KPs + iris nodules = granulomatous</b>. <b>Stellate diffuse KPs = Fuchs</b>.",
+   "points": [
+    "<b>Ciliary injection</b> (purple ring at the limbus), <b>miosis</b> (→ synechiae).",
+    "<b>AC cells</b> (count before dilating) in a 1×1 mm beam: 0 &lt;1, 0.5+ 1–5, 1+ 6–15, 2+ 16–25, 3+ 26–50, 4+ &gt;50.",
+    "<b>Flare</b> (protein): 1+ faint, 2+ moderate (iris clear), 3+ marked (iris hazy), 4+ fibrin. Flare = active disease (JIA data).",
+    "<b>Hypopyon</b>: <b>B27</b> (fibrin-rich, fixed) vs <b>Behçet</b> (shifts with head position).",
+    "<b>KPs</b>: inferior <b>Arlt triangle</b>. Small = non-granulomatous. <b>Large greasy 'mutton fat'</b> = granulomatous. <b>Stellate, diffuse</b> = <b>Fuchs</b>.",
+    "Fibrin in AC → B27.",
+    "<b>Iris nodules</b>: <b>Koeppe</b> (pupil edge), <b>Busacca</b> (stroma, granulomatous). Roseolae (syphilis), pearls (leprosy), <b>Russell bodies</b> (crystals).",
+    "<b>Posterior synechiae</b> → dilate early. Iris atrophy: <b>diffuse (Fuchs)</b>, <b>sectoral/patchy (herpes)</b>.",
+    "<b>Heterochromia</b> (Fuchs). Iris NV (chronic). IOP low (shutdown) or high.",
+    "Always <b>examine the fundus</b>: masquerades, posterior disease, CMO."
+   ],
+   "hook": "<b>Mutton fat = Many causes that are granulomatous</b> (sarcoid, TB, syphilis, VKH, SO).",
+   "cards": [
+    {
+     "q": "Hypopyon that shifts with head position?",
+     "a": "Behçet disease (low fibrin)."
+    },
+    {
+     "q": "Iris nodules at the pupil margin vs in the stroma?",
+     "a": "Koeppe (pupil margin), Busacca (stroma)."
+    },
+    {
+     "q": "SUN grade for 20 cells in a 1×1 mm beam?",
+     "a": "2+."
+    }
+   ]
+  },
+  {
+   "id": "ch12-03",
+   "group": "Basics",
+   "title": "Posterior uveitis signs",
+   "minutes": 2,
+   "tldr": "<b>Retinitis</b> = fluffy white retina with fuzzy edges (vitritis). <b>Choroiditis</b> = round yellow nodule (little vitritis). <b>Vasculitis</b> = white sheathing (veins &gt; arteries).",
+   "points": [
+    "Symptoms depend on location: periphery → <b>floaters</b>; macula → <b>central blur</b>.",
+    "<b>Retinitis</b>: focal, multifocal, geographic or diffuse. White with oedematous edges → sharpens as it heals.",
+    "<b>Choroiditis</b>: yellow nodule, little vitreous reaction unless the retina is involved.",
+    "<b>Vasculitis</b>: periphlebitis (commoner) or periarteritis. Yellow-grey cuffing ± haemorrhage. Old scars ≠ active.",
+    "Often both: <b>retinochoroiditis</b> (retina first, e.g. toxo) or <b>chorioretinitis</b> (choroid first)."
+   ],
+   "hook": "<b>Retinitis = fluffy cloud. Choroiditis = yellow button.</b>",
+   "cards": [
+    {
+     "q": "Does choroiditis alone usually cause much vitritis?",
+     "a": "No; vitritis suggests retinal involvement."
+    }
+   ]
+  },
+  {
+   "id": "ch12-04",
+   "group": "Basics",
+   "title": "Who to investigate & which tests",
+   "minutes": 4,
+   "tldr": "Single mild unilateral non-granulomatous AAU → <b>no tests</b>. Recurrent, severe, bilateral, granulomatous, chronic or posterior → test. Core: <b>HLA-B27, syphilis serology, ACE, CXR, QuantiFERON</b>.",
+   "points": [
+    "Skip tests: first mild one-sided AAU, classic Fuchs, known cause (e.g. sarcoid).",
+    "Test: <b>recurrent, severe, bilateral, persistent/chronic, granulomatous</b>, with intermediate/posterior disease, systemic clues.",
+    "<b>HLA-B27</b> (chromosome 6). Positive in 50% of healthy AAU, 90% of AAU with spondyloarthropathy.",
+    "HLA links: <b>A29 = birdshot</b>, <b>B51 = Behçet</b>, <b>B7/DR2 = POHS</b>, <b>DR4 = sympathetic ophthalmia & VKH</b>.",
+    "<b>Syphilis</b>: treponemal test (ELISA, very sensitive) + non-treponemal (<b>RPR/VDRL</b>, tracks activity). Do both.",
+    "<b>ACE</b> (sarcoid ~80% active; high in normal kids, exercise), <b>lysozyme</b>.",
+    "ESR/CRP, FBC (infection, eosinophils), Lyme, ANA (kids/JIA), ANCA (with scleritis/PUK), <b>QuantiFERON</b>, HIV (opportunistic).",
+    "X-ray: <b>sacroiliac</b> (AS), <b>chest</b> (sarcoid, TB).",
+    "Imaging: B-scan, OCT (CMO), FAF (white dots), FA (vasculitis, ischaemia), ICGA (choroid), UBM (hypotony).",
+    "<b>Aqueous PCR</b>: HSV, VZV, <b>CMV</b>, rubella (hypertensive or steroid-resistant AU), P. acnes. Vitreous/chorioretinal biopsy for obscure posterior disease."
+   ],
+   "table": {
+    "head": [
+     "HLA",
+     "Disease"
+    ],
+    "rows": [
+     [
+      "B27",
+      "Recurrent AAU, spondyloarthropathy"
+     ],
+     [
+      "A29",
+      "Birdshot"
+     ],
+     [
+      "B51",
+      "Behçet"
+     ],
+     [
+      "DR4",
+      "VKH, sympathetic ophthalmia"
+     ],
+     [
+      "B7/DR2",
+      "POHS"
+     ]
+    ]
+   },
+   "hook": "<b>A29 = birdshot. B51 = Behçet. DR4 = VKH/SO.</b>",
+   "cards": [
+    {
+     "q": "HLA type associated with birdshot retinochoroiditis?",
+     "a": "HLA-A29."
+    },
+    {
+     "q": "Which two syphilis test types should be done?",
+     "a": "Treponemal (e.g. ELISA/TPPA) and non-treponemal (RPR/VDRL)."
+    }
+   ]
+  },
+  {
+   "id": "ch12-05",
+   "group": "Treatment",
+   "title": "Treating anterior uveitis",
+   "minutes": 4,
+   "tldr": "<b>Topical steroid</b> (hourly → taper over ~6 weeks) + <b>cycloplegic</b>. Stuck synechiae → <b>Mydricaine</b>. Thick fibrin → <b>intracameral tPA</b>. CMO → periocular/intravitreal steroid.",
+   "points": [
+    "<b>Pred 1% / dex 0.1%</b> first choice. Difluprednate (strong), loteprednol (less IOP rise), FML/rimexolone (weaker). Ointment at night.",
+    "AAU taper: hourly 3 days → 2-hourly 3 days → QID 1 week → TDS → BD → OD → stop (~5–6 weeks). Review after stopping.",
+    "<b>CAU</b>: aim for <b>zero cells and flare</b> (except Fuchs).",
+    "Steroid risks: <b>IOP rise</b>, cataract, infection, HSV, melt. Kids: systemic absorption (punctal pressure).",
+    "<b>Cycloplegics</b>: cyclopentolate (12–24 h) &lt; homatropine (3 days) &lt; <b>atropine (7–10 days)</b>. + phenylephrine to break synechiae. Kids: toxicity, amblyopia.",
+    "<b>Mydricaine No. 2</b> (adrenaline + atropine + procaine) subconj or on a pledget → breaks fresh synechiae (monitor heart).",
+    "<b>tPA 12.5–25 µg</b> intracameral for heavy fibrin.",
+    "Subconj betamethasone for severe/poor compliance.",
+    "<b>Orbital floor / posterior sub-Tenon triamcinolone</b> (40 mg): CMO, non-compliance. Peak 4 weeks, lasts ~3 months. Risks: IOP (up to 25%), perforation, ptosis, cataract.",
+    "<b>Intravitreal triamcinolone 4 mg</b> or slow-release implants for stubborn CMO.",
+    "Oral steroid rarely; NSAIDs long-term for CAU; methotrexate for JIA etc."
+   ],
+   "hook": "<b>Steroid to calm, cycloplegic to stop sticking.</b>",
+   "cards": [
+    {
+     "q": "Duration of action of atropine cycloplegia?",
+     "a": "7–10 days."
+    },
+    {
+     "q": "What can dissolve dense fibrin in the AC?",
+     "a": "Intracameral tissue plasminogen activator (tPA)."
+    }
+   ]
+  },
+  {
+   "id": "ch12-06",
+   "group": "Treatment",
+   "title": "Immunomodulators for uveitis",
+   "minutes": 3,
+   "tldr": "Goal: <b>steroid-free remission</b>. Start <b>immediately</b> for <b>Behçet or SLE with retinal vasculitis</b>; <b>early</b> for SO, VKH, birdshot, serpiginous, MCP, JIA. Exclude <b>TB</b> first.",
+   "points": [
+    "Multidisciplinary team. Consent, exclude infection (esp. <b>TB</b>), check blood/kidney/liver.",
+    "Immediate: <b>Behçet</b> and <b>SLE</b> with retinal vasculitis.",
+    "Early: <b>sympathetic ophthalmia, VKH, birdshot, serpiginous, MFC/panuveitis, JIA</b>.",
+    "As steroid alternative: failing/intolerant, needing &gt;0.5 mg/kg pred, sight-threatening/chronic disease, exudative RD, macular involvement.",
+    "<b>Antimetabolites</b>: methotrexate, mycophenolate, azathioprine.",
+    "<b>Calcineurin inhibitors</b>: ciclosporin, tacrolimus, voclosporin, sirolimus.",
+    "<b>Alkylating</b>: cyclophosphamide, chlorambucil.",
+    "<b>Anti-TNF</b>: <b>adalimumab, infliximab</b>, etanercept, golimumab, certolizumab. Take 2 weeks–3 months → bridge with steroids.",
+    "Common immunosuppressants don't raise cancer mortality at these doses; azathioprine or anti-TNF alone → tiny lymphoma risk (higher combined)."
+   ],
+   "hook": "<b>Behçet/SLE vasculitis = start NOW.</b>",
+   "cards": [
+    {
+     "q": "Two conditions needing immediate immunomodulatory therapy?",
+     "a": "Behçet disease and SLE with retinal vasculitis."
+    },
+    {
+     "q": "Infection to exclude before anti-TNF therapy?",
+     "a": "Tuberculosis."
+    }
+   ]
+  },
+  {
+   "id": "ch12-07",
+   "group": "Systemic associations",
+   "title": "Spondyloarthropathies: AS, reactive, psoriatic",
+   "minutes": 4,
+   "tldr": "<b>HLA-B27</b> family. <b>Ankylosing spondylitis</b>: young man, morning back stiffness, <b>AAU in 25%</b> (alternating eyes). <b>Reactive arthritis</b>: <b>can't see, can't pee, can't climb a tree</b>.",
+   "points": [
+    "Seronegative (no RF), B27, enthesitis. Group: AS, undifferentiated, psoriatic, reactive, IBD arthritis.",
+    "<b>AS</b>: men, 90% B27+. Low back/buttock pain and stiffness in their 20s–30s, <b>bamboo spine</b>, sacroiliitis on X-ray (can precede symptoms).",
+    "AS eye: <b>AAU 25%</b> (25% of men with AAU have AS). Either eye at different times, rarely both together. Also scleritis, episcleritis.",
+    "<b>Reactive arthritis (Reiter)</b>: 1–4 weeks after <b>urethritis</b> (Chlamydia) or <b>gut infection</b> (Shigella, Salmonella, Campylobacter). ~75% B27+.",
+    "Reactive: <b>urethritis + conjunctivitis + arthritis</b> (knees, ankles, toes), enthesitis (plantar fasciitis, Achilles, heel spur), <b>keratoderma blennorrhagica</b>, circinate balanitis, mouth ulcers.",
+    "Reactive eye: <b>bilateral mucopurulent conjunctivitis</b> (very common, self-limiting), <b>AAU 20%</b>, keratitis.",
+    "<b>Psoriatic arthritis</b>: up to 40% of psoriasis. Nail pitting, onycholysis, <b>DIP / sausage digits</b>. AAU ~7%.",
+    "Biologics (infliximab) endorsed for chronic sight-threatening uveitis."
+   ],
+   "hook": "Reiter: <b>Can't see, can't pee, can't climb a tree.</b>",
+   "cards": [
+    {
+     "q": "Percentage of AS patients who get AAU?",
+     "a": "About 25%."
+    },
+    {
+     "q": "Skin lesion on palms/soles in reactive arthritis?",
+     "a": "Keratoderma blennorrhagica."
+    }
+   ]
+  },
+  {
+   "id": "ch12-08",
+   "group": "Systemic associations",
+   "title": "Fuchs uveitis syndrome",
+   "minutes": 4,
+   "tldr": "<b>White</b> eye, one side, <b>heterochromia</b>, <b>diffuse stellate KPs</b>, <b>no synechiae</b>, iris atrophy, cataract, vitreous floaters, glaucoma. <b>Rubella</b> link. Steroids <b>don't help</b> chronic low-grade disease.",
+   "points": [
+    "Average age ~40. 90–95% one eye. Possibly <b>rubella</b> (or toxo).",
+    "Presents with blur (<b>PSC cataract</b>) or floaters.",
+    "<b>Heterochromia</b>: usually affected eye <b>lighter</b> (blue eyes may get darker as stroma thins). Subtle in brown eyes.",
+    "<b>No posterior synechiae</b> (except after surgery). Eye is always white.",
+    "<b>Stellate grey-white KPs over the whole endothelium</b>.",
+    "Koeppe nodules, Russell bodies, smooth featureless iris, <b>fine iris vessels</b>.",
+    "Vitritis can be dense. Glaucoma up to <b>60%</b>.",
+    "Gonio: fine angle vessels → <b>Amsler sign</b> (bleed when AC entered). No CMO except after surgery.",
+    "Treatment: monitor. Steroids only for bad flares. Cataract surgery: more bleeding, inflammation, glaucoma. Glaucoma: tube/trab+MMC. PPV for floaters."
+   ],
+   "hook": "Fuchs: <b>White, one-sided, stellate KPs, no synechiae, lighter iris.</b>",
+   "cards": [
+    {
+     "q": "Bleeding from angle vessels on entering the AC in Fuchs uveitis?",
+     "a": "Amsler sign."
+    },
+    {
+     "q": "Name 3 causes of hyperchromic heterochromia.",
+     "a": "Unilateral prostaglandin use, naevus of Ota, siderosis (also iris naevus/melanoma, Sturge–Weber)."
+    }
+   ]
+  },
+  {
+   "id": "ch12-09",
+   "group": "Systemic associations",
+   "title": "JIA uveitis",
+   "minutes": 5,
+   "tldr": "Commonest cause of childhood uveitis. <b>Silent white eye</b>, chronic, both eyes. Highest risk: <b>oligoarticular, ANA+, girl, onset &lt;7</b>. Must <b>screen</b> (every 3–4 months). Complications: <b>band keratopathy, cataract, glaucoma</b>.",
+   "points": [
+    "JIA = arthritis &lt;16 years lasting ≥6 weeks. ~1 in 1000.",
+    "<b>Oligoarticular</b> (≤4 joints, knees): commonest, girls 5:1, peak age 2, <b>75% ANA+</b> → <b>uveitis ~20%</b>.",
+    "<b>Polyarticular RF−</b>: uveitis 5–10%. <b>Polyarticular RF+</b>: very low risk.",
+    "<b>Systemic (Still)</b>: fever, rash, nodes, organ enlargement → uveitis <b>rare</b>.",
+    "Enthesitis-related and psoriatic: relatively high risk.",
+    "Uveitis: <b>no symptoms, no redness</b> even with 4+ cells. Chronic non-granulomatous, both eyes (70%), endothelial dusting, <b>no hypopyon</b>.",
+    "Found late by parents: squint, white pupil (cataract), band on the cornea.",
+    "Complications: PS, <b>band keratopathy, cataract, glaucoma</b>, amblyopia, CMO, ERM, cyclitic membrane, phthisis.",
+    "Screening: first exam <b>within 6 weeks</b>. 2-monthly for 6 months (high-risk groups), then <b>3–4 monthly</b> until ~12. Chase missed appointments. Self-check vision weekly after discharge.",
+    "Differentials: idiopathic CAU, reactive/IBD arthritis, juvenile sarcoid, Lyme, intermediate uveitis, NOMID, <b>retinoblastoma masquerade</b>, <b>Blau syndrome</b>.",
+    "Treat: topical steroid (works in 80%), <b>short-acting</b> mydriatic (amblyopia), early <b>methotrexate</b> → <b>adalimumab/infliximab</b>. <b>Avoid etanercept</b> (worsens uveitis).",
+    "Glaucoma: trab + MMC (better on anti-TNF), Baerveldt. Cataract surgery + IOL OK if well controlled."
+   ],
+   "hook": "JIA eye = <b>quiet but dangerous</b>. <b>No symptoms ≠ no disease</b>.",
+   "cards": [
+    {
+     "q": "Highest-risk JIA subtype for uveitis?",
+     "a": "Oligoarticular, ANA-positive, early onset (girls)."
+    },
+    {
+     "q": "Which anti-TNF should be avoided in JIA uveitis?",
+     "a": "Etanercept."
+    }
+   ]
+  },
+  {
+   "id": "ch12-10",
+   "group": "Systemic associations",
+   "title": "Bowel & kidney: UC, Crohn, Whipple, TINU",
+   "minutes": 4,
+   "tldr": "IBD → AAU (UC ~5%, Crohn 3%) + episcleritis/scleritis. <b>Whipple</b> (Tropheryma) → uveitis + <b>oculomasticatory myorhythmia</b>. <b>TINU</b> = <b>teenage girl</b>, kidney inflammation + bilateral AU.",
+   "points": [
+    "<b>Ulcerative colitis</b>: rectum upwards, continuous ulcers, bloody diarrhoea, erythema nodosum, <b>pyoderma gangrenosum</b>, sclerosing cholangitis. AAU ~5% (with flares; more if B27/arthritis). Episcleritis, scleritis.",
+    "<b>Crohn</b>: mouth to anus, skip lesions, full-thickness granulomas, fistulae. <b>CARD15/NOD2</b>. Eye inflammation 12% (AAU 3%, episcleritis, scleritis, myositis, optic neuritis).",
+    "<b>Whipple disease</b>: <b>Tropheryma whipplei</b>, middle-aged white men, malabsorption + joints + heart + brain. Eye: keratitis, uveitis, retinitis, choroiditis; gaze palsy, <b>oculomasticatory myorhythmia</b>. Curable with antibiotics.",
+    "<b>TINU</b>: <b>adolescent girls</b>, kidney disease first (proteinuria, renal failure), then <b>bilateral AU</b> (sometimes posterior). Responds to steroids, may relapse.",
+    "<b>IgA nephropathy</b>: haematuria after URTI, rare AAU."
+   ],
+   "hook": "Teen girl + kidneys + both eyes inflamed = <b>TINU</b>.",
+   "cards": [
+    {
+     "q": "Bilateral anterior uveitis in an adolescent girl with renal failure?",
+     "a": "TINU (tubulointerstitial nephritis and uveitis)."
+    },
+    {
+     "q": "Pathognomonic eye–jaw movement sign in Whipple disease?",
+     "a": "Oculomasticatory myorhythmia."
+    }
+   ]
+  },
+  {
+   "id": "ch12-11",
+   "group": "Intermediate uveitis",
+   "title": "Intermediate uveitis & pars planitis",
+   "minutes": 5,
+   "tldr": "Floaters + blur, <b>white eye</b>. <b>Snowballs</b> (inferior vitreous), <b>snowbanking</b> (pars plana), periphlebitis. Main vision threat = <b>CMO</b>. Rule out <b>MS, sarcoid</b>, Lyme, syphilis, TB.",
+   "points": [
+    "Vitreous = main site. Up to 15% of uveitis, 20% in kids. 'Pars planitis' only if <b>idiopathic</b> with snowballs/banks.",
+    "Insidious blur + floaters, no pain/redness. Usually both eyes (asymmetric).",
+    "Few AC cells (more in kids, sarcoid, Lyme). <b>Anterior vitreous cells</b>. Haze graded 0–4 by how well you see NFL/disc.",
+    "<b>Snowballs</b> (inferior), <b>periphlebitis</b> (esp. MS), <b>snowbank</b> (inferior grey-white plaque).",
+    "Peripheral/disc NV → vitreous haemorrhage (kids), vasoproliferative tumour.",
+    "Disc swelling, <b>CMO (up to 50%)</b>, ERM, cataract, glaucoma, RD (can → phthisis).",
+    "75% keep ≥6/12 at 4 years.",
+    "Tests: ESR/CRP, FBC, OCT, FA. <b>MS</b> (MRI if any symptoms; women 20–50), <b>sarcoid</b> (ACE, CXR), Lyme, syphilis, <b>TB before steroids</b>. Mimics: Fuchs, <b>lymphoma</b> (elderly), toxocara, Whipple, Candida, toxo.",
+    "Treat: topical steroid (anterior only), <b>periocular steroid</b> (4–6 injections), NSAID, <b>cryo or laser</b> to snowbank/ischaemic retina, intravitreal steroid/implants, oral pred 1–2 mg/kg, immunosuppressants, <b>interferon-β (MS)</b>, infliximab.",
+    "<b>PPV</b>: tractional RD, ERM, refractory CMO, dense opacities, haemorrhage, peripheral NV."
+   ],
+   "hook": "<b>Snowballs + snowbanks</b> = winter in the vitreous. <b>Check for MS.</b>",
+   "cards": [
+    {
+     "q": "Main cause of reduced vision in intermediate uveitis?",
+     "a": "Cystoid macular oedema."
+    },
+    {
+     "q": "Neurological disease to consider in intermediate uveitis with periphlebitis?",
+     "a": "Multiple sclerosis."
+    }
+   ]
+  },
+  {
+   "id": "ch12-12",
+   "group": "Panuveitis",
+   "title": "Vogt–Koyanagi–Harada (VKH)",
+   "minutes": 5,
+   "tldr": "Autoimmune attack on <b>melanocytes</b> (eye, ear, skin, meninges). Asian/Hispanic/dark skin, <b>HLA-DR4</b>. Headache/tinnitus → <b>bilateral granulomatous panuveitis with multifocal exudative RDs</b> → later <b>sunset-glow fundus, vitiligo, poliosis</b>.",
+   "points": [
+    "Phases: <b>prodrome</b> (meningism, tinnitus, vertigo, deafness, CN palsies) → <b>acute uveitic</b> (bilateral granulomatous AU + choroiditis, Dalen–Fuchs nodules, papillitis, <b>multifocal serous RDs</b>, ciliary effusion) → <b>convalescent</b> (alopecia, <b>poliosis, vitiligo</b>, <b>sunset glow</b>, <b>Sugiura sign</b> at the limbus) → <b>chronic recurrent</b> (anterior uveitis flares).",
+    "Diagnostic criteria: (1) no penetrating trauma, (2) no other eye disease, (3) <b>bilateral</b> uveitis, (4) neuro/auditory, (5) skin signs. Complete = all 5. Incomplete = 1–3 + 4 or 5. Probable = 1–3.",
+    "Complications: CNV, subretinal fibrosis, NV, cataract, glaucoma.",
+    "Tests: LP (lymphocytes, melanin macrophages), FAF, B-scan (<b>thick choroid</b>; excludes posterior scleritis), FA (<b>pinpoint leaks → pooling</b>), OCT (<b>subretinal septae</b>), ICGA (hypofluorescent spots; monitoring).",
+    "Treat: <b>high-dose oral pred 1–2 mg/kg</b> (± IV methylpred) tapered over <b>3–6 months</b>. Early immunosuppression/<b>infliximab</b> if not responding."
+   ],
+   "hook": "VKH = <b>Very Krazy Hair</b> (white lashes, bald patches) + exudative RDs.",
+   "cards": [
+    {
+     "q": "Name 3 convalescent-phase signs of VKH.",
+     "a": "Sunset glow fundus, vitiligo, poliosis (also alopecia, Sugiura sign)."
+    },
+    {
+     "q": "Typical FA in acute VKH?",
+     "a": "Multiple pinpoint hyperfluorescent leaks at the RPE followed by subretinal pooling."
+    }
+   ]
+  },
+  {
+   "id": "ch12-13",
+   "group": "Panuveitis",
+   "title": "Sympathetic ophthalmia & lens-induced uveitis",
+   "minutes": 4,
+   "tldr": "<b>SO</b> = bilateral granulomatous panuveitis <b>2 weeks–3 months</b> after <b>penetrating injury</b> (or multiple VR surgeries) to one eye. <b>Dalen–Fuchs nodules</b>. Enucleate a hopeless eye <b>within 10–14 days</b>. Treat with high-dose steroids + early immunosuppression.",
+   "points": [
+    "~0.2–0.5% after injury, 0.01% after surgery. HLA links (DR4).",
+    "Histology: diffuse lymphocytes in the choroid, melanin-containing epithelioid cells, <b>Dalen–Fuchs nodules</b> (between Bruch and RPE; also VKH).",
+    "<b>Exciting eye</b> (injured) red and irritable. <b>Sympathising eye</b>: blur, photophobia, <b>loss of accommodation</b>.",
+    "Bilateral <b>granulomatous AU</b>, midperipheral <b>multifocal choroidal infiltrates</b>, exudative RD, vasculitis, disc swelling → later <b>sunset glow</b>.",
+    "75% keep &gt;6/60 with aggressive treatment. Relapse 50% (can be years later).",
+    "Prevent: <b>enucleation within 10–14 days</b> of injury in a blind eye (evisceration OK if all uvea removed).",
+    "Treat: high-dose oral steroid ± IV methylpred, topical/periocular/intravitreal adjuncts, <b>early immunosuppression</b>.",
+    "<b>Lens-induced (phacoantigenic) uveitis</b>: immune reaction to exposed lens protein (retained fragments after phaco, trauma, leaky mature lens). Granulomatous AU, corneal oedema near AC fragments, high IOP, vitritis. Steroids + <b>remove the lens material</b> (small posterior bits may absorb). Must tell from endophthalmitis."
+   ],
+   "hook": "One eye injured → <b>both eyes inflamed</b> = sympathetic ophthalmia.",
+   "cards": [
+    {
+     "q": "Typical time from injury to sympathetic ophthalmia?",
+     "a": "2 weeks to 3 months (65%)."
+    },
+    {
+     "q": "Where are Dalen–Fuchs nodules located?",
+     "a": "Between Bruch membrane and the RPE."
+    }
+   ]
+  },
+  {
+   "id": "ch12-14",
+   "group": "Panuveitis",
+   "title": "Sarcoidosis: body",
+   "minutes": 3,
+   "tldr": "<b>Non-caseating granulomas</b>, mostly lungs + lymph nodes. More in <b>black</b> people. <b>Löfgren</b> = erythema nodosum + bilateral hilar lymphadenopathy + arthralgia (good prognosis).",
+   "points": [
+    "Black:white ~10:1, colder climates. One of the commonest systemic causes of uveitis.",
+    "Cough, breathlessness, malaise, arthralgia (~50% each). Some found on routine CXR or via uveitis.",
+    "<b>Löfgren syndrome</b>: erythema nodosum + BHL + polyarthralgia (usually women).",
+    "Lungs: infiltrates → fibrosis.",
+    "Skin (25%): <b>erythema nodosum</b>, <b>lupus pernio</b> (purple nose/cheeks/ears), papules.",
+    "Neuro: meningitis, cranial nerve palsies, pituitary. <b>Heart</b> (5%): arrhythmia, <b>sudden death</b>.",
+    "Enlarged lymph nodes."
+   ],
+   "hook": "Sarcoid = <b>granulomas without cheese</b> (non-caseating).",
+   "cards": [
+    {
+     "q": "Triad of Löfgren syndrome?",
+     "a": "Erythema nodosum, bilateral hilar lymphadenopathy, polyarthralgia."
+    }
+   ]
+  },
+  {
+   "id": "ch12-15",
+   "group": "Panuveitis",
+   "title": "Sarcoidosis: eye & diagnosis",
+   "minutes": 5,
+   "tldr": "IWOS 7 signs: <b>mutton-fat KPs/iris nodules, TM nodules/tent PAS, snowballs/string of pearls, peripheral chorioretinal lesions, periphlebitis ('candle wax drippings'), disc/choroidal granuloma, bilateral</b>. Tests: <b>ACE, lysozyme, CXR (BHL), LFTs, chest CT, negative TB skin test</b>.",
+   "points": [
+    "Eye inflammation in 25–70%. <b>Granulomatous AU</b> commonest. AAU (acute sarcoid), CAU (older, chronic lung disease).",
+    "Signs: <b>mutton-fat KPs</b>, Koeppe/Busacca nodules, <b>trabecular nodules</b>, <b>tent-shaped PAS</b>, <b>snowballs / string of pearls</b>, multiple peripheral choroidal lesions (punched-out), retinal granulomas.",
+    "<b>Periphlebitis</b> with <b>'candle wax drippings'</b>, occlusion → peripheral NV (can look like sickle retinopathy), macroaneurysm.",
+    "Disc granuloma, persistent disc oedema, papilloedema (CNS).",
+    "Also: conjunctival nodules, <b>lacrimal gland enlargement</b>, dry eye, lid/orbital/scleral lesions.",
+    "Complications: cataract, glaucoma, synechiae, band keratopathy, CMO, ERM, CNV, RD, phthisis.",
+    "IWOS tests: <b>negative tuberculin</b> (in BCG/previously positive), <b>↑ ACE/lysozyme</b>, <b>CXR BHL</b> (abnormal in 90%), <b>abnormal LFTs</b>, <b>chest CT</b> if CXR normal.",
+    "Biopsy (usually needed before treating): bronchoscopy, <b>EBUS</b>, skin, nodes, <b>conjunctival nodule</b>, lacrimal gland (75% +), vitreous (<b>CD4/CD8</b>). Also PET, gallium, calcium, BAL CD4/CD8.",
+    "Certainty: <b>definite</b> (biopsy), <b>presumed</b> (BHL), probable, possible.",
+    "Treat: stepwise like idiopathic uveitis; posterior → <b>systemic steroids</b> ± methotrexate/azathioprine/adalimumab; laser ischaemic retina; NSAID for CMO; quiet ≥3 months before surgery."
+   ],
+   "hook": "Sarcoid retina = <b>candle wax dripping down the veins</b>.",
+   "cards": [
+    {
+     "q": "'Candle wax drippings' along retinal veins?",
+     "a": "Sarcoid periphlebitis."
+    },
+    {
+     "q": "Tuberculin skin test result typical in sarcoidosis?",
+     "a": "Negative (anergy)."
+    }
+   ]
+  },
+  {
+   "id": "ch12-16",
+   "group": "Panuveitis",
+   "title": "Behçet disease",
+   "minutes": 5,
+   "tldr": "<b>Silk Road</b> (Turkey → Japan), <b>HLA-B51</b>, young men. <b>Mouth ulcers</b> + genital ulcers + skin + <b>pathergy</b>. Eye: <b>shifting hypopyon in a white eye</b>, <b>occlusive retinal vasculitis (arteries + veins)</b>. Needs <b>early immunosuppression</b>.",
+   "points": [
+    "Vasculitis of all vessel sizes. Mortality ~5% at 5–10 years (CNS/vascular). Peak age 20s–30s.",
+    "ISGBD criteria: <b>oral ulcers ≥3/year</b> + 2 of: genital ulcers, eye inflammation, skin lesions (erythema nodosum, pseudofolliculitis, acneiform), <b>positive pathergy test</b> (pustule 24–48 h after needle prick).",
+    "Also: aneurysms, venous thrombosis, arthritis, <b>dermatographia</b>, neuro (brainstem, sinus thrombosis), gut.",
+    "Eye in ~70% (worse in men), eventually bilateral. Relapsing <b>panuveitis + retinal vasculitis</b>.",
+    "<b>Non-granulomatous AAU</b> with <b>mobile hypopyon in a fairly white eye</b>.",
+    "Vitritis. <b>Transient white retinal infiltrates</b> that heal without scars. Deeper viral-like retinitis.",
+    "<b>Vasculitis: arteries AND veins</b> (sarcoid = veins only), haemorrhages, <b>occlusion</b>, oedema, CMO. Main cause of vision loss.",
+    "End-stage: <b>optic atrophy, ghost vessels</b>, retinal atrophy.",
+    "Tests: HLA-B51, pathergy, inflammatory markers, thrombophilia, FA, flare photometry, brain imaging.",
+    "Treat: steroids + <b>azathioprine</b> (EULAR). Severe → + <b>ciclosporin or infliximab</b> (avoid ciclosporin with CNS disease). <b>Infliximab/adalimumab early</b>. Interferon-α (not with azathioprine). No anticoagulants."
+   ],
+   "hook": "Behçet = <b>B</b>51, <b>B</b>outs of ulcers, <b>B</b>oth arteries and veins.",
+   "cards": [
+    {
+     "q": "Positive pathergy test?",
+     "a": "Sterile pustule 24–48 h after a needle prick (Behçet)."
+    },
+    {
+     "q": "How does Behçet vasculitis differ from sarcoid?",
+     "a": "Behçet involves arteries and veins (occlusive); sarcoid is mainly periphlebitis."
+    }
+   ]
+  },
+  {
+   "id": "ch12-17",
+   "group": "Parasitic",
+   "title": "Toxoplasmosis: basics & signs",
+   "minutes": 5,
+   "tldr": "Commonest cause of <b>focal retinitis</b>. Cat = definitive host. Typical: <b>fluffy white retinitis next to an old pigmented scar</b> ('satellite'), dense vitritis → <b>'headlight in the fog'</b>.",
+   "points": [
+    "<b>Toxoplasma gondii</b>. Cat sheds oocysts → food/water/soil. Undercooked meat (bradyzoite cysts). <b>Transplacental</b> (active infection in pregnancy), transplant, transfusion.",
+    "Tachyzoites = active form. Bradyzoites = dormant in cysts (eye, brain, muscle).",
+    "<b>Congenital</b>: worse early in pregnancy, retinochoroiditis &gt;75% (macular scars found later).",
+    "Acquired adults: 80–90% silent; lymph nodes, fever.",
+    "20–60% of posterior uveitis. Usually <b>reactivation at the edge of an old scar</b>. First symptoms ~age 29.",
+    "Symptoms: one eye, floaters, blur, photophobia.",
+    "Signs: spill-over AU (can be granulomatous, high IOP), <b>single white focus + adjacent pigmented scar</b>, posterior pole, <b>vitritis ('headlight in fog')</b>, vasculitis, disc oedema.",
+    "Atypical: multiple/new lesions and fulminant retinitis in the <b>immunocompromised</b>, neuroretinitis, <b>punctate outer retinal toxoplasmosis</b>.",
+    "Vision loss (~25%): macula/nerve involved, vessel occlusion, RD, late <b>CNV</b>.",
+    "Heals in <b>6–8 weeks</b> → sharp atrophic scar with pigment rim. Recurrences ~2.7 per patient; &gt;50% within 5 years."
+   ],
+   "hook": "<b>Headlight in the fog</b> next to an old scar = toxo.",
+   "cards": [
+    {
+     "q": "Classic fundus appearance of reactivated toxoplasmosis?",
+     "a": "Fluffy white focal retinitis adjacent to an old pigmented scar with vitritis ('headlight in the fog')."
+    },
+    {
+     "q": "Definitive host of Toxoplasma gondii?",
+     "a": "The cat."
+    }
+   ]
+  },
+  {
+   "id": "ch12-18",
+   "group": "Parasitic",
+   "title": "Toxoplasmosis: tests & treatment",
+   "minutes": 4,
+   "tldr": "Diagnose clinically (IgG supports, <b>IgM = recent</b>, PCR if unsure). Treat if <b>near the macula/disc/big vessel, severe vitritis, or immunocompromised</b>. Classic: <b>pyrimethamine + sulfadiazine + folinic acid</b> (+ pred after 24–48 h). Alternatives: <b>co-trimoxazole</b>, <b>intravitreal clindamycin + dex</b>.",
+   "points": [
+    "IgG = past exposure (common in population). <b>IgM</b> = infection within ~1 year (key in pregnancy).",
+    "PCR of aqueous/vitreous: specific, variably sensitive. <b>Goldmann–Witmer coefficient</b> (intraocular vs serum antibody).",
+    "OCT (CMO), B-scan (RD), FAF.",
+    "Self-limiting → treat only if sight-threatening: <b>macula, papillomacular bundle, optic nerve, major vessel</b>, severe vitritis, <b>immunocompromised</b>. 4–6 weeks.",
+    "<b>Pyrimethamine</b> 75–100 mg load → 25–50 mg daily + <b>folinic acid</b> (weekly FBC; caution in AIDS).",
+    "<b>Sulfadiazine</b> 1 g QID (stones, allergy, SJS).",
+    "<b>Prednisolone 1 mg/kg</b> only with antimicrobials (often after 24–48 h).",
+    "<b>Intravitreal clindamycin 1 mg + dexamethasone 400 µg</b> (2–3 injections): good for reactivation, pregnancy.",
+    "<b>Co-trimoxazole</b> BD (cheap, well tolerated). <b>Azithromycin</b> may reduce recurrences. Clindamycin (colitis), atovaquone.",
+    "<b>Never depot steroids</b> (triamcinolone) → uncontrolled spread.",
+    "Pregnancy: careful; spiramycin for new infection.",
+    "Immunocompromised → maintenance therapy."
+   ],
+   "hook": "Toxo treatment: <b>P-S-F</b> (Pyrimethamine, Sulfadiazine, Folinic acid) ± Pred.",
+   "cards": [
+    {
+     "q": "Why give folinic acid with pyrimethamine?",
+     "a": "To prevent bone marrow suppression (it's a folate antagonist)."
+    },
+    {
+     "q": "Steroid formulation to avoid in toxoplasmosis?",
+     "a": "Depot periocular/intravitreal triamcinolone (risk of fulminant progression)."
+    }
+   ]
+  },
+  {
+   "id": "ch12-19",
+   "group": "Parasitic",
+   "title": "Toxocariasis",
+   "minutes": 3,
+   "tldr": "Dog roundworm (<b>Toxocara canis</b>), kids eating dirt. Eye: <b>chronic endophthalmitis</b> (leukocoria), <b>posterior pole or peripheral granuloma</b> with vitreous bands. Must <b>exclude retinoblastoma</b>.",
+   "points": [
+    "Puppies shed eggs → children eat soil → larvae migrate.",
+    "<b>Visceral larva migrans</b>: age 2–7, fever, cough, liver, eosinophilia.",
+    "<b>Ocular larva migrans</b>: older kids/adults, one eye, low worm load, vision loss in ~2/3.",
+    "<b>Chronic endophthalmitis</b>: <b>leukocoria</b>, squint, uveitis, vitritis, peripheral snowbank-like exudate → tractional RD, phthisis.",
+    "<b>Granuloma</b> (1–2 DD, yellow-white) at the posterior pole or periphery, quiet eye, <b>vitreous band to the disc</b> → macular drag, RD.",
+    "Also chorioretinal scar, DUSN.",
+    "Tests: eosinophilia, IgE, serology (only ~50% in ocular cases), B-scan, aqueous/vitreous.",
+    "Treat: hygiene, deworm pets, steroids, albendazole/mebendazole (dying worms inflame), <b>vitrectomy</b> for traction."
+   ],
+   "hook": "<b>Puppy + white pupil</b> → think toxocara, but <b>rule out retinoblastoma</b>.",
+   "cards": [
+    {
+     "q": "Main differential for a Toxocara granuloma in a child?",
+     "a": "Retinoblastoma."
+    }
+   ]
+  },
+  {
+   "id": "ch12-20",
+   "group": "Parasitic",
+   "title": "Onchocerciasis, cysticercosis, DUSN",
+   "minutes": 4,
+   "tldr": "<b>River blindness</b> = Onchocerca, blackfly, Africa → <b>snowflake keratitis</b>, sclerosing keratitis, chorioretinitis. <b>Ivermectin</b> yearly. <b>Cysticercosis</b> = pork tapeworm larva cyst. <b>DUSN</b> = one wandering subretinal worm → laser it.",
+   "points": [
+    "<b>Onchocerciasis</b>: 2nd commonest infectious blindness. <b>Simulium blackfly</b> near fast rivers. Microfilariae from adult worms in nodules. <b>Wolbachia</b> symbiont.",
+    "Skin: itch, rash, <b>'leopard skin'</b> on shins, <b>onchocercomas</b> (nodules). Eosinophilia.",
+    "Eye: live microfilariae in AC (after face-down posture), AU with pear-shaped pupil, <b>snowflake punctate keratitis</b> (3 & 9 o'clock) → <b>sclerosing keratitis</b>, temporal chorioretinitis/atrophy, optic neuritis.",
+    "Diagnose: skin snip, serology, oncho-dipstick, PCR.",
+    "Treat: <b>ivermectin</b> (kills microfilariae, yearly; careful with <b>Loa loa</b> → encephalopathy), moxidectin, <b>doxycycline</b> (kills Wolbachia), suramin (adults), steroids.",
+    "<b>Cysticercosis</b>: Taenia solium larva. Brain (neurocysticercosis). Eye: conjunctival/orbital cysts, <b>floating AC cyst</b>, subretinal/vitreous cyst (→ RD, severe inflammation when it dies). Steroids + <b>surgical removal</b>; albendazole carefully.",
+    "<b>DUSN</b>: single motile subretinal nematode. One eye, slow vision loss. Acute: crops of grey-white outer retinal spots, vitritis, papillitis. Late: <b>optic atrophy, thin vessels, diffuse RPE loss</b>. ERG reduced early.",
+    "DUSN treatment: <b>laser the worm</b> if seen (lure away from the fovea first), albendazole, vitrectomy."
+   ],
+   "hook": "<b>River blindness → Ivermectin yearly.</b> <b>DUSN → find the worm, laser it.</b>",
+   "cards": [
+    {
+     "q": "Vector of onchocerciasis?",
+     "a": "Simulium blackfly."
+    },
+    {
+     "q": "Why give doxycycline in onchocerciasis?",
+     "a": "It kills symbiotic Wolbachia, reducing microfilarial production."
+    },
+    {
+     "q": "Treatment of choice for DUSN when the worm is visible?",
+     "a": "Laser photocoagulation of the worm."
+    }
+   ]
+  },
+  {
+   "id": "ch12-21",
+   "group": "Viral",
+   "title": "HIV and the eye",
+   "minutes": 4,
+   "tldr": "AIDS = HIV + <b>CD4 &lt;200</b> or AIDS-defining illness. Commonest retinopathy: <b>HIV microangiopathy</b> (cotton-wool spots, harmless, fades) = warning sign for <b>CMV retinitis</b>.",
+   "points": [
+    "Spread: sex, blood/needles, mother-to-child. Depletes <b>CD4 T cells</b>. <b>ART</b> for everyone.",
+    "Stages: flu-like seroconversion → latent (~8 years) → AIDS.",
+    "AIDS-defining: candidiasis, <b>Pneumocystis</b>, cryptosporidiosis, <b>CMV retinitis</b>, <b>Kaposi</b>, lymphomas, wasting, PML.",
+    "Lids: blepharitis, Kaposi, <b>multiple mollusca</b>, HZO.",
+    "Orbit: cellulitis (aspergillus), lymphoma.",
+    "Conjunctiva: Kaposi, <b>SCC</b>, microvasculopathy.",
+    "Cornea: dry eye, HSV/VZV/fungal keratitis.",
+    "AU from infections or <b>drugs (rifabutin, cidofovir)</b>.",
+    "<b>HIV microangiopathy</b> (up to 70%): <b>cotton-wool spots</b>, haemorrhages, microaneurysms. No symptoms, fades in weeks. Marks low CD4 → <b>CMV risk</b>."
+   ],
+   "hook": "HIV cotton-wool spots = <b>harmless clouds</b> that warn of the <b>CMV storm</b>.",
+   "cards": [
+    {
+     "q": "Commonest retinopathy in AIDS?",
+     "a": "HIV microangiopathy (cotton-wool spots)."
+    },
+    {
+     "q": "Two drugs causing anterior uveitis in HIV patients?",
+     "a": "Rifabutin and cidofovir."
+    }
+   ]
+  },
+  {
+   "id": "ch12-22",
+   "group": "Viral",
+   "title": "CMV retinitis",
+   "minutes": 4,
+   "tldr": "AIDS with <b>CD4 &lt;50</b>. <b>'Pizza pie'</b>: white necrotic retina + <b>flame haemorrhages</b> along the arcades, <b>little vitritis</b>. Treat: <b>ART + valganciclovir</b>. RD in up to 50%. Watch for <b>immune recovery uveitis</b>.",
+   "points": [
+    "Opportunistic, reactivated. Strongly tied to <b>low CD4</b>. Less common since ART.",
+    "Blur (macula) or floaters. One eye → 50% both if untreated. Indolent peripheral form can be silent.",
+    "Mild AU, mild vitritis (unless immune recovery).",
+    "<b>Fulminant</b>: dense white retina + haemorrhages ('<b>pizza pie</b>') along the vessels. <b>Indolent</b>: granular peripheral, few haemorrhages.",
+    "Optic neuritis. <b>Frosted branch angiitis</b> (~6%).",
+    "Healed areas: atrophy + holes → <b>RD</b> (up to 50%) → PPV + endolaser + <b>silicone oil</b> (~75% success).",
+    "<b>Immune recovery uveitis</b>: inflammation after ART restores immunity → vitritis, CMO, can → phthisis. Steroids carefully.",
+    "Treat with ID team: <b>ART</b> (stop anti-CMV when CD4 &gt;100–150), <b>valganciclovir</b> 900 mg BD × 3 weeks → 900 mg daily (neutropenia → filgrastim). IV ganciclovir/foscarnet/cidofovir reserve. Ganciclovir implant (8 months).",
+    "Screen: CD4 &lt;50 → 3-monthly, 50–100 → 6-monthly, &gt;100 → yearly."
+   ],
+   "hook": "CMV = <b>'pizza pie'</b> in a <b>very immunosuppressed</b> patient, <b>quiet vitreous</b>.",
+   "cards": [
+    {
+     "q": "Typical CD4 count for CMV retinitis?",
+     "a": "Below 50 cells/µl."
+    },
+    {
+     "q": "Oral drug for CMV retinitis induction and maintenance?",
+     "a": "Valganciclovir."
+    }
+   ]
+  },
+  {
+   "id": "ch12-23",
+   "group": "Viral",
+   "title": "ARN vs PORN",
+   "minutes": 4,
+   "tldr": "<b>ARN</b> = <b>healthy</b> person, <b>lots of inflammation</b> (panuveitis, vitritis), peripheral necrosis spreading around, <b>arteritis</b>. <b>PORN</b> = <b>AIDS</b>, <b>no inflammation</b>, deep retinitis racing in, <b>cherry-red spot</b>. Both: <b>VZV/HSV</b>, high RD risk.",
+   "points": [
+    "<b>ARN</b>: HSV in the young, <b>VZV in older</b> people. Can follow HSV encephalitis/skin infection.",
+    "ARN criteria (AUS): <b>panuveitis</b> (± scleritis), <b>discrete peripheral necrosis</b> with sharp edges, <b>circumferential spread</b>, <b>occlusive vasculitis incl. arteritis</b>, rapid progression. Painful.",
+    "ARN: heals in 6–12 weeks → necrotic retina → <b>RRD</b>; &gt;50% end ≤6/60.",
+    "ARN treatment: <b>IV aciclovir 15 mg/kg 8-hourly</b> 10–14 days → oral 800 mg 5×/day for 6–12 weeks (or <b>valaciclovir 2 g TDS → 1 g TDS</b>). <b>Protects the other eye.</b> ± intravitreal ganciclovir/foscarnet. Oral steroids after 24 h. <b>Prophylactic laser doesn't help</b>. PPV + oil for RD.",
+    "<b>PORN / PRN</b>: usually <b>VZV</b>, AIDS or drug immunosuppression. Fast vision loss, one or both eyes.",
+    "PORN: <b>minimal AU and vitritis</b>. Deep yellow-white multifocal spots, early <b>macula → cherry-red spot</b>, spreads fast, little vasculitis/haemorrhage. RD, optic atrophy. &gt;½ NPL.",
+    "PORN treatment: ART + aggressive IV + intravitreal ganciclovir/foscarnet.",
+    "Diagnosis: <b>aqueous/vitreous PCR</b>."
+   ],
+   "table": {
+    "head": [
+     "",
+     "ARN",
+     "PORN",
+     "CMV"
+    ],
+    "rows": [
+     [
+      "Host",
+      "Healthy",
+      "AIDS",
+      "AIDS (CD4&lt;50)"
+     ],
+     [
+      "Inflammation",
+      "Severe",
+      "Minimal",
+      "Mild"
+     ],
+     [
+      "Start",
+      "Periphery",
+      "Deep/posterior",
+      "Along vessels"
+     ],
+     [
+      "Haemorrhage",
+      "Some",
+      "Few",
+      "Lots"
+     ]
+    ]
+   },
+   "hook": "<b>ARN = Angry</b> eye (healthy host). <b>PORN = Peaceful</b> eye, terrible prognosis.",
+   "cards": [
+    {
+     "q": "Necrotizing retinitis with minimal vitritis in AIDS, early macular cherry-red spot?",
+     "a": "Progressive outer retinal necrosis (PORN), usually VZV."
+    },
+    {
+     "q": "Main benefit of systemic aciclovir in ARN?",
+     "a": "Greatly reduces risk of second-eye involvement."
+    }
+   ]
+  },
+  {
+   "id": "ch12-24",
+   "group": "Viral",
+   "title": "Viral anterior uveitis: HSV, VZV, CMV",
+   "minutes": 4,
+   "tldr": "All three: <b>one eye, high IOP, iris atrophy</b>. HSV = patchy atrophy. VZV = <b>sectoral</b> atrophy after shingles. CMV = <b>white eye</b>, high IOP, endotheliitis, <b>doesn't respond to aciclovir</b> → valganciclovir.",
+   "points": [
+    "<b>HSV AU</b>: patchy (sometimes sectoral) iris atrophy incl. pigment layer, high IOP, bigger pupil, KPs fine/stellate or large. Same eye recurs. Treat: topical steroid + cycloplegic + <b>oral aciclovir 400 mg 5×/day</b> (or valaciclovir/famciclovir).",
+    "<b>VZV AU</b>: ~50% of HZO, starts 1–3 weeks after the rash (or zoster sine herpete). <b>Sectoral iris atrophy</b>, reduced corneal sensation, high IOP, can be granulomatous. Steroid + mydriatic + antiviral. Monitor HZO weekly for ≥6 weeks. Recurrence → aciclovir 800 mg 5×/day.",
+    "<b>CMV AU</b> (immunocompetent): recurrent or chronic, <b>very high IOP</b> (Posner–Schlossman can be CMV), little injection/flare, endotheliitis, sectoral atrophy, rarely synechiae. <b>Fails aciclovir/steroids</b> → aqueous PCR → <b>oral valganciclovir</b> (sometimes long-term).",
+    "<b>Rubella</b>: congenital (cataract, AU, <b>salt-and-pepper retinopathy</b>, glaucoma, microphthalmos); latent rubella → steroid-resistant CAU, Fuchs.",
+    "<b>Measles</b>: conjunctivitis, keratitis, retinitis; <b>SSPE</b> → posterior uveitis.",
+    "Mumps (rare iritis, IK), vaccinia, <b>Zika</b> (congenital macular atrophy), <b>Ebola</b> (uveitis in 1/3 of survivors)."
+   ],
+   "hook": "Viral AU triad: <b>1 eye, high IOP, iris holes</b>.",
+   "cards": [
+    {
+     "q": "Clue that anterior uveitis may be CMV rather than HSV?",
+     "a": "Failure to respond to aciclovir/steroids; white eye, very high IOP, endotheliitis."
+    },
+    {
+     "q": "Congenital rubella retinopathy appearance?",
+     "a": "'Salt and pepper' pigmentary retinopathy."
+    }
+   ]
+  },
+  {
+   "id": "ch12-25",
+   "group": "Fungal",
+   "title": "Histoplasmosis (POHS) & AIDS fungi",
+   "minutes": 4,
+   "tldr": "<b>POHS</b> triad: <b>punched-out 'histo spots' + peripapillary atrophy + NO vitritis</b>. Danger = <b>CNV</b> → anti-VEGF, Amsler the other eye. <b>Pneumocystis</b> = yellow-orange choroidal spots in AIDS.",
+   "points": [
+    "<b>Histoplasma capsulatum</b> (inhaled; Mississippi/Ohio valleys). Eye disease = immune reaction. <b>HLA-B7, DR2</b>.",
+    "Usually symptom-free. 60% both eyes.",
+    "Triad: <b>histo spots</b> (~200 µm white atrophic), <b>peripapillary atrophy</b>, <b>no vitritis</b>. Linear midperipheral streaks (5%).",
+    "<b>CNV</b> (&lt;5%) from a macular spot → 60% end &lt;6/60 untreated → <b>intravitreal anti-VEGF</b>.",
+    "Macular histo spot → 25% CNV risk in that eye → weekly Amsler.",
+    "<b>Pneumocystis jirovecii choroiditis</b> (AIDS): multiple deep <b>yellow-orange</b> round lesions, little vitritis, vision OK.",
+    "<b>Cryptococcus</b>: multifocal choroiditis, or papilloedema/motility problems from meningitis."
+   ],
+   "hook": "POHS: <b>spots, ring round the disc, clear vitreous</b>.",
+   "cards": [
+    {
+     "q": "Classic triad of POHS?",
+     "a": "Punched-out 'histo' spots, peripapillary atrophy, absence of vitritis."
+    },
+    {
+     "q": "Main sight-threatening complication of POHS?",
+     "a": "Choroidal neovascularisation."
+    }
+   ]
+  },
+  {
+   "id": "ch12-26",
+   "group": "Fungal",
+   "title": "Endogenous Candida & Aspergillus",
+   "minutes": 3,
+   "tldr": "<b>IV drug user / long-term line / diabetic</b> → slow vitritis with <b>'cotton ball' or 'string of pearls'</b> colonies + white chorioretinal spots → <b>vitreous biopsy</b>, <b>voriconazole</b> ± intravitreal, early <b>PPV</b>. Aspergillus is faster and hits the <b>macula</b>.",
+   "points": [
+    "<b>Candida albicans</b>: risks = <b>IV drug use</b>, <b>indwelling catheter</b>, cystic fibrosis, debility, diabetes. (Uncommon in AIDS.)",
+    "Up to 1/3 of untreated candidaemia → eye involvement. Slow. Often bilateral.",
+    "Signs: <b>fluffy 'cotton ball' / 'string of pearls'</b> vitreous colonies, creamy chorioretinal lesions, necrosis → RD with PVR.",
+    "Tests: <b>vitreous biopsy (cutter)</b> for culture/PCR, blood/urine cultures.",
+    "Treat: <b>voriconazole</b> (good penetration) or amphotericin + flucytosine; <b>intravitreal amphotericin/voriconazole</b>; <b>early vitrectomy</b>.",
+    "<b>Aspergillus</b>: IV drugs, lung disease, transplant, <b>neutropenia</b>. Faster, <b>early macular</b> yellow infiltrates, occlusive vasculitis, worse outcome. Check for <b>endocarditis</b>.",
+    "<b>Coccidioidomycosis</b>: granulomatous AU + multifocal choroiditis."
+   ],
+   "hook": "<b>IV drugs + fluffy cotton balls in the vitreous = Candida.</b>",
+   "cards": [
+    {
+     "q": "Typical vitreous appearance in Candida endophthalmitis?",
+     "a": "Fluffy 'cotton ball' or 'string of pearls' colonies."
+    },
+    {
+     "q": "Which fungal endophthalmitis involves the macula earlier and progresses faster?",
+     "a": "Aspergillus."
+    }
+   ]
+  },
+  {
+   "id": "ch12-27",
+   "group": "Bacterial",
+   "title": "Tuberculous uveitis",
+   "minutes": 4,
+   "tldr": "Granulomatous AU with <b>broad posterior synechiae</b>, vitritis, <b>choroidal tubercles</b>, <b>serpiginoid choroiditis</b>, occlusive <b>periphlebitis</b> (Eales?). Test: <b>IGRA (QuantiFERON)</b>, CXR. Treat with <b>4-drug ATT</b> + steroids.",
+   "points": [
+    "Mycobacterium tuberculosis. Eye disease often without obvious lung disease.",
+    "Granulomatous AU, iris nodules, <b>broad posterior synechiae</b>, vitritis, CMO, ERM.",
+    "<b>Choroidal tubercles</b> (dome-shaped, single/multiple); <b>tuberculoma</b> (big).",
+    "<b>Serpiginoid choroiditis</b> (spreading outward); choroiditis tracking vessels is fairly specific.",
+    "<b>Occlusive periphlebitis</b> → ischaemia → NV. Some <b>Eales disease</b> may be TB hypersensitivity.",
+    "Others: lupus vulgaris lids, phlyctenulosis, IK, scleritis, exudative RD, optic neuropathy.",
+    "Tests: tuberculin skin test, <b>IGRA</b> (not affected by BCG), sputum PCR, CXR/CT/PET, <b>HIV test</b>. Ocular PCR specific but often negative.",
+    "Treat: specialist <b>multi-drug therapy</b> (watch <b>ethambutol optic neuropathy</b>; rifabutin AU). Treating latent TB with uveitis halves recurrences. Steroids alongside (paradoxical worsening). Laser ischaemic retina."
+   ],
+   "hook": "TB uveitis: think it in any <b>granulomatous or serpiginous</b> picture — <b>QuantiFERON</b> before steroids.",
+   "cards": [
+    {
+     "q": "Advantage of IGRA over tuberculin skin test?",
+     "a": "Not affected by previous BCG vaccination."
+    },
+    {
+     "q": "TB drug needing visual monitoring?",
+     "a": "Ethambutol (optic neuropathy)."
+    }
+   ]
+  },
+  {
+   "id": "ch12-28",
+   "group": "Bacterial",
+   "title": "Syphilitic uveitis",
+   "minutes": 4,
+   "tldr": "'Great imitator'. Granulomatous or not, <b>bilateral in 50%</b>, iris <b>roseolae</b>, chorioretinitis, <b>ASPPC</b> (big yellow placoid macular lesion), ground-glass retinitis, optic neuritis. <b>Treat as neurosyphilis</b> (IV penicillin), test for <b>HIV</b>.",
+   "points": [
+    "Treponema pallidum, usually sexual.",
+    "Stages: primary <b>painless chancre</b> → secondary <b>maculopapular rash</b> (palms/soles) → latent → tertiary (~40% untreated: aortitis, neurosyphilis, gummas).",
+    "AU in ~4% of secondary syphilis; 50% bilateral; <b>roseolae</b> (dilated iris capillaries → yellow nodules); high IOP.",
+    "Chorioretinitis (focal or multifocal, vitritis, exudative RD).",
+    "<b>ASPPC</b> (acute syphilitic posterior placoid chorioretinopathy): large pale-yellow placoid lesion at the posterior pole; more in immunosuppressed.",
+    "Ground-glass retinitis, occlusive vasculitis (arteries + veins) → diffuse scars.",
+    "Optic neuritis, neuroretinitis, IU, scleritis, <b>Argyll Robertson pupils</b>.",
+    "Tests: treponemal + RPR/VDRL, <b>LP</b> (neurosyphilis), <b>HIV status</b>, ocular PCR if serology unreliable.",
+    "Treat: <b>parenteral penicillin</b> (neurosyphilis regimen) with ID team ± steroids. Watch for <b>Jarisch–Herxheimer reaction</b>."
+   ],
+   "hook": "Any <b>weird uveitis → test for syphilis</b>.",
+   "cards": [
+    {
+     "q": "Large pale-yellow placoid macular lesion in an HIV patient with uveitis?",
+     "a": "Acute syphilitic posterior placoid chorioretinopathy (ASPPC)."
+    },
+    {
+     "q": "Febrile reaction after starting penicillin for syphilis?",
+     "a": "Jarisch–Herxheimer reaction."
+    }
+   ]
+  },
+  {
+   "id": "ch12-29",
+   "group": "Bacterial",
+   "title": "Lyme, brucella, endogenous bacteria, cat scratch, leprosy",
+   "minutes": 5,
+   "tldr": "<b>Lyme</b>: tick bite → <b>erythema migrans</b> → IU/neuro/<b>CN VII palsy</b>. <b>Cat scratch</b> (Bartonella) → <b>neuroretinitis with macular star</b>. <b>Leprosy</b> → <b>iris pearls</b>, beaded corneal nerves. <b>Endogenous bacterial endophthalmitis</b> → septic, find the source.",
+   "points": [
+    "<b>Lyme</b> (Borrelia burgdorferi, Ixodes tick, deer). Erythema chronicum migrans → neuro (CN palsies, meningitis), cardiac → arthritis, neuropathy.",
+    "Lyme eye: <b>intermediate uveitis</b> (commonest), AU, posterior/vasculitis, neuroretinitis; conjunctivitis (early), stromal keratitis, episcleritis, scleritis, myositis, optic neuritis, <b>facial palsy</b> (up to 25% in endemic areas).",
+    "Lyme Rx: <b>doxycycline</b> (not kids/pregnancy) / amoxicillin early; IV ceftriaxone/penicillin if established.",
+    "<b>Brucellosis</b>: unpasteurised milk. Chronic uveitis, papilloedema. Doxycycline + streptomycin.",
+    "<b>Endogenous bacterial endophthalmitis</b>: septic patient (lines, IV drugs, joints, endocarditis). Early <b>retinal infiltrates</b>, then like post-op endophthalmitis. Mortality 5–10%. Cultures + IV antibiotics + intravitreal + PPV.",
+    "<b>Cat-scratch disease</b> (Bartonella henselae): papule + lymphadenopathy. Eye 5–10%: <b>neuroretinitis</b> (disc swelling + <b>macular star</b>), retinochoroiditis, <b>Parinaud oculoglandular</b>. Doxycycline 4–6 weeks (erythromycin in kids).",
+    "<b>Leprosy</b>: tuberculoid → borderline → lepromatous (leonine face, digit loss). Eye: <b>thick beaded corneal nerves</b>, keratitis, pannus, <b>plasmoid AU</b>, small pupil + iris atrophy, <b>iris pearls</b> (pathognomonic), reduced corneal sensation, lagophthalmos (CN VII). Dapsone + rifampicin + clofazimine."
+   ],
+   "hook": "<b>Kitten scratch → star at the macula.</b> <b>Leprosy → pearls on the iris.</b>",
+   "cards": [
+    {
+     "q": "Disc swelling + macular star after a cat scratch?",
+     "a": "Bartonella neuroretinitis (cat-scratch disease)."
+    },
+    {
+     "q": "Pathognomonic iris sign of lepromatous leprosy?",
+     "a": "Iris pearls."
+    },
+    {
+     "q": "Most common uveitis pattern in Lyme disease?",
+     "a": "Intermediate uveitis."
+    }
+   ]
+  },
+  {
+   "id": "ch12-30",
+   "group": "White dots",
+   "title": "MEWDS, AIBSE & APMPPE",
+   "minutes": 4,
+   "tldr": "<b>MEWDS</b>: young woman, <b>one eye</b>, after flu, tiny grey dots + <b>orange granular fovea</b>, big blind spot, <b>goes away by itself</b>. <b>APMPPE</b>: <b>both eyes</b>, big creamy placoid lesions, FA <b>dark early/bright late</b>, beware <b>cerebral vasculitis</b>.",
+   "points": [
+    "<b>MEWDS</b>: young women, viral prodrome in 25–50%. Painless one-sided blur + photopsia.",
+    "MEWDS signs: mild vitritis, many small (100–300 µm) grey-white deep dots sparing the fovea, <b>orange granular foveal sheen</b>, ± disc oedema.",
+    "MEWDS tests: <b>enlarged blind spot</b>, OCT ellipsoid disruption, FAF bright spots, FA early hyper/late stain ('wreath'), ICGA many dark spots, ERG reduced a-wave.",
+    "MEWDS: recovers in 2–6 weeks; 10% recur; no treatment (except CNV).",
+    "<b>AIBSE</b>: big blind spot + photopsia (maybe MEWDS variant).",
+    "<b>APMPPE</b>: young adults, viral prodrome 1/3, <b>both eyes</b> (second eye within weeks). Choriocapillaris inflammation → RPE ischaemia.",
+    "APMPPE signs: <b>multiple large cream placoid lesions</b> at the posterior pole → fade to RPE mottling. <b>Headache/neuro symptoms</b> (cerebral vasculitis → stroke).",
+    "APMPPE tests: FA <b>early hypo, late hyper</b> (blocked then stains), ICGA non-perfusion. HLA-B7/DR2. MRI/LP if neuro.",
+    "APMPPE: good prognosis usually (25% ≤6/15). Steroids if macula or <b>CNS vasculitis</b>."
+   ],
+   "hook": "<b>MEWDS = Mostly one Eye, Woman, Dots, Self-limiting.</b> <b>APMPPE = big Plaques, Pair of eyes, watch the brain.</b>",
+   "cards": [
+    {
+     "q": "Characteristic foveal sign in MEWDS?",
+     "a": "Orange granular appearance with dulled foveal reflex."
+    },
+    {
+     "q": "Serious systemic association of APMPPE?",
+     "a": "Cerebral vasculitis (stroke)."
+    },
+    {
+     "q": "FA pattern of active APMPPE lesions?",
+     "a": "Early hypofluorescence, late hyperfluorescence (staining)."
+    }
+   ]
+  },
+  {
+   "id": "ch12-31",
+   "group": "White dots",
+   "title": "Serpiginous & related (RPC, PPM, AMN, AZOOR)",
+   "minutes": 4,
+   "tldr": "<b>Serpiginous</b>: middle-aged man, <b>snake-like</b> grey lesions spreading <b>from the disc</b>, recurrent → atrophy. <b>Rule out TB</b> ('serpiginoid'). <b>AZOOR</b>: young woman, zone of field loss, near-normal fundus, <b>abnormal ERG</b>.",
+   "points": [
+    "<b>Serpiginous choroidopathy</b>: both eyes (asymmetric), men, middle age, <b>HLA-B7</b>. Outer retina + choriocapillaris.",
+    "Grey-white lesions starting <b>peripapillary</b> and creeping out in snake-like (serpiginous) tongues; macular variant 5%. Recur next to old scars → extensive atrophy.",
+    "Complications: <b>CNV 15–35%</b>, fibrosis, NV.",
+    "FA early hypo/late hyper; ICGA dark throughout.",
+    "<b>Exclude TB</b>. Treat: steroids + immunosuppressants/infliximab.",
+    "<b>Relentless placoid (ampiginous)</b>: mix of APMPPE + serpiginous.",
+    "<b>Persistent placoid maculopathy</b>: like macular serpiginous but milder; CNV common.",
+    "<b>Acute macular neuroretinopathy</b>: young women (± flu, OCP), paracentral scotomas, <b>red-brown wedge-shaped petal lesions</b> round the fovea, recovers.",
+    "<b>AZOOR</b>: young/middle-aged women, sudden <b>zonal field loss</b> (often temporal), photopsia, fundus nearly normal early → later RPE clumping. <b>ERG</b>: reduced a/b, delayed 30 Hz; EOG reduced. Stabilises in 6 months mostly."
+   ],
+   "hook": "<b>Serpiginous = snake slithering out from the disc.</b>",
+   "cards": [
+    {
+     "q": "Where does serpiginous choroidopathy typically start?",
+     "a": "Around the optic disc (peripapillary), spreading outward."
+    },
+    {
+     "q": "Key test in AZOOR with a near-normal fundus?",
+     "a": "Electroretinography (ERG)."
+    }
+   ]
+  },
+  {
+   "id": "ch12-32",
+   "group": "White dots",
+   "title": "PIC, MCP & SFU ('pseudo-POHS')",
+   "minutes": 4,
+   "tldr": "<b>Young myopic women</b>. <b>PIC</b> = small yellow spots at the <b>macula</b>, <b>no inflammation</b>, CNV up to 40%. <b>MCP</b> = spots everywhere + <b>AU/vitritis</b>, chronic. <b>SFU</b> = progressive subretinal fibrosis.",
+   "points": [
+    "<b>Punctate inner choroidopathy</b>: young myopic women, both eyes sequentially. Blur, floaters, photopsia.",
+    "PIC: little/no AU or vitritis. Small yellow-white fuzzy macular spots (inner choroid) → sharp punched-out scars (like histo spots).",
+    "PIC: <b>CNV up to 40%</b> → <b>anti-VEGF</b>; steroids/immunosuppression for recurrent disease.",
+    "<b>Multifocal choroiditis and panuveitis</b>: young-middle aged women, chronic/recurrent, both eyes.",
+    "MCP: <b>AU (50%) + vitritis</b>, multiple 50–350 µm yellow-grey spots at the pole/periphery, linear streaks, pigmented scars, peripapillary atrophy. CNV 25–35%, CMO, fibrosis. Field defects bigger than expected.",
+    "MCP FA: early hypo/late hyper; ICGA many dark spots.",
+    "MCP treatment: steroids → immunosuppression; CNV → steroids + anti-VEGF.",
+    "<b>SFU</b>: very rare, myopic young women, AU + vitritis + subretinal mounds → <b>widespread subretinal fibrosis</b>. Poor prognosis."
+   ],
+   "table": {
+    "head": [
+     "",
+     "PIC",
+     "MCP"
+    ],
+    "rows": [
+     [
+      "Location",
+      "Macula",
+      "Pole + periphery"
+     ],
+     [
+      "Inflammation",
+      "None/minimal",
+      "AU + vitritis"
+     ],
+     [
+      "CNV",
+      "Up to 40%",
+      "25–35%"
+     ]
+    ]
+   },
+   "hook": "<b>PIC = Pure macular spots, no inflammation.</b> <b>MCP = Many spots + Cells.</b>",
+   "cards": [
+    {
+     "q": "Main threat to vision in PIC?",
+     "a": "Choroidal neovascularisation (up to 40%)."
+    },
+    {
+     "q": "How does MCP differ from PIC?",
+     "a": "MCP has anterior uveitis/vitritis and spots beyond the macula."
+    }
+   ]
+  },
+  {
+   "id": "ch12-33",
+   "group": "White dots",
+   "title": "Birdshot retinochoroiditis",
+   "minutes": 4,
+   "tldr": "Middle-aged (often white) woman, <b>HLA-A29 (&gt;95%)</b>, vitritis + <b>cream ovoid choroidal spots radiating from the disc</b>, sparing the macula. Monitor with <b>visual fields + ERG</b>, not VA. Needs <b>long-term immunosuppression</b>.",
+   "points": [
+    "Chronic, bilateral. Retinitis and choroiditis behave separately.",
+    "Slow central blur, photopsia, floaters (often more symptoms than VA suggests).",
+    "Vitritis. Many <b>ill-defined cream ovoid spots &lt;1 DD</b> in the pole/midperiphery, radiating out from the disc. Old ones = atrophic spots.",
+    "Complications: CMO, ERM, CNV.",
+    "Monitor with <b>visual fields</b> (and ERG), not acuity.",
+    "Tests: <b>HLA-A29</b>, OCT, FAF (more spots), FA (<b>vessel and disc leakage</b>, diffuse oedema; fovea often spared), ICGA (more dark spots early), ERG (rod/cone loss over time).",
+    "~1/3 end &lt;6/60 historically; better with aggressive treatment.",
+    "Treat: sub-Tenon triamcinolone (one eye) → <b>systemic</b> (up to 90%): steroids → <b>mycophenolate</b> → <b>infliximab</b>."
+   ],
+   "hook": "<b>Birdshot = A29</b> ('a shotgun with 29 pellets').",
+   "cards": [
+    {
+     "q": "HLA association of birdshot?",
+     "a": "HLA-A29 (>95%)."
+    },
+    {
+     "q": "Best functional test for monitoring birdshot?",
+     "a": "Visual fields (and ERG), not visual acuity."
+    }
+   ]
+  },
+  {
+   "id": "ch12-34",
+   "group": "White dots",
+   "title": "Rare ones: ARPE, AIM, FBA, IRVAN & more",
+   "minutes": 4,
+   "tldr": "<b>ARPE</b> = clusters of grey spots with yellow haloes at the macula, recovers. <b>AIM</b> = grey exudative macular detachment → bull's eye. <b>Frosted branch angiitis</b> = florid vessel sheathing. <b>IRVAN</b> = arteriolar <b>aneurysms</b> + neuroretinitis → laser ischaemic retina.",
+   "points": [
+    "<b>ARPE (Krill)</b>: young adults, one eye, mild blur; 2–4 clusters of small grey RPE spots with yellow haloes; resolves 6–12 weeks; EOG low.",
+    "<b>Acute idiopathic maculopathy</b>: young adults, flu prodrome, sudden central loss; grey-yellow <b>exudative macular detachment</b>, small haemorrhages, papillitis → may leave a <b>bull's eye</b>.",
+    "<b>Acute multifocal retinitis</b>: multiple retinitis spots, macular star (maybe Bartonella).",
+    "<b>Solitary idiopathic choroiditis</b>: single yellow choroidal elevation, vitritis; steroids if sight-threatening.",
+    "<b>Frosted branch angiitis</b>: <b>florid white sheathing</b> of arterioles + venules. Primary (kids/young, both eyes, steroid-responsive, good prognosis) or secondary (<b>CMV</b>, lymphoma, leukaemia).",
+    "<b>IRVAN</b>: young women. <b>Arteritis + multiple arteriolar aneurysms</b> (incl. on the disc) + <b>neuroretinitis</b>, exudates, peripheral non-perfusion → NV → <b>early PRP</b>; anti-VEGF/steroids."
+   ],
+   "hook": "<b>IRVAN</b> = <b>I</b>diopathic <b>R</b>etinal <b>V</b>asculitis, <b>A</b>neurysms, <b>N</b>euroretinitis.",
+   "cards": [
+    {
+     "q": "What does IRVAN stand for?",
+     "a": "Idiopathic Retinal Vasculitis, Aneurysms and Neuroretinitis."
+    },
+    {
+     "q": "Name 2 secondary causes of frosted branch angiitis.",
+     "a": "CMV retinitis, lymphoma/leukaemia."
+    }
+   ]
+  }
+ ]
+}
