@@ -1,0 +1,151 @@
+{
+ "id": "ch08", "num": 8, "title": "Corneal and Refractive Surgery",
+ "chunks": [
+  {
+   "id": "ch08-01", "group": "Corneal grafts", "title": "Why graft? Donors & prognosis", "minutes": 3,
+   "tldr": "Graft reasons: <b>optical, tectonic, therapeutic, cosmetic</b>. Best prognosis: <b>keratoconus, small scars, dystrophies</b>. Worst: <b>vascularised, numb, inflamed</b> corneas.",
+   "points": [
+    "<b>Optical</b>: keratoconus, scars, dystrophies, <b>pseudophakic bullous keratopathy</b>.",
+    "<b>Tectonic</b>: keep the eye intact (descemetocoele, thinning).",
+    "<b>Therapeutic</b>: remove infected tissue that won't respond.",
+    "Donor: retrieve within <b>12–24 h</b> of death. Infant corneas (≤3 years) rarely used. Stored cold (7–10 days) or in <b>organ culture</b> (4 weeks).",
+    "No donation if: unknown cause of death, HIV/hepatitis/syphilis/TB/sepsis, high-risk behaviour, <b>CJD and other CNS diseases</b> (dementia, MS, Parkinson, MND), pituitary growth hormone, most blood cancers, <b>retinoblastoma</b>, prior refractive surgery.",
+    "Poor-prognosis host: <b>deep vessels</b>, no sensation, very thin edge, active inflammation, lid disease, atopy/OCP, dry eye, PAS, uncontrolled glaucoma, uveitis. Fix what you can first."
+   ],
+   "hook": "<b>Vessels = Very risky graft.</b>",
+   "cards": [
+    {"q": "Best-prognosis indication for penetrating keratoplasty?", "a": "Keratoconus (also localised scars, dystrophies)."},
+    {"q": "Name a CNS condition that excludes corneal donation.", "a": "Creutzfeldt–Jakob disease (also dementia, MS, Parkinson, MND)."}
+   ]
+  },
+  {
+   "id": "ch08-02", "group": "Corneal grafts", "title": "Penetrating keratoplasty (PK)", "minutes": 3,
+   "tldr": "Full-thickness graft, usually <b>7.5 mm</b>, donor <b>0.25 mm bigger</b>. Long-term <b>topical steroid</b>. Remove <b>loose sutures</b> immediately (rejection risk).",
+   "points": [
+    "Smaller grafts → astigmatism. Bigger → PAS, high IOP, rejection.",
+    "<b>Cut the donor first</b>, then the host (in case the donor is unusable).",
+    "Continuous or interrupted sutures (or both).",
+    "After: <b>pred 1% / dex 2-hourly</b> → taper → once daily for a year or more. Cycloplegic 1–2 weeks. <b>Oral aciclovir</b> if HSV history. Check IOP (non-applanation early).",
+    "Sutures out at <b>12–18 months</b> (longer in elderly). <b>Loose/broken sutures out now.</b>",
+    "Early complications: epithelial defect, loose sutures, wound leak, uveitis, high IOP, rupture, CMO, infection, endophthalmitis, <b>Urrets-Zavalia</b> (fixed dilated pupil).",
+    "Late: astigmatism, disease recurs, wound dehiscence, retrocorneal membrane, glaucoma, rejection, failure."
+   ],
+   "hook": "<b>Loose suture = welcome mat for vessels and rejection.</b>",
+   "cards": [
+    {"q": "Fixed dilated pupil after PK?", "a": "Urrets-Zavalia syndrome."},
+    {"q": "Why prepare the donor button before excising host tissue?", "a": "So surgery isn't left incomplete if the donor proves unusable."}
+   ]
+  },
+  {
+   "id": "ch08-03", "group": "Corneal grafts", "title": "Graft rejection", "minutes": 4,
+   "tldr": "Red, blurry, sore graft = <b>rejection until proven otherwise</b>. <b>Khodadoust line</b> (endothelial, worst), <b>Krachmer spots</b> (subepithelial). Treat with <b>hourly topical steroid</b> ± IV methylprednisolone.",
+   "points": [
+    "Cornea is immune-privileged (no vessels/lymphatics). Lost with <b>vessels</b>, inflammation.",
+    "Risks: <b>big (&gt;8 mm) or eccentric grafts</b>, <b>host vessels</b>, infection (HSV), glaucoma, <b>previous grafts</b>. <b>Male donor → female recipient</b> is worse. HLA matching helps a little.",
+    "Symptoms: blur, redness, photophobia, pain (may be silent). Days to years later.",
+    "<b>Epithelial</b>: raised epithelial line (~3 months).",
+    "<b>Subepithelial</b>: <b>Krachmer spots</b> (like adenovirus infiltrates) on the donor.",
+    "<b>Stromal</b>: deeper haze.",
+    "<b>Endothelial</b>: <b>Khodadoust line</b> (line of KPs) moving across from the vascularised edge + oedema.",
+    "Treat: <b>preservative-free steroid hourly</b> for 24 h → taper. Cycloplegic. <b>Oral pred 1 mg/kg</b>, or <b>IV methylpred 500 mg</b> (within 8 days). Subconj steroid, ciclosporin, tacrolimus.",
+    "Differentials: failure without inflammation, infection (HSV, fungus), uveitis, suture reaction, epithelial ingrowth."
+   ],
+   "hook": "<b>K</b>hodadoust = <b>K</b>ills the endothelium (line of KPs). <b>K</b>rachmer = subepithelial spots.",
+   "cards": [
+    {"q": "Line of KPs across a graft endothelium?", "a": "Khodadoust line (endothelial rejection)."},
+    {"q": "Which donor–recipient gender combination is unfavourable?", "a": "Male donor to female recipient."}
+   ]
+  },
+  {
+   "id": "ch08-04", "group": "Corneal grafts", "title": "Lamellar grafts: DALK, DSAEK, DMEK", "minutes": 4,
+   "tldr": "Replace only the <b>sick layer</b>. Front sick → <b>DALK</b> (keep own endothelium = <b>no endothelial rejection</b>). Back sick (Fuchs) → <b>DSAEK / DMEK</b> (fast recovery, few sutures).",
+   "points": [
+    "<b>Superficial lamellar</b>: front ⅓ scars, peripheral thinning (Terrien, recurrent pterygium, dermoid), descemetocoele patch.",
+    "<b>DALK</b>: remove almost down to Descemet. For keratoconus (<b>no past hydrops</b>), anterior scars, <b>atopic</b> patients (high rejection risk).",
+    "DALK pros: <b>no endothelial rejection</b>, stronger eye, less astigmatism, any donor endothelium OK, sutures out ~6 months.",
+    "DALK cons: hard, risk of perforating Descemet, interface haze.",
+    "<b>DSAEK</b>: strip host Descemet/endothelium, insert donor endothelium + a thin stromal layer through a small incision. Most common.",
+    "<b>DMEK</b>: Descemet + endothelium only (5–10 µm). <b>Best vision, lowest rejection</b>, harder surgery.",
+    "EK pros: small refractive change, strong eye, fast recovery. Cons: learning curve, equipment, endothelial rejection still possible."
+   ],
+   "table": {"head": ["Surgery", "Replaces", "Use for"], "rows": [["DALK", "Front 95%", "Keratoconus, anterior scars"], ["DSAEK", "Endothelium + thin stroma", "Fuchs, bullous keratopathy"], ["DMEK", "Endothelium + Descemet", "Fuchs (best vision)"], ["PK", "Everything", "Full-thickness disease"]]},
+   "hook": "<b>DALK = Don't Alter the Lining (endothelium) Kept.</b>",
+   "cards": [
+    {"q": "Main immunological advantage of DALK?", "a": "No risk of endothelial rejection (host endothelium retained)."},
+    {"q": "Which EK technique transplants only Descemet + endothelium?", "a": "DMEK."}
+   ]
+  },
+  {
+   "id": "ch08-05", "group": "Corneal grafts", "title": "Limbal stem cell grafts & keratoprosthesis", "minutes": 3,
+   "tldr": "<b>Stem cell deficiency</b> = <b>goblet cells on the cornea</b> (conjunctivalisation), vessels, persistent defects. One eye → <b>autograft</b> from the good eye. Both → <b>allograft</b>. End-stage → <b>keratoprosthesis (OOKP)</b>.",
+   "points": [
+    "LSCD signs: <b>conjunctivalisation with goblet cells</b> (impression cytology, CK19), vessels, pannus, persistent defects, scarring.",
+    "Causes: <b>aniridia</b>, chemical/thermal burns, <b>SJS, OCP</b>, surface tumours, contact lenses.",
+    "Fix lids, conjunctiva, IOP first. Partial → sector epitheliectomy + sector graft.",
+    "Total one-sided → <b>autologous limbal graft</b> from the other eye. Total both sides → living related or cadaver <b>allograft</b>. Also cultured (ex vivo) stem cells.",
+    "In one-sided SJS/OCP, <b>don't take tissue from the 'good' eye</b>.",
+    "<b>Keratoprosthesis</b> (osteo-odonto-keratoprosthesis = tooth + bone + optic cylinder): both eyes blind from end-stage surface disease (SJS, OCP, burns, trachoma), VA ≤CF, retina/nerve OK, motivated.",
+    "KPro complications: <b>glaucoma (up to 75%)</b>, membranes, extrusion, RD, endophthalmitis. ~80% get CF to 6/12."
+   ],
+   "hook": "<b>Goblet cells on the cornea = the stem-cell fence is broken.</b>",
+   "cards": [
+    {"q": "Key sign of limbal stem cell deficiency on impression cytology?", "a": "Goblet cells on the corneal surface (conjunctivalisation)."},
+    {"q": "Commonest complication of keratoprosthesis?", "a": "Glaucoma (up to 75%)."}
+   ]
+  },
+  {
+   "id": "ch08-06", "group": "Refractive surgery", "title": "Refractive options by error", "minutes": 4,
+   "tldr": "Rough limits: <b>PRK</b> myopia ~6 D, astig ~3 D. <b>LASIK</b> myopia ~12 D, hyperopia ~4 D, astig ~5 D. Beyond that → <b>phakic IOL or lens exchange</b>.",
+   "points": [
+    "<b>Myopia</b>: surface ablation (low–moderate), LASIK (moderate–high), <b>SMILE</b>, clear lens exchange (RD risk in high myopes), <b>iris-claw</b> phakic IOL, <b>ICL</b> (posterior chamber phakic, −3 to −20.5 D). Radial keratotomy = historical.",
+    "Phakic IOL risks: endothelial loss, cataract, pupil block, uveitis, RD, oval pupil (iris claw).",
+    "<b>Hyperopia</b>: PRK (low), LASIK (≤4 D), <b>conductive keratoplasty</b> (radiofrequency), holmium laser thermal keratoplasty, lens surgery.",
+    "<b>Astigmatism</b>: <b>limbal relaxing / arcuate incisions</b> on the steep axis, PRK (~3 D), LASIK (~5 D), <b>toric IOL</b> (can rotate).",
+    "<b>Presbyopia</b>: multifocal/accommodating IOLs (glare, ~10% exchanged; may bar pilots), <b>monovision</b>, CK, corneal inlays, corneal multifocality.",
+    "Stop soft CLs <b>2 weeks</b>, rigid lenses <b>≥3 weeks</b> before measurements."
+   ],
+   "hook": "<b>Small error → laser the surface. Medium → flap (LASIK). Big → put a lens in.</b>",
+   "cards": [
+    {"q": "Phakic posterior chamber lens made of Collamer?", "a": "Implantable Collamer Lens (ICL)."},
+    {"q": "How long to stop rigid CL before refractive surgery work-up?", "a": "At least 3 weeks."}
+   ]
+  },
+  {
+   "id": "ch08-07", "group": "Refractive surgery", "title": "LASIK", "minutes": 4,
+   "tldr": "Flap → <b>excimer</b> reshapes the bed → flap back. Leave a <b>residual bed ≥250 µm</b> (ectasia risk). Watch for <b>DLK ('sands of the Sahara')</b>, epithelial ingrowth, flap problems.",
+   "points": [
+    "Myopia: flatten the centre. Hyperopia: ablate the periphery (steepen the centre).",
+    "Suction ring (IOP shoots up) → microkeratome or <b>femtosecond laser</b> flap.",
+    "Pros vs PRK: more comfortable, faster recovery, less haze, larger corrections.",
+    "Cons: <b>flap complications</b>.",
+    "During: buttonhole, free cap, incomplete flap, AC entry.",
+    "After: <b>dry eye</b> (almost everyone), flap wrinkles/striae/dislocation, haze/glare, epithelial ingrowth, infection.",
+    "<b>Diffuse lamellar keratitis</b>: day 1–7, granular 'sand' at the interface → intensive topical steroid + antibiotic.",
+    "<b>Ectasia</b>: risk from <b>forme fruste keratoconus</b> and thin residual bed → screen topography first."
+   ],
+   "hook": "<b>DLK = Desert in the flap</b> (Sahara sand) → steroids.",
+   "cards": [
+    {"q": "Minimum residual stromal bed after LASIK ablation?", "a": "About 250 µm."},
+    {"q": "Granular interface deposits 1–7 days after LASIK?", "a": "Diffuse lamellar keratitis ('sands of the Sahara')."}
+   ]
+  },
+  {
+   "id": "ch08-08", "group": "Refractive surgery", "title": "PRK/LASEK & SMILE", "minutes": 3,
+   "tldr": "<b>PRK</b> = remove epithelium, laser the surface. <b>No flap</b> → safer for <b>thin corneas, contact sports, EBMD</b>, but sore and slower. <b>SMILE</b> = femtosecond lenticule out through a 4 mm cut.",
+   "points": [
+    "Corrects myopia ~6 D, astigmatism ~3 D, low hyperopia.",
+    "Epithelium off (sponge, brush, alcohol) → excimer to Bowman/stroma (30–60 s, eye tracking) → bandage CL → heals in <b>48–72 h</b>.",
+    "Haze within 2 weeks (lasts weeks–months). <b>Mitomycin C</b> reduces it.",
+    "Choose PRK over LASIK: <b>thin cornea</b>, high injury risk (sports, military), <b>EBMD</b>, previous graft or RK, large pupils.",
+    "Complications: slow healing, haze, glare/haloes, regression, decentration, infection.",
+    "Variants: <b>LASEK</b> (alcohol, epithelium flap replaced), <b>Epi-LASIK</b> (epikeratome), <b>Trans-PRK</b> (laser removes the epithelium).",
+    "<b>SMILE / ReLEx</b>: femtosecond cuts a lenticule inside the cornea, removed via a small incision. Less nerve and biomechanical disruption, fewer flap issues."
+   ],
+   "hook": "<b>PRK = Pain Recovers Kinda slowly</b>, but no flap to lose.",
+   "cards": [
+    {"q": "Name 2 reasons to choose PRK over LASIK.", "a": "Thin cornea; high risk of eye trauma (also EBMD, previous graft/RK, large pupil)."},
+    {"q": "Drug applied during surface ablation to reduce haze?", "a": "Mitomycin C."}
+   ]
+  }
+ ]
+}
