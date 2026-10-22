@@ -1,0 +1,953 @@
+{
+ "id": "ch14",
+ "num": 14,
+ "title": "Acquired Macular Disorders",
+ "chunks": [
+  {
+   "id": "ch14-01",
+   "group": "Basics",
+   "title": "Macula anatomy, RPE & Bruch",
+   "minutes": 4,
+   "tldr": "Macula ~5–6 mm (central 15–20°). <b>Fovea 1.5 mm</b> (≈ disc), <b>foveola 0.35 mm</b> (cones only, no ganglion cells), <b>FAZ ~0.6 mm</b>. RPE = <b>outer blood–retinal barrier</b>. Bruch = 5 layers.",
+   "points": [
+    "Macula has &gt;1 layer of ganglion cells. Yellow <b>lutein and zeaxanthin</b> (macula lutea).",
+    "<b>Fovea</b>: 1.5 mm pit. <b>Foveola</b>: 0.35 mm floor, thinnest retina, densely packed cones + Müller cells. <b>Umbo</b>: centre, foveolar reflex (lost early in disease).",
+    "<b>FAZ</b>: no capillaries, ~0.6 mm, measured accurately on FA.",
+    "<b>RPE</b>: single hexagonal layer; apical melanosomes; taller and more pigmented at the fovea.",
+    "RPE jobs: <b>tight junctions = outer BRB</b>, pumps water out of the subretinal space, keeps retina attached, <b>phagocytoses outer segments</b>, vitamin A cycle, absorbs stray light, transports nutrients/waste.",
+    "<b>Bruch membrane</b> (5 layers): RPE basement membrane, inner collagen, <b>elastic</b>, outer collagen, choriocapillaris basement membrane. Damage → CNV."
+   ],
+   "hook": "<b>Fovea ≈ disc size (1.5 mm).</b> Foveola ≈ ¼ of that.",
+   "cards": [
+    {
+     "q": "Diameter of the foveola?",
+     "a": "About 0.35 mm."
+    },
+    {
+     "q": "What forms the outer blood–retinal barrier?",
+     "a": "RPE cells and their tight junctions (zonulae occludentes)."
+    }
+   ]
+  },
+  {
+   "id": "ch14-02",
+   "group": "Basics",
+   "title": "Macular symptoms",
+   "minutes": 2,
+   "tldr": "Macula = <b>positive scotoma</b> (something in the way) + <b>metamorphopsia</b>. Optic nerve = <b>negative scotoma</b> (missing patch) + early colour loss.",
+   "points": [
+    "Blurred near vision first.",
+    "<b>Positive scotoma</b>: a dark blob blocking the centre.",
+    "<b>Metamorphopsia</b>: distorted lines (Amsler) → <b>not</b> optic neuropathy.",
+    "<b>Micropsia</b>: cones spread apart (e.g. oedema). <b>Macropsia</b>: cones bunched (e.g. ERM traction).",
+    "Colour less affected than in optic neuropathy.",
+    "Dark adaptation trouble, lingering after-images."
+   ],
+   "hook": "<b>Micro = cones spread (fluid). Macro = cones squeezed (membrane).</b>",
+   "cards": [
+    {
+     "q": "Micropsia results from what at the fovea?",
+     "a": "Spreading apart of foveal cones (e.g. subretinal fluid)."
+    }
+   ]
+  },
+  {
+   "id": "ch14-03",
+   "group": "Imaging",
+   "title": "Fluorescein angiography: basics & phases",
+   "minutes": 4,
+   "tldr": "Fluorescein: excite <b>490 nm (blue)</b> → emits <b>530 nm (yellow-green)</b>. Phases: <b>choroidal (9–15 s) → arterial → AV (laminar) → venous → late</b>. Fovea is dark (FAZ, xanthophyll, dense RPE).",
+   "points": [
+    "~70% protein-bound. Excreted in urine over 24–36 h.",
+    "Choriocapillaris leaks free fluorescein; <b>RPE tight junctions</b> block it (outer BRB). Retinal capillary endothelium blocks bound + free (inner BRB).",
+    "Filters: <b>cobalt blue excitation</b>, <b>yellow-green barrier</b>.",
+    "Contraindications: fluorescein allergy; relative: severe allergy history, renal failure (lower dose), pregnancy, asthma, heart disease. <b>Shellfish/iodine allergy is not a contraindication.</b>",
+    "Side effects: <b>yellow skin/urine</b> (always), extravasation pain, nausea, itch, vasovagal, <b>anaphylaxis ~1:2000</b>, death ~1:220,000. Have resuscitation ready.",
+    "5 ml of 10% IV over 5–10 s (or oral 30 mg/kg).",
+    "<b>Choroidal (pre-arterial) 9–15 s</b>: patchy choroid + cilioretinal artery. <b>Arterial</b>: ~1 s later. <b>AV/capillary</b>: <b>laminar venous flow</b>. <b>Venous</b>: full venous filling; perifoveal capillaries peak 20–25 s. <b>Late</b>: fading, disc stains; gone from vessels ~10 min.",
+    "Dark fovea: no vessels (FAZ), xanthophyll, dense melanin/lipofuscin RPE."
+   ],
+   "hook": "FA phases: <b>Choroid → Arteries → Laminar veins → Full veins → Late</b> ('<b>C A L F L</b>').",
+   "cards": [
+    {
+     "q": "Which FA phase shows laminar venous flow?",
+     "a": "Arteriovenous (capillary) / early venous phase."
+    },
+    {
+     "q": "Excitation and emission wavelengths of fluorescein?",
+     "a": "~490 nm excitation, ~530 nm emission."
+    }
+   ]
+  },
+  {
+   "id": "ch14-04",
+   "group": "Imaging",
+   "title": "Reading FA: hyper vs hypo",
+   "minutes": 4,
+   "tldr": "Hyper: <b>window defect</b> (early, same size, fades), <b>pooling</b> (in a space), <b>leakage</b> (grows in size + brightness), <b>staining</b> (late). Hypo: <b>blocking</b> or <b>filling defect</b>.",
+   "points": [
+    "<b>Autofluorescence</b> (before dye): disc drusen, astrocytic hamartoma. <b>Pseudofluorescence</b>: filter overlap.",
+    "<b>Window defect</b>: RPE atrophy (GA, macular hole, RPE tear) → early bright, <b>stays the same size</b>, fades with the choroid.",
+    "<b>Pooling</b>: dye collecting in a space. Subretinal (<b>CSR</b>: grows slowly, well-defined) or sub-RPE (<b>PED</b>: brighter but <b>same size</b>).",
+    "<b>Leakage</b>: grows in <b>size and intensity</b> → broken inner BRB (DR, RVO, CMO, papilloedema) or vessels without tight junctions (<b>CNV</b>, NV, tumours, Coats).",
+    "<b>Staining</b>: late retention (drusen, scars, sclera, normal disc).",
+    "<b>Blocking</b>: preretinal blood blocks everything; deeper blood/exudate/pigment/CHRPE/naevus blocks choroid but retinal vessels still show.",
+    "<b>Filling defect</b>: occlusion (arteries, veins, capillary dropout, AION) or loss of vessels (myopia, choroideremia).",
+    "Read systematically: clinical info → which eye → colour/red-free/AF → transit time → quick scan for key signs (lacy CNV, smokestack) → detailed description."
+   ],
+   "table": {
+    "head": [
+     "Pattern",
+     "Size over time",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Window defect",
+      "Same, fades",
+      "Geographic atrophy"
+     ],
+     [
+      "Pooling (sub-RPE)",
+      "Same, brighter",
+      "PED"
+     ],
+     [
+      "Pooling (subretinal)",
+      "Slowly bigger",
+      "CSR"
+     ],
+     [
+      "Leakage",
+      "Bigger + brighter",
+      "CNV, CMO"
+     ],
+     [
+      "Staining",
+      "Late only",
+      "Drusen, scar"
+     ]
+    ]
+   },
+   "hook": "<b>Window = same shape. Leak = spreading puddle.</b>",
+   "cards": [
+    {
+     "q": "Early hyperfluorescence that fades without changing size?",
+     "a": "Window defect (RPE atrophy)."
+    },
+    {
+     "q": "Hyperfluorescence increasing in brightness but not size?",
+     "a": "Pooling in a sub-RPE space (PED)."
+    }
+   ]
+  },
+  {
+   "id": "ch14-05",
+   "group": "Imaging",
+   "title": "ICGA",
+   "minutes": 3,
+   "tldr": "Infrared (<b>805/835 nm</b>) sees <b>through RPE, xanthophyll, thin blood</b> → images the <b>choroid</b>. ~98% protein-bound so stays in choroidal vessels. Best for <b>PCV</b>, RAP, chronic CSR, posterior uveitis.",
+   "points": [
+    "Fluorescence weak (1/25 of fluorescein) → video/SLO capture. Dose 25–50 mg; images up to ~45 min.",
+    "Phases: early (&lt;1 min), early mid (1–3), late mid (3–15), late (15–45).",
+    "Better tolerated; anaphylaxis similar. Contains <b>iodide</b> → avoid with iodine allergy (iodine-free versions exist). Relative CI: <b>liver disease</b>, pregnancy unknown.",
+    "Hyper: window, leakage, abnormal vessels. Hypo: blockage; <b>PED looks dark on ICGA</b> (bright on FA); choriocapillaris non-perfusion = geographic dark areas; stromal foci = even dark dots.",
+    "Uses: <b>PCV (polyps)</b>, AMD adjunct, <b>RAP (hot spot)</b>, chronic CSR (dilated leaky choroidal vessels), posterior uveitis, tumours, lacquer cracks/angioid streaks, when FA contraindicated."
+   ],
+   "hook": "<b>ICGA = choroid's camera.</b> PED: bright on FA, <b>dark on ICGA</b>.",
+   "cards": [
+    {
+     "q": "Condition for which ICGA is far superior to FA?",
+     "a": "Polypoidal choroidal vasculopathy."
+    },
+    {
+     "q": "How does a PED appear on ICGA vs FA?",
+     "a": "Hypofluorescent on ICGA; hyperfluorescent (pooling) on FA."
+    }
+   ]
+  },
+  {
+   "id": "ch14-06",
+   "group": "Imaging",
+   "title": "OCT & OCT-angiography",
+   "minutes": 3,
+   "tldr": "OCT = 'ultrasound with light': cross-section of retinal layers. <b>OCTA</b> shows flow without dye, but <b>no leakage</b> (and misses very slow/fast flow).",
+   "points": [
+    "Near-infrared interferometry. Spectral/Fourier domain (fast, high resolution); <b>swept-source</b> (deeper, faster).",
+    "Layers: NFL, GCL, IPL, INL, OPL, ONL, ELM, <b>ellipsoid zone (IS/OS)</b>, outer segments, RPE, choriocapillaris.",
+    "Thickness maps, 3D. Revolutionised AMD, DMO, holes, ERM, VMT, CSR, RVO. Distinguishes RD vs retinoschisis.",
+    "<b>OCTA</b>: repeated B-scans detect moving red cells → flow maps by layer.",
+    "OCTA uses: <b>CNV</b> (incl. non-exudative CNV in dry AMD), DR (NV vs IRMA, ischaemia, deep plexus), MacTel, PCV, chronic CSR, tumours.",
+    "Limits: no leakage/pooling/staining; flow outside the detection range missed."
+   ],
+   "hook": "<b>OCTA shows the pipes with water running — not the leaks.</b>",
+   "cards": [
+    {
+     "q": "Main limitation of OCT-angiography compared with FA?",
+     "a": "It doesn't show leakage, pooling or staining."
+    }
+   ]
+  },
+  {
+   "id": "ch14-07",
+   "group": "Imaging",
+   "title": "Autofluorescence & wide-field",
+   "minutes": 2,
+   "tldr": "<b>FAF</b> shows <b>lipofuscin</b> in RPE without dye. In GA, a <b>bright (hyper-AF) rim</b> at the edge predicts where atrophy spreads next. Dark = dead/stressed RPE.",
+   "points": [
+    "Shows more disease than visible clinically.",
+    "GA: hyper-AF leading edge comes before the cells die.",
+    "<b>Wide-field</b>: one shot of ~80% of the retina (~200°), often undilated; can do FA/FAF too.",
+    "Zones: posterior pole (within arcades) → mid-periphery (to vortex ampullae) → far periphery (anterior to ampullae)."
+   ],
+   "hook": "<b>Bright rim = next to go.</b>",
+   "cards": [
+    {
+     "q": "What does a hyperautofluorescent rim around geographic atrophy suggest?",
+     "a": "Stressed RPE that is likely to atrophy next (lesion growth)."
+    }
+   ]
+  },
+  {
+   "id": "ch14-08",
+   "group": "AMD",
+   "title": "AMD: classification & risk factors",
+   "minutes": 3,
+   "tldr": "Dry ~90% (end-stage = <b>geographic atrophy</b>); wet ~10% but fast severe loss. Classify by drusen within 2 DD of fovea: <b>&lt;63 µm</b> normal ageing, <b>63–125</b> early, <b>&gt;125 or pigment</b> intermediate, <b>GA/CNV</b> late.",
+   "points": [
+    "Most common cause of irreversible blindness in industrialised countries.",
+    "Late AMD in one eye → <b>~50% fellow eye within 5 yrs</b>.",
+    "Risk: <b>age</b> (biggest), white race, family history (3×), <b>smoking (2×)</b>, hypertension/CVS, high-fat diet/obesity, ?aspirin (wet).",
+    "Genes: <b>CFH</b> (1q31, complement; 7× homozygous) and <b>ARMS2</b> (10q26; 8×). Genetic testing not recommended yet.",
+    "Ruler: a retinal vein at the disc edge ≈ <b>125 µm</b>.",
+    "Wet forms: CNV, PED, RAP, PCV."
+   ],
+   "table": {
+    "head": [
+     "Category",
+     "Findings"
+    ],
+    "rows": [
+     [
+      "Normal ageing",
+      "Drupelets &lt;63 µm only"
+     ],
+     [
+      "Early",
+      "Medium drusen 63–125 µm"
+     ],
+     [
+      "Intermediate",
+      "Large drusen &gt;125 µm or pigment change"
+     ],
+     [
+      "Late",
+      "GA and/or neovascular AMD"
+     ]
+    ]
+   },
+   "hook": "<b>63 and 125</b> = 'half a vein, one vein'.",
+   "cards": [
+    {
+     "q": "Two major AMD susceptibility genes?",
+     "a": "CFH (complement factor H) and ARMS2."
+    },
+    {
+     "q": "Drusen size defining intermediate AMD?",
+     "a": "Large drusen &gt;125 µm (or any AMD pigmentary abnormality)."
+    }
+   ]
+  },
+  {
+   "id": "ch14-09",
+   "group": "AMD",
+   "title": "Drusen",
+   "minutes": 3,
+   "tldr": "Drusen = deposits <b>between RPE and Bruch</b>. Bigger + pigment = higher risk. Large drusen both eyes: 13% late AMD in 5 yrs → <b>~50%</b> if bilateral pigment too.",
+   "points": [
+    "<b>Small/hard</b> (≤63 µm): well-defined; little risk alone.",
+    "<b>Intermediate</b> (63–125 µm): small risk; &gt;10% if bilateral pigment.",
+    "<b>Large/soft</b> (&gt;125 µm): fuzzy edges, can coalesce → <b>drusenoid PED</b>.",
+    "OCT: hyper-reflective lumps under the RPE.",
+    "FA: window defect or late staining; lipid-rich drusen stay dark.",
+    "Mimics: <b>Doyne honeycomb</b> (radial, AD, young), <b>cuticular drusen</b> (young adults, 'stars in the sky' on FA, CFH), <b>type 2 membranoproliferative GN</b>."
+   ],
+   "hook": "<b>Cuticular drusen = 'stars in the sky'.</b>",
+   "cards": [
+    {
+     "q": "FA appearance of cuticular (basal laminar) drusen?",
+     "a": "Numerous tiny hyperfluorescent dots – 'stars in the sky'."
+    }
+   ]
+  },
+  {
+   "id": "ch14-10",
+   "group": "AMD",
+   "title": "AREDS supplements",
+   "minutes": 3,
+   "tldr": "Give AREDS2 vitamins for <b>extensive intermediate drusen, ≥1 large druse, GA, or late AMD in one eye</b>. ~25% less progression. <b>Not</b> for early/no AMD.",
+   "points": [
+    "AREDS2 formula: <b>Vit C 500 mg, Vit E 400 IU, lutein 10 mg, zeaxanthin 2 mg, zinc 25–80 mg, copper 2 mg</b>.",
+    "<b>Beta-carotene removed</b> → raises lung cancer risk in smokers/ex-smokers.",
+    "Lutein/zeaxanthin = safe and probably better.",
+    "<b>Omega-3 added nothing.</b> Lower zinc dose works as well, fewer side effects.",
+    "Also: stop smoking, green leafy veg, sun protection, oily fish."
+   ],
+   "hook": "AREDS2: swap <b>beta-carotene → lutein/zeaxanthin</b>; fish oil flopped.",
+   "cards": [
+    {
+     "q": "Why was beta-carotene removed in AREDS2?",
+     "a": "Increased lung cancer risk in current/former smokers."
+    },
+    {
+     "q": "Did omega-3 help in AREDS2?",
+     "a": "No added benefit."
+    }
+   ]
+  },
+  {
+   "id": "ch14-11",
+   "group": "AMD",
+   "title": "Dry AMD & geographic atrophy",
+   "minutes": 3,
+   "tldr": "Slow, bilateral (asymmetric) loss; better in bright light. Drusen → pigment change → <b>sharp atrophic patches (GA)</b> showing choroidal vessels. FA: <b>window defect</b>. No proven drug yet.",
+   "points": [
+    "Drusen often disappear inside GA.",
+    "OCT: RPE + photoreceptor loss, <b>outer retinal tubulations</b> (round dark spaces at GA edge).",
+    "Basal laminar deposit (between RPE and its BM) vs basal linear deposit (RPE BM ↔ inner collagen → drusen).",
+    "Manage: AREDS if criteria met, risk factors, <b>Amsler grid at home</b>, low vision aids, sight-impaired registration.",
+    "Experimental: intraocular telescope, visual cycle modulators. <b>Lampalizumab failed.</b> Laser to drusen doesn't stop progression."
+   ],
+   "hook": "<b>GA = see-through floor</b> → choroid shows → window defect.",
+   "cards": [
+    {
+     "q": "What are outer retinal tubulations?",
+     "a": "Round hyporeflective OCT spaces of degenerating photoreceptors, often at GA margins."
+    }
+   ]
+  },
+  {
+   "id": "ch14-12",
+   "group": "AMD",
+   "title": "PEDs: serous, fibrovascular, drusenoid, haemorrhagic",
+   "minutes": 4,
+   "tldr": "RPE lifts off Bruch. <b>Serous</b>: orange dome, FA brighter-not-bigger, ICGA dark. <b>Fibrovascular</b> = occult CNV. <b>Drusenoid</b>: from confluent drusen, best outlook. <b>Haemorrhagic</b>: almost always CNV or PCV.",
+   "points": [
+    "Cause: thick Bruch blocks fluid flow from RPE to choroid.",
+    "<b>Serous</b>: sharp orange dome. FA pooling; a <b>notch</b> hints CNV. ICGA dark with bright ring. OCT optically empty. No drusen → think PCV.",
+    "Serous course: atrophy, RPE tear, CNV in ~⅓ by 2 yrs. Rx: observe if stable; anti-VEGF (5–20% RPE tear risk).",
+    "<b>Fibrovascular</b>: irregular, stippled FA leakage. Treat as CNV.",
+    "<b>Drusenoid</b>: pale scalloped edges, OCT <b>solid (hyper-reflective)</b>, usually no SRF. Observe.",
+    "<b>Haemorrhagic</b>: dark red dome, sudden loss; FA blocks."
+   ],
+   "table": {
+    "head": [
+     "PED",
+     "OCT inside",
+     "Clue"
+    ],
+    "rows": [
+     [
+      "Serous",
+      "Empty",
+      "Orange dome"
+     ],
+     [
+      "Fibrovascular",
+      "Mixed",
+      "Occult CNV"
+     ],
+     [
+      "Drusenoid",
+      "Solid bright",
+      "Scalloped, pale"
+     ],
+     [
+      "Haemorrhagic",
+      "Blood",
+      "Think CNV/PCV"
+     ]
+    ]
+   },
+   "hook": "<b>Serous = empty balloon; drusenoid = stuffed pillow.</b>",
+   "cards": [
+    {
+     "q": "Haemorrhagic PED without drusen – think of?",
+     "a": "Polypoidal choroidal vasculopathy."
+    },
+    {
+     "q": "Risk of RPE tear after anti-VEGF for serous PED?",
+     "a": "About 5–20%."
+    }
+   ]
+  },
+  {
+   "id": "ch14-13",
+   "group": "AMD",
+   "title": "RPE tear",
+   "minutes": 2,
+   "tldr": "RPE rips at the edge of a PED (spontaneous or after injection/PDT/laser) and <b>scrolls toward the CNV</b>. Bare area = bright; rolled flap = dark.",
+   "points": [
+    "Risk: older, long-standing, <b>large PED with small CNV</b>, RPE wrinkles on OCT.",
+    "Sudden visual drop if fovea involved.",
+    "Signs: pale crescent (bare) next to dark rolled flap.",
+    "FA: flap hypo; bare zone hyper; sharp border.",
+    "Poor if subfoveal; fine if fovea spared."
+   ],
+   "hook": "<b>Rolled carpet</b>: bare floor bright, rolled carpet dark.",
+   "cards": [
+    {
+     "q": "On which side of the CNV does an RPE tear form?",
+     "a": "The opposite side; the flap retracts toward the CNV."
+    }
+   ]
+  },
+  {
+   "id": "ch14-14",
+   "group": "AMD",
+   "title": "CNV: signs, FA & OCT types",
+   "minutes": 4,
+   "tldr": "New choroidal vessels through Bruch. <b>Type 1 = occult</b> (80%, under RPE, PED on OCT). <b>Type 2 = classic</b> (20%, above RPE, early <b>lacy</b> fill, leaks). Type 3 = RAP.",
+   "points": [
+    "Symptoms: subacute painless blur + <b>metamorphopsia</b>.",
+    "Signs: grey-green/pink lesion, SRF, CMO, lipid, blood, PED, eventually <b>disciform scar</b>.",
+    "Driver: <b>VEGF</b>; inhibitors PEDF, CFH.",
+    "FA now: confirm before anti-VEGF, look for PCV/RAP. Monitoring = OCT.",
+    "<b>Classic</b>: lacy early → leaks over 1–2 min → late staining. Extrafoveal = ≥200 µm from FAZ centre.",
+    "<b>Occult</b>: ill-defined; fibrovascular PED or 'late leakage of undetermined source'.",
+    "Predominantly classic = &gt;50% classic; minimally classic = &lt;50%.",
+    "ICGA: 'hot spot' or 'plaque'."
+   ],
+   "table": {
+    "head": [
+     "Type",
+     "Location",
+     "FA",
+     "OCT"
+    ],
+    "rows": [
+     [
+      "1 (occult)",
+      "Under RPE",
+      "Ill-defined",
+      "Multilobed PED"
+     ],
+     [
+      "2 (classic)",
+      "Above RPE, under retina",
+      "Lacy, early leak",
+      "Subretinal bright material"
+     ],
+     [
+      "3 (RAP)",
+      "Intraretinal",
+      "Like occult",
+      "Intraretinal hyper-reflective"
+     ]
+    ]
+   },
+   "hook": "<b>Type 1 = basement (under RPE). Type 2 = 2nd floor (above RPE).</b>",
+   "cards": [
+    {
+     "q": "FA appearance of classic CNV?",
+     "a": "Well-defined lacy hyperfluorescence early, progressive leakage, late staining."
+    },
+    {
+     "q": "Where is type 1 CNV on OCT?",
+     "a": "Between Bruch and the RPE (sub-RPE) – appears as a PED."
+    }
+   ]
+  },
+  {
+   "id": "ch14-15",
+   "group": "AMD",
+   "title": "Anti-VEGF drugs & trials",
+   "minutes": 4,
+   "tldr": "Anti-VEGF is first line for active CNV; start <b>within 2–3 weeks</b>. Better starting VA = better final VA. Drugs: ranibizumab, bevacizumab, aflibercept, brolucizumab.",
+   "points": [
+    "Active = fluid, blood, FA leak, growth, falling VA. Useless on a dry fibrotic scar.",
+    "<b>Ranibizumab</b> 0.5 mg: antibody fragment, all VEGF-A. ~95% keep vision, ~⅓ gain 15 letters.",
+    "<b>Bevacizumab</b> 1.25 mg: full antibody, off-label, cheap, similar efficacy.",
+    "<b>Aflibercept</b> 2 mg: fusion protein binds VEGF-A, VEGF-B, PlGF; 3 loading then <b>every 2 months</b>.",
+    "<b>Brolucizumab</b>: tiny molecule, ~half manage 3-monthly (HAWK/HARRIER).",
+    "Regimens: monthly, PRN (VA/OCT-guided), <b>treat-and-extend</b>.",
+    "Risks: endophthalmitis, RD, lens damage, RPE tear, IOP rise, uveitis; ?stroke."
+   ],
+   "table": {
+    "head": [
+     "Trial",
+     "Message"
+    ],
+    "rows": [
+     [
+      "MARINA",
+      "Ranibizumab &gt; sham (occult/min. classic)"
+     ],
+     [
+      "ANCHOR",
+      "Ranibizumab &gt; PDT (classic)"
+     ],
+     [
+      "PIER",
+      "Monthly &gt; quarterly"
+     ],
+     [
+      "PrONTO",
+      "OCT-guided PRN ≈ monthly, fewer shots"
+     ],
+     [
+      "CATT / IVAN",
+      "Bevacizumab ≈ ranibizumab"
+     ],
+     [
+      "VIEW 1/2",
+      "Aflibercept 2-monthly ≈ ranibizumab monthly"
+     ],
+     [
+      "HAWK/HARRIER",
+      "Brolucizumab ≈ aflibercept, longer interval"
+     ]
+    ]
+   },
+   "hook": "<b>VIEW</b>: aflibercept, a view every <b>2</b> months. <b>CATT</b> fight: Avastin ≈ Lucentis.",
+   "cards": [
+    {
+     "q": "Which trials compared bevacizumab with ranibizumab?",
+     "a": "CATT (and IVAN in the UK) – no significant difference in vision."
+    },
+    {
+     "q": "What does aflibercept bind?",
+     "a": "VEGF-A, VEGF-B and placental growth factor."
+    }
+   ]
+  },
+  {
+   "id": "ch14-16",
+   "group": "AMD",
+   "title": "Intravitreal injection, PDT & big bleeds",
+   "minutes": 3,
+   "tldr": "Inject <b>3.5–4 mm behind limbus</b> (pars plana), povidone-iodine 5% ≥3 min, 30G, 0.05 ml, avoid 3 & 9 o'clock. Check <b>CRA perfusion</b> after. PDT (verteporfin) now rare.",
+   "points": [
+    "Consent, mark eye, mask, topical anaesthetic, speculum; inferotemporal usually.",
+    "Chlorhexidine if iodine allergy. No routine post-op antibiotics (resistance).",
+    "After: check vision/IOP; CRA occluded by IOP → <b>paracentesis</b>.",
+    "Both eyes same day: separate instruments + drug batches.",
+    "<b>PDT</b>: IV verteporfin + diode laser → thrombosis. Now for PCV combo, refusing injections, CSR (reduced dose).",
+    "Thermal laser only for small extrafoveal classic CNV.",
+    "<b>Massive submacular bleed</b>: anti-VEGF + <b>tPA</b> ± <b>pneumatic displacement</b>; review warfarin; think PCV or macroaneurysm."
+   ],
+   "hook": "After injecting, ask: <b>can they count fingers?</b> (CRA perfused)",
+   "cards": [
+    {
+     "q": "Distance from limbus for intravitreal injection?",
+     "a": "3.5–4.0 mm (pars plana)."
+    },
+    {
+     "q": "Management of large submacular haemorrhage?",
+     "a": "Anti-VEGF + intravitreal/subretinal tPA ± pneumatic displacement."
+    }
+   ]
+  },
+  {
+   "id": "ch14-17",
+   "group": "AMD",
+   "title": "RAP (type 3 neovascularization)",
+   "minutes": 2,
+   "tldr": "New vessels start <b>inside the retina</b> (deep capillary plexus) and dive down to join the choroid. Bilateral, multiple small <b>superficial haemorrhages</b>, PED. ICGA <b>hot spot</b>.",
+   "points": [
+    "10–20% of wet AMD in white people.",
+    "Stage 1 intraretinal NV → 2 subretinal NV (± serous PED) → 3 CNV with retinal–choroidal anastomosis.",
+    "ICGA: hot spot; feeding arteriole + draining venule = <b>'hairpin loop'</b>.",
+    "FA looks like occult/minimally classic.",
+    "Rx: anti-VEGF (± PDT)."
+   ],
+   "hook": "<b>RAP = top-down</b> (retina → choroid); CNV = bottom-up.",
+   "cards": [
+    {
+     "q": "Where does RAP originate?",
+     "a": "In the retina (deep capillary plexus), later anastomosing with the choroid."
+    }
+   ]
+  },
+  {
+   "id": "ch14-18",
+   "group": "AMD",
+   "title": "Polypoidal choroidal vasculopathy (PCV)",
+   "minutes": 3,
+   "tldr": "<b>Pachychoroid</b> disease: branching choroidal network with <b>orange-red polyps</b>. Asian/African, women (5:1), <b>no drusen</b>, big bleeds. Diagnose with <b>ICGA</b>; treat with <b>anti-VEGF + PDT</b> (EVEREST II).",
+   "points": [
+    "Peripapillary or macular orange nodules; recurrent serosanguineous detachments.",
+    "Up to 50% settle on their own.",
+    "ICGA: early bright nodules + network, leak later. Grape-like clusters = worse.",
+    "OCT: <b>'double-hump'</b>, <b>'inverted V'</b> PED, thick choroid.",
+    "Anti-VEGF alone less effective; <b>combo with PDT</b> better (more regression, fewer injections).",
+    "AMD not responding to anti-VEGF after 3 months → <b>do ICGA for PCV</b>."
+   ],
+   "hook": "<b>PCV = Polyps, Pachychoroid, PDT combo.</b>",
+   "cards": [
+    {
+     "q": "Key investigation for PCV?",
+     "a": "ICGA."
+    },
+    {
+     "q": "OCT signs of PCV?",
+     "a": "'Inverted V' PED, double-hump sign, thick choroid."
+    }
+   ]
+  },
+  {
+   "id": "ch14-19",
+   "group": "AMD",
+   "title": "PEHCR & idiopathic CNV",
+   "minutes": 2,
+   "tldr": "<b>PEHCR</b>: older women, <b>peripheral</b> haemorrhage + exudate + PED. <b>Idiopathic CNV</b>: &lt;50 yrs, unilateral, diagnosis of exclusion, better prognosis.",
+   "points": [
+    "PEHCR: bilateral in a minority; vision often good; may be an AMD/PCV variant; anti-VEGF if sight-threatening.",
+    "Idiopathic CNV: exclude angioid streaks, high myopia, inflammation (e.g. presumed ocular histoplasmosis).",
+    "Both treated with anti-VEGF when needed."
+   ],
+   "hook": "<b>Peripheral blood in an older woman → think PEHCR.</b>",
+   "cards": [
+    {
+     "q": "Idiopathic CNV – typical patient?",
+     "a": "Under 50, unilateral, after excluding myopia, angioid streaks and inflammation."
+    }
+   ]
+  },
+  {
+   "id": "ch14-20",
+   "group": "Vitreomacular interface",
+   "title": "Epiretinal membrane (ERM)",
+   "minutes": 3,
+   "tldr": "Clear fibrocellular sheet on the retina that <b>contracts</b> → wrinkling + distortion. Idiopathic (age, PVD) or secondary (<b>RD surgery</b> commonest). Early 'cellophane' → later 'macular pucker'. Rx: <b>vitrectomy + peel</b>.",
+   "points": [
+    "Idiopathic: glial cells from vitreous remnants after PVD; ~10% bilateral; milder.",
+    "Secondary: RD surgery, PRP, cryo, vascular disease, inflammation, trauma; more pigment cells.",
+    "Symptoms: blur, metamorphopsia (often none if mild).",
+    "Signs: sheen (best in <b>red-free</b>), vessel tortuosity, striae, <b>pseudohole</b>, CMO.",
+    "OCT: bright surface layer + thickening; broken IS/OS = worse post-op result.",
+    "Surgery: ≥2 lines gain in ~75%, mainly <b>less distortion</b>; slow recovery over months; recurrence rare. ILM peel controversial."
+   ],
+   "hook": "<b>Cling film on the retina</b>: shrinks → wrinkles.",
+   "cards": [
+    {
+     "q": "Most common cause of secondary ERM?",
+     "a": "Retinal detachment surgery."
+    },
+    {
+     "q": "Main benefit of ERM peel?",
+     "a": "Reduced metamorphopsia (VA improves ≥2 lines in ~75%)."
+    }
+   ]
+  },
+  {
+   "id": "ch14-21",
+   "group": "Vitreomacular interface",
+   "title": "Macular hole: stages",
+   "minutes": 4,
+   "tldr": "Women 60–70; fellow eye ~10% at 5 yrs. Gass: <b>1a yellow spot → 1b yellow ring → 2 &lt;400 µm → 3 &gt;400 µm + cuff → 4 + complete PVD (Weiss ring)</b>.",
+   "points": [
+    "Stage 0 = VMA (OCT only).",
+    "<b>1a</b> impending: flat fovea + yellow spot (inner retina pulls off). DDx: vitelliform, solar, CMO.",
+    "<b>1b</b> occult: yellow ring.",
+    "<b>2</b>: small full-thickness &lt;400 µm, vitreous still attached to the lid.",
+    "<b>3</b>: &gt;400 µm, red base, yellow dots, grey cuff of SRF, ± operculum; VA ~6/60.",
+    "<b>4</b>: same as 3 + complete PVD.",
+    "IVTS size: small ≤250, medium 250–400, large &gt;400 µm.",
+    "Microhole &lt;150 µm: mild symptoms, often heals → tiny IS/OS defect."
+   ],
+   "table": {
+    "head": [
+     "Gass",
+     "Look",
+     "IVTS"
+    ],
+    "rows": [
+     [
+      "1a",
+      "Yellow spot",
+      "VMT"
+     ],
+     [
+      "1b",
+      "Yellow ring",
+      "VMT"
+     ],
+     [
+      "2",
+      "&lt;400 µm hole",
+      "Small/medium FTMH + VMT"
+     ],
+     [
+      "3",
+      "&gt;400 µm + cuff",
+      "Medium/large FTMH + VMT"
+     ],
+     [
+      "4",
+      "Hole + full PVD",
+      "FTMH without VMT"
+     ]
+    ]
+   },
+   "hook": "<b>Spot → Ring → Small → Big → Big + free vitreous.</b>",
+   "cards": [
+    {
+     "q": "Gass stage 3 vs 4 macular hole difference?",
+     "a": "Stage 4 has a complete PVD; clinically otherwise identical."
+    },
+    {
+     "q": "Size cut-off between Gass stage 2 and 3?",
+     "a": "400 µm."
+    }
+   ]
+  },
+  {
+   "id": "ch14-22",
+   "group": "Vitreomacular interface",
+   "title": "Macular hole: tests & treatment",
+   "minutes": 3,
+   "tldr": "<b>Watzke–Allen</b>: slit beam looks <b>broken</b>. OCT diagnoses and stages. Surgery = <b>vitrectomy + ILM peel + gas</b>; closure ~100%, ≥6/12 in ~65%.",
+   "points": [
+    "Amsler: distortion more than scotoma.",
+    "FA: early window defect (not needed routinely). FAF: bright foveal spot in stages 3–4.",
+    "~50% stage 1 resolve; ~10% FTMH close spontaneously (small ones more).",
+    "<b>Ocriplasmin</b> for small early holes with VMT.",
+    "Surgery for stage ≥2: better if small and &lt;6 months. Long face-down posturing no longer needed.",
+    "Vision improves over months in 80–90%; worse in up to 10%."
+   ],
+   "hook": "<b>Watzke–Allen</b>: hole = <b>broken</b> line; other disease = <b>bent</b> line.",
+   "cards": [
+    {
+     "q": "What does a patient with a FTMH report on the Watzke–Allen test?",
+     "a": "The slit beam is broken or thinned in the centre."
+    },
+    {
+     "q": "Three steps of macular hole surgery?",
+     "a": "Vitrectomy (relieve traction), ILM peel, gas tamponade."
+    }
+   ]
+  },
+  {
+   "id": "ch14-23",
+   "group": "Vitreomacular interface",
+   "title": "VMA, VMT, lamellar hole & pseudohole",
+   "minutes": 3,
+   "tldr": "<b>VMA</b>: vitreous stuck within 3 mm, <b>no retinal change</b>. <b>VMT</b>: stuck <b>with</b> retinal distortion. Focal ≤1500 µm, broad &gt;1500 µm. <b>Lamellar hole</b> = partial-thickness; <b>pseudohole</b> = ERM edges heaped up, no tissue lost.",
+   "points": [
+    "Anomalous PVD = gel stays stuck at the macula.",
+    "VMT concurrent (with AMD/RVO/DR) or isolated.",
+    "VMT symptoms: blur, distortion, photopsia, micropsia. VMA: none.",
+    "Lamellar hole: inner retina defect, photoreceptors intact; classic sequel of CMO.",
+    "OCT is key.",
+    "Rx: observe (often releases); <b>ocriplasmin</b> releases VMT in ~25% (worse if ERM; rare diffuse retinal dysfunction); vitrectomy usually works."
+   ],
+   "hook": "<b>VMA = Attached, fine. VMT = Tugging, trouble.</b>",
+   "cards": [
+    {
+     "q": "Difference between VMA and VMT?",
+     "a": "VMT has retinal structural changes/distortion on OCT; VMA does not."
+    },
+    {
+     "q": "What is ocriplasmin?",
+     "a": "Recombinant plasmin injected intravitreally to release vitreomacular traction."
+    }
+   ]
+  },
+  {
+   "id": "ch14-24",
+   "group": "CSR & telangiectasia",
+   "title": "Central serous chorioretinopathy",
+   "minutes": 4,
+   "tldr": "Young/middle-aged <b>man</b> (3:1), <b>steroids</b>, stress → serous bubble under the macula from leaky RPE. VA improves with <b>plus lens</b>. FA <b>ink blot</b> or <b>smokestack</b>. ~80% resolve in 3–6 months.",
+   "points": [
+    "Risks: <b>any steroid</b> (incl. Cushing), pregnancy, H. pylori, hypertension, sleep apnoea, dialysis, stress.",
+    "Symptoms: unilateral blur, distortion, micropsia, mild colour loss; VA ~6/9–6/18.",
+    "Signs: round serous detachment, small PEDs, old RPE scars; chronic → gravitational tracts (FAF). Check for <b>optic pit</b>.",
+    "Recurrence up to 50%; chronic (&gt;12 months) ~15% → permanent loss.",
+    "OCT: empty neurosensory dome, <b>thick choroid</b>. ICGA: dilated, hyperpermeable choroid.",
+    "FA: <b>ink blot</b> (common) or <b>smokestack</b> (column).",
+    "Rx: observe, <b>stop steroids</b>; spironolactone; <b>half-dose/fluence PDT</b> for chronic; micropulse laser; eplerenone (limited evidence)."
+   ],
+   "hook": "<b>Stressed man on steroids, plus lens helps → CSR.</b> Smoke rises from the stack.",
+   "cards": [
+    {
+     "q": "Two FA patterns of CSR?",
+     "a": "Ink blot (common) and smokestack."
+    },
+    {
+     "q": "Treatment for chronic CSR?",
+     "a": "Half-dose/half-fluence verteporfin PDT (also micropulse laser; stop steroids)."
+    }
+   ]
+  },
+  {
+   "id": "ch14-25",
+   "group": "CSR & telangiectasia",
+   "title": "Macular telangiectasia (MacTel)",
+   "minutes": 3,
+   "tldr": "<b>Type 1</b>: unilateral, middle-aged men, <b>aneurysms + exudate</b> (Coats cousin). <b>Type 2</b>: bilateral, commoner, <b>temporal parafoveal greying</b>, crystals, <b>right-angle venules</b>, Müller cell loss, no exudate.",
+   "points": [
+    "Type 1: telangiectasia, microaneurysms, CMO, lipid ring. Rx: laser to leaks, anti-VEGF.",
+    "Type 2: equal sex, mid-life; loss of foveal reflex; grey parafoveal retina; superficial crystals; RPE plaques.",
+    "Type 2 OCT: <b>inner retinal cavities</b> (not CMO), IS/OS loss. FA: leakage but <b>no petaloid CMO</b>.",
+    "Type 2 MPOD: oval loss of macular pigment (≈ pathognomonic).",
+    "Type 2 proliferative stage: subretinal NV (RAP-like); anti-VEGF helps there.",
+    "VA rarely &lt;6/60 unless CNV.",
+    "Type 3: occlusive, very rare, poor prognosis."
+   ],
+   "hook": "<b>Type 1 = 1 eye, aneurysms. Type 2 = 2 eyes, grey + crystals + right angles.</b>",
+   "cards": [
+    {
+     "q": "Typical vessel sign in MacTel type 2?",
+     "a": "Blunted dilated venules turning at right angles into the deep retina."
+    },
+    {
+     "q": "Which MacTel type resembles Coats disease?",
+     "a": "Type 1 (aneurysmal telangiectasia)."
+    }
+   ]
+  },
+  {
+   "id": "ch14-26",
+   "group": "Other maculopathies",
+   "title": "Cystoid macular oedema",
+   "minutes": 2,
+   "tldr": "Fluid in <b>OPL + INL</b> cysts. FA: <b>petaloid</b> (flower petal). OCT: cysts + lost foveal dip. Causes: surgery, DR/RVO, uveitis, <b>prostaglandin drops</b>, RP, ERM, CNV.",
+   "points": [
+    "Starts in Müller cells; cysts merge → lamellar hole.",
+    "Also: tumours (capillary haemangioma), renal failure.",
+    "Signs: lost foveal reflex, honeycomb cysts (red-free + contact lens), ± disc swelling.",
+    "<b>Microcystic macular oedema</b>: INL microcysts in <b>optic neuropathy</b> (retrograde degeneration) – not classic CMO."
+   ],
+   "hook": "<b>CMO = flower petals on FA.</b>",
+   "cards": [
+    {
+     "q": "Which retinal layers contain fluid in CMO?",
+     "a": "Outer plexiform (Henle) and inner nuclear layers."
+    }
+   ]
+  },
+  {
+   "id": "ch14-27",
+   "group": "Other maculopathies",
+   "title": "Degenerative (pathological) myopia",
+   "minutes": 4,
+   "tldr": "High myopia = &gt;−6 D / AL &gt;26 mm. Signs: <b>tigroid fundus, tilted disc + crescent, lacquer cracks, coin haemorrhages, Fuchs spot, staphyloma</b>. CNV in 10% → anti-VEGF. Kids: <b>atropine 0.01%</b> + outdoors.",
+   "points": [
+    "Atropine 0.01% at night for ages 5–15 progressing &gt;1 D/yr.",
+    "<b>Lacquer cracks</b>: breaks in RPE–Bruch–choriocapillaris (~5%) → CNV risk.",
+    "<b>Coin haemorrhage</b>: from lacquer crack, no CNV needed.",
+    "<b>Fuchs spot</b>: raised pigmented scar after a bleed.",
+    "<b>Staphyloma</b> (~⅓): linked to macular hole, dome-shaped macula.",
+    "<b>Intrachoroidal cavitation</b>: yellow-orange area inferior to disc; field loss mimics glaucoma.",
+    "Myopic CNV: better prognosis than AMD, fewer injections (higher RD risk).",
+    "Foveoschisis / macular hole → RD. Others: RRD, lattice, PSC/early nuclear cataract, POAG/pigmentary/steroid response, lens dislocation.",
+    "Syndromes: Stickler, Marfan, Down, Ehlers–Danlos, prematurity, Noonan, Pierre Robin."
+   ],
+   "hook": "Myopic maculopathy: <b>Cracks → Coins → Fuchs</b>.",
+   "cards": [
+    {
+     "q": "What is a Fuchs spot?",
+     "a": "Raised pigmented macular lesion after absorption of a subretinal haemorrhage in high myopia."
+    },
+    {
+     "q": "Atropine for myopia control: dose?",
+     "a": "0.01% nightly."
+    }
+   ]
+  },
+  {
+   "id": "ch14-28",
+   "group": "Other maculopathies",
+   "title": "Angioid streaks",
+   "minutes": 3,
+   "tldr": "Cracks in <b>brittle, calcified Bruch</b> radiating from the disc. Causes: <b>PXE</b> (most common), Paget, sickle/haemoglobinopathies. Main threat: <b>CNV</b>.",
+   "points": [
+    "~50% have a systemic link. PXE = 'plucked chicken' neck skin (Grönblad–Strandberg).",
+    "Paget ~2%; haemoglobinopathies via iron in Bruch. Probably <b>no</b> real link with Ehlers–Danlos.",
+    "Signs: grey/red serrated lines ringing the disc, <b>peau d'orange</b>, <b>disc drusen</b> (up to 25%).",
+    "&gt;70% eventually lose vision: CNV, choroidal rupture after minor trauma, foveal streak.",
+    "Avoid scleral indentation; protective glasses, no contact sports.",
+    "FA window defects; FAF shows more streaks than seen. CNV → anti-VEGF (often recurs)."
+   ],
+   "hook": "<b>PPS</b>: <b>P</b>XE, <b>P</b>aget, <b>S</b>ickle — cracked like old plaster.",
+   "cards": [
+    {
+     "q": "Most common systemic association of angioid streaks?",
+     "a": "Pseudoxanthoma elasticum."
+    },
+    {
+     "q": "Most common cause of visual loss in angioid streaks?",
+     "a": "CNV."
+    }
+   ]
+  },
+  {
+   "id": "ch14-29",
+   "group": "Other maculopathies",
+   "title": "Choroidal folds & hypotony maculopathy",
+   "minutes": 3,
+   "tldr": "<b>Choroidal folds</b>: horizontal stripes; crest yellow/bright on FA, trough dark. Exclude <b>raised ICP</b>, orbital mass, thyroid, scleritis. <b>Hypotony</b> (IOP &lt;6): radiating retinal folds + CMO, often after trabeculectomy with antimetabolites.",
+   "points": [
+    "Idiopathic folds in hypermetropes; acquired hypermetropia + folds → check ICP even without papilloedema.",
+    "Other causes: retrobulbar tumour, choroidal tumour, buckle, hypotony.",
+    "OCT tells choroidal vs retinal folds (retinal = ERM).",
+    "Imaging: B-scan, CT/MRI (enlarged optic nerve sheath).",
+    "Hypotony causes: over-filtration, wound leak, cyclodialysis cleft, uveitis/cyclitic membrane, RD; systemic: dehydration, DKA, uraemia, CAIs.",
+    "Hypotony signs: shallow AC, choroidal effusion, disc oedema. UBM for cleft. Fix IOP early → better recovery."
+   ],
+   "hook": "<b>Folds + new hyperopia → think pressure behind the eye.</b>",
+   "cards": [
+    {
+     "q": "FA of choroidal folds?",
+     "a": "Hyperfluorescent crests (thinned RPE) and hypofluorescent troughs."
+    },
+    {
+     "q": "Hypotony is defined as IOP below?",
+     "a": "6 mmHg."
+    }
+   ]
+  },
+  {
+   "id": "ch14-30",
+   "group": "Other maculopathies",
+   "title": "Solar retinopathy, FCE & dome-shaped macula",
+   "minutes": 2,
+   "tldr": "<b>Solar</b>: eclipse viewing → small yellow foveal spot → tiny foveal defect; usually recovers in 6 months. <b>FCE</b>: choroidal dip on OCT. <b>Dome-shaped macula</b>: myopes, bulge seen on vertical/horizontal OCT, anti-VEGF useless.",
+   "points": [
+    "Solar: photochemical; small central scotoma within hours; OCT outer retinal hole. No treatment. Mimic: laser pointer.",
+    "FCE: middle-aged, East Asian; conforming vs non-conforming; complications CNV, CSR, PCV.",
+    "Dome-shaped macula: may be a localised staphyloma; serous detachment; ~25% fluid clears; vision usually stable."
+   ],
+   "hook": "<b>Sun-gazer = pinhole burn at the fovea.</b>",
+   "cards": [
+    {
+     "q": "Does anti-VEGF help dome-shaped macula SRF?",
+     "a": "No."
+    }
+   ]
+  },
+  {
+   "id": "ch14-31",
+   "group": "Other maculopathies",
+   "title": "Low vision aids",
+   "minutes": 2,
+   "tldr": "Everything = <b>magnification + good light</b>. Five types: <b>non-optical, tints/filters, convex magnifiers, telescopes, electronic</b>.",
+   "points": [
+    "Non-optical: large print, talking clocks, liquid level indicators.",
+    "Tints: grey cut glare; <b>yellow boosts contrast</b>; anti-reflective coating.",
+    "Hand magnifiers (best with light); spectacle/dome magnifiers free both hands but fixed distance.",
+    "Telescopes: distance to near, but small shallow field.",
+    "Electronic/CCTV: 1.5–45×, expensive."
+   ],
+   "hook": "<b>'No Tiny Magnifier Too Expensive'</b> = Non-optical, Tints, Magnifiers, Telescopes, Electronic.",
+   "cards": [
+    {
+     "q": "Main drawback of telescopic low vision aids?",
+     "a": "Small, shallow visual field."
+    }
+   ]
+  }
+ ]
+}
