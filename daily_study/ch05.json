@@ -1,0 +1,127 @@
+{
+ "id": "ch05", "num": 5, "title": "Dry Eye",
+ "chunks": [
+  {
+   "id": "ch05-01", "group": "Basics", "title": "The tear film: 3 layers", "minutes": 3,
+   "tldr": "Tears = <b>oil</b> on top (meibomian), <b>water</b> in the middle (lacrimal), <b>mucus</b> at the bottom (goblet cells).",
+   "points": [
+    "<b>Lipid layer</b> (meibomian glands): stops <b>evaporation</b>, helps tears spread. Missing → <b>evaporative</b> dry eye.",
+    "<b>Aqueous layer</b> (main lacrimal gland ~95%, plus accessory glands of <b>Krause and Wolfring</b>): oxygen, antibacterial (IgA, <b>lysozyme, lactoferrin</b>), washes debris, smooths the optics.",
+    "Reflex tearing goes through <b>CN V</b>. Drops during sleep and with anaesthetic drops. Can rise 500% with injury.",
+    "<b>Mucous layer</b> (goblet cells): makes the cornea <b>wettable</b> (hydrophobic → hydrophilic).",
+    "Goblet cells are lost in: <b>OCP, vitamin A deficiency, chemical burns, drug toxicity</b>.",
+    "Spreading tears needs: a normal blink, lids touching the eye, healthy epithelium.",
+    "Hormones: <b>androgens</b> control lipid production."
+   ],
+   "hook": "Like a <b>sandwich</b>: oil on top, water in the middle, mucus 'butter' stuck to the cornea.",
+   "cards": [
+    {"q": "Which tear layer do goblet cells make?", "a": "The mucous layer."},
+    {"q": "Name the accessory lacrimal glands.", "a": "Krause and Wolfring."}
+   ]
+  },
+  {
+   "id": "ch05-02", "group": "Basics", "title": "Types of dry eye (DEWS)", "minutes": 4,
+   "tldr": "Two big types: <b>aqueous-deficient</b> (not enough tears) and <b>evaporative</b> (tears dry up too fast). Most people have both.",
+   "points": [
+    "Core problem: unstable tears → <b>high osmolarity</b> → <b>inflammation</b> (in 80%) → surface damage → repeat.",
+    "<b>Aqueous-deficient</b>: <b>Sjögren</b> (primary/secondary) or non-Sjögren.",
+    "Non-Sjögren: age, gland infiltration (sarcoid, lymphoma, <b>GVHD</b>, AIDS), blocked ducts (<b>trachoma, OCP, SJS, chemical</b>), poor reflex (contact lenses, diabetes, LASIK, neurotrophic, CN VII palsy, drugs).",
+    "<b>Evaporative, intrinsic</b>: <b>MGD/rosacea</b>, wide lid gap (proptosis, retraction), <b>low blink rate</b> (screens, Parkinson), drugs (antihistamines, beta-blockers, diuretics).",
+    "<b>Evaporative, extrinsic</b>: <b>vitamin A deficiency</b>, <b>preservatives</b>, contact lenses, allergy.",
+    "Words: <b>KCS</b> = any dry eye. <b>Xerophthalmia</b> = vitamin A deficiency. <b>Xerosis</b> = extreme dryness + keratinisation from scarring."
+   ],
+   "hook": "<b>Tap not running</b> (aqueous deficiency) vs <b>puddle evaporating</b> (evaporative).",
+   "cards": [
+    {"q": "Dry eye from long screen use: which category?", "a": "Evaporative (intrinsic, low blink rate)."},
+    {"q": "Xerophthalmia refers to dry eye from…?", "a": "Vitamin A deficiency."}
+   ]
+  },
+  {
+   "id": "ch05-03", "group": "Basics", "title": "Sjögren syndrome", "minutes": 3,
+   "tldr": "Autoimmune attack on tear and salivary glands: <b>dry eyes + dry mouth + big parotids</b>. Check <b>anti-SSA/SSB (Ro/La)</b>.",
+   "points": [
+    "Lymphocytes destroy the exocrine glands.",
+    "<b>Primary</b> = on its own (mostly women). <b>Secondary</b> = with <b>RA or SLE</b>.",
+    "ACR criteria: <b>anti-SSA/SSB</b> (or RF + ANA), ocular surface staining score, <b>labial salivary gland biopsy</b> showing focal lymphocytic sialadenitis.",
+    "Treat: dry-eye measures, oral <b>pilocarpine/cevimeline</b> (for mouth and eyes), immunosuppression, <b>rituximab</b>.",
+    "(Sjögren patients have a higher risk of <b>lymphoma</b>.)"
+   ],
+   "hook": "Sjögren = <b>Can't cry, can't spit.</b>",
+   "cards": [
+    {"q": "Antibodies tested for Sjögren?", "a": "Anti-SSA (Ro) and anti-SSB (La)."},
+    {"q": "Secondary Sjögren is most often associated with?", "a": "Rheumatoid arthritis (or SLE)."}
+   ]
+  },
+  {
+   "id": "ch05-04", "group": "Diagnosis", "title": "Dry eye symptoms & signs", "minutes": 3,
+   "tldr": "Gritty, burning, <b>worse as the day goes on</b> and with wind, air-con, screens. Signs: thin meniscus, debris, <b>PEEs</b>, <b>filaments</b>.",
+   "points": [
+    "Symptoms: dry, gritty, burning, stringy discharge, blur that clears with blinking.",
+    "Worse with: <b>air-conditioning, wind, heating</b>, reading, screens (fewer blinks).",
+    "Often also has <b>posterior blepharitis / MGD</b>.",
+    "Tear film: <b>mucus debris</b>, <b>thin meniscus</b> (&lt;0.25 mm; normal 0.2–0.4).",
+    "Conjunctiva: red, stains with rose Bengal/lissamine, <b>conjunctivochalasis</b>.",
+    "Cornea: <b>punctate erosions</b>, <b>filaments</b> (strands stuck at one end), <b>mucous plaques</b>.",
+    "Severe: <b>melt, perforation</b>, bacterial keratitis."
+   ],
+   "hook": "Dry eye feels like <b>sand that gets worse by evening</b>.",
+   "cards": [
+    {"q": "Strands of mucus and cells attached at one end to the cornea?", "a": "Corneal filaments (filamentary keratitis)."}
+   ]
+  },
+  {
+   "id": "ch05-05", "group": "Diagnosis", "title": "Dry eye tests", "minutes": 4,
+   "tldr": "Key numbers: <b>TBUT &lt;10 s</b>. <b>Schirmer &lt;10 mm (no anaesthetic) or &lt;6 mm (with anaesthetic)</b> in 5 min. <b>Osmolarity ≥308</b>.",
+   "points": [
+    "Order: <b>TBUT → staining → Schirmer</b> (the Schirmer strip itself causes staining).",
+    "<b>TBUT</b>: fluorescein, blink, time to the first dry spot. <b>&lt;10 s</b> is suspicious. Same spot every time → local surface problem (e.g. EBMD).",
+    "<b>Schirmer</b>: strip at the junction of the middle and outer third of the lower lid, eyes closed, 5 min. <b>Without anaesthetic (Schirmer 1) &lt;10 mm</b> abnormal. <b>With anaesthetic &lt;6 mm</b> abnormal.",
+    "<b>Fluorescein</b> = damaged epithelium. <b>Rose Bengal</b> = dead cells/no mucin (<b>stings!</b>). <b>Lissamine green</b> = like rose Bengal but gentler.",
+    "Staining pattern: <b>interpalpebral</b> → aqueous deficiency. <b>Superior</b> → SLK. <b>Inferior</b> → blepharitis or exposure.",
+    "<b>Osmolarity</b>: ≥308 mOsm/L dry. ≥316 → moderate–severe.",
+    "Others: <b>MMP-9</b> (raised), lactoferrin (low), phenol red thread (&lt;6 mm in 15 s), impression cytology (goblet cells).",
+    "Symptoms often don't match the tests. Tests get more reliable in severe cases."
+   ],
+   "hook": "Remember <b>10-10-6</b>: TBUT 10 s, Schirmer 10 mm without anaesthetic, 6 mm with.",
+   "cards": [
+    {"q": "Abnormal Schirmer value with topical anaesthesia?", "a": "&lt;6 mm in 5 minutes."},
+    {"q": "Superior conjunctival staining suggests?", "a": "Superior limbic keratoconjunctivitis."},
+    {"q": "Why do TBUT before Schirmer?", "a": "The Schirmer strip irritates the surface and causes staining."}
+   ]
+  },
+  {
+   "id": "ch05-06", "group": "Treatment", "title": "Dry eye treatment ladder (levels 1–4)", "minutes": 4,
+   "tldr": "Step up: <b>1</b> lifestyle + tears + lid care → <b>2</b> preservative-free, anti-inflammatory, plugs → <b>3</b> serum drops, contact lenses, permanent occlusion → <b>4</b> systemic drugs, surgery.",
+   "points": [
+    "<b>Level 1</b>: education, blink breaks, <b>screen below eye level</b>, humidity, stop bad drugs and preserved drops, tear substitutes, warm compress + lid hygiene, tape lids for night lagophthalmos. Warn that LASIK can worsen it.",
+    "<b>Level 2</b>: <b>preservative-free</b> tears, <b>topical steroid</b> short course, <b>ciclosporin</b>, omega-3, <b>doxycycline</b>, <b>punctal plugs</b>, secretagogues (pilocarpine, cevimeline, diquafosol, rebamipide), moisture-chamber glasses.",
+    "<b>Level 3</b>: <b>autologous serum</b> (or cord serum, finger-prick blood), therapeutic contact lenses, <b>permanent punctal occlusion</b>.",
+    "<b>Level 4</b>: systemic anti-inflammatories, <b>tarsorrhaphy</b>, salivary gland transplant, mucous/amniotic membrane grafts."
+   ],
+   "hook": "Climb the ladder: <b>Habits → Tears → Calm the inflammation → Plug → Serum → Surgery.</b>",
+   "cards": [
+    {"q": "Topical drug that reduces T-cell inflammation and increases goblet cells?", "a": "Ciclosporin (0.05%)."},
+    {"q": "Name a level 3 dry eye treatment.", "a": "Autologous serum drops (or contact lenses, permanent punctal occlusion)."}
+   ]
+  },
+  {
+   "id": "ch05-07", "group": "Treatment", "title": "Tear substitutes, plugs & more", "minutes": 4,
+   "tldr": "Use <b>preservative-free</b> drops if dosing more than <b>4× a day</b>. Try a <b>temporary plug first</b>, then make it permanent if there's no watering.",
+   "points": [
+    "Drops: <b>cellulose</b> (mild), <b>carbomer gels</b> (last longer, blur a bit), PVA, <b>hyaluronate</b>. No single one is best.",
+    "Ointment (paraffin) <b>at night</b> only (blurs).",
+    "<b>Acetylcysteine 5%</b> dissolves <b>filaments and mucous plaques</b> (stings, smells).",
+    "Preservatives (<b>BAK</b>) are toxic, especially after plugging. Newer ones (Polyquad, Purite) are gentler.",
+    "<b>Punctal occlusion</b>: <b>collagen</b> (temporary, dissolves) → if no watering after 1–2 weeks → <b>silicone</b> or <b>cautery</b> (permanent). Lower puncta first. <b>Never all 4 at once.</b>",
+    "Plug problems: falling out, granuloma, migrating into the canaliculus.",
+    "<b>Contact lenses</b>: reservoir effect, but higher <b>keratitis</b> risk. <b>Scleral lenses</b> for severe cases.",
+    "Others: lower room temperature, goggles, <b>botox</b> for blepharospasm, oral pilocarpine (Sjögren)."
+   ],
+   "hook": "<b>Test the plug before you seal the drain.</b>",
+   "cards": [
+    {"q": "Drug that dissolves corneal filaments?", "a": "Acetylcysteine 5%."},
+    {"q": "Why insert temporary plugs before permanent occlusion?", "a": "To make sure epiphora won't follow."}
+   ]
+  }
+ ]
+}

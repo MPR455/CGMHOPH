@@ -489,7 +489,43 @@
    "num": 5,
    "title": "Dry Eye",
    "file": "ch05.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "ch05-01",
+     "title": "The tear film: 3 layers",
+     "group": "Basics"
+    },
+    {
+     "id": "ch05-02",
+     "title": "Types of dry eye (DEWS)",
+     "group": "Basics"
+    },
+    {
+     "id": "ch05-03",
+     "title": "Sjögren syndrome",
+     "group": "Basics"
+    },
+    {
+     "id": "ch05-04",
+     "title": "Dry eye symptoms & signs",
+     "group": "Diagnosis"
+    },
+    {
+     "id": "ch05-05",
+     "title": "Dry eye tests",
+     "group": "Diagnosis"
+    },
+    {
+     "id": "ch05-06",
+     "title": "Dry eye treatment ladder (levels 1–4)",
+     "group": "Treatment"
+    },
+    {
+     "id": "ch05-07",
+     "title": "Tear substitutes, plugs & more",
+     "group": "Treatment"
+    }
+   ]
   },
   {
    "id": "ch06",
