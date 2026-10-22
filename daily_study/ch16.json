@@ -1,0 +1,341 @@
+{
+ "id": "ch16", "num": 16, "title": "Retinal Detachment",
+ "chunks": [
+  {
+   "id": "ch16-01", "group": "Basics", "title": "Peripheral retina anatomy", "minutes": 3,
+   "tldr": "Ciliary body starts 1 mm behind limbus: <b>pars plicata 2 mm + pars plana 4 mm</b>. Enter at <b>4 mm phakic, 3.5 mm pseudophakic</b>. <b>Vitreous base</b> (3–4 mm, straddles ora) = strongest attachment; holes inside it don't cause RD.",
+   "points": [
+    "Ora serrata: retina meets ciliary body; retina–RPE fusion stops SRF at the ora. Choroid isn't stuck to sclera → choroidal detachments go past the ora.",
+    "Dentate processes (more nasal), oral bays, <b>meridional folds</b> (superonasal; may have a hole at apex), <b>enclosed oral bays</b> (don't mistake for holes).",
+    "Vitreous adhesion strength: <b>base (very strong) &gt; disc margin &gt; fovea &gt; peripheral vessels</b>.",
+    "Blunt trauma can avulse the vitreous base."
+   ],
+   "hook": "<b>4 for phakic, 3.5 for pseudo</b> — the lens needs extra room.",
+   "cards": [
+    {"q": "Strongest site of vitreoretinal adhesion?", "a": "Vitreous base."},
+    {"q": "Pars plana entry distance in phakic vs pseudophakic eyes?", "a": "4 mm phakic, 3.5 mm pseudophakic/aphakic."}
+   ]
+  },
+  {
+   "id": "ch16-02", "group": "Basics", "title": "Harmless degenerations & definitions", "minutes": 3,
+   "tldr": "Harmless: <b>microcystoid, paving stone, reticular (honeycomb), peripheral drusen, pars plana cysts</b>. RRD = break + fluid &gt;1 DD from break. Tractional = pulled, no break. Exudative = fluid from vessels.",
+   "points": [
+    "Microcystoid: nearly all adults, near ora; can lead to degenerative retinoschisis.",
+    "Paving stone: yellow-white atrophic patches, inferior, ≥25% of eyes.",
+    "Reticular: perivascular pigment network. Pars plana cysts: 5–10%, temporal.",
+    "Risky adhesions: lattice, pigment clumps, cystic tufts, vitreous base anomalies, WWOP, zonular tufts.",
+    "<b>Subclinical RD</b>: asymptomatic, &gt;1 DD from break but &lt;2 DD behind equator.",
+    "Combined tractional–rhegmatogenous: break caused by nearby fibrovascular traction."
+   ],
+   "hook": "<b>Paving stones are safe to walk on.</b>",
+   "cards": [{"q": "When is a break with SRF called a retinal detachment?", "a": "When fluid extends more than one disc diameter from the edge of the break."}]
+  },
+  {
+   "id": "ch16-03", "group": "Basics", "title": "B-scan ultrasound basics", "minutes": 2,
+   "tldr": "B-scan = 2D ultrasound for <b>opaque media</b> (dense vitreous haemorrhage). Marker <b>up</b> for vertical, <b>to the nose</b> for horizontal. Move probe <b>opposite</b> to gaze. High gain = weak echoes (vitreous); low gain = retina/sclera, sharper.",
+   "points": [
+    "Gel/methylcellulose couples probe.",
+    "Marker shows at the left of screen.",
+    "Patient looks left (RE) → probe to right → nasal anterior fundus scanned.",
+    "Dynamic scans: patient moves eye, probe stays → judge mobility (RD mobile, TRD stiff)."
+  ],
+   "hook": "<b>Gain = volume knob.</b>",
+   "cards": [{"q": "Which gain setting best shows faint vitreous opacities?", "a": "High gain."}]
+  },
+  {
+   "id": "ch16-04", "group": "Predisposing lesions", "title": "Lattice & snailtrack degeneration", "minutes": 3,
+   "tldr": "<b>Lattice</b>: 8% of people, in <b>40% of RDs</b>, but lifetime RD risk only ~1%. Spindle-shaped thin areas with <b>white sclerosed vessels</b>, usually superotemporal, between equator and vitreous base. <b>No prophylactic laser</b> for asymptomatic lattice.",
+   "points": [
+    "Commoner in moderate myopes; starts young.",
+    "Pathology: ILM gap, liquefied vitreous above, <b>strong adhesion at margins</b>.",
+    "Signs: white lattice lines, snowflakes, pigment, small holes.",
+    "RD routes: <b>U-tear at edge after PVD</b>, or atrophic holes in young myopes (slow, no PVD symptoms).",
+    "<b>Snailtrack</b>: frost-like bands of snowflakes; round holes, rarely U-tears; no prophylaxis.",
+    "Educate on RD symptoms + written info."
+   ],
+   "hook": "<b>Lattice = fence with weak edges</b> — tears happen at the edge when vitreous pulls.",
+   "cards": [
+    {"q": "Proportion of RDs with lattice degeneration?", "a": "About 40%."},
+    {"q": "Should asymptomatic lattice with holes be lasered?", "a": "No – educate and observe."}
+   ]
+  },
+  {
+   "id": "ch16-05", "group": "Predisposing lesions", "title": "Degenerative retinoschisis vs RD", "minutes": 4,
+   "tldr": "Schisis: ~5% &gt;20 yrs, <b>hypermetropes</b>, bilateral, <b>inferotemporal</b>. <b>Smooth, thin, dome, immobile</b>, <b>absolute</b> field defect, no flashes/floaters, no tobacco dust. Typical splits at <b>OPL</b>; reticular at NFL.",
+   "points": [
+    "Grows from microcystoid degeneration.",
+    "RD = corrugated, opaque, mobile, relative field defect.",
+    "Inner layer breaks small/round; outer layer breaks large with rolled edges (behind equator).",
+    "Snowflakes, sclerosed vessels, bridging strands; telangiectasia (reticular).",
+    "Pigmented demarcation line → there's an RD too.",
+    "RD from schisis rare (~1% even with double-layer breaks), usually slow.",
+    "OCT distinguishes schisis from RD.",
+    "Observe; treat only if progressing to fovea or symptomatic RD."
+   ],
+   "table": {"head": ["", "Schisis", "RRD"], "rows": [["Surface", "Smooth, thin, transparent", "Corrugated, opaque"], ["Mobility", "Immobile", "Mobile"], ["Field defect", "Absolute", "Relative"], ["Tobacco dust", "No", "Usually"], ["Demarcation line", "No", "Yes if chronic"]]},
+   "hook": "<b>Schisis = Smooth, Still, Silent.</b>",
+   "cards": [
+    {"q": "Retinal layer split in typical degenerative retinoschisis?", "a": "Outer plexiform layer."},
+    {"q": "Type of field defect in retinoschisis vs RD?", "a": "Absolute in schisis; relative in RD."}
+   ]
+  },
+  {
+   "id": "ch16-06", "group": "Predisposing lesions", "title": "Tufts, WWOP & myopic atrophy", "minutes": 2,
+   "tldr": "<b>Cystic retinal tuft</b>: small white congenital lump with strong vitreous pull (5% of people; causes 5–10% of RDs). <b>Zonular traction tuft</b>: nasal, ~2% tear risk. <b>WWOP</b>: strong vitreous adhesion; giant tears can form at its edge.",
+   "points": [
+    "CRT: glial tissue, temporal; holes and U-tears possible; per-eye risk &lt;1%.",
+    "WWP: white with indentation; common, probably not risky.",
+    "WWOP in fellow eye of a <b>giant retinal tear</b> → consider prophylaxis.",
+    "Myopic chorioretinal atrophy: small holes hard to see (low contrast)."
+   ],
+   "hook": "<b>WWOP + giant tear in other eye → treat.</b>",
+   "cards": [{"q": "When is prophylaxis for white-without-pressure considered?", "a": "When the fellow eye has had a spontaneous giant retinal tear."}]
+  },
+  {
+   "id": "ch16-07", "group": "PVD & breaks", "title": "Posterior vitreous detachment", "minutes": 4,
+   "tldr": "Vitreous liquefies (synchysis) and collapses (syneresis), peeling off the retina. &lt;10% under 50, ⅔ over 70. <b>~10% of acute PVDs have a tear</b>; with vitreous haemorrhage <b>~60%</b>. <b>Tobacco dust (Shafer)</b> → break likely.",
+   "points": [
+    "Triggers: cataract surgery, trauma, uveitis, PRP.",
+    "Order: perifoveal → fovea → posterior retina → disc → up to vitreous base.",
+    "Symptoms: temporal <b>lightning arcs</b> with eye movement (dim light), floaters, <b>Weiss ring</b>, haze if blood.",
+    "Signs: crumpled membrane at slit lamp; blood; <b>pigment ('tobacco dust') up to 95% sensitive</b> for a break.",
+    "See within 24–48 h (sooner if myopia, RD history, Stickler, pseudophakia, field loss).",
+    "Examine 360° to ora with indentation; always check fellow eye.",
+    "Dense haemorrhage hiding fundus: 60–90% break, 40% RD → serial B-scan, low threshold for vitrectomy."
+   ],
+   "hook": "<b>Tobacco in the vitreous = smoke means fire (a tear).</b>",
+   "cards": [
+    {"q": "Chance of a retinal tear in acute PVD with vitreous haemorrhage?", "a": "About 60% (vs ~10% without)."},
+    {"q": "What is the Shafer sign?", "a": "Pigment cells ('tobacco dust') in the anterior vitreous – suggests a retinal break."}
+   ]
+  },
+  {
+   "id": "ch16-08", "group": "PVD & breaks", "title": "Types of retinal break", "minutes": 3,
+   "tldr": "<b>U-tear</b> (flap still pulled = dangerous), <b>operculated</b> (flap torn free = safer), <b>round hole</b> (atrophic, young myopes, slow RD), <b>dialysis</b> (at ora, trauma, vitreous on <b>posterior</b> edge), <b>giant tear</b> (≥90°, vitreous on <b>anterior</b> edge).",
+   "points": [
+    "~1 in 5 symptomatic PVDs have a break; 8% of people have asymptomatic breaks.",
+    "PVD tears usually <b>superotemporal</b>; up to 5% appear weeks later.",
+    "Macular breaks from PVD: rare, round, myopes.",
+    "Dialysis: young man, blunt trauma, slow RD, rolled regular edge.",
+    "Giant tear: just behind ora; Stickler, myopia."
+   ],
+   "hook": "<b>Dialysis = vitreous holds the Back edge. Giant tear = holds the Front edge.</b>",
+   "cards": [
+    {"q": "Definition of a giant retinal tear?", "a": "A tear involving 90° (3 clock hours) or more of the circumference."},
+    {"q": "Usual cause of a retinal dialysis?", "a": "Blunt ocular trauma."}
+   ]
+  },
+  {
+   "id": "ch16-09", "group": "PVD & breaks", "title": "Which breaks to treat", "minutes": 3,
+   "tldr": "<b>Acute symptomatic U-tear → treat urgently</b> (90% RD risk → 5%). <b>Traumatic breaks/acute dialysis → treat.</b> Asymptomatic U-tear, operculated tear, flat round holes → usually observe.",
+   "points": [
+    "Risk ↑: fellow eye RD, cataract surgery (esp. vitreous loss), myopia, family history, Marfan/Stickler/Ehlers–Danlos.",
+    "Higher risk: symptomatic, large, <b>persistent traction</b>, U-shape, <b>superior</b> (gravity), equatorial, aphakia. Pigment around = chronic, stable.",
+    "Consider prophylaxis before cataract surgery, YAG capsulotomy, injections if risk factors.",
+    "Operculated: review 2–4 wks, 1–3 m, 6–12 m, yearly; treat if bridging vessel.",
+    "Asymptomatic U-tear: ~5% risk → observe.",
+    "Subclinical RD: ~10% symptomatic in 2–3 yrs → case by case.",
+    "Asymptomatic round holes: no treatment; review 1–2 yearly."
+   ],
+   "hook": "<b>Flashing + flap = laser today.</b>",
+   "cards": [
+    {"q": "RD risk of an untreated acute symptomatic U-tear?", "a": "Up to 90% (≈5% after treatment)."},
+    {"q": "Why are superior breaks riskier?", "a": "Gravity drives fluid through them; superotemporal threatens the macula early."}
+   ]
+  },
+  {
+   "id": "ch16-10", "group": "PVD & breaks", "title": "Laser vs cryo retinopexy", "minutes": 3,
+   "tldr": "<b>Laser</b> preferred (precise, less ERM). <b>Cryo</b> for very peripheral lesions, hazy media, small pupils, multiple tears. Laser: 2–3 rows of confluent burns. Cryo: −85 °C, single row, <b>don't pull off till thawed</b>.",
+   "points": [
+    "Laser slit lamp: 0.1 s, 200–300 µm (3-mirror) or 100–200 µm (wide-field), start 200 mW → moderate blanching.",
+    "BIO laser: adjust spot with 20 D lens position.",
+    "Watch landmarks — don't burn the macula.",
+    "Cryo: purge probe, test (5 mm ice ball in water), indent under BIO until retina whitens, thaw 2–3 s.",
+    "After: no strenuous activity ~1 week; review 1–2 weeks."
+   ],
+   "hook": "<b>Laser = Little, precise. Cryo = Cold, for the far edge.</b>",
+   "cards": [
+    {"q": "Why is laser generally preferred to cryotherapy?", "a": "More precise, less collateral damage, lower ERM risk."},
+    {"q": "Cryotherapy temperature for retinopexy?", "a": "About −85 °C."}
+   ]
+  },
+  {
+   "id": "ch16-11", "group": "Rhegmatogenous RD", "title": "RRD: who gets it & finding the break", "minutes": 4,
+   "tldr": "~1:10,000/yr; 10% bilateral; <b>&gt;40% myopic</b>. Breaks: <b>60% superotemporal</b>; 50% have &gt;1 break. Use <b>Lincoff's rules</b>: fluid shape points to the break.",
+   "points": [
+    "Needs break + liquefied vitreous + traction.",
+    "Distribution: ST 60%, SN 15%, IT 15%, IN 10%.",
+    "Shallow inferior RD, higher on one side → inferior break on that side.",
+    "Inferior RD with equal levels → break at 6 o'clock.",
+    "<b>Bullous inferior RD → break above horizontal</b>.",
+    "Superonasal break → fluid wraps round disc and rises temporally.",
+    "Subtotal RD with superior wedge attached → break near highest border.",
+    "Fluid crossing midline above → break near 12; lower edge is on the break's side."
+   ],
+   "hook": "<b>Fluid falls, then climbs the other side</b> — trace it back uphill to the break.",
+   "cards": [
+    {"q": "Most common quadrant for the primary break in RRD?", "a": "Superotemporal (~60%)."},
+    {"q": "Bullous inferior RD – where is the break?", "a": "Usually above the horizontal meridian."}
+   ]
+  },
+  {
+   "id": "ch16-12", "group": "Rhegmatogenous RD", "title": "RRD: symptoms & signs", "minutes": 4,
+   "tldr": "Flashes + floaters (60%) → <b>curtain</b> field defect (break in <b>opposite</b> quadrant). Fresh RD: <b>convex, corrugated, mobile</b>, fluid to ora. Old RD: thin retina, <b>intraretinal cysts (~1 yr)</b>, <b>demarcation lines (~3 m)</b>.",
+   "points": [
+    "Field loss may vanish in the morning (fluid absorbs overnight).",
+    "Location of flashes doesn't help localise the break.",
+    "RAPD if extensive; IOP ~5 mmHg lower; very low → choroidal detachment too.",
+    "<b>Schwartz–Matsuo</b>: RRD (often dialysis in young man) + 'uveitis' cells (photoreceptor outer segments) + <b>high IOP</b>; fixes after repair.",
+    "Tobacco dust, vitreous blood.",
+    "Breaks red; hard to see in pale myopic fundus.",
+    "Macular pseudohole when posterior pole detached.",
+    "B-scan: mobile retina and vitreous."
+   ],
+   "hook": "<b>Fresh = wrinkly and wobbly. Old = thin, cysts, tide marks.</b>",
+   "cards": [
+    {"q": "What is Schwartz–Matsuo syndrome?", "a": "RRD with raised IOP and aqueous 'cells' (photoreceptor outer segments), often from a traumatic dialysis; resolves after repair."},
+    {"q": "How long do demarcation lines take to develop?", "a": "About 3 months."}
+   ]
+  },
+  {
+   "id": "ch16-13", "group": "Rhegmatogenous RD", "title": "Proliferative vitreoretinopathy (PVR)", "minutes": 3,
+   "tldr": "Membranes on/under retina contract → <b>stiff fixed folds</b>. Grade <b>A</b> haze/pigment, <b>B</b> wrinkling + rolled break edges, <b>C</b> full-thickness <b>star folds</b> (anterior/posterior, clock hours). Commonest cause of <b>late surgical failure</b>.",
+   "points": [
+    "Usually after RD surgery or penetrating injury; can occur primarily.",
+    "Reduced retinal mobility on eye movement/indentation.",
+    "Advanced: funnel-shaped retina.",
+    "Surgery: vitrectomy + membrane peel ± <b>relieving retinotomy</b>, silicone oil."
+   ],
+   "hook": "<b>A</b>=Ash (haze), <b>B</b>=Bumpy (wrinkles), <b>C</b>=Crumpled stars.",
+   "cards": [{"q": "Hallmark of grade C PVR?", "a": "Full-thickness fixed retinal folds (star folds)."}]
+  },
+  {
+   "id": "ch16-14", "group": "Rhegmatogenous RD", "title": "Choroidal detachment & uveal effusion", "minutes": 3,
+   "tldr": "Choroidal detachment: <b>brown, smooth, lobed</b> domes, <b>low IOP</b>, extend <b>past the ora</b>, stop at vortex veins; may 'kiss'. No flashes/floaters. <b>Uveal effusion syndrome</b>: hyperopic middle-aged men/nanophthalmos → ciliochoroidal + exudative RD → <b>leopard spots</b>.",
+   "points": [
+    "Causes: hypotony (post-trab), <b>sulfonamides (acetazolamide, topiramate)</b>, uveitis, scleritis, tumours, cyclodialysis cleft.",
+    "Shallow AC → non-pupillary block angle closure.",
+    "Rx: treat cause; sometimes drainage via sclerotomy.",
+    "Uveal effusion: thick abnormal sclera → poor drainage; DDx ring melanoma, choroidal haemorrhage; Rx full-thickness sclerectomies."
+   ],
+   "hook": "<b>Choroidal = Chocolate-brown, low pressure, goes past the ora.</b>",
+   "cards": [
+    {"q": "Why don't choroidal detachments reach the posterior pole?", "a": "They are limited by the vortex veins entering the sclera."},
+    {"q": "Residual sign after uveal effusion syndrome?", "a": "'Leopard spot' RPE mottling."}
+   ]
+  },
+  {
+   "id": "ch16-15", "group": "Rhegmatogenous RD", "title": "RD surgery: urgency, pneumatic & buckle", "minutes": 4,
+   "tldr": "<b>Macula-on RD = urgent</b>. Pneumatic retinopexy: gas + cryo/laser for small superior breaks (&lt;2 clock hours, upper ⅔). <b>Scleral buckle</b>: indent sclera to close break + ease traction; <b>always for dialysis</b>.",
+   "points": [
+    "Urgency ↑: macula on, superior/large break, myopic syneresis, dense VH with RD on B-scan. Nil by mouth.",
+    "Posture head so break is dependent.",
+    "Pneumatic gases: SF6, C3F8. Quick, office-based; lower success than buckle.",
+    "Buckle ~2 mm margin around break, include vitreous base anteriorly. Radial, segmental, circumferential, encircling.",
+    "Technique: peritomy → localise → cryo → suture explant → check.",
+    "SRF drainage (D-ACE) — risks: perforation, incarceration, choroidal haemorrhage."
+   ],
+   "hook": "<b>Macula on → operate on.</b> Dialysis → buckle.",
+   "cards": [
+    {"q": "Which RD should always be repaired with a scleral buckle?", "a": "RD from a post-traumatic dialysis."},
+    {"q": "Suitable case for pneumatic retinopexy?", "a": "Uncomplicated RD with a small break (&lt;2 clock hours) in the upper two-thirds."}
+   ]
+  },
+  {
+   "id": "ch16-16", "group": "Rhegmatogenous RD", "title": "Buckle complications & surgical failure", "minutes": 3,
+   "tldr": "Buckle problems: <b>diplopia</b>, CMO (25%), ERM (15%), <b>anterior segment ischaemia</b> (encircling, sickle), extrusion/infection, IOP rise, choroidal detachment. Failure: <b>PVR, missed breaks, new breaks</b>; 'fish-mouthing'.",
+   "points": [
+    "Diplopia usually settles.",
+    "Extrusion/infection → remove buckle + antibiotics.",
+    "Buckle failure: wrong size/position/height.",
+    "<b>Fish-mouthing</b>: big superior U-tear gapes open after buckling.",
+    "Reopening: inadequate cryo/buckle or buckle loses height.",
+    "PVR = commonest late failure (weeks later)."
+   ],
+   "hook": "Failed RD surgery = <b>'PMN'</b>: PVR, Missed breaks, New breaks.",
+   "cards": [
+    {"q": "Three commonest causes of failed RD surgery?", "a": "PVR, failure to close all breaks (missed breaks), new breaks."},
+    {"q": "Buckle complication linked to sickle disease?", "a": "Anterior segment ischaemia (especially encircling band)."}
+   ]
+  },
+  {
+   "id": "ch16-17", "group": "Tractional & exudative", "title": "Tractional RD", "minutes": 3,
+   "tldr": "Causes: <b>PDR</b>, ROP, penetrating trauma. <b>Concave</b>, immobile, no breaks, shallow, doesn't reach ora; highest where membranes pull. No flashes/floaters. Break appears → <b>combined RD</b> → spreads fast.",
+   "points": [
+    "Diabetic PVD is slow/incomplete; vitreous stuck to NV.",
+    "Traction types: tangential, anteroposterior, bridging (trampoline).",
+    "Complete PVD in diabetes avulses NV → no TRD.",
+    "B-scan: incomplete PVD, stiff retina.",
+    "Vitrectomy if macula threatened (with anti-VEGF/endolaser); combined TRD-RRD urgently."
+   ],
+   "hook": "<b>Tractional = tent pulled up (concave).</b> Rhegmatogenous = balloon (convex).",
+   "cards": [{"q": "Shape of a tractional RD?", "a": "Concave, immobile, without shifting fluid."}]
+  },
+  {
+   "id": "ch16-18", "group": "Tractional & exudative", "title": "Exudative RD", "minutes": 3,
+   "tldr": "Fluid without break or traction. Smooth, convex, very mobile — <b>shifting fluid</b>. <b>Tumour until proven otherwise</b>. Others: Harada, posterior scleritis, bullous CSR, CNV, toxaemia, uveal effusion.",
+   "points": [
+    "RPE pump overwhelmed → SRF.",
+    "No photopsia; floaters only if vitritis; field loss sudden.",
+    "Shifting: upright fluid inferior; supine → moves posteriorly.",
+    "Iatrogenic: RD surgery, PRP.",
+    "After flattening: leopard spots.",
+    "Rx cause: steroids for Harada/scleritis; laser for bullous CSR leak."
+   ],
+   "hook": "<b>Shifting fluid = look for a tumour.</b>",
+   "cards": [
+    {"q": "Hallmark sign of exudative RD?", "a": "Shifting subretinal fluid."},
+    {"q": "Cause to exclude first in exudative RD?", "a": "Intraocular tumour (melanoma, metastasis, haemangioma)."}
+   ]
+  },
+  {
+   "id": "ch16-19", "group": "Vitrectomy", "title": "Vitrectomy kit & tamponades", "minutes": 4,
+   "tldr": "Small-gauge (23/25/27G) sutureless now standard. Gases: <b>SF6 2× volume ~2 wk, C2F6 3× ~1 month, C3F8 4× ~2 months</b>. <b>No flying / nitrous oxide</b> with gas. Silicone oil floats; heavy liquid (PFCL) sinks.",
+   "points": [
+    "Cutter up to 5000–7500 cuts/min → less traction.",
+    "Chandelier light → bimanual surgery; wide-angle viewing systems.",
+    "Non-expansile mixes: SF6 20–30%, C3F8 12–16%.",
+    "Silicone oil 1000 cs (easier) vs 5000 cs (less emulsification) — PVR, long tamponade.",
+    "<b>Perfluoro-n-octane</b>: flattens posterior retina, floats dropped lens/IOL, controls bleeding; must be removed (toxic)."
+   ],
+   "table": {"head": ["Gas", "Expansion (100%)", "Lasts"], "rows": [["SF6", "2×", "10–14 days"], ["C2F6", "3×", "30–35 days"], ["C3F8", "4×", "55–65 days"]]},
+   "hook": "<b>SF6 → C2 → C3 = 2, 3, 4 × and 2 wk, 1 m, 2 m.</b>",
+   "cards": [
+    {"q": "Expansion and duration of C3F8?", "a": "Quadruples at 100%; lasts about 55–65 days."},
+    {"q": "Why avoid nitrous oxide anaesthesia after gas tamponade?", "a": "N2O diffuses into the bubble, expanding it and raising IOP (risk of CRAO)."}
+   ]
+  },
+  {
+   "id": "ch16-20", "group": "Vitrectomy", "title": "Vitrectomy: indications & technique", "minutes": 3,
+   "tldr": "&gt;80% of primary RD repair now PPV. Indications: <b>breaks not visible</b>, giant/posterior breaks, <b>PVR</b>, pseudophakic RD, <b>macula-threatening TRD</b>, combined TRD-RRD, trauma. Steps: infusion → remove gel + hyaloid → peel membranes → close breaks.",
+   "points": [
+    "Ports: infusion inferotemporal (at lateral rectus lower border), others at 10 and 2 o'clock.",
+    "Stains: <b>trypan blue</b> for ERM, <b>triamcinolone</b> for vitreous.",
+    "Diabetic membranes: <b>delamination</b> (cut pegs horizontally), <b>segmentation</b> (vertical cuts), <b>en-bloc</b>.",
+    "PVR: peel membranes, scissors between folds, relieving retinotomy.",
+    "Trauma membranes are anterior (pre-equatorial/ciliary body)."
+   ],
+   "hook": "Diabetic membranes: <b>Delaminate, Segment, or take En bloc</b> ('DSE').",
+   "cards": [
+    {"q": "What is delamination in diabetic vitrectomy?", "a": "Horizontal cutting of vascular pegs to remove fibrovascular membrane from the retinal surface."},
+    {"q": "Dye used to stain ERM during vitrectomy?", "a": "Trypan blue (triamcinolone for vitreous)."}
+   ]
+  },
+  {
+   "id": "ch16-21", "group": "Vitrectomy", "title": "Vitrectomy complications", "minutes": 3,
+   "tldr": "Breaks/RD, retinal fold, inflammation, <b>raised IOP</b> (gas over-expansion → tap with 30G needle; <b>silicone pupil block → inferior Ando iridectomy</b>; emulsified oil late), <b>cataract</b> (nuclear sclerosis, almost all with oil), band keratopathy.",
+   "points": [
+    "Intraop: posterior/peripheral breaks, rarely choroidal haemorrhage.",
+    "Gas: transient feathery PSC.",
+    "Late silicone glaucoma: emulsified oil in angle → early removal; may need tube.",
+    "Others: ghost cell, steroid, inflammatory, ciliochoroidal effusion angle closure.",
+    "Post-vitrectomy nuclear cataract common, esp. &gt;50 yrs."
+   ],
+   "hook": "<b>Oil floats up</b> → blocks pupil in aphakes → <b>inferior</b> (Ando) iridectomy.",
+   "cards": [
+    {"q": "Where is the Ando iridectomy placed and why?", "a": "Inferiorly – silicone oil floats up, so aqueous can pass below it, preventing pupil block."},
+    {"q": "Cataract after vitrectomy: typical type?", "a": "Nuclear sclerosis (gas → transient posterior subcapsular feathering)."}
+   ]
+  }
+ ]
+}

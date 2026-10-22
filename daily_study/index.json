@@ -1837,7 +1837,113 @@
    "num": 16,
    "title": "Retinal Detachment",
    "file": "ch16.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "ch16-01",
+     "title": "Peripheral retina anatomy",
+     "group": "Basics"
+    },
+    {
+     "id": "ch16-02",
+     "title": "Harmless degenerations & definitions",
+     "group": "Basics"
+    },
+    {
+     "id": "ch16-03",
+     "title": "B-scan ultrasound basics",
+     "group": "Basics"
+    },
+    {
+     "id": "ch16-04",
+     "title": "Lattice & snailtrack degeneration",
+     "group": "Predisposing lesions"
+    },
+    {
+     "id": "ch16-05",
+     "title": "Degenerative retinoschisis vs RD",
+     "group": "Predisposing lesions"
+    },
+    {
+     "id": "ch16-06",
+     "title": "Tufts, WWOP & myopic atrophy",
+     "group": "Predisposing lesions"
+    },
+    {
+     "id": "ch16-07",
+     "title": "Posterior vitreous detachment",
+     "group": "PVD & breaks"
+    },
+    {
+     "id": "ch16-08",
+     "title": "Types of retinal break",
+     "group": "PVD & breaks"
+    },
+    {
+     "id": "ch16-09",
+     "title": "Which breaks to treat",
+     "group": "PVD & breaks"
+    },
+    {
+     "id": "ch16-10",
+     "title": "Laser vs cryo retinopexy",
+     "group": "PVD & breaks"
+    },
+    {
+     "id": "ch16-11",
+     "title": "RRD: who gets it & finding the break",
+     "group": "Rhegmatogenous RD"
+    },
+    {
+     "id": "ch16-12",
+     "title": "RRD: symptoms & signs",
+     "group": "Rhegmatogenous RD"
+    },
+    {
+     "id": "ch16-13",
+     "title": "Proliferative vitreoretinopathy (PVR)",
+     "group": "Rhegmatogenous RD"
+    },
+    {
+     "id": "ch16-14",
+     "title": "Choroidal detachment & uveal effusion",
+     "group": "Rhegmatogenous RD"
+    },
+    {
+     "id": "ch16-15",
+     "title": "RD surgery: urgency, pneumatic & buckle",
+     "group": "Rhegmatogenous RD"
+    },
+    {
+     "id": "ch16-16",
+     "title": "Buckle complications & surgical failure",
+     "group": "Rhegmatogenous RD"
+    },
+    {
+     "id": "ch16-17",
+     "title": "Tractional RD",
+     "group": "Tractional & exudative"
+    },
+    {
+     "id": "ch16-18",
+     "title": "Exudative RD",
+     "group": "Tractional & exudative"
+    },
+    {
+     "id": "ch16-19",
+     "title": "Vitrectomy kit & tamponades",
+     "group": "Vitrectomy"
+    },
+    {
+     "id": "ch16-20",
+     "title": "Vitrectomy: indications & technique",
+     "group": "Vitrectomy"
+    },
+    {
+     "id": "ch16-21",
+     "title": "Vitrectomy complications",
+     "group": "Vitrectomy"
+    }
+   ]
   },
   {
    "id": "ch17",
