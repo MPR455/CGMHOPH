@@ -1,0 +1,378 @@
+{
+ "id": "ch15", "num": 15, "title": "Hereditary Fundus Dystrophies",
+ "chunks": [
+  {
+   "id": "ch15-01", "group": "Basics & tests", "title": "Rods, cones & inheritance", "minutes": 3,
+   "tldr": "<b>Rods</b> (120 million, mid-periphery) = night + peripheral vision → rod disease = <b>night blindness + field loss</b>. <b>Cones</b> (6 million, fovea) = central, colour, day → cone disease = <b>poor VA, colour loss, photophobia</b>.",
+   "points": [
+    "Inherited retinal disease = leading cause of blind registration in UK working-age adults.",
+    "&gt;250 genes. <b>Genetic heterogeneity</b>: many genes → same picture. <b>Phenotypic heterogeneity</b>: one gene → different pictures.",
+    "Gene testing (targeted panels) → counselling + gene therapy trials.",
+    "<b>AD</b>: later, milder, variable expressivity. <b>AR / XLR</b>: earlier, severe. XLR carrier females may show fundus signs.",
+    "XLD: very rare, lethal in boys (Aicardi). Mitochondrial: maternal only, severity depends on proportion of faulty mitochondria.",
+    "Classify: generalized (rod-cone or cone-rod) vs central (macular); stationary vs progressive."
+   ],
+   "hook": "<b>Rods = Roaming in the dark. Cones = Colour + Centre.</b>",
+   "cards": [
+    {"q": "Night blindness with peripheral field loss points to which photoreceptor?", "a": "Rods (rod-cone dystrophy, e.g. RP)."},
+    {"q": "Which inheritance pattern gives the mildest RP?", "a": "Autosomal dominant."}
+   ]
+  },
+  {
+   "id": "ch15-02", "group": "Basics & tests", "title": "ERG basics", "minutes": 4,
+   "tldr": "<b>a-wave</b> (negative) = <b>photoreceptors</b>. <b>b-wave</b> (positive) = <b>bipolar + Müller cells</b>. c-wave = RPE. Scotopic (30 min dark): rod, combined, oscillatory. Photopic (10 min light): cone, <b>30 Hz flicker</b>.",
+   "points": [
+    "Corneal (or lower lid skin) active electrode + forehead reference.",
+    "b-wave amplitude: a-trough to b-peak; bigger with dark adaptation.",
+    "Latency = to a-wave start. <b>Implicit time</b> = to b-wave peak.",
+    "<b>Rod response</b>: dim flash → big b, tiny a.",
+    "<b>Combined</b>: bright flash → big a + b.",
+    "<b>Oscillatory potentials</b>: inner retina, on rising b-wave.",
+    "<b>30 Hz flicker</b>: rods can't follow → pure cone. Critical flicker fusion ~50 Hz.",
+    "<b>Multifocal ERG</b>: maps function (3D 'hill of vision'). Focal ERG: macula. <b>Pattern ERG</b>: ganglion cells.",
+    "Uses: dystrophies, birdshot, hydroxychloroquine toxicity."
+   ],
+   "table": {"head": ["Wave", "Source"], "rows": [["a", "Photoreceptors"], ["b", "Bipolar + Müller cells"], ["c", "RPE"], ["Oscillatory", "Inner retina (amacrine)"]]},
+   "hook": "<b>a = At the receptors; b = Bipolar.</b> Flicker 30 Hz = Cones only.",
+   "cards": [
+    {"q": "Which ERG test isolates cone function?", "a": "Photopic single flash and 30 Hz flicker."},
+    {"q": "Origin of the ERG b-wave?", "a": "Bipolar and Müller cells."}
+   ]
+  },
+  {
+   "id": "ch15-03", "group": "Basics & tests", "title": "EOG & dark adaptation", "minutes": 3,
+   "tldr": "<b>EOG</b> = RPE + photoreceptors. <b>Arden ratio</b> = light peak ÷ dark trough; normal <b>&gt;1.85</b>. Classic: <b>Best disease</b> = abnormal EOG with <b>normal ERG</b>. Dark adaptation: <b>rod-cone break at 7–10 min</b>.",
+   "points": [
+    "Standing potential: cornea positive, back of eye negative.",
+    "Needs diffuse RPE disease to drop. Eye blind from disease above photoreceptors (e.g. optic nerve) → EOG normal.",
+    "Dark adaptometry: bleach rhodopsin, then measure threshold over time.",
+    "Cone branch: first 5–10 min. Rod-cone break 7–10 min. Rods fully adapted 15–30 min (100× more sensitive than cones).",
+    "Foveola test → only cone segment (no rods).",
+    "Useful for unexplained night blindness."
+   ],
+   "hook": "<b>Arden 1.85 — 'one-eighty-five or alive'.</b> Best = Bad EOG.",
+   "cards": [
+    {"q": "Normal Arden ratio?", "a": "&gt;1.85 (185%)."},
+    {"q": "When does the rod-cone break normally occur?", "a": "After about 7–10 minutes in the dark."}
+   ]
+  },
+  {
+   "id": "ch15-04", "group": "Photoreceptor dystrophies", "title": "Retinitis pigmentosa: diagnosis", "minutes": 4,
+   "tldr": "Commonest dystrophy (~1:5000), <b>rod-cone</b>. Triad: <b>bone-spicule pigment, arteriolar attenuation, waxy disc pallor</b>. Night blindness first → ring scotoma → tunnel vision. <b>XLR worst, AD best</b>.",
+   "points": [
+    "Inheritance: sporadic, AD (often rhodopsin), AR, XLR (blind by 30s–40s).",
+    "20–30% syndromic. ~5% = Leber congenital amaurosis.",
+    "Symptoms: nyctalopia, dark adaptation difficulty, peripheral loss, photopsia; VA late.",
+    "Signs: mid-peripheral perivascular bone spicules, tessellation, macular CMO/ERM/atrophy, myopia, disc drusen.",
+    "XLR carriers: <b>golden 'tapetal' macular reflex</b>, patchy pigment.",
+    "Complications: <b>PSC cataract</b> (very common), POAG (3%), keratoconus, PVD, Coats-like reaction.",
+    "ERG: <b>scotopic reduced early</b> → later extinguished. EOG no light rise. DA prolonged. Fields: mid-peripheral scotomas → ring → central island.",
+    "Exclude mimics such as syphilis."
+   ],
+   "hook": "RP triad = <b>'Bones, Bare vessels, Bland (waxy) disc'</b>.",
+   "cards": [
+    {"q": "Classic triad of retinitis pigmentosa?", "a": "Bone-spicule pigmentation, arteriolar attenuation, waxy disc pallor."},
+    {"q": "Fundus sign in female carriers of X-linked RP?", "a": "Golden-metallic 'tapetal' reflex at the macula (± peripheral pigment)."}
+   ]
+  },
+  {
+   "id": "ch15-05", "group": "Photoreceptor dystrophies", "title": "Retinitis pigmentosa: management", "minutes": 3,
+   "tldr": "No cure (gene therapy in trials). Treat the treatable: <b>cataract surgery</b>, <b>CMO → acetazolamide / topical CAI</b>. Sunglasses, stop smoking, avoid retinotoxic drugs. High-dose vitamin A = marginal, risky.",
+   "points": [
+    "Annual review; low vision aids, rehabilitation, social support.",
+    "Sunglasses blocking up to ~550 nm with side shields; amber indoor lenses may help contrast.",
+    "Vitamin A palmitate 15,000 IU/day: marginal; avoid in pregnancy, smokers' concerns, liver toxicity; <b>avoid with ABCA4</b> mutations; monitor levels + LFTs.",
+    "Lutein (± zeaxanthin) may be safer.",
+    "Avoid/caution: sildenafil-type drugs, isotretinoin, phenothiazines, hydroxychloroquine, tamoxifen, vigabatrin."
+   ],
+   "hook": "RP: <b>fix the Cataract and the CMO</b> — the two things you can fix.",
+   "cards": [
+    {"q": "First-line treatment for CMO in RP?", "a": "Oral acetazolamide or topical carbonic anhydrase inhibitors."},
+    {"q": "In which genotype should vitamin A be avoided?", "a": "ABCA4 mutations (Stargardt) – accelerates lipofuscin build-up."}
+   ]
+  },
+  {
+   "id": "ch15-06", "group": "Photoreceptor dystrophies", "title": "Syndromic RP", "minutes": 3,
+   "tldr": "<b>Usher</b> = RP + deafness (commonest). <b>Kearns–Sayre</b> = CPEO + salt-and-pepper fundus (mitochondrial). <b>Bassen–Kornzweig</b> = acanthocytes + ataxia (fat-soluble vitamins). <b>Refsum</b> = phytanic acid. <b>Bardet–Biedl</b> = polydactyly + bull's-eye.",
+   "points": [
+    "<b>Usher</b> (AR): ~5% of profound childhood deafness; half of deaf-blindness. Type I (75%) congenital deafness + early severe RP; type III progressive deafness.",
+    "<b>Kearns–Sayre</b>: ptosis, ophthalmoplegia, heart block; macular salt-and-pepper.",
+    "<b>Abetalipoproteinaemia</b>: failure to thrive, spinocerebellar ataxia, thorny red cells → <b>vitamins (A, E) + low-fat diet</b>.",
+    "<b>Refsum</b>: ichthyosis, neuropathy, cataract → <b>low phytanic acid diet</b>.",
+    "<b>Bardet–Biedl</b>: polydactyly, obesity, learning disability; cone-rod bull's-eye; 80% severe by 20."
+   ],
+   "table": {"head": ["Syndrome", "Clue", "Treatable?"], "rows": [["Usher", "Deafness", "No (gene trials)"], ["Kearns–Sayre", "Ptosis/CPEO, heart block", "Pacemaker"], ["Bassen–Kornzweig", "Acanthocytes, ataxia", "Yes – vitamins"], ["Refsum", "Ichthyosis, phytanic acid", "Yes – diet"], ["Bardet–Biedl", "Extra fingers", "No"]]},
+   "hook": "<b>Treatable RP = Refsum + Bassen–Kornzweig</b> ('diet and vitamins').",
+   "cards": [
+    {"q": "RP + acanthocytosis + ataxia?", "a": "Bassen–Kornzweig (abetalipoproteinaemia)."},
+    {"q": "Most common syndromic association of RP?", "a": "Usher syndrome (sensorineural deafness)."}
+   ]
+  },
+  {
+   "id": "ch15-07", "group": "Photoreceptor dystrophies", "title": "Atypical RP & Leber congenital amaurosis", "minutes": 3,
+   "tldr": "<b>Sine pigmento</b> (no pigment), <b>punctata albescens</b> (white dots, progressive), <b>sector RP</b> (inferior, slow). <b>LCA</b>: blind from birth, roving eyes, <b>flat ERG</b>, eye-poking; <b>RPE65 gene therapy</b> (voretigene).",
+   "points": [
+    "Retinitis punctata albescens ≈ same spectrum as fundus albipunctatus but progressive.",
+    "Sector RP: AD, inferior quadrants; may look stationary. Unilateral RP exists.",
+    "LCA: commonest genetic cause of childhood blindness; AR; ≥23 genes.",
+    "LCA signs: poor pupils, nystagmus, photophobia, normal-ish fundus early → pigment, macular coloboma-like atrophy.",
+    "<b>Oculodigital sign</b>: eye rubbing → enophthalmos, keratoconus.",
+    "Associations: learning disability, deafness, epilepsy, renal, skeletal.",
+    "<b>Pigmented paravenous chorioretinal atrophy</b>: pigment along veins, normal ERG, benign."
+   ],
+   "hook": "<b>LCA baby pokes eyes</b> (oculodigital) — ERG flat.",
+   "cards": [
+    {"q": "Which gene is targeted by approved LCA gene therapy?", "a": "RPE65 (subretinal AAV vector)."},
+    {"q": "What is the oculodigital sign?", "a": "Constant eye poking/rubbing in blind infants (e.g. LCA)."}
+   ]
+  },
+  {
+   "id": "ch15-08", "group": "Photoreceptor dystrophies", "title": "Cone & cone-rod dystrophy", "minutes": 3,
+   "tldr": "Young adult with <b>falling central VA, colour loss, photophobia</b> (not night blindness). Classic <b>bull's-eye</b> maculopathy. ERG: <b>cones down, rods OK</b> till late. FAF is key.",
+   "points": [
+    "Mostly sporadic; AD and XLR too. Prognosis poor (~6/60).",
+    "Signs: normal → mottling → bull's-eye → geographic atrophy. Golden sheen in XL form.",
+    "Colour: severe deutan–tritan defect out of proportion to VA.",
+    "FAF: rings around fovea. OCT: outer retinal loss. FA not needed.",
+    "Rx: supportive, low vision aids, light protection."
+   ],
+   "table": {"head": ["Bull's-eye: adults", "Bull's-eye: children"], "rows": [["Chloroquine/HCQ", "Bardet–Biedl"], ["Advanced Stargardt", "Hallervorden–Spatz"], ["Cone(-rod) dystrophy", "Leber congenital amaurosis"], ["Benign concentric annular", "Batten (lipofuscinosis)"], ["Clofazimine", "AD cerebellar ataxia"]]},
+   "hook": "<b>Cones: Can't see Colour, Can't stand light.</b>",
+   "cards": [
+    {"q": "ERG pattern in cone dystrophy?", "a": "Reduced photopic/flicker cone responses, rods preserved until late."},
+    {"q": "Name three causes of bull's-eye maculopathy.", "a": "Chloroquine/HCQ toxicity, cone dystrophy, advanced Stargardt (also Bardet–Biedl, Batten)."}
+   ]
+  },
+  {
+   "id": "ch15-09", "group": "Photoreceptor dystrophies", "title": "Stargardt / fundus flavimaculatus", "minutes": 4,
+   "tldr": "<b>Commonest macular dystrophy</b>; AR <b>ABCA4</b>; lipofuscin in RPE. Child/teen with VA worse than fundus looks. <b>Pisciform (fish-tail) flecks</b>, 'beaten-bronze' macula. FA: <b>dark choroid</b>. <b>Avoid vitamin A.</b>",
+   "points": [
+    "STGD1 (AR, ABCA4) commonest; STGD3/4 AD.",
+    "Once VA &lt;6/12 → drops fast to ~6/60 and stabilises. Flecks-only = better.",
+    "May be mistaken for malingering.",
+    "Macula: mottling → 'snail slime' / beaten-bronze → GA (bull's-eye-like). CNV rare.",
+    "Flecks at RPE level; new ones appear as old ones fade.",
+    "FAF: bright flecks, dark macula, <b>peripapillary sparing</b>.",
+    "FA: <b>dark (silent) choroid</b>; fresh flecks block early, stain late.",
+    "ERG photopic normal–subnormal; EOG subnormal late.",
+    "Rx: sunglasses/blue-light protection, <b>no vitamin A</b>; gene/stem cell trials."
+   ],
+   "hook": "<b>Stargardt = Stars (flecks) on a Dark sky (silent choroid).</b>",
+   "cards": [
+    {"q": "Classic FA sign of Stargardt?", "a": "Dark (silent) choroid."},
+    {"q": "Gene for autosomal recessive Stargardt?", "a": "ABCA4."}
+   ]
+  },
+  {
+   "id": "ch15-10", "group": "Photoreceptor dystrophies", "title": "Flecked & crystalline retinas", "minutes": 3,
+   "tldr": "<b>Bietti</b>: corneal + retinal <b>crystals</b>, East Asians, CYP4V2. <b>Alport</b>: perimacular dots + <b>renal failure + deafness</b> + anterior lenticonus (type IV collagen). <b>Benign fleck retina</b>: harmless.",
+   "points": [
+    "Bietti (AR): young adults; crystals → choriocapillaris atrophy → diffuse chorioretinal atrophy; FA hypofluorescent patches. No treatment.",
+    "Alport (mostly XLR): flecks subtle, ERG normal, vision excellent; anterior lenticonus, PPMD.",
+    "Familial benign fleck retina (AR): flecks to periphery sparing fovea, normal ERG.",
+    "Other crystals: Sjögren–Larsson (macula, ichthyosis), gyrate atrophy, MacTel 2, tamoxifen, canthaxanthine."
+   ],
+   "hook": "<b>Alport: Ears, Eyes, Kidneys</b> ('can't pee, can't hear, can't see well up close' – lenticonus).",
+   "cards": [
+    {"q": "Retinal flecks + anterior lenticonus + haematuria?", "a": "Alport syndrome."},
+    {"q": "Crystals in cornea and retina, East Asian patient?", "a": "Bietti crystalline dystrophy."}
+   ]
+  },
+  {
+   "id": "ch15-11", "group": "Photoreceptor dystrophies", "title": "CSNB & achromatopsia", "minutes": 3,
+   "tldr": "<b>CSNB</b>: night blind from infancy, <b>non-progressive</b>. Normal fundus (complete/incomplete) or abnormal: <b>Oguchi</b> (golden fundus that normalises in dark = <b>Mizuo</b>) and <b>fundus albipunctatus</b>. <b>Rod monochromat</b>: 6/60, nystagmus, photophobia, no colour.",
+   "points": [
+    "CSNB type 1 complete: no rod pathway, cones OK. Type 2 incomplete: both affected.",
+    "AR/XLR CSNB often myopia + nystagmus + poor VA.",
+    "<b>Oguchi</b> (AR): golden sheen in light → normal after long dark adaptation.",
+    "<b>Fundus albipunctatus</b>: tiny white dots, fovea spared, RLBP1; stationary (vs punctata albescens).",
+    "Achromatopsia: CNGB3 (~50%), CNGA3 (~25%); gene therapy promising.",
+    "<b>Rod monochromatism</b> (AR): VA ~6/60, nystagmus, photophobia, no colour, abnormal photopic ERG.",
+    "<b>Blue cone monochromatism</b> (XLR): VA 6/6–6/9, no colour, no nystagmus."
+   ],
+   "hook": "<b>Oguchi = Gold that fades in the dark</b> (Mizuo).",
+   "cards": [
+    {"q": "What is the Mizuo phenomenon?", "a": "Golden fundus sheen in light that disappears after prolonged dark adaptation (Oguchi disease)."},
+    {"q": "Rod monochromatism – VA and key features?", "a": "~6/60, congenital nystagmus, photophobia, total colour blindness."}
+   ]
+  },
+  {
+   "id": "ch15-12", "group": "Macular dystrophies", "title": "Best vitelliform dystrophy", "minutes": 3,
+   "tldr": "AD, <b>BEST1</b> (bestrophin, RPE ion channel). <b>'Egg yolk'</b> macular lesion in childhood. <b>EOG very abnormal (Arden &lt;1.5) even in carriers; ERG normal.</b>",
+   "points": [
+    "2nd commonest macular dystrophy.",
+    "Stages: pre-vitelliform (abnormal EOG only) → vitelliform (yolk, good VA) → <b>pseudohypopyon</b> (often puberty) → vitelliruptive ('scrambled egg', VA drops) → atrophic.",
+    "Vision fair until middle age; loss from CNV, scar, GA.",
+    "FAF: very bright yolk. FA: blocks. OCT: material under/in RPE.",
+    "<b>Multifocal vitelliform lesions</b> in adults with normal EOG ≠ Best."
+   ],
+   "hook": "<b>Best = Bad EOG, fine ERG.</b> Egg: sunny side up → settles (pseudohypopyon) → scrambled.",
+   "cards": [
+    {"q": "Diagnostic test in Best disease, abnormal even in carriers?", "a": "EOG (Arden ratio &lt;1.5)."},
+    {"q": "Gene in Best disease?", "a": "BEST1 (bestrophin), chromosome 11q13."}
+   ]
+  },
+  {
+   "id": "ch15-13", "group": "Macular dystrophies", "title": "Adult vitelliform & pattern dystrophies", "minutes": 3,
+   "tldr": "<b>Adult-onset vitelliform</b>: small yellow subfoveal blob in older adults, <b>normal EOG</b>, PRPH2 often. <b>Pattern dystrophies</b> (PRPH2): butterfly, reticular, spider (macroreticular), Stargardt-like — mild vision effects.",
+   "points": [
+    "Adult vitelliform: smaller than Best; mild VA drop; may become CNV or atrophy. FA: dark centre + bright ring.",
+    "Vitelliform look also from basal laminar drusen, VMT, pseudodrusen.",
+    "<b>Butterfly</b>: yellow/pigment spokes at fovea.",
+    "<b>Reticular (Sjögren)</b>: pigment network ('fishnet').",
+    "<b>Multifocal pattern</b> mimicking flavimaculatus but <b>choroid not dark</b>.",
+    "<b>Macroreticular (spider)</b>; fundus pulverulentus (very rare)."
+   ],
+   "hook": "<b>PRPH2 = 'Pattern Pretty Harmless'.</b>",
+   "cards": [
+    {"q": "How to distinguish multifocal pattern dystrophy from Stargardt on FA?", "a": "Pattern dystrophy lacks the dark choroid."}
+   ]
+  },
+  {
+   "id": "ch15-14", "group": "Macular dystrophies", "title": "Drusen dystrophies: North Carolina, Doyne, Sorsby", "minutes": 3,
+   "tldr": "<b>North Carolina</b>: AD, non-progressive, grades 1–3 (drusen → confluent → coloboma-like). <b>Doyne honeycomb</b> (EFEMP1): <b>radial drusen</b> incl. nasal to disc, young. <b>Sorsby</b> (TIMP3): drusen + <b>CNV in 40s</b> + nyctalopia.",
+   "points": [
+    "North Carolina: complete penetrance, variable expression; grade 2 risk CNV.",
+    "Doyne / malattia leventinese: early AMD-like; symptoms 40–50s; EOG subnormal late.",
+    "Sorsby: think when a young adult has drusen + CNV; peripheral atrophy by 70s.",
+    "Progressive bifocal chorioretinal atrophy: atrophy temporal + nasal to disc; nystagmus, myopia, RD."
+   ],
+   "table": {"head": ["Condition", "Gene", "Key"], "rows": [["North Carolina", "(MCDR1 locus)", "Stationary, coloboma-like"], ["Doyne honeycomb", "EFEMP1", "Radial drusen nasal to disc"], ["Sorsby", "TIMP3", "Early CNV + night blindness"]]},
+   "hook": "<b>Sorsby = Sorry, CNV at 40.</b> Doyne = Drusen like Daisy petals (radial).",
+   "cards": [
+    {"q": "Gene in Sorsby fundus dystrophy?", "a": "TIMP3."},
+    {"q": "Radially orientated drusen extending nasal to the disc in a young adult?", "a": "Doyne honeycomb dystrophy (malattia leventinese, EFEMP1)."}
+   ]
+  },
+  {
+   "id": "ch15-15", "group": "Macular dystrophies", "title": "Other macular dystrophies", "minutes": 2,
+   "tldr": "Quick list: <b>concentric annular</b> (bull's-eye, good prognosis), <b>central areolar choroidal</b> (central GA, poor), <b>dominant CMO</b> (teenagers, no leak response), <b>Sjögren–Larsson</b> (macular crystals + ichthyosis), <b>MIDD</b> (mitochondrial diabetes + deafness, macular atrophy).",
+   "points": [
+    "Benign concentric annular: AD, ring scotoma, FA annular window.",
+    "Central areolar choroidal dystrophy: AD, 30–40s, well-defined central atrophy with large choroidal vessels.",
+    "Dominant CMO: untreatable → GA.",
+    "Sjögren–Larsson (AR): fatty aldehyde dehydrogenase; glistening crystals by age 2; spastic diplegia.",
+    "Familial ILM dystrophy: glistening surface, poor prognosis.",
+    "MIDD: ~1% of diabetes; macular dystrophy but vision usually OK."
+   ],
+   "hook": "<b>Crystals + scaly skin in a toddler → Sjögren–Larsson.</b>",
+   "cards": [{"q": "Maternally inherited diabetes and deafness – macular finding?", "a": "Progressive pattern-like macular atrophy/pigment change, vision usually preserved."}]
+  },
+  {
+   "id": "ch15-16", "group": "Choroidal dystrophies", "title": "Choroideremia", "minutes": 3,
+   "tldr": "<b>XLR</b> (CHM gene): boys with <b>night blindness</b> → choroid + RPE vanish, leaving <b>bare sclera</b>; <b>fovea spared till late</b>. Carriers: patchy peripheral mottling. Gene therapy in trials.",
+   "points": [
+    "Carrier mum: 50% sons affected, 50% daughters carriers.",
+    "Early: RP-like mid-peripheral RPE change; later scalloped atrophy spreading.",
+    "End-stage: few large choroidal vessels on white sclera, optic atrophy.",
+    "FAF: speckled with foveal island. FA/ICGA: choriocapillaris absent, large vessels remain.",
+    "ERG: scotopic absent, photopic severely reduced.",
+    "Useful vision usually until ~50s–60s."
+   ],
+   "hook": "<b>Chorio-<i>remia</i> = choroid's remains gone</b> → white sclera.",
+   "cards": [
+    {"q": "Inheritance of choroideremia?", "a": "X-linked recessive (CHM gene)."},
+    {"q": "End-stage fundus in choroideremia?", "a": "Bare sclera with a few large choroidal vessels, foveal island spared until late."}
+   ]
+  },
+  {
+   "id": "ch15-17", "group": "Choroidal dystrophies", "title": "Gyrate atrophy", "minutes": 2,
+   "tldr": "AR, <b>ornithine aminotransferase</b> (OAT) deficiency → <b>high ornithine</b>. Scalloped 'gyrate' patches of atrophy merging from periphery. Myopia + nyctalopia. Rx: <b>vitamin B6 + arginine-restricted diet</b>.",
+   "points": [
+    "Teens: myopia, night blindness.",
+    "Sharply defined round/oval atrophic patches; crystals at posterior pole; fovea spared till late.",
+    "Early cataract, vitreous degeneration, CMO, ERM.",
+    "Confirm: <b>serum ornithine</b>.",
+    "B6-responsive type is milder.",
+    "Legal blindness ~50 yrs."
+   ],
+   "hook": "<b>Gyrate = Ornithine Overload</b> → cut Arginine, add B6.",
+   "cards": [
+    {"q": "Enzyme deficient in gyrate atrophy?", "a": "Ornithine aminotransferase."},
+    {"q": "Treatment of gyrate atrophy?", "a": "Pyridoxine (vitamin B6) and arginine-restricted diet."}
+   ]
+  },
+  {
+   "id": "ch15-18", "group": "Vitreoretinopathies", "title": "X-linked juvenile retinoschisis", "minutes": 3,
+   "tldr": "Boys 5–10 yrs, poor reading. <b>Spoke-wheel foveal schisis</b> (all), peripheral schisis inferotemporal (50%). Split is in the <b>NFL</b> (vs OPL in senile). ERG: <b>electronegative</b> (b &lt; a). Rx: <b>topical/oral CAI</b>.",
+   "points": [
+    "Gene RS1; Müller cell defect.",
+    "Peripheral inner leaf holes → <b>'vitreous veils'</b>; silvery dendritic figures.",
+    "Complications: vitreous/schisis haemorrhage, RD, NV.",
+    "OCT: cysts INL/OPL. FA: <b>no leakage</b> (unlike CMO).",
+    "ERG: selective b-wave reduction if peripheral schisis.",
+    "Dorzolamide may thin fovea. Don't operate just to flatten schisis (non-progressive)."
+   ],
+   "hook": "<b>Bicycle-wheel fovea in a boy</b> → XLRS; <b>CMO that doesn't leak</b>.",
+   "cards": [
+    {"q": "ERG finding in X-linked retinoschisis?", "a": "Electronegative ERG – b-wave reduced more than a-wave."},
+    {"q": "At which layer does juvenile retinoschisis split?", "a": "Nerve fibre layer (vs outer plexiform in acquired senile retinoschisis)."}
+   ]
+  },
+  {
+   "id": "ch15-19", "group": "Vitreoretinopathies", "title": "Stickler & Wagner", "minutes": 4,
+   "tldr": "<b>Stickler</b>: commonest inherited cause of <b>childhood RD</b> (~50% in 1st decade, <b>giant tears</b>). High myopia, optically empty vitreous, cataract + <b>Pierre Robin face, joint hypermobility, deafness</b>. <b>Wagner</b>: same eye picture, <b>no systemic</b> features.",
+   "points": [
+    "STL1 COL2A1 (membranous vitreous, commonest); STL2 COL11A1 (beaded vitreous, deafness); STL3 COL11A2 (no eye signs).",
+    "Systemic: flat midface, micrognathia, cleft palate, bifid uvula, early arthritis.",
+    "Eye: retrolental membrane, equatorial membranes, radial lattice, wedge/fleck cataract, glaucoma (angle anomaly), rarely ectopia lentis.",
+    "Rx: <b>prophylactic 360° laser/cryo</b>; RD repair often vitrectomy, PVR common.",
+    "<b>Wagner</b> (AD, VCAN): low myopia, empty vitreous, avascular strands, progressive chorioretinal atrophy, nyctalopia; RD in up to 50%; no broad prophylaxis.",
+    "<b>Kniest</b>: COL2A1, short stature, round face."
+   ],
+   "hook": "<b>Stickler = Sticks to whole body</b> (face, joints, ears). <b>Wagner = Wagging only eyes</b>.",
+   "cards": [
+    {"q": "Most common inherited cause of retinal detachment in children?", "a": "Stickler syndrome."},
+    {"q": "Gene in Stickler type 1?", "a": "COL2A1 (type II collagen)."}
+   ]
+  },
+  {
+   "id": "ch15-20", "group": "Vitreoretinopathies", "title": "FEVR & other vitreoretinopathies", "minutes": 3,
+   "tldr": "<b>FEVR</b> = 'ROP without prematurity': <b>avascular temporal periphery</b>, straightened vessels, <b>dragged disc/macula</b>. Screen relatives; <b>wide-field FA</b>; laser avascular retina. <b>Enhanced S-cone</b>: night blind + nummular pigment + schisis (NR2E3).",
+   "points": [
+    "FEVR: AD mostly; stages 1 avascular → 2 NV ± exudate → 3 macula-sparing RD → 4 macula-on RD → 5 total.",
+    "FEVR: lifelong follow-up; anti-VEGF temporizing; vitrectomy for RD.",
+    "Enhanced S-cone / Goldmann–Favre (AR): too many blue cones; cystoid maculopathy without leakage.",
+    "<b>Snowflake degeneration</b> (AD, KCNJ13): white-without-pressure → snowflakes → sheathing → atrophy; good prognosis.",
+    "<b>ADNIV</b> (CAPN5): panuveitis, NV, TRD; selective b-wave loss.",
+    "<b>ADVIRC</b> (BEST1): circumferential pigment band between ora and equator; nanophthalmos; good prognosis."
+   ],
+   "hook": "<b>FEVR = ROP in a full-term baby</b> (check family).",
+   "cards": [
+    {"q": "Key imaging for FEVR?", "a": "Wide-field fluorescein angiography (shows peripheral avascularity and leakage)."},
+    {"q": "Gene in enhanced S-cone syndrome?", "a": "NR2E3."}
+   ]
+  },
+  {
+   "id": "ch15-21", "group": "Albinism & cherry-red spot", "title": "Albinism", "minutes": 3,
+   "tldr": "Low melanin → <b>foveal hypoplasia, nystagmus, iris transillumination</b>, pale fundus, <b>too many fibres cross at the chiasm</b> (VEP). Tyrosinase-negative = white hair, VA &lt;6/60. Ocular albinism = XLR.",
+   "points": [
+    "Hair-bulb incubation test (reliable after age 5).",
+    "Skin cancer risk (BCC/SCC) → sun protection.",
+    "Tyrosinase-negative OCA (AR): no melanin ever; pink-eyed; pendular nystagmus (improves with age).",
+    "Tyrosinase-positive OCA: some melanin, darkens with age.",
+    "Also: high refractive error, positive angle kappa, squint, no stereopsis.",
+    "<b>Chediak–Higashi</b>: infections. <b>Hermansky–Pudlak</b>: bleeding + pulmonary fibrosis. <b>Waardenburg</b> (AD): white forelock, heterochromia, telecanthus, deafness.",
+    "Ocular albinism carriers: iris translucency, mud-splattered fundus."
+   ],
+   "hook": "<b>Albino = Pale, Pendular, Pitless fovea, Pathway crosses too much.</b>",
+   "cards": [
+    {"q": "Chiasmal abnormality in albinism?", "a": "Excess crossing of fibres – most fibres decussate (shown by asymmetric VEP)."},
+    {"q": "Albinism + bleeding tendency?", "a": "Hermansky–Pudlak syndrome."}
+   ]
+  },
+  {
+   "id": "ch15-22", "group": "Albinism & cherry-red spot", "title": "Cherry-red spot", "minutes": 2,
+   "tldr": "Retina around the fovea goes <b>white/opaque</b>; thin fovea still shows red choroid. Causes: <b>CRAO</b>, <b>storage diseases</b> (Tay–Sachs, Sandhoff, Niemann–Pick A/B, GM1, sialidosis, Farber), toxins, commotio retinae.",
+   "points": [
+    "Storage diseases: mostly AR; spot fades as RNFL dies → optic atrophy.",
+    "GM1: death by ~2 yrs, corneal haze. Sialidosis: myoclonus.",
+    "Niemann–Pick: A and B have spot; C has gaze palsy.",
+    "Farber: hoarse voice, nodules, joint pain.",
+    "Toxins: quinine, dapsone, gentamicin, CO, methanol."
+   ],
+   "hook": "<b>White retina, red bullseye</b> → artery blocked or neurons stuffed with lipid.",
+   "cards": [{"q": "Two lipid storage diseases with a cherry-red spot?", "a": "Tay–Sachs and Niemann–Pick (also Sandhoff, GM1, sialidosis, Farber)."}]
+  }
+ ]
+}
