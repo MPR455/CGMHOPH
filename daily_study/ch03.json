@@ -1,0 +1,146 @@
+{
+ "id": "ch03", "num": 3, "title": "Lacrimal Drainage System",
+ "chunks": [
+  {
+   "id": "ch03-01", "group": "Basics", "title": "The tear drain: anatomy & pump", "minutes": 3,
+   "tldr": "Tears go <b>punctum → canaliculus → sac → nasolacrimal duct → inferior meatus</b>. Blinking pumps them through.",
+   "points": [
+    "<b>Puncta</b>: on the back edge of the lid margin, at the medial end where the lashes stop.",
+    "<b>Canaliculus</b>: <b>2 mm</b> down (ampulla), then <b>8 mm</b> across. Upper and lower join as the <b>common canaliculus</b> in &gt;90%.",
+    "<b>Rosenmüller valve</b>: flap where the common canaliculus enters the sac (stops reflux).",
+    "<b>Lacrimal sac</b>: 10–12 mm, sits in the fossa between the anterior and posterior lacrimal crests.",
+    "<b>Nasolacrimal duct</b>: 12–18 mm. Opens into the <b>inferior meatus</b> under the inferior turbinate. <b>Valve of Hasner</b> at the bottom.",
+    "Pump: each blink, the <b>orbicularis</b> squeezes the canaliculi and pushes tears down. Opening the eyes creates <b>suction</b> that pulls tears into the sac."
+   ],
+   "hook": "<b>2-8-10-12</b>: ampulla 2, canaliculus 8, sac 10, duct 12 mm.",
+   "pearls": ["DCR connects the sac to the <b>middle</b> meatus. The natural duct opens into the <b>inferior</b> meatus."],
+   "cards": [
+    {"q": "Where does the nasolacrimal duct open?", "a": "Inferior meatus, below the inferior turbinate (valve of Hasner)."},
+    {"q": "Which valve sits at the common canaliculus–sac junction?", "a": "Rosenmüller valve."}
+   ]
+  },
+  {
+   "id": "ch03-02", "group": "Basics", "title": "Why is the eye watering?", "minutes": 3,
+   "tldr": "Two reasons: <b>too many tears</b> (often from <b>dry eye</b>!) or <b>blocked drainage</b>. Check the <b>punctum</b> first.",
+   "points": [
+    "<b>Hypersecretion</b>: dry eye ('paradoxical watering'), inflammation → gritty, red eye.",
+    "<b>Poor drainage</b>: punctal malposition (ectropion), a <b>block</b> anywhere, or <b>pump failure</b> (lax lid, facial palsy).",
+    "Drainage problems get worse in <b>cold wind</b> and better in warm dry rooms. Tears running down the <b>cheek</b> → drainage problem.",
+    "<b>Punctal problems are the commonest cause</b>: stenosis (very common), ectropion, <b>conjunctivochalasis</b> (loose conjunctival fold), a lash stuck in it, big caruncle.",
+    "<b>Pouting punctum</b> = canaliculitis.",
+    "<b>Look at the punctum before you probe</b>: dilating it hides stenosis.",
+    "Watering in a baby: usually blocked duct, but <b>rule out congenital glaucoma</b>!"
+   ],
+   "hook": "Watery eye? Ask: <b>dry? lid? punctum? duct?</b>",
+   "cards": [
+    {"q": "Common cause of a watering eye that isn't a blocked drain?", "a": "Reflex tearing from dry eye."},
+    {"q": "Watering eye in an infant: which serious condition must you exclude?", "a": "Congenital glaucoma."}
+   ]
+  },
+  {
+   "id": "ch03-03", "group": "Tests", "title": "Syringing: hard stop vs soft stop", "minutes": 4,
+   "tldr": "<b>Hard stop</b> = you hit bone → canaliculi are open. <b>Soft stop</b> = blocked <b>before</b> the sac (canalicular).",
+   "points": [
+    "<b>Fluorescein disappearance test</b>: dye should be gone in <b>5–10 min</b>. Tear meniscus normal 0.2–0.4 mm. <b>≥0.6 mm</b> = high.",
+    "Syringing: dilate the punctum, gently pass the cannula along the canaliculus (pull the lid sideways). <b>Not during acute infection.</b>",
+    "<b>Hard stop</b>: cannula hits the medial sac wall and bone → no complete canalicular block.",
+    "Hard stop + fluid tasted in the throat = <b>patent</b> (but could still be narrow, or pump failure).",
+    "Hard stop + <b>reflux</b> and nothing in the throat = <b>NLD obstruction</b>. The sac swells, reflux comes from both puncta (clear, mucus or pus).",
+    "<b>Soft stop</b>: spongy feel. Reflux from the <b>same</b> punctum → that canaliculus is blocked. Reflux from the <b>other</b> punctum → <b>common canaliculus</b> blocked.",
+    "Press on the sac and mucus/pus comes back → <b>mucocoele</b> (blocked NLD, open canaliculi)."
+   ],
+   "hook": "<b>Hard = Hit bone = Head's clear</b> (canaliculi OK). <b>Soft = Stuck Sooner.</b>",
+   "cards": [
+    {"q": "Soft stop with reflux through the upper punctum. Where's the block?", "a": "Common canaliculus."},
+    {"q": "Hard stop, no fluid in the throat, reflux from both puncta?", "a": "Nasolacrimal duct obstruction."}
+   ]
+  },
+  {
+   "id": "ch03-04", "group": "Tests", "title": "Jones tests & imaging", "minutes": 4,
+   "tldr": "Jones tests are only for <b>partial</b> blocks (watering, but syringing gets through). <b>DCG</b> = anatomy. <b>Scintigraphy</b> = function.",
+   "points": [
+    "<b>Jones primary</b>: fluorescein in the eye, cotton bud under the inferior turbinate after 5 min. <b>Dye found = system works → hypersecretion.</b> No dye → partial block or pump failure (lots of false negatives).",
+    "<b>Jones secondary</b>: wash out the dye, then syringe. <b>Stained</b> fluid in the nose → dye reached the sac → block is in the <b>NLD</b>. <b>Clear</b> fluid → dye never reached the sac → <b>punctum/canaliculus</b> problem or pump failure.",
+    "<b>Dacryocystography (DCG)</b>: contrast injected → shows the exact block, stones, diverticula. Not during infection.",
+    "<b>Scintigraphy</b>: radioactive tears → shows <b>functional</b> blocks in normal conditions.",
+    "CT/MRI for sinus or sac tumours. <b>Nasal endoscopy</b> for polyps or a deviated septum."
+   ],
+   "hook": "Secondary Jones: <b>coloured = Canal (NLD) problem lower down</b>. <b>Clear = upper problem.</b>",
+   "cards": [
+    {"q": "Jones primary test positive means?", "a": "Drainage is patent → watering is from hypersecretion."},
+    {"q": "Jones secondary: clear saline recovered. Interpretation?", "a": "Dye didn't enter the sac → upper system (punctum/canaliculus) problem or pump failure."}
+   ]
+  },
+  {
+   "id": "ch03-05", "group": "Blockages in adults", "title": "Punctum & canaliculus problems", "minutes": 4,
+   "tldr": "Narrow punctum → <b>snip punctoplasty</b>. Everted punctum → <b>Ziegler cautery</b> or <b>medial spindle</b>. Hopeless canaliculi → <b>Lester Jones tube</b>.",
+   "points": [
+    "<b>Conjunctivochalasis</b>: loose conjunctival folds over the lower lid. Lubricants or steroids. Surgery: excise the fold or suture it down.",
+    "<b>Primary punctal stenosis</b>: blepharitis, idiopathic, herpes, radiation, OCP, <b>long-term glaucoma drops</b>, <b>5-FU</b>. Treatment: 1-, 2- or 3-snip punctoplasty.",
+    "<b>Secondary stenosis</b> (from eversion): <b>retropunctal (Ziegler) cautery</b>, <b>medial conjunctivoplasty</b> (diamond excision), + tarsal strip if the lid is lax.",
+    "<b>Canalicular block</b>: trauma, herpes, drugs, radiation. Partial → <b>silicone stent</b> for 6 weeks to 6 months.",
+    "Total block → trephination + tube, or join the open part to the sac (needs 6–8 mm of healthy canaliculus).",
+    "Worst cases → <b>conjunctivo-DCR</b> with a <b>Lester Jones</b> glass tube from the caruncle to the nose (also for pump failure)."
+   ],
+   "hook": "Lester Jones = a <b>glass bypass</b> when the canaliculi are beyond saving.",
+   "cards": [
+    {"q": "Name 2 drugs that cause punctal stenosis.", "a": "Long-term topical glaucoma drops, systemic 5-fluorouracil."},
+    {"q": "Surgery for completely unusable canaliculi?", "a": "Conjunctivodacryocystorhinostomy with a Lester Jones tube."}
+   ]
+  },
+  {
+   "id": "ch03-06", "group": "Blockages in adults", "title": "Nasolacrimal duct obstruction & DCR", "minutes": 4,
+   "tldr": "Commonest NLDO = <b>idiopathic</b>. Fix = <b>DCR</b> (connect sac to the middle meatus), &gt;90% success.",
+   "points": [
+    "Causes: <b>idiopathic</b> (most), trauma or sinus surgery, <b>GPA (Wegener) and sarcoid</b>, nasopharyngeal tumour.",
+    "<b>External DCR</b>: skin cut 10 mm medial to the inner canthus (avoid the angular vein), remove bone, open the sac in an 'H', join sac flaps to nasal mucosa flaps.",
+    "Fails because of: small or badly placed ostium, missed common canalicular block, scarring, <b>'sump syndrome'</b> (bone opening too small and too high).",
+    "Risks: scar, bleeding, infection, <b>CSF leak</b>.",
+    "<b>Endoscopic DCR</b>: no skin scar, less bleeding, faster. Slightly lower success.",
+    "<b>Dacryolith</b> (stone): more common in men. Intermittent watering, firm non-tender sac. Treat with DCR."
+   ],
+   "hook": "DCR = <b>D</b>rain <b>C</b>onnected to the <b>R</b>hino (nose).",
+   "cards": [
+    {"q": "DCR joins the lacrimal sac to which part of the nose?", "a": "Middle meatus mucosa."},
+    {"q": "What is 'sump syndrome' after DCR?", "a": "Bony ostium too small and too high, so the sac doesn't drain fully."}
+   ]
+  },
+  {
+   "id": "ch03-07", "group": "Babies", "title": "Congenital NLDO & dacryocoele", "minutes": 4,
+   "tldr": "~20% of newborns have a watery eye. <b>85% clear by age 1</b>. If not → <b>probe</b> at about 12–18 months.",
+   "points": [
+    "Cause: the <b>valve of Hasner</b> hasn't opened yet (the last part to canalise).",
+    "Watering and sticky lashes, worse with colds. Pressing on the sac → mucus comes back.",
+    "Check vision and the red reflex. Rule out <b>congenital glaucoma</b>, punctal atresia, conjunctivitis.",
+    "<b>Sac massage</b> (block the canaliculus with a finger, roll downward). Antibiotic drops for infection.",
+    "<b>Probing</b>: a wire through Hasner's membrane. Delay to 12–24 months if mild. Can repeat. Failure → intubation, balloon, or DCR.",
+    "<b>Congenital dacryocoele</b>: <b>bluish</b> swelling <b>below</b> the medial canthal tendon at birth. Big ones can block the nose (breathing trouble). Usually settles, or probe.",
+    "<b>Encephalocoele</b> = <b>pulsatile</b> swelling <b>above</b> the medial canthal tendon. Don't confuse them!"
+   ],
+   "hook": "Blue lump <b>below</b> = dacryocoele. Pulsing lump <b>above</b> = brain (encephalocoele).",
+   "cards": [
+    {"q": "% of congenital NLDO that resolve by 1 year?", "a": "About 85%."},
+    {"q": "Pulsatile swelling above the medial canthal tendon in a neonate?", "a": "Encephalocoele (not a dacryocoele)."}
+   ]
+  },
+  {
+   "id": "ch03-08", "group": "Infections", "title": "Canaliculitis & dacryocystitis", "minutes": 4,
+   "tldr": "Canaliculitis = <b>Actinomyces</b>, <b>pouting punctum</b>, <b>sulphur granules</b>. Dacryocystitis = infected <b>sac</b> from a blocked NLD → <b>DCR</b> later.",
+   "points": [
+    "<b>Chronic canaliculitis</b>: <b>Actinomyces israelii</b> (Gram-positive, anaerobic). One-sided sticky eye that <b>doesn't respond to antibiotics</b>.",
+    "Red, swollen canaliculus, pus on pressure, <b>pouting punctum</b>, <b>yellow 'sulphur' concretions</b>. The sac is normal.",
+    "Antibiotic drops alone rarely work → <b>canaliculotomy + curettage</b>.",
+    "Acute canaliculitis → think <b>herpes simplex</b>.",
+    "<b>Acute dacryocystitis</b>: painful, tense red lump at the medial canthus ± abscess, preseptal cellulitis. Staph or Strep.",
+    "Treat: warm compress + <b>oral antibiotics</b> (flucloxacillin, co-amoxiclav). <b>Don't syringe or probe.</b> Incision risks a <b>fistula</b>. <b>DCR</b> once it settles.",
+    "<b>Chronic dacryocystitis</b>: painless <b>mucocoele</b>, pus on pressure → DCR.",
+    "<b>Delay intraocular surgery</b> if the tear drainage is infected → risk of endophthalmitis."
+   ],
+   "hook": "Act-<b>in</b>-omyces lives <b>in</b> the canaliculus. <b>Sulphur</b> = yellow granules.",
+   "cards": [
+    {"q": "Unilateral chronic mucopurulent conjunctivitis, pouting punctum, yellow granules. Organism?", "a": "Actinomyces israelii (chronic canaliculitis)."},
+    {"q": "Should you syringe in acute dacryocystitis?", "a": "No. Warm compresses + oral antibiotics, then DCR later."}
+   ]
+  }
+ ]
+}

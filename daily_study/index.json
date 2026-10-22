@@ -318,7 +318,48 @@
    "num": 3,
    "title": "Lacrimal Drainage System",
    "file": "ch03.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "ch03-01",
+     "title": "The tear drain: anatomy & pump",
+     "group": "Basics"
+    },
+    {
+     "id": "ch03-02",
+     "title": "Why is the eye watering?",
+     "group": "Basics"
+    },
+    {
+     "id": "ch03-03",
+     "title": "Syringing: hard stop vs soft stop",
+     "group": "Tests"
+    },
+    {
+     "id": "ch03-04",
+     "title": "Jones tests & imaging",
+     "group": "Tests"
+    },
+    {
+     "id": "ch03-05",
+     "title": "Punctum & canaliculus problems",
+     "group": "Blockages in adults"
+    },
+    {
+     "id": "ch03-06",
+     "title": "Nasolacrimal duct obstruction & DCR",
+     "group": "Blockages in adults"
+    },
+    {
+     "id": "ch03-07",
+     "title": "Congenital NLDO & dacryocoele",
+     "group": "Babies"
+    },
+    {
+     "id": "ch03-08",
+     "title": "Canaliculitis & dacryocystitis",
+     "group": "Infections"
+    }
+   ]
   },
   {
    "id": "ch04",
