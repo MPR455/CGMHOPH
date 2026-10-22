@@ -1,0 +1,48 @@
+{
+ "id": "ch17", "num": 17, "title": "Vitreous Opacities",
+ "chunks": [
+  {
+   "id": "ch17-01", "group": "Vitreous", "title": "Floaters & vitreous haemorrhage", "minutes": 3,
+   "tldr": "Vitreous ~<b>4 ml</b> gel (collagen + hyaluronic acid); never re-forms. Haemorrhage causes: <b>PVD ± tear</b>, <b>proliferative retinopathy</b> (DR, RVO, sickle, Eales), macroaneurysm, trauma, bleeding disorders, Terson. <b>Dense VH → B-scan</b> to rule out RD/melanoma.",
+   "points": [
+    "Muscae volitantes: normal embryological remnants; sudden increase = PVD or bleed.",
+    "Mild VH: floaters + haze, VA may be fine. Dense: severe loss.",
+    "B-scan: uniform echoes, particulate once clotted.",
+    "Low threshold for early vitrectomy in dense VH.",
+    "<b>Terson syndrome</b>: intraocular blood with <b>subarachnoid haemorrhage</b> (often ACom aneurysm) or raised ICP; often bilateral; clears in months; good prognosis."
+   ],
+   "hook": "<b>Can't see in → scan in.</b>",
+   "cards": [
+    {"q": "What is Terson syndrome?", "a": "Intraocular (retinal/preretinal/vitreous) haemorrhage associated with subarachnoid haemorrhage or acute raised ICP."},
+    {"q": "Essential test in dense vitreous haemorrhage?", "a": "B-scan ultrasound to exclude RD or tumour."}
+   ]
+  },
+  {
+   "id": "ch17-02", "group": "Vitreous", "title": "Asteroid hyalosis vs synchysis scintillans", "minutes": 2,
+   "tldr": "<b>Asteroid</b>: calcium pyrophosphate (calcium soaps) snowballs, <b>unilateral 75%</b>, elderly men, <b>don't sink</b>, rarely affect vision. <b>Synchysis scintillans</b>: <b>cholesterol</b> golden flakes after chronic haemorrhage (blind eyes), <b>sink</b> when eye is still.",
+   "points": [
+    "Asteroid: 3% of 75–86-year-olds; ?diabetes link unproven; bright on OCT/US.",
+    "Asteroid + reduced VA → look for second pathology.",
+    "Synchysis: may reach the AC."
+   ],
+   "table": {"head": ["", "Asteroid", "Synchysis scintillans"], "rows": [["Material", "Calcium pyrophosphate", "Cholesterol"], ["Eye", "Healthy, elderly", "Damaged, after haemorrhage"], ["When eye stops", "Stays suspended", "Settles to bottom"], ["Vision", "Usually fine", "Often poor (cause)"]]},
+   "hook": "<b>Asteroids float in space; cholesterol sinks like grease.</b>",
+   "cards": [{"q": "Which vitreous opacity settles inferiorly when the eye is still?", "a": "Synchysis scintillans (cholesterol)."}]
+  },
+  {
+   "id": "ch17-03", "group": "Vitreous", "title": "Amyloid, cysts & fetal remnants", "minutes": 2,
+   "tldr": "<b>Familial amyloidosis</b>: 'glass wool' vitreous + polyneuropathy + prominent corneal nerves + light-near dissociation. Cysts: pigmented (ciliary body) or non-pigmented (hyaloid remnant). Remnants: <b>Bergmeister papilla</b> (disc), <b>Mittendorf dot</b> (posterior lens).",
+   "points": [
+    "Amyloid opacities start perivascular, then sheet-like; footplates on lens. Vitrectomy if dense.",
+    "Cysts: usually harmless; laser cystotomy/vitrectomy if bothersome.",
+    "Persistent fetal vasculature = bigger version (previously PHPV).",
+    "Congenital vitreous veil: very rare, no treatment."
+   ],
+   "hook": "<b>Bergmeister = Back (disc). Mittendorf = Middle (lens).</b>",
+   "cards": [
+    {"q": "Vitreous 'glass wool' opacities + peripheral neuropathy?", "a": "Familial amyloidosis."},
+    {"q": "Where is a Mittendorf dot?", "a": "On the posterior lens capsule (anterior hyaloid artery remnant)."}
+   ]
+  }
+ ]
+}

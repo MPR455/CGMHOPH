@@ -1,0 +1,405 @@
+{
+ "id": "ch18", "num": 18, "title": "Strabismus",
+ "chunks": [
+  {
+   "id": "ch18-01", "group": "Anatomy & movements", "title": "Orbit axes & the recti", "minutes": 4,
+   "tldr": "Orbital axis is <b>23° from the visual axis</b>. MR/LR = pure horizontal. <b>SR</b>: elevate + adduct + <b>intort</b>; <b>IR</b>: depress + adduct + <b>extort</b>. Test vertical recti in <b>abduction (23°)</b>. Spiral of Tillaux: <b>MR 5.5, IR 6.5, LR 6.9, SR 7.7 mm</b>.",
+   "points": [
+    "Orbital walls 45° apart → axis 22.5° (~23°).",
+    "Fick axes: Z vertical (left/right), X horizontal (up/down), Y front-back (torsion). Listing plane = coronal through rotation centre.",
+    "Intorsion = superior limbus rotates nasally.",
+    "All recti from the annulus of Zinn.",
+    "SR/IR in 23° abduction = pure elevator/depressor. In 67° adduction (theoretical) = pure torsion.",
+    "<b>Pulleys</b> near the equator are the functional origins; displaced pulleys → A/V patterns, sagging eye."
+   ],
+   "table": {"head": ["Muscle", "Insertion", "Primary", "Secondary"], "rows": [["MR", "5.5 mm", "Adduction", "–"], ["IR", "6.5 mm", "Depression", "Adduction, extorsion"], ["LR", "6.9 mm", "Abduction", "–"], ["SR", "7.7 mm", "Elevation", "Adduction, intorsion"]]},
+   "hook": "Tillaux from MR clockwise-ish: <b>'5.5, 6.5, 6.9, 7.7 — Mighty Irish Lads Swim'</b>. <b>RAD SIN</b>: Recti ADduct; Superiors INtort.",
+   "cards": [
+    {"q": "Best gaze position to test superior rectus?", "a": "Abduction (about 23°) – it then acts purely as an elevator."},
+    {"q": "Which rectus inserts closest to the limbus?", "a": "Medial rectus (5.5 mm)."}
+   ]
+  },
+  {
+   "id": "ch18-02", "group": "Anatomy & movements", "title": "Obliques & innervation", "minutes": 3,
+   "tldr": "Obliques insert <b>behind the equator</b>, 51° to visual axis. <b>SO</b>: intort + depress + abduct; test in <b>adduction</b> (pure depressor). <b>IO</b>: extort + elevate + abduct; test in adduction. Nerves: <b>LR6 SO4</b>, rest III.",
+   "points": [
+    "SO: from above optic foramen → trochlea → back to posterior upper temporal globe.",
+    "SO anterior fibres = intorsion, posterior fibres = depression (Harada–Ito targets the anterior fibres).",
+    "SO palsy shows mainly as <b>poor depression in adduction</b>.",
+    "IO: from orbital floor lateral to lacrimal sac → inserts posterior lower temporal near the macula.",
+    "In 39° abduction obliques act mainly as torters.",
+    "III also supplies levator, sphincter pupillae, ciliary muscle."
+   ],
+   "hook": "<b>LR6 SO4</b> (the rest are 3). <b>Obliques ABduct</b> ('RAD SIN' + obliques the opposite).",
+   "cards": [
+    {"q": "Primary action of the superior oblique?", "a": "Intorsion (secondary: depression, abduction)."},
+    {"q": "Where is SO weakness most evident?", "a": "Failure of depression in adduction."}
+   ]
+  },
+  {
+   "id": "ch18-03", "group": "Anatomy & movements", "title": "Ductions, versions, vergences & AC/A", "minutes": 3,
+   "tldr": "<b>Duction</b> = one eye. <b>Version</b> = both same way. <b>Vergence</b> = opposite ways. Convergence parts: <b>tonic, proximal, fusional, accommodative</b>. Normal <b>AC/A = 3–5 Δ/D</b>.",
+   "points": [
+    "Secondary positions: straight up/down/left/right. Tertiary: oblique positions.",
+    "Head tilt right → RE intorts, LE extorts (righting reflex).",
+    "Fusional convergence driven by bitemporal disparity.",
+    "Near triad: accommodation + convergence + miosis.",
+    "6 cardinal positions (one muscle per eye mainly responsible); 9 diagnostic positions."
+   ],
+   "table": {"head": ["Gaze", "Right eye", "Left eye"], "rows": [["Right", "LR", "MR"], ["Up-right", "SR", "IO"], ["Down-right", "IR", "SO"], ["Left", "MR", "LR"], ["Up-left", "IO", "SR"], ["Down-left", "SO", "IR"]]},
+   "hook": "<b>Vergence = Very different directions.</b>",
+   "cards": [
+    {"q": "Normal AC/A ratio?", "a": "3–5 prism dioptres per dioptre of accommodation."},
+    {"q": "Yoke muscle of the left superior oblique?", "a": "Right inferior rectus."}
+   ]
+  },
+  {
+   "id": "ch18-04", "group": "Anatomy & movements", "title": "Hering & Sherrington laws", "minutes": 3,
+   "tldr": "<b>Sherrington</b>: agonist contracts → <b>its antagonist relaxes</b> (same eye). <b>Hering</b>: <b>yoke muscles get equal innervation</b>. So in a palsy, <b>secondary deviation (paretic eye fixing) &gt; primary deviation</b>.",
+   "points": [
+    "Agonist–antagonist (same eye, opposite). Synergists (same eye, same direction). Yokes (one in each eye, same direction).",
+    "L LR palsy, R fixing → L eye esotropic (primary deviation).",
+    "L fixing → extra drive to L LR → equal extra to R MR → bigger deviation (secondary).",
+    "Muscle sequelae (e.g. L SO palsy): 1) L SO underacts → 2) R IR (yoke) overacts → 3) L IO (antagonist) overacts/contracts → 4) R SR (contralateral antagonist) inhibitional palsy.",
+    "Over time a palsy spreads → becomes comitant; hard to find the original muscle."
+   ],
+   "hook": "<b>Hering = Hers + His get equal (both eyes). Sherrington = Same eye, see-saw.</b>",
+   "cards": [
+    {"q": "In a paretic squint, which is larger: primary or secondary deviation?", "a": "Secondary (paretic eye fixing)."},
+    {"q": "State Sherrington's law.", "a": "Increased innervation to a muscle is accompanied by reciprocal decreased innervation to its antagonist."}
+   ]
+  },
+  {
+   "id": "ch18-05", "group": "Binocular vision", "title": "BSV, horopter & Panum's area", "minutes": 4,
+   "tldr": "BSV needs <b>normal retinal correspondence</b>. <b>Horopter</b>: points seen single. <b>Panum's area</b>: small disparity → single + <b>stereopsis</b>; outside → physiological diplopia. Grades: <b>SP → fusion → stereopsis</b>.",
+   "points": [
+    "Nasal retina projects to temporal field (and vice versa).",
+    "Retinomotor value: 0 at fovea, increases outward (guides saccade size).",
+    "Panum's area shallow at fixation (~6 arc sec), deeper peripherally.",
+    "Sensory fusion (central or peripheral) vs motor fusion (vergence).",
+    "Peripheral fusion needed for BSV (lost in advanced glaucoma/pituitary field loss).",
+    "Fusional amplitudes: convergence 15–20 Δ distance / 25 Δ near; divergence 6–10 / 12–14 Δ; vertical 2–3 Δ; cyclo ~8°."
+   ],
+   "hook": "<b>On horopter = single flat. In Panum = single 3D. Outside = double.</b>",
+   "cards": [
+    {"q": "What is Panum's fusional area?", "a": "Zone around the horopter where slightly disparate images are still fused, producing stereopsis."},
+    {"q": "Normal fusional convergence amplitude for near?", "a": "About 25 prism dioptres."}
+   ]
+  },
+  {
+   "id": "ch18-06", "group": "Binocular vision", "title": "Diplopia, confusion, suppression & ARC", "minutes": 4,
+   "tldr": "New squint → <b>confusion</b> (two objects on two foveae) + <b>diplopia</b>. Kids (&lt;6–8 yrs) adapt: <b>suppression</b> (→ amblyopia if constant, one eye) or <b>ARC</b> (fovea paired with non-fovea, typical in <b>microtropia</b>). Eso = <b>uncrossed</b> diplopia; exo = <b>crossed</b>.",
+   "points": [
+    "Suppression: central (stops confusion) vs peripheral (stops diplopia); monocular vs alternating; facultative (only when deviated, e.g. intermittent XT, Duane) vs obligatory.",
+    "ARC = positive adaptation; best in small stable angles.",
+    "Head posture: <b>turn head towards the weak muscle's field</b> ('head goes where the eye can't').",
+    "R SO weakness → head tilt to <b>left</b>, face turn left, chin down.",
+    "Losing a childhood head posture may mean losing BSV → surgery."
+   ],
+   "hook": "<b>ESO = Same Side (uncrossed). eXo = X (crossed).</b>",
+   "cards": [
+    {"q": "Type of diplopia in esotropia?", "a": "Uncrossed (homonymous)."},
+    {"q": "Head tilt in a right fourth nerve palsy?", "a": "To the left (away from the affected side)."}
+   ]
+  },
+  {
+   "id": "ch18-07", "group": "Amblyopia", "title": "Amblyopia: types & treatment", "minutes": 4,
+   "tldr": "Reduced best-corrected VA (≥2 lines difference) with no eye disease. Types: <b>strabismic, anisometropic (≥1 D), deprivation, bilateral ametropic, meridional</b>. Treat: glasses → <b>patching</b> or <b>atropine penalisation</b>. Window to ~7–8 yrs (longer for aniso).",
+   "points": [
+    "<b>Crowding</b>: amblyopes read single letters better than rows → use crowded logMAR tests.",
+    "Always <b>look at the fundus</b> first (exclude organic disease).",
+    "Patching: faster; younger = quicker but risk of occlusion amblyopia → check both eyes.",
+    "No gain after 6 months of good patching → stop.",
+    "Atropine: best for mild–moderate (≥6/24), hyperopic aniso; hard to cheat; weekend dosing may work.",
+    "Compliance is the biggest barrier."
+   ],
+   "hook": "<b>Glasses first, then patch, then pupil-blur.</b>",
+   "cards": [
+    {"q": "Anisometropia of how much can cause amblyopia?", "a": "As little as 1 dioptre."},
+    {"q": "What is the crowding phenomenon?", "a": "VA is better with single optotypes than with letters in a row – exaggerated in amblyopia."}
+   ]
+  },
+  {
+   "id": "ch18-08", "group": "Clinical tests", "title": "Testing vision in children", "minutes": 3,
+   "tldr": "Preverbal: <b>fix & follow</b>, objection to occlusion, fixation preference, <b>10 Δ test</b>, rotation test, <b>preferential looking</b> (Teller, Keeler, Cardiff). Age 2: <b>Kay pictures</b>. Age 3: <b>Keeler logMAR / Sonksen</b> matching. Test at 3–4 m.",
+   "points": [
+    "Fixation held through a blink → good VA; alternates → equal.",
+    "Rotation test: post-rotatory nystagmus persists if vision is poor.",
+    "Grating acuity (Teller) overestimates VA in amblyopia.",
+    "Crowded recognition tests are needed to diagnose amblyopia."
+   ],
+   "hook": "<b>2 = pictures (Kay), 3 = letters (Keeler/Sonksen).</b>",
+   "cards": [{"q": "Why can Teller cards miss amblyopia?", "a": "Grating (resolution) acuity often exceeds recognition acuity in amblyopes."}]
+  },
+  {
+   "id": "ch18-09", "group": "Clinical tests", "title": "Stereo tests", "minutes": 3,
+   "tldr": "Lower arc-seconds = better. Normal ~60″. <b>Titmus</b>: fly 3000″, animals 400–100″, circles 800–40″ (polarised). <b>TNO</b>: random dot, red-green, 480–15″. <b>Frisby</b>: plates, no glasses, 600–15″. <b>Lang</b>: no glasses, 1200–200″.",
+   "points": [
+    "Random dot (TNO, Frisby) = best proof of real BSV.",
+    "Contour tests (Titmus) better if weak/ARC binocularity.",
+    "All at ~40 cm (Frisby: measure distance).",
+    "Lang star is visible monocularly (attention grabber)."
+   ],
+   "hook": "<b>Fly = 3000 (giant). TNO = 15 (tiny).</b>",
+   "cards": [{"q": "Stereo value of the Titmus fly?", "a": "About 3000 seconds of arc (gross stereopsis)."}]
+  },
+  {
+   "id": "ch18-10", "group": "Clinical tests", "title": "Worth 4-dot, Bagolini & 4Δ test", "minutes": 4,
+   "tldr": "<b>Worth 4-dot</b> (green RE, red LE): 4 = BSV (or harmonious ARC if squint); 2 red = R suppression; 3 green = L suppression; 5 = diplopia. <b>Bagolini</b>: X = BSV/ARC. <b>4 Δ base-out</b>: no movement → <b>central suppression scotoma</b> (microtropia). <b>20 Δ base-out</b>: fusion in infants.",
+   "points": [
+    "Results only make sense if you know whether a squint is present.",
+    "Worth alternating red/green = alternating suppression.",
+    "Bagolini: two lines not crossing = diplopia; one line = suppression; gap = central scotoma.",
+    "20 Δ base-out: most children with BSV overcome by 6 months.",
+    "Convergence to target from 3–4 months."
+   ],
+   "hook": "<b>Green on Right, red on Left.</b> You see the colour of the eye that's <b>working</b>: 2 red = only left eye → right suppressed.",
+   "cards": [
+    {"q": "Worth 4-dot: patient sees 3 green lights. Interpretation?", "a": "Left suppression (green lens is over the right eye)."},
+    {"q": "4 Δ base-out over the deviating eye causes no movement. Meaning?", "a": "Central suppression scotoma – microtropia/monofixation."}
+   ]
+  },
+  {
+   "id": "ch18-11", "group": "Clinical tests", "title": "Synoptophore", "minutes": 3,
+   "tldr": "Presents separate pictures to each eye at squint angle. Grades: <b>1 simultaneous perception</b> (bird in cage), <b>2 fusion</b> (rabbits + range), <b>3 stereopsis</b> (bucket). ARC: <b>subjective ≠ objective angle</b>; difference = angle of anomaly.",
+   "points": [
+    "+6.50 D eyepieces → optical distance ~6 m.",
+    "Measures horizontal, vertical, torsion in all gaze positions.",
+    "Harmonious ARC: objective angle = angle of anomaly (binocular responses present).",
+    "Unharmonious: objective angle exceeds angle of anomaly.",
+    "Fusion without range is useless in real life."
+   ],
+   "hook": "<b>Bird → Bunny → Bucket</b> (SP, fusion, stereo).",
+   "cards": [{"q": "How is ARC detected on the synoptophore?", "a": "Subjective and objective angles differ; the difference is the angle of anomaly."}]
+  },
+  {
+   "id": "ch18-12", "group": "Clinical tests", "title": "Measuring deviation: Hirschberg to prism cover", "minutes": 4,
+   "tldr": "<b>Hirschberg</b>: 1 mm reflex shift ≈ <b>7°</b> (pupil edge 15°, limbus 45°). <b>Krimsky</b>: prisms over <b>fixing</b> eye. <b>Cover test</b> → tropia; <b>uncover</b> → phoria; <b>alternate cover</b> → total. <b>Prism cover test</b>: apex towards deviation.",
+   "points": [
+    "1° ≈ 2 Δ.",
+    "Cover test: cover fixing eye, watch other: moves <b>in → was exo</b>; moves <b>out → was eso</b>.",
+    "Uncover: covered eye recovers inward → exophoria.",
+    "Use an <b>accommodative target</b>, not a light (except to start).",
+    "Prism cover: base-out for eso, base-down for hyper (over that eye); go to reversal then back.",
+    "<b>Maddox wing</b>: near phoria (horizontal, vertical, cyclo). <b>Maddox rod</b>: streak at 90° to rods; can't tell phoria from tropia. Double Maddox rod → torsion."
+   ],
+   "hook": "<b>Point the prism's nose (apex) at the squint.</b>",
+   "cards": [
+    {"q": "Hirschberg: reflex at the limbus means what angle?", "a": "About 45°."},
+    {"q": "Which test differentiates phoria from tropia?", "a": "Cover–uncover test (Maddox rod cannot)."}
+   ]
+  },
+  {
+   "id": "ch18-13", "group": "Clinical tests", "title": "Motility, NPC, NPA & diplopia tests", "minutes": 3,
+   "tldr": "Grade underaction <b>−1 to −4</b>, overaction +1 to +4. <b>NPC &lt;10 cm</b> normal. NPA 8 cm at 20 → ~46 cm at 50. <b>Postoperative diplopia test</b> with prisms before surgery in non-binocular patients &gt;7–8 yrs; positive → <b>botulinum trial</b>.",
+   "points": [
+    "LR −4 = can't abduct past midline.",
+    "RAF rule for NPC (objective/subjective) and NPA.",
+    "Field of BSV ~45–50°; great for follow-up of palsies.",
+    "Fusional amplitudes via prism bar or synoptophore."
+   ],
+   "hook": "<b>NPC under 10, normal again.</b>",
+   "cards": [{"q": "Normal near point of convergence?", "a": "Closer than 10 cm."}]
+  },
+  {
+   "id": "ch18-14", "group": "Clinical tests", "title": "Hess / Lees chart", "minutes": 4,
+   "tldr": "<b>Smaller chart = paretic eye</b>; greatest restriction in paretic muscle's field. <b>Larger chart = yoke overaction.</b> Each square = 5°. Over time charts become <b>comitant</b> (old palsy).",
+   "points": [
+    "Hess: red–green goggles; red in front of fixing eye; inner field 15°, outer 30°.",
+    "Lees: two screens + mirror.",
+    "Recent R SR palsy: R SR under, L IO over → later R IR contracture + L SO inhibitional palsy (can mislead).",
+    "3rd nerve: small chart, all under except LR; exo.",
+    "Recent R 4th: R SO under, R IO over; L IR over, L SR under; secondary &gt; primary.",
+    "<b>Congenital 4th</b>: charts same size, primary = secondary deviation.",
+    "R 6th: small R chart with LR under; R eso."
+   ],
+   "hook": "<b>Small chart = Sick eye.</b> Equal-sized charts = Old palsy.",
+   "cards": [
+    {"q": "On a Hess chart, which eye has the paretic muscle?", "a": "The eye with the smaller chart."},
+    {"q": "Hess sign suggesting a congenital (long-standing) palsy?", "a": "Charts of similar size (comitance spread), primary ≈ secondary deviation."}
+   ]
+  },
+  {
+   "id": "ch18-15", "group": "Clinical tests", "title": "Cycloplegic refraction & what to prescribe", "minutes": 3,
+   "tldr": "<b>Cyclopentolate</b> 0.5% (&lt;6 m) / 1%: 2 drops 5 min apart, read at 30 min. <b>Atropine</b> 0.5% (&lt;1 yr) / 1%: stronger, home use 1–3 days before. In <b>esotropia give full cycloplegic hyperopic correction</b>, even under 2.",
+   "points": [
+    "Cyclo both eyes at once (avoid penalisation amblyopia).",
+    "Atropine toxicity: flushing, fever, restlessness → stop.",
+    "Hyperopia rises till ~6, then falls.",
+    "No squint: don't correct ≤4 D hyperopia unless near problems; &gt;4 D give ~⅔.",
+    "Astigmatism ≥1.50 D: prescribe.",
+    "Myopia: &lt;2 yrs ≥−5 D; 2–4 yrs ≥−3 D; older: any.",
+    "Anisometropia &gt;1 D after age 3: full difference."
+   ],
+   "hook": "<b>Eso + hyperopia = give it ALL.</b>",
+   "cards": [
+    {"q": "Spectacle rule in a child with esotropia and hyperopia?", "a": "Prescribe the full cycloplegic hypermetropic correction."},
+    {"q": "Cyclopentolate concentration in infants under 6 months?", "a": "0.5%."}
+   ]
+  },
+  {
+   "id": "ch18-16", "group": "Phorias & vergence", "title": "Pseudostrabismus, phorias & vergence problems", "minutes": 4,
+   "tldr": "<b>Pseudo-eso</b>: epicanthus, narrow IPD, <b>negative kappa</b> (myopia). <b>Pseudo-exo</b>: wide IPD, <b>large positive kappa</b> (ROP dragged macula). <b>Convergence insufficiency</b>: students, remote NPC → exercises. <b>Spasm of near reflex</b>: eso + pseudomyopia + <b>miosis</b> (functional).",
+   "points": [
+    "Normal positive kappa: reflex slightly nasal.",
+    "Phorias: Fresnel prisms (≤10–12 Δ split), fix refraction, orthoptics (CI), surgery if big.",
+    "Divergence insufficiency/paralysis: neuro cause; prisms.",
+    "Near reflex paresis: reading glasses + base-in prisms.",
+    "Spasm: don't correct pseudomyopia; reassure; atropine + reading add if persistent."
+   ],
+   "hook": "<b>Miosis in a 'sixth nerve palsy' = spasm of the near reflex.</b>",
+   "cards": [
+    {"q": "Key sign distinguishing spasm of the near reflex from 6th nerve palsy?", "a": "Miosis (with pseudomyopia) during apparent abduction failure."},
+    {"q": "Which angle kappa gives pseudoexotropia?", "a": "Large positive angle kappa (e.g. temporally dragged macula in ROP)."}
+   ]
+  },
+  {
+   "id": "ch18-17", "group": "Esotropia", "title": "Early-onset (infantile) esotropia", "minutes": 4,
+   "tldr": "Before 6 months, <b>large (&gt;30 Δ) stable</b> angle, alternating fixation, <b>cross-fixation</b>, normal refraction (+1 to +2). Associations: <b>latent nystagmus, IO overaction, DVD (80% by 3)</b>. Operate by <b>12 months</b> (latest 2 yrs).",
+   "points": [
+    "Abduction present: doll's head, rotation, or patch one eye a few hours.",
+    "Latent nystagmus: fast phase towards the <b>uncovered fixing eye</b>.",
+    "DDx: bilateral 6th palsy, sensory eso, nystagmus blockage, Duane, Möbius, strabismus fixus.",
+    "Surgery: bilateral MR recession (≤6.5 mm) or R&R; &gt;50 Δ add LR resection.",
+    "Goal: within 10 Δ with peripheral fusion (monofixation).",
+    "Later: IO overaction (~2 yrs), DVD, amblyopia 50%, accommodative element."
+   ],
+   "hook": "<b>Infantile ET 'big 3' extras: LN, IOOA, DVD.</b>",
+   "cards": [
+    {"q": "Ideal age for surgical alignment in infantile esotropia?", "a": "By about 12 months (at latest 2 years)."},
+    {"q": "Describe DVD.", "a": "Covered eye drifts up and extorts; on uncovering it comes down without the other eye moving down (violates Hering)."}
+   ]
+  },
+  {
+   "id": "ch18-18", "group": "Esotropia", "title": "Accommodative esotropia", "minutes": 4,
+   "tldr": "<b>Refractive</b> (normal AC/A, +2 to +7 D, onset 18 m–3 yrs): fully vs partially corrected by glasses. <b>Non-refractive (high AC/A)</b>: eso at near only → <b>executive bifocals</b>. Surgery only for residual angle with glasses.",
+   "points": [
+    "Fully accommodative: straight with glasses at all distances.",
+    "Partially accommodative: reduced but not eliminated; amblyopia common.",
+    "Convergence excess: normal accommodation, high AC/A.",
+    "Hypoaccommodative: weak accommodation (remote NPA) → over-effort.",
+    "Under 6: full cycloplegic Rx; over 8: maximum tolerated plus.",
+    "Executive bifocal line at lower pupil border; wean by early teens.",
+    "Surgery: bilateral MR recession (near &gt; distance); Faden for convergence excess."
+   ],
+   "hook": "<b>Glasses fix it = fully. Glasses help = partially. Only near = bifocals.</b>",
+   "cards": [
+    {"q": "Treatment for convergence excess esotropia with high AC/A?", "a": "Executive bifocals (or bilateral MR recession ± Faden)."},
+    {"q": "Typical age of onset of refractive accommodative esotropia?", "a": "18 months to 3 years."}
+   ]
+  },
+  {
+   "id": "ch18-19", "group": "Esotropia", "title": "Microtropia & other esotropias", "minutes": 4,
+   "tldr": "<b>Microtropia</b> (&lt;10 Δ, monofixation): anisometropia + mild amblyopia + <b>ARC</b> + central suppression scotoma + reduced stereo. Other ETs: near, distance (myopes), <b>acute (exclude neuro)</b>, sensory, consecutive, <b>sagging eye (age-related distance ET)</b>, cyclic, high-myopia (heavy eye).",
+   "points": [
+    "Microtropia: may not show on cover test; 4 Δ test; treat refraction + amblyopia.",
+    "Acute ET ~5–6 yrs: check pupils, discs, nystagmus, 6th nerve; consider imaging.",
+    "Sensory ET: <b>dilated fundus exam always</b> (retinoblastoma!).",
+    "Consecutive ET after IXT surgery: act within 6 weeks.",
+    "<b>Sagging eye</b>: LR–SR band degeneration → distance ET, ptosis, deep sulcus.",
+    "<b>High myopia ET</b>: SR nasal, LR inferior → MRI; SR–LR loop (plication).",
+    "Cyclic ET: 24-hour on/off."
+   ],
+   "hook": "<b>New squint in a child → look at the back of the eye.</b>",
+   "cards": [
+    {"q": "Features of microtropia (monofixation syndrome)?", "a": "Angle &lt;10 Δ, anisometropia, mild amblyopia, ARC with central suppression scotoma, peripheral fusion, reduced stereo."},
+    {"q": "Cause of age-related distance esotropia (sagging eye)?", "a": "Degeneration of the LR–SR band letting the LR pulley sag inferiorly."}
+   ]
+  },
+  {
+   "id": "ch18-20", "group": "Exotropia", "title": "Exotropias", "minutes": 4,
+   "tldr": "<b>Intermittent XT</b>: ~2 yrs, breaks down with tiredness/daydreaming; <b>closes one eye in bright light</b>. Types: <b>distance excess (true vs simulated), basic, CI</b>. Constant early XT: neuro associations. Sensory XT: poor vision. Consecutive XT: after ET surgery.",
+   "points": [
+    "Simulated distance excess unmasked by +3 D lenses (high AC/A) or 30–60 min patch (tenacious proximal fusion).",
+    "Rx: myopic glasses/over-minus, part-time patching, exercises (near).",
+    "Surgery if poor/worsening control: unilateral R&R or bilateral LR recession (true distance excess).",
+    "Sensory XT: restoring vision may still leave intractable diplopia.",
+    "Consecutive XT surgery: 75% aligned at 10 yrs; check diplopia risk; early divergence → slipped muscle?"
+   ],
+   "hook": "<b>Sunshine squint</b> = intermittent exotropia.",
+   "cards": [
+    {"q": "Classic sign of intermittent exotropia in bright light?", "a": "Closing one eye."},
+    {"q": "How is simulated distance-excess exotropia unmasked?", "a": "Re-measure near through +3 D lenses or after 30–60 min monocular occlusion."}
+   ]
+  },
+  {
+   "id": "ch18-21", "group": "Special syndromes", "title": "Duane retraction syndrome", "minutes": 3,
+   "tldr": "Hypoplastic VI nucleus + <b>LR innervated by III</b> → co-contraction → <b>globe retraction + fissure narrowing on adduction</b>. Type I (commonest): poor abduction. Type II: poor adduction. Type III: both. Face turn keeps BSV. <b>Never resect the LR.</b>",
+   "points": [
+    "Often bilateral; 10% familial; half have systemic defects (deafness, ear, skeletal).",
+    "Up-shoot/down-shoot in adduction (tight LR slipping).",
+    "Most need no surgery; operate if losing BSV, bad head posture, shoots.",
+    "Options: MR/LR recessions; VRT (SR ± IR to LR).",
+    "Amblyopia usually from anisometropia."
+   ],
+   "hook": "<b>Duane Type 1 = can't go Out (1 = abduction).</b> Eye shrinks back when it goes in.",
+   "cards": [
+    {"q": "Pathogenesis of Duane syndrome?", "a": "Absent/hypoplastic sixth nerve nucleus with aberrant innervation of LR by third nerve fibres."},
+    {"q": "Most common Huber type?", "a": "Type I – limited abduction."}
+   ]
+  },
+  {
+   "id": "ch18-22", "group": "Special syndromes", "title": "Möbius, CFEOM, MED & Brown", "minutes": 4,
+   "tldr": "<b>Möbius</b>: bilateral <b>VI + VII</b> palsy (mask face) ± limb defects. <b>CFEOM1</b> (KIF21A): ptosis + eyes stuck <b>below horizontal</b>, chin up. <b>MED</b>: can't elevate one eye in any position. <b>Brown</b>: <b>can't elevate in adduction</b> (SO tendon restriction); click.",
+   "points": [
+    "Möbius: also V, VIII, X, XII; horizontal gaze palsy 50%.",
+    "Strabismus fixus: eyes tethered in (MR) or out (LR).",
+    "Marcus Gunn jaw-wink is a CCDD.",
+    "Brown: mild (no hypo), moderate (down-shoot in adduction), severe (primary hypotropia, chin up, face turn away).",
+    "Acquired Brown: trauma, RA, sinusitis → steroids near trochlea.",
+    "Congenital Brown often improves by ~10 yrs; surgery = SO tendon lengthening."
+   ],
+   "hook": "<b>Brown = can't look up-and-in</b> (like an IO palsy but forced duction positive).",
+   "cards": [
+    {"q": "Motility defect in Brown syndrome?", "a": "Limited elevation in adduction (positive forced duction, SO tendon restriction)."},
+    {"q": "Cranial nerves classically affected in Möbius syndrome?", "a": "Bilateral VI and VII."}
+   ]
+  },
+  {
+   "id": "ch18-23", "group": "Special syndromes", "title": "A and V patterns", "minutes": 3,
+   "tldr": "<b>V</b> significant ≥15 Δ (more divergent up): IO overaction, SO underaction (infantile ET), 4th palsy, Brown. <b>A</b> significant ≥10 Δ (more divergent down; reading trouble): SO overaction. MR → move to the <b>apex</b>; LR → move to the <b>open end</b>.",
+   "points": [
+    "Also from pulley displacement, craniofacial anomalies.",
+    "With oblique dysfunction: V → IO weakening; A → SO posterior tenotomy (~20°) or total tenotomy (up to 50°).",
+    "V-ET: MR recess + move down. V-XT: LR recess + move up.",
+    "A-ET: MR recess + move up. A-XT: LR recess + move down."
+   ],
+   "hook": "<b>MR to the Apex (MALE): Medials Apex, Laterals Empty end.</b>",
+   "cards": [
+    {"q": "Minimum difference for a significant A pattern?", "a": "10 Δ (V pattern needs 15 Δ)."},
+    {"q": "In V-pattern esotropia, which way are the medial recti transposed?", "a": "Downward (towards the apex of the V)."}
+   ]
+  },
+  {
+   "id": "ch18-24", "group": "Surgery", "title": "Squint surgery procedures", "minutes": 4,
+   "tldr": "Fix glasses + amblyopia first. <b>Strengthen</b>: resection, <b>plication</b> (reversible, spares ciliary vessels), advancement. <b>Weaken</b>: recession (not SO), disinsertion/myectomy (IO), <b>Faden</b> posterior fixation. <b>Transposition</b> for absent muscle (6th palsy). <b>Adjustable sutures</b> for adults (thyroid, blow-out, re-ops).",
+   "points": [
+    "IO recession: reattach 3 mm posterior + temporal to IR temporal insertion edge.",
+    "Faden: suture belly ~12 mm behind insertion → weakens only in field of action (convergence excess, DVD with SR).",
+    "Adjustables: noose knot, adjust hours later under topical; not for young kids.",
+    "Complications: <b>slipped/lost muscle (MR)</b>, globe perforation (high myopia), posterior Tenon breach → fat adherence (IO), over/under-correction, <b>anterior segment ischaemia</b> (≤3 recti per eye)."
+   ],
+   "hook": "<b>Never more than 3 recti</b> in one eye (anterior ciliary arteries).",
+   "cards": [
+    {"q": "Which muscle cannot be recessed?", "a": "Superior oblique."},
+    {"q": "How to avoid anterior segment ischaemia in squint surgery?", "a": "Don't operate on more than three rectus muscles of one eye at once (plication spares vessels)."}
+   ]
+  },
+  {
+   "id": "ch18-25", "group": "Surgery", "title": "Botulinum toxin in strabismus", "minutes": 3,
+   "tldr": "EMG-guided injection; onset days, <b>peak 1–2 weeks, gone by ~3 months</b>. Muscle lengthens, antagonist shortens → lasting change. Uses: small residual angle, infantile ET, active thyroid, <b>diplopia risk test</b>, BSV potential, <b>6th palsy (into MR)</b>. Side effect: <b>ptosis</b> (16% adults, 25% kids).",
+   "points": [
+    "Best results when fusion stabilises alignment.",
+    "Residual ET after recession: inject MR at 2–8 weeks.",
+    "Infantile ET: both MRs.",
+    "4th palsy: ipsilateral IO or contralateral IR.",
+    "Multiple failed operations: repeated injections."
+   ],
+   "hook": "<b>Botox: 2 weeks to peak, 3 months to fade.</b>",
+   "cards": [
+    {"q": "Commonest side effect of botulinum for strabismus?", "a": "Temporary ptosis."},
+    {"q": "Use of botulinum in 6th nerve palsy?", "a": "Inject the ipsilateral medial rectus to relieve contracture/diplopia and assess LR function."}
+   ]
+  }
+ ]
+}

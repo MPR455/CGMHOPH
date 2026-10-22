@@ -1950,14 +1950,156 @@
    "num": 17,
    "title": "Vitreous Opacities",
    "file": "ch17.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "ch17-01",
+     "title": "Floaters & vitreous haemorrhage",
+     "group": "Vitreous"
+    },
+    {
+     "id": "ch17-02",
+     "title": "Asteroid hyalosis vs synchysis scintillans",
+     "group": "Vitreous"
+    },
+    {
+     "id": "ch17-03",
+     "title": "Amyloid, cysts & fetal remnants",
+     "group": "Vitreous"
+    }
+   ]
   },
   {
    "id": "ch18",
    "num": 18,
    "title": "Strabismus",
    "file": "ch18.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "ch18-01",
+     "title": "Orbit axes & the recti",
+     "group": "Anatomy & movements"
+    },
+    {
+     "id": "ch18-02",
+     "title": "Obliques & innervation",
+     "group": "Anatomy & movements"
+    },
+    {
+     "id": "ch18-03",
+     "title": "Ductions, versions, vergences & AC/A",
+     "group": "Anatomy & movements"
+    },
+    {
+     "id": "ch18-04",
+     "title": "Hering & Sherrington laws",
+     "group": "Anatomy & movements"
+    },
+    {
+     "id": "ch18-05",
+     "title": "BSV, horopter & Panum's area",
+     "group": "Binocular vision"
+    },
+    {
+     "id": "ch18-06",
+     "title": "Diplopia, confusion, suppression & ARC",
+     "group": "Binocular vision"
+    },
+    {
+     "id": "ch18-07",
+     "title": "Amblyopia: types & treatment",
+     "group": "Amblyopia"
+    },
+    {
+     "id": "ch18-08",
+     "title": "Testing vision in children",
+     "group": "Clinical tests"
+    },
+    {
+     "id": "ch18-09",
+     "title": "Stereo tests",
+     "group": "Clinical tests"
+    },
+    {
+     "id": "ch18-10",
+     "title": "Worth 4-dot, Bagolini & 4Δ test",
+     "group": "Clinical tests"
+    },
+    {
+     "id": "ch18-11",
+     "title": "Synoptophore",
+     "group": "Clinical tests"
+    },
+    {
+     "id": "ch18-12",
+     "title": "Measuring deviation: Hirschberg to prism cover",
+     "group": "Clinical tests"
+    },
+    {
+     "id": "ch18-13",
+     "title": "Motility, NPC, NPA & diplopia tests",
+     "group": "Clinical tests"
+    },
+    {
+     "id": "ch18-14",
+     "title": "Hess / Lees chart",
+     "group": "Clinical tests"
+    },
+    {
+     "id": "ch18-15",
+     "title": "Cycloplegic refraction & what to prescribe",
+     "group": "Clinical tests"
+    },
+    {
+     "id": "ch18-16",
+     "title": "Pseudostrabismus, phorias & vergence problems",
+     "group": "Phorias & vergence"
+    },
+    {
+     "id": "ch18-17",
+     "title": "Early-onset (infantile) esotropia",
+     "group": "Esotropia"
+    },
+    {
+     "id": "ch18-18",
+     "title": "Accommodative esotropia",
+     "group": "Esotropia"
+    },
+    {
+     "id": "ch18-19",
+     "title": "Microtropia & other esotropias",
+     "group": "Esotropia"
+    },
+    {
+     "id": "ch18-20",
+     "title": "Exotropias",
+     "group": "Exotropia"
+    },
+    {
+     "id": "ch18-21",
+     "title": "Duane retraction syndrome",
+     "group": "Special syndromes"
+    },
+    {
+     "id": "ch18-22",
+     "title": "Möbius, CFEOM, MED & Brown",
+     "group": "Special syndromes"
+    },
+    {
+     "id": "ch18-23",
+     "title": "A and V patterns",
+     "group": "Special syndromes"
+    },
+    {
+     "id": "ch18-24",
+     "title": "Squint surgery procedures",
+     "group": "Surgery"
+    },
+    {
+     "id": "ch18-25",
+     "title": "Botulinum toxin in strabismus",
+     "group": "Surgery"
+    }
+   ]
   },
   {
    "id": "ch19",
