@@ -1,0 +1,758 @@
+{
+ "id": "ch13",
+ "num": 13,
+ "title": "Retinal Vascular Disease",
+ "chunks": [
+  {
+   "id": "ch13-01",
+   "group": "Basics",
+   "title": "Retinal circulation",
+   "minutes": 2,
+   "tldr": "CRA = <b>end artery</b>. Retinal capillaries feed the <b>inner 2/3</b>; choriocapillaris feeds the <b>outer 1/3</b>. Capillary endothelium tight junctions = <b>inner blood–retinal barrier</b>. <b>Pericytes</b> autoregulate.",
+   "points": [
+    "Central retinal artery enters the optic nerve ~1 cm behind the globe. Arterioles have a discontinuous internal elastic lamina.",
+    "Two capillary plexuses: inner (<b>ganglion cell layer</b>) and outer (<b>inner nuclear layer</b>).",
+    "Capillary-free zones around arterioles and at the fovea (<b>FAZ</b>).",
+    "Capillaries: endothelial cells (tight junctions), basement membrane, <b>pericytes</b> (contractile). No muscle/elastic.",
+    "Veins: little muscle, distensible."
+   ],
+   "hook": "<b>Inner 2/3 = retinal vessels. Outer 1/3 = choroid.</b>",
+   "cards": [
+    {
+     "q": "Which cells form the inner blood–retinal barrier?",
+     "a": "Retinal capillary endothelial cells (tight junctions)."
+    },
+    {
+     "q": "Which part of the retina does the choriocapillaris supply?",
+     "a": "The outer third."
+    }
+   ]
+  },
+  {
+   "id": "ch13-02",
+   "group": "Diabetic retinopathy",
+   "title": "DR: who's at risk",
+   "minutes": 4,
+   "tldr": "Biggest risk = <b>duration</b> (type 1: 50% at 10 years, 90% at 30). Others: <b>poor control (HbA1c)</b>, <b>BP</b>, <b>pregnancy</b>, nephropathy, lipids. <b>DMO</b> = commonest cause of vision loss.",
+   "points": [
+    "~40% of diabetics have DR; sight-threatening up to 10%; PDR 5–10%.",
+    "Rare in the first 5 years or before puberty, but ~5% of <b>type 2</b> have DR at diagnosis.",
+    "<b>DCCT/UKPDS</b>: tight glucose control prevents/slows DR. HbA1c target 6–7% (8% frail). Each 1% drop → ~1/3 fewer microvascular complications.",
+    "Sudden tight control can <b>briefly worsen</b> DR.",
+    "<b>Pregnancy</b>: worse if DR/poor control before, rapid tightening, pre-eclampsia. ~5% of mild and 1/3 of moderate NPDR → PDR. DMO late in pregnancy often resolves after.",
+    "<b>BP</b> &lt;140/80 (esp. type 2 with maculopathy).",
+    "<b>Nephropathy</b> worsens DR; kidney transplant can improve it.",
+    "Also: lipids, smoking, cataract surgery, obesity, anaemia.",
+    "Other diabetic eye problems: unstable refraction, iris transillumination, styes, xanthelasma, early cataract, NVG, <b>CN palsies</b>, reduced corneal sensation, papillopathy, Wolfram, mucormycosis."
+   ],
+   "hook": "DR risk = <b>Time + Sugar + Pressure</b>.",
+   "cards": [
+    {
+     "q": "Strongest risk factor for diabetic retinopathy?",
+     "a": "Duration of diabetes."
+    },
+    {
+     "q": "Proportion of type 1 diabetics with DR after 30 years?",
+     "a": "About 90%."
+    }
+   ]
+  },
+  {
+   "id": "ch13-03",
+   "group": "Diabetic retinopathy",
+   "title": "DR signs: the building blocks",
+   "minutes": 5,
+   "tldr": "<b>Microaneurysms</b> (first sign) → <b>dot/blot & flame haemorrhages</b> → <b>exudates</b> (leaky) → <b>cotton-wool spots, venous beading, IRMA, deep blots</b> (ischaemia) → <b>NVD/NVE</b>.",
+   "points": [
+    "<b>Microaneurysms</b>: capillary outpouchings where pericytes are lost; often temporal to the fovea. FA: tiny bright dots (more than you see), leak late.",
+    "<b>Flame haemorrhages</b>: nerve fibre layer (superficial arterioles).",
+    "<b>Dot/blot</b>: middle layers (venous end of capillaries).",
+    "<b>Deep dark round blots</b>: haemorrhagic infarcts → marker of PDR risk.",
+    "<b>Exudates</b>: yellow lipid/macrophages in the <b>outer plexiform layer</b>, at the edge of oedema, rings (circinate) around leaky microaneurysms. Clear slowly when leakage stops.",
+    "<b>Cotton-wool spots</b>: swollen axon ends (<b>cytoid bodies</b>) from ischaemia; FA dark.",
+    "<b>Venous changes</b>: dilatation, <b>looping, beading</b>, sausage segments → extent predicts PDR.",
+    "<b>IRMA</b>: shunts from arterioles to venules next to non-perfused areas; <b>don't leak</b> on FA (NV do).",
+    "Arterial: narrowing, silver wiring in severe ischaemia.",
+    "<b>PDR</b> needs &gt;¼ of retina non-perfused. <b>NVD</b> = on/within 1 DD of the disc. <b>NVE</b> elsewhere. <b>NVI</b> (rubeosis) → NVG. FA: NV leak heavily."
+   ],
+   "hook": "<b>IRMA stays put (no leak). New vessels leak like crazy.</b>",
+   "cards": [
+    {
+     "q": "Earliest clinical sign of diabetic retinopathy?",
+     "a": "Microaneurysms."
+    },
+    {
+     "q": "How do IRMA and NVE differ on FA?",
+     "a": "IRMA don't leak; new vessels leak profusely."
+    },
+    {
+     "q": "In which retinal layer are hard exudates mainly located?",
+     "a": "Outer plexiform layer."
+    }
+   ]
+  },
+  {
+   "id": "ch13-04",
+   "group": "Diabetic retinopathy",
+   "title": "ETDRS grading & the 4-2-1 rule",
+   "minutes": 4,
+   "tldr": "<b>Severe NPDR = 4-2-1</b>: severe haemorrhages in <b>4</b> quadrants, venous beading in <b>2</b>, IRMA in <b>1</b>. <b>High-risk PDR</b>: NVD ≥⅓ disc area, any NVD + VH, or NVE ≥½ DA + VH.",
+   "points": [
+    "No DR → review 12 months.",
+    "<b>Very mild NPDR</b>: microaneurysms only.",
+    "<b>Mild NPDR</b>: MAs, haemorrhages, exudates, CWS; no IRMA or significant beading. Review 6–12 months.",
+    "<b>Moderate NPDR</b>: severe haemorrhages in 1–3 quadrants or mild IRMA; beading ≤1 quadrant. ~6 months (PDR in up to 26% in a year).",
+    "<b>Severe NPDR (4-2-1)</b>: any one → review 4 months (PDR up to 50% in a year).",
+    "<b>Very severe NPDR</b>: two or more of 4-2-1 → 2–3 months (high-risk PDR up to 45%).",
+    "<b>PDR</b> (mild–moderate): NV not meeting high-risk → consider treatment.",
+    "<b>High-risk PDR</b>: NVD &gt;⅓ DA, any NVD with VH, NVE &gt;½ DA with VH → <b>treat now</b> (same day if symptomatic).",
+    "Clinical words: background (MAs, haemorrhages, exudates), maculopathy, <b>pre-proliferative</b> (CWS, venous changes, IRMA, deep blots), proliferative, <b>advanced</b> (TRD, persistent VH, NVG)."
+   ],
+   "hook": "<b>4-2-1</b>: four quadrants bleed, two bead, one has IRMA.",
+   "cards": [
+    {
+     "q": "State the 4-2-1 rule.",
+     "a": "Severe haemorrhages in 4 quadrants, venous beading in 2, or IRMA in 1 = severe NPDR."
+    },
+    {
+     "q": "Name one high-risk PDR criterion.",
+     "a": "NVD >⅓ disc area; any NVD with vitreous haemorrhage; NVE >½ disc area with vitreous haemorrhage."
+    }
+   ]
+  },
+  {
+   "id": "ch13-05",
+   "group": "Diabetic retinopathy",
+   "title": "Diabetic maculopathy & CSMO",
+   "minutes": 4,
+   "tldr": "Types: <b>focal</b> (exudate rings, FA focal leak), <b>diffuse</b> (thickening, CMO), <b>ischaemic</b> (looks OK, bad VA, <b>big FAZ</b> on FA). <b>CSMO</b> = thickening or exudates (with thickening) <b>within 500 µm</b> of the centre, or ≥1 DA thickening within 1 DD.",
+   "points": [
+    "Commonest cause of vision loss in diabetes (esp. type 2).",
+    "<b>Focal</b>: localised thickening + exudate rings; FA late focal leak; good perfusion.",
+    "<b>Diffuse</b>: widespread thickening ± <b>cystoid</b> spaces (OCT; FA flower-petal).",
+    "<b>Ischaemic</b>: macula may look normal but VA poor; FA shows enlarged/irregular <b>FAZ</b> → poor prognosis.",
+    "<b>CSMO (ETDRS)</b>: (1) thickening within <b>500 µm</b> of the centre; (2) exudates within 500 µm with adjacent thickening; (3) thickening ≥<b>1 disc area</b> any part within <b>1 disc diameter</b>.",
+    "Today: classify as <b>centre-involving vs not</b> on OCT."
+   ],
+   "hook": "<b>500 µm = the danger circle</b> around the fovea.",
+   "cards": [
+    {
+     "q": "Key FA finding in ischaemic maculopathy?",
+     "a": "Enlarged/irregular foveal avascular zone (capillary non-perfusion)."
+    },
+    {
+     "q": "One ETDRS criterion for CSMO?",
+     "a": "Retinal thickening within 500 µm of the macular centre."
+    }
+   ]
+  },
+  {
+   "id": "ch13-06",
+   "group": "Diabetic retinopathy",
+   "title": "Treating DMO",
+   "minutes": 5,
+   "tldr": "Centre-involving DMO → <b>anti-VEGF</b> (Protocol I). VA <b>≤6/15</b> → <b>aflibercept</b> best (Protocol T). Non-centre with threatening exudates → <b>focal/grid laser</b>. Pseudophakic or anti-VEGF not allowed → <b>steroid implants</b>.",
+   "points": [
+    "General: education, glucose, BP, lipids, <b>fenofibrate</b> (type 2), stop smoking, treat anaemia/renal disease.",
+    "<b>Protocol I</b>: ranibizumab beats laser for centre-involving DMO; defer laser ≥6 months; good to 5 years with fewer injections.",
+    "<b>Protocol T</b>: VA better than 6/15 → aflibercept = bevacizumab = ranibizumab. VA <b>6/15 or worse</b> → <b>aflibercept</b> better.",
+    "Good VA (≥6/7.5) with DMO: <b>observation</b> is reasonable.",
+    "Start: monthly × 3–6, then as-needed. Improvement after 3 injections predicts long-term response.",
+    "<b>Focal laser</b>: 50–100 µm, 0.05–0.1 s, light grey burns on leaking MAs 500–3000 µm from the foveola. <b>Grid</b>: mild burns on diffuse thickening, ≥500 µm from fovea and disc.",
+    "<b>Subthreshold micropulse</b>: no visible burn, can go subfoveal.",
+    "<b>Intravitreal triamcinolone</b> (pseudophakes, pregnancy, recent MI), <b>dexamethasone implant (Ozurdex)</b>, <b>fluocinolone implant</b> (longer). Watch IOP, cataract.",
+    "Persistent after 6 months anti-VEGF → add laser or switch to Ozurdex.",
+    "PDR + DMO → anti-VEGF alone may cover both.",
+    "<b>PPV</b> if taut posterior hyaloid/VMT or ERM."
+   ],
+   "hook": "<b>Bad vision (≤6/15)? Aflibercept.</b> Off-centre exudates creeping in? <b>Laser.</b>",
+   "cards": [
+    {
+     "q": "DRCR Protocol T: which agent is better when VA is 6/15 or worse?",
+     "a": "Aflibercept."
+    },
+    {
+     "q": "Minimum distance from the foveola for conventional grid laser?",
+     "a": "500 µm."
+    }
+   ]
+  },
+  {
+   "id": "ch13-07",
+   "group": "Diabetic retinopathy",
+   "title": "PRP & anti-VEGF for PDR",
+   "minutes": 5,
+   "tldr": "<b>PRP</b> is still the mainstay (DRS: severe NVD risk 26% → 9%). <b>Protocol S</b>: ranibizumab ≈ PRP at 5 years (less DMO, better field) if the patient will <b>keep coming back</b>. PRP: ~400 µm spots, 1–1.5 widths apart, outside the arcades, fractionated.",
+   "points": [
+    "Consent: <b>driving field loss</b> possible, night/colour vision, risk to centre (DMO worsens; fractionate).",
+    "<b>Protocol S / CLARITY</b>: anti-VEGF as good as PRP; ~half get VH either way. Choose PRP if follow-up or cost is a worry.",
+    "DMO + PDR: anti-VEGF (± PRP). Non-centre CSMO: do macular laser <b>before or with</b> PRP.",
+    "Lens: panfundoscopic (spot ×2 → set 200 µm for 400 µm on retina) or Mainster/Area Centralis (≈1:1). Image inverted.",
+    "Duration 10–50 ms (modern), light burns, spacing 1–1.5 burn widths. <b>Pattern scan</b> multispot.",
+    "Amount: ~1500 burns first session; mild PDR 2500–3500, moderate ~4000, severe ~7000 total.",
+    "Pattern: barrier temporal to the macula first; spare 2 DD nasal to the disc; severe PDR → <b>inferior first</b> (blood settles there); avoid traction.",
+    "Review 4–6 weeks after completion.",
+    "Regression: blunted tips, shrinking NV → ghost vessels/fibrosis, less IRMA/venous change. Contraction can cause VH or TRD.",
+    "<b>Targeted PRP</b>: laser only non-perfused areas on wide-field FA."
+   ],
+   "hook": "PRP rule: <b>Fence the macula, start inferiorly, spare the disc's nasal side.</b>",
+   "cards": [
+    {
+     "q": "Typical retinal burn size for PRP?",
+     "a": "About 400 µm."
+    },
+    {
+     "q": "Why treat the inferior retina first in severe PDR?",
+     "a": "Vitreous haemorrhage settles inferiorly and could block later treatment."
+    },
+    {
+     "q": "Protocol S conclusion?",
+     "a": "Intravitreal ranibizumab is as effective as PRP for PDR at 5 years."
+    }
+   ]
+  },
+  {
+   "id": "ch13-08",
+   "group": "Diabetic retinopathy",
+   "title": "Advanced diabetic eye disease & papillopathy",
+   "minutes": 4,
+   "tldr": "Advanced = <b>VH, tractional RD, rubeosis/NVG</b>. <b>PPV</b> for: non-clearing VH, <b>TRD threatening the macula</b>, combined TRD/RRD, dense premacular haemorrhage. <b>Diabetic papillopathy</b> = young diabetic, swollen hyperaemic disc, mild blur, recovers.",
+   "points": [
+    "Haemorrhage: <b>preretinal (retrohyaloid)</b> or intragel; ochre membrane. B-scan to check retina.",
+    "<b>TRD</b>: fibrovascular contraction at vitreoretinal adhesions; incomplete PVD.",
+    "<b>Rubeosis</b>: severe ischaemia or failed surgery → NVG.",
+    "<b>PPV indications</b>: severe persistent VH (classically ~3 months; earlier now), <b>macula-threatening TRD (urgent)</b>, <b>combined TRD + RRD (urgent)</b>, dense premacular retrohyaloid haemorrhage (or <b>YAG hyaloidotomy</b>), anterior NV with media opacity. Extramacular TRD can be watched. Endolaser PRP during PPV.",
+    "<b>Diabetic papillopathy</b>: young diabetics, mild painless blur, often unilateral, <b>hyperaemic disc swelling + surface telangiectasia</b> (not NVD). Bilateral → exclude raised ICP. Resolves over months; 80% ≥6/12.",
+    "<b>Non-diabetic retinopathy</b>: DR-like spots in up to 10% of non-diabetics &gt;40 → vascular risk, maybe pre-diabetes."
+   ],
+   "hook": "<b>Traction on the macula = operate now.</b> Traction elsewhere = watch.",
+   "cards": [
+    {
+     "q": "Diabetic TRD not involving the macula: management?",
+     "a": "Can be observed (often stable)."
+    },
+    {
+     "q": "Laser to disperse a premacular retrohyaloid haemorrhage?",
+     "a": "Nd:YAG hyaloidotomy."
+    }
+   ]
+  },
+  {
+   "id": "ch13-09",
+   "group": "Vein occlusion",
+   "title": "RVO: risk factors & work-up",
+   "minutes": 3,
+   "tldr": "Biggest risks: <b>age, hypertension, high lipids</b>, diabetes, <b>glaucoma/OHT (CRVO)</b>, <b>OCP</b> (young women). Work-up for all: <b>BP, FBC, ESR, glucose, lipids, protein electrophoresis</b>. Young/bilateral → thrombophilia screen.",
+   "points": [
+    "Artery and vein share a sheath at crossings → hard artery squeezes the vein → clot.",
+    "Age (&gt;50% over 65), <b>hypertension</b> (2/3 of over-50s; esp. BRVO), lipids (1/3), diabetes (up to 15%), <b>glaucoma/OHT</b> (CRVO), <b>OCP</b>, smoking.",
+    "Uncommon: dehydration, <b>myeloma/polycythaemia</b>, thrombophilia (homocysteine, antiphospholipid, factor V Leiden), periphlebitis (Behçet, sarcoid, GPA), orbital disease, renal failure.",
+    "All: <b>BP, ESR/PV, FBC, glucose, cholesterol/HDL, plasma protein electrophoresis</b> (± U&E, TFTs, ECG).",
+    "Selected (&lt;50, bilateral, past/family thrombosis): CXR, CRP, <b>homocysteine</b>, thrombophilia screen (incl. anticardiolipin), autoantibodies, ACE, syphilis, carotid Doppler.",
+    "After RVO: control risk factors, stop smoking; <b>stop OCP</b>, avoid oestrogen HRT; aspirin only if systemic indication; avoid dehydration."
+   ],
+   "hook": "RVO = <b>Old, high Pressure, high fat</b>. Young woman? <b>Check the Pill.</b>",
+   "cards": [
+    {
+     "q": "Commonest association of RVO in young women?",
+     "a": "Oral contraceptive pill."
+    },
+    {
+     "q": "Ocular condition linked with higher CRVO risk?",
+     "a": "Glaucoma/ocular hypertension."
+    }
+   ]
+  },
+  {
+   "id": "ch13-10",
+   "group": "Vein occlusion",
+   "title": "Branch retinal vein occlusion",
+   "minutes": 4,
+   "tldr": "Usually <b>superotemporal</b>, at an <b>AV crossing</b>. Haemorrhages in one sector. Main vision threat = <b>macular oedema</b> → <b>anti-VEGF</b> (BRAVO, VIBRANT) or Ozurdex. NV (&gt;5 DA non-perfusion) → <b>sector laser</b>.",
+   "points": [
+    "Macula involved → sudden blur/distortion. Peripheral → may be silent.",
+    "Dilated tortuous vein segment, flame + dot/blot haemorrhages in its territory, CWS, oedema. Superotemporal commonest.",
+    "Resolves over 6–12 months → sheathed veins, <b>collaterals</b> (can cross the horizontal raphe; good sign).",
+    "NVE ~8% by 3 years (much higher if <b>&gt;5 disc areas</b> non-perfused); NVE &gt; NVD; usually 6–12 months. NVI/NVG only 2–3%.",
+    "FA: delayed filling, non-perfusion, leakage, collaterals.",
+    "Treat BP/lipids. Observe if VA ≥6/9.",
+    "<b>Macular oedema</b>: <b>anti-VEGF</b> early (BRAVO: ranibizumab beats grid laser; VIBRANT: aflibercept). <b>Ozurdex</b> (repeat 4–6 months; IOP/cataract). Grid laser (avoid within ½ DD of fovea, haemorrhages, collaterals) if VA ≤6/12 after 3–6 months with good perfusion. Micropulse. Triamcinolone.",
+    "<b>NV</b>: sector scatter laser (400–500 µm, 1 burn apart) to the ischaemic area ± anti-VEGF. NVI → urgent sector PRP.",
+    "Review 3 months, then 3–6-monthly for 2 years.",
+    "Prognosis: 50–60% keep &gt;6/15 even untreated; ~¼ ≤6/60."
+   ],
+   "hook": "BRVO = <b>one sector bleeding</b>, usually <b>upper outer</b>, at a crossing.",
+   "cards": [
+    {
+     "q": "Non-perfusion area predicting NV in BRVO?",
+     "a": "More than about 5 disc areas."
+    },
+    {
+     "q": "Commonest cause of persistent poor vision after BRVO?",
+     "a": "Chronic macular oedema."
+    }
+   ]
+  },
+  {
+   "id": "ch13-11",
+   "group": "Vein occlusion",
+   "title": "CRVO: non-ischaemic vs ischaemic",
+   "minutes": 5,
+   "tldr": "<b>Ischaemic</b> CRVO: VA <b>&lt;6/60</b>, <b>RAPD</b>, lots of deep blots + CWS, FA <b>&gt;10 DA non-perfusion</b> → NVI in ~50% at <b>~100 days</b>. <b>Non-ischaemic</b>: milder, no/mild RAPD, but 1/3 convert.",
+   "points": [
+    "<b>Impending CRVO</b>: younger, mild venous dilatation, few haemorrhages, blur on waking.",
+    "<b>Non-ischaemic</b> (commoner): sudden blur, mild haemorrhages in all quadrants, mild disc/macular oedema, <b>perivenular ischaemic whitening</b> (young), FAF fern-like pattern. FA: delayed transit, good perfusion. ~1/3 become ischaemic.",
+    "Vision: good start → good end; worse than 6/60 → ischaemia likely.",
+    "<b>Ischaemic</b>: VA usually CF or worse, <b>RAPD</b>, severe tortuosity, extensive deep blot/flame haemorrhages, many CWS, disc swelling.",
+    "<b>NVI ~50%</b>, typically <b>2–4 months</b> ('100-day glaucoma'). <b>Check pupil margin + undilated gonioscopy</b> (angle NV can come first).",
+    "Retinal NV only ~5% (less than BRVO).",
+    "<b>Disc collaterals</b> (optociliary shunts) → lower NV risk.",
+    "FA: <b>&gt;10 DA non-perfusion</b> = high NV risk. ERG depressed.",
+    "Late: macular atrophy, ERM, CMO.",
+    "<b>Hemiretinal vein occlusion</b>: superior or inferior half → <b>altitudinal field defect</b>; NVI risk between BRVO and CRVO; NVD more common. Manage like CRVO if ischaemic, otherwise like BRVO.",
+    "<b>Papillophlebitis</b>: young, disc swelling dominant, peripapillary haemorrhages, mild VA loss, good prognosis (bilateral → exclude raised ICP)."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Non-ischaemic",
+     "Ischaemic"
+    ],
+    "rows": [
+     [
+      "VA",
+      "Often &gt;6/60",
+      "CF or worse"
+     ],
+     [
+      "RAPD",
+      "None/mild",
+      "Marked"
+     ],
+     [
+      "Haemorrhages",
+      "Mild–moderate",
+      "Extensive deep"
+     ],
+     [
+      "FA non-perfusion",
+      "Little",
+      "&gt;10 DA"
+     ],
+     [
+      "NVI",
+      "Low",
+      "~50%"
+     ]
+    ]
+   },
+   "hook": "<b>Bad VA + RAPD + blood-and-thunder fundus</b> = ischaemic CRVO → watch for <b>100-day glaucoma</b>.",
+   "cards": [
+    {
+     "q": "FA threshold of non-perfusion suggesting high NV risk in CRVO?",
+     "a": "More than 10 disc areas."
+    },
+    {
+     "q": "Why do gonioscopy before dilating in ischaemic CRVO?",
+     "a": "Angle neovascularisation can occur without pupil-margin NV."
+    }
+   ]
+  },
+  {
+   "id": "ch13-12",
+   "group": "Vein occlusion",
+   "title": "Treating CRVO complications",
+   "minutes": 4,
+   "tldr": "CMO (VA &lt;6/9 or thick on OCT) → <b>anti-VEGF</b> (CRUISE, COPERNICUS) or <b>Ozurdex</b> (GENEVA). Laser doesn't help vision. NVI/angle NV → <b>urgent PRP + anti-VEGF</b>. No prophylactic PRP. Ischaemic → <b>monthly review × 6 months</b>.",
+   "points": [
+    "Macular oedema: treat if VA worse than 6/9 and/or CST &gt;250 µm; little benefit if ≤6/120.",
+    "<b>CRUISE</b> (ranibizumab), <b>COPERNICUS</b> (aflibercept, works PRN too), bevacizumab also used.",
+    "<b>GENEVA</b>: Ozurdex effect peaks ~2 months, gone by 6 → repeat. Better if within 90 days. <b>COMRADE</b>: ranibizumab beat dexamethasone at 6 months.",
+    "<b>SCORE</b>: triamcinolone 1 mg helped (IOP/cataract risk).",
+    "Grid laser: improves anatomy, <b>not vision</b> (except some young).",
+    "Experimental: chorioretinal anastomosis, radial optic neurotomy, rtPA.",
+    "<b>NVI/angle NV</b>: <b>PRP now</b> (1500–2000 burns initially, avoid haemorrhages, more later) + anti-VEGF 6-weekly until stable. NVG may be delayed up to 18 months → 3-monthly follow-up for 2–3 years.",
+    "<b>Prophylactic PRP not supported</b> by evidence.",
+    "VH: anti-VEGF or PPV + endolaser.",
+    "Review: ischaemic → monthly for 6 months, then 2–3 years. Non-ischaemic → 3 months, discharge ~18–24 months; return if worse vision, pain or redness."
+   ],
+   "hook": "<b>CMO → injections. NVI → laser + injections.</b>",
+   "cards": [
+    {
+     "q": "Does macular grid laser improve vision in CRVO macular oedema?",
+     "a": "No (anatomy improves, vision doesn't, except in some younger patients)."
+    },
+    {
+     "q": "Is prophylactic PRP recommended in ischaemic CRVO?",
+     "a": "No; treat promptly when NVI/angle NV appears."
+    }
+   ]
+  },
+  {
+   "id": "ch13-13",
+   "group": "Artery occlusion",
+   "title": "Retinal artery occlusion: causes & work-up",
+   "minutes": 4,
+   "tldr": "Mostly <b>emboli</b> from the <b>carotid</b>: <b>Hollenhorst</b> (shiny yellow cholesterol), fibrin-platelet (grey), calcific (white, from valves). <b>Always ask about GCA</b> in older patients. Urgent <b>stroke work-up</b>.",
+   "points": [
+    "CRA = first branch of the ophthalmic artery (from ICA) → emboli go straight there.",
+    "Causes: atheroembolism/thrombosis, <b>GCA</b>, vasculitis (SLE, GPA, PAN), vasospasm (migraine), hypotension, cardiac (AF, valves, myxoma, endocarditis), thrombophilia (1/3 of young), sickle, <b>Susac syndrome</b> (BRAO + deafness + encephalopathy).",
+    "Emboli: <b>Hollenhorst plaques</b> (refractile cholesterol), <b>fibrin-platelet</b> (grey, elongated), <b>calcific</b> (white, non-shiny, near the disc).",
+    "Stroke risk is <b>highest in the first days</b> → urgent stroke/TIA clinic. 25% stroke at 3 years after TIA.",
+    "All: smoking, <b>GCA symptoms</b> (headache, jaw claudication, scalp tenderness, PMR), pulse (<b>AF</b>), BP, heart murmur, ECG, <b>ESR/CRP</b>, FBC (platelets), glucose, lipids, U&E, <b>carotid duplex</b>.",
+    "Selected (young, atypical): MRI/CT, <b>echocardiogram</b>, 24-h ECG, CXR, homocysteine, thrombophilia, electrophoresis, TFTs, autoantibodies, syphilis, blood cultures.",
+    "<b>Amaurosis fugax</b>: transient monocular 'curtain' lasting minutes → treat like a TIA, urgently."
+   ],
+   "hook": "Artery occlusion = <b>a stroke of the eye</b>. Send to the stroke team <b>today</b>.",
+   "cards": [
+    {
+     "q": "Refractile yellow cholesterol embolus in a retinal arteriole?",
+     "a": "Hollenhorst plaque."
+    },
+    {
+     "q": "Triad of Susac syndrome?",
+     "a": "Branch retinal artery occlusions, sensorineural hearing loss, encephalopathy."
+    }
+   ]
+  },
+  {
+   "id": "ch13-14",
+   "group": "Artery occlusion",
+   "title": "BRAO, CRAO & cilioretinal artery",
+   "minutes": 4,
+   "tldr": "<b>CRAO</b>: sudden painless near-total loss, <b>RAPD</b>, <b>white retina + cherry-red spot</b>, 'box-car' blood columns. <b>NPL</b> → think <b>GCA or ophthalmic artery</b>. A <b>cilioretinal artery</b> can save central vision.",
+   "points": [
+    "<b>BRAO</b>: sudden altitudinal/sectoral field loss, ± RAPD, <b>white oedematous retina</b> in one sector, emboli at bifurcations, segmented ('box-car') blood. FA delayed filling. Field rarely recovers.",
+    "<b>CRAO</b>: severe loss (unless cilioretinal), profound RAPD.",
+    "<b>Cherry-red spot</b>: intact choroid seen through thin fovea, surrounded by pale swollen retina. Emboli seen in 20%.",
+    "Cilioretinal artery (~1/3 of eyes) → normal-coloured patch near the disc → central vision preserved.",
+    "Over weeks: retina clears, arteries stay thin → optic atrophy.",
+    "<b>Rubeosis</b> in up to ~1 in 5, earlier than CRVO (<b>4–5 weeks</b>) → review at 3–4 weeks then monthly; PRP ± anti-VEGF if NV.",
+    "OCT: hyper-reflective embolus at the disc. ERG: reduced <b>b-wave</b> (inner retina).",
+    "<b>Cilioretinal artery occlusion</b>: isolated (young, vasculitis), <b>+ CRVO</b> (transient, better prognosis), <b>+ AION</b> (<b>GCA</b>, very poor)."
+   ],
+   "hook": "<b>Cherry-red spot in a white sea</b> = CRAO.",
+   "cards": [
+    {
+     "q": "What does NPL vision in CRAO suggest?",
+     "a": "Giant cell arteritis or ophthalmic artery occlusion."
+    },
+    {
+     "q": "ERG change in CRAO?",
+     "a": "Reduced b-wave (inner retinal ischaemia)."
+    },
+    {
+     "q": "Cilioretinal artery occlusion + AION in an elderly patient suggests?",
+     "a": "Giant cell arteritis."
+    }
+   ]
+  },
+  {
+   "id": "ch13-15",
+   "group": "Artery occlusion",
+   "title": "Acute treatment & after care",
+   "minutes": 4,
+   "tldr": "Retina dies within <b>~4–6 hours</b>. Tried (weak evidence): <b>ocular massage, AC paracentesis, IOP-lowering, vasodilators, carbogen, YAG embolysis</b>. Intra-arterial rtPA: no benefit in the big trial. The main job = <b>prevent stroke</b> (antiplatelet, AF anticoagulation, <b>endarterectomy if &gt;70%</b>).",
+   "points": [
+    "Only 1/5 end ≥6/12; 2/3 worse than 6/120.",
+    "Options within 24 h: <b>ocular massage</b> (3-mirror lens, 10–15 s on/off, 3–5 min), <b>AC paracentesis</b> (27 G, 0.1–0.2 ml), apraclonidine/timolol/<b>IV acetazolamide</b>, sublingual isosorbide, rebreathing into a bag, <b>carbogen</b>, mannitol/glycerol.",
+    "<b>YAG embolysis</b> (0.5–2.4 mJ on a visible embolus): some good reports; vitreous/subretinal haemorrhage in ~half.",
+    "<b>Thrombolysis</b>: multicentre local rtPA trial showed no benefit.",
+    "After: urgent stroke clinic (95% need medication changes, 25% urgent surgery).",
+    "<b>Antiplatelets</b> (loading 600 mg aspirin; clopidogrel/dipyridamole) — discuss first if fibrinolysis planned.",
+    "<b>Anticoagulate</b> for AF. <b>Carotid endarterectomy</b> for symptomatic stenosis <b>&gt;70%</b>.",
+    "<b>Asymptomatic retinal embolus</b>: higher stroke/heart risk → manage risk factors (higher bar for surgery)."
+   ],
+   "hook": "Can't save the retina? <b>Save the brain.</b>",
+   "cards": [
+    {
+     "q": "Carotid stenosis threshold for endarterectomy after a symptomatic retinal embolic event?",
+     "a": "More than 70%."
+    },
+    {
+     "q": "Approximate time window before irreversible retinal damage in CRAO (primate studies)?",
+     "a": "About 4 hours (≈6 hours postulated in humans)."
+    }
+   ]
+  },
+  {
+   "id": "ch13-16",
+   "group": "Other vascular",
+   "title": "Ocular ischaemic syndrome",
+   "minutes": 3,
+   "tldr": "<b>&gt;90% carotid stenosis</b> → slow vision loss, eye <b>pain</b>, slow recovery after bright light. Signs: <b>mid-peripheral blot haemorrhages</b>, dilated (not tortuous) veins, NVI (90%), <b>low IOP despite NVI</b>. FA: <b>delayed choroidal filling</b>. 5-year mortality ~40%.",
+   "points": [
+    "Older men (2:1), vascular disease, diabetes. One eye in 80%. Often missed.",
+    "Symptoms: gradual (or sudden) loss, ache (40%), <b>bright-light amaurosis</b>, long afterimages.",
+    "Anterior: episcleral injection, corneal oedema, flare with few cells (ischaemic pseudo-iritis), mid-dilated poorly reactive pupil, <b>rubeosis (up to 90%)</b>, IOP may be <b>low</b> (poor ciliary perfusion), cataract.",
+    "Fundus: <b>dilated but not tortuous veins</b>, narrow arterioles, deep round/flame haemorrhages (mid-periphery), CWS, NVD &gt; NVE, <b>spontaneous arterial pulsation</b> (easily induced by light pressure), CMO.",
+    "Diabetic retinopathy worse on the stenosed side.",
+    "FA: <b>delayed choroidal filling + prolonged AV transit</b>, vessel staining.",
+    "Carotid imaging (duplex, CTA/MRA, DSA).",
+    "Treat: steroid + mydriatic, NVG management, PRP (less reliable), anti-VEGF, <b>carotid endarterectomy/stenting</b> (IOP may rise after), cardiovascular work-up."
+   ],
+   "hook": "OIS: <b>NVI but soft eye</b>, and the arteries <b>pulse</b> when you press.",
+   "cards": [
+    {
+     "q": "Key FA finding in ocular ischaemic syndrome?",
+     "a": "Delayed choroidal filling and prolonged arteriovenous transit time."
+    },
+    {
+     "q": "How can IOP be low despite rubeosis in OIS?",
+     "a": "Reduced ciliary body perfusion lowers aqueous production."
+    }
+   ]
+  },
+  {
+   "id": "ch13-17",
+   "group": "Other vascular",
+   "title": "Hypertensive retinopathy",
+   "minutes": 3,
+   "tldr": "Grades: <b>1</b> generalised arteriolar narrowing → <b>2</b> focal narrowing + <b>AV nipping</b> (copper wiring) → <b>3</b> haemorrhages, exudates (<b>macular star</b>), CWS → <b>4</b> + <b>disc swelling (malignant)</b>.",
+   "points": [
+    "Arterioles constrict (less in elderly with stiff vessels). <b>Arteriolosclerosis</b> → AV nipping → long-standing hypertension.",
+    "Sustained hypertension breaks the inner BRB → flame haemorrhages, oedema.",
+    "<b>Grade 1</b>: mild generalised narrowing.",
+    "<b>Grade 2</b>: focal narrowing, <b>AV nipping</b>, copper-wiring.",
+    "<b>Grade 3</b>: + dot/blot/flame haemorrhages, hard exudates (macular star), CWS.",
+    "<b>Grade 4</b>: + <b>optic disc swelling</b> = malignant hypertension (emergency).",
+    "Early markers: narrower arterioles (pre-hypertension), wider venules (glucose problems), both = preclinical cardiovascular disease."
+   ],
+   "hook": "<b>Disc swelling + hypertension = malignant</b> → same-day medical referral.",
+   "cards": [
+    {
+     "q": "Which sign defines grade 4 hypertensive retinopathy?",
+     "a": "Optic disc swelling."
+    },
+    {
+     "q": "AV nipping indicates what?",
+     "a": "Arteriolosclerosis from long-standing hypertension."
+    }
+   ]
+  },
+  {
+   "id": "ch13-18",
+   "group": "Other vascular",
+   "title": "Hypertensive choroidopathy",
+   "minutes": 2,
+   "tldr": "Acute severe hypertension (young, pre-eclampsia): <b>Elschnig spots</b> (black spots with yellow halo = choroidal infarcts), <b>Siegrist streaks</b> (flecks along choroidal vessels), <b>exudative RD</b>.",
+   "points": [
+    "Rare; acute hypertensive crisis in young adults.",
+    "<b>Siegrist streaks</b>: linear flecks along choroidal vessels = fibrinoid necrosis (malignant hypertension).",
+    "<b>Elschnig spots</b>: small black spots with yellow haloes = focal choroidal infarcts.",
+    "<b>Exudative RD</b> (can be bilateral), e.g. toxaemia of pregnancy.",
+    "Venous tortuosity also seen in chronic/pre-hypertension (many other causes too)."
+   ],
+   "hook": "<b>Elschnig = Eclipse spots</b> (dark centre, bright ring).",
+   "cards": [
+    {
+     "q": "Black choroidal spots with yellow haloes in malignant hypertension?",
+     "a": "Elschnig spots."
+    }
+   ]
+  },
+  {
+   "id": "ch13-19",
+   "group": "Other vascular",
+   "title": "Sickle-cell retinopathy",
+   "minutes": 5,
+   "tldr": "<b>HbSC</b> = worst retinopathy. <b>Sea fan</b> NV at the edge of non-perfused periphery. Also <b>salmon patches</b>, <b>black sunbursts</b>, macular depression sign. <b>No CAIs</b> (cause sickling). Scleral buckles → <b>anterior segment ischaemia</b>.",
+   "points": [
+    "HbS/HbC sickle under hypoxia/acidosis → vessel blockage.",
+    "<b>SC</b> > SS for retinopathy. Sickle trait (AS) rarely (unless diabetes etc.).",
+    "<b>Avoid CAIs</b> (acetazolamide/dorzolamide): promote sickling. Hyphaema → careful IOP control.",
+    "Anterior: comma-shaped conjunctival vessels, sectoral iris atrophy, rubeosis, spontaneous hyphaema.",
+    "Non-proliferative: venous tortuosity, arteriolar occlusions (incl. macular), <b>silver-wired</b> peripheral arterioles, disc 'sign of sickling', <b>salmon patches</b> (orange-red intraretinal bleeds) → schisis cavities with refractile deposits, or <b>black sunbursts</b> (RPE hyperplasia), <b>macular depression sign</b>, angioid streaks (6%).",
+    "Proliferative stages: <b>1</b> peripheral arteriolar occlusion → <b>2</b> AV anastomoses → <b>3</b> <b>sea-fan NV</b> (one feeder arteriole, one draining venule) → <b>4</b> VH → <b>5</b> RD (rhegmatogenous/tractional).",
+    "FA: non-perfused periphery, sea fans fill and leak (wide-field imaging).",
+    "Treat: observe (many sea fans <b>autoinfarct</b>) → laser/cryo to non-perfused retina (feeder ablation avoided: CNV). PPV for VH/TRD; <b>scleral buckle → anterior segment ischaemia</b>.",
+    "<b>Thalassaemia</b>: iron/siderosis + desferrioxamine → cataract, featureless iris, tortuosity, <b>angioid streaks</b>, pigment mottling (PXE-like)."
+   ],
+   "hook": "<b>Sea fan</b> = coral-shaped NV in the sickle-cell periphery.",
+   "cards": [
+    {
+     "q": "Which sickle genotype most often causes proliferative retinopathy?",
+     "a": "HbSC."
+    },
+    {
+     "q": "Drug class to avoid in sickle patients with raised IOP?",
+     "a": "Carbonic anhydrase inhibitors."
+    },
+    {
+     "q": "Name of the classic proliferative lesion in sickle retinopathy?",
+     "a": "Sea fan neovascularisation."
+    }
+   ]
+  },
+  {
+   "id": "ch13-20",
+   "group": "Other vascular",
+   "title": "Retinopathy of prematurity: zones & stages",
+   "minutes": 5,
+   "tldr": "<b>Zones</b> I (centred on disc, radius 2× disc–fovea), II (to nasal ora), III (temporal crescent). <b>Stages</b>: 1 demarcation line → 2 ridge → 3 fibrovascular proliferation → 4 partial RD (A extrafoveal, B foveal) → 5 total RD. <b>Plus</b> = dilated tortuous posterior vessels.",
+   "points": [
+    "Premature, low birthweight, oxygen exposure (less now), illness. VEGF-driven.",
+    "Retinal vessels grow from the disc from month 4; nasal retina vascularised by 8 months, temporal by ~1 month after birth.",
+    "<b>Zone I</b>: circle radius = 2 × disc-to-fovea distance (with 28D lens, if you see the disc you see only zone I). <b>Zone II</b>: to the nasal ora. <b>Zone III</b>: remaining temporal crescent.",
+    "<b>Stage 1</b>: flat grey-white <b>demarcation line</b>, vessel arcading.",
+    "<b>Stage 2</b>: raised <b>ridge</b> ± tufts behind it.",
+    "<b>Stage 3</b>: <b>extraretinal fibrovascular proliferation</b> into the vitreous (peak ~35 weeks postconceptual).",
+    "<b>Stage 4</b>: partial RD (<b>4A extrafoveal, 4B foveal</b>). <b>Stage 5</b>: total RD.",
+    "<b>Plus disease</b>: dilated tortuous posterior vessels in ≥2 quadrants (+ poor pupil dilation, vitreous haze). Pre-plus.",
+    "<b>Aggressive posterior ROP</b> ('rush'): posterior, marked plus, ill-defined → stage 5 in days."
+   ],
+   "hook": "ROP stages: <b>Line → Ridge → Reaching (fibrovascular) → Retina lifting → Retina off</b>.",
+   "cards": [
+    {
+     "q": "Stage 2 ROP is?",
+     "a": "A raised ridge at the demarcation line."
+    },
+    {
+     "q": "Define plus disease.",
+     "a": "Dilated, tortuous posterior pole vessels in at least two quadrants."
+    }
+   ]
+  },
+  {
+   "id": "ch13-21",
+   "group": "Other vascular",
+   "title": "ROP: screening & treatment",
+   "minutes": 4,
+   "tldr": "Screen babies <b>≤30–32 weeks</b> or <b>≤1500 g</b>, starting <b>4–7 weeks</b> after birth. Treat <b>Type 1 within 72 h</b>: zone I any stage + plus, zone I stage 3, zone II stage 2–3 + plus. Treatment: <b>laser</b> or <b>anti-VEGF</b> (BEAT-ROP; recurrence risk).",
+   "points": [
+    "Screening: indirect ophthalmoscopy (28D or 2.2 lens) + scleral depression or wide-field camera. Dilate with cyclopentolate 0.5% + phenylephrine 2.5%. Watch for <b>apnoea</b>.",
+    "Review every 1–3 weeks until vessels reach zone III. ~10% need treatment.",
+    "<b>ETROP Type 1</b> (treat): zone I any ROP <b>with plus</b>; zone I <b>stage 3</b>; zone II <b>stage 2 or 3 with plus</b>.",
+    "<b>Type 2</b> (watch): zone I stage 1–2 no plus; zone II stage 3 no plus.",
+    "<b>Laser</b> to avascular retina (replaced cryo).",
+    "<b>Bevacizumab</b> (BEAT-ROP): better for zone I, allows vessels to keep growing, but systemic safety unknown and <b>late recurrence</b> → long follow-up.",
+    "Stage 4A → <b>PPV</b> (~90% anatomical success). 4B/5 → poor vision.",
+    "<b>Cicatricial ROP</b> (~20%): straightened temporal arcades, <b>macular/disc dragging</b>, falciform fold, retrolental fibroplasia, RD, angle-closure glaucoma.",
+    "Long-term: myopia, squint, amblyopia."
+   ],
+   "hook": "Screen the <b>tiny (≤1500 g) and early (≤32 weeks)</b>. Type 1 → treat in <b>3 days</b>.",
+   "cards": [
+    {
+     "q": "Screening criteria for ROP?",
+     "a": "≤30–32 weeks gestation or ≤1500 g (plus sick premature babies)."
+    },
+    {
+     "q": "Timeframe to treat type 1 ROP?",
+     "a": "Within 72 hours."
+    },
+    {
+     "q": "Cicatricial ROP sign of temporal traction on the disc/macula?",
+     "a": "Macular/disc 'dragging' with straightened vascular arcades."
+    }
+   ]
+  },
+  {
+   "id": "ch13-22",
+   "group": "Other vascular",
+   "title": "Retinal artery macroaneurysm",
+   "minutes": 3,
+   "tldr": "Elderly <b>hypertensive woman</b>, one eye, saccular arteriolar bulge on a temporal arcade. Problems: <b>exudates threatening the fovea</b> or <b>multi-level haemorrhage</b> (sub-, intra-, pre-retinal). Most <b>self-involute</b>.",
+   "points": [
+    "75% hypertensive; dyslipidaemia. Usually solitary, 90% one eye.",
+    "Slow blur (leakage) or sudden loss (haemorrhage).",
+    "Saccular dilatation at a bifurcation or AV crossing; haemorrhage in 50%.",
+    "Blood at <b>several levels</b> (subretinal dark + intraretinal bright + preretinal) is a clue.",
+    "Course: chronic leak with exudate rings, bleeding, or spontaneous thrombosis/fibrosis.",
+    "FA: uniform filling, late leak. OCT for oedema.",
+    "Check BP and lipids.",
+    "Treat: observe; <b>laser</b> (on/around the lesion) if exudates threaten the fovea; bevacizumab; <b>YAG hyaloidotomy</b> for premacular blood; <b>gas ± rtPA</b> to displace submacular blood; PPV for persistent VH."
+   ],
+   "hook": "Blood at <b>three different depths</b> → look for a <b>macroaneurysm</b>.",
+   "cards": [
+    {
+     "q": "Typical patient with retinal artery macroaneurysm?",
+     "a": "Elderly hypertensive woman."
+    },
+    {
+     "q": "Clue in haemorrhage pattern pointing to macroaneurysm?",
+     "a": "Blood at multiple levels (sub-, intra-, preretinal)."
+    }
+   ]
+  },
+  {
+   "id": "ch13-23",
+   "group": "Other vascular",
+   "title": "Coats disease",
+   "minutes": 4,
+   "tldr": "<b>Young boy</b>, <b>one eye</b>, <b>leukocoria</b> or squint. Peripheral <b>telangiectasia + lightbulb aneurysms</b> with massive <b>yellow exudation</b> → exudative RD. Must distinguish from <b>retinoblastoma</b>. Treat with <b>laser</b> (or cryo).",
+   "points": [
+    "Idiopathic retinal telangiectasia, first decade. 75% male, 95% unilateral. Some have <b>NDP</b> somatic mutation (Norrie gene).",
+    "<b>Leber miliary aneurysms</b> = milder, later, localised form.",
+    "Differentials: <b>retinoblastoma</b>, FEVR, VHL haemangiomas, ROP.",
+    "Signs: telangiectasia + aneurysmal arteriolar dilatations (inferior/temporal periphery), <b>intra/subretinal exudates</b> (can collect at the macula far from the vessels), exudative RD.",
+    "Complications: rubeosis, glaucoma, uveitis, cataract, phthisis.",
+    "FA: early leakage from telangiectasia.",
+    "Younger = more aggressive.",
+    "Treat: observe mild or blind comfortable eyes; <b>laser</b> to leaking vessels (repeated); anti-VEGF; IVTA; <b>cryo</b> (more reaction); PPV for traction/total RD; enucleate painful NVG eye."
+   ],
+   "hook": "<b>Coats = Coat of yellow exudate</b> in a <b>boy's one eye</b>.",
+   "cards": [
+    {
+     "q": "Typical demographic for Coats disease?",
+     "a": "Young boys, unilateral."
+    },
+    {
+     "q": "Main differential for leukocoria from Coats?",
+     "a": "Retinoblastoma."
+    }
+   ]
+  },
+  {
+   "id": "ch13-24",
+   "group": "Other vascular",
+   "title": "Eales, radiation, Purtscher, Valsalva, lipaemia",
+   "minutes": 4,
+   "tldr": "<b>Eales</b> = young Indian man, peripheral <b>periphlebitis + NV → VH</b> (TB link?). <b>Radiation</b> = DR-like changes months–years later. <b>Purtscher</b> = white patches after <b>chest/long-bone trauma</b> or pancreatitis. <b>Valsalva</b> = premacular bleed after straining.",
+   "points": [
+    "<b>Eales disease</b>: young men from the Indian subcontinent, often both eyes. Stages: inflammation → occlusion → NV. Floaters/sudden loss (VH in 1/3). Periphlebitis, BRVO, peripheral non-perfusion, NV. Exclude sarcoid, TB, sickle. Treat: steroids (inflammatory), ± anti-TB, scatter laser, anti-VEGF, PPV.",
+    "<b>Radiation retinopathy</b>: after plaque or external beam therapy; 6 months–3 years; dose-related. Capillary occlusion, telangiectasia, MAs, oedema, exudates, CWS, haemorrhages, NV, <b>papillopathy</b>. Poor prognosis with papillopathy/PDR. Laser, steroids, anti-VEGF.",
+    "<b>Purtscher retinopathy</b>: chest compression, long-bone fracture, head injury → embolic/complement-mediated occlusion. <b>Purtscher-like</b>: fat/amniotic embolism, <b>pancreatitis</b>, pre-eclampsia, vasculitis. Sudden bilateral loss; <b>Purtscher flecken</b> (white patches, clear zone along vessels), peripapillary haemorrhages, CWS, disc swelling. Often limited recovery.",
+    "<b>Valsalva retinopathy</b>: straining (lifting, balloons) → perifoveal capillaries burst → <b>premacular (sub-ILM/sub-hyaloid) haemorrhage</b>. Observe or YAG membranotomy.",
+    "<b>Lipaemia retinalis</b>: very high triglycerides → <b>creamy-white vessels</b>, salmon fundus; VA usually normal."
+   ],
+   "hook": "<b>Purtscher = Pressure on the chest</b> → white flecks.",
+   "cards": [
+    {
+     "q": "White retinal patches and haemorrhages in both eyes after a crush injury?",
+     "a": "Purtscher retinopathy."
+    },
+    {
+     "q": "Creamy-white retinal vessels?",
+     "a": "Lipaemia retinalis (hypertriglyceridaemia)."
+    }
+   ]
+  },
+  {
+   "id": "ch13-25",
+   "group": "Other vascular",
+   "title": "Blood disorders: leukaemia, anaemia, hyperviscosity",
+   "minutes": 3,
+   "tldr": "<b>Leukaemia</b>: haemorrhages, CWS, <b>Roth spots</b>, infiltrates ('leopard skin'), disc infiltration, orbit (kids), pseudohypopyon. <b>Roth spots</b> also in endocarditis, anaemia, diabetes. <b>Hyperviscosity</b>: huge 'sausage' veins + haemorrhages.",
+   "points": [
+    "Leukaemias: ALL (kids, 90% survival), AML (older), CLL (slow), CML.",
+    "Eye more in <b>acute</b> leukaemia; mostly secondary (anaemia, low platelets, hyperviscosity, infection).",
+    "Fundus: flame/blot haemorrhages, CWS, <b>Roth spots</b> (white-centred haemorrhages), preretinal/retrohyaloid bleeds (white cell layer), peripheral NV (CML), retinal/choroidal infiltrates (mimic posterior uveitis; <b>leopard skin</b> in chronic), optic nerve infiltration.",
+    "Other: <b>orbital</b> mass (kids), iris thickening, iritis, <b>pseudohypopyon</b>, hyphaema, subconj haemorrhage, CN palsies.",
+    "<b>Roth spots</b>: leukaemia, <b>bacterial endocarditis</b>, diabetes, hypertension, anaemia.",
+    "<b>Anaemia</b>: venous tortuosity, haemorrhages/CWS/Roth spots (worse with low platelets); optic neuropathy in pernicious anaemia.",
+    "<b>Hyperviscosity</b> (polycythaemia, <b>Waldenström</b> IgM, myeloma): dilated segmented veins, haemorrhages, CRVO, conjunctival telangiectasia."
+   ],
+   "hook": "<b>Roth spot = haemorrhage with a white heart</b> → think leukaemia or endocarditis.",
+   "cards": [
+    {
+     "q": "Name 3 causes of Roth spots.",
+     "a": "Leukaemia, bacterial endocarditis, anaemia (also diabetes, hypertension)."
+    },
+    {
+     "q": "Retinal sign of hyperviscosity?",
+     "a": "Grossly dilated, segmented ('sausage') veins with haemorrhages."
+    }
+   ]
+  }
+ ]
+}
