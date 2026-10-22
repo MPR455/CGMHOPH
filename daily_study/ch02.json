@@ -1,0 +1,994 @@
+{
+ "id": "ch02",
+ "num": 2,
+ "title": "Eyelids",
+ "chunks": [
+  {
+   "id": "ch02-01",
+   "group": "Basics",
+   "title": "Eyelid glands: who's who",
+   "minutes": 3,
+   "tldr": "Lid margin glands: <b>Meibomian</b> (in the tarsus), <b>Zeis</b> (oil, at lashes), <b>Moll</b> (sweat, at lashes).",
+   "points": [
+    "<b>Meibomian glands</b> = modified oil glands in the <b>tarsal plate</b>. 20–30 openings per lid. They make the <b>oily outer layer</b> of the tear film.",
+    "<b>Zeis glands</b> = small oil glands attached to <b>lash follicles</b>.",
+    "<b>Moll glands</b> = modified <b>apocrine sweat</b> glands at the lash line. More of them in the <b>lower lid</b>.",
+    "<b>Eccrine sweat glands</b> = all over the lid skin, not just the margin.",
+    "Epidermis layers from the top: keratin → granular → prickle (spinosum) → basal."
+   ],
+   "hook": "<b>M</b>eibomian = <b>M</b>ain oil factory. <b>Z</b>eis = oil at the lashes (<b>Z</b> sounds like 'seize the lash'). <b>Moll</b> = moist (sweat).",
+   "cards": [
+    {
+     "q": "Which lid gland is a modified apocrine sweat gland?",
+     "a": "Gland of Moll."
+    },
+    {
+     "q": "Meibomian glands make which tear layer?",
+     "a": "The outer lipid (oily) layer."
+    }
+   ]
+  },
+  {
+   "id": "ch02-02",
+   "group": "Basics",
+   "title": "Skin words you need to know",
+   "minutes": 3,
+   "tldr": "Flat = <b>macule</b>. Raised &lt;1 cm = <b>papule</b>. Raised &gt;1 cm = <b>nodule/plaque</b>. Fluid: <b>vesicle</b> (&lt;0.5 cm) or <b>bulla</b> (&gt;0.5 cm).",
+   "points": [
+    "<b>Macule</b>: flat colour change, &lt;1 cm. <b>Papule</b>: solid bump, &lt;1 cm. <b>Pustule</b>: pus bump.",
+    "<b>Nodule</b>: solid lump &gt;1 cm. <b>Plaque</b>: flat-topped raised area &gt;1 cm.",
+    "<b>Hyperkeratosis</b> = thick keratin → looks <b>scaly</b>.",
+    "<b>Acanthosis</b> = thick prickle-cell layer.",
+    "<b>Parakeratosis</b> = nuclei left in the keratin layer. <b>Dyskeratosis</b> = keratin made in the wrong place.",
+    "<b>Carcinoma in situ</b> (Bowen) = dysplasia through the <b>full thickness</b> of the epidermis, but not invading yet.",
+    "Benign-looking lesion: no ulcer, even colour, slow, regular edge, <b>lid margin and lashes left intact</b>."
+   ],
+   "hook": "<b>Lashes lost = worry.</b> Benign things usually leave the lid margin alone.",
+   "cards": [
+    {
+     "q": "Fluid blister 0.8 cm: vesicle or bulla?",
+     "a": "Bulla (&gt;0.5 cm)."
+    },
+    {
+     "q": "Retained nuclei in the keratin layer is called?",
+     "a": "Parakeratosis."
+    }
+   ]
+  },
+  {
+   "id": "ch02-03",
+   "group": "Lumps & bumps (benign)",
+   "title": "Chalazion",
+   "minutes": 4,
+   "tldr": "A chalazion is a <b>sterile</b> blocked meibomian gland that forms a <b>lipogranuloma</b>. A recurrent one needs a <b>biopsy</b>.",
+   "points": [
+    "Painless, slowly growing lump <b>in the tarsal plate</b>.",
+    "If it gets infected it's called an <b>internal hordeolum</b>.",
+    "Linked with <b>blepharitis</b> and <b>rosacea</b> (multiple/recurrent). Drug cause: <b>bortezomib</b> (myeloma drug).",
+    "About <b>1/3 go away</b> on their own → warm compresses first.",
+    "<b>Steroid injection</b> (triamcinolone) works about as well as surgery (~80% after one shot). Good near the punctum. Risks: skin depigmentation, fat atrophy, and rarely retinal artery occlusion.",
+    "<b>Incision &amp; curettage</b>: clamp, cut <b>vertically</b> through the tarsus on the inside, scrape it out. <b>No stitches.</b>",
+    "Antibiotics only if truly infected. Recurrent + rosacea → oral <b>tetracycline</b>."
+   ],
+   "hook": "Same chalazion keeps coming back? Think <b>sebaceous gland carcinoma</b> in disguise → biopsy.",
+   "pearls": [
+    "Chalazion fat is <b>extracellular</b> (lipogranuloma). Xanthelasma fat is <b>intracellular</b> (foam cells)."
+   ],
+   "cards": [
+    {
+     "q": "Elderly woman with a third recurrence of the same upper-lid 'chalazion'. Next step?",
+     "a": "Biopsy to rule out sebaceous gland carcinoma."
+    },
+    {
+     "q": "Which myeloma drug causes chalazia?",
+     "a": "Bortezomib."
+    }
+   ]
+  },
+  {
+   "id": "ch02-04",
+   "group": "Lumps & bumps (benign)",
+   "title": "Other eyelid cysts",
+   "minutes": 3,
+   "tldr": "<b>Moll = see-through</b> (clear fluid). <b>Zeis = not see-through</b> (oily). <b>Dermoid = lateral brow</b>.",
+   "points": [
+    "<b>Cyst of Zeis</b>: small, opaque, on the front lid margin.",
+    "<b>Cyst of Moll</b> (apocrine hidrocystoma): round, <b>translucent</b>, fluid-filled, on the lid margin.",
+    "<b>Eccrine hidrocystoma</b>: like Moll, but near (not on) the margin, medially or laterally.",
+    "<b>Milia</b>: tiny white bumps in crops (trapped keratin).",
+    "<b>Epidermal inclusion cyst</b>: after trauma or surgery, firm and full of keratin.",
+    "<b>Dermoid cyst</b>: from birth, stuck to bone at the <b>lateral end of the brow</b>.",
+    "<b>Comedones</b>: blackheads (open) or whiteheads (closed)."
+   ],
+   "hook": "<b>Moll</b> = water <b>balloon</b> (clear). <b>Zeis</b> = butter (cloudy).",
+   "cards": [
+    {
+     "q": "Translucent cyst on the lid margin?",
+     "a": "Cyst of Moll (apocrine hidrocystoma)."
+    },
+    {
+     "q": "Child with a firm lump at the lateral brow, fixed to bone?",
+     "a": "Dermoid cyst."
+    }
+   ]
+  },
+  {
+   "id": "ch02-05",
+   "group": "Lumps & bumps (benign)",
+   "title": "Xanthelasma",
+   "minutes": 2,
+   "tldr": "Yellow plaques on the <b>medial</b> lids. About <b>1/3 have high lipids</b>, so check them.",
+   "points": [
+    "Middle-aged and older people, often both sides, often several.",
+    "Fat is <b>inside</b> cells: lipid-laden <b>foam cells</b> in the dermis.",
+    "May come with <b>corneal arcus</b> if lipids are high.",
+    "Treatment is cosmetic: excision, microdissection, TCA peel, laser, cryo.",
+    "Comes back in up to <b>50%</b>, especially with high cholesterol."
+   ],
+   "hook": "Yellow + inner corner = <b>check the cholesterol</b>.",
+   "cards": [
+    {
+     "q": "Xanthelasma: what proportion have hyperlipidaemia?",
+     "a": "About one-third."
+    }
+   ]
+  },
+  {
+   "id": "ch02-06",
+   "group": "Lumps & bumps (benign)",
+   "title": "Benign skin growths",
+   "minutes": 3,
+   "tldr": "<b>Skin tag</b> = papilloma. <b>Stuck-on greasy brown</b> = seborrhoeic keratosis. <b>Scaly sun spot</b> = actinic keratosis, which <b>can turn into SCC</b>.",
+   "points": [
+    "<b>Squamous papilloma</b>: very common. Skin tag (pedunculated), broad-based, or thread-like. Some are from <b>HPV</b>. Snip it off.",
+    "<b>Seborrhoeic keratosis</b> (basal cell papilloma): brown, greasy, warty, <b>'stuck-on'</b> look, elderly. Can look like pigmented BCC or melanoma.",
+    "<b>Actinic keratosis</b>: scaly plaque on sun-damaged skin in fair elderly people. <b>Pre-malignant → SCC</b>. Biopsy, then excise or freeze.",
+    "Any of these can grow a <b>cutaneous horn</b>. Cut deep: there may be SCC underneath."
+   ],
+   "hook": "Actinic = <b>A</b>head of SCC (pre-cancer).",
+   "cards": [
+    {
+     "q": "Which benign lesion has a 'stuck-on' appearance?",
+     "a": "Seborrhoeic keratosis."
+    },
+    {
+     "q": "Which can transform into SCC: seborrhoeic or actinic keratosis?",
+     "a": "Actinic keratosis."
+    }
+   ]
+  },
+  {
+   "id": "ch02-07",
+   "group": "Lumps & bumps (benign)",
+   "title": "Moles (naevi) & freckles",
+   "minutes": 3,
+   "tldr": "Naevi change with age: <b>junctional (young, flat) → compound (raised) → intradermal (old, pale, no cancer risk)</b>.",
+   "points": [
+    "<b>Freckle</b>: 1–5 mm brown macule, more melanin but a normal number of melanocytes.",
+    "<b>Junctional naevus</b>: young person, flat, evenly brown. Cells sit at the epidermis–dermis junction. Low risk.",
+    "<b>Compound naevus</b>: middle age, raised. Cells at the junction and in the dermis. Low risk.",
+    "<b>Intradermal naevus</b>: most common, older people, raised, <b>pale</b>, may have lashes growing from it. <b>No</b> malignant potential.",
+    "<b>Split ('kissing') naevus</b>: congenital, on both upper and lower lid.",
+    "<b>Giant congenital naevus</b>: up to <b>15%</b> become malignant.",
+    "<b>Atypical mole syndrome</b> → higher risk of skin, conjunctival and <b>uveal melanoma</b>.",
+    "If melanoma is suspected → excise with a <b>3 mm margin</b>."
+   ],
+   "hook": "Moles <b>sink with age</b>: junction → both → dermis only.",
+   "cards": [
+    {
+     "q": "Which acquired naevus type has no malignant potential?",
+     "a": "Intradermal naevus."
+    },
+    {
+     "q": "What is a 'kissing' naevus?",
+     "a": "A congenital split naevus across the upper and lower lid."
+    }
+   ]
+  },
+  {
+   "id": "ch02-08",
+   "group": "Lumps & bumps (benign)",
+   "title": "Kids' lumps: haemangioma & pilomatricoma",
+   "minutes": 3,
+   "tldr": "<b>Strawberry</b> red lump in a baby = capillary haemangioma → <b>topical beta-blocker</b>. Hard purple nodule in a kid = pilomatricoma.",
+   "points": [
+    "<b>Capillary haemangioma</b>: one of the commonest infant tumours, <b>3× more in girls</b>. Appears soon after birth, usually upper lid.",
+    "Bright red (deeper = purplish), <b>blanches</b> when pressed, swells when crying.",
+    "Can cause <b>ptosis</b> → risk of amblyopia. Can extend into the orbit.",
+    "Many skin lesions → think about <b>internal (visceral) haemangiomas</b>.",
+    "Treat with a <b>topical beta-blocker</b> (more in Ch 4).",
+    "<b>Pilomatricoma</b>: from hair-bulb cells, kids and young adults (more in females). <b>Hard</b> (calcified), mobile, purplish nodule. Excise.",
+    "<b>Syringoma</b>: small, multiple papules from <b>eccrine</b> sweat glands."
+   ],
+   "hook": "Strawberry baby → <b>beta</b>-blocker <b>baby</b>.",
+   "cards": [
+    {
+     "q": "Treatment of a small eyelid capillary haemangioma?",
+     "a": "Topical beta-blocker (e.g. timolol)."
+    },
+    {
+     "q": "Hard, calcified, mobile nodule in a child's lid?",
+     "a": "Pilomatricoma."
+    }
+   ]
+  },
+  {
+   "id": "ch02-09",
+   "group": "Lumps & bumps (benign)",
+   "title": "Port-wine stain & Sturge–Weber",
+   "minutes": 4,
+   "tldr": "Port-wine stain = flat pink patch that <b>doesn't blanch</b>, along a <b>trigeminal</b> branch. Screen for <b>glaucoma</b> from infancy.",
+   "points": [
+    "Congenital malformation of small skin vessels (not a tumour).",
+    "One side of the face. Gets <b>darker</b> and lumpier with age, with soft-tissue overgrowth.",
+    "About <b>10%</b> have eye or brain involvement.",
+    "<b>Sturge–Weber</b>: port-wine stain + <b>leptomeningeal haemangioma</b> (→ seizures, hemiparesis, hemianopia) + eye problems.",
+    "Eye problems: same-side <b>glaucoma</b>, episcleral haemangioma, iris heterochromia, <b>diffuse choroidal haemangioma</b>.",
+    "Treatment: pulsed-dye laser (best done early).",
+    "<b>Pyogenic granuloma</b>: fast-growing red lump that bleeds easily, after surgery or trauma. Excise.",
+    "<b>Plexiform neurofibroma</b>: <b>S-shaped</b> upper lid = NF1."
+   ],
+   "hook": "Haemangioma <b>blanches</b>; port-wine stain <b>doesn't</b>.",
+   "pearls": [
+    "S-shaped upper lid in a child → plexiform neurofibroma → NF1."
+   ],
+   "cards": [
+    {
+     "q": "Port-wine stain on the face. What eye condition must you screen for?",
+     "a": "Glaucoma (Sturge–Weber)."
+    },
+    {
+     "q": "S-shaped upper lid deformity?",
+     "a": "Plexiform neurofibroma (NF1)."
+    }
+   ]
+  },
+  {
+   "id": "ch02-10",
+   "group": "Lid cancers",
+   "title": "Syndromes that cause lid cancers in young people",
+   "minutes": 3,
+   "tldr": "Lid cancer in a <b>young</b> patient → think of a predisposing syndrome.",
+   "points": [
+    "<b>Xeroderma pigmentosum</b> (AR): sunlight destroys the skin → many <b>BCCs, SCCs, melanomas</b>. Photophobia. 'Bird-like' face.",
+    "<b>Gorlin–Goltz</b> (AD): many small <b>BCCs</b> from the teens, plus bone/face problems and medulloblastoma.",
+    "<b>Muir–Torre</b> (AD): <b>sebaceous carcinoma</b>, BCC, keratoacanthoma + <b>colon/GU cancers</b>.",
+    "<b>Bazex</b>: multiple BCCs (X-linked dominant form) or a sign of upper GI/respiratory cancer.",
+    "Others: immunosuppression, past <b>retinoblastoma</b>, albinism."
+   ],
+   "hook": "<b>Muir–Torre</b>: sebaceous lid tumour → <b>scope the colon</b>.",
+   "cards": [
+    {
+     "q": "Sebaceous carcinoma + colorectal cancer?",
+     "a": "Muir–Torre syndrome."
+    },
+    {
+     "q": "Multiple BCCs in a teenager, AD inheritance?",
+     "a": "Gorlin–Goltz (naevoid BCC) syndrome."
+    }
+   ]
+  },
+  {
+   "id": "ch02-11",
+   "group": "Lid cancers",
+   "title": "Basal cell carcinoma (BCC)",
+   "minutes": 4,
+   "tldr": "BCC = <b>90%</b> of lid cancers. <b>Lower lid</b> most common. Grows locally, <b>doesn't spread</b>. Medial canthus ones are the worst.",
+   "points": [
+    "Commonest human cancer. Risks: fair skin, sun, can't tan.",
+    "Where: <b>lower lid</b> → medial canthus → upper lid → lateral canthus.",
+    "<b>Nodular</b>: shiny, <b>pearly</b> nodule with tiny vessels on top.",
+    "<b>Nodulo-ulcerative ('rodent ulcer')</b>: central ulcer, <b>rolled pearly edges</b>, telangiectasia.",
+    "<b>Sclerosing (morphoeic)</b>: flat, hard, hidden edges. Much bigger than it looks. <b>Mimics one-sided chronic blepharitis.</b>",
+    "Histology: <b>palisading</b> basal cells at the edge of tumour lobules.",
+    "<b>Medial canthus</b> BCC → invades orbit and sinuses, recurs most. Recurrent BCC is more aggressive."
+   ],
+   "hook": "BCC = <b>B</b>ig <b>C</b>ommon but <b>C</b>alm (doesn't metastasise). <b>Pearls and rolled edges.</b>",
+   "pearls": [
+    "Unilateral 'blepharitis' that won't settle → think sclerosing BCC or sebaceous carcinoma."
+   ],
+   "cards": [
+    {
+     "q": "Commonest malignant eyelid tumour, and the commonest site?",
+     "a": "BCC, lower lid."
+    },
+    {
+     "q": "Which BCC location carries the highest recurrence and orbital invasion risk?",
+     "a": "Medial canthus."
+    }
+   ]
+  },
+  {
+   "id": "ch02-12",
+   "group": "Lid cancers",
+   "title": "SCC & keratoacanthoma",
+   "minutes": 4,
+   "tldr": "SCC is rarer but <b>nastier</b> than BCC: <b>~20% spread to lymph nodes</b>, plus <b>perineural</b> spread. Keratoacanthoma grows fast, then shrinks.",
+   "points": [
+    "SCC = 5–10% of lid cancers. <b>Lower lid</b> and lid margin.",
+    "Can come from <b>actinic keratosis</b> or <b>Bowen disease</b>. Higher risk with immunosuppression (AIDS, transplant) and XP.",
+    "Compared with BCC: grows <b>faster</b>, more <b>keratin/scale</b>, usually <b>no pearly edge or surface vessels</b>.",
+    "Check the <b>regional lymph nodes</b>. Can creep along nerves into the skull.",
+    "Histology: <b>keratin pearls</b>, eosinophilic atypical cells.",
+    "<b>Keratoacanthoma</b>: pink dome, <b>doubles in weeks</b>, stops, then goes away over a year leaving a <b>keratin-filled crater</b> and a scar. Excise anyway (3 mm margin or Mohs).",
+    "Keratoacanthoma or cutaneous horn may hide <b>invasive SCC</b> deeper down."
+   ],
+   "hook": "BCC = <b>B</b>enign behaviour. SCC = <b>S</b>preads.",
+   "cards": [
+    {
+     "q": "Roughly what % of eyelid SCCs spread to regional lymph nodes?",
+     "a": "About 20%."
+    },
+    {
+     "q": "Lesion that doubles in size in weeks then involutes leaving a crater?",
+     "a": "Keratoacanthoma."
+    }
+   ]
+  },
+  {
+   "id": "ch02-13",
+   "group": "Lid cancers",
+   "title": "Sebaceous gland carcinoma: the great mimic",
+   "minutes": 4,
+   "tldr": "SGC loves the <b>upper lid</b>, elderly <b>women</b>, and pretends to be a <b>chalazion or blepharitis</b>.",
+   "points": [
+    "Usually from <b>meibomian glands</b> (sometimes Zeis). That's why it's on the <b>upper lid</b>, which has more meibomian glands.",
+    "<b>Yellowish</b> material in a lid lump = strongly suggests SGC.",
+    "<b>Nodular</b>: hard lump in the upper tarsus → looks like a chalazion.",
+    "<b>Spreading</b>: diffuse lid-margin thickening, <b>lash loss</b> → looks like blepharitis.",
+    "<b>Pagetoid spread</b>: tumour creeps inside the epithelium (e.g. onto the conjunctiva).",
+    "Mortality 5–10%. Worse with: <b>upper lid</b>, size <b>≥10 mm</b>, symptoms <b>&gt;6 months</b>.",
+    "Histology: pale, <b>foamy, vacuolated</b> cells."
+   ],
+   "hook": "BCC and SCC go <b>low</b> (lower lid). SGC goes <b>up</b> (upper lid).",
+   "cards": [
+    {
+     "q": "Which lid cancer is more common on the upper lid?",
+     "a": "Sebaceous gland carcinoma."
+    },
+    {
+     "q": "Name 3 bad prognostic features of SGC.",
+     "a": "Upper lid, size ≥10 mm, symptoms &gt;6 months."
+    }
+   ]
+  },
+  {
+   "id": "ch02-14",
+   "group": "Lid cancers",
+   "title": "Melanoma, Merkel cell & Kaposi",
+   "minutes": 3,
+   "tldr": "<b>Half</b> of lid melanomas have <b>no pigment</b>. Merkel cell = <b>violet</b> nodule, half have spread already. Kaposi = <b>AIDS</b>.",
+   "points": [
+    "Melanoma warning signs: new or changing, irregular edge, asymmetric, many colours, <b>&gt;6 mm</b>.",
+    "<b>Lentigo maligna</b> (Hutchinson freckle) = melanoma in situ. Slowly spreading flat brown patch in old sun-damaged skin. A lump appearing in it = invasion.",
+    "Superficial spreading melanoma = irregular plaque. Nodular melanoma = blue-black nodule. Treat with wide excision ± nodes.",
+    "<b>Merkel cell carcinoma</b>: fast, very malignant. Violet nodule, intact skin, <b>upper lid</b>. <b>50%</b> have metastasised at diagnosis.",
+    "<b>Kaposi sarcoma</b>: red-violet lesion in <b>HIV/AIDS</b>. May be the first sign of HIV. Radiotherapy or excision + treat HIV."
+   ],
+   "hook": "Melanoma <b>ABCDE</b>: Asymmetry, Border, Colour, Diameter &gt;6 mm, Evolving.",
+   "cards": [
+    {
+     "q": "What fraction of eyelid melanomas are non-pigmented?",
+     "a": "About half."
+    },
+    {
+     "q": "Violaceous upper lid nodule with intact skin, elderly patient, often already metastatic?",
+     "a": "Merkel cell carcinoma."
+    }
+   ]
+  },
+  {
+   "id": "ch02-15",
+   "group": "Lid cancers",
+   "title": "Treating lid cancers: cut, check, rebuild",
+   "minutes": 4,
+   "tldr": "Cut it out, <b>prove the margins are clear</b>, then rebuild. <b>Mohs</b> is best for tumours with fuzzy edges.",
+   "points": [
+    "Small BCC: excise with a <b>2–4 mm</b> margin. SCC, SGC and melanoma need wider margins.",
+    "<b>Frozen section</b>: check the margins during surgery, rebuild the same day.",
+    "<b>Mohs</b>: remove layer by layer, mapping until clear. Best for <b>sclerosing BCC, SCC, recurrences, canthal tumours</b>.",
+    "Rebuild both layers: front (skin + muscle) and back (tarsus + conjunctiva). <b>At least one needs its own blood supply.</b>",
+    "<b>&lt;1/3</b> of the lid → direct closure (± lateral cantholysis). <b>Up to 1/2</b> → <b>Tenzel</b> semicircular flap. <b>&gt;1/2</b> → <b>Hughes</b> flap (upper-lid tarsoconjunctival flap, cut free after 4–6 weeks) or grafts.",
+    "<b>Laissez-faire</b>: leave the wound to heal by itself. Works surprisingly well.",
+    "<b>Radiotherapy</b>: for people who can't have surgery, or for <b>Kaposi</b>. Avoid at the <b>medial canthus</b> (scars the tear ducts) and <b>upper lid</b> (keratinises the conjunctiva → sore cornea)."
+   ],
+   "hook": "Thirds rule: <b>⅓ close it, ½ flap it (Tenzel), more = Hughes</b>.",
+   "cards": [
+    {
+     "q": "Lower-lid defect of 60% after BCC excision: which reconstruction?",
+     "a": "Hughes tarsoconjunctival flap (posterior lamella) + skin graft/flap."
+    },
+    {
+     "q": "Best excision technique for sclerosing BCC?",
+     "a": "Mohs micrographic surgery."
+    }
+   ]
+  },
+  {
+   "id": "ch02-16",
+   "group": "Lashes",
+   "title": "Misdirected lashes: trichiasis vs distichiasis",
+   "minutes": 4,
+   "tldr": "<b>Trichiasis</b> = lashes from the normal spot, pointing the wrong way. <b>Distichiasis</b> = an <b>extra row</b> growing from the meibomian openings.",
+   "points": [
+    "Lid margin, front to back: <b>lashes → grey line → meibomian openings → mucocutaneous junction → conjunctiva</b>.",
+    "<b>Trichiasis</b>: after blepharitis, zoster, injury, or chalazion surgery.",
+    "<b>Marginal entropion</b>: very common, often missed. The back of the lid scars and rolls a row of lashes inward. The mucocutaneous junction moves <b>forward</b>.",
+    "<b>Congenital distichiasis</b>: AD. Often with <b>lymphoedema of the legs</b> (lymphoedema–distichiasis). Soft lashes, symptoms start around age 5.",
+    "<b>Acquired distichiasis</b>: meibomian glands turn into lash follicles after severe inflammation: <b>chemical burn, SJS, OCP</b>. Stubby, pale, scratchy lashes.",
+    "Symptoms: scratchy eye worse on blinking, PEEs, and later ulcers and pannus."
+   ],
+   "hook": "Di-stichiasis = <b>Double row</b>. Trichiasis = <b>Tricky direction</b>.",
+   "cards": [
+    {
+     "q": "Extra lash row + swollen legs since childhood?",
+     "a": "Lymphoedema–distichiasis syndrome (AD)."
+    },
+    {
+     "q": "Name 3 causes of acquired distichiasis.",
+     "a": "Chemical injury, Stevens–Johnson syndrome, ocular cicatricial pemphigoid."
+    }
+   ]
+  },
+  {
+   "id": "ch02-17",
+   "group": "Lashes",
+   "title": "Fixing bad lashes + other lash problems",
+   "minutes": 4,
+   "tldr": "A few lashes → <b>epilate, electrolysis or laser</b>. Lots of lashes → <b>surgery or cryo</b>.",
+   "points": [
+    "<b>Epilation</b>: quick, but they <b>always grow back</b> within weeks.",
+    "<b>Electrolysis / hyfrecation</b> or <b>laser</b> (aimed down the follicle): for a <b>few</b> lashes. Often needs repeating.",
+    "<b>Tarsal fracture</b>: for <b>marginal entropion</b>. Cut across the tarsus from inside, then add everting sutures.",
+    "<b>Pentagon resection</b>: for a small clump of bad lashes.",
+    "<b>Cryotherapy</b> (−20 °C, double freeze-thaw): for many lashes, but lots of side effects.",
+    "<b>Trichomegaly</b> (long lashes): <b>prostaglandin drops</b>, phenytoin, ciclosporin, HIV, hypothyroidism.",
+    "<b>Madarosis</b> (lash loss): blepharitis, <b>infiltrating tumour</b>, burns, radiotherapy, alopecia, hypothyroidism, SLE, leprosy, trichotillomania.",
+    "<b>Poliosis</b> (white lashes): blepharitis, <b>sympathetic ophthalmia, VKH</b>, Waardenburg, vitiligo."
+   ],
+   "hook": "White lashes + uveitis = <b>VKH</b> or <b>sympathetic ophthalmia</b>.",
+   "cards": [
+    {
+     "q": "Glaucoma drop that makes lashes long?",
+     "a": "Prostaglandin analogues (e.g. latanoprost)."
+    },
+    {
+     "q": "Poliosis + bilateral granulomatous uveitis + hearing loss?",
+     "a": "Vogt–Koyanagi–Harada."
+    }
+   ]
+  },
+  {
+   "id": "ch02-18",
+   "group": "Inflamed lids",
+   "title": "Allergic & immune lid swelling",
+   "minutes": 3,
+   "tldr": "Sudden puffy lids on both sides = <b>allergic oedema</b>. Scaly itchy lids after new drops = <b>contact dermatitis (type IV)</b>.",
+   "points": [
+    "<b>Acute allergic oedema</b>: pollen or insect bite. Both lids boggy, ± chemosis. Antihistamine if needed.",
+    "<b>Contact dermatitis</b>: eye drops, cosmetics, metals. <b>Type IV (delayed)</b> hypersensitivity. Scaly, tight, fissured skin. <b>Stop the cause</b>, cold compresses.",
+    "<b>Atopic dermatitis</b>: eczema + asthma + hay fever. Thick, cracked lids. Linked to staph blepharitis, VKC/AKC, <b>keratoconus</b>, cataract, RD.",
+    "Atopics get worse herpes → <b>eczema herpeticum</b>.",
+    "<b>Dermatomyositis</b>: <b>heliotrope</b> (purple) lid rash + muscle weakness. In adults, look for a <b>hidden cancer</b> (ovary, breast, lung)."
+   ],
+   "hook": "Purple lids + weak muscles = dermatomyositis → <b>look for cancer</b> in adults.",
+   "cards": [
+    {
+     "q": "Contact dermatitis is which hypersensitivity type?",
+     "a": "Type IV (delayed, cell-mediated)."
+    },
+    {
+     "q": "Heliotrope rash on the lids?",
+     "a": "Dermatomyositis."
+    }
+   ]
+  },
+  {
+   "id": "ch02-19",
+   "group": "Inflamed lids",
+   "title": "Bacterial lid infections",
+   "minutes": 3,
+   "tldr": "Stye = <b>staph abscess of a lash follicle/Zeis</b>. Honey crusts = <b>impetigo</b>. Black skin = <b>necrotizing fasciitis</b> (emergency!).",
+   "points": [
+    "<b>External hordeolum (stye)</b>: tender lump on the lid margin pointing out through the skin, a lash at its tip. Warm compress, pull the lash, ± antibiotic.",
+    "<b>Internal hordeolum</b> = infected meibomian gland (see chalazion).",
+    "<b>Impetigo</b>: <b>Staph aureus or Strep pyogenes</b>, kids, blisters with <b>golden crusts</b>. Very contagious. Keep away from newborns.",
+    "<b>Erysipelas</b>: Strep pyogenes, red plaque with a <b>sharp raised edge</b>.",
+    "<b>Necrotizing fasciitis</b>: Strep pyogenes. Redness → big blisters → <b>black necrosis</b>. Needs urgent debridement and IV antibiotics, or the patient may die."
+   ],
+   "hook": "Impetigo = <b>honey</b>-coloured crusts. Erysipelas = <b>edge</b> you can feel.",
+   "cards": [
+    {
+     "q": "Organism of a stye?",
+     "a": "Staphylococcus aureus."
+    },
+    {
+     "q": "Golden-yellow crusts around a child's eye?",
+     "a": "Impetigo."
+    }
+   ]
+  },
+  {
+   "id": "ch02-20",
+   "group": "Inflamed lids",
+   "title": "Viral lid infections",
+   "minutes": 3,
+   "tldr": "One-sided <b>follicular conjunctivitis</b> that won't settle? Look for a <b>molluscum</b> on the lid margin.",
+   "points": [
+    "<b>Molluscum contagiosum</b>: <b>poxvirus</b> (DNA), kids aged 2–4. Pale, waxy, <b>umbilicated</b> (central dimple) nodules.",
+    "A lid-margin molluscum sheds virus into the tears → chronic <b>follicular conjunctivitis</b> on the same side.",
+    "Lots of mollusca → think <b>immunosuppression</b> (HIV).",
+    "Histology: <b>Henderson–Patterson</b> inclusion bodies.",
+    "Treatment: often goes away on its own. Otherwise shave, curette, or freeze it.",
+    "<b>Herpes simplex</b>: tingling, then clustered vesicles. Not as neatly one-sided as zoster. Can cause dendritic ulcers. Treat with aciclovir cream or oral antivirals.",
+    "<b>HZO</b>: sharp one-sided dermatome rash (details in Ch 7)."
+   ],
+   "hook": "Mollusc = little <b>belly-button</b> bump.",
+   "cards": [
+    {
+     "q": "Chronic unilateral follicular conjunctivitis not responding to antibiotics. What do you look for?",
+     "a": "Molluscum contagiosum on the lid margin."
+    },
+    {
+     "q": "Inclusion bodies of molluscum?",
+     "a": "Henderson–Patterson bodies."
+    }
+   ]
+  },
+  {
+   "id": "ch02-21",
+   "group": "Blepharitis",
+   "title": "Blepharitis: the three types",
+   "minutes": 4,
+   "tldr": "<b>Anterior</b> (lash base: staph or seborrhoeic) vs <b>posterior</b> (meibomian gland dysfunction). Usually a mix, usually both eyes.",
+   "points": [
+    "Symptoms: burning, gritty, crusty, red lid margins, <b>worse in the morning</b>. Symptoms often don't match the signs.",
+    "<b>Staphylococcal</b>: <b>hard</b> scales, <b>collarettes</b> around lashes, lash loss, notching, styes. Linked to <b>atopic dermatitis</b>. Can cause marginal keratitis and phlyctens.",
+    "<b>Seborrhoeic</b>: <b>greasy, soft</b> scales, sticky lashes. Linked to seborrhoeic dermatitis (scalp, nose folds).",
+    "<b>Posterior (MGD)</b>: capped or plugged meibomian openings, <b>toothpaste-like</b> secretions, <b>foamy</b> tear film. Linked to <b>acne rosacea</b>.",
+    "<b>Demodex</b> mites: cylindrical dandruff (collarettes). Rotate the lash at the slit lamp to see them. Longus → anterior, brevis → posterior."
+   ],
+   "table": {
+    "head": [
+     "Type",
+     "Scales",
+     "Skin link"
+    ],
+    "rows": [
+     [
+      "Staph",
+      "Hard, collarettes",
+      "Atopic dermatitis"
+     ],
+     [
+      "Seborrhoeic",
+      "Soft, greasy",
+      "Seborrhoeic dermatitis"
+     ],
+     [
+      "Posterior (MGD)",
+      "Foam, plugged glands",
+      "Rosacea"
+     ]
+    ]
+   },
+   "hook": "Hard <b>S</b>cales = <b>S</b>taph. <b>G</b>reasy = sebo<b>G</b>reasy. <b>Foam</b> + rosacea = posterior.",
+   "cards": [
+    {
+     "q": "Foamy tear film and toothpaste-like meibum: which blepharitis?",
+     "a": "Posterior blepharitis (MGD)."
+    },
+    {
+     "q": "Cylindrical collarettes at lash bases suggest which organism?",
+     "a": "Demodex."
+    }
+   ]
+  },
+  {
+   "id": "ch02-22",
+   "group": "Blepharitis",
+   "title": "Treating blepharitis",
+   "minutes": 3,
+   "tldr": "No cure, just control: <b>warm compress + lid scrub</b> every day, plus antibiotics or a short steroid when it flares.",
+   "points": [
+    "<b>Warm compress</b> for a few minutes → <b>scrub</b> the lid margin (diluted baby shampoo or bicarbonate) → massage the meibomian glands.",
+    "Topical antibiotic ointment (fusidic acid, chloramphenicol, azithromycin) for anterior folliculitis.",
+    "Oral <b>doxycycline</b> (better for posterior) or <b>azithromycin</b> (better for anterior).",
+    "<b>No tetracyclines</b> under 12, or in pregnancy or breastfeeding (they stain teeth and bone). Use erythromycin instead.",
+    "Short <b>mild steroid</b> (FML, loteprednol) for bad inflammation.",
+    "Plus: tear substitutes, omega-3, <b>tea tree oil</b> for Demodex, ciclosporin, IPL, LipiFlow."
+   ],
+   "hook": "<b>Heat → Scrub → Squeeze</b>, every day.",
+   "cards": [
+    {
+     "q": "Why avoid doxycycline in an 8-year-old with blepharitis?",
+     "a": "It deposits in growing teeth and bone. Use erythromycin instead."
+    },
+    {
+     "q": "Tea tree oil targets which organism?",
+     "a": "Demodex mites."
+    }
+   ]
+  },
+  {
+   "id": "ch02-23",
+   "group": "Blepharitis",
+   "title": "Lice, ticks, angular & childhood blepharitis",
+   "minutes": 3,
+   "tldr": "<b>Crab lice</b> on the lashes (6 legs) → pull them off + delouse everyone. <b>Angular</b> blepharitis = <b>Moraxella</b>.",
+   "points": [
+    "<b>Phthiriasis palpebrarum</b>: <b>pubic louse</b> on the lashes, with nits (pearly eggs) stuck at the lash base. Remove with forceps, use petroleum jelly, and treat family, clothes and bedding.",
+    "Lice have <b>6 legs</b>, ticks have <b>8</b>.",
+    "<b>Ticks</b>: remove early and close to the skin (Lyme needs ≥36 h attached). Pyrethrin/permethrin first, then forceps.",
+    "<b>Angular blepharitis</b>: red, cracked skin at the canthi. <b>Moraxella lacunata</b> or Staph. Chloramphenicol or erythromycin.",
+    "<b>Childhood blepharokeratoconjunctivitis</b>: around age 6, recurrent styes/chalazia, phlyctens, corneal haze, photophobia (often misdiagnosed as allergy). Lid hygiene, low-dose steroid, oral <b>erythromycin</b>."
+   ],
+   "hook": "<b>Mor</b>axella lives in the <b>cor</b>ners (angular).",
+   "cards": [
+    {
+     "q": "Organism of angular blepharitis?",
+     "a": "Moraxella lacunata (or Staph aureus)."
+    },
+    {
+     "q": "Lice on eyelashes are usually which species?",
+     "a": "Phthirus pubis (crab louse)."
+    }
+   ]
+  },
+  {
+   "id": "ch02-24",
+   "group": "Ptosis",
+   "title": "Ptosis: 4 causes + fake ptosis",
+   "minutes": 3,
+   "tldr": "Ptosis causes: <b>Neurogenic, Myogenic, Aponeurotic, Mechanical</b>. First rule out <b>pseudoptosis</b>.",
+   "points": [
+    "<b>Neurogenic</b>: <b>3rd nerve palsy</b>, <b>Horner</b>.",
+    "<b>Myogenic</b>: <b>myasthenia</b>, myotonic dystrophy, CPEO.",
+    "<b>Aponeurotic</b> (involutional): stretched levator tendon. Old age, contact lenses.",
+    "<b>Mechanical</b>: heavy mass or scarring.",
+    "<b>Pseudoptosis</b> (looks droopy but isn't): no globe support (artificial eye, phthisis, enophthalmos), <b>retraction of the other lid</b>, <b>hypotropia</b> on the same side (the lid follows the eye down), <b>brow ptosis</b>, dermatochalasis.",
+    "Hypotropia trick: cover the good eye. If the 'ptosis' goes away, it was pseudoptosis."
+   ],
+   "hook": "<b>N-M-A-M</b>: Nerve, Muscle, Aponeurosis, Mass.",
+   "cards": [
+    {
+     "q": "Ptosis disappears when you cover the normal eye. Why?",
+     "a": "Pseudoptosis from ipsilateral hypotropia: the eye takes up fixation and the lid follows it up."
+    },
+    {
+     "q": "Name 2 myogenic causes of acquired ptosis.",
+     "a": "Myasthenia gravis, myotonic dystrophy (also CPEO)."
+    }
+   ]
+  },
+  {
+   "id": "ch02-25",
+   "group": "Ptosis",
+   "title": "Measuring ptosis (the numbers)",
+   "minutes": 4,
+   "tldr": "Key numbers: <b>MRD1 4–5 mm</b>, <b>levator function ≥15 mm</b> normal, <b>≤4 mm</b> poor.",
+   "points": [
+    "<b>MRD (margin–reflex distance)</b>: upper lid edge to the corneal light reflex. Normal <b>4–5 mm</b>.",
+    "<b>Palpebral fissure</b>: men 7–10 mm, women 8–12 mm. Upper lid normally covers the top <b>2 mm</b> of cornea.",
+    "Ptosis grade: mild ≤2 mm, moderate 3 mm, severe ≥4 mm.",
+    "<b>Levator function</b>: hold the brow still (block frontalis), measure lid travel from looking down to looking up. Normal ≥15, good 12–14, fair 5–11, <b>poor ≤4 mm</b>.",
+    "<b>Lid crease</b>: women ~10 mm, men ~8 mm. <b>No crease</b> → poor levator (congenital). <b>High crease</b> → aponeurotic.",
+    "Always check: <b>pupils</b> (Horner, 3rd nerve), <b>fatigue</b> (look up for 30–60 s → myasthenia; <b>Cogan lid twitch</b>), eye movements, <b>jaw-wink</b>, <b>Bell phenomenon</b>, tear film.",
+    "Lift the droopy lid: if the other lid drops → Hering's law. Warn the patient the other side may drop after surgery."
+   ],
+   "hook": "<b>High crease = old tendon</b> (aponeurotic). <b>No crease = weak muscle</b> (congenital).",
+   "cards": [
+    {
+     "q": "Normal MRD1?",
+     "a": "4–5 mm."
+    },
+    {
+     "q": "Levator function of 3 mm is graded as?",
+     "a": "Poor (≤4 mm)."
+    },
+    {
+     "q": "Lid overshoot on looking back up from downgaze?",
+     "a": "Cogan lid twitch (myasthenia)."
+    }
+   ]
+  },
+  {
+   "id": "ch02-26",
+   "group": "Ptosis",
+   "title": "Congenital ptosis & jaw-winking",
+   "minutes": 4,
+   "tldr": "Congenital ptosis: <b>poor levator, no crease</b>, and the lid stays <b>higher on downgaze</b>. Marcus Gunn = the lid <b>jumps up when chewing</b>.",
+   "points": [
+    "<b>Simple congenital ptosis</b>: the levator doesn't relax, so on <b>looking down the droopy lid is higher</b> (the opposite of acquired ptosis).",
+    "Can come with <b>superior rectus weakness</b> (they develop together).",
+    "<b>Amblyopia</b> usually comes from the <b>refractive error</b>, not the ptosis itself.",
+    "Operate in the <b>preschool years</b>, or earlier if the lid covers the pupil. Usually a <b>levator resection</b>.",
+    "<b>Marcus Gunn jaw-winking</b> (~5% of congenital ptosis): a branch of <b>CN V (pterygoid)</b> is wired to the levator. The lid lifts when chewing, sucking, or opening the mouth. Doesn't improve with age.",
+    "<b>3rd nerve misdirection</b>: odd lid lifts with certain eye movements (e.g. on looking down or across). Usually after an acquired 3rd nerve palsy.",
+    "Severe jaw-wink or misdirection → <b>levator disinsertion + brow suspension</b>."
+   ],
+   "hook": "Baby lifts the lid while <b>feeding</b> → <b>Marcus Gunn</b> ('the gum-chewing wink').",
+   "cards": [
+    {
+     "q": "In downgaze, is a congenital ptotic lid higher or lower than the normal lid?",
+     "a": "Higher (lid lag: the levator doesn't relax)."
+    },
+    {
+     "q": "Which nerve is misdirected in Marcus Gunn jaw-winking?",
+     "a": "Mandibular branch of CN V (pterygoid) → levator."
+    }
+   ]
+  },
+  {
+   "id": "ch02-27",
+   "group": "Ptosis",
+   "title": "Involutional ptosis & lid anatomy",
+   "minutes": 3,
+   "tldr": "Old-age ptosis = <b>stretched levator aponeurosis</b>: <b>high crease, good levator function</b>, worse at the end of the day.",
+   "points": [
+    "Usually both sides. <b>High lid crease</b>, good levator function, deep upper sulcus, thin lid.",
+    "Gets worse in the evening (<b>Müller fatigue</b>) → can <b>mimic myasthenia</b>.",
+    "Aponeurosis joins the <b>septum ~4 mm above the tarsus</b> and inserts on the lower third of the front of the tarsus.",
+    "<b>Asian lids</b>: low or absent crease in ~50%, because the aponeurosis and septum insert lower.",
+    "<b>Müller muscle</b> attaches to the top edge of the tarsus. Lower-lid equivalents: capsulopalpebral fascia and the inferior tarsal muscle.",
+    "<b>Mechanical ptosis</b>: dermatochalasis, tumour (neurofibroma), scar, swelling."
+   ],
+   "hook": "Old lid: <b>muscle fine, tendon tired</b> → high crease + good function.",
+   "cards": [
+    {
+     "q": "Elderly patient: ptosis worse in the evening, high crease, levator function 14 mm. Diagnosis?",
+     "a": "Involutional (aponeurotic) ptosis (but think about myasthenia)."
+    }
+   ]
+  },
+  {
+   "id": "ch02-28",
+   "group": "Ptosis",
+   "title": "Ptosis surgery: which operation?",
+   "minutes": 3,
+   "tldr": "Choose by <b>levator function</b>: ≥10 mm → <b>Müller resection</b>. ≥5 mm → <b>levator advancement</b>. &lt;4 mm → <b>brow suspension</b>.",
+   "points": [
+    "<b>Conjunctiva–Müller resection</b>: lifts only <b>2–3 mm</b>. For mild ptosis with good levator (≥10 mm), e.g. <b>Horner</b>, mild congenital.",
+    "<b>Levator advancement/resection</b>: any cause, if levator function is <b>≥5 mm</b>. Skin or conjunctival approach (posterior gives a more predictable contour).",
+    "<b>Brow (frontalis) suspension</b>: severe ptosis with <b>poor levator (&lt;4 mm)</b>, e.g. 3rd nerve palsy, <b>BPES</b>, failed resection. Sling made of fascia lata, Prolene or silicone.",
+    "Check the <b>Bell phenomenon</b> and tear film before surgery: a weak Bell → exposure keratopathy after surgery."
+   ],
+   "table": {
+    "head": [
+     "Levator function",
+     "Operation"
+    ],
+    "rows": [
+     [
+      "≥10 mm (mild)",
+      "Müller–conjunctival resection"
+     ],
+     [
+      "≥5 mm",
+      "Levator advancement"
+     ],
+     [
+      "≤4 mm",
+      "Frontalis sling"
+     ]
+    ]
+   },
+   "hook": "<b>Good muscle → tighten it. No muscle → borrow the brow.</b>",
+   "cards": [
+    {
+     "q": "Horner ptosis 2 mm, levator 14 mm: best operation?",
+     "a": "Conjunctiva–Müller resection."
+    },
+    {
+     "q": "BPES with levator function 2 mm: which operation?",
+     "a": "Brow (frontalis) suspension."
+    }
+   ]
+  },
+  {
+   "id": "ch02-29",
+   "group": "Ectropion & entropion",
+   "title": "Involutional ectropion",
+   "minutes": 4,
+   "tldr": "Old lower lid falls <b>outward</b> because it's <b>loose</b>. Fix it with a <b>lateral tarsal strip</b>.",
+   "points": [
+    "Causes <b>watering</b> (punctum turned away), red exposed conjunctiva, and later keratinised conjunctiva.",
+    "<b>Snap test</b>: pull the lid ≥8 mm from the globe. If it doesn't snap back without a blink → <b>horizontal laxity</b>.",
+    "<b>Lateral canthal laxity</b>: rounded lateral corner, lid pulls medially &gt;2 mm.",
+    "<b>Medial canthal laxity</b>: pull the lid laterally. The punctum normally moves only 1–2 mm. Mild laxity: it reaches the limbus. Severe: it reaches the pupil.",
+    "Generalised ectropion → <b>lateral tarsal strip</b> (or pentagon excision).",
+    "Medial ectropion → <b>medial spindle</b> (diamond of conjunctiva) + tightening.",
+    "Bad medial canthal laxity → <b>stabilise it first</b>, or the punctum gets dragged laterally."
+   ],
+   "hook": "Ectropion = lid goes <b>E</b>xit (out). Entropion = lid goes <b>EN</b>ter (in).",
+   "cards": [
+    {
+     "q": "Standard operation for generalised involutional ectropion?",
+     "a": "Lateral tarsal strip."
+    },
+    {
+     "q": "Lid pulled laterally: the punctum reaches the pupil. What does this mean?",
+     "a": "Severe medial canthal tendon laxity."
+    }
+   ]
+  },
+  {
+   "id": "ch02-30",
+   "group": "Ectropion & entropion",
+   "title": "Scar, paralytic & mechanical ectropion",
+   "minutes": 4,
+   "tldr": "<b>Scar</b> ectropion → push the skin up and it gets better → needs <b>more skin</b>. <b>Facial palsy</b> → <b>protect the cornea</b> first.",
+   "points": [
+    "<b>Cicatricial</b>: scarred, short skin pulls the lid out (burns, trauma, dermatitis). <b>Worse when opening the mouth.</b> Fix with Z-plasty, flaps, or skin grafts (from upper lid, behind or in front of the ear, or above the collarbone).",
+    "<b>Paralytic</b> (CN VII palsy): lagophthalmos → <b>exposure keratopathy</b>, and watering (punctum out, tear pump fails).",
+    "Temporary: lubricants, tape at night, <b>botox to the levator</b> (makes a ptosis), <b>temporary tarsorrhaphy</b> (especially with a poor Bell).",
+    "Permanent (no recovery after 6–12 months, or nerve cut e.g. after acoustic neuroma surgery): <b>medial canthoplasty</b>, lateral sling/strip, <b>platinum (or gold) weight</b> in the upper lid, lateral tarsorrhaphy.",
+    "<b>Mechanical</b>: a tumour pushes the lid out → remove it."
+   ],
+   "hook": "Facial palsy rule: <b>Cornea first</b>, cosmetics later.",
+   "pearls": [
+    "Platinum is preferred over gold weights: thinner, better contour, fewer revisions."
+   ],
+   "cards": [
+    {
+     "q": "Ectropion that gets worse when the patient opens their mouth?",
+     "a": "Cicatricial ectropion."
+    },
+    {
+     "q": "Upper lid implant for lagophthalmos in facial palsy?",
+     "a": "Platinum (or gold) weight."
+    }
+   ]
+  },
+  {
+   "id": "ch02-31",
+   "group": "Ectropion & entropion",
+   "title": "Entropion",
+   "minutes": 4,
+   "tldr": "Old lower lid rolls <b>inward</b>: laxity + <b>weak retractors</b> + <b>overriding orbicularis</b>. Scar entropion = <b>conjunctival scarring</b>.",
+   "points": [
+    "Lashes rub the cornea (<b>pseudotrichiasis</b>) → PEEs, pannus, ulcers.",
+    "Causes: <b>horizontal laxity</b>, <b>retractor disinsertion</b> (lid moves less on downgaze), <b>preseptal orbicularis overriding</b> the pretarsal part.",
+    "Quick fixes: lubricant, tape, bandage contact lens, botox.",
+    "<b>Everting sutures</b>: fast, last months, good for frail or confused patients.",
+    "<b>Wies procedure</b>: full-thickness split + everting sutures. Lasting.",
+    "<b>Retractor reinsertion</b>: the most direct fix. Add a <b>lateral tarsal strip</b> for laxity.",
+    "<b>Cicatricial entropion</b>: trachoma, OCP, SJS, chemicals. Mild → <b>tarsal fracture</b>. Severe → grafts."
+   ],
+   "hook": "Entropion fix = <b>tighten</b> (strip) + <b>re-attach</b> (retractors) + <b>block</b> (orbicularis override).",
+   "cards": [
+    {
+     "q": "Quick entropion repair for a frail, confused patient?",
+     "a": "Transverse everting sutures."
+    },
+    {
+     "q": "Name 2 causes of cicatricial entropion.",
+     "a": "Trachoma, ocular cicatricial pemphigoid (also SJS, chemical injury)."
+    }
+   ]
+  },
+  {
+   "id": "ch02-32",
+   "group": "Other lid problems",
+   "title": "Floppy eyelid syndrome",
+   "minutes": 3,
+   "tldr": "<b>Obese man</b>, rubbery upper lid that <b>flips inside out easily</b>, chronic red eye → check for <b>sleep apnoea</b>.",
+   "points": [
+    "Sleeps face-down on the pillow → lid pulls away → exposure at night.",
+    "Very loose upper lid with a <b>rubbery tarsus</b>. Everts with almost no effort.",
+    "<b>Upper tarsal papillary conjunctivitis</b>, punctate keratitis, filaments.",
+    "Strong link with <b>obstructive sleep apnoea</b> (heart and lung disease). FES + OSA → higher <b>glaucoma</b> risk.",
+    "Ask about snoring and daytime sleepiness → refer for a sleep study.",
+    "Treat: weight loss, OSA treatment, shield or tape at night. Severe → upper-lid <b>pentagon resection ≥10 mm</b>.",
+    "<b>Eyelid imbrication</b>: the upper lid overlaps the lower when closing, so lower lashes rub the upper lid. Often with FES."
+   ],
+   "hook": "Floppy lid → <b>Snore</b>? → sleep study.",
+   "cards": [
+    {
+     "q": "Systemic disease strongly linked with floppy eyelid syndrome?",
+     "a": "Obstructive sleep apnoea."
+    }
+   ]
+  },
+  {
+   "id": "ch02-33",
+   "group": "Other lid problems",
+   "title": "Lid retraction, varix, blepharochalasis",
+   "minutes": 4,
+   "tldr": "Commonest cause of lid retraction = <b>thyroid eye disease</b>. Also look at the <b>other eye</b> for ptosis.",
+   "points": [
+    "Retraction = upper lid at or above the <b>upper limbus</b>.",
+    "Causes: <b>TED</b> (number 1), ptosis on the other side (Hering), facial palsy, 3rd nerve misdirection, Marcus Gunn, <b>Collier sign</b> (Parinaud dorsal midbrain), <b>setting-sun sign</b> (hydrocephalus), Parkinson, sympathomimetic drops, liver disease (Summerskill), over-corrected ptosis surgery.",
+    "Treat: <b>Müller recession</b> (mild) or <b>levator recession</b> (moderate–severe).",
+    "Lower-lid retraction: after blepharoplasty, TED → retractor recession + spacer graft.",
+    "<b>Varix</b>: purple compressible lump that <b>gets bigger with Valsalva</b>. May connect to the orbit.",
+    "<b>Blepharochalasis</b>: teens, <b>repeated episodes</b> of painless lid swelling → thin <b>'cigarette-paper'</b> skin, ptosis."
+   ],
+   "hook": "Lid retraction? <b>Thyroid</b> until proven otherwise.",
+   "cards": [
+    {
+     "q": "Lid retraction + upgaze palsy + light-near dissociation?",
+     "a": "Collier sign in Parinaud (dorsal midbrain) syndrome."
+    },
+    {
+     "q": "Lid lesion that swells with Valsalva?",
+     "a": "Varix."
+    }
+   ]
+  },
+  {
+   "id": "ch02-34",
+   "group": "Other lid problems",
+   "title": "Cosmetic lid surgery basics",
+   "minutes": 3,
+   "tldr": "Ageing = loose skin + fat bulging + sagging brow. <b>Check for ptosis, brow ptosis and dry eye before blepharoplasty.</b>",
+   "points": [
+    "<b>Botox</b>: crow's feet, frown lines. Risks: temporary ptosis, diplopia, ectropion.",
+    "<b>Fillers</b>: hyaluronic acid (lasts 3–12 months), fat (permanent).",
+    "<b>Upper blepharoplasty</b>: removes extra skin ± fat. Too much skin removed → <b>lagophthalmos</b>. Too much fat → hollow sulcus.",
+    "<b>Lower blepharoplasty</b>: anterior approach (extra skin) or <b>transconjunctival</b> approach (fat only). Risks: <b>retraction, ectropion</b>.",
+    "<b>Brow ptosis</b> must be fixed <b>before or with</b> blepharoplasty (direct or endoscopic brow lift)."
+   ],
+   "hook": "Lift the <b>brow before</b> you cut the lid.",
+   "cards": [
+    {
+     "q": "Main risk of removing too much upper-lid skin?",
+     "a": "Lagophthalmos (exposure keratopathy)."
+    }
+   ]
+  },
+  {
+   "id": "ch02-35",
+   "group": "Born with it",
+   "title": "Congenital lid shapes: folds, telecanthus, BPES",
+   "minutes": 4,
+   "tldr": "<b>BPES</b> = small fissures + ptosis + <b>epicanthus inversus</b> + telecanthus. <b>FOXL2</b> gene. Type I = <b>ovarian failure</b>.",
+   "points": [
+    "<b>Epicanthic folds</b>: can make a child look esotropic (<b>pseudoesotropia</b>).",
+    "<b>Telecanthus</b>: long medial canthal tendons → wide gap between the inner corners. Not the same as <b>hypertelorism</b> (wide bony orbits).",
+    "<b>BPES</b>: AD, <b>FOXL2</b> on chromosome 3. Type I has premature ovarian failure, type II doesn't.",
+    "BPES: <b>amblyopia in ~50%</b>. Fix the folds and telecanthus first, then a <b>frontalis sling</b>.",
+    "<b>Epiblepharon</b>: extra skin fold pushes lashes up (common in East Asians). <b>Pull the skin down → the lashes turn out normally.</b> Often gets better on its own.",
+    "<b>Congenital entropion</b>: true inturning (retractor problem) → <b>Hotz procedure</b>."
+   ],
+   "hook": "BPES <b>FOX</b>: <b>FOX</b>L2 → ask about the <b>ovaries</b>.",
+   "cards": [
+    {
+     "q": "Gene in BPES?",
+     "a": "FOXL2 (chromosome 3)."
+    },
+    {
+     "q": "How do you tell epiblepharon from congenital entropion?",
+     "a": "Pull the skin fold down: in epiblepharon the lashes go back to normal."
+    }
+   ]
+  },
+  {
+   "id": "ch02-36",
+   "group": "Born with it",
+   "title": "Colobomas & rare lid malformations",
+   "minutes": 3,
+   "tldr": "Upper-lid coloboma → <b>Goldenhar</b>. Lower-lid coloboma → <b>Treacher Collins</b>.",
+   "points": [
+    "<b>Upper lid coloboma</b>: junction of middle and <b>inner</b> thirds. Linked to cryptophthalmos and <b>Goldenhar</b>.",
+    "<b>Lower lid coloboma</b>: junction of middle and <b>outer</b> thirds. <b>Treacher Collins</b> (jaw and ear problems, slanted fissures).",
+    "<b>Cryptophthalmos</b>: skin runs right over the eye with no lids. <b>Fraser syndrome</b> (syndactyly, urogenital problems).",
+    "<b>Euryblepharon</b>: fissure too wide → lateral ectropion, exposure.",
+    "<b>Ablepharon</b>: missing front lid layer. Ablepharon-macrostomia: big 'fish' mouth.",
+    "<b>Congenital upper lid eversion</b>: Down syndrome, collodion baby (ichthyosis).",
+    "<b>Ankyloblepharon filiforme adnatum</b>: thin bands join the lids → snip them."
+   ],
+   "hook": "<b>Up-Gold</b>: Upper = Goldenhar. <b>Low-T</b>: Lower = Treacher Collins.",
+   "cards": [
+    {
+     "q": "Lower lid coloboma at the lateral third + small jaw + ear anomalies?",
+     "a": "Treacher Collins syndrome."
+    },
+    {
+     "q": "Cryptophthalmos + syndactyly?",
+     "a": "Fraser syndrome."
+    }
+   ]
+  }
+ ]
+}
