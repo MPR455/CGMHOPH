@@ -1,0 +1,133 @@
+{
+ "id": "ch02", "num": 2, "title": "Differential Diagnosis of Ocular Signs",
+ "chunks": [
+  {
+   "id": "w02-01", "group": "Front of eye", "title": "Hyphaema, hypopyon & blood in Schlemm's canal", "minutes": 3,
+   "tldr": "<b>Hyphaema</b>: trauma, surgery, <b>NVI</b>, clotting problems/anticoagulants, HSV/VZV iritis, Fuchs, tumours (JXG, retinoblastoma). <b>Hypopyon</b>: <b>infective keratitis, HLA-B27/Behçet uveitis, endophthalmitis</b>, TASS, retained lens, FB, tumour (pseudohypopyon), <b>rifampin/rifabutin</b>.",
+   "points": [
+    "Blood in Schlemm canal on gonioscopy: gonioprism pressure, <b>Sturge–Weber</b>, c-c fistula, SVC obstruction, hypotony.",
+    "Pseudohypopyon in a child → <b>retinoblastoma</b>.",
+    "Postop day 1 sterile hypopyon → think TASS."
+   ],
+   "hook": "<b>Hypopyon: Bugs, B27, Behçet, Bits of lens.</b>",
+   "cards": [{"q": "Hypopyon within 24 h of cataract surgery, sterile, diffuse corneal oedema?", "a": "Toxic anterior segment syndrome (TASS)."}]
+  },
+  {
+   "id": "w02-02", "group": "Front of eye", "title": "Corneal oedema, opacity in infants & big nerves", "minutes": 4,
+   "tldr": "Infant cloudy cornea: '<b>STUMPED</b>' — Sclerocornea, Tears in Descemet (forceps/glaucoma), Ulcer, Metabolic (MPS), Peters, Endothelial dystrophy (CHED/PPCD), Dermoid. Adult oedema: trauma, high IOP, hydrops, HSV, Fuchs, pseudophakic bullous, graft failure, ICE. <b>Enlarged corneal nerves</b>: <b>MEN 2</b>, NF, Acanthamoeba, keratoconus, leprosy.",
+   "points": [
+    "Congenital oedema: birth trauma, congenital glaucoma, CHED (bilateral), PPCD.",
+    "Acquired also: chemical injury, CL overwear, uveitis, postoperative.",
+    "Big nerves also: Fuchs, failed graft, Refsum, Riley–Day, multiple myeloma, ichthyosis, normal variant."
+   ],
+   "hook": "<b>STUMPED baby</b> = cloudy infant cornea.",
+   "cards": [
+    {"q": "Enlarged corneal nerves + medullary thyroid carcinoma + phaeochromocytoma?", "a": "MEN type 2 (2B)."},
+    {"q": "Name four causes of corneal opacity in infancy.", "a": "Birth trauma, congenital glaucoma, Peters/sclerocornea, mucopolysaccharidosis (also CHED, PPCD, infection, dermoid)."}
+   ]
+  },
+  {
+   "id": "w02-03", "group": "Front of eye", "title": "Conjunctival signs", "minutes": 4,
+   "tldr": "<b>True membrane</b> (bleeds when peeled): Strep, pneumococcus, <b>diphtheria</b>, HSV, chemical, ligneous. <b>Pseudomembrane</b> (peels easily): all above + <b>adenovirus (EKC)</b>, gonococcus, chlamydia (newborn), pemphigoid. <b>Pannus</b>: CL hypoxia, staph, rosacea, HSV, <b>trachoma</b>, chemical, VKC. <b>Symblepharon</b>: pemphigoid, SJS, chemical.",
+   "points": [
+    "Chemosis: allergy, inflammation, postop, venous congestion (c-c fistula), angioedema, myxoedema.",
+    "Dryness: exposure, Sjögren, vitamin A deficiency, pemphigoid, SJS, radiation.",
+    "Pigment: racial melanosis, PAM, naevus, melanoma, melanocytosis (episcleral blue-grey), Addison, adrenaline drops, mascara.",
+    "Dilated episcleral vessels without pain: <b>uveal melanoma</b>, c-c fistula, polycythaemia, leukaemia.",
+    "<b>Verticillata</b>: amiodarone, chloroquine, Fabry, phenothiazines, indomethacin, <b>netarsudil/ripasudil</b>."
+   ],
+   "hook": "<b>Membrane bleeds, pseudo peels.</b>",
+   "cards": [
+    {"q": "Difference between true membrane and pseudomembrane?", "a": "True membranes are adherent and bleed when removed; pseudomembranes peel off easily without bleeding."},
+    {"q": "New glaucoma drop class causing corneal verticillata?", "a": "Rho kinase inhibitors (netarsudil, ripasudil)."}
+   ]
+  },
+  {
+   "id": "w02-04", "group": "Fundus", "title": "Emboli & macular exudates", "minutes": 3,
+   "tldr": "Emboli: <b>cholesterol (Hollenhorst)</b> = bright yellow at bifurcation → carotid. <b>Platelet–fibrin</b> = dull grey, long → carotid. <b>Calcium</b> = dull white near disc → <b>heart valves</b>. <b>Talc</b> = IV drug use. Cardiac myxoma: young, left eye. Fat/air → Purtscher-like.",
+   "points": [
+    "Macular exudates common: diabetes, CNV, hypertension.",
+    "Less: macroaneurysm, <b>Coats (children)</b>, capillary haemangioma, RVO, papilloedema, radiation."
+   ],
+   "hook": "<b>Shiny = cholesterol (carotid). Chalky = calcium (cardiac).</b>",
+   "cards": [{"q": "Dull white embolus on/near the optic disc points to which source?", "a": "Cardiac valve (calcific embolus)."}]
+  },
+  {
+   "id": "w02-05", "group": "Fundus", "title": "Neovascularization, Roth spots & sheathing", "minutes": 4,
+   "tldr": "<b>Disc/posterior NV</b>: diabetes, old CRVO/CRAO. <b>Peripheral NV</b>: <b>sickle</b>, BRVO, diabetes, sarcoid, OIS, pars planitis, ROP, FEVR, Eales, talc. <b>Roth spots</b>: diabetes, <b>leukaemia</b>, <b>endocarditis</b>, anaemia. <b>Periphlebitis</b>: <b>syphilis, sarcoid, pars planitis</b>, sickle, TB, MS, Behçet.",
+   "points": [
+    "CNV: AMD, PCV, histoplasmosis, high myopia, angioid streaks, choroidal rupture; less: disc drusen, laser scars, VKH/MFC/serpiginous.",
+    "Choroidal folds: tumour, posterior scleritis, inflammation, hypotony, thyroid, hyperopia, papilloedema.",
+    "Optociliary shunts: <b>meningioma</b>, glioma, old CRVO, chronic papilloedema, glaucoma.",
+    "Normal fundus + poor vision: retrobulbar neuritis, toxic/LHON, amblyopia, early Stargardt, cone dystrophy, CAR/MAR, nonphysiologic.",
+    "Bull's eye: AMD, Stargardt, cone dystrophy, HCQ, albinism, Batten."
+   ],
+   "hook": "<b>Peripheral sea-fan NV = sickle (SC) until proven otherwise.</b>",
+   "cards": [
+    {"q": "Three common causes of Roth spots?", "a": "Leukaemia, bacterial endocarditis (septic), diabetes (also anaemia)."},
+    {"q": "Peripheral retinal neovascularization in a young Black patient?", "a": "Sickle cell (especially HbSC) retinopathy."}
+   ]
+  },
+  {
+   "id": "w02-06", "group": "Pressure & iris", "title": "IOP high or low", "minutes": 3,
+   "tldr": "<b>Acute high IOP</b>: angle closure, inflammatory OAG, malignant glaucoma, hyphaema, <b>Posner–Schlossman</b>, postop, suprachoroidal haemorrhage, c-c fistula, cleft closing, <b>retrobulbar haemorrhage</b>. <b>Low IOP</b>: <b>ruptured globe</b>, phthisis, RD/choroidal detachment, iritis, cyclodialysis cleft, wound leak, overfiltration.",
+   "points": [
+    "Postop shallow AC + <b>high</b> IOP: pupil block, capsular block, suprachoroidal haemorrhage, <b>malignant glaucoma</b>.",
+    "Postop shallow AC + <b>low</b> IOP: <b>wound leak</b>, choroidal detachment, overfiltration.",
+    "Hypotony also: dehydration, ocular ischaemia, drugs, ciliary shutdown after trauma."
+   ],
+   "table": {"head": ["Shallow AC after surgery", "Likely cause"], "rows": [["High IOP", "Pupil block, malignant glaucoma, suprachoroidal haemorrhage"], ["Low IOP", "Wound leak (Seidel), choroidal effusion, overfiltration"]]},
+   "hook": "<b>Flat chamber: hard eye = blocked/pushed; soft eye = leaking.</b>",
+   "cards": [{"q": "Flat AC with low IOP after trabeculectomy — first test?", "a": "Seidel test for a wound/bleb leak (also look for choroidal detachment)."}]
+  },
+  {
+   "id": "w02-07", "group": "Pressure & iris", "title": "Iris colour, lesions, NVI & lens signs", "minutes": 3,
+   "tldr": "<b>Lighter eye</b>: congenital <b>Horner</b>, <b>Fuchs</b>, chronic uveitis, JXG, Waardenburg. <b>Darker eye</b>: melanocytosis, <b>siderosis/retained FB</b>, melanoma, ICE. <b>NVI</b>: diabetes, OIS, RVO/RAO, chronic RD, tumours. <b>Anterior lenticonus</b> = <b>Alport</b>.",
+   "points": [
+    "Amelanotic iris lesions: amelanotic melanoma, granuloma (sarcoid, TB), JXG, medulloepithelioma, cyst.",
+    "Iridescent lens particles: drugs, hypocalcaemia, myotonic dystrophy, hypothyroidism.",
+    "Posterior lenticonus: idiopathic, PFV."
+   ],
+   "hook": "<b>Darker iris after an injury = iron inside.</b>",
+   "cards": [{"q": "Heterochromia with the affected eye darker after trauma?", "a": "Siderosis from retained iron foreign body."}]
+  },
+  {
+   "id": "w02-08", "group": "Neuro & fields", "title": "RAPD, atrophy, paradoxical pupils & EOM thickening", "minutes": 4,
+   "tldr": "<b>Big RAPD</b>: optic nerve disease, CRAO/CRVO, extensive RD. <b>Small RAPD</b>: amblyopia, dense VH, BRVO, smaller RD. <b>Paradoxical pupils</b> (dilate in light): CSNB, achromatopsia, ONH, LCA. <b>Thick EOMs</b>: <b>thyroid (spares tendon)</b> vs <b>orbital inflammation (tendon involved)</b>.",
+   "points": [
+    "Motility limited with proptosis → orbit (Ch 7); without → nerve palsies, myasthenia, CPEO, entrapment, Duane.",
+    "Optic atrophy: glaucoma, old CRAO/CRVO, AION, neuritis, papilloedema, compression, trauma; less syphilis, RP, toxic, LHON.",
+    "Isolated optic nerve mass: glioma (kids), meningioma (adults).",
+    "Infant nystagmus: congenital, spasmus nutans, cataract, aniridia, albinism, ONH, LCA, glioma."
+   ],
+   "hook": "<b>Thyroid spares the tendon; inflammation takes it.</b>",
+   "cards": [
+    {"q": "How do thyroid eye disease and orbital myositis differ on CT?", "a": "Thyroid enlarges muscle bellies sparing tendons; idiopathic orbital inflammation involves the tendon."},
+    {"q": "Paradoxical pupil constriction in darkness — name two causes.", "a": "Congenital stationary night blindness, achromatopsia (also optic nerve hypoplasia, LCA)."}
+   ]
+  },
+  {
+   "id": "w02-09", "group": "Neuro & fields", "title": "Visual field patterns", "minutes": 4,
+   "tldr": "<b>Altitudinal</b>: AION, optic neuritis, hemi-retinal occlusions. <b>Arcuate</b>: glaucoma. <b>Bitemporal</b>: <b>chiasm</b> (pituitary, meningioma, craniopharyngioma, aneurysm). <b>Homonymous</b>: behind chiasm (stroke/tumour). <b>Big blind spot</b>: papilloedema, drusen, <b>MEWDS/AIBSE</b>. <b>Tunnel</b>: glaucoma, RP, PRP, nonphysiologic.",
+   "points": [
+    "Binasal: glaucoma, bitemporal retinal disease; rarely compression.",
+    "Central scotoma: macula, optic neuritis, compressive/toxic neuropathy.",
+    "Bitemporal mimic: tilted discs, nasal RP.",
+    "Tunnel also: CRAO with cilioretinal sparing, bilateral occipital infarcts with macular sparing, vit A deficiency, CAR/MAR."
+   ],
+   "hook": "<b>Respects horizontal = eye/nerve. Respects vertical = chiasm or brain.</b>",
+   "cards": [{"q": "Enlarged blind spot in a young myopic woman with photopsia and white dots?", "a": "MEWDS (multiple evanescent white dot syndrome)."}]
+  },
+  {
+   "id": "w02-10", "group": "Neuro & fields", "title": "Refraction changes & vitreous opacities", "minutes": 2,
+   "tldr": "<b>Hyperopic shift</b>: orbital mass pressing globe, <b>CSR</b>, posterior scleritis, hypoglycaemia, presbyopia, post-RK. <b>Myopic shift</b>: pathologic myopia, <b>diabetes (hyperglycaemia)</b>, <b>nuclear cataract</b>, keratoconus, miotics/sulfa drugs. Vitreous opacities: asteroid, blood, cells, snowballs, tumour, amyloid.",
+   "points": [
+    "Sulfa drugs (topiramate) → acute myopia + angle closure.",
+    "Snowballs: pars planitis, sarcoid.",
+    "Rare vitreous: amyloid, Whipple disease."
+   ],
+   "hook": "<b>Retina pushed forward → hyperopia</b> (CSR, orbital mass).",
+   "cards": [{"q": "New myopic shift in an older adult with good fundus — commonest cause?", "a": "Nuclear sclerotic cataract (or hyperglycaemia)."}]
+  }
+ ]
+}

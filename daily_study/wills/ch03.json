@@ -1,0 +1,541 @@
+{
+ "id": "ch03",
+ "num": 3,
+ "title": "Trauma",
+ "chunks": [
+  {
+   "id": "w03-01",
+   "group": "3.1 Chemical burn",
+   "title": "Chemical burn: first 15 minutes",
+   "minutes": 4,
+   "tldr": "<b>Irrigate BEFORE checking vision</b> (unless open globe suspected). Saline/Ringer's — <b>tap water is fine</b> and may beat saline for alkali. <b>Never neutralise</b> acid with alkali. Speculum + anaesthetic, evert both lids, sweep fornices. Wait <b>5–10 min</b>, check pH; continue till <b>7.0–7.4</b> (may need &gt;10 L).",
+   "points": [
+    "Alkali: lye, cement, plaster, <b>airbag powder</b>, bleach, ammonia. Acids: battery acid, pool cleaner.",
+    "IV tubing on a saline bag = easiest irrigation.",
+    "Read litmus before it dries.",
+    "Persistently abnormal pH → hunt for retained particles: <b>double eversion with Desmarres retractor</b>.",
+    "Embedded acid/alkali particles may need surgical removal.",
+    "History: what chemical, when, how long before irrigation, eye protection; bring the label/MSDS."
+   ],
+   "hook": "<b>Water first, questions later.</b>",
+   "cards": [
+    {
+     "q": "Target pH before stopping irrigation?",
+     "a": "7.0–7.4 (check 5–10 min after pausing)."
+    },
+    {
+     "q": "Why never neutralise an alkali burn with acid?",
+     "a": "The acid–base reaction can generate heat and harmful products (secondary thermal injury)."
+    }
+   ]
+  },
+  {
+   "id": "w03-02",
+   "group": "3.1 Chemical burn",
+   "title": "Chemical burn: mild vs severe treatment",
+   "minutes": 4,
+   "tldr": "<b>Mild–moderate</b> (no limbal blanching): cycloplegic, PF tears/antibiotic ointment, ± steroid + antibiotic for a week, pain relief, treat IOP (avoid alpha-agonists). <b>Severe</b> (blanching, opaque cornea): admit, debride, cycloplegic (<b>no phenylephrine</b>), antibiotic + steroid, <b>doxycycline + vit C</b>, sweep fornices, <b>amniotic membrane/ProKera</b>.",
+   "points": [
+    "Epithelium totally gone → only Bowman left, which stains poorly; re-apply fluorescein.",
+    "IOP: acetazolamide/methazolamide (watch K⁺), add timolol. Avoid alpha-agonists (vasoconstrict).",
+    "Steroids: taper by <b>7–14 days</b> (melt risk); longer anti-inflammatory → <b>medroxyprogesterone 1%</b>.",
+    "Ciprofloxacin can precipitate in big defects.",
+    "Ascorbate/citrate speed alkali healing (caution in renal disease).",
+    "Melting: acetylcysteine; perforation: <b>cyanoacrylate glue</b>, patch graft; keratoplasty better after 12–18 months.",
+    "Late: tarsorrhaphy, limbal stem cell transplant from fellow eye.",
+    "<b>Super glue</b>: separate lids gently, trim lashes, warm saline/ointment, treat defects as abrasions."
+   ],
+   "hook": "<b>Blanched limbus = bad burn.</b> Steroids out by 2 weeks.",
+   "cards": [
+    {
+     "q": "Which dilating drop should be avoided in chemical burns with limbal ischaemia?",
+     "a": "Phenylephrine (vasoconstrictor)."
+    },
+    {
+     "q": "Oral agents that reduce collagenolysis after a severe burn?",
+     "a": "Doxycycline 100 mg b.i.d. and vitamin C."
+    }
+   ]
+  },
+  {
+   "id": "w03-03",
+   "group": "3.2–3.4 Surface injuries",
+   "title": "Corneal abrasion",
+   "minutes": 4,
+   "tldr": "Staining defect with <b>no infiltrate</b>. <b>Evert lids</b> (vertical lines → subtarsal FB). Non-CL wearer: antibiotic ointment/drops. <b>Contact lens wearer → antipseudomonal (fluoroquinolone), never patch</b>. Fingernail/vegetable → fluoroquinolone. <b>Never give topical anaesthetic to take home.</b>",
+   "points": [
+    "DDx: recurrent erosion, HSV, confluent SPK, UV, exposure, neurotrophic, chemical.",
+    "Cycloplegic for traumatic iritis (24–72 h later); avoid steroids while epithelium open.",
+    "Patching rarely needed; never in CL-related abrasions.",
+    "Short NSAID drop course (ketorolac × 3 days) for pain.",
+    "Debride loose epithelium.",
+    "Bandage CL only with antibiotic cover and close follow-up; not for CL-related or infected.",
+    "Follow-up: big/central next day; small/peripheral 2–5 days.",
+    "CL wearer: resume a week after eye feels normal, with a <b>new lens</b>."
+   ],
+   "hook": "<b>Contact lens + abrasion = Pseudomonas risk → quinolone, no patch.</b>",
+   "cards": [
+    {
+     "q": "Antibiotic choice for an abrasion in a contact lens wearer?",
+     "a": "A fluoroquinolone (antipseudomonal); no patching."
+    },
+    {
+     "q": "Why not prescribe topical anaesthetic drops?",
+     "a": "They delay epithelial healing and raise infection/ulcer risk."
+    }
+   ]
+  },
+  {
+   "id": "w03-04",
+   "group": "3.2–3.4 Surface injuries",
+   "title": "Foreign bodies & conjunctival laceration",
+   "minutes": 4,
+   "tldr": "Always ask: <b>metal on metal? hammering? power tools?</b> → think <b>IOFB</b>. Dilate, consider <b>CT (not MRI)</b>. Remove corneal FB with spud/needle at slit lamp; <b>burr the rust ring</b> (deep central ring can wait). Treat defect like an abrasion (<b>not erythromycin alone</b>). Conjunctival lac: <b>explore the sclera underneath</b>; most heal, suture if ≥1–1.5 cm.",
+   "points": [
+    "Small reactive sterile infiltrate around FB is common; big AC reaction/discharge → culture, treat as keratitis.",
+    "Look for entry wounds, iris holes/TIDs, lens damage, low IOP.",
+    "Multiple FBs with power tools/explosions.",
+    "Full-thickness corneal FB → operating room.",
+    "Conjunctival FB: irrigate or remove with anaesthetic-soaked swab; buried inert ones can stay.",
+    "Conjunctival lac suture: 8-0 Vicryl or 6-0 plain gut; don't bury Tenon's, don't stitch plica/caruncle.",
+    "Seidel test; examine fundus under the laceration."
+   ],
+   "hook": "<b>Hammer + metal = scan for the bit inside.</b>",
+   "cards": [
+    {
+     "q": "Imaging to exclude intraocular metal fragment?",
+     "a": "CT orbits (thin cuts); avoid MRI."
+    },
+    {
+     "q": "When to suture a conjunctival laceration?",
+     "a": "Large ones (≥1–1.5 cm); most heal alone after scleral injury is excluded."
+    }
+   ]
+  },
+  {
+   "id": "w03-05",
+   "group": "3.5–3.7 Anterior chamber",
+   "title": "Traumatic iritis & irido/cyclodialysis",
+   "minutes": 3,
+   "tldr": "<b>Traumatic iritis</b>: ache + photophobia 1–3 days after blunt injury; cells/flare; IOP up or down. Rx: <b>cycloplegic ± steroid</b>; at <b>1 month gonioscopy + scleral depression</b>. <b>Iridodialysis</b>: iris off the spur → diplopia/glare. <b>Cyclodialysis</b>: ciliary body off spur → <b>hypotony</b>, later IOP spike when it closes.",
+   "points": [
+    "Consensual photophobia (light in other eye hurts).",
+    "Pupil may be small (spasm) or big (sphincter tears).",
+    "Iridodialysis Rx: sunglasses, artificial-pupil CL, repair.",
+    "Glaucoma: aqueous suppressants first; avoid miotics (reopen cleft → hypotony).",
+    "Cyclodialysis hypotony: <b>atropine</b> + steroids first.",
+    "Fellow eye: ~50% risk of open-angle glaucoma in angle-cleavage injuries → watch both eyes."
+   ],
+   "hook": "<b>Cyclodialysis = soft eye now, hard eye when it shuts.</b>",
+   "cards": [
+    {
+     "q": "First-line treatment of hypotony from a cyclodialysis cleft?",
+     "a": "Atropine (to appose ciliary body to sclera) plus steroids."
+    },
+    {
+     "q": "When should gonioscopy be done after blunt trauma?",
+     "a": "About 1 month after injury (look for angle recession)."
+    }
+   ]
+  },
+  {
+   "id": "w03-06",
+   "group": "3.5–3.7 Anterior chamber",
+   "title": "Hyphaema: workup & basic care",
+   "minutes": 4,
+   "tldr": "Rule out <b>ruptured globe</b>, measure height, IOP, dilated fundus <b>without depression</b>. <b>Screen for sickle cell</b>. Care: <b>head up, rigid shield (no patch), cycloplegic, no aspirin/NSAIDs</b>, paracetamol, steroid if iritis/fibrin. Rebleed usually <b>day 2–7</b>.",
+   "points": [
+    "8-ball hyphaema = black, deoxygenated total clot.",
+    "Ask: anticoagulants, bleeding history, sickle cell, recent surgery.",
+    "Avoid gonioscopy early; UBM/B-scan if view poor; CT if fracture/IOFB/LOC.",
+    "Admit: noncompliant, bleeding disorder, other big injuries, sickle + high IOP, young children/amblyopia age, suspected abuse.",
+    "Hemolysis (bright red fluid) ≠ rebleed (new bright clot).",
+    "Antifibrinolytics (aminocaproic, tranexamic) rarely used now — controversial.",
+    "Daily review early; 4 weeks: gonioscopy + depressed fundus exam; possibly yearly for angle recession."
+   ],
+   "hook": "<b>Shield, sit up, sickle screen, no aspirin.</b>",
+   "cards": [
+    {
+     "q": "Why a shield not a patch for hyphaema?",
+     "a": "A patch hides sudden vision change from a rebleed; a rigid shield protects without masking it."
+    },
+    {
+     "q": "When do hyphaema rebleeds usually occur?",
+     "a": "Days 2–7 after injury."
+    }
+   ]
+  },
+  {
+   "id": "w03-07",
+   "group": "3.5–3.7 Anterior chamber",
+   "title": "Hyphaema: IOP & surgery thresholds",
+   "minutes": 4,
+   "tldr": "Non-sickle IOP ≥30: <b>beta-blocker</b> → add alpha-agonist/CAI → oral acetazolamide/mannitol. <b>Sickle: act at ≥24</b>; beta-blocker; <b>avoid topical CAIs, diuretics, alpha-agonists</b> (sickling); methazolamide if needed. Washout if: <b>blood staining, IOP ≥60 × 48 h, ≥25 × 5 days with total hyphaema, not ≤50% by day 8, sickle ≥24 × 24 h</b>.",
+   "points": [
+    "Avoid prostaglandins and miotics (inflammation).",
+    "No alpha-agonists in children &lt;2.",
+    "If mannitol needed → surgery likely soon.",
+    "AC paracentesis = temporising.",
+    "Kids at amblyopia risk → consider earlier surgery.",
+    "<b>Microhyphaema</b>: suspended RBCs; outpatient; review day 3 and 1 week (daily × 3 if IOP high).",
+    "Spontaneous hyphaema: occult trauma/abuse, <b>NVI</b>, clotting disorders, <b>IOL chafing (UGH)</b>, HSV, Fuchs, JXG, tumours → gonioscopy, clotting screen, UBM."
+   ],
+   "table": {
+    "head": [
+     "Washout trigger",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Corneal blood staining",
+      "Permanent opacity"
+     ],
+     [
+      "IOP ≥60 for 48 h",
+      "Optic atrophy"
+     ],
+     [
+      "Total + IOP ≥25 for 5 days",
+      "Blood staining"
+     ],
+     [
+      "Not ≤50% by day 8",
+      "PAS"
+     ],
+     [
+      "Sickle IOP ≥24 for 24 h",
+      "Optic nerve infarct"
+     ]
+    ]
+   },
+   "hook": "<b>Sickle eyes can't take pressure: treat at 24.</b>",
+   "cards": [
+    {
+     "q": "Why avoid acetazolamide/dorzolamide in sickle cell hyphaema?",
+     "a": "Acidosis/low aqueous pH promotes sickling; use beta-blocker, methazolamide only if needed."
+    },
+    {
+     "q": "Name two indications to wash out a hyphaema.",
+     "a": "Corneal blood staining; IOP ≥60 for 48 h despite therapy (also total hyphaema with IOP ≥25 × 5 days, sickle IOP ≥24 × 24 h, not clearing to 50% by day 8)."
+    }
+   ]
+  },
+  {
+   "id": "w03-08",
+   "group": "3.8 Eyelid laceration",
+   "title": "Lid laceration: workup & where to repair",
+   "minutes": 4,
+   "tldr": "Check globe, optic nerve, brain first. Laceration <b>nasal to punctum → probe/irrigate canaliculus</b>; <b>dog bites in kids</b> — always probe. <b>Visible fat = septum breached → CT</b>. OR repair if: globe/deep injury, canalicular (can wait <b>up to 4 days</b>), levator, fat, medial canthal avulsion, &gt;⅓ tissue loss.",
+   "points": [
+    "CT if penetrating/severe blunt trauma or LOC.",
+    "Glancing blow to zygoma can avulse the medial canthus + canaliculus (looks normal at rest).",
+    "Tetanus; antibiotics if contaminated (co-amoxiclav etc.); bites: penicillin, rabies, report.",
+    "Bedside: shell over the eye, povidone-iodine 10% (not soap), minimal local/field block.",
+    "Don't pull out penetrating FBs in the orbit — imaging + team.",
+    "Bites: eyelids' blood supply allows primary repair."
+   ],
+   "hook": "<b>Fat in the wound = deeper than you think.</b>",
+   "cards": [
+    {
+     "q": "What does orbital fat in an eyelid wound imply?",
+     "a": "The orbital septum is breached – needs CT and assessment of levator/EOMs."
+    },
+    {
+     "q": "How urgent is canalicular laceration repair?",
+     "a": "Not an emergency – can be delayed up to ~4 days."
+    }
+   ]
+  },
+  {
+   "id": "w03-09",
+   "group": "3.8 Eyelid laceration",
+   "title": "Lid margin repair technique",
+   "minutes": 4,
+   "tldr": "Key step = <b>realign the tarsus along its whole height</b> (partial-thickness 5-0/6-0 Vicryl) — otherwise <b>notching</b>. Grey-line 6-0 silk 2 mm from edges (alignment only), tie tarsal sutures, then margin, then skin 6-0 plain gut catching the <b>margin suture tails away from cornea</b>.",
+   "points": [
+    "Non-margin: interrupted 6-0 plain/chromic gut; <b>never suture the septum</b>; avoid deep sutures between tarsus and rim.",
+    "Tarsal heights: upper ~10 mm (3 sutures), lower ~5 mm (2).",
+    "Upper lid tarsal bites lamellar → don't scratch the cornea.",
+    "Unreliable/kids: all absorbable (6-0 Vicryl).",
+    "Posterior margin suture often unnecessary.",
+    "Remove margin sutures 5–10 days, skin 4–7 days; small notch often softens over 3–6 months."
+   ],
+   "hook": "<b>Fix the tarsus, not just the edge.</b>",
+   "cards": [
+    {
+     "q": "Most important structural step in marginal lid laceration repair?",
+     "a": "Reapproximating the tarsus along its full vertical length with lamellar sutures."
+    }
+   ]
+  },
+  {
+   "id": "w03-10",
+   "group": "3.9–3.10 Orbit",
+   "title": "Orbital blowout fracture",
+   "minutes": 4,
+   "tldr": "Diplopia, <b>infraorbital numbness</b>, crepitus after nose-blowing, enophthalmos, restricted upgaze. CT orbit + midface (coronal/sagittal, bone windows). Advise <b>no nose blowing</b>, decongestant ×3 days, ice, head up; antibiotics optional. <b>WEBOF (kids)</b>: quiet eye + vertical restriction + <b>oculocardiac reflex</b> → repair <b>within 24–48 h</b>.",
+   "points": [
+    "DDx: oedema (improves 7–10 days), nerve palsy (forced ductions free), muscle laceration.",
+    "Rule out globe and optic nerve injury first (check pupils, colour).",
+    "Eye exam within 48 h for all fractures.",
+    "Steroid pack if swelling blocks assessment (not with TBI).",
+    "Neurosurgery for roof/frontal sinus/cribriform/intracranial bleed.",
+    "Repair 1–2 weeks: persistent primary/downgaze diplopia, &gt;50% floor, early dystopia, complex rim/zygoma/Le Fort.",
+    "Delay repair 10–14 days if hyphaema; never with open globe.",
+    "Tripod fracture: trismus, malar flattening, rim step."
+   ],
+   "hook": "<b>Child, white quiet eye, vomiting, can't look up = trapdoor → OR today.</b>",
+   "cards": [
+    {
+     "q": "Indication for repair of an orbital fracture within 24–48 h?",
+     "a": "Muscle entrapment with oculocardiac reflex (bradycardia, nausea, syncope) – typically WEBOF in children."
+    },
+    {
+     "q": "Why avoid nose blowing after orbital fracture?",
+     "a": "Air forced into the orbit can cause compartment syndrome/optic neuropathy."
+    }
+   ]
+  },
+  {
+   "id": "w03-11",
+   "group": "3.9–3.10 Orbit",
+   "title": "Retrobulbar haemorrhage & canthotomy",
+   "minutes": 4,
+   "tldr": "<b>Rock-hard lids, proptosis, RAPD, high IOP</b> after trauma/surgery/anticoagulation = <b>orbital compartment syndrome</b>. Clinical diagnosis — <b>don't wait for CT</b>. Retina dies ~90 min. Do <b>lateral canthotomy + inferior cantholysis</b> with blunt scissors + toothed forceps; lid should fall away from globe.",
+   "points": [
+    "DDx: orbital cellulitis/abscess, tension pneumo-orbit, c-c fistula, varix, lymphangioma (kids).",
+    "Canthotomy alone is <b>not enough</b> — must cut the inferior crus (by feel, scissors toward nose).",
+    "Success: lid margin moves medially to limbus, IOP falls, retina reperfuses within ~15 min.",
+    "Superior cantholysis rarely needed (bleeds from lacrimal gland).",
+    "No optic neuropathy but IOP ≥35: stepwise IOP drops.",
+    "IV mannitol only to bridge until cantholysis.",
+    "Observe 4–6 h if no OCS yet; 12–24 h after decompression (rebleed).",
+    "CT 'teardrop/tenting' sign = ominous."
+   ],
+   "hook": "<b>Hard lids + RAPD = cut now, scan later.</b>",
+   "cards": [
+    {
+     "q": "Sign of an adequate inferior cantholysis?",
+     "a": "The lower lid releases from the globe; its lateral margin moves medially to the temporal limbus and IOP drops."
+    },
+    {
+     "q": "Should CT precede canthotomy in suspected orbital compartment syndrome?",
+     "a": "No – it is a clinical diagnosis; decompress first."
+    }
+   ]
+  },
+  {
+   "id": "w03-12",
+   "group": "3.11 Optic nerve",
+   "title": "Traumatic optic neuropathy",
+   "minutes": 4,
+   "tldr": "New <b>RAPD</b> after trauma not explained by eye findings. Types: compressive (orbital bleed — commonest), FB, <b>bony canal impingement</b>, sheath haematoma, <b>deceleration (posterior indirect TON)</b>. Disc normal early (pallor at once = old disease). Mostly <b>observe</b>; <b>no high-dose steroids with TBI or &gt;8 h (CRASH)</b>.",
+   "points": [
+    "Bilateral symmetric TON may show no RAPD — check both eyes in sedated patients.",
+    "Colour/red desaturation, confrontation fields.",
+    "CT thin cuts through canal; normal CT doesn't exclude TON.",
+    "B-scan if avulsion suspected behind haemorrhage.",
+    "Sheath haematoma: retinal vein/artery occlusions; consider fenestration if worsening.",
+    "Avulsion/laceration: no treatment.",
+    "Steroid regimen if used: 30 mg/kg load, 5.4 mg/kg q6h × 48 h + PPI.",
+    "Canal decompression only selected progressive cases (dangerous); EPO/TES unproven."
+   ],
+   "hook": "<b>Forehead hits steering wheel + RAPD + normal eye = indirect TON.</b>",
+   "cards": [
+    {
+     "q": "Most common type of traumatic optic neuropathy?",
+     "a": "Compressive optic neuropathy from orbital haemorrhage."
+    },
+    {
+     "q": "When must steroids not be given for TON?",
+     "a": "With traumatic brain injury or if >8 hours since injury (CRASH)."
+    }
+   ]
+  },
+  {
+   "id": "w03-13",
+   "group": "3.12–3.15 Open globe & FBs",
+   "title": "Intraorbital foreign body",
+   "minutes": 4,
+   "tldr": "<b>Never pull it out at the slit lamp before imaging.</b> CT first (wood can look like <b>air</b> — tell the radiologist; check Hounsfield units). <b>Remove</b>: organic/wood, copper, infection/abscess/fistula, optic nerve compression, large easy-to-reach. <b>Leave</b>: posterior inert metal/glass/stone not compressing anything.",
+   "points": [
+    "Poorly tolerated: wood/vegetable, diesel, pure copper. Fair: brass/bronze. Inert: stone, glass, plastic, iron, lead, steel, aluminium.",
+    "≥50% of conjunctival entry wounds are missed — look hard; exclude occult rupture.",
+    "MRI only after metal excluded (helps for wood).",
+    "B-scan only useful anteriorly.",
+    "Globe rupture repaired first.",
+    "IV cefazolin for clean inert; organic/dirty → treat as orbital cellulitis.",
+    "Wood splinters → repeat surgery, smouldering infection, fibrosis.",
+    "Gaze-evoked amaurosis = optic nerve compression.",
+    "Posteromedial FB → endonasal approach with ENT."
+   ],
+   "hook": "<b>Wood is bad and hides as air.</b>",
+   "cards": [
+    {
+     "q": "Why must wooden orbital foreign bodies be removed?",
+     "a": "High risk of infection and chronic inflammation; often appear as air on CT."
+    },
+    {
+     "q": "Which inert orbital FBs are usually left?",
+     "a": "Posterior inorganic ones (glass, stone, steel, lead) not compressing the optic nerve."
+    }
+   ]
+  },
+  {
+   "id": "w03-14",
+   "group": "3.12–3.15 Open globe & FBs",
+   "title": "Corneal laceration: partial vs full thickness",
+   "minutes": 3,
+   "tldr": "<b>Seidel test</b> decides. Partial thickness: cycloplegic + antibiotic; suture in OR if gaping. <b>Full thickness</b> = open globe (3.14); tiny self-sealed leaks with formed AC: aqueous suppressants, bandage CL, fluoroquinolone, no steroids. <b>Don't measure IOP if Seidel positive.</b>",
+   "points": [
+    "Compare AC depth with fellow eye; shallow = leak.",
+    "Iris TIDs or lens damage = the globe is open.",
+    "Peripheral lacerations: check they don't extend past limbus.",
+    "Deep inert corneal FBs may stay if quiet.",
+    "Tetanus for dirty wounds."
+   ],
+   "hook": "<b>Green river (Seidel +) = hole through.</b>",
+   "cards": [
+    {
+     "q": "Positive Seidel test means?",
+     "a": "Aqueous is leaking through a full-thickness wound."
+    }
+   ]
+  },
+  {
+   "id": "w03-15",
+   "group": "3.12–3.15 Open globe & FBs",
+   "title": "Ruptured globe: what to do",
+   "minutes": 4,
+   "tldr": "Signs: <b>360° bullous subconj haemorrhage</b>, AC too deep/shallow, <b>peaked pupil</b>, TIDs, lens/vitreous in AC, low IOP, motility limited toward rupture. Then <b>stop examining</b>: <b>shield (no patch)</b>, CT, NPO, bed rest, <b>IV antibiotics within 6 h</b> (cefazolin/vanco + moxifloxacin; kids cefazolin + gentamicin), tetanus, <b>antiemetic</b>, analgesia, OR ASAP.",
+   "points": [
+    "B-scan only by ophthalmologist and not with obvious anterior rupture.",
+    "Postop: 1 week oral levofloxacin.",
+    "Hopeless eye: discuss enucleation early, do it within <b>7–14 days</b> (sympathetic ophthalmia).",
+    "Infection risk ↑: dirty wound, IOFB, broken lens capsule, delayed repair → consider intravitreal antibiotics.",
+    "<b>Ocular Trauma Score</b>: start from vision (NLP 60 … ≥20/40 100), minus rupture 23, endophthalmitis 17, perforation 14, RD 11, RAPD 10."
+   ],
+   "hook": "<b>Shield, scan, starve, shoot antibiotics, stop vomiting.</b>",
+   "cards": [
+    {
+     "q": "Timing of systemic antibiotics for open globe?",
+     "a": "Within 6 hours of injury."
+    },
+    {
+     "q": "Why give antiemetics before repair?",
+     "a": "Vomiting/Valsalva may expel intraocular contents."
+    }
+   ]
+  },
+  {
+   "id": "w03-16",
+   "group": "3.12–3.15 Open globe & FBs",
+   "title": "Intraocular foreign body",
+   "minutes": 4,
+   "tldr": "Clues: entry wound, <b>iris hole</b>, focal lens opacity, <b>peripheral microcystic corneal oedema</b> (FB hiding in angle). <b>CT thin cuts</b> (no MRI). Severe reaction: <b>iron, steel, copper</b>, vegetable. Inert: glass, gold, lead, stone. Rx: admit NPO, shield, IV vanco + ceftazidime/quinolone, <b>urgent removal</b> (copper/dirty most urgent).",
+   "points": [
+    "Long-standing iron → <b>siderosis</b>: heterochromia, anisocoria, anterior subcapsular cataract, retinopathy, optic atrophy.",
+    "BBs/pellets = mostly lead + some iron.",
+    "Intraocular air can mimic FB on B-scan; UBM for angle/sulcus FB.",
+    "Is it magnetic? Ask what it came from.",
+    "Atropine for posterior FBs.",
+    "Quinolones avoided in kids/pregnancy.",
+    "Retained FB → serial <b>ERG</b> (toxicity often reverses after removal)."
+   ],
+   "hook": "<b>Iron rusts the eye; copper inflames it.</b>",
+   "cards": [
+    {
+     "q": "Clue to a foreign body hidden in the angle?",
+     "a": "Sectoral peripheral microcystic corneal oedema."
+    },
+    {
+     "q": "How do you monitor a retained iron IOFB?",
+     "a": "Serial ERGs for toxic (siderotic) retinopathy."
+    }
+   ]
+  },
+  {
+   "id": "w03-17",
+   "group": "3.16–3.21 Other trauma",
+   "title": "Fireworks & shrapnel",
+   "minutes": 2,
+   "tldr": "Mix of <b>multiple irregular FBs + burns + chemical + blunt + open globe</b>. Check pH, optic nerve, orbit (where did the fragment stop?), lacrimal system, hearing. Dilate with cycloplegic only if chemical (no phenylephrine). CT; no MRI if metal.",
+   "points": [
+    "Don't dilate if FB lodged in iris.",
+    "Inert fragments near vital structures may be left (surgery risks).",
+    "Burns → medicine/dermatology/burn unit; facial fractures → ENT/maxfax/neurosurgery."
+   ],
+   "hook": "<b>Fireworks = burn + blast + bits.</b>",
+   "cards": [
+    {
+     "q": "Dilating drop to avoid in a firework injury with chemical burn?",
+     "a": "Phenylephrine (worsens limbal ischaemia)."
+    }
+   ]
+  },
+  {
+   "id": "w03-18",
+   "group": "3.16–3.21 Other trauma",
+   "title": "Commotio, choroidal rupture & sclopetaria",
+   "minutes": 4,
+   "tldr": "<b>Commotio (Berlin oedema)</b>: white retina, vessels normal, ± cherry spot; OCT ellipsoid disruption; self-limited. <b>Choroidal rupture</b>: crescent <b>concentric to disc</b>, often hidden by blood at first; watch for <b>CNV</b> (anti-VEGF). <b>Sclopetaria</b>: high-velocity missile passes <b>beside</b> the globe → <b>claw-like</b> chorioretinal rupture, bare sclera.",
+   "points": [
+    "Commotio DDx: RD, artery occlusion, WWOP, myelinated fibres.",
+    "Commotio: repeat exam 1–2 weeks; fovea involved may leave RPE scarring.",
+    "Rupture DDx: lacquer cracks, angioid streaks.",
+    "Long/near-fovea ruptures → higher CNV risk; Amsler grid; review 6–12 monthly.",
+    "Sclopetaria: rule out open globe/FB; may have vitreous base avulsion → dialysis; review every 2–4 weeks."
+   ],
+   "hook": "<b>Sclopetaria = bullet whizzed past and tore the back wall.</b>",
+   "cards": [
+    {
+     "q": "Late complication of traumatic choroidal rupture?",
+     "a": "Choroidal neovascularization."
+    },
+    {
+     "q": "What is chorioretinitis sclopetaria?",
+     "a": "Choroid and retina ruptured by shock wave from a high-velocity missile passing near (not through) the globe."
+    }
+   ]
+  },
+  {
+   "id": "w03-19",
+   "group": "3.16–3.21 Other trauma",
+   "title": "Purtscher retinopathy",
+   "minutes": 3,
+   "tldr": "<b>Head/chest compression or long-bone fracture</b> (not eye injury) → bilateral peripapillary <b>cotton wool spots, haemorrhages, Purtscher flecken</b> (whitening with clear zone along vessels). Same picture without trauma = <b>pseudo-Purtscher</b>: <b>pancreatitis</b>, malignant HTN, TTP/HUS, lupus, renal failure, amniotic fluid embolism.",
+   "points": [
+    "Mechanism: arteriolar occlusion by complement, fibrin, leukocyte aggregates, fat.",
+    "FA: patchy capillary non-perfusion.",
+    "No trauma → BP, U&amp;E, FBC, amylase/lipase, rheumatology.",
+    "No eye treatment; ~50% regain baseline vision."
+   ],
+   "hook": "<b>Crushed chest, white spots round the disc.</b>",
+   "cards": [
+    {
+     "q": "Non-traumatic cause of Purtscher-like retinopathy?",
+     "a": "Acute pancreatitis (also TTP/HUS, malignant hypertension, lupus)."
+    }
+   ]
+  },
+  {
+   "id": "w03-20",
+   "group": "3.16–3.21 Other trauma",
+   "title": "Shaken baby syndrome",
+   "minutes": 3,
+   "tldr": "Usually &lt;1 yr: irritability, seizures, poor feeding; story doesn't fit. Retinal haemorrhages in <b>~85%</b>; ⅔ <b>too many to count, multilayered, out to the ora</b>; <b>haemorrhagic macular retinoschisis</b> ± paramacular folds. Brain: subdural haemorrhage. External signs often absent.",
+   "points": [
+    "Asymmetric in up to 20%; unilateral ~2%.",
+    "Repeated acceleration–deceleration ± impact.",
+    "Document carefully (photos), involve child-protection/paediatrics."
+   ],
+   "hook": "<b>Too many, too deep, too far = abuse.</b>",
+   "cards": [
+    {
+     "q": "Pathognomonic-ish macular sign in abusive head trauma?",
+     "a": "Haemorrhagic macular retinoschisis with perimacular folds."
+    }
+   ]
+  }
+ ]
+}

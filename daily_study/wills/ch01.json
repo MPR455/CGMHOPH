@@ -1,0 +1,109 @@
+{
+ "id": "ch01", "num": 1, "title": "Differential Diagnosis of Ocular Symptoms",
+ "chunks": [
+  {
+   "id": "w01-01", "group": "Vision symptoms", "title": "Decreased vision: sort it in 3 questions", "minutes": 4,
+   "tldr": "Ask: <b>one eye or both? sudden or slow? painful or painless?</b> Sudden painless one-eye loss = <b>vascular (CRAO/CRVO, AION, GCA), vitreous haemorrhage, RD</b>. Sudden painful = <b>cornea, uveitis, acute angle closure, endophthalmitis, optic neuritis</b>.",
+   "points": [
+    "Monocular transient (&lt;24 h) painless: <b>amaurosis fugax</b>, disc drusen, impending CRVO, ocular ischaemia, orthostatic hypotension.",
+    "Transient painful: migraine, dry eye, SPK.",
+    "Binocular sudden painless: <b>stroke (homonymous hemianopia)</b>, vertebrobasilar insufficiency, papilloedema.",
+    "Binocular painful: migraine, <b>pituitary apoplexy</b>, papilloedema with headache.",
+    "Chronic painless: refractive error, cataract, glaucoma, corneal scar, optic neuropathy, AMD/diabetic retinopathy.",
+    "Optic neuritis: pain on eye movement but ~10% painless.",
+    "After trauma: cornea, hyphaema, rupture, cataract, commotio, RD, VH, lens dislocation, traumatic optic neuropathy.",
+    "Diagnosis of exclusion: <b>nonphysiologic</b> loss."
+   ],
+   "table": {"head": ["", "Painless", "Painful"], "rows": [["Sudden, 1 eye", "Artery/vein occlusion, AION/GCA, VH, RD", "Ulcer, uveitis, AACG, endophthalmitis, optic neuritis"], ["Transient, 1 eye", "Amaurosis fugax, impending CRVO", "Migraine, dry eye"], ["Sudden, 2 eyes", "Stroke, VBI, papilloedema", "Pituitary apoplexy, migraine"]]},
+   "hook": "<b>1 eye vs 2, fast vs slow, ouch vs no-ouch</b> — 3 questions narrow it to a short list.",
+   "cards": [
+    {"q": "Sudden painless monocular vision loss — four big causes?", "a": "Retinal artery/vein occlusion, ischaemic optic neuropathy/GCA, vitreous haemorrhage, retinal detachment."},
+    {"q": "Sudden bilateral vision loss with headache and ophthalmoplegia?", "a": "Pituitary apoplexy."}
+   ]
+  },
+  {
+   "id": "w01-02", "group": "Vision symptoms", "title": "Distortion, diplopia & oscillopsia", "minutes": 4,
+   "tldr": "<b>Monocular diplopia</b> (persists covering the other eye) = optics: <b>refraction, cornea (keratoconus), cataract, iris holes, dry eye</b>. <b>Binocular diplopia</b> (goes when either eye covered) = misalignment: <b>intermittent → myasthenia/phoria; constant → III/IV/VI palsy, orbit (thyroid, fracture), INO</b>.",
+   "points": [
+    "Distortion: refractive error/astigmatism (lid mass, chalazion), <b>macular disease</b> (CSR, oedema, AMD), irregular cornea, intoxication.",
+    "Rarer distortion: ectasia, drops (miotics/cycloplegics), RD, migraine, hypotony.",
+    "Monocular diplopia less common: dislocated lens/IOL, macular disease, nonphysiologic.",
+    "Binocular after surgery: residual anaesthesia, slipped muscle, scleral buckle, aniseikonia.",
+    "Oscillopsia ('jumping'): acquired nystagmus, INO, myasthenia, vestibular loss, opsoclonus, <b>superior oblique myokymia</b>."
+   ],
+   "hook": "<b>Cover one eye: still double = the eye's optics. Gone = the eyes' alignment.</b>",
+   "cards": [
+    {"q": "Diplopia persists when the good eye is covered — where is the problem?", "a": "In the eye itself (refractive, corneal, lens, iris) – monocular diplopia."},
+    {"q": "Intermittent binocular diplopia worse later in the day?", "a": "Myasthenia gravis (or decompensating phoria)."}
+   ]
+  },
+  {
+   "id": "w01-03", "group": "Vision symptoms", "title": "Flashes, floaters, glare & halos", "minutes": 3,
+   "tldr": "<b>Flashes</b>: PVD, retinal break/RD, migraine. <b>Floaters/spots</b>: vitreous syneresis, PVD, vitreous haemorrhage, uveitis. <b>Halos</b>: cataract, corneal oedema (<b>acute angle closure</b>), Fuchs, digoxin/chloroquine. <b>Formed hallucinations</b> in poor vision = <b>Charles Bonnet</b>.",
+   "points": [
+    "Less common flashes: white dot syndromes, occipital lesions, VBI, optic neuropathy, IOL dysphotopsia.",
+    "Transient spots = migraine.",
+    "Some patients' 'spot' is really a <b>scotoma</b> (retina, nerve, brain).",
+    "Glare: cataract, PCO, corneal oedema, dilated pupil, post-refractive surgery.",
+    "Halos also: pigment dispersion, contact lens overwear, post-refractive surgery."
+   ],
+   "hook": "<b>Flashes + floaters = dilate today</b> (find the tear).",
+   "cards": [
+    {"q": "Elderly patient with poor vision seeing formed images, insight intact?", "a": "Charles Bonnet syndrome."},
+    {"q": "Coloured halos around lights with a red painful eye?", "a": "Corneal oedema from acute angle-closure glaucoma."}
+   ]
+  },
+  {
+   "id": "w01-04", "group": "Lids & surface", "title": "Lid symptoms: swelling, crusting, twitch, can't close", "minutes": 3,
+   "tldr": "<b>Swollen + red + tender</b>: hordeolum, blepharitis, conjunctivitis, <b>preseptal/orbital cellulitis</b>, trauma, contact dermatitis, HSV/VZV. <b>Swollen, not inflamed</b>: chalazion, fat prolapse, mass, <b>heart/kidney/thyroid</b> disease, SVC syndrome. <b>Twitch</b>: usually myokymia (caffeine, stress).",
+   "points": [
+    "Crusting: blepharitis, meibomitis, conjunctivitis; less often canaliculitis, NLDO, dacryocystitis.",
+    "Lash loss: trauma, burn, <b>sebaceous carcinoma</b>, infection, alopecia, trichotillomania.",
+    "Twitch others: blepharospasm (both sides), hemifacial spasm, Tourette, trigeminal neuralgia.",
+    "Lagophthalmos: proptosis, lid laxity/ectropion, scarring, <b>VII palsy</b>, botox, cosmetic surgery, thyroid eye disease."
+   ],
+   "hook": "<b>Lash loss + thick lid in an older person = rule out sebaceous carcinoma.</b>",
+   "cards": [{"q": "Non-inflamed bilateral lid swelling — systemic causes?", "a": "Cardiac, renal or thyroid disease; superior vena cava syndrome."}]
+  },
+  {
+   "id": "w01-05", "group": "Lids & surface", "title": "Red eye: work from outside in", "minutes": 4,
+   "tldr": "Check layer by layer: <b>lids</b> (trichiasis, entropion, blepharitis, floppy lid), <b>conjunctiva</b> (conjunctivitis, subconj haemorrhage, pinguecula, SLK), <b>cornea</b> (keratitis, CL problems, FB, erosion, burns), <b>deeper</b> (uveitis, scleritis, endophthalmitis, <b>angle closure</b>, c-c fistula).",
+   "points": [
+    "Adnexa also: lagophthalmos, rosacea, dacryocystitis, canaliculitis.",
+    "Conjunctiva also: ophthalmia neonatorum, GPC, symblepharon (pemphigoid, SJS), neoplasia.",
+    "Cornea also: neurotrophic keratopathy, medicamentosa, pterygium.",
+    "Other: prostaglandin drops, cluster headache, <b>corkscrew vessels = carotid–cavernous fistula</b>.",
+    "Red flags: pain, photophobia, reduced vision, abnormal pupil, high IOP."
+   ],
+   "hook": "<b>Lids → conj → cornea → inside</b>; worry if it hurts, blurs, or the pupil is odd.",
+   "cards": [{"q": "Red eye with corkscrew conjunctival vessels?", "a": "Carotid–cavernous fistula."}]
+  },
+  {
+   "id": "w01-06", "group": "Lids & surface", "title": "Itch, burn, FB feeling, tearing & photophobia", "minutes": 4,
+   "tldr": "<b>Itch</b> = allergy until proven otherwise (also blepharitis, dry eye, GPC). <b>Burning</b> = blepharitis/dry eye. <b>FB sensation</b>: dry eye, trichiasis, FB, erosion, loose suture. <b>Tearing</b>: painful → cornea/uveitis/trichiasis; painless → dry eye (reflex), NLDO, ectropion. <b>Kids tearing</b> → NLDO or <b>congenital glaucoma</b>.",
+   "points": [
+    "Burning less common: inflamed pterygium, episcleritis, SLK, toxicity from drops/makeup/CL solution.",
+    "Crocodile tears: aberrant VII regeneration.",
+    "Photophobia with abnormal eye: corneal problem, anterior uveitis; also albinism, aniridia, dilated pupil, congenital glaucoma.",
+    "Photophobia with normal eye: <b>migraine, meningitis, SAH</b>, concussion, retrobulbar neuritis, trigeminal neuralgia.",
+    "Night blindness: undercorrected myopia, advanced glaucoma, miosis, RP, CSNB, PRP, drugs; rarer vit A deficiency, gyrate atrophy, choroideremia."
+   ],
+   "hook": "<b>Photophobia + normal eye → think brain</b> (migraine, meningitis, bleed).",
+   "cards": [
+    {"q": "Watery, light-sensitive infant with big cloudy cornea?", "a": "Congenital glaucoma."},
+    {"q": "Photophobia with a completely normal eye exam — serious causes?", "a": "Meningitis, subarachnoid haemorrhage (also migraine, retrobulbar neuritis)."}
+   ]
+  },
+  {
+   "id": "w01-07", "group": "Lids & surface", "title": "Eye pain by location", "minutes": 3,
+   "tldr": "<b>Ocular mild</b>: dry eye, blepharitis, conjunctivitis, episcleritis, FB. <b>Ocular severe</b>: corneal ulcer/abrasion, chemical/UV burn, <b>anterior uveitis, scleritis, endophthalmitis, acute angle closure</b>. <b>Orbital</b>: cellulitis, inflammation, tumour, <b>optic neuritis</b>, microvascular nerve palsy. <b>Periorbital</b>: <b>GCA</b>, trigeminal neuralgia, referred dental/sinus.",
+   "points": [
+    "Mild also: SPK, SLK, drop toxicity, CL problem, ocular ischaemic syndrome, asthenopia.",
+    "Orbital also: dacryoadenitis, migraine/cluster, postherpetic neuralgia.",
+    "Asthenopia (eye strain): uncorrected refraction, phoria, convergence insufficiency, accommodative spasm."
+   ],
+   "hook": "<b>Scleritis pain wakes you up; episcleritis just annoys.</b>",
+   "cards": [{"q": "Severe ocular pain that can be from inside the eye — four causes?", "a": "Anterior uveitis, scleritis, endophthalmitis, acute angle-closure glaucoma."}]
+  }
+ ]
+}

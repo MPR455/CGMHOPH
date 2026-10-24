@@ -7,21 +7,209 @@
    "num": 1,
    "title": "Differential Diagnosis of Ocular Symptoms",
    "file": "ch01.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "w01-01",
+     "title": "Decreased vision: sort it in 3 questions",
+     "group": "Vision symptoms"
+    },
+    {
+     "id": "w01-02",
+     "title": "Distortion, diplopia & oscillopsia",
+     "group": "Vision symptoms"
+    },
+    {
+     "id": "w01-03",
+     "title": "Flashes, floaters, glare & halos",
+     "group": "Vision symptoms"
+    },
+    {
+     "id": "w01-04",
+     "title": "Lid symptoms: swelling, crusting, twitch, can't close",
+     "group": "Lids & surface"
+    },
+    {
+     "id": "w01-05",
+     "title": "Red eye: work from outside in",
+     "group": "Lids & surface"
+    },
+    {
+     "id": "w01-06",
+     "title": "Itch, burn, FB feeling, tearing & photophobia",
+     "group": "Lids & surface"
+    },
+    {
+     "id": "w01-07",
+     "title": "Eye pain by location",
+     "group": "Lids & surface"
+    }
+   ]
   },
   {
    "id": "ch02",
    "num": 2,
    "title": "Differential Diagnosis of Ocular Signs",
    "file": "ch02.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "w02-01",
+     "title": "Hyphaema, hypopyon & blood in Schlemm's canal",
+     "group": "Front of eye"
+    },
+    {
+     "id": "w02-02",
+     "title": "Corneal oedema, opacity in infants & big nerves",
+     "group": "Front of eye"
+    },
+    {
+     "id": "w02-03",
+     "title": "Conjunctival signs",
+     "group": "Front of eye"
+    },
+    {
+     "id": "w02-04",
+     "title": "Emboli & macular exudates",
+     "group": "Fundus"
+    },
+    {
+     "id": "w02-05",
+     "title": "Neovascularization, Roth spots & sheathing",
+     "group": "Fundus"
+    },
+    {
+     "id": "w02-06",
+     "title": "IOP high or low",
+     "group": "Pressure & iris"
+    },
+    {
+     "id": "w02-07",
+     "title": "Iris colour, lesions, NVI & lens signs",
+     "group": "Pressure & iris"
+    },
+    {
+     "id": "w02-08",
+     "title": "RAPD, atrophy, paradoxical pupils & EOM thickening",
+     "group": "Neuro & fields"
+    },
+    {
+     "id": "w02-09",
+     "title": "Visual field patterns",
+     "group": "Neuro & fields"
+    },
+    {
+     "id": "w02-10",
+     "title": "Refraction changes & vitreous opacities",
+     "group": "Neuro & fields"
+    }
+   ]
   },
   {
    "id": "ch03",
    "num": 3,
    "title": "Trauma",
    "file": "ch03.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "w03-01",
+     "title": "Chemical burn: first 15 minutes",
+     "group": "3.1 Chemical burn"
+    },
+    {
+     "id": "w03-02",
+     "title": "Chemical burn: mild vs severe treatment",
+     "group": "3.1 Chemical burn"
+    },
+    {
+     "id": "w03-03",
+     "title": "Corneal abrasion",
+     "group": "3.2–3.4 Surface injuries"
+    },
+    {
+     "id": "w03-04",
+     "title": "Foreign bodies & conjunctival laceration",
+     "group": "3.2–3.4 Surface injuries"
+    },
+    {
+     "id": "w03-05",
+     "title": "Traumatic iritis & irido/cyclodialysis",
+     "group": "3.5–3.7 Anterior chamber"
+    },
+    {
+     "id": "w03-06",
+     "title": "Hyphaema: workup & basic care",
+     "group": "3.5–3.7 Anterior chamber"
+    },
+    {
+     "id": "w03-07",
+     "title": "Hyphaema: IOP & surgery thresholds",
+     "group": "3.5–3.7 Anterior chamber"
+    },
+    {
+     "id": "w03-08",
+     "title": "Lid laceration: workup & where to repair",
+     "group": "3.8 Eyelid laceration"
+    },
+    {
+     "id": "w03-09",
+     "title": "Lid margin repair technique",
+     "group": "3.8 Eyelid laceration"
+    },
+    {
+     "id": "w03-10",
+     "title": "Orbital blowout fracture",
+     "group": "3.9–3.10 Orbit"
+    },
+    {
+     "id": "w03-11",
+     "title": "Retrobulbar haemorrhage & canthotomy",
+     "group": "3.9–3.10 Orbit"
+    },
+    {
+     "id": "w03-12",
+     "title": "Traumatic optic neuropathy",
+     "group": "3.11 Optic nerve"
+    },
+    {
+     "id": "w03-13",
+     "title": "Intraorbital foreign body",
+     "group": "3.12–3.15 Open globe & FBs"
+    },
+    {
+     "id": "w03-14",
+     "title": "Corneal laceration: partial vs full thickness",
+     "group": "3.12–3.15 Open globe & FBs"
+    },
+    {
+     "id": "w03-15",
+     "title": "Ruptured globe: what to do",
+     "group": "3.12–3.15 Open globe & FBs"
+    },
+    {
+     "id": "w03-16",
+     "title": "Intraocular foreign body",
+     "group": "3.12–3.15 Open globe & FBs"
+    },
+    {
+     "id": "w03-17",
+     "title": "Fireworks & shrapnel",
+     "group": "3.16–3.21 Other trauma"
+    },
+    {
+     "id": "w03-18",
+     "title": "Commotio, choroidal rupture & sclopetaria",
+     "group": "3.16–3.21 Other trauma"
+    },
+    {
+     "id": "w03-19",
+     "title": "Purtscher retinopathy",
+     "group": "3.16–3.21 Other trauma"
+    },
+    {
+     "id": "w03-20",
+     "title": "Shaken baby syndrome",
+     "group": "3.16–3.21 Other trauma"
+    }
+   ]
   },
   {
    "id": "ch04",
