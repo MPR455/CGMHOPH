@@ -1,0 +1,779 @@
+{
+ "id": "ch04",
+ "num": 4,
+ "title": "Cornea",
+ "chunks": [
+  {
+   "id": "w04-01",
+   "group": "4.1–4.4 Surface",
+   "title": "SPK: read the staining map",
+   "minutes": 4,
+   "tldr": "Pain gone with anaesthetic drop = epithelial problem (but <b>never prescribe anaesthetic</b>). <b>Superior</b>: CL problems, subtarsal FB (linear), <b>floppy lid</b>, SLK, vernal. <b>Interpalpebral</b>: dry eye, neurotrophic, UV. <b>Inferior</b>: blepharitis, exposure, <b>drop toxicity</b>, conjunctivitis, lashes, entropion/ectropion.",
+   "points": [
+    "Other: rubbing, mild chemical, Thygeson (raised, quiet eye).",
+    "Remove soft CL before fluorescein.",
+    "Non-CL small SPK: PF tears q.i.d. ± gel at night. Large: PF tears q2h + antibiotic ointment, ± cycloplegic.",
+    "CL wearer: stop lens; large SPK → <b>fluoroquinolone/tobramycin</b> + ointment at night.",
+    "<b>Never patch CL-related SPK.</b>",
+    "Ask about snoring/sleep apnoea (floppy lid)."
+   ],
+   "table": {
+    "head": [
+     "Location",
+     "Think"
+    ],
+    "rows": [
+     [
+      "Superior",
+      "CL, FB under lid, floppy lid, SLK, VKC"
+     ],
+     [
+      "Middle band",
+      "Dry eye, neurotrophic, UV"
+     ],
+     [
+      "Inferior",
+      "Blepharitis, exposure, drops, lashes"
+     ]
+    ]
+   },
+   "hook": "<b>Top = lid/lens. Middle = dry/UV. Bottom = blink/blepharitis/bottles of drops.</b>",
+   "cards": [
+    {
+     "q": "Superior SPK in a snorer with rubbery lids?",
+     "a": "Floppy eyelid syndrome (associated with obstructive sleep apnoea)."
+    },
+    {
+     "q": "Inferior SPK after weeks of frequent preserved drops?",
+     "a": "Topical drug (preservative) toxicity."
+    }
+   ]
+  },
+  {
+   "id": "w04-02",
+   "group": "4.1–4.4 Surface",
+   "title": "Recurrent corneal erosion",
+   "minutes": 3,
+   "tldr": "Pain <b>on waking</b>, old abrasion or <b>map–dot–fingerprint (EBMD)</b>. Acute: cycloplegic + antibiotic ointment ± <b>5% NaCl</b>, bandage CL if large. Then <b>lubricant/5% NaCl ointment at night for 3–6 months</b>. Refractory: debride, <b>doxycycline 50 mg b.i.d. ± FML</b>, extended bandage CL, <b>stromal puncture</b> (off-axis), <b>diamond burr / PTK (~90%)</b>.",
+   "points": [
+    "Causes: EBMD (commonest), Reis–Bücklers, Thiel–Behnke, Meesmann, stromal dystrophies, band, Salzmann, surgery.",
+    "Signs may vanish within hours — look for negative staining.",
+    "Deep PTK → hyperopic shift.",
+    "Follow 1–2 days till healed, then 1–3 monthly."
+   ],
+   "hook": "<b>Ouch on opening the eyes = erosion.</b> Ointment at bedtime for months.",
+   "cards": [
+    {
+     "q": "Oral drug used for refractory recurrent erosions?",
+     "a": "Doxycycline (MMP inhibitor), 50 mg b.i.d."
+    }
+   ]
+  },
+  {
+   "id": "w04-03",
+   "group": "4.1–4.4 Surface",
+   "title": "Dry eye: diagnosis",
+   "minutes": 4,
+   "tldr": "Tear meniscus &lt;0.5 mm, <b>TBUT &lt;10 s</b>, inferior/interpalpebral staining. <b>Schirmer</b>: unanaesthetised normal ≥15 mm/5 min; <b>anaesthetised ≤5 mm abnormal</b> (≤10 borderline). Types: <b>evaporative</b> (MGD, worse mornings) vs <b>aqueous-deficient</b> (worse evenings). Screen <b>Sjögren</b> if dry mouth.",
+   "points": [
+    "Discomfort often out of proportion to signs.",
+    "Causes: menopause, connective tissue disease (Sjögren, RA, GPA, SLE), scarring (pemphigoid, SJS, trachoma), drugs (antihistamines, anticholinergics, TCAs, beta-blockers, isotretinoin, SSRIs), lacrimal infiltration, radiation, <b>vit A deficiency (bariatric surgery)</b>, after LASIK/PRK/SMILE.",
+    "Repeated focal break-up = surface irregularity, not dry eye.",
+    "Other tests: tear osmolarity, <b>MMP-9</b>, lactoferrin.",
+    "Sjögren → lymphoma risk; multidisciplinary follow-up."
+   ],
+   "hook": "<b>Schirmer with anaesthetic: 5 or less = dry.</b>",
+   "cards": [
+    {
+     "q": "Abnormal anaesthetised Schirmer result?",
+     "a": "≤5 mm wetting in 5 minutes."
+    },
+    {
+     "q": "Dry eye worse in the morning suggests which type?",
+     "a": "Evaporative (meibomian gland dysfunction)."
+    }
+   ]
+  },
+  {
+   "id": "w04-04",
+   "group": "4.1–4.4 Surface",
+   "title": "Dry eye: treatment ladder & filaments",
+   "minutes": 4,
+   "tldr": "<b>Mild</b>: tears q.i.d. <b>Moderate</b>: PF tears q1–2h + night gel, environment, <b>ciclosporin</b> (1–3 months, start with short mild steroid) or <b>lifitegrast</b> (~2 weeks), <b>punctal plugs</b> (treat blepharitis first). <b>Severe</b>: all of these + moisture goggles, acetylcysteine for mucus, serum tears, scleral lens, <b>lateral tarsorrhaphy</b>. <b>Filamentary keratopathy</b>: pull filaments, treat dryness, acetylcysteine 10%.",
+   "points": [
+    "More than q.i.d. drops → must be preservative-free.",
+    "Ciclosporin stings for weeks.",
+    "Lifitegrast: stinging, blur, metallic taste.",
+    "Plugs: collagen (temporary) → silicone; cautery if they keep falling out.",
+    "Oral omega-3/flaxseed optional.",
+    "Filaments also from SLK (superior), erosions, patching, ptosis, neurotrophic.",
+    "Avoid CL and refractive surgery in significant dry eye (daily disposables may be OK)."
+   ],
+   "hook": "<b>Tears → plugs/ciclosporin → goggles → stitch the corner shut.</b>",
+   "cards": [
+    {
+     "q": "How long does topical ciclosporin take to work for dry eye?",
+     "a": "1–3 months."
+    },
+    {
+     "q": "Treatment of filamentary keratitis?",
+     "a": "Remove filaments, treat underlying dryness (PF tears, plugs), acetylcysteine 10%; bandage CL if severe."
+    }
+   ]
+  },
+  {
+   "id": "w04-05",
+   "group": "4.5–4.8 Keratopathies",
+   "title": "Exposure keratopathy",
+   "minutes": 3,
+   "tldr": "Poor closure → <b>inferior or band-shaped staining</b>, worse in morning. Causes: <b>VII palsy</b>, sedation/ICU, lid scarring/ectropion, <b>nocturnal lagophthalmos</b>, proptosis (thyroid), after ptosis/bleph surgery, floppy lid, poor blink. Check <b>Bell's phenomenon</b> and <b>corneal sensation</b>. Rx: PF tears, ointment, taping, amniotic membrane → <b>tarsorrhaphy, gold weight</b>, decompression.",
+   "points": [
+    "All sedated/obtunded patients need prophylactic lubrication.",
+    "Reduced sensation + exposure = high ulcer risk.",
+    "Prokera (ring-mounted amnion) in clinic.",
+    "Severe decompensation → conjunctival flap/amniotic graft."
+   ],
+   "hook": "<b>Can't close + can't feel = cornea in danger.</b>",
+   "cards": [
+    {
+     "q": "Surgical option for exposure from VII nerve palsy?",
+     "a": "Upper lid gold/platinum weight or tarsorrhaphy."
+    }
+   ]
+  },
+  {
+   "id": "w04-06",
+   "group": "4.5–4.8 Keratopathies",
+   "title": "Neurotrophic keratopathy",
+   "minutes": 4,
+   "tldr": "Numb cornea → <b>less pain than expected</b>; non-healing <b>inferior oval defect with rolled grey edges</b> → stromal melt, descemetocele, perforation. Causes: <b>HSV/VZV</b>, surgery (LASIK, PK), <b>V nerve lesions (acoustic neuroma)</b>, diabetes, PRP, topical NSAIDs/anaesthetic abuse, <b>crack cocaine</b>. Rx: PF tears/plugs → antibiotic ointment/bandage CL → <b>cenegermin (NGF) 6×/day × 8 weeks</b>, amnion, <b>tarsorrhaphy</b>, doxycycline + vit C.",
+   "points": [
+    "Test sensation with cotton wisp <b>before</b> anaesthetic.",
+    "Look for zoster scars, VII palsy, absent Bell.",
+    "CT/MRI if CNS lesion suspected.",
+    "Serum/albumin/cord serum drops; scleral lens (PROSE); corneal neurotisation.",
+    "Exposure + neurotrophic rarely heals without tarsorrhaphy.",
+    "Severe ulcers: admit (poor compliance, anaesthetic abuse)."
+   ],
+   "hook": "<b>Big defect, little pain = numb cornea.</b>",
+   "cards": [
+    {
+     "q": "First FDA-approved drug for neurotrophic keratopathy?",
+     "a": "Cenegermin (recombinant human nerve growth factor) 0.002%, six times daily for 8 weeks."
+    },
+    {
+     "q": "Tumour classically causing neurotrophic + exposure keratopathy?",
+     "a": "Acoustic neuroma (V and VII involvement)."
+    }
+   ]
+  },
+  {
+   "id": "w04-07",
+   "group": "4.5–4.8 Keratopathies",
+   "title": "UV keratopathy & Thygeson",
+   "minutes": 3,
+   "tldr": "<b>UV (welder's flash/sunlamp)</b>: bilateral severe pain <b>6–12 h after</b> exposure, dense interpalpebral SPK. Rx: cycloplegic + antibiotic ointment + analgesia. <b>Thygeson SPK</b>: bilateral recurrent <b>raised stellate grey dots</b>, <b>white quiet eye</b>; mild → tears; moderate → <b>short mild steroid</b> (slow taper), ciclosporin/lifitegrast, bandage CL.",
+   "points": [
+    "UV DDx: toxic keratopathy, <b>thermal burn</b> (curling iron — debride, treat as abrasion), chemical (check pH).",
+    "Reliable UV patients can self-check at 24 h.",
+    "Thygeson: treatment guided by symptoms; IOP checks on steroids."
+   ],
+   "hook": "<b>Welded today, screaming tonight.</b> Thygeson = white eye, spotty cornea.",
+   "cards": [
+    {
+     "q": "When do symptoms of UV keratopathy start?",
+     "a": "6–12 hours after exposure."
+    },
+    {
+     "q": "Thygeson SPK lesions look like?",
+     "a": "Coarse, slightly raised stellate grey-white epithelial opacities in a quiet eye."
+    }
+   ]
+  },
+  {
+   "id": "w04-08",
+   "group": "4.9–4.10 Degenerations",
+   "title": "Pterygium & pinguecula",
+   "minutes": 3,
+   "tldr": "<b>Pterygium</b>: wing of fibrovascular tissue onto cornea (usually nasal, 3/9 o'clock), <b>Stocker iron line</b>; <b>pinguecula</b>: yellow bump, stays off the cornea. UV/dust. Rx: sunglasses, tears; inflamed → mild steroid/NSAID. Excise if threatens axis, <b>astigmatism</b>, irritation, CL problems, cosmetic, before cataract/refractive surgery — with <b>conjunctival autograft</b> or amnion (MMC for recurrent).",
+   "points": [
+    "Atypical lesion → biopsy (CIN/OSSN, melanoma).",
+    "Pseudopterygium: after trauma/ulcer/cicatricial disease; probe passes under; underlying thinning.",
+    "DDx: dermoid, peripheral hypertrophic subepithelial degeneration, pannus.",
+    "Measure growth every 3–12 months."
+   ],
+   "hook": "<b>Pterygium flies onto the cornea (wing); pinguecula stays on the shore.</b>",
+   "cards": [
+    {
+     "q": "Technique that lowers pterygium recurrence?",
+     "a": "Excision with conjunctival autograft (or amniotic membrane) ± intraoperative mitomycin C."
+    }
+   ]
+  },
+  {
+   "id": "w04-09",
+   "group": "4.9–4.10 Degenerations",
+   "title": "Band keratopathy",
+   "minutes": 3,
+   "tldr": "<b>Calcium at Bowman's</b>, interpalpebral, clear zone at limbus, <b>Swiss-cheese</b> holes. Common: <b>chronic uveitis (JIA)</b>, IK, oedema, phthisis, glaucoma, <b>silicone oil</b>. Less: <b>hypercalcaemia</b> (hyperparathyroid, renal failure, sarcoid, myeloma, vit D), gout. Unexplained → <b>Ca, PO₄, Mg, albumin, U&E, urate</b>. Rx: lubricants or <b>EDTA chelation</b> (debride, rub 3–4% EDTA 10–60 min).",
+   "points": [
+    "Starts at 3 and 9 o'clock near limbus.",
+    "After EDTA: antibiotic ointment, cycloplegic, bandage CL.",
+    "Residual haze → PTK; can repeat EDTA."
+   ],
+   "hook": "<b>Band = chalk on Bowman's; EDTA dissolves chalk.</b>",
+   "cards": [
+    {
+     "q": "Treatment to remove band keratopathy?",
+     "a": "Epithelial debridement and chelation with disodium EDTA 3–4%."
+    }
+   ]
+  },
+  {
+   "id": "w04-10",
+   "group": "4.11–4.14 Infective keratitis",
+   "title": "Bacterial keratitis: recognise & culture",
+   "minutes": 4,
+   "tldr": "<b>White stromal infiltrate + epithelial defect + thinning</b>; can't see iris through it. Assume bacterial until proven otherwise. Common: <b>Staph, Pseudomonas</b> (soft CL, fast, necrotic, hypopyon), Strep (purulent or <b>crystalline</b> in grafts), <b>Moraxella</b> (inferior, deep, debilitated). <b>Culture if &gt;1–2 mm, in visual axis, not responding, or odd story</b>; culture the CL and case too.",
+   "points": [
+    "Hypopyon without perforation is usually sterile.",
+    "DDx: fungal (plant trauma, feathery, satellites), <b>Acanthamoeba</b> (pain ≫ signs), HSV, atypical mycobacteria (post-LASIK, indolent; keep LJ plates 8 weeks), sterile marginal (staph), CL sterile infiltrates, rust ring, <b>anaesthetic abuse</b> (ring opacity).",
+    "History: sleeping in lenses, water/hot tub, solutions, steroids already given.",
+    "Measure infiltrate, defect, hypopyon every visit.",
+    "IOP with Tono-Pen."
+   ],
+   "hook": "<b>Soft lens + fast ulcer + hypopyon = Pseudomonas.</b>",
+   "cards": [
+    {
+     "q": "When should a corneal infiltrate be cultured?",
+     "a": "If >1–2 mm, central/visual axis, unresponsive to treatment, or atypical history/appearance."
+    },
+    {
+     "q": "Organism typical of crystalline keratopathy in corneal grafts?",
+     "a": "Streptococcus viridans."
+    }
+   ]
+  },
+  {
+   "id": "w04-11",
+   "group": "4.11–4.14 Infective keratitis",
+   "title": "Bacterial keratitis: treatment by risk",
+   "minutes": 4,
+   "tldr": "<b>Low risk</b> (small peripheral, no stain): FQ or polymyxin/trimethoprim q1–2h awake (CL wearer: FQ). <b>Borderline</b> (1–1.5 mm or with defect): FQ <b>q1h round the clock</b> after <b>loading q5min ×5</b>. <b>Vision-threatening</b> (&gt;1.5–2 mm, central, not improving): <b>fortified tobramycin 15 mg/mL + cefazolin 50 mg/mL (or vanco 25) alternating hourly</b>. Cycloplegic; shield, <b>never patch</b>.",
+   "points": [
+    "Moxi/besifloxacin: better gram +; gati/cipro: better Pseudomonas/Serratia.",
+    "Vancomycin: MRSA risk, penicillin/cephalosporin allergy.",
+    "Steroids only after organism known and infection controlled (never early with fungus, atypical mycobacteria, Nocardia).",
+    "Thinning: doxycycline + vit C.",
+    "Oral FQ for scleral extension/perforation risk.",
+    "<b>Gonococcus</b>: IV ceftriaxone (cornea) or 1 g IM (conjunctiva only). <b>Haemophilus</b>: oral co-amoxiclav.",
+    "Admit: sight-threatening, can't do drops, anaesthetic abuse, IV antibiotics.",
+    "Atypical mycobacteria: FQ/amikacin/clarithromycin for weeks + oral clarithromycin.",
+    "Response: <b>less pain first</b>; never taper below q.i.d.; reculture if worse; biopsy if negative; glue/graft for perforation."
+   ],
+   "hook": "<b>Big or central → fortified tobra + cefazolin, hourly, day and night.</b>",
+   "cards": [
+    {
+     "q": "Fortified antibiotic regimen for a severe bacterial ulcer?",
+     "a": "Fortified tobramycin (15 mg/mL) alternating with fortified cefazolin (50 mg/mL) or vancomycin (25 mg/mL), each q1h around the clock."
+    },
+    {
+     "q": "Earliest sign that a bacterial ulcer is responding?",
+     "a": "Reduced pain."
+    }
+   ]
+  },
+  {
+   "id": "w04-12",
+   "group": "4.11–4.14 Infective keratitis",
+   "title": "Fungal keratitis",
+   "minutes": 4,
+   "tldr": "<b>Filamentous</b> (Fusarium, Aspergillus): <b>plant trauma or CL</b>, <b>feathery edges, satellites</b>, raised epithelium. <b>Yeast (Candida)</b>: sick/steroid-treated eyes, looks bacterial. Stains: Gram, Giemsa, <b>KOH, calcofluor</b>. Rx: <b>natamycin 5%</b> (filamentous), <b>amphotericin 0.15%</b> (Candida), voriconazole 1% q1–2h; <b>stop steroids</b>; ± oral azole; debride; intrastromal injections; <b>therapeutic PK</b> before it reaches limbus.",
+   "points": [
+    "Natamycin is the only commercial topical antifungal; others compounded.",
+    "Antifungals penetrate poorly through intact epithelium.",
+    "Infiltrate often extends beyond epithelial defect.",
+    "Response slow; stability is good news; epithelial healing ≠ cure.",
+    "Lamellar keratoplasty contraindicated (recurrence); intracameral antifungal at PK."
+   ],
+   "hook": "<b>Branch in the eye → fungus with feathers.</b>",
+   "cards": [
+    {
+     "q": "First-line topical agent for filamentous fungal keratitis?",
+     "a": "Natamycin 5%."
+    },
+    {
+     "q": "Clinical clues to filamentous fungal keratitis?",
+     "a": "Vegetable trauma, feathery infiltrate margins, satellite lesions, raised epithelium, slow course."
+    }
+   ]
+  },
+  {
+   "id": "w04-13",
+   "group": "4.11–4.14 Infective keratitis",
+   "title": "Acanthamoeba keratitis",
+   "minutes": 4,
+   "tldr": "Soft CL + <b>tap water/swimming/hot tub</b>. <b>Pain far worse than signs</b>. Early: pseudodendrites, epithelial ridges, <b>radial keratoneuritis</b>. Late (3–8 weeks): <b>ring infiltrate</b>. Mimics HSV — any 'HSV' in a CL wearer that won't heal → think Acanthamoeba. Rx: <b>PHMB 0.02% or chlorhexidine 0.02% + propamidine</b> hourly, ± oral azole, <b>miltefosine</b> 50 mg b.i.d./t.i.d. × 4 weeks; months of treatment.",
+   "points": [
+    "Tests: scrapings (Giemsa/PAS cysts, calcofluor), non-nutrient agar with E. coli overlay, biopsy, <b>confocal microscopy</b>.",
+    "Miltefosine: check U&amp;E, LFT, pregnancy test; rebound inflammation after stopping.",
+    "Stop CL in both eyes; cycloplegic; oral NSAIDs/opioids for pain.",
+    "Continue ~3 months after inflammation settles (often 6–12 months total).",
+    "PK only after 6–12 months quiet (recurrence)."
+   ],
+   "hook": "<b>Contact lens + tap water + agony + ring = Acanthamoeba.</b>",
+   "cards": [
+    {
+     "q": "Classic early sign of Acanthamoeba keratitis?",
+     "a": "Radial keratoneuritis (infiltrates along corneal nerves) with pseudodendrites."
+    },
+    {
+     "q": "Main topical treatments for Acanthamoeba?",
+     "a": "PHMB 0.02% or chlorhexidine 0.02%, plus propamidine 0.1%."
+    }
+   ]
+  },
+  {
+   "id": "w04-14",
+   "group": "4.11–4.14 Infective keratitis",
+   "title": "Crystalline keratopathy",
+   "minutes": 3,
+   "tldr": "<b>Infectious</b>: in grafts/steroid-treated corneas, along sutures — <b>Strep viridans</b> (also CoNS, Corynebacterium, fungi, atypical mycobacteria post-refractive). <b>Schnyder</b> (AD, cholesterol crystals, arcus, check lipids). <b>Bietti</b> (limbal + retinal crystals). <b>Cystinosis</b> (kids, renal failure → <b>cysteamine drops</b>). <b>Paraproteinaemia</b> (myeloma, MGUS → SPEP).",
+   "points": [
+    "Infectious: culture incl. AFB; taper steroid rather than stopping abruptly.",
+    "Schnyder: PTK or graft; treat dyslipidaemia; Swede–Finn.",
+    "Cystinosis infantile form fatal without renal transplant."
+   ],
+   "hook": "<b>Crystals in a graft = Strep viridans.</b>",
+   "cards": [
+    {
+     "q": "Systemic disease with corneal crystals treated with cysteamine drops?",
+     "a": "Cystinosis."
+    }
+   ]
+  },
+  {
+   "id": "w04-15",
+   "group": "4.15–4.17 Viral & IK",
+   "title": "HSV: the forms",
+   "minutes": 4,
+   "tldr": "Lid vesicles (cross dermatomes, both lids), follicular conjunctivitis, <b>epithelial dendrite (true terminal bulbs, fluorescein-staining)</b> / geographic ulcer = <b>live virus</b>. <b>Stromal (immune)</b>: non-necrotising haze or necrotising ulcer. <b>Endothelial (disciform)</b>: round oedema + KPs. Also neurotrophic ulcer, <b>uveitis with high IOP + patchy TIDs</b>.",
+   "points": [
+    "Triggers: surgery, fever, stress, menses, URTI, UV, some drops (prostaglandins).",
+    "Kids: more severe, bilateral, recurrent.",
+    "Dendrite mimics: <b>VZV pseudodendrites</b> (raised, no bulbs), healing abrasion, <b>Acanthamoeba</b>, verticillata, tyrosinaemia.",
+    "Check corneal sensation before anaesthetic.",
+    "Dilate: rule out retinitis (ARN).",
+    "Diagnosis clinical; PCR if unsure; negative HSV-1 antibody helps exclude."
+   ],
+   "hook": "<b>Dendrite with bulbs = HSV. Raised squiggle without bulbs = zoster.</b>",
+   "cards": [
+    {
+     "q": "How does a VZV pseudodendrite differ from an HSV dendrite?",
+     "a": "Raised mucous plaque without central ulceration or terminal bulbs; stains poorly with fluorescein."
+    },
+    {
+     "q": "Herpetic anterior uveitis clue?",
+     "a": "Raised IOP (trabeculitis) with patchy iris transillumination defects."
+    }
+   ]
+  },
+  {
+   "id": "w04-16",
+   "group": "4.15–4.17 Viral & IK",
+   "title": "HSV: treatment by layer",
+   "minutes": 4,
+   "tldr": "<b>Epithelial</b>: oral acyclovir 400 mg 5×/day (or valacyclovir 500 mg b.i.d./t.i.d.) 7–10 days, or <b>ganciclovir gel 5×/day</b>; <b>no steroids</b>; debridement helps. <b>Stromal, no ulcer</b>: <b>pred acetate 1% 6–8×/day + prophylactic oral antiviral</b>, taper over months. <b>Stromal with ulcer</b>: low steroid + <b>therapeutic</b> oral antiviral. <b>Endothelial</b>: therapeutic steroid + therapeutic antiviral.",
+   "points": [
+    "Geographic: higher oral doses for 14–21 days.",
+    "Topical antivirals max 14–21 days (toxicity). Ganciclovir/acyclovir ointment less toxic than trifluridine.",
+    "Non-healing after 1–2 weeks: bacterial, Acanthamoeba, toxicity, non-compliance.",
+    "Lids/conjunctivitis: self-limited; antivirals shorten.",
+    "IOP: aqueous suppressants; <b>avoid prostaglandins</b>.",
+    "Recurrent disease: <b>acyclovir 400 mg b.i.d. long term</b> (HEDS).",
+    "Adjust for renal function; valacyclovir caution in HIV (TTP/HUS).",
+    "Graft for scars after 3–6 months quiet; antiviral ≥1 year after."
+   ],
+   "hook": "<b>Epithelium = kill the virus. Stroma = calm the immune system (steroid + antiviral cover).</b>",
+   "cards": [
+    {
+     "q": "Treatment of HSV stromal keratitis without ulceration?",
+     "a": "Topical steroid (e.g., pred acetate 1%) with slow taper plus prophylactic oral antiviral."
+    },
+    {
+     "q": "Long-term prophylaxis dose after recurrent HSV keratitis?",
+     "a": "Acyclovir 400 mg twice daily."
+    }
+   ]
+  },
+  {
+   "id": "w04-17",
+   "group": "4.15–4.17 Viral & IK",
+   "title": "Herpes zoster ophthalmicus",
+   "minutes": 4,
+   "tldr": "V1 rash that <b>respects the midline</b>, spares lower lid; <b>Hutchinson sign</b> (nose tip) → eye likely involved. Start <b>oral antiviral within ~4 days</b> of active rash: <b>acyclovir 800 mg 5×/day</b> / valacyclovir 1 g t.i.d. / famciclovir 500 mg t.i.d. × 7–10 days (all eye cases). IV acyclovir if orbit/nerve/retina involved or very sick/immunocompromised.",
+   "points": [
+    "Eye: conjunctivitis, <b>pseudodendrites</b> (mucous plaques), SPK, immune stromal keratitis, neurotrophic, uveitis with <b>sectoral iris atrophy</b> and high IOP, scleritis, retinitis (ARN/PORN), optic neuritis, palsies.",
+    "Corneal disease can come weeks–months–years later.",
+    "Stromal/uveitis: pred acetate, taper over months–years; avoid prostaglandins.",
+    "Retinitis/optic neuritis/palsy: IV acyclovir 10 mg/kg q8h + oral pred; check for CNS vasculitis/stroke.",
+    "No systemic steroids if immunocompromised.",
+    "Pain: gabapentin/pregabalin, amitriptyline, capsaicin (not near eye).",
+    "Contagious to varicella-naïve people (pregnant women!). Shingles vaccine ≥50.",
+    "Ask about Ramsay Hunt (VII, hearing). Follow 3–6 monthly long term.",
+    "<b>Chickenpox</b>: limbal vesicles; late stromal/neurotrophic keratitis 4–6 weeks later; <b>no aspirin in kids</b>."
+   ],
+   "hook": "<b>Nose tip spots = eye at risk (Hutchinson).</b>",
+   "cards": [
+    {
+     "q": "What is Hutchinson's sign?",
+     "a": "Zoster vesicles on the tip/side of the nose (nasociliary branch) predicting ocular involvement."
+    },
+    {
+     "q": "Oral acyclovir dose for HZO?",
+     "a": "800 mg five times daily for 7–10 days."
+    }
+   ]
+  },
+  {
+   "id": "w04-18",
+   "group": "4.15–4.17 Viral & IK",
+   "title": "Interstitial keratitis",
+   "minutes": 3,
+   "tldr": "Non-ulcerating stromal inflammation with <b>deep vessels</b> → later <b>ghost vessels</b> + scars. Causes: <b>HSV (commonest)</b>, VZV, <b>congenital syphilis</b> (bilateral, teens), acquired syphilis, <b>TB</b> (unilateral, sectoral), EBV, Lyme, leprosy, <b>Cogan</b> (IK + vertigo + deafness, negative syphilis). Ix: <b>FTA-ABS/TPPA + RPR</b>, IGRA, CXR. Rx: cycloplegic + steroid; treat cause.",
+   "points": [
+    "Congenital syphilis stigmata: saddle nose, Hutchinson teeth, frontal bossing, salt-and-pepper fundus.",
+    "Leprosy: beaded corneal nerves, lost eyebrows, iris pearls.",
+    "Cogan → ENT + rheumatology (vasculitis/PAN).",
+    "Old scars: RGP/scleral lens or graft."
+   ],
+   "hook": "<b>Ghost vessels = old IK; think syphilis, then HSV.</b>",
+   "cards": [
+    {
+     "q": "IK with vertigo, tinnitus and hearing loss but negative syphilis tests?",
+     "a": "Cogan syndrome."
+    }
+   ]
+  },
+  {
+   "id": "w04-19",
+   "group": "4.18–4.21 Immune & lens",
+   "title": "Staph marginal keratitis & phlyctenules",
+   "minutes": 3,
+   "tldr": "<b>Staph hypersensitivity</b>: peripheral infiltrates with a <b>clear zone at the limbus</b>, sectoral redness, little pain/AC reaction, blepharitis/rosacea. Rx: lid hygiene + antibiotic; moderate → <b>steroid with antibiotic cover</b>; recurrent → doxycycline (erythromycin in kids &lt;8). <b>Phlyctenule</b>: white limbal nodule with vessels, can creep onto cornea; kids; staph (rarely <b>TB</b> → IGRA).",
+   "points": [
+    "Infectious infiltrates: round, painful, AC reaction, not multiple/recurrent.",
+    "Type IV hypersensitivity to staph antigens.",
+    "Doxycycline 100 mg b.i.d. 2 weeks → daily; not in pregnancy/breastfeeding/&lt;8 yrs.",
+    "Topical azithromycin/ciclosporin help lid inflammation.",
+    "Phlyctenule heals 10–14 days with scar; ciclosporin as steroid sparer."
+   ],
+   "hook": "<b>Clear gap at the limbus = staph immune reaction, not infection.</b>",
+   "cards": [
+    {
+     "q": "Key feature distinguishing staph marginal infiltrate from infection?",
+     "a": "Clear zone between infiltrate and limbus, multiple/recurrent, minimal pain and AC reaction."
+    }
+   ]
+  },
+  {
+   "id": "w04-20",
+   "group": "4.18–4.21 Immune & lens",
+   "title": "Contact lens problems",
+   "minutes": 4,
+   "tldr": "Any CL wearer with pain/red eye: <b>lens out, rule out ulcer</b>; <b>never patch</b>. Others: solution toxicity, deposits, <b>tight lens</b> (no movement, imprint, may get sterile hypopyon), <b>CLARE</b>, PMMA <b>warpage</b> (spectacle blur), neovascularisation, <b>limbal stem cell deficiency</b> (whorl staining at limbus), pseudo-SLK, lost lens in superior fornix.",
+   "points": [
+    "Infiltrate &gt;1 mm, central or odd → culture.",
+    "Small infiltrates/SPK: FQ drops + cycloplegic.",
+    "Toxicity: stop, PF tears, return in daily disposables or peroxide system.",
+    "Tight lens/CLARE: refit flatter, more oxygen-permeable, no extended wear.",
+    "Warpage: off lenses 2–6 weeks until refraction stable, then RGP.",
+    "LSCD: stop CL, PF lubricants, plugs, short steroid, serum drops, stem cell surgery.",
+    "Care: no sleeping in lenses; PF cleaner/saline; hydrogen peroxide disinfection; weekly enzyme if not disposable."
+   ],
+   "hook": "<b>CL + pain = lens out + look for an ulcer.</b>",
+   "cards": [
+    {
+     "q": "Signs of tight lens syndrome?",
+     "a": "No lens movement, 'sucked-on' lens, conjunctival imprint, central corneal oedema, AC reaction ± sterile hypopyon."
+    },
+    {
+     "q": "Early sign of contact lens–related limbal stem cell deficiency?",
+     "a": "Whorl-like punctate staining near the (superior) limbus."
+    }
+   ]
+  },
+  {
+   "id": "w04-21",
+   "group": "4.18–4.21 Immune & lens",
+   "title": "Giant papillary conjunctivitis",
+   "minutes": 2,
+   "tldr": "Itch, mucus, lens riding high; <b>papillae ≥1 mm on upper tarsus</b> (evert every CL wearer!). Mild: <b>new lenses (daily disposable)</b>, less wear, better cleaning. Severe: stop CL 1–4 months, <b>mast cell stabiliser/antihistamine</b>, brief mild steroid (no CL meanwhile). Also from <b>exposed sutures</b> and <b>prostheses</b>.",
+   "points": [
+    "DDx: vernal (young, seasonal, Trantas dots, shield ulcer), atopic (dermatitis, lower lid too).",
+    "Ciclosporin/lifitegrast if long-term needed.",
+    "Symptoms improve before papillae shrink."
+   ],
+   "hook": "<b>Flip the lid of every lens wearer.</b>",
+   "cards": [
+    {
+     "q": "Non-contact-lens causes of GPC?",
+     "a": "Exposed sutures and ocular prostheses."
+    }
+   ]
+  },
+  {
+   "id": "w04-22",
+   "group": "4.22–4.24 Thinning & ectasia",
+   "title": "Peripheral corneal thinning: the list",
+   "minutes": 4,
+   "tldr": "<b>PUK</b> (painful, with scleritis; <b>RA, GPA</b>, polychondritis, PAN, SLE — may be first sign). <b>Mooren</b> (painful, no scleritis, undermined edge; ?hep C). <b>Terrien</b> (painless, superior, men, lipid line, against-the-rule astigmatism). <b>Pellucid</b> (painless, inferior 4–8 o'clock, bulge above). <b>Furrow</b> (behind arcus, harmless). Plus delle, staph, dry eye melt, exposure/neurotrophic, rosacea.",
+   "points": [
+    "Treat as infectious until cultures negative.",
+    "Workup: ESR, FBC, RF, ANA, <b>ANCA</b>, ACE, CXR; scleritis workup; fundus for CWS/posterior scleritis.",
+    "Check corneal sensation, Schirmer, lids, papillae.",
+    "Inflammatory bowel disease, old HSV/VZV, leukaemia rare causes."
+   ],
+   "table": {
+    "head": [
+     "Condition",
+     "Pain/inflam",
+     "Where"
+    ],
+    "rows": [
+     [
+      "PUK",
+      "Yes, ± scleritis",
+      "Anywhere peripheral"
+     ],
+     [
+      "Mooren",
+      "Yes, no scleritis",
+      "Nasal/temporal, spreads"
+     ],
+     [
+      "Terrien",
+      "No",
+      "Superior, lipid line"
+     ],
+     [
+      "Pellucid",
+      "No",
+      "Inferior 4–8 o'clock"
+     ],
+     [
+      "Furrow",
+      "No",
+      "Behind arcus"
+     ]
+    ]
+   },
+   "hook": "<b>Painful + scleritis = PUK → find the vasculitis (GPA).</b>",
+   "cards": [
+    {
+     "q": "Mooren ulcer vs PUK?",
+     "a": "Mooren: idiopathic, painful, undermined edge, sclera spared. PUK: systemic disease (RA, GPA), sclera often involved."
+    },
+    {
+     "q": "Painless superior peripheral thinning with a lipid line in a man?",
+     "a": "Terrien marginal degeneration."
+    }
+   ]
+  },
+  {
+   "id": "w04-23",
+   "group": "4.22–4.24 Thinning & ectasia",
+   "title": "PUK treatment",
+   "minutes": 3,
+   "tldr": "Co-manage with rheumatology. Lubricating/antibiotic ointment q2h, cycloplegic, <b>doxycycline + vit C</b>, <b>oral prednisone 60–100 mg</b> (+ gut protection) for progressive thinning, then <b>steroid-sparing immunosuppression</b> (methotrexate, cyclophosphamide/rituximab for GPA). Perforation: <b>glue</b>, patch graft. Avoid topical steroids that thin further.",
+   "points": [
+    "Systemic steroids not used once perforated (glue/graft instead).",
+    "PUK signals active, possibly life-threatening vasculitis."
+   ],
+   "hook": "<b>PUK is a systemic emergency wearing an eye costume.</b>",
+   "cards": [
+    {
+     "q": "Why is PUK in RA/GPA urgent systemically?",
+     "a": "It indicates active systemic vasculitis with high mortality if untreated; needs systemic immunosuppression."
+    }
+   ]
+  },
+  {
+   "id": "w04-24",
+   "group": "4.22–4.24 Thinning & ectasia",
+   "title": "Delle",
+   "minutes": 2,
+   "tldr": "Oval limbal thinning <b>next to a bump</b> (chemosis, bleb, pterygium, tumour, after squint surgery) that stops tears spreading → stroma dries. Fluorescein <b>pools</b>; no infiltrate. Rx: <b>ointment q2–4h</b> ± short patch; remove the bump if possible. Thickness normal again in days.",
+   "points": [
+    "Can't remove cause (e.g., bleb): night ointment + viscous tears."
+   ],
+   "hook": "<b>Bump beside it, dip in the cornea = delle.</b>",
+   "cards": [
+    {
+     "q": "Mechanism of a corneal delle?",
+     "a": "Adjacent elevation disrupts tear spread → localised stromal dehydration and thinning."
+    }
+   ]
+  },
+  {
+   "id": "w04-25",
+   "group": "4.22–4.24 Thinning & ectasia",
+   "title": "Keratoconus",
+   "minutes": 4,
+   "tldr": "Teen-onset <b>inferior paracentral thinning + bulge</b> → irregular astigmatism, <b>scissor reflex</b>, egg-shaped mires, <b>Vogt striae, Fleischer ring, Munson sign</b>. Links: <b>eye rubbing, atopy, Down, floppy lid/sleep apnoea</b>, LCA, Marfan. Rx: <b>stop rubbing</b>, glasses → <b>RGP/scleral</b>, <b>cross-linking</b> for progression (≥14 yrs), ring segments, DALK/PK.",
+   "points": [
+    "Topography: inferior steepening; tomography: posterior elevation, thinnest point displaced inferiorly.",
+    "DDx: pellucid (inferior band 4–8 o'clock, bulge above, against-the-rule), <b>keratoglobus</b> (whole cornea thin, Ehlers–Danlos, blue sclera), post-LASIK/SMILE ectasia.",
+    "CXL (epi-off): riboflavin 30 min + UVA 30 min.",
+    "<b>Acute hydrops</b> (Descemet break): pain, oedema; settles ~3 months — cycloplegic, brimonidine, <b>5% NaCl</b>, steroid; intracameral gas speeds it; <b>not an emergency graft</b>."
+   ],
+   "hook": "<b>Rubbing makes the cone; cross-linking freezes it.</b>",
+   "cards": [
+    {
+     "q": "Name three slit-lamp signs of keratoconus.",
+     "a": "Vogt striae, Fleischer ring, apical thinning/scarring (also Munson sign externally)."
+    },
+    {
+     "q": "Treatment to halt progression of keratoconus?",
+     "a": "Corneal collagen cross-linking (riboflavin + UVA)."
+    }
+   ]
+  },
+  {
+   "id": "w04-26",
+   "group": "4.25–4.28 Dystrophies & grafts",
+   "title": "Anterior & stromal dystrophies",
+   "minutes": 4,
+   "tldr": "Mostly <b>AD</b> except <b>macular, lattice type 3, CHED (AR)</b>. <b>EBMD</b> (map–dot–fingerprint): erosions. <b>Meesmann</b>: tiny epithelial vesicles. <b>Reis–Bücklers/Thiel–Behnke</b>: reticular Bowman opacities, erosions. <b>Lattice</b>: branching lines (type 2 = <b>Meretoja</b> systemic amyloid). <b>Granular</b>: breadcrumbs with clear gaps. <b>Macular</b>: hazy to limbus, cloudy between. <b>Schnyder</b>: crystals + arcus.",
+   "points": [
+    "Lattice, granular, Reis–Bücklers, Avellino = <b>TGFBI</b> family.",
+    "Lattice & granular recur in grafts/after PTK within ~5 years.",
+    "Macular: thin flat cornea, vision loss more than erosions; recurs late.",
+    "Granular II (Avellino) = granular + lattice amyloid.",
+    "Treatment: PTK or lamellar/penetrating graft."
+   ],
+   "table": {
+    "head": [
+     "Dystrophy",
+     "Look",
+     "Clue"
+    ],
+    "rows": [
+     [
+      "Granular",
+      "Breadcrumbs, clear spaces",
+      "Hyaline"
+     ],
+     [
+      "Lattice",
+      "Branching lines",
+      "Amyloid"
+     ],
+     [
+      "Macular",
+      "Hazy, limbus to limbus",
+      "GAG, AR"
+     ]
+    ]
+   },
+   "hook": "<b>Marilyn Monroe Always Gets Her Lovers in LA</b>: Macular–Mucopolysaccharide–Alcian blue; Granular–Hyaline; Lattice–Amyloid.",
+   "cards": [
+    {
+     "q": "Which stromal dystrophy is autosomal recessive with opacities reaching the limbus?",
+     "a": "Macular dystrophy."
+    },
+    {
+     "q": "Lattice dystrophy type 2 is associated with?",
+     "a": "Meretoja syndrome – systemic amyloidosis with facial and cranial nerve palsies."
+    }
+   ]
+  },
+  {
+   "id": "w04-27",
+   "group": "4.25–4.28 Dystrophies & grafts",
+   "title": "Fuchs & other endothelial problems",
+   "minutes": 4,
+   "tldr": "<b>Fuchs</b>: 50s–60s, <b>guttae</b> → stromal then epithelial oedema; <b>blur worse on waking</b>. Rx: <b>5% NaCl</b>, hair-dryer trick, lower IOP, treat ruptured bullae; <b>DMEK/DSEK</b> when vision falls (DSO in mild). <b>PPCD</b>: vesicles/bands, iris adhesions, glaucoma. <b>CHED</b>: oedema at birth, normal size/IOP, nystagmus. <b>ICE</b>: unilateral, beaten-metal endothelium, PAS, corectopia.",
+   "points": [
+    "Endothelial dystrophy = guttae without oedema (may progress).",
+    "Pachymetry, specular microscopy, tomography.",
+    "<b>Pseudophakic bullous keratopathy</b>: endothelial damage, vitreous/IOL/tube touch, inflammation; check CME; avoid prostaglandins/adrenergics; EK ± IOL exchange; painful blind eye → PTK, flap, amnion."
+   ],
+   "hook": "<b>Fuchs: foggy at dawn, clearer by noon.</b>",
+   "cards": [
+    {
+     "q": "Why is Fuchs blur worse in the morning?",
+     "a": "Corneal oedema accumulates overnight with lids closed (no evaporation)."
+    },
+    {
+     "q": "Preferred surgery for visually significant Fuchs?",
+     "a": "Endothelial keratoplasty (DMEK or DSEK)."
+    }
+   ]
+  },
+  {
+   "id": "w04-28",
+   "group": "4.25–4.28 Dystrophies & grafts",
+   "title": "Corneal graft rejection",
+   "minutes": 3,
+   "tldr": "Months–years after PK: red, photophobic, blurry. <b>KPs on donor only, Khodadoust line</b>, oedema, <b>Krachmer spots</b> (subepithelial), epithelial rejection line. Rx endothelial rejection: <b>pred acetate 1% hourly</b> (or difluprednate) ± oral/IV steroid, cycloplegic, IOP control, topical ciclosporin. Epithelial/stromal: double steroids.",
+   "points": [
+    "DDx: suture abscess/infection (remove suture, culture), uveitis (KPs on host too), <b>epithelial downgrowth</b> (doesn't respond to steroid), high IOP oedema, late failure, recurrent HSV/dystrophy.",
+    "HSV history → add antiviral.",
+    "Treat immediately; taper very slowly, maintain low dose."
+   ],
+   "hook": "<b>Line of KPs marching across the graft = Khodadoust = rejection.</b>",
+   "cards": [
+    {
+     "q": "What is a Khodadoust line?",
+     "a": "Endothelial rejection line of keratic precipitates on a corneal graft."
+    }
+   ]
+  },
+  {
+   "id": "w04-29",
+   "group": "4.29 Refractive surgery",
+   "title": "Refractive surgery types",
+   "minutes": 3,
+   "tldr": "<b>Surface (PRK, LASEK, epi-LASIK)</b>: no flap; good for thin corneas/epithelial disease; more pain, slower, <b>haze</b>. <b>LASIK</b>: flap (microkeratome/femtosecond) + excimer; fast, comfortable; flap problems. <b>SMILE</b>: femto lenticule out through small incision; myopia only; no flap; maybe less dry eye.",
+   "points": [
+    "Excimer = argon-fluoride 193 nm UV.",
+    "Ranges: PRK −8 to +3; LASIK −10 to +3; SMILE −10 to −1; cylinder ≤3 D.",
+    "After refractive surgery IOP reads <b>falsely low</b> (thin cornea)."
+   ],
+   "hook": "<b>PRK peels; LASIK lifts a lid; SMILE pulls a lens out through a keyhole.</b>",
+   "cards": [
+    {
+     "q": "Main drawback of PRK vs LASIK?",
+     "a": "More pain, slower recovery and higher risk of subepithelial haze."
+    }
+   ]
+  },
+  {
+   "id": "w04-30",
+   "group": "4.29 Refractive surgery",
+   "title": "Surface ablation & LASIK complications",
+   "minutes": 4,
+   "tldr": "PRK early: bandage CL issues, non-healing defect (HSV?), ulcer, drop allergy; late: <b>haze</b> (↑steroid, PTK + MMC), under/over-correction, <b>steroid IOP rise</b>. LASIK early: <b>dry eye (commonest)</b>, flap folds (<b>refloat within 24 h</b>), dislocation (urgent), <b>DLK ('sands of Sahara', day 1–5 → hourly steroid ± lift & wash)</b>, infection, CTK. Late: <b>epithelial ingrowth</b>, ectasia (CXL), <b>PISK</b>.",
+   "points": [
+    "<b>PISK</b>: steroid-induced high IOP → interface fluid looks like DLK; central IOP falsely low → measure peripherally; <b>stop steroids, lower IOP</b>.",
+    "DLK can appear years later after abrasion/erosion.",
+    "CTK: central opacity + flattening; improves over 6–12 months.",
+    "Ingrowth: watch if peripheral; debride if dense/threatens flap/vision; YAG for pockets.",
+    "Infection: lift flap for cultures; atypical mycobacteria.",
+    "Flap sensation reduced 3–12 months."
+   ],
+   "hook": "<b>DLK gets more steroid; PISK gets less.</b>",
+   "cards": [
+    {
+     "q": "Diffuse lamellar keratitis treatment?",
+     "a": "Intensive topical steroids (pred acetate 1% hourly) ± lifting and irrigating the flap if severe."
+    },
+    {
+     "q": "How does PISK differ from DLK in management?",
+     "a": "PISK is steroid-induced high IOP: lower IOP and taper steroids (opposite of DLK)."
+    }
+   ]
+  }
+ ]
+}
