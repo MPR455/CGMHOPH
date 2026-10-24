@@ -1,0 +1,20 @@
+#denychips .chip.on{background:var(--acc);color:#fff;border-color:var(--acc);font-weight:600}
+#denychips .chip.on::before{content:'✓ ';font-weight:700}
+body.theme-black #denychips .chip.on{background:#ffd21f;color:#000;border-color:#fff;box-shadow:0 0 0 1px #ffd21f}
+body.theme-dark #denychips .chip.on{background:#4db1ea;color:#06101a;border-color:#a6e0ff}
+.chip:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.consult-group-title{font-size:12px;font-weight:700;color:var(--sub);margin:10px 0 4px}
+.consult-context{white-space:pre-wrap;overflow-wrap:anywhere;line-height:1.5}
+.consult-inline{display:flex;align-items:center;gap:6px}
+#quick-search,#med-search{width:100%;padding:6px 8px;background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:6px}
+button.bankitem{display:block;width:100%;font:inherit;text-align:left;background:transparent;color:var(--ink);border:0;border-bottom:1px solid var(--line);cursor:pointer}
+button.bankitem.sel{background:var(--chip);font-weight:600}
+button.bankitem:hover{background:var(--chip)}
+#med-insert:disabled{opacity:.5;cursor:default}
+#v-source{align-self:center;color:var(--acc)}
+#quicktpl .chip[aria-pressed="true"]{background:var(--acc);color:#fff;border-color:var(--acc)}
+body.theme-black #quicktpl .chip[aria-pressed="true"]{background:#ffd21f;color:#000;border-color:#ffd21f}
+.quick-options{border-top:1px solid var(--line);margin-top:12px;padding-top:10px}
+.quick-options[hidden],#quick-variant-field[hidden]{display:none}
+#quick-current{display:block;margin-bottom:6px}
+#quick-variant{width:100%;margin-bottom:8px}

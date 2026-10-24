@@ -1,0 +1,22 @@
+window.CGMHConsult.register({
+  "id": "LEG-084 | Vitreous degeneration / PVD",
+  "category": "Retina / Vitreous",
+  "sourceId": "LEG-084",
+  "source": "Original bank",
+  "diagnosis": "Vitreous degeneration / PVD",
+  "scenario": "pvd",
+  "severity": "Severity not specified",
+  "symptoms": [],
+  "findings": [],
+  "reply": "Impression:\n1. Vitreous degeneration OU\n\nPlan:\n- Educate the patient and family to continue monitor symptoms and educated them on the importance of red flag signs (decreased visual acuity, limited eye motion, headache, increasing eye pain or discharge, etc.)\n- Educate the patient to notice 4 signs of RD (floaters, VA change, visual field change, lightening) if applicable\n- OPH f/u if any of the aforementioend signs occurs, and have routine eye exam regularly\n\n= return to ER or OPD earlier if symptoms worsen or other symptoms or sign noted\n= **patient ask follow up at LMD, we suggest follow up in 3 days",
+  "s": "CC @ ER:  flashing light, OU, onset/duration: since ### ###, persisted 30 mins\nPI @ ER: \nOphthalmic symptoms: \nDetail:The patient presented with flashing light, OU. Denied blurry vision, ocular pain, VF defect, photopsia, increasing floaters, diplopia, discharge. \nNon-ophthalmic symptoms: headache\nOPH OP hx :  No  \nOther related eye disease hx: Myopia, OU, -2.5D \nContact lens : No  \nPH/Systemic disease: denied \nAllergy: denied",
+  "o": "###Ophthalmic Examinations###\nVisual acuity        [OD]   1.0     [OS]  1.0  \nIOP                  [OD]   11      [OS]  12     (measured with  tonopen)\nLR                   [OD]   prompt          [OS]   prompt\nPupil                [OU] round isocoric         \nRAPD                 [OD]  NEG           [OS] NEG\nPosition             [OU]  Ortho\nLid/periocular skin  [OD] np             [OS]np \nCornea               [OD]  Clear /normal [OS] Clear /normal  \nConj. (& sclera)     [OD]  quiet /normal [OS] quiet /normal     \nIris                 [OD]   normal       [OS]   normal   \nAC                   [OD]   D/C          [OS]   D/C\nLens                 [OD]   clear        [OS]   clear     \nFundoscopy       \n[OD]  disc pinkish with intact rim  ,C/D 0.3*0.3; macula np  ; retina & vitreous (Dilated) no break or detachment\n[OS]  disc pinkish with intact rim  ,C/D 0.3*0.3; macula np  ; retina & vitreous (Dilated) no break or detachment",
+  "p": "醫      囑      名      稱    數量 檢體\nSLIT LAMP EXAM                    1",
+  "addendum": "",
+  "medicationOrders": [],
+  "medicationMentions": [],
+  "reviewFlags": [],
+  "sourceFile": "original_notes/01_retina_vitreous/LEG-084__vitreous-degeneration-pvd.txt",
+  "originalTitle": "Vitreous degeneration 5",
+  "duplicateOf": null
+});

@@ -1,0 +1,25 @@
+window.CGMHConsult.register({
+  "id": "ER-139 | Subjective visual disturbance / Pain",
+  "category": "Neuro-ophthalmology",
+  "sourceId": "ER-139",
+  "source": "ER notes",
+  "diagnosis": "Subjective visual disturbance / Pain",
+  "scenario": "visual-disturbance",
+  "severity": "Severity not specified",
+  "symptoms": [],
+  "findings": [],
+  "reply": "Impression:\n1. Decreased color vision, suspect recurrent bilateral optic neuritis, OS>OD\n2. History of bilateral lower leg numbness sensation without weakness, suspect T1-T3 myelitis\n3. History of ocular blunt injury OS, complicated with commotio retinae, resolved\n\nPlan:\n-  Please arrange brain MRI with contrast(需T2 FSE & T1 FSE with contrast) and consult neurology in relation to patient's neurologic condition, Call us after the scan is performed with images available.\n-  Please arrange CXR\n-  Laboratory workup: CBC/DC, BUN/Cr, Na/K, AST/ALT, Glucose, U/A,  RPR/VDRL, ANA, Anti-DS DNA AB, Anti-SSA/SSB, ANCA, IgG4**, CRP, ESR, HBsAg, Anti-HBS AB, ANTI-HCV AB, HIV (if patient agrees), C4, C3, AQP4(L72-292) or NMOSD panel [AQP4+MOG ab][需自費4000元], DNA Ab(M25-150), DNA sceening mitochondrial disease( M32-139), Quantiferon( M21-215) etc.(請安排以上抽血檢查(排除自費項目(不要開！！))，謝謝急診同仁!!)",
+  "s": "CC @ ER: dim vision OS yesterday which subsided, followed by dim vision OD today\nPI @ ER:\nOphthalmic symptoms:\nDetail:The patient presented with dim vision OS yesterday which subsided, followed by dim vision OD today. URI and low grade fever (37.8'C) 3 days ago. Denied ocular pain on eye movement, VF defect, photopsia, increasing floaters, diplopia, discharge, .\nNon-ophthalmic symptoms: nil\nOPH OP hx :  No\nOther related eye disease hx: Myopia, OU, -.0D\nContact lens : No\nPH/Systemic disease: denied\nAllergy: denied",
+  "o": "###Ophthalmic Examinations###\nVisual acuity        [OD]  0.3           [OS]  0.3\nnVA                  [OD] 20/30          [OD] 20/30\nIOP                  [OD]  14            [OS]  15  (measured with tonopen)\nLR                   [OD] sluggish       [OS] sluggish\nPupil                [OU] round isocoric\nRAPD                 [OD] NEG            [OS] NEG\nVF (confrontation)   [OD] normal         [OS] normal\nPosition             [OU] Ortho\nMotility (EOM) :         full and free ou (denied pain on eye movement)\nLid/periocular skin  [OD] np             [OS] np\nCornea               [OD] Clear /normal  [OS] Clear /normal\nConj. (& sclera)     [OD] quiet /normal  [OS] quiet /normal\nAC                   [OD] D/C            [OS]   D/C\nIris                 [OD] normal         [OS]   normal\nLens                 [OD] clear          [OS]   clear\nFundoscopy\n[OD]  disc pinkish with intact rim ** clear margin, C/D 0.7*0.7; macula flat  ; no appreciable breaks/RD\n[OS]  disc pinkish with intact rim ** clear margin, C/D 0.6*0.6; macula flat  ; no appreciable breaks/RD\n\nIshihara             [OD]  **10.5/13     [OS] **9.5/13\n   (###       [OD]  13/13         [OS] 13/13 )",
+  "p": "醫      囑      名      稱    數量 檢體\nSLIT LAMP EXAM                    1\nINDIRECT OPHTHALMOSCOPY           1",
+  "addendum": "S:\n- WBC 6100, Seg 43%, CRP <1\n- Brain MRI: (formal report)\nNormal brain sulci and ventricles.\nNo deviation of the midline structures.\nNormal grey-white matter differentiation.\nNo abnormal signal intensity in brain parenchyma.\nNo recent infarcts or other diffusion-restricted lesions on DWI.\nNo space occupying or enhancing lesion intracranially.\nNo definite skull pathology.\n\nImpression:\n1. Decreased color vision, cannot rule out recurrent bilateral optic neuritis, OS>OD\n2. History of bilateral optic neuritis, OS>OD\n2. History of bilateral lower leg numbness sensation without weakness, suspect T1-T3 myelitis\n3. History of ocular blunt injury OS, complicated with commotio retinae, resolved\n\nPlan:\n- Please manage URI and fever as your expertise. **\n- Reported to ###\n- Please admit to 兒科, and please arrange \"pulse therapy\" if no contraindication. ****\n- Reconsult ### on ### AM. **\n- Consult OPH earlier if symptoms or signs worsen.\n- Well explained the current condition the patient and the parents.\n\n===  Education  ===\n１. pulse steroid therapy; all risks and benefits of treatment have been fully explained and all questions have been answered to the patient and family\n\n===  After admission  ===\n-  Medication as suggested:\n--->Methylprednisolone pulse therapy x3 days -> oral prednisolone\n--->Famotidine 1# BID concomitantly\n\n** Contraindications of pulse therapy, 例如\n       active HBV, uncontroled free-T4, active GI bleeding, concomitant traumatic brain injury **\n\n\n\nBy ###'s order\n-> 請改成### 早上發追蹤會診【眼神經科】\n\n\nIf not yet admitted, please QD call OPH duty for follow up ***",
+  "medicationOrders": [],
+  "medicationMentions": [],
+  "reviewFlags": [
+    "Addendum present: review later changes before reusing initial orders.",
+    "Cause undetermined in source; no diagnosis inferred."
+  ],
+  "sourceFile": "er_notes/09_neuro_ophthalmology/ER-139__subjective-visual-disturbance-pain.txt",
+  "originalTitle": "",
+  "duplicateOf": null
+});

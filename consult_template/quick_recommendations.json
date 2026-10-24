@@ -1,0 +1,2174 @@
+[
+  {
+    "id": "quick-ced",
+    "familyId": "quick-ced",
+    "label": "Corneal epithelial defect",
+    "optionLabel": "Corneal epithelial defect",
+    "scenario": "ced",
+    "group": "Cornea / Ocular surface",
+    "context": "Corneal epithelial defect",
+    "templateId": "LEG-017 | Corneal epithelial defect / Abrasion | blurred-vision, pain",
+    "sourceId": "LEG-017",
+    "quickFile": "quick_general/quick-ced.js",
+    "medBlockId": "MED-198",
+    "medBlockIds": [
+      "MED-198",
+      "MED-107",
+      "MED-201",
+      "MED-035",
+      "MED-037",
+      "MED-111",
+      "MED-034",
+      "MED-089",
+      "MED-200",
+      "MED-199",
+      "MED-036",
+      "MED-090",
+      "MED-012",
+      "MED-028",
+      "MED-123",
+      "MED-158",
+      "MED-023",
+      "MED-040"
+    ],
+    "medSourceCount": 4,
+    "medPoolCount": 24,
+    "caseCount": 25,
+    "planTemplateId": "LEG-017 | Corneal epithelial defect / Abrasion | blurred-vision, pain",
+    "medicationSources": [
+      "LEG-017",
+      "LEG-024",
+      "LEG-025",
+      "LEG-026",
+      "LEG-027"
+    ],
+    "cohortSourceIds": [
+      "ER-017",
+      "ER-034",
+      "ER-041",
+      "ER-050",
+      "ER-052",
+      "ER-054",
+      "ER-055",
+      "ER-059",
+      "ER-131",
+      "ER-132",
+      "ER-159",
+      "ER-167",
+      "ER-183",
+      "ER-201",
+      "ER-250",
+      "ER-253",
+      "LEG-017",
+      "LEG-018",
+      "LEG-019",
+      "LEG-020",
+      "LEG-024",
+      "LEG-025",
+      "LEG-026",
+      "LEG-027",
+      "LEG-028"
+    ],
+    "planCharacters": 557,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-017"
+    ]
+  },
+  {
+    "id": "quick-ulcer",
+    "familyId": "quick-ulcer",
+    "label": "Corneal ulcer",
+    "optionLabel": "Corneal ulcer",
+    "scenario": "ulcer",
+    "group": "Cornea / Ocular surface",
+    "context": "Corneal ulcer",
+    "templateId": "LEG-030 | Corneal ulcer / Infectious keratitis | blurred-vision, pain",
+    "sourceId": "LEG-030",
+    "quickFile": "quick_general/quick-ulcer.js",
+    "medBlockId": "MED-243",
+    "medBlockIds": [
+      "MED-243",
+      "MED-185",
+      "MED-167",
+      "MED-204",
+      "MED-091",
+      "MED-061"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 6,
+    "caseCount": 6,
+    "planTemplateId": "LEG-030 | Corneal ulcer / Infectious keratitis | blurred-vision, pain",
+    "medicationSources": [
+      "LEG-030"
+    ],
+    "cohortSourceIds": [
+      "ER-089",
+      "ER-133",
+      "ER-267",
+      "ER-297",
+      "LEG-029",
+      "LEG-030"
+    ],
+    "planCharacters": 681,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-030"
+    ]
+  },
+  {
+    "id": "quick-ulcer-2",
+    "familyId": "quick-ulcer",
+    "label": "Corneal ulcer",
+    "optionLabel": "Ortho-K related",
+    "scenario": "ulcer",
+    "group": "Cornea / Ocular surface",
+    "context": "Ortho-K related",
+    "templateId": "ER-049 | Corneal ulcer / Infectious keratitis | blurred-vision, pain",
+    "sourceId": "ER-049",
+    "quickFile": "quick_general/quick-ulcer-2.js",
+    "medBlockId": "MED-033",
+    "medBlockIds": [
+      "MED-033"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "ER-049 | Corneal ulcer / Infectious keratitis | blurred-vision, pain",
+    "medicationSources": [
+      "ER-049"
+    ],
+    "cohortSourceIds": [
+      "ER-049"
+    ],
+    "planCharacters": 662,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-049"
+    ]
+  },
+  {
+    "id": "quick-ulcer-3",
+    "familyId": "quick-ulcer",
+    "label": "Corneal ulcer",
+    "optionLabel": "Acanthamoeba considered",
+    "scenario": "ulcer",
+    "group": "Cornea / Ocular surface",
+    "context": "Acanthamoeba considered",
+    "templateId": "ER-204 | Corneal ulcer / Infectious keratitis | blurred-vision",
+    "sourceId": "ER-204",
+    "quickFile": "quick_general/quick-ulcer-3.js",
+    "medBlockId": "MED-136",
+    "medBlockIds": [
+      "MED-136"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "ER-204 | Corneal ulcer / Infectious keratitis | blurred-vision",
+    "medicationSources": [
+      "ER-204"
+    ],
+    "cohortSourceIds": [
+      "ER-204"
+    ],
+    "planCharacters": 684,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-204"
+    ]
+  },
+  {
+    "id": "quick-fb",
+    "familyId": "quick-fb",
+    "label": "Corneal foreign body",
+    "optionLabel": "Corneal foreign body",
+    "scenario": "fb",
+    "group": "Cornea / Ocular surface",
+    "context": "Corneal foreign body",
+    "templateId": "LEG-035 | Surface foreign body / Rust ring | pain, trauma",
+    "sourceId": "LEG-035",
+    "quickFile": "quick_general/quick-fb.js",
+    "medBlockId": "MED-208",
+    "medBlockIds": [
+      "MED-208",
+      "MED-209",
+      "MED-148",
+      "MED-048"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 4,
+    "caseCount": 5,
+    "planTemplateId": "LEG-035 | Surface foreign body / Rust ring | pain, trauma",
+    "medicationSources": [
+      "LEG-035"
+    ],
+    "cohortSourceIds": [
+      "ER-072",
+      "ER-171",
+      "ER-232",
+      "LEG-035",
+      "LEG-036"
+    ],
+    "planCharacters": 649,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-035"
+    ]
+  },
+  {
+    "id": "quick-surface",
+    "familyId": "quick-surface",
+    "label": "Dry eye / SPK",
+    "optionLabel": "Dry eye / SPK",
+    "scenario": "spk",
+    "group": "Cornea / Ocular surface",
+    "context": "Dry eye / SPK",
+    "templateId": "ER-002 | Superficial punctate keratitis / SPK",
+    "sourceId": "ER-002",
+    "quickFile": "quick_general/quick-surface.js",
+    "medBlockId": "MED-001",
+    "medBlockIds": [
+      "MED-001",
+      "MED-058",
+      "MED-096",
+      "MED-156",
+      "MED-139",
+      "MED-125",
+      "MED-166",
+      "MED-083",
+      "MED-154",
+      "MED-018",
+      "MED-170",
+      "MED-049",
+      "MED-101",
+      "MED-203",
+      "MED-138",
+      "MED-067",
+      "MED-011",
+      "MED-020",
+      "MED-066",
+      "MED-110",
+      "MED-176",
+      "MED-188",
+      "MED-171"
+    ],
+    "medSourceCount": 6,
+    "medPoolCount": 27,
+    "caseCount": 28,
+    "planTemplateId": "ER-002 | Superficial punctate keratitis / SPK",
+    "medicationSources": [
+      "ER-002",
+      "ER-091",
+      "ER-115",
+      "ER-085",
+      "ER-126",
+      "ER-287"
+    ],
+    "cohortSourceIds": [
+      "ER-002",
+      "ER-016",
+      "ER-029",
+      "ER-031",
+      "ER-073",
+      "ER-085",
+      "ER-091",
+      "ER-096",
+      "ER-098",
+      "ER-115",
+      "ER-122",
+      "ER-126",
+      "ER-141",
+      "ER-150",
+      "ER-165",
+      "ER-187",
+      "ER-208",
+      "ER-209",
+      "ER-242",
+      "ER-247",
+      "ER-266",
+      "ER-272",
+      "ER-273",
+      "ER-283",
+      "ER-287",
+      "ER-305",
+      "LEG-022",
+      "LEG-023"
+    ],
+    "planCharacters": 513,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-002"
+    ]
+  },
+  {
+    "id": "quick-surface-2",
+    "familyId": "quick-surface",
+    "label": "Dry eye / SPK",
+    "optionLabel": "Filamentary keratitis",
+    "scenario": "filament",
+    "group": "Cornea / Ocular surface",
+    "context": "Filamentary keratitis",
+    "templateId": "ER-134 | Filamentary keratitis | blurred-vision, pain",
+    "sourceId": "ER-134",
+    "quickFile": "quick_general/quick-surface-2.js",
+    "medBlockId": "MED-092",
+    "medBlockIds": [
+      "MED-092",
+      "MED-114"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 2,
+    "caseCount": 2,
+    "planTemplateId": "ER-134 | Filamentary keratitis | blurred-vision, pain",
+    "medicationSources": [
+      "ER-134"
+    ],
+    "cohortSourceIds": [
+      "ER-134",
+      "ER-170"
+    ],
+    "planCharacters": 642,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-134"
+    ]
+  },
+  {
+    "id": "quick-surface-3",
+    "familyId": "quick-surface",
+    "label": "Dry eye / SPK",
+    "optionLabel": "Exposure keratopathy",
+    "scenario": "exposure",
+    "group": "Cornea / Ocular surface",
+    "context": "Exposure keratopathy",
+    "templateId": "ER-163 | Exposure keratitis | pain",
+    "sourceId": "ER-163",
+    "quickFile": "quick_general/quick-surface-3.js",
+    "medBlockId": "MED-109",
+    "medBlockIds": [
+      "MED-109"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "ER-163 | Exposure keratitis | pain",
+    "medicationSources": [
+      "ER-163"
+    ],
+    "cohortSourceIds": [
+      "ER-163"
+    ],
+    "planCharacters": 605,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-163"
+    ]
+  },
+  {
+    "id": "quick-conjunctivitis",
+    "familyId": "quick-conjunctivitis",
+    "label": "Conjunctivitis",
+    "optionLabel": "Acute conjunctivitis",
+    "scenario": "conjunctivitis",
+    "group": "Cornea / Ocular surface",
+    "context": "Acute conjunctivitis",
+    "templateId": "ER-294 | Acute conjunctivitis | red-eye",
+    "sourceId": "ER-294",
+    "quickFile": "quick_general/quick-conjunctivitis.js",
+    "medBlockId": "MED-041",
+    "medBlockIds": [
+      "MED-041",
+      "MED-087",
+      "MED-157",
+      "MED-150",
+      "MED-100",
+      "MED-032",
+      "MED-149",
+      "MED-119"
+    ],
+    "medSourceCount": 5,
+    "medPoolCount": 12,
+    "caseCount": 13,
+    "planTemplateId": "ER-294 | Acute conjunctivitis | red-eye",
+    "medicationSources": [
+      "ER-060",
+      "ER-061",
+      "ER-160",
+      "ER-236",
+      "ER-284",
+      "ER-294"
+    ],
+    "cohortSourceIds": [
+      "ER-046",
+      "ER-060",
+      "ER-061",
+      "ER-128",
+      "ER-149",
+      "ER-160",
+      "ER-178",
+      "ER-233",
+      "ER-235",
+      "ER-236",
+      "ER-251",
+      "ER-284",
+      "ER-294"
+    ],
+    "planCharacters": 486,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-294"
+    ]
+  },
+  {
+    "id": "quick-conjunctivitis-2",
+    "familyId": "quick-conjunctivitis",
+    "label": "Conjunctivitis",
+    "optionLabel": "EKC",
+    "scenario": "ekc",
+    "group": "Cornea / Ocular surface",
+    "context": "EKC",
+    "templateId": "LEG-033 | Epidemic keratoconjunctivitis | red-eye, discharge",
+    "sourceId": "LEG-033",
+    "quickFile": "quick_general/quick-conjunctivitis-2.js",
+    "medBlockId": "MED-206",
+    "medBlockIds": [
+      "MED-206",
+      "MED-205",
+      "MED-207"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 3,
+    "caseCount": 3,
+    "planTemplateId": "LEG-033 | Epidemic keratoconjunctivitis | red-eye, discharge",
+    "medicationSources": [
+      "LEG-033"
+    ],
+    "cohortSourceIds": [
+      "LEG-032",
+      "LEG-033",
+      "LEG-034"
+    ],
+    "planCharacters": 515,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-033"
+    ]
+  },
+  {
+    "id": "quick-conjunctivitis-3",
+    "familyId": "quick-conjunctivitis",
+    "label": "Conjunctivitis",
+    "optionLabel": "Allergic conjunctivitis",
+    "scenario": "allergic",
+    "group": "Cornea / Ocular surface",
+    "context": "Allergic conjunctivitis",
+    "templateId": "ER-194 | Allergic conjunctivitis / Chemosis",
+    "sourceId": "ER-194",
+    "quickFile": "quick_general/quick-conjunctivitis-3.js",
+    "medBlockId": "MED-129",
+    "medBlockIds": [
+      "MED-129",
+      "MED-130",
+      "MED-140"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 3,
+    "caseCount": 3,
+    "planTemplateId": "ER-194 | Allergic conjunctivitis / Chemosis",
+    "medicationSources": [
+      "ER-194"
+    ],
+    "cohortSourceIds": [
+      "ER-194",
+      "ER-195",
+      "ER-211"
+    ],
+    "planCharacters": 513,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-194"
+    ]
+  },
+  {
+    "id": "quick-herpetic",
+    "familyId": "quick-herpetic",
+    "label": "HZO / HSV",
+    "optionLabel": "HZO without ocular involvement",
+    "scenario": "hzo",
+    "group": "Cornea / Ocular surface",
+    "context": "HZO without ocular involvement",
+    "templateId": "ER-146 | Herpes zoster ophthalmic assessment | tearing",
+    "sourceId": "ER-146",
+    "quickFile": "quick_general/quick-herpetic.js",
+    "medBlockId": "MED-099",
+    "medBlockIds": [
+      "MED-099",
+      "MED-183"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 2,
+    "caseCount": 3,
+    "planTemplateId": "ER-146 | Herpes zoster ophthalmic assessment | tearing",
+    "medicationSources": [
+      "ER-146"
+    ],
+    "cohortSourceIds": [
+      "ER-024",
+      "ER-146",
+      "ER-295"
+    ],
+    "planCharacters": 799,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-146"
+    ]
+  },
+  {
+    "id": "quick-herpetic-2",
+    "familyId": "quick-herpetic",
+    "label": "HZO / HSV",
+    "optionLabel": "HZO — possible ocular involvement",
+    "scenario": "hzo",
+    "group": "Cornea / Ocular surface",
+    "context": "HZO — possible ocular involvement",
+    "templateId": "ER-156 | Herpes zoster ophthalmic assessment",
+    "sourceId": "ER-156",
+    "quickFile": "quick_general/quick-herpetic-2.js",
+    "medBlockId": "MED-105",
+    "medBlockIds": [
+      "MED-105",
+      "MED-181"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 2,
+    "caseCount": 3,
+    "planTemplateId": "ER-156 | Herpes zoster ophthalmic assessment",
+    "medicationSources": [
+      "ER-156"
+    ],
+    "cohortSourceIds": [
+      "ER-156",
+      "ER-290",
+      "ER-291"
+    ],
+    "planCharacters": 753,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-156"
+    ]
+  },
+  {
+    "id": "quick-herpetic-3",
+    "familyId": "quick-herpetic",
+    "label": "HZO / HSV",
+    "optionLabel": "HZO with ocular findings",
+    "scenario": "hzo",
+    "group": "Cornea / Ocular surface",
+    "context": "HZO with ocular findings",
+    "templateId": "LEG-038 | Herpes zoster ophthalmic assessment | lid-swelling",
+    "sourceId": "LEG-038",
+    "quickFile": "quick_general/quick-herpetic-3.js",
+    "medBlockId": "MED-211",
+    "medBlockIds": [
+      "MED-211",
+      "MED-103"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 2,
+    "caseCount": 2,
+    "planTemplateId": "LEG-038 | Herpes zoster ophthalmic assessment | lid-swelling",
+    "medicationSources": [
+      "LEG-038"
+    ],
+    "cohortSourceIds": [
+      "ER-153",
+      "LEG-038"
+    ],
+    "planCharacters": 787,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-038"
+    ]
+  },
+  {
+    "id": "quick-herpetic-4",
+    "familyId": "quick-herpetic",
+    "label": "HZO / HSV",
+    "optionLabel": "HSV keratitis",
+    "scenario": "hsv",
+    "group": "Cornea / Ocular surface",
+    "context": "HSV keratitis",
+    "templateId": "LEG-037 | Herpetic keratitis / Endotheliitis | blurred-vision, pain",
+    "sourceId": "LEG-037",
+    "quickFile": "quick_general/quick-herpetic-4.js",
+    "medBlockId": "MED-210",
+    "medBlockIds": [
+      "MED-210"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "LEG-037 | Herpetic keratitis / Endotheliitis | blurred-vision, pain",
+    "medicationSources": [
+      "LEG-037"
+    ],
+    "cohortSourceIds": [
+      "LEG-037"
+    ],
+    "planCharacters": 674,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-037"
+    ]
+  },
+  {
+    "id": "quick-blunt",
+    "familyId": "quick-blunt",
+    "label": "Blunt eye trauma",
+    "optionLabel": "Blunt eye trauma",
+    "scenario": "blunt",
+    "group": "Trauma",
+    "context": "Blunt eye trauma",
+    "templateId": "LEG-050 | Blunt ocular / Orbital injury | blurred-vision, pain",
+    "sourceId": "LEG-050",
+    "quickFile": "quick_general/quick-blunt.js",
+    "medBlockId": "MED-214",
+    "medBlockIds": [
+      "MED-214",
+      "MED-065",
+      "MED-077",
+      "MED-042",
+      "MED-006",
+      "MED-217",
+      "MED-172",
+      "MED-222",
+      "MED-160",
+      "MED-215",
+      "MED-133",
+      "MED-216",
+      "MED-093",
+      "MED-161",
+      "MED-106",
+      "MED-086",
+      "MED-025",
+      "MED-046"
+    ],
+    "medSourceCount": 3,
+    "medPoolCount": 24,
+    "caseCount": 26,
+    "planTemplateId": "LEG-050 | Blunt ocular / Orbital injury | blurred-vision, pain",
+    "medicationSources": [
+      "LEG-042",
+      "LEG-050",
+      "LEG-051",
+      "LEG-053"
+    ],
+    "cohortSourceIds": [
+      "ER-007",
+      "ER-037",
+      "ER-062",
+      "ER-069",
+      "ER-095",
+      "ER-114",
+      "ER-125",
+      "ER-129",
+      "ER-135",
+      "ER-158",
+      "ER-189",
+      "ER-198",
+      "ER-243",
+      "ER-256",
+      "ER-257",
+      "ER-274",
+      "LEG-042",
+      "LEG-043",
+      "LEG-044",
+      "LEG-045",
+      "LEG-050",
+      "LEG-051",
+      "LEG-053",
+      "LEG-054",
+      "LEG-055",
+      "LEG-056"
+    ],
+    "planCharacters": 1135,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-050"
+    ]
+  },
+  {
+    "id": "quick-blunt-2",
+    "familyId": "quick-blunt",
+    "label": "Blunt eye trauma",
+    "optionLabel": "Visual loss / optic nerve concern",
+    "scenario": "blunt",
+    "group": "Trauma",
+    "context": "Visual loss / optic nerve concern",
+    "templateId": "ER-277 | Blunt ocular / Orbital injury | blurred-vision, pain",
+    "sourceId": "ER-277",
+    "quickFile": "quick_general/quick-blunt-2.js",
+    "medBlockId": null,
+    "medBlockIds": [],
+    "medSourceCount": 0,
+    "medPoolCount": 0,
+    "caseCount": 2,
+    "planTemplateId": "ER-277 | Blunt ocular / Orbital injury | blurred-vision, pain",
+    "medicationSources": [],
+    "cohortSourceIds": [
+      "ER-277",
+      "ER-278"
+    ],
+    "planCharacters": 1383,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-277"
+    ]
+  },
+  {
+    "id": "quick-hyphema",
+    "familyId": "quick-hyphema",
+    "label": "Hyphema",
+    "optionLabel": "Hyphema / microhyphema",
+    "scenario": "hyphema",
+    "group": "Trauma",
+    "context": "Hyphema / microhyphema",
+    "templateId": "ER-231 | Blunt ocular / Orbital injury | blurred-vision, pain",
+    "sourceId": "ER-231",
+    "quickFile": "quick_general/quick-hyphema.js",
+    "medBlockId": "MED-147",
+    "medBlockIds": [
+      "MED-075",
+      "MED-147",
+      "MED-115",
+      "MED-187",
+      "MED-213",
+      "MED-220",
+      "MED-218",
+      "MED-117",
+      "MED-162"
+    ],
+    "medSourceCount": 2,
+    "medPoolCount": 9,
+    "caseCount": 10,
+    "planTemplateId": "ER-231 | Blunt ocular / Orbital injury | blurred-vision, pain",
+    "medicationSources": [
+      "ER-109",
+      "ER-231"
+    ],
+    "cohortSourceIds": [
+      "ER-109",
+      "ER-172",
+      "ER-175",
+      "ER-231",
+      "ER-258",
+      "ER-303",
+      "LEG-041",
+      "LEG-047",
+      "LEG-049",
+      "LEG-060"
+    ],
+    "planCharacters": 1015,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-231"
+    ]
+  },
+  {
+    "id": "quick-hyphema-2",
+    "familyId": "quick-hyphema",
+    "label": "Hyphema",
+    "optionLabel": "Total hyphema",
+    "scenario": "hyphema",
+    "group": "Trauma",
+    "context": "Total hyphema",
+    "templateId": "ER-237 | Hyphema / Microhyphema | Total hyphema | blurred-vision, pain",
+    "sourceId": "ER-237",
+    "quickFile": "quick_general/quick-hyphema-2.js",
+    "medBlockId": "MED-151",
+    "medBlockIds": [
+      "MED-151"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "ER-237 | Hyphema / Microhyphema | Total hyphema | blurred-vision, pain",
+    "medicationSources": [
+      "ER-237"
+    ],
+    "cohortSourceIds": [
+      "ER-237"
+    ],
+    "planCharacters": 1491,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-237"
+    ]
+  },
+  {
+    "id": "quick-hyphema-3",
+    "familyId": "quick-hyphema",
+    "label": "Hyphema",
+    "optionLabel": "Hyphema with elevated IOP",
+    "scenario": "hyphema",
+    "group": "Trauma",
+    "context": "Hyphema with elevated IOP",
+    "templateId": "ER-012 | Elevated IOP / Ocular hypertension | pain, headache",
+    "sourceId": "ER-012",
+    "quickFile": "quick_general/quick-hyphema-3.js",
+    "medBlockId": "MED-008",
+    "medBlockIds": [
+      "MED-008",
+      "MED-070"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 2,
+    "caseCount": 2,
+    "planTemplateId": "ER-012 | Elevated IOP / Ocular hypertension | pain, headache",
+    "medicationSources": [
+      "ER-012"
+    ],
+    "cohortSourceIds": [
+      "ER-012",
+      "ER-104"
+    ],
+    "planCharacters": 1197,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-012"
+    ]
+  },
+  {
+    "id": "quick-laceration",
+    "familyId": "quick-laceration",
+    "label": "Lid / canalicular laceration",
+    "optionLabel": "Lid / canalicular laceration",
+    "scenario": "laceration",
+    "group": "Trauma",
+    "context": "Lid / canalicular laceration",
+    "templateId": "ER-071 | Eyelid / Conjunctival laceration | trauma",
+    "sourceId": "ER-071",
+    "quickFile": "quick_general/quick-laceration.js",
+    "medBlockId": "MED-047",
+    "medBlockIds": [
+      "MED-047",
+      "MED-079",
+      "MED-202",
+      "MED-168"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 4,
+    "caseCount": 4,
+    "planTemplateId": "ER-071 | Eyelid / Conjunctival laceration | trauma",
+    "medicationSources": [
+      "ER-071"
+    ],
+    "cohortSourceIds": [
+      "ER-071",
+      "ER-117",
+      "ER-269",
+      "LEG-021"
+    ],
+    "planCharacters": 982,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-071"
+    ]
+  },
+  {
+    "id": "quick-open-globe",
+    "familyId": "quick-open-globe",
+    "label": "Open globe injury",
+    "optionLabel": "Open globe injury",
+    "scenario": "open-globe",
+    "group": "Trauma",
+    "context": "Open globe injury",
+    "templateId": "ER-090 | Open globe injury | pain",
+    "sourceId": "ER-090",
+    "quickFile": "quick_general/quick-open-globe.js",
+    "medBlockId": "MED-003",
+    "medBlockIds": [
+      "MED-003",
+      "MED-126",
+      "MED-024"
+    ],
+    "medSourceCount": 5,
+    "medPoolCount": 6,
+    "caseCount": 6,
+    "planTemplateId": "ER-090 | Open globe injury | pain",
+    "medicationSources": [
+      "ER-004",
+      "ER-057",
+      "ER-075",
+      "ER-090",
+      "ER-188"
+    ],
+    "cohortSourceIds": [
+      "ER-004",
+      "ER-036",
+      "ER-057",
+      "ER-075",
+      "ER-090",
+      "ER-188"
+    ],
+    "planCharacters": 1342,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-090"
+    ]
+  },
+  {
+    "id": "quick-orbital-fracture",
+    "familyId": "quick-orbital-fracture",
+    "label": "Orbital fracture",
+    "optionLabel": "Orbital fracture",
+    "scenario": "orbital-fracture",
+    "group": "Trauma",
+    "context": "Orbital fracture",
+    "templateId": "ER-180 | Blunt injury with orbital fracture",
+    "sourceId": "ER-180",
+    "quickFile": "quick_general/quick-orbital-fracture.js",
+    "medBlockId": "MED-095",
+    "medBlockIds": [
+      "MED-095",
+      "MED-013",
+      "MED-071",
+      "MED-221",
+      "MED-219",
+      "MED-128",
+      "MED-127",
+      "MED-112",
+      "MED-159",
+      "MED-027"
+    ],
+    "medSourceCount": 2,
+    "medPoolCount": 12,
+    "caseCount": 14,
+    "planTemplateId": "ER-180 | Blunt injury with orbital fracture",
+    "medicationSources": [
+      "ER-138",
+      "ER-180"
+    ],
+    "cohortSourceIds": [
+      "ER-020",
+      "ER-039",
+      "ER-105",
+      "ER-138",
+      "ER-168",
+      "ER-180",
+      "ER-192",
+      "ER-193",
+      "ER-202",
+      "ER-254",
+      "ER-268",
+      "LEG-046",
+      "LEG-048",
+      "LEG-052"
+    ],
+    "planCharacters": 1159,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-180"
+    ]
+  },
+  {
+    "id": "quick-chemical",
+    "familyId": "quick-chemical",
+    "label": "Chemical / thermal injury",
+    "optionLabel": "Chemical injury — Roper–Hall I",
+    "scenario": "chemical",
+    "group": "Trauma",
+    "context": "Chemical injury — Roper–Hall I",
+    "templateId": "ER-154 | Chemical injury | Roper-Hall grade I | pain",
+    "sourceId": "ER-154",
+    "quickFile": "quick_general/quick-chemical.js",
+    "medBlockId": "MED-084",
+    "medBlockIds": [
+      "MED-084",
+      "MED-121",
+      "MED-122",
+      "MED-094",
+      "MED-196",
+      "MED-197",
+      "MED-180",
+      "MED-186",
+      "MED-194",
+      "MED-163",
+      "MED-142",
+      "MED-195",
+      "MED-019",
+      "MED-074"
+    ],
+    "medSourceCount": 7,
+    "medPoolCount": 19,
+    "caseCount": 19,
+    "planTemplateId": "ER-154 | Chemical injury | Roper-Hall grade I | pain",
+    "medicationSources": [
+      "ER-123",
+      "ER-154",
+      "ER-181",
+      "ER-182",
+      "ER-200",
+      "ER-259",
+      "ER-304"
+    ],
+    "cohortSourceIds": [
+      "ER-030",
+      "ER-108",
+      "ER-123",
+      "ER-136",
+      "ER-154",
+      "ER-181",
+      "ER-182",
+      "ER-200",
+      "ER-218",
+      "ER-234",
+      "ER-259",
+      "ER-260",
+      "ER-289",
+      "ER-298",
+      "ER-304",
+      "LEG-013",
+      "LEG-014",
+      "LEG-015",
+      "LEG-016"
+    ],
+    "planCharacters": 711,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-154"
+    ]
+  },
+  {
+    "id": "quick-chemical-2",
+    "familyId": "quick-chemical",
+    "label": "Chemical / thermal injury",
+    "optionLabel": "Chemical injury — Roper–Hall I–II",
+    "scenario": "chemical",
+    "group": "Trauma",
+    "context": "Chemical injury — Roper–Hall I–II",
+    "templateId": "LEG-012 | Chemical injury | Roper-Hall grade I~II | pain, red-eye",
+    "sourceId": "LEG-012",
+    "quickFile": "quick_general/quick-chemical-2.js",
+    "medBlockId": "MED-193",
+    "medBlockIds": [
+      "MED-193"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "LEG-012 | Chemical injury | Roper-Hall grade I~II | pain, red-eye",
+    "medicationSources": [
+      "LEG-012"
+    ],
+    "cohortSourceIds": [
+      "LEG-012"
+    ],
+    "planCharacters": 735,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-012"
+    ]
+  },
+  {
+    "id": "quick-chemical-3",
+    "familyId": "quick-chemical",
+    "label": "Chemical / thermal injury",
+    "optionLabel": "Thermal injury",
+    "scenario": "thermal",
+    "group": "Trauma",
+    "context": "Thermal injury",
+    "templateId": "ER-065 | Thermal injury | Roper-Hall grade I",
+    "sourceId": "ER-065",
+    "quickFile": "quick_general/quick-chemical-3.js",
+    "medBlockId": "MED-043",
+    "medBlockIds": [
+      "MED-043",
+      "MED-120"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 2,
+    "caseCount": 2,
+    "planTemplateId": "ER-065 | Thermal injury | Roper-Hall grade I",
+    "medicationSources": [
+      "ER-065"
+    ],
+    "cohortSourceIds": [
+      "ER-065",
+      "ER-179"
+    ],
+    "planCharacters": 711,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-065"
+    ]
+  },
+  {
+    "id": "quick-chemical-4",
+    "familyId": "quick-chemical",
+    "label": "Chemical / thermal injury",
+    "optionLabel": "Superglue exposure",
+    "scenario": "superglue",
+    "group": "Trauma",
+    "context": "Superglue exposure",
+    "templateId": "ER-306 | Superglue exposure | Roper-Hall grade I | pain",
+    "sourceId": "ER-306",
+    "quickFile": "quick_general/quick-chemical-4.js",
+    "medBlockId": "MED-189",
+    "medBlockIds": [
+      "MED-189"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "ER-306 | Superglue exposure | Roper-Hall grade I | pain",
+    "medicationSources": [
+      "ER-306"
+    ],
+    "cohortSourceIds": [
+      "ER-306"
+    ],
+    "planCharacters": 737,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-306"
+    ]
+  },
+  {
+    "id": "quick-rd",
+    "familyId": "quick-rd",
+    "label": "Retinal detachment",
+    "optionLabel": "Vitrectomy ± scleral buckle",
+    "scenario": "rd",
+    "group": "Retina",
+    "context": "Vitrectomy ± scleral buckle",
+    "templateId": "ER-166 | Retinal detachment | Macula off",
+    "sourceId": "ER-166",
+    "quickFile": "quick_general/quick-rd.js",
+    "medBlockId": "MED-016",
+    "medBlockIds": [
+      "MED-009",
+      "MED-016",
+      "MED-069",
+      "MED-057",
+      "MED-059",
+      "MED-137",
+      "MED-244",
+      "MED-102",
+      "MED-235",
+      "MED-238",
+      "MED-236",
+      "MED-231"
+    ],
+    "medSourceCount": 11,
+    "medPoolCount": 21,
+    "caseCount": 21,
+    "planTemplateId": "ER-166 | Retinal detachment | Macula off",
+    "medicationSources": [
+      "ER-216",
+      "ER-025",
+      "ER-142",
+      "ER-166",
+      "ER-226",
+      "ER-265",
+      "LEG-064",
+      "LEG-065",
+      "LEG-066",
+      "LEG-068",
+      "ER-177"
+    ],
+    "cohortSourceIds": [
+      "ER-011",
+      "ER-025",
+      "ER-084",
+      "ER-142",
+      "ER-151",
+      "ER-152",
+      "ER-157",
+      "ER-166",
+      "ER-174",
+      "ER-177",
+      "ER-205",
+      "ER-216",
+      "ER-222",
+      "ER-226",
+      "ER-230",
+      "ER-265",
+      "LEG-063",
+      "LEG-064",
+      "LEG-065",
+      "LEG-066",
+      "LEG-068"
+    ],
+    "planCharacters": 1377,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-166"
+    ]
+  },
+  {
+    "id": "quick-rd-2",
+    "familyId": "quick-rd",
+    "label": "Retinal detachment",
+    "optionLabel": "Scleral buckle ± vitrectomy",
+    "scenario": "rd",
+    "group": "Retina",
+    "context": "Scleral buckle ± vitrectomy",
+    "templateId": "LEG-067 | Retinal detachment | Macula off | blurred-vision, floaters",
+    "sourceId": "LEG-067",
+    "quickFile": "quick_general/quick-rd-2.js",
+    "medBlockId": "MED-016",
+    "medBlockIds": [
+      "MED-009",
+      "MED-016",
+      "MED-069",
+      "MED-026"
+    ],
+    "medSourceCount": 5,
+    "medPoolCount": 6,
+    "caseCount": 6,
+    "planTemplateId": "ER-166 | Retinal detachment | Macula off",
+    "medicationSources": [
+      "ER-013",
+      "ER-102",
+      "LEG-061",
+      "LEG-067",
+      "LEG-062"
+    ],
+    "cohortSourceIds": [
+      "ER-013",
+      "ER-038",
+      "ER-102",
+      "LEG-061",
+      "LEG-062",
+      "LEG-067"
+    ],
+    "planCharacters": 1377,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-166",
+      "LEG-067"
+    ]
+  },
+  {
+    "id": "quick-rd-3",
+    "familyId": "quick-rd",
+    "label": "Retinal detachment",
+    "optionLabel": "Combined vitrectomy + scleral buckle",
+    "scenario": "rd",
+    "group": "Retina",
+    "context": "Combined vitrectomy + scleral buckle",
+    "templateId": "ER-282 | Retinal detachment | Macula off | blurred-vision, floaters",
+    "sourceId": "ER-282",
+    "quickFile": "quick_general/quick-rd-3.js",
+    "medBlockId": "MED-016",
+    "medBlockIds": [
+      "MED-016",
+      "MED-069",
+      "MED-155"
+    ],
+    "medSourceCount": 2,
+    "medPoolCount": 3,
+    "caseCount": 3,
+    "planTemplateId": "ER-166 | Retinal detachment | Macula off",
+    "medicationSources": [
+      "ER-282",
+      "ER-101"
+    ],
+    "cohortSourceIds": [
+      "ER-101",
+      "ER-246",
+      "ER-282"
+    ],
+    "planCharacters": 1375,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-166",
+      "ER-282"
+    ]
+  },
+  {
+    "id": "quick-retinal-break",
+    "familyId": "quick-retinal-break",
+    "label": "Retinal tear / break",
+    "optionLabel": "Retinal tear / break",
+    "scenario": "retinal-break",
+    "group": "Retina",
+    "context": "Retinal tear / break",
+    "templateId": "LEG-074 | Retinal break / Tear | floaters",
+    "sourceId": "LEG-074",
+    "quickFile": "quick_general/quick-retinal-break.js",
+    "medBlockId": "MED-227",
+    "medBlockIds": [
+      "MED-227",
+      "MED-076",
+      "MED-226",
+      "MED-178",
+      "MED-045",
+      "MED-044"
+    ],
+    "medSourceCount": 3,
+    "medPoolCount": 8,
+    "caseCount": 10,
+    "planTemplateId": "LEG-074 | Retinal break / Tear | floaters",
+    "medicationSources": [
+      "LEG-072",
+      "LEG-073",
+      "LEG-074"
+    ],
+    "cohortSourceIds": [
+      "ER-067",
+      "ER-068",
+      "ER-111",
+      "ER-286",
+      "ER-300",
+      "LEG-070",
+      "LEG-071",
+      "LEG-072",
+      "LEG-073",
+      "LEG-074"
+    ],
+    "planCharacters": 1192,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-074"
+    ]
+  },
+  {
+    "id": "quick-pvd",
+    "familyId": "quick-pvd",
+    "label": "PVD / flashes & floaters",
+    "optionLabel": "PVD / flashes & floaters",
+    "scenario": "pvd",
+    "group": "Retina",
+    "context": "PVD / flashes & floaters",
+    "templateId": "ER-285 | Vitreous degeneration / PVD | floaters, headache",
+    "sourceId": "ER-285",
+    "quickFile": "quick_general/quick-pvd.js",
+    "medBlockId": "MED-177",
+    "medBlockIds": [
+      "MED-177"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 25,
+    "planTemplateId": "ER-079 | Vitreous degeneration / PVD | floaters, flashes",
+    "medicationSources": [
+      "ER-285"
+    ],
+    "cohortSourceIds": [
+      "ER-040",
+      "ER-051",
+      "ER-063",
+      "ER-064",
+      "ER-079",
+      "ER-097",
+      "ER-143",
+      "ER-147",
+      "ER-162",
+      "ER-164",
+      "ER-261",
+      "ER-276",
+      "ER-285",
+      "ER-299",
+      "ER-301",
+      "LEG-004",
+      "LEG-008",
+      "LEG-010",
+      "LEG-011",
+      "LEG-081",
+      "LEG-082",
+      "LEG-083",
+      "LEG-084",
+      "LEG-085",
+      "LEG-086"
+    ],
+    "planCharacters": 1634,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-079"
+    ]
+  },
+  {
+    "id": "quick-vh",
+    "familyId": "quick-vh",
+    "label": "Vitreous hemorrhage",
+    "optionLabel": "Vitreous hemorrhage",
+    "scenario": "vh",
+    "group": "Retina",
+    "context": "Vitreous hemorrhage",
+    "templateId": "ER-113 | Vitreous hemorrhage | VH grade 4 | floaters, flashes",
+    "sourceId": "ER-113",
+    "quickFile": "quick_general/quick-vh.js",
+    "medBlockId": "MED-007",
+    "medBlockIds": [
+      "MED-007",
+      "MED-068",
+      "MED-082",
+      "MED-108",
+      "MED-064"
+    ],
+    "medSourceCount": 12,
+    "medPoolCount": 13,
+    "caseCount": 23,
+    "planTemplateId": "ER-113 | Vitreous hemorrhage | VH grade 4 | floaters, flashes",
+    "medicationSources": [
+      "ER-008",
+      "ER-053",
+      "ER-113",
+      "ER-255",
+      "ER-100",
+      "ER-121",
+      "ER-214",
+      "LEG-077",
+      "LEG-078",
+      "LEG-079",
+      "LEG-080",
+      "ER-161"
+    ],
+    "cohortSourceIds": [
+      "ER-008",
+      "ER-018",
+      "ER-053",
+      "ER-070",
+      "ER-094",
+      "ER-100",
+      "ER-113",
+      "ER-121",
+      "ER-127",
+      "ER-161",
+      "ER-186",
+      "ER-190",
+      "ER-214",
+      "ER-229",
+      "ER-241",
+      "ER-244",
+      "ER-248",
+      "ER-252",
+      "ER-255",
+      "LEG-077",
+      "LEG-078",
+      "LEG-079",
+      "LEG-080"
+    ],
+    "planCharacters": 1103,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-113"
+    ]
+  },
+  {
+    "id": "quick-crao",
+    "familyId": "quick-crao",
+    "label": "Retinal artery occlusion",
+    "optionLabel": "Retinal artery occlusion",
+    "scenario": "crao",
+    "group": "Retina",
+    "context": "Retinal artery occlusion",
+    "templateId": "LEG-006 | Retinal artery occlusion",
+    "sourceId": "LEG-006",
+    "quickFile": "quick_general/quick-crao.js",
+    "medBlockId": "MED-242",
+    "medBlockIds": [
+      "MED-242"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "LEG-006 | Retinal artery occlusion",
+    "medicationSources": [
+      "LEG-006"
+    ],
+    "cohortSourceIds": [
+      "LEG-006"
+    ],
+    "planCharacters": 1993,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-006"
+    ]
+  },
+  {
+    "id": "quick-aacg",
+    "familyId": "quick-aacg",
+    "label": "Acute angle closure",
+    "optionLabel": "Acute angle closure",
+    "scenario": "aacg",
+    "group": "Pressure / Inflammation",
+    "context": "Acute angle closure",
+    "templateId": "ER-112 | Acute angle closure | blurred-vision, red-eye",
+    "sourceId": "ER-112",
+    "quickFile": "quick_general/quick-aacg.js",
+    "medBlockId": "MED-038",
+    "medBlockIds": [
+      "MED-038",
+      "MED-190",
+      "MED-098",
+      "MED-056",
+      "MED-164",
+      "MED-017",
+      "MED-052",
+      "MED-055",
+      "MED-184",
+      "MED-051"
+    ],
+    "medSourceCount": 3,
+    "medPoolCount": 13,
+    "caseCount": 13,
+    "planTemplateId": "ER-112 | Acute angle closure | blurred-vision, red-eye",
+    "medicationSources": [
+      "ER-056",
+      "ER-112",
+      "ER-210"
+    ],
+    "cohortSourceIds": [
+      "ER-027",
+      "ER-056",
+      "ER-076",
+      "ER-078",
+      "ER-082",
+      "ER-083",
+      "ER-112",
+      "ER-145",
+      "ER-210",
+      "ER-262",
+      "ER-296",
+      "LEG-001",
+      "LEG-002"
+    ],
+    "planCharacters": 1172,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-112"
+    ]
+  },
+  {
+    "id": "quick-pressure",
+    "familyId": "quick-pressure",
+    "label": "Elevated IOP",
+    "optionLabel": "Elevated IOP",
+    "scenario": "oht",
+    "group": "Pressure / Inflammation",
+    "context": "Elevated IOP",
+    "templateId": "ER-292 | Elevated IOP / Ocular hypertension | blurred-vision, headache",
+    "sourceId": "ER-292",
+    "quickFile": "quick_general/quick-pressure.js",
+    "medBlockId": "MED-179",
+    "medBlockIds": [
+      "MED-179",
+      "MED-022",
+      "MED-144",
+      "MED-060",
+      "MED-135",
+      "MED-054",
+      "MED-039",
+      "MED-224",
+      "MED-153"
+    ],
+    "medSourceCount": 3,
+    "medPoolCount": 12,
+    "caseCount": 14,
+    "planTemplateId": "ER-292 | Elevated IOP / Ocular hypertension | blurred-vision, headache",
+    "medicationSources": [
+      "ER-288",
+      "ER-292",
+      "LEG-058"
+    ],
+    "cohortSourceIds": [
+      "ER-019",
+      "ER-033",
+      "ER-035",
+      "ER-058",
+      "ER-077",
+      "ER-081",
+      "ER-087",
+      "ER-203",
+      "ER-221",
+      "ER-239",
+      "ER-288",
+      "ER-292",
+      "LEG-058",
+      "LEG-059"
+    ],
+    "planCharacters": 1171,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-292"
+    ]
+  },
+  {
+    "id": "quick-pressure-2",
+    "familyId": "quick-pressure",
+    "label": "Elevated IOP",
+    "optionLabel": "Postoperative pressure",
+    "scenario": "oht",
+    "group": "Pressure / Inflammation",
+    "context": "Postoperative pressure",
+    "templateId": "ER-215 | Elevated IOP / Ocular hypertension | Postoperative | headache",
+    "sourceId": "ER-215",
+    "quickFile": "quick_general/quick-pressure-2.js",
+    "medBlockId": "MED-141",
+    "medBlockIds": [
+      "MED-141",
+      "MED-223",
+      "MED-063"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 3,
+    "caseCount": 3,
+    "planTemplateId": "ER-215 | Elevated IOP / Ocular hypertension | Postoperative | headache",
+    "medicationSources": [
+      "ER-215"
+    ],
+    "cohortSourceIds": [
+      "ER-093",
+      "ER-215",
+      "LEG-057"
+    ],
+    "planCharacters": 1215,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-215"
+    ]
+  },
+  {
+    "id": "quick-pressure-3",
+    "familyId": "quick-pressure",
+    "label": "Elevated IOP",
+    "optionLabel": "Anterior chamber irrigation",
+    "scenario": "oht",
+    "group": "Pressure / Inflammation",
+    "context": "Anterior chamber irrigation",
+    "templateId": "ER-106 | Elevated IOP / Ocular hypertension",
+    "sourceId": "ER-106",
+    "quickFile": "quick_general/quick-pressure-3.js",
+    "medBlockId": "MED-072",
+    "medBlockIds": [
+      "MED-072",
+      "MED-229"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 2,
+    "caseCount": 2,
+    "planTemplateId": "ER-106 | Elevated IOP / Ocular hypertension",
+    "medicationSources": [
+      "ER-106"
+    ],
+    "cohortSourceIds": [
+      "ER-106",
+      "LEG-088"
+    ],
+    "planCharacters": 1577,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-106"
+    ]
+  },
+  {
+    "id": "quick-pressure-4",
+    "familyId": "quick-pressure",
+    "label": "Elevated IOP",
+    "optionLabel": "Uveitic / Posner-Schlossman",
+    "scenario": "uveitic-glaucoma",
+    "group": "Pressure / Inflammation",
+    "context": "Uveitic / Posner-Schlossman",
+    "templateId": "ER-042 | Uveitic glaucoma | blurred-vision, pain",
+    "sourceId": "ER-042",
+    "quickFile": "quick_general/quick-pressure-4.js",
+    "medBlockId": "MED-233",
+    "medBlockIds": [
+      "MED-233",
+      "MED-241",
+      "MED-124"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 3,
+    "caseCount": 4,
+    "planTemplateId": "ER-042 | Uveitic glaucoma | blurred-vision, pain",
+    "medicationSources": [
+      "ER-042"
+    ],
+    "cohortSourceIds": [
+      "ER-042",
+      "ER-184",
+      "ER-185",
+      "LEG-003"
+    ],
+    "planCharacters": 1612,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-042"
+    ]
+  },
+  {
+    "id": "quick-pressure-5",
+    "familyId": "quick-pressure",
+    "label": "Elevated IOP",
+    "optionLabel": "Neovascular glaucoma",
+    "scenario": "nvg",
+    "group": "Pressure / Inflammation",
+    "context": "Neovascular glaucoma",
+    "templateId": "ER-043 | Neovascular glaucoma | pain, headache",
+    "sourceId": "ER-043",
+    "quickFile": "quick_general/quick-pressure-5.js",
+    "medBlockId": "MED-029",
+    "medBlockIds": [
+      "MED-029",
+      "MED-030"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 2,
+    "caseCount": 2,
+    "planTemplateId": "ER-043 | Neovascular glaucoma | pain, headache",
+    "medicationSources": [
+      "ER-043"
+    ],
+    "cohortSourceIds": [
+      "ER-043",
+      "ER-044"
+    ],
+    "planCharacters": 784,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-043"
+    ]
+  },
+  {
+    "id": "quick-pressure-6",
+    "familyId": "quick-pressure",
+    "label": "Elevated IOP",
+    "optionLabel": "Secondary angle closure",
+    "scenario": "secondary-angle",
+    "group": "Pressure / Inflammation",
+    "context": "Secondary angle closure",
+    "templateId": "ER-220 | Secondary angle closure | blurred-vision, pain",
+    "sourceId": "ER-220",
+    "quickFile": "quick_general/quick-pressure-6.js",
+    "medBlockId": "MED-143",
+    "medBlockIds": [
+      "MED-143",
+      "MED-097"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 2,
+    "caseCount": 2,
+    "planTemplateId": "ER-220 | Secondary angle closure | blurred-vision, pain",
+    "medicationSources": [
+      "ER-220"
+    ],
+    "cohortSourceIds": [
+      "ER-144",
+      "ER-220"
+    ],
+    "planCharacters": 646,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-220"
+    ]
+  },
+  {
+    "id": "quick-aau",
+    "familyId": "quick-aau",
+    "label": "Anterior uveitis",
+    "optionLabel": "Anterior uveitis",
+    "scenario": "aau",
+    "group": "Pressure / Inflammation",
+    "context": "Anterior uveitis",
+    "templateId": "ER-045 | Anterior uveitis | red-eye, photophobia",
+    "sourceId": "ER-045",
+    "quickFile": "quick_general/quick-aau.js",
+    "medBlockId": "MED-031",
+    "medBlockIds": [
+      "MED-031"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "ER-045 | Anterior uveitis | red-eye, photophobia",
+    "medicationSources": [
+      "ER-045"
+    ],
+    "cohortSourceIds": [
+      "ER-045"
+    ],
+    "planCharacters": 417,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-045"
+    ]
+  },
+  {
+    "id": "quick-postop",
+    "familyId": "quick-postop",
+    "label": "Postoperative inflammation / wound",
+    "optionLabel": "Postoperative inflammation",
+    "scenario": "postop-inflammation",
+    "group": "Pressure / Inflammation",
+    "context": "Postoperative inflammation",
+    "templateId": "ER-245 | Postoperative inflammation / Assessment | blurred-vision",
+    "sourceId": "ER-245",
+    "quickFile": "quick_general/quick-postop.js",
+    "medBlockId": "MED-239",
+    "medBlockIds": [
+      "MED-239",
+      "MED-081",
+      "MED-062"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 3,
+    "caseCount": 4,
+    "planTemplateId": "ER-245 | Postoperative inflammation / Assessment | blurred-vision",
+    "medicationSources": [
+      "ER-245"
+    ],
+    "cohortSourceIds": [
+      "ER-092",
+      "ER-120",
+      "ER-240",
+      "ER-245"
+    ],
+    "planCharacters": 282,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-245"
+    ]
+  },
+  {
+    "id": "quick-postop-2",
+    "familyId": "quick-postop",
+    "label": "Postoperative inflammation / wound",
+    "optionLabel": "Wound leak / oozing",
+    "scenario": "postop-wound",
+    "group": "Pressure / Inflammation",
+    "context": "Wound leak / oozing",
+    "templateId": "ER-009 | Postoperative wound leak / oozing",
+    "sourceId": "ER-009",
+    "quickFile": "quick_general/quick-postop-2.js",
+    "medBlockId": null,
+    "medBlockIds": [],
+    "medSourceCount": 0,
+    "medPoolCount": 0,
+    "caseCount": 1,
+    "planTemplateId": "ER-009 | Postoperative wound leak / oozing",
+    "medicationSources": [],
+    "cohortSourceIds": [
+      "ER-009"
+    ],
+    "planCharacters": 595,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-009"
+    ]
+  },
+  {
+    "id": "quick-postop-3",
+    "familyId": "quick-postop",
+    "label": "Postoperative inflammation / wound",
+    "optionLabel": "Wound leak with suspected infection",
+    "scenario": "postop-wound",
+    "group": "Pressure / Inflammation",
+    "context": "Wound leak with suspected infection",
+    "templateId": "ER-074 | Postoperative wound leak / oozing | Postoperative | pain",
+    "sourceId": "ER-074",
+    "quickFile": "quick_general/quick-postop-3.js",
+    "medBlockId": "MED-050",
+    "medBlockIds": [
+      "MED-050"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "ER-074 | Postoperative wound leak / oozing | Postoperative | pain",
+    "medicationSources": [
+      "ER-074"
+    ],
+    "cohortSourceIds": [
+      "ER-074"
+    ],
+    "planCharacters": 755,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-074"
+    ]
+  },
+  {
+    "id": "quick-endophthalmitis",
+    "familyId": "quick-endophthalmitis",
+    "label": "Endophthalmitis",
+    "optionLabel": "Endophthalmitis",
+    "scenario": "endophthalmitis",
+    "group": "Pressure / Inflammation",
+    "context": "Endophthalmitis",
+    "templateId": "ER-224 | Endophthalmitis | Postoperative | blurred-vision, pain",
+    "sourceId": "ER-224",
+    "quickFile": "quick_general/quick-endophthalmitis.js",
+    "medBlockId": "MED-145",
+    "medBlockIds": [
+      "MED-145",
+      "MED-237"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 2,
+    "caseCount": 2,
+    "planTemplateId": "ER-224 | Endophthalmitis | Postoperative | blurred-vision, pain",
+    "medicationSources": [
+      "ER-224"
+    ],
+    "cohortSourceIds": [
+      "ER-223",
+      "ER-224"
+    ],
+    "planCharacters": 1034,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-224"
+    ]
+  },
+  {
+    "id": "quick-lid-inflammation",
+    "familyId": "quick-lid-inflammation",
+    "label": "Hordeolum / blepharitis",
+    "optionLabel": "Hordeolum",
+    "scenario": "hordeolum",
+    "group": "Lids / Orbit",
+    "context": "Hordeolum",
+    "templateId": "ER-006 | Hordeolum / Chalazion",
+    "sourceId": "ER-006",
+    "quickFile": "quick_general/quick-lid-inflammation.js",
+    "medBlockId": "MED-005",
+    "medBlockIds": [
+      "MED-005"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "ER-006 | Hordeolum / Chalazion",
+    "medicationSources": [
+      "ER-006"
+    ],
+    "cohortSourceIds": [
+      "ER-006"
+    ],
+    "planCharacters": 471,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-006"
+    ]
+  },
+  {
+    "id": "quick-lid-inflammation-2",
+    "familyId": "quick-lid-inflammation",
+    "label": "Hordeolum / blepharitis",
+    "optionLabel": "Blepharitis",
+    "scenario": "blepharitis",
+    "group": "Lids / Orbit",
+    "context": "Blepharitis",
+    "templateId": "LEG-005 | Corneal epithelial defect / Abrasion | blurred-vision, pain",
+    "sourceId": "LEG-005",
+    "quickFile": "quick_general/quick-lid-inflammation-2.js",
+    "medBlockId": "MED-191",
+    "medBlockIds": [
+      "MED-191"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "LEG-005 | Corneal epithelial defect / Abrasion | blurred-vision, pain",
+    "medicationSources": [
+      "LEG-005"
+    ],
+    "cohortSourceIds": [
+      "LEG-005"
+    ],
+    "planCharacters": 656,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "LEG-005"
+    ]
+  },
+  {
+    "id": "quick-infection",
+    "familyId": "quick-infection",
+    "label": "Lid / orbital infection",
+    "optionLabel": "Preseptal cellulitis",
+    "scenario": "preseptal",
+    "group": "Lids / Orbit",
+    "context": "Preseptal cellulitis",
+    "templateId": "ER-279 | Preseptal cellulitis | lid-swelling",
+    "sourceId": "ER-279",
+    "quickFile": "quick_general/quick-infection.js",
+    "medBlockId": "MED-174",
+    "medBlockIds": [
+      "MED-174",
+      "MED-152",
+      "MED-080",
+      "MED-169"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 4,
+    "caseCount": 4,
+    "planTemplateId": "ER-279 | Preseptal cellulitis | lid-swelling",
+    "medicationSources": [
+      "ER-279"
+    ],
+    "cohortSourceIds": [
+      "ER-119",
+      "ER-238",
+      "ER-271",
+      "ER-279"
+    ],
+    "planCharacters": 766,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-279"
+    ]
+  },
+  {
+    "id": "quick-infection-2",
+    "familyId": "quick-infection",
+    "label": "Lid / orbital infection",
+    "optionLabel": "Orbital cellulitis",
+    "scenario": "orbital-cellulitis",
+    "group": "Lids / Orbit",
+    "context": "Orbital cellulitis",
+    "templateId": "ER-199 | Orbital cellulitis | blurred-vision",
+    "sourceId": "ER-199",
+    "quickFile": "quick_general/quick-infection-2.js",
+    "medBlockId": "MED-134",
+    "medBlockIds": [
+      "MED-134"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "ER-199 | Orbital cellulitis | blurred-vision",
+    "medicationSources": [
+      "ER-199"
+    ],
+    "cohortSourceIds": [
+      "ER-199"
+    ],
+    "planCharacters": 593,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-199"
+    ]
+  },
+  {
+    "id": "quick-infection-3",
+    "familyId": "quick-infection",
+    "label": "Lid / orbital infection",
+    "optionLabel": "Dacryocystitis",
+    "scenario": "dacryocystitis",
+    "group": "Lids / Orbit",
+    "context": "Dacryocystitis",
+    "templateId": "ER-155 | Dacryocystitis | lid-swelling",
+    "sourceId": "ER-155",
+    "quickFile": "quick_general/quick-infection-3.js",
+    "medBlockId": "MED-104",
+    "medBlockIds": [
+      "MED-104"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 1,
+    "planTemplateId": "ER-155 | Dacryocystitis | lid-swelling",
+    "medicationSources": [
+      "ER-155"
+    ],
+    "cohortSourceIds": [
+      "ER-155"
+    ],
+    "planCharacters": 540,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-155"
+    ]
+  },
+  {
+    "id": "quick-infection-4",
+    "familyId": "quick-infection",
+    "label": "Lid / orbital infection",
+    "optionLabel": "Canaliculitis",
+    "scenario": "canaliculitis",
+    "group": "Lids / Orbit",
+    "context": "Canaliculitis",
+    "templateId": "ER-023 | Canaliculitis | discharge",
+    "sourceId": "ER-023",
+    "quickFile": "quick_general/quick-infection-4.js",
+    "medBlockId": "MED-015",
+    "medBlockIds": [
+      "MED-015"
+    ],
+    "medSourceCount": 1,
+    "medPoolCount": 1,
+    "caseCount": 2,
+    "planTemplateId": "ER-023 | Canaliculitis | discharge",
+    "medicationSources": [
+      "ER-023"
+    ],
+    "cohortSourceIds": [
+      "ER-022",
+      "ER-023"
+    ],
+    "planCharacters": 635,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-023"
+    ]
+  },
+  {
+    "id": "quick-visual-disturbance",
+    "familyId": "quick-visual-disturbance",
+    "label": "Subjective visual disturbance",
+    "optionLabel": "Subjective visual disturbance",
+    "scenario": "visual-disturbance",
+    "group": "Vision",
+    "context": "Subjective visual disturbance",
+    "templateId": "ER-048 | Subjective visual disturbance / Pain | blurred-vision, pain",
+    "sourceId": "ER-048",
+    "quickFile": "quick_general/quick-visual-disturbance.js",
+    "medBlockId": "MED-002",
+    "medBlockIds": [
+      "MED-002",
+      "MED-175",
+      "MED-053",
+      "MED-131"
+    ],
+    "medSourceCount": 5,
+    "medPoolCount": 8,
+    "caseCount": 16,
+    "planTemplateId": "ER-048 | Subjective visual disturbance / Pain | blurred-vision, pain",
+    "medicationSources": [
+      "ER-003",
+      "ER-048",
+      "ER-099",
+      "ER-137",
+      "ER-227"
+    ],
+    "cohortSourceIds": [
+      "ER-001",
+      "ER-003",
+      "ER-048",
+      "ER-080",
+      "ER-099",
+      "ER-118",
+      "ER-137",
+      "ER-139",
+      "ER-140",
+      "ER-191",
+      "ER-196",
+      "ER-207",
+      "ER-212",
+      "ER-217",
+      "ER-227",
+      "ER-280"
+    ],
+    "planCharacters": 626,
+    "addendumCharacters": 0,
+    "planSourceIds": [
+      "ER-048"
+    ]
+  }
+]

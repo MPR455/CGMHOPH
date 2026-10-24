@@ -1,52 +1,28 @@
 CONSULT NOTE TEMPLATE BANK
-==========================
 
-GitHub upload location
-----------------------
-consult_template/custom_templates.js
+index.html loads this external catalog. Full source examples and general quick
+templates load individually when selected, including when opened with file://.
 
-In the repository this is:
-C:\Users\user\Documents\GitHub\CGMHOPH\consult_template\custom_templates.js
+manifest.js / manifest.json: 396 deidentified source examples in 12 categories.
+templates/: individual source records. er_notes/ and original_notes/: cleaned
+text copies opened by the source links.
+quick_options.js: 25 quick buttons, 53 general plan options and plan blocks.
+quick_general/: reusable general S/O, impression and plan records.
+medication_blocks.js / .json: 244 recorded combinations. Quick recommendations
+are selected from the matching source cohort; doses are not inferred.
 
-How to publish a template
--------------------------
-Recommended browser workflow:
-1. Build or load a Consult Note.
-2. Click "Save current builder to bank", then confirm the title/category.
-3. In Template Bank, edit it further if needed.
-4. Click "Export GitHub JS" in the Consult Template Bank controls.
-5. Replace consult_template/custom_templates.js in GitHub with the downloaded
-   custom_templates.js file, then commit and push.
+Keep IDs and file paths stable when editing an individual template. Patient and
+clinician identities use ###. The general templates use ### for patient-specific
+history, laterality, findings and measurements. Preserve the comprehensive
+source-based preop, consent, notification, nursing and operative instructions.
 
-Manual workflow:
-1. Open custom_templates.js.
-2. Copy the commented example object into the array.
-3. Fill these fields:
-   - id: unique template title shown in "Start from template"
-   - category: category dropdown label
-   - reply: Impression and Plan
-   - s: Subjective example
-   - o: Objective / ophthalmic examination example
-   - p: medication/order lines
-   - addendum: optional extra content
-4. Keep commas between template objects.
-5. Commit and push both this folder and index.html to GitHub.
+New / Edit / Import changes stay in this browser. Export JSON keeps a full copy.
+Export GitHub JS produces custom_templates.js, which remains available for
+published additions and overrides.
 
-Important behavior
-------------------
-- A new unique id adds a new template.
-- A published template with the same id replaces the earlier built-in or
-  browser-stored copy whenever the page loads.
-- Templates created or edited in Template Bank are stored in that browser.
-  Export JSON is a portable backup. Export GitHub JS produces the replacement
-  file used by GitHub Pages.
-- Use ### for information that must be confirmed. Do not include identifiable
-  patient information in a published template.
+Browser edits use oph_bank_v3. On first use, legacy_browser_bank.js preserves
+custom additions, edited originals and deletions from oph_bank_v2. The original
+browser bank is not deleted. Published custom_templates.js is also preserved.
 
-Treatment Plan templates
-------------------------
-The browser-exported Progress Note Treatment Plan bank is published at:
-progress_template/treatment_plan_templates.js
-
-They are displayed in Template Bank under "Progress Note Treatment Plan" and
-are applied from Progress Note > Plan > Use hospitalization template.
+For a site update, publish index.html and its required consult_template files
+together. Other study, progress-note, deck and reference assets are independent.

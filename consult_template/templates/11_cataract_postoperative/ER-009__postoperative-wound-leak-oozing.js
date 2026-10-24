@@ -1,0 +1,22 @@
+window.CGMHConsult.register({
+  "id": "ER-009 | Postoperative wound leak / oozing",
+  "category": "Cataract / Postoperative",
+  "sourceId": "ER-009",
+  "source": "ER notes",
+  "diagnosis": "Postoperative wound leak / oozing",
+  "scenario": "postop-wound",
+  "severity": "Severity not specified",
+  "symptoms": [],
+  "findings": [],
+  "reply": "Impression:\n1. Wound oozing OD,suspect from O.O.\n   - *no* SCH OD\n2. Eyeball rupture OD, zone 3 sclera laceration wound from 1-4 o/c (parallele to limbus, 13-15mm posterior to limbus), with massive vitreous and uvea prolapsed from scleral wound, s/p scleral laceration wound repair+ MR detachment + MR reattachment + IVI of Ceftazidime and Vancomycin on ### (scleral laceration not repair completely at posterior side, left around 3mm)\n3. eyelid laceration OD s/p REPAIR LACERATED EYELID OD on ###\n\nPlan:\n- Educate the patient and family to continue monitor symptoms and educated them on the importance of red flag signs (decreased visual acuity, limited eye motion, headache, increasing eye pain or discharge, etc.)\n- Educate the patient to notice 4 signs of RD (floaters, VA change, visual field change, lightening) if applicable\n- **keep post op Medication\n\nOPH f/u if any of the aforementioend signs occurs, and have routine eye exam regularly\n- **inform poor prognosis of vision\n= **RTC to ### and ### as scheduled\n= return to ER or OPD earlier if symptoms worsen or other symptoms or sign noted",
+  "s": "CC @ ER: Bleeding from eyeball OD was noted since this morning\nPI @ ER:\nOphthalmic symptoms:\nDetail: The patient received eyeball rupture repair on ###. Bleeding from eyeball was noted since this morning. Denied applying pressure to the wound; eye shield on.\nNon-ophthalmic symptoms: nil\nOPH OP hx :  1. eyeball rupture, zone 3 sclera laceration wound from 1-4 o/c (parallele to limbus, 13-15mm posterior to limbus), with massive vitreous and uvea prolapsed from scleral wound, s/p scleral laceration wound repair+ MR detachment + MR reattachment + IVI of Ceftazidime and Vancomycin on ### (scleral laceration not repair completely at posterior side, left around 3mm)\n2. eyelid laceration s/p REPAIR LACERATED EYELID OD on ###\n\nOther related eye disease hx: denied\nContact lens : No\nPH/Systemic disease: DM (for 7 years, recent HbA1c 8)\nAllergy: denied",
+  "o": "###Ophthalmic Examinations###\nVisual acuity        [OD]   HM/30cm      [OS]  0.8\nIOP                  [OD]   not tested [OS] 15\nLR                   [OD]   sluggish     [OS]  prompt\nPupil                [OU]   anisocoria, OD > OS\nRAPD                 [OD]   rev equivocal   [OS] NEG\nPosition             [OU]   Ortho\nLid/periocular skin  [OD] mild swelling, nasal lower and upper l/w well-apposed and secured; some blood clot on the sutures\n                     [OS] np\nCornea               [OD]  DMF++ [OS] Clear /normal\nConj. (& sclera)     [OD] temporal wound secured with vicryl stitches; nasal side vicryl insitu, *no*  bullous SCH, seidel -\n                     [OS] quiet /normal\nIris                 [OD]   seems np [OS]   normal\nAC                   [OD]   formed and deep/ detail blurry [OS]   D/C\nLens                 [OD]   covered by blood clot     [OS]   clear\nfundus\nOD no view\nB scan:\nOD CD+, RD+, VO+",
+  "p": "醫      囑      名      稱    數量 檢體\nSLIT LAMP EXAM                    1",
+  "addendum": "",
+  "medicationOrders": [],
+  "medicationMentions": [],
+  "reviewFlags": [],
+  "sourceFile": "er_notes/11_cataract_postoperative/ER-009__postoperative-wound-leak-oozing.txt",
+  "originalTitle": "",
+  "duplicateOf": null
+});
