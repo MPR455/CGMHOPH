@@ -1,0 +1,110 @@
+{
+ "id": "ch14",
+ "num": 14,
+ "title": "Imaging Modalities",
+ "chunks": [
+  {
+   "id": "w14-01",
+   "group": "14.1–14.7 Radiology",
+   "title": "CT: when and how",
+   "minutes": 3,
+   "tldr": "<b>CT = bone, blood, metal</b>. Best for fractures, calcification, <b>metal IOFB</b> (glass/wood/plastic harder), sinus disease, acute intracranial blood, <b>TED</b>, orbital cellulitis/abscess. <b>Order a dedicated orbit study</b> (head CT doesn't show orbits well) with <b>axial + coronal + parasagittal</b>, bone and soft-tissue windows. <b>1-mm cuts</b> for optic canal/traumatic optic neuropathy and IOFB. Contrast helps cellulitis vs abscess (not mandatory). <b>Never use CT to rule out globe rupture</b>; never use plain films for fractures.",
+   "points": [
+    "Contrast caution: renal failure, diabetes, CHF, myeloma, sickle cell, asthma, multiple allergies. <b>Shellfish allergy is not a contraindication.</b>",
+    "Pregnancy test in women of childbearing age.",
+    "CTA: very sensitive for aneurysm but iodinated contrast + more radiation; prefer MRA in children.",
+    "ALARA: limit CT in children, but CT remains first choice for trauma at any age.",
+    "Plain X-ray only to screen for metal before MRI."
+   ],
+   "hook": "<b>CT: Calcium (bone), Clot (acute blood), Chunks of metal.</b>",
+   "cards": [
+    {
+     "q": "Is shellfish allergy a contraindication to iodinated CT contrast?",
+     "a": "No."
+    }
+   ]
+  },
+  {
+   "id": "w14-02",
+   "group": "14.1–14.7 Radiology",
+   "title": "MRI, MRA, MRV & angiography",
+   "minutes": 4,
+   "tldr": "<b>MRI = soft tissue</b>: orbital apex, cavernous sinus, chiasm, nerve tumours, demyelination. Sequences: <b>T1</b> fat bright, vitreous dark; <b>T1 fat-sat + gadolinium</b> (always for orbits — otherwise lesions vanish in fat); <b>T2</b> fluid bright, <b>melanin dark</b>; <b>FLAIR</b> for MS plaques; DWI for stroke/lymphoma. <b>Bright on T1 before gad</b>: fat, mucus/protein (dermoid, mucocele), <b>melanin</b>, subacute blood (3–14 d), Aspergillus. <b>MRA</b> (no gad): aneurysm &gt;2 mm, dissection. <b>MRV</b>: venous sinus thrombosis — <b>all bilateral disc swelling</b>. <b>Catheter angiography</b>: gold standard; stroke risk 0.3–1.8%; avoid in dissection.",
+   "points": [
+    "Contraindications: some pacemakers, <b>metallic IOFB</b>, cochlear/stapes, nerve stimulators; titanium and gold lid weights are safe.",
+    "Gadolinium in renal failure → <b>nephrogenic systemic fibrosis</b>.",
+    "Use closed high-field scanners for orbits.",
+    "Give the radiologist the clinical history (missed PComm aneurysms)."
+   ],
+   "hook": "<b>Orbit MRI = T1 + fat-sat + gadolinium, every time.</b>",
+   "cards": [
+    {
+     "q": "Name three lesions bright on T1 before gadolinium.",
+     "a": "Fat (lipoma/dermoid), melanin (melanoma), subacute blood; also mucus/protein and Aspergillus."
+    },
+    {
+     "q": "Why is MRI contraindicated with an unknown IOFB?",
+     "a": "A ferromagnetic foreign body can move and cause further injury."
+    }
+   ]
+  },
+  {
+   "id": "w14-03",
+   "group": "14.8 Ultrasound",
+   "title": "A-scan, B-scan, UBM & Doppler",
+   "minutes": 3,
+   "tldr": "<b>A-scan</b>: axial length for IOL (eyes within 0.3 mm), tumour reflectivity (standardised), congenital glaucoma follow-up; K readings before or 30 min after. <b>B-scan</b>: see through opacities — RD vs PVD (dynamic), choroidals (serous vs haemorrhagic), tumours, IOFB, <b>occult posterior rupture</b>, disc drusen, posterior scleritis (<b>T-sign</b>), screen blind eyes before evisceration. In trauma: <b>over closed lids, no pressure</b>; known rupture = relative contraindication. <b>UBM</b> (50–100 MHz): angle, ciliary body, plateau iris, cysts, cyclodialysis, IOL position. <b>Orbital Doppler</b>: reversed SOV flow (CCF), varix, CRAO/GCA flow.",
+   "points": [
+    "Gas/silicone oil distort → scan upright.",
+    "Calcified phthisical eyes image poorly."
+   ],
+   "hook": "<b>Can't see in? B-scan it.</b>",
+   "cards": [
+    {
+     "q": "B-scan sign of posterior scleritis?",
+     "a": "T-sign (fluid in sub-Tenon space around the optic nerve)."
+    }
+   ]
+  },
+  {
+   "id": "w14-04",
+   "group": "14.9–14.11 Angiography",
+   "title": "Fluorescein & ICG angiography",
+   "minutes": 4,
+   "tldr": "<b>FA</b>: excite 465–490 nm, emit 520–530; 80% protein bound; blocked by RPE and retinal capillary tight junctions. Phases: choroidal (8–15 s) → arterial → AV → venous (AV transit &lt;11 s) → recirculation → late (10–30 min). <b>Hyper</b>: <b>leakage</b> (grows, e.g. CNV, CME), <b>staining</b> (fixed, scar), <b>pooling</b> (space, PED/CSCR), <b>window defect</b> (early, stable, RPE atrophy), autofluorescence (drusen). <b>Hypo</b>: <b>blockage</b> (blood, pigment) or <b>non-perfusion</b>. Side effects: nausea 10%, vomiting, urticaria; death ~1 in 220,000; yellow urine. <b>ICG</b>: infrared 805/835 nm, 95% bound, sees <b>choroid through blood/pigment</b> — PCV, occult CNV, RAP, CSCR, birdshot; iodine-based, liver excreted.",
+   "points": [
+    "Foveal avascular zone 300–500 µm.",
+    "FAF: RPE health, AMD, dystrophies, HCQ, nevus orange pigment."
+   ],
+   "hook": "<b>Leak grows, pool fills a space, stain sits still, window shows early.</b>",
+   "cards": [
+    {
+     "q": "Window defect vs leakage on FA?",
+     "a": "Window: early hyperfluorescence that stays same size/brightness (RPE atrophy). Leakage: increases in size and intensity over time."
+    },
+    {
+     "q": "Why does ICG show the choroid better than fluorescein?",
+     "a": "Infrared fluorescence penetrates pigment, blood and fluid; high protein binding keeps it in choroidal vessels."
+    }
+   ]
+  },
+  {
+   "id": "w14-05",
+   "group": "14.12–14.15 Optical imaging",
+   "title": "OCT, confocal & topography",
+   "minutes": 3,
+   "tldr": "<b>OCT</b>: light echo (~820 nm posterior, 1310 nm anterior), ~3 µm resolution; brightest layers <b>RNFL and RPE</b>; fluid dark. Uses: ME, CNV, CSCR, holes/ERM/VMT, RNFL/GCL in glaucoma, disc swelling/drusen. <b>EDI</b> for choroid; <b>swept-source</b> deeper; <b>OCT-A</b> = dye-free vessels (small field, needs fixation). <b>HRT (confocal SLO)</b>: disc topography. <b>Confocal microscopy</b>: <b>Acanthamoeba cysts, fungal hyphae</b>, endothelial counts. <b>Topography/tomography</b> (Placido, Scheimpflug): keratoconus (posterior elevation), PMD, refractive screening, ectasia progression.",
+   "points": [
+    "Specular microscopy: endothelial count/morphology.",
+    "Adaptive optics: individual cones."
+   ],
+   "hook": "<b>OCT is ultrasound with light.</b>",
+   "cards": [
+    {
+     "q": "Which corneal imaging best shows posterior elevation in early keratoconus?",
+     "a": "Scheimpflug (or scanning-slit) tomography."
+    }
+   ]
+  }
+ ]
+}

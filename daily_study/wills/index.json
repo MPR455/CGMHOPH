@@ -1206,14 +1206,71 @@
    "num": 14,
    "title": "Imaging Modalities",
    "file": "ch14.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "w14-01",
+     "title": "CT: when and how",
+     "group": "14.1–14.7 Radiology"
+    },
+    {
+     "id": "w14-02",
+     "title": "MRI, MRA, MRV & angiography",
+     "group": "14.1–14.7 Radiology"
+    },
+    {
+     "id": "w14-03",
+     "title": "A-scan, B-scan, UBM & Doppler",
+     "group": "14.8 Ultrasound"
+    },
+    {
+     "id": "w14-04",
+     "title": "Fluorescein & ICG angiography",
+     "group": "14.9–14.11 Angiography"
+    },
+    {
+     "id": "w14-05",
+     "title": "OCT, confocal & topography",
+     "group": "14.12–14.15 Optical imaging"
+    }
+   ]
   },
   {
    "id": "ch15",
    "num": 15,
    "title": "Procedures & Appendices",
    "file": "ch15.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "w15-01",
+     "title": "Dilating drops & tetanus",
+     "group": "A.1–A.6 Clinic basics"
+    },
+    {
+     "id": "w15-02",
+     "title": "Cover tests, Amsler, Seidel, forced ductions",
+     "group": "A.1–A.6 Clinic basics"
+    },
+    {
+     "id": "w15-03",
+     "title": "Lacrimal probing & corneal cultures",
+     "group": "A.7–A.13 Procedures"
+    },
+    {
+     "id": "w15-04",
+     "title": "Fortified drops & intravitreal doses",
+     "group": "A.7–A.13 Procedures"
+    },
+    {
+     "id": "w15-05",
+     "title": "Injections & paracentesis",
+     "group": "A.7–A.13 Procedures"
+    },
+    {
+     "id": "w15-06",
+     "title": "Angle grading & laser PI",
+     "group": "A.14–A.15 Angle & laser"
+    }
+   ]
   }
  ]
 }

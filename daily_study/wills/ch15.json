@@ -1,0 +1,147 @@
+{
+ "id": "ch15",
+ "num": 15,
+ "title": "Procedures & Appendices",
+ "chunks": [
+  {
+   "id": "w15-01",
+   "group": "A.1–A.6 Clinic basics",
+   "title": "Dilating drops & tetanus",
+   "minutes": 3,
+   "tldr": "Duration: <b>phenylephrine 3 h</b>, <b>tropicamide 3–6 h</b>, <b>cyclopentolate 24 h</b>, <b>homatropine 2–3 d</b>, <b>scopolamine 4–7 d</b>, <b>atropine 1–2 weeks</b>. Adults: phenylephrine 2.5% + tropicamide 1%. Kids &gt;1 yr: any two of phenyl 2.5%, trop 1%, cyclo 1–2%. <b>Preterm/neonates</b>: phenyl <b>1%</b>, trop 1%, cyclo <b>0.2–0.5%</b>. Dark irides dilate less. <b>Tetanus</b> (toxoid 0.5 mL IM): &lt;2 doses → toxoid (+ immunoglobulin if dirty wound); ≥3 doses → toxoid if clean wound &gt;10 yrs or dirty wound &gt;5 yrs since last dose.",
+   "points": [
+    "Don't dilate occludable angles."
+   ],
+   "table": {
+    "head": [
+     "Drop",
+     "Lasts"
+    ],
+    "rows": [
+     [
+      "Phenylephrine",
+      "3 h"
+     ],
+     [
+      "Tropicamide",
+      "3–6 h"
+     ],
+     [
+      "Cyclopentolate",
+      "24 h"
+     ],
+     [
+      "Homatropine",
+      "2–3 days"
+     ],
+     [
+      "Scopolamine",
+      "4–7 days"
+     ],
+     [
+      "Atropine",
+      "1–2 weeks"
+     ]
+    ]
+   },
+   "hook": "<b>Trop = afternoon, Cyclo = a day, Atropine = a fortnight.</b>",
+   "cards": [
+    {
+     "q": "Dilating regimen for a preterm infant?",
+     "a": "Two of: phenylephrine 1%, tropicamide 1%, cyclopentolate 0.2–0.5%."
+    }
+   ]
+  },
+  {
+   "id": "w15-02",
+   "group": "A.1–A.6 Clinic basics",
+   "title": "Cover tests, Amsler, Seidel, forced ductions",
+   "minutes": 3,
+   "tldr": "<b>Cover–uncover</b> (do first): movement of the <b>uncovered</b> eye = <b>tropia</b>; eye moves out → eso, in → exo, down → hyper. <b>Alternate cover</b>: total deviation (tropia + phoria), can't separate them; <b>prism base toward the direction of refixation</b> until movement stops; measure all gazes and head tilts. <b>Amsler</b>: 12 inches, one eye, central dot; red grid more sensitive. <b>Seidel</b>: concentrated fluorescein turns into a <b>green dilute stream</b> under cobalt blue = leak. <b>Forced duction</b> (anaesthetised, forceps near limbus): resistance = <b>restriction</b>; <b>active force generation</b> compares muscle strength (awake patients).",
+   "points": [
+    "Eso: eye moves temporally to refixate; exo: moves nasally."
+   ],
+   "hook": "<b>Uncovered eye moves = tropia. Prism apex points to the deviation.</b>",
+   "cards": [
+    {
+     "q": "On cover–uncover, the uncovered eye moves outward to fixate. What is the deviation?",
+     "a": "Esotropia."
+    }
+   ]
+  },
+  {
+   "id": "w15-03",
+   "group": "A.7–A.13 Procedures",
+   "title": "Lacrimal probing & corneal cultures",
+   "minutes": 3,
+   "tldr": "<b>Probing</b>: anaesthetise, dilate punctum, <b>#00 Bowman 2 mm vertical then 8 mm horizontal</b>, pull lid laterally (avoid false passage). Probe/saline exiting a lid wound = torn canaliculus. Irrigate 2–3 mL; patient tastes it = patent; regurgitation/ballooning = obstruction; stop if tissue swells. <b>Corneal culture</b>: for ulcers &gt;1–2 mm, central, not responding, or atypical. Proparacaine; scrape base and edge; <b>slides first, then media</b>. Routine: <b>blood, chocolate, Sabouraud, thioglycolate</b>; Gram + calcofluor. Optional: Löwenstein–Jensen (post-LASIK, mycobacteria), <b>non-nutrient agar + E. coli</b> (Acanthamoeba), Giemsa, AFB, KOH, GMS/PAS.",
+   "points": [
+    "Fungal suspicion: deep scrapings or biopsy.",
+    "Flame-sterilise and cool the spatula between plates."
+   ],
+   "hook": "<b>Slides first, plates second.</b>",
+   "cards": [
+    {
+     "q": "Culture medium for Acanthamoeba?",
+     "a": "Non-nutrient agar with E. coli overlay."
+    }
+   ]
+  },
+  {
+   "id": "w15-04",
+   "group": "A.7–A.13 Procedures",
+   "title": "Fortified drops & intravitreal doses",
+   "minutes": 3,
+   "tldr": "<b>Fortified topicals</b>: cefazolin 50 mg/mL, ceftazidime 50 mg/mL, <b>vancomycin 25 mg/mL</b>, <b>tobramycin 15 mg/mL</b> (2 mL of 40 mg/mL injection into 5 mL 0.3% bottle), bacitracin 10,000 U/mL, voriconazole 0.5 mg/mL (1 mL IV 10 mg/mL + 19 mL water). Refrigerate; most expire in 7 days (tobra 14). <b>Intravitreal</b> (0.1 mL): <b>vancomycin 1 mg</b>, <b>ceftazidime 2 mg</b> (2.25 in Ch12), <b>cefazolin 2.25 mg</b>, <b>amikacin 0.4 mg</b> (macular infarction risk), amphotericin 5–10 µg, voriconazole 50–100 µg, clindamycin 1 mg.",
+   "points": [
+    "Tap/inject 4 mm behind limbus (phakic), 3.5 mm (pseudophakic); aim for optic nerve; 0.1–0.3 mL sample."
+   ],
+   "hook": "<b>Intravitreal: Vanc 1, Ceftaz 2.</b>",
+   "cards": [
+    {
+     "q": "Standard intravitreal doses of vancomycin and ceftazidime?",
+     "a": "Vancomycin 1 mg/0.1 mL; ceftazidime 2–2.25 mg/0.1 mL."
+    }
+   ]
+  },
+  {
+   "id": "w15-05",
+   "group": "A.7–A.13 Procedures",
+   "title": "Injections & paracentesis",
+   "minutes": 3,
+   "tldr": "<b>Retrobulbar</b>: 25–27 G 1.25-inch needle above inferior rim in line with lateral limbus, along floor past equator, then <b>superonasally into the cone</b>; wiggle to check not in sclera; aspirate; compress 2 min. <b>Sub-Tenon</b>: inferotemporal, 25 G 5/8 bevel to sclera, follow globe curve to hilt, aspirate, inject. <b>Subconjunctival</b>: tent conjunctiva, 4 or 8 o'clock. <b>AC paracentesis</b>: anaesthetic, speculum, <b>povidone-iodine 30–60 s</b>, <b>30 G needle on plungerless syringe</b>, bevel up, over iris parallel to it, 2–3 s passive egress; antibiotic drops after. Fix the globe with forceps only if IOP &lt;8.",
+   "points": [
+    "Tap-and-inject: subconjunctival lidocaine, wait ≥5 min; convert to AC tap if dry tap."
+   ],
+   "hook": "<b>Paracentesis: over the iris, never over the lens.</b>",
+   "cards": [
+    {
+     "q": "Where should the needle be directed during AC paracentesis?",
+     "a": "Over the iris, parallel to the iris plane, bevel up — away from the lens."
+    }
+   ]
+  },
+  {
+   "id": "w15-06",
+   "group": "A.14–A.15 Angle & laser",
+   "title": "Angle grading & laser PI",
+   "minutes": 4,
+   "tldr": "<b>Shaffer</b>: 0 closed; 1 ≈10° (Schwalbe only, closure probable); 2 ≈20° (TM, possible); 3 20–35° (scleral spur); 4 35–45° (ciliary body). <b>Van Herick</b>: peripheral AC vs corneal thickness — 1 &lt;¼, 2 = ¼, 3 ¼–½, 4 ≥1 (not a substitute for gonio). <b>Spaeth</b>: insertion A–E, angle °, curvature b/p/f/c, PTM pigment 0–4+ (e.g. <b>C15b</b> = narrow occludable; <b>D40c 4+</b> = pigment dispersion). Occludable: &lt;10° or plateau. <b>YAG PI</b>: apraclonidine + pilocarpine pre-treat, <b>3 or 9 o'clock</b> (fewer ghost images than superior), Abraham lens, 4–7 mJ, crypts; pigment gush = through; steroid 4–7 days; IOP check; gonio 1–2 weeks.",
+   "points": [
+    "Dark thick irides: argon pre-treatment reduces YAG energy and bleeding.",
+    "Indentation gonio reveals true insertion — written as (B)D."
+   ],
+   "hook": "<b>Shaffer: count the structures you can see (more = wider).</b>",
+   "cards": [
+    {
+     "q": "Shaffer grade when only Schwalbe line is visible?",
+     "a": "Grade 1 (~10°, closure probable)."
+    },
+    {
+     "q": "Preferred location for laser PI and why?",
+     "a": "3 or 9 o'clock — fewer dysphotopsias/ghost images than superior placement."
+    }
+   ]
+  }
+ ]
+}
