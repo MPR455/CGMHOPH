@@ -671,7 +671,113 @@
    "num": 9,
    "title": "Glaucoma",
    "file": "ch09.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "w09-01",
+     "title": "POAG: signs & differential",
+     "group": "9.1–9.3 Open angle"
+    },
+    {
+     "id": "w09-02",
+     "title": "POAG: workup & red flags",
+     "group": "9.1–9.3 Open angle"
+    },
+    {
+     "id": "w09-03",
+     "title": "POAG: treatment & drops",
+     "group": "9.1–9.3 Open angle"
+    },
+    {
+     "id": "w09-04",
+     "title": "Normal-tension glaucoma",
+     "group": "9.1–9.3 Open angle"
+    },
+    {
+     "id": "w09-05",
+     "title": "Ocular hypertension",
+     "group": "9.1–9.3 Open angle"
+    },
+    {
+     "id": "w09-06",
+     "title": "Acute angle closure: causes",
+     "group": "9.4–9.5 Angle closure"
+    },
+    {
+     "id": "w09-07",
+     "title": "Acute angle closure: treatment",
+     "group": "9.4–9.5 Angle closure"
+    },
+    {
+     "id": "w09-08",
+     "title": "Chronic angle closure glaucoma",
+     "group": "9.4–9.5 Angle closure"
+    },
+    {
+     "id": "w09-09",
+     "title": "Angle recession glaucoma",
+     "group": "9.6–9.9 Secondary open angle"
+    },
+    {
+     "id": "w09-10",
+     "title": "Inflammatory glaucoma & Posner–Schlossman",
+     "group": "9.6–9.9 Secondary open angle"
+    },
+    {
+     "id": "w09-11",
+     "title": "Steroid-response glaucoma",
+     "group": "9.6–9.9 Secondary open angle"
+    },
+    {
+     "id": "w09-12",
+     "title": "Pigment dispersion & pigmentary glaucoma",
+     "group": "9.10–9.12 Pigment, PXF, lens"
+    },
+    {
+     "id": "w09-13",
+     "title": "Pseudoexfoliation glaucoma",
+     "group": "9.10–9.12 Pigment, PXF, lens"
+    },
+    {
+     "id": "w09-14",
+     "title": "Lens-related glaucomas",
+     "group": "9.10–9.12 Pigment, PXF, lens"
+    },
+    {
+     "id": "w09-15",
+     "title": "Plateau iris",
+     "group": "9.13–9.15 Angle oddities"
+    },
+    {
+     "id": "w09-16",
+     "title": "Neovascular glaucoma",
+     "group": "9.13–9.15 Angle oddities"
+    },
+    {
+     "id": "w09-17",
+     "title": "ICE syndrome",
+     "group": "9.13–9.15 Angle oddities"
+    },
+    {
+     "id": "w09-18",
+     "title": "Postoperative glaucoma & pupil block",
+     "group": "9.16–9.17 After surgery"
+    },
+    {
+     "id": "w09-19",
+     "title": "Aqueous misdirection (malignant glaucoma)",
+     "group": "9.16–9.17 After surgery"
+    },
+    {
+     "id": "w09-20",
+     "title": "Trabeculectomy complications",
+     "group": "9.18–9.19 Filtering surgery"
+    },
+    {
+     "id": "w09-21",
+     "title": "Blebitis",
+     "group": "9.18–9.19 Filtering surgery"
+    }
+   ]
   },
   {
    "id": "ch10",

@@ -1,0 +1,536 @@
+{
+ "id": "ch09",
+ "num": 9,
+ "title": "Glaucoma",
+ "chunks": [
+  {
+   "id": "w09-01",
+   "group": "9.1–9.3 Open angle",
+   "title": "POAG: signs & differential",
+   "minutes": 4,
+   "tldr": "Silent until late. <b>Open angle</b>, glaucomatous disc: <b>rim thinning (inferior &gt; superior: ISNT broken)</b>, notch, <b>Drance haemorrhage</b>, RNFL defect, C/D asymmetry &gt;0.2, bayoneting, DDLS. Fields: <b>nasal step, arcuate, paracentral</b> — respect the horizontal midline. ~Half have IOP ≤21 at a single check.",
+   "points": [
+    "DDx open angle: OHT, physiological cup (big disc, static), secondary OAG (PXF, pigment, steroid, recession, uveitis, raised EVP), NTG, old static damage.",
+    "Optic atrophy: <b>pallor &gt; cupping</b>, poor colour/VA, fields respecting <b>vertical</b> midline → neuro.",
+    "Drusen: uncupped, calcified on B-scan/CT, autofluorescent.",
+    "Closed angle with PAS → chronic angle closure."
+   ],
+   "hook": "<b>Glaucoma cups; neuro pales.</b>",
+   "cards": [
+    {
+     "q": "Disc haemorrhage crossing the margin — name and significance?",
+     "a": "Drance haemorrhage; marker of active/progressive glaucoma."
+    },
+    {
+     "q": "Field defect respecting the vertical midline suggests?",
+     "a": "Chiasmal or retrochiasmal lesion, not glaucoma."
+    }
+   ]
+  },
+  {
+   "id": "w09-02",
+   "group": "9.1–9.3 Open angle",
+   "title": "POAG: workup & red flags",
+   "minutes": 3,
+   "tldr": "Risks: <b>age, African descent, family history, myopia, diabetes, thin CCT</b>, BP extremes. Baseline: VA, RAPD, IOP (applanation), <b>gonioscopy</b>, dilated disc, disc photos/OCT RNFL + GCL, <b>24-2 field (10-2 if paracentral/advanced)</b>, <b>CCT</b> (avg 535–545 µm; thin under-reads). Investigate further if <b>pallor &gt; cup, field worse than disc, vertical-midline defect, VA/colour loss, unilateral progression with equal IOP</b>.",
+   "points": [
+    "Extra tests: diurnal IOP, B12/folate, ACE, ANA, syphilis, Lyme; ESR/CRP/platelets if GCA possible.",
+    "MRI brain/orbits with contrast if neuro suspected.",
+    "Medical history guides drops: asthma, COPD, heart block, CHF, renal stones, sulfa allergy.",
+    "Ask about past LASIK (thin cornea)."
+   ],
+   "hook": "<b>Thin cornea lies low.</b>",
+   "cards": [
+    {
+     "q": "Effect of a thin cornea on applanation IOP?",
+     "a": "Underestimates true IOP (thin CCT is also an independent POAG risk factor)."
+    }
+   ]
+  },
+  {
+   "id": "w09-03",
+   "group": "9.1–9.3 Open angle",
+   "title": "POAG: treatment & drops",
+   "minutes": 5,
+   "tldr": "Only proven therapy = <b>lower IOP</b>; aim <b>≥30% below</b> the progression level. Start with <b>one drop in one eye</b> (monocular trial) or <b>SLT</b> (repeatable; great for poor compliance/pigmented TM). Surgery first if advanced + fast progression. Treat without damage if IOP &gt;30 or asymmetry &gt;10.",
+   "points": [
+    "Follow-up: 4–6 weeks after PGA/β-blocker/SLT; any time after 3 days for CAI/α-agonist/miotic.",
+    "Stable: IOP/disc 3–6 monthly, fields + OCT 4–12 monthly, gonio yearly.",
+    "Progressing? <b>Check compliance first.</b>",
+    "Punctal occlusion 10 s or eyes closed 1–2 min cuts systemic absorption.",
+    "MIGS for mild–moderate; trab with MMC/5-FU; tube; cyclophotocoagulation.",
+    "ALT: 70–80% success, 50% by 2–5 yrs; SLT equivalent but repeatable."
+   ],
+   "table": {
+    "head": [
+     "Class",
+     "Watch out for"
+    ],
+    "rows": [
+     [
+      "PGA (latanoprost qhs)",
+      "Iris darkening (hazel), lashes, periorbitopathy, CME/uveitis; avoid pregnancy"
+     ],
+     [
+      "β-blocker (timolol)",
+      "Asthma, COPD, bradycardia, heart block, depression, MG"
+     ],
+     [
+      "α2 (brimonidine)",
+      "MAOI; children &lt;5 (CNS depression); allergy"
+     ],
+     [
+      "Topical CAI",
+      "Sulfa (caution), Fuchs/grafts (endothelium)"
+     ],
+     [
+      "Oral CAI",
+      "Renal failure, ↓K⁺, paraesthesia, aplastic anaemia, SJS"
+     ],
+     [
+      "Pilocarpine",
+      "Brow ache, RD, myopia, &lt;40 yrs intolerable"
+     ]
+    ]
+   },
+   "hook": "<b>Lower it 30%. One drop, one eye, then compare.</b>",
+   "cards": [
+    {
+     "q": "Target IOP reduction in POAG?",
+     "a": "At least 30% below the level at which damage occurred."
+    },
+    {
+     "q": "Brimonidine is contraindicated with which drug class?",
+     "a": "MAO inhibitors (hypertensive crisis)."
+    }
+   ]
+  },
+  {
+   "id": "w09-04",
+   "group": "9.1–9.3 Open angle",
+   "title": "Normal-tension glaucoma",
+   "minutes": 3,
+   "tldr": "POAG with IOP <b>always &lt;22</b>. More <b>disc haemorrhages</b>; field defects <b>denser, closer to fixation</b> (dense nasal paracentral). Think vascular: <b>migraine, Raynaud, nocturnal hypotension</b>. <b>Rule out mimics</b>: thin cornea/diurnal spikes, old shock, intermittent angle closure, Posner–Schlossman, old steroid insult, <b>compressive lesion</b>. <b>CNTGS: 30% IOP drop → 5-yr progression 35% → 12%</b>.",
+   "points": [
+    "Workup: colour plates, gonio, diurnal curve, BP incl. 24-h, carotid Doppler, MRI if VA/colour/field atypical.",
+    "Brimonidine may beat timolol (LoGTS).",
+    "Avoid bedtime antihypertensives — give in the morning."
+   ],
+   "hook": "<b>Normal pressure, low blood flow — don't drop BP at night.</b>",
+   "cards": [
+    {
+     "q": "What did the CNTGS show?",
+     "a": "Lowering IOP ≥30% cut 5-year field progression from 35% to 12%."
+    }
+   ]
+  },
+  {
+   "id": "w09-05",
+   "group": "9.1–9.3 Open angle",
+   "title": "Ocular hypertension",
+   "minutes": 2,
+   "tldr": "IOP <b>&gt;21 on ≥2 visits</b>, open normal angle, normal disc/RNFL/field. Treat if <b>&gt;24–30</b> with risk factors (age, <b>thin CCT</b>, high IOP, disc look, family history). <b>OHTS: 20% IOP drop → conversion 9.5% → 4.4% at 5 years.</b> Repeat abnormal fields (learning effect); OCT may show damage first.",
+   "points": [
+    "Follow like POAG initially; then 6–12 monthly if stable.",
+    "Risk calculators help decide treat vs watch."
+   ],
+   "hook": "<b>OHTS: treatment halves conversion.</b>",
+   "cards": [
+    {
+     "q": "OHTS 5-year conversion rates treated vs untreated?",
+     "a": "4.4% vs 9.5%."
+    }
+   ]
+  },
+  {
+   "id": "w09-06",
+   "group": "9.4–9.5 Angle closure",
+   "title": "Acute angle closure: causes",
+   "minutes": 4,
+   "tldr": "Pain, halos, headache, <b>nausea/vomiting</b>, red eye, <b>fixed mid-dilated pupil</b>, corneal oedema, shallow AC, narrow fellow angle. Primary = <b>pupil block</b> (hyperopes, East Asian, female, older; triggered by <b>dim light, dilation, anticholinergics</b>) or plateau iris. Secondary: PAS, NVG, ICE/PPCD, <b>phacomorphic</b>, microspherophakia, pseudophakic block, <b>topiramate/sulfa</b> (bilateral, myopic shift), choroidal swelling, tumour, suprachoroidal haemorrhage, aqueous misdirection.",
+   "points": [
+    "Acute IOP rise with <b>open</b> angle: uveitic, hyphaema, pigmentary, PXF, lens-related, Posner–Schlossman, retrobulbar haemorrhage, CCF.",
+    "Glaukomflecken + iris atrophy = previous attacks.",
+    "Clear cornea with glycerin for gonio; gonio both eyes.",
+    "Spontaneous arterial pulsations = very urgent.",
+    "Angle closure can present with normal IOP after an attack."
+   ],
+   "hook": "<b>Vomiting + red eye + mid-dilated pupil = gonio now, not a GI consult.</b>",
+   "cards": [
+    {
+     "q": "Mechanism of topiramate-induced angle closure?",
+     "a": "Ciliochoroidal effusion rotates the lens–iris diaphragm forward (bilateral, myopic shift) — not pupil block."
+    },
+    {
+     "q": "What are glaukomflecken?",
+     "a": "Anterior subcapsular lens opacities indicating prior acute angle closure."
+    }
+   ]
+  },
+  {
+   "id": "w09-07",
+   "group": "9.4–9.5 Angle closure",
+   "title": "Acute angle closure: treatment",
+   "minutes": 5,
+   "tldr": "<b>All topicals</b> (timolol, brimonidine, dorzolamide ± latanoprost ± pilocarpine 1%) up to <b>3 rounds 15 min apart</b> + <b>acetazolamide 500 mg IV/PO</b> + steroid drop; recheck IOP at 1 h → <b>mannitol 1–2 g/kg IV</b> if needed. <b>Compression gonioscopy</b> may break it; <b>paracentesis</b> drops IOP immediately. Definitive: <b>laser PI</b> once cornea clears (1–5 days) — <b>and the fellow eye</b> (40–80% attack risk in 5–10 yrs).",
+   "points": [
+    "<b>No CAI</b> in sulfa-induced closure or sickle cell; check renal function before CAI/mannitol.",
+    "Mannitol: avoid in CHF, renal disease, intracranial bleed.",
+    "Pseudophakic/secondary: <b>no pilocarpine</b>; cyclopentolate + phenylephrine.",
+    "Topiramate: stop drug, <b>atropine</b>, IV steroids; <b>PI not indicated</b>.",
+    "Phacomorphic: remove lens once quiet.",
+    "Too hazy for PI → laser the fellow eye first.",
+    "PI patent but still closing → plateau iris → iridoplasty; then lens extraction/filter.",
+    "Tell relatives: ⅓–½ have occludable angles."
+   ],
+   "hook": "<b>Drops ×3, Diamox, mannitol — then laser both eyes.</b>",
+   "cards": [
+    {
+     "q": "Why laser the fellow eye in acute angle closure?",
+     "a": "40–80% risk of an attack within 5–10 years."
+    },
+    {
+     "q": "Name two situations where pilocarpine should not be used for angle closure.",
+     "a": "Pseudophakic/aphakic pupil block and lens-induced/secondary or topiramate closure (can worsen)."
+    }
+   ]
+  },
+  {
+   "id": "w09-08",
+   "group": "9.4–9.5 Angle closure",
+   "title": "Chronic angle closure glaucoma",
+   "minutes": 2,
+   "tldr": "Usually silent. <b>Broad PAS</b> on gonioscopy + glaucomatous disc/field. Causes: creeping appositional closure, repeated subacute attacks, old flat AC. <b>More common in African-descent</b> patients than acute closure. Rx: <b>laser PI</b> (watch IOP spikes), drops, iridoplasty; <b>lens extraction</b>, trab/tube. <b>SLT contraindicated</b>; MIGS usually not possible.",
+   "points": [
+    "Goniosynechiolysis if PAS &lt;6 months old."
+   ],
+   "hook": "<b>PAS everywhere → no SLT.</b>",
+   "cards": [
+    {
+     "q": "Why is laser trabeculoplasty contraindicated in CACG?",
+     "a": "TM isn't accessible and laser can increase angle scarring."
+    }
+   ]
+  },
+  {
+   "id": "w09-09",
+   "group": "9.6–9.9 Secondary open angle",
+   "title": "Angle recession glaucoma",
+   "minutes": 2,
+   "tldr": "Years after blunt trauma/hyphaema; unilateral. Gonio: <b>widened ciliary body band</b>, torn iris processes, whiter spur — compare with fellow eye. Rx like POAG but <b>pilocarpine may raise IOP</b> (cuts uveoscleral outflow) and <b>SLT rarely works</b> → often surgery.",
+   "points": [
+    "<b>Watch the other eye</b> — high rate of later OAG.",
+    "Recession without glaucoma: yearly checks."
+   ],
+   "hook": "<b>Old punch, wide band, years later high pressure.</b>",
+   "cards": [
+    {
+     "q": "Gonioscopic hallmark of angle recession?",
+     "a": "Abnormally wide ciliary body band (posteriorly displaced iris root)."
+    }
+   ]
+  },
+  {
+   "id": "w09-10",
+   "group": "9.6–9.9 Secondary open angle",
+   "title": "Inflammatory glaucoma & Posner–Schlossman",
+   "minutes": 4,
+   "tldr": "<b>Inflammatory OAG</b>: lots of cells/flare, trabeculitis → high IOP. <b>Treat inflammation harder</b> (prednisolone q1–6h + cycloplegic) + aqueous suppressants; herpes classically raises IOP. <b>Posner–Schlossman</b>: young–middle age, unilateral recurrent, <b>IOP 40–60 in a white quiet eye</b>, few fine KP, open angle, no synechiae (? CMV). Short steroid course + suppressants; both eyes at risk of chronic OAG.",
+   "points": [
+    "IOP high with active uveitis → more steroid, not less.",
+    "High IOP after inflammation settles → think steroid response.",
+    "Surgery: tube preferred over trab (trabs fail in uveitis).",
+    "Suspect HSV → acyclovir 400 mg 5×/d or valacyclovir 500 mg tds.",
+    "PGA/pilocarpine: caution while inflamed.",
+    "Fuchs heterochromic: lighter eye, Amsler sign (angle vessels bleed), no PAS."
+   ],
+   "hook": "<b>Posner–Schlossman: huge pressure, tiny inflammation, white eye.</b>",
+   "cards": [
+    {
+     "q": "Typical IOP and appearance in glaucomatocyclitic crisis?",
+     "a": "IOP 40–60 mm Hg with a quiet white eye, few cells, fine KP, open angle."
+    },
+    {
+     "q": "Virus associated with Posner–Schlossman?",
+     "a": "CMV."
+    }
+   ]
+  },
+  {
+   "id": "w09-11",
+   "group": "9.6–9.9 Secondary open angle",
+   "title": "Steroid-response glaucoma",
+   "minutes": 3,
+   "tldr": "IOP rises <b>2–4 weeks</b> after starting steroid (any route: drops, intravitreal, nasal, inhaled, skin creams). Higher risk: POAG, family history, diabetes, high myopia, African descent, trauma. <b>Dexamethasone/difluprednate</b> worst; <b>FML/loteprednol</b> milder. Rx: stop/taper, weaker steroid, NSAID, IOP drops, SLT, paracentesis, surgery if persists.",
+   "points": [
+    "Always ask about nasal sprays and skin creams.",
+    "IOP usually falls after stopping, but can stay high for months."
+   ],
+   "hook": "<b>Steroids for 2–4 weeks → check the pressure.</b>",
+   "cards": [
+    {
+     "q": "Onset of steroid IOP response with topical steroids?",
+     "a": "Typically 2–4 weeks."
+    }
+   ]
+  },
+  {
+   "id": "w09-12",
+   "group": "9.10–9.12 Pigment, PXF, lens",
+   "title": "Pigment dispersion & pigmentary glaucoma",
+   "minutes": 3,
+   "tldr": "<b>Young myopic men (20–45)</b>; concave iris rubs zonules (reverse pupil block). Signs: <b>midperipheral spoke-like TIDs</b>, <b>Krukenberg spindle</b>, <b>homogeneous 360° dense TM pigment</b>, Zentmayer/Scheie line on posterior lens (near pathognomonic), wide angle. IOP spikes/halos <b>after exercise or dilation</b>. Lattice + RD risk.",
+   "points": [
+    "Rx like POAG; pilocarpine reduces contact but young myopes hate it + RD risk (14% lattice).",
+    "Laser PI controversial (maybe early disease).",
+    "SLT: <b>low energy, 180° only</b> — big pressure spikes.",
+    "Surgery: young myopes prone to hypotony maculopathy.",
+    "DDx: PXF (peripupillary TIDs, splotchy pigment), uveitis, iris melanoma, sulcus IOL chafe, BADI."
+   ],
+   "hook": "<b>Young myopic runner with halos + spoke TIDs = pigment dispersion.</b>",
+   "cards": [
+    {
+     "q": "Pigment dispersion TIDs vs PXF TIDs?",
+     "a": "PDS: midperipheral, radial/spoke-like. PXF: peripupillary."
+    }
+   ]
+  },
+  {
+   "id": "w09-13",
+   "group": "9.10–9.12 Pigment, PXF, lens",
+   "title": "Pseudoexfoliation glaucoma",
+   "minutes": 3,
+   "tldr": "Systemic, age-related; <b>commonest secondary glaucoma</b> in Europeans; <b>25% risk of glaucoma</b>. <b>Asymmetric/unilateral</b> at presentation. Signs: white flakes on pupil margin, <b>target pattern on anterior capsule</b> (dilate!), <b>peripupillary TIDs</b>, splotchy inferior TM pigment, <b>Sampaolesi line</b>, poor dilation, weak zonules. IOP volatile — can progress in months. <b>SLT works well.</b>",
+   "points": [
+    "Cataract surgery: zonular dialysis, vitreous loss, late IOL dislocation; doesn't cure glaucoma.",
+    "Glaucoma: review every 1–3 months; PXF alone: 6–12 months.",
+    "DDx: true exfoliation (glassblower, heat), amyloid, UGH."
+   ],
+   "hook": "<b>Dandruff on the lens = loose zonules + wild pressures.</b>",
+   "cards": [
+    {
+     "q": "Typical anterior capsule appearance in PXF?",
+     "a": "Central disc, clear middle zone, peripheral granular zone (target/bull's-eye)."
+    }
+   ]
+  },
+  {
+   "id": "w09-14",
+   "group": "9.10–9.12 Pigment, PXF, lens",
+   "title": "Lens-related glaucomas",
+   "minutes": 4,
+   "tldr": "<b>Phacolytic</b>: hypermature cataract leaks protein through <b>intact capsule</b> → iridescent particles, macrophages, open angle, very high IOP → meds then <b>cataract out within days (24–48 h if uncontrolled)</b>. <b>Lens particle</b>: fluffy cortex after trauma/surgery (exclude endophthalmitis). <b>Phacoantigenic</b>: granulomatous uveitis after latent sensitisation. <b>Phacomorphic</b>: big lens closes angle (uniformly shallow AC) → lens extraction. <b>Dislocated lens</b>: pupil block → cycloplegia, lie supine, PI, avoid miotics.",
+   "points": [
+    "B-scan before surgery if no fundus view (tumour/RD).",
+    "AC tap shows lens-laden macrophages if doubtful.",
+    "Phacolytic with sudden NLP → paracentesis first."
+   ],
+   "table": {
+    "head": [
+     "Type",
+     "Capsule",
+     "Angle"
+    ],
+    "rows": [
+     [
+      "Phacolytic",
+      "Intact",
+      "Open"
+     ],
+     [
+      "Lens particle",
+      "Broken",
+      "Open"
+     ],
+     [
+      "Phacoantigenic",
+      "Broken (earlier)",
+      "Open, granulomatous"
+     ],
+     [
+      "Phacomorphic",
+      "Intact",
+      "Closed"
+     ]
+    ]
+   },
+   "hook": "<b>Old white cataract + sparkling AC + IOP 50 = phacolytic: take the lens out.</b>",
+   "cards": [
+    {
+     "q": "Key difference between phacolytic and lens particle glaucoma?",
+     "a": "Phacolytic: intact capsule (hypermature cataract). Lens particle: capsule breached by trauma/surgery."
+    }
+   ]
+  },
+  {
+   "id": "w09-15",
+   "group": "9.13–9.15 Angle oddities",
+   "title": "Plateau iris",
+   "minutes": 3,
+   "tldr": "Anteriorly rotated ciliary body pushes peripheral iris into the angle. <b>Configuration</b> = closes with mild pupil block, PI helps. <b>Syndrome</b> = angle still closes after dilation <b>despite patent PI</b>. Flat central iris, deep central AC, <b>double hump sign</b> on indentation; UBM confirms. Rx: <b>argon iridoplasty</b>, then weak pilocarpine, lens extraction ± ECP.",
+   "points": [
+    "Re-gonio 1 week after PI, then dilate with tropicamide 0.5% and check IOP.",
+    "Gonio every 4–6 months; dilate cautiously every ~2 years.",
+    "Screen family members.",
+    "DDx: pupil block (convex iris bombé), aqueous misdirection (diffusely flat AC)."
+   ],
+   "hook": "<b>Patent PI, still closing = plateau iris → iridoplasty.</b>",
+   "cards": [
+    {
+     "q": "Gonioscopic sign of plateau iris on indentation?",
+     "a": "Double hump sign."
+    }
+   ]
+  },
+  {
+   "id": "w09-16",
+   "group": "9.13–9.15 Angle oddities",
+   "title": "Neovascular glaucoma",
+   "minutes": 4,
+   "tldr": "Ischaemia → VEGF → fibrovascular membrane over angle. Stage 1 NVI/NVA, 2 open-angle with high IOP, 3 <b>synechial closure</b>. Causes: <b>PDR, ischaemic CRVO</b> (~90-day glaucoma), CRAO, <b>ocular ischaemic syndrome</b> (carotid Doppler), tumours, chronic RD, uveitis. Rx: <b>steroid + atropine</b>, IOP drops (<b>no pilocarpine</b>, PGA avoided acutely), <b>anti-VEGF now + PRP</b>; tube once quiet; cyclophotocoagulation if poor vision.",
+   "points": [
+    "Treat within 1–2 days — closure progresses over days to weeks.",
+    "Anti-VEGF most useful in stages 1–2 while angle still open.",
+    "FA guides PRP; B-scan if no view.",
+    "Blind painful eye: steroid + atropine may be enough (pain isn't only from IOP)."
+   ],
+   "hook": "<b>Vessels on the iris → anti-VEGF today, PRP this week.</b>",
+   "cards": [
+    {
+     "q": "No retinal cause for NVI found — next test?",
+     "a": "Carotid Doppler (ocular ischaemic syndrome)."
+    },
+    {
+     "q": "Why is pilocarpine contraindicated in NVG?",
+     "a": "Breaks down the blood–aqueous barrier, worsening inflammation."
+    }
+   ]
+  },
+  {
+   "id": "w09-17",
+   "group": "9.13–9.15 Angle oddities",
+   "title": "ICE syndrome",
+   "minutes": 3,
+   "tldr": "<b>Unilateral, women 20–50</b>, sporadic. Abnormal endothelium (<b>beaten bronze</b>) migrates over angle → <b>high irregular PAS beyond Schwalbe line</b>, corneal oedema. Three types: <b>essential iris atrophy</b> (holes, corectopia), <b>Chandler</b> (commonest ~50%; oedema even at normal IOP), <b>Cogan–Reese</b> (iris nodules, worst prognosis). Rx: drops, hypertonic saline, <b>tube</b> (long into AC); SLT/PI/MIGS useless; DMEK/PK for oedema.",
+   "points": [
+    "DDx (bilateral, inherited): Axenfeld–Rieger, PPCD, Fuchs, iridoschisis.",
+    "Specular microscopy helps."
+   ],
+   "hook": "<b>One eye, young woman, wandering pupil = ICE.</b>",
+   "cards": [
+    {
+     "q": "Most common ICE variant?",
+     "a": "Chandler syndrome."
+    }
+   ]
+  },
+  {
+   "id": "w09-18",
+   "group": "9.16–9.17 After surgery",
+   "title": "Postoperative glaucoma & pupil block",
+   "minutes": 3,
+   "tldr": "Early IOP rise after cataract surgery: <b>retained viscoelastic</b>, lens bits, inflammation, hyphaema, pupil block; settles within a week. Treat if &gt;30 (or lower if damaged disc); <b>avoid PGA</b>. <b>Pupil block</b>: iris bombé, no patent PI → <b>YAG PI (often 2)</b>; if hazy/inflamed: dilate (cyclopentolate + phenylephrine), aqueous suppressants, steroid. <b>UGH syndrome</b>: IOL chafe → uveitis + glaucoma + hyphaema → atropine, steroid, suppressants, ± reposition/exchange IOL.",
+   "points": [
+    "Other early causes: aqueous misdirection, suprachoroidal haemorrhage, gas/silicone oil, vitreous plug with ACIOL, air behind iris after DMEK.",
+    "Late: steroid response, UGH, misdirection when cycloplegia stopped.",
+    "UBM shows haptic–ciliary body contact in UGH."
+   ],
+   "hook": "<b>UGH = Uveitis, Glaucoma, Hyphaema from a rubbing IOL.</b>",
+   "cards": [
+    {
+     "q": "Most common cause of IOP spike on day 1 after phaco?",
+     "a": "Retained viscoelastic (also inflammation, debris)."
+    }
+   ]
+  },
+  {
+   "id": "w09-19",
+   "group": "9.16–9.17 After surgery",
+   "title": "Aqueous misdirection (malignant glaucoma)",
+   "minutes": 3,
+   "tldr": "After surgery in <b>small eyes/angle-closure eyes</b> (or with miotics). <b>Diffusely flat AC</b> (central + peripheral), high IOP, <b>patent PI</b>, <b>no choroidal detachment, no bombé</b>. Aqueous goes backwards into vitreous. Rx: <b>atropine 1% + phenylephrine</b>, CAI, β-blocker, α-agonist, mannitol; <b>miotics contraindicated</b>. If fails: <b>YAG hyaloidotomy/capsulotomy</b> (pseudophakic) or <b>PPV + irido-zonulo-hyaloidectomy</b> (make eye unicameral).",
+   "points": [
+    "B-scan to exclude choroidal effusion/haemorrhage; Seidel for leak.",
+    "If broken: <b>atropine daily indefinitely</b>.",
+    "Laser PI the fellow eye if occludable."
+   ],
+   "table": {
+    "head": [
+     "Flat AC +",
+     "IOP",
+     "Clue"
+    ],
+    "rows": [
+     [
+      "Aqueous misdirection",
+      "High",
+      "Patent PI, no bombé"
+     ],
+     [
+      "Pupil block",
+      "High",
+      "Iris bombé"
+     ],
+     [
+      "Suprachoroidal haemorrhage",
+      "High",
+      "Excruciating pain, dark choroidal"
+     ],
+     [
+      "Serous choroidal / leak",
+      "Low",
+      "Seidel +, overfiltration"
+     ]
+    ]
+   },
+   "hook": "<b>Flat everywhere + high IOP + PI open = misdirection → atropine.</b>",
+   "cards": [
+    {
+     "q": "Drug class contraindicated in aqueous misdirection?",
+     "a": "Miotics (pilocarpine) — they worsen it; use cycloplegics."
+    }
+   ]
+  },
+  {
+   "id": "w09-20",
+   "group": "9.18–9.19 Filtering surgery",
+   "title": "Trabeculectomy complications",
+   "minutes": 4,
+   "tldr": "<b>High IOP + deep AC</b>: blocked internal ostium (iris, blood, fibrin, vitreous) or tight flap → <b>gonio first</b>, Carlo Traverso manoeuvre, <b>laser suture lysis</b>, tPA 10 µg for fibrin. <b>Low IOP</b> (&lt;7; &lt;4 = hypotony risk): overfiltering big bleb (atropine, viscoelastic, autologous blood), <b>flat bleb + flat AC = leak (Seidel)</b>, cyclodialysis cleft, serous choroidals. <b>Grade 3 (lens–cornea touch) = emergency</b> → reform AC.",
+   "points": [
+    "AC grading: 1 peripheral iris–cornea, 2 whole iris–cornea, 3 lens–cornea.",
+    "Iris in sclerostomy: no massage; pilocarpine/acetylcholine if &lt;2–3 days.",
+    "Opening a valveless tube before month 1 → hypotony.",
+    "Suprachoroidal haemorrhage: wait ≥10 days before draining if possible.",
+    "MMC/5-FU: leaks, thin blebs, scleral melt, blebitis.",
+    "Cyclodestruction: hypotony, phthisis, sympathetic ophthalmia."
+   ],
+   "hook": "<b>Deep chamber + high IOP = blocked. Flat bleb + flat chamber = leaking.</b>",
+   "cards": [
+    {
+     "q": "Post-trab: flat AC, no bleb, low IOP — first test?",
+     "a": "Seidel test for wound/bleb leak."
+    }
+   ]
+  },
+  {
+   "id": "w09-21",
+   "group": "9.18–9.19 Filtering surgery",
+   "title": "Blebitis",
+   "minutes": 3,
+   "tldr": "Infected bleb, days to <b>years</b> later (MMC, leaks raise risk). <b>Milky bleb</b>, pus in bleb, intense injection. Grade 1 bleb only; 2 + AC cells/hypopyon; 3 + vitritis = <b>bleb-related endophthalmitis</b>. Rx: <b>fortified cefazolin/vancomycin + tobramycin alternating q½h</b> (or FQ q1h) for 1–2; add cycloplegic ± oral moxifloxacin for 2; grade 3 → tap/inject and favour <b>early vitrectomy</b> (fulminant).",
+   "points": [
+    "Early bugs: Staph epidermidis/aureus. Late: <b>Streptococcus, H. influenzae</b>, Moraxella, Pseudomonas.",
+    "Re-check at 6–12 h and 12–24 h; daily after; consider admission.",
+    "Seidel test the bleb; gonio for microhypopyon."
+   ],
+   "hook": "<b>Milky bleb = emergency, even years later.</b>",
+   "cards": [
+    {
+     "q": "Typical organisms in late-onset blebitis?",
+     "a": "Streptococcus species and Haemophilus influenzae (more virulent)."
+    }
+   ]
+  }
+ ]
+}
