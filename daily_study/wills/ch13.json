@@ -1,0 +1,218 @@
+{
+ "id": "ch13",
+ "num": 13,
+ "title": "General Ophthalmic Problems",
+ "chunks": [
+  {
+   "id": "w13-01",
+   "group": "13.1–13.2 Lens",
+   "title": "Acquired cataract",
+   "minutes": 4,
+   "tldr": "Slow blur, glare (headlights), colour dulling. <b>Nuclear</b>: myopic shift (<b>second sight</b>), distance worse. <b>PSC</b>: young, steroids/diabetes/uveitis/radiation, glare + reading trouble, better when dilated. <b>Cortical</b>: spokes, glare. Special: <b>Christmas tree</b> (myotonic), <b>sunflower</b> (Wilson), <b>snowflake</b> (juvenile diabetes), <b>Vossius ring</b> (trauma), glaukomflecken, atopic (anterior subcapsular), NF2 (PSC). <b>Cataract never causes RAPD.</b>",
+   "points": [
+    "Ask about <b>tamsulosin</b> (floppy iris).",
+    "Pre-op: dilation, density, PXF, phacodonesis, guttae; biometry (K + axial length); B-scan if no view.",
+    "PAM/interferometry overestimate potential in macular holes/amblyopia.",
+    "Operate for symptomatic disability, lens-induced disease, or to see the fundus.",
+    "Non-surgical: update glasses; mydriatic trial for PSC."
+   ],
+   "hook": "<b>Cataract + RAPD = look for something else.</b>",
+   "cards": [
+    {
+     "q": "Cataract associated with myotonic dystrophy?",
+     "a": "Polychromatic 'Christmas tree' cataract."
+    }
+   ]
+  },
+  {
+   "id": "w13-02",
+   "group": "13.1–13.2 Lens",
+   "title": "Subluxed / dislocated lens",
+   "minutes": 4,
+   "tldr": "Monocular diplopia, iridodonesis, phacodonesis, astigmatism, pupil block. <b>Trauma commonest</b>. <b>Marfan</b>: bilateral, <b>up and out (superotemporal)</b>, AD, aortic root → echo. <b>Homocystinuria</b>: <b>down and in</b>, AR, learning difficulty, <b>thromboembolism with anaesthesia</b> → B6, methionine-restricted diet. <b>Weill–Marchesani</b>: microspherophakia, short stature/fingers → lens into AC, reverse pupil block. Also PXF, syphilis, Ehlers–Danlos, sulfite oxidase.",
+   "points": [
+    "Lens in AC: dilate, lie supine, push back → pilocarpine + PI; or remove.",
+    "Lens in vitreous: observe if capsule intact and quiet; PPV lensectomy if inflamed.",
+    "Subluxation: observe/refract (prevent amblyopia in kids); remove if diplopia/unstable refraction.",
+    "Check syphilis serology."
+   ],
+   "hook": "<b>Marfan looks Up (superotemporal); Homocystinuria Heads Home Down (inferonasal).</b>",
+   "cards": [
+    {
+     "q": "Why avoid general anaesthesia in homocystinuria?",
+     "a": "High risk of thromboembolic events."
+    }
+   ]
+  },
+  {
+   "id": "w13-03",
+   "group": "13.3–13.6 Systemic & function",
+   "title": "Pregnancy & Lyme disease",
+   "minutes": 4,
+   "tldr": "<b>Pregnancy</b>: corneal thickening/curvature change, contact lens intolerance → <b>don't prescribe new glasses until weeks postpartum</b>; delay refractive surgery ≥3 months after pregnancy/nursing. <b>Preeclampsia</b> (&gt;20 weeks): arteriolar spasm, <b>serous RDs</b> (1% preeclampsia, 10% eclampsia), <b>PRES</b> (cortical blindness, brisk pupils) → BP control, delivery. Hypercoagulable (RVO, DIC); meningioma growth; worse DR, CSCR, IIH. <b>Lyme</b>: conjunctivitis commonest, VII palsy, uveitis, optic neuritis; ELISA → Western blot; <b>doxycycline 100 mg bd 10–21 d</b> (amoxicillin in kids/pregnancy); neuro-ophthalmic → <b>IV ceftriaxone 2 g</b>.",
+   "points": [
+    "Headache in pregnancy → BP, fields, discs; MRI/MRV if venous thrombosis suspected.",
+    "Drops in pregnancy: punctal occlusion."
+   ],
+   "hook": "<b>Pregnant + headache = check BP and discs.</b>",
+   "cards": [
+    {
+     "q": "Treatment for Lyme disease with neuro-ophthalmic involvement?",
+     "a": "IV ceftriaxone 2 g daily for 2–3 weeks."
+    }
+   ]
+  },
+  {
+   "id": "w13-04",
+   "group": "13.3–13.6 Systemic & function",
+   "title": "Convergence insufficiency & accommodative spasm",
+   "minutes": 3,
+   "tldr": "<b>CI</b>: young adults, near discomfort; <b>exophoria at near</b>, <b>remote NPC (&gt;8 cm)</b>, low base-out fusional amplitudes (break 10–15 Δ). <b>4 Δ base-in</b> clears print in CI, blurs in accommodative insufficiency. Rx: correct refraction, <b>pencil push-ups</b> (± 6 Δ BO), <b>orthoptic vision therapy</b> (best in kids), base-in reading prism. <b>Convergence paralysis</b> (acute) → image. <b>Accommodative spasm</b>: stressed teens, fluctuating myopia (up to 10 D) that vanishes with cycloplegia, miosis; counsel, near add, cycloplegia if resistant.",
+   "points": [
+    "Spasm of near reflex mimics VI palsy — look for miosis.",
+    "Pseudomyopia: hyperglycaemia, sulfa drugs, anticholinesterases."
+   ],
+   "hook": "<b>Base-in helps CI; cycloplegia unmasks spasm.</b>",
+   "cards": [
+    {
+     "q": "Normal near point of convergence?",
+     "a": "Less than about 8 cm."
+    }
+   ]
+  },
+  {
+   "id": "w13-05",
+   "group": "13.7–13.10 Systemic eye signs",
+   "title": "SJS / TEN",
+   "minutes": 4,
+   "tldr": "<b>EM</b> (target lesions, usually <b>HSV/Mycoplasma</b>) is separate from <b>SJS/TEN</b> (mostly <b>drugs</b>: sulfonamides, anticonvulsants, allopurinol, NSAIDs; first 2 months). <b>SJS &lt;10% BSA, overlap 10–30%, TEN &gt;30%</b>. Genetics: <b>HLA-B*15:02 + carbamazepine</b> (Asians), HLA-B*58:01 + allopurinol. Eye: pseudomembranous conjunctivitis, lid margin ulcers → later symblepharon, trichiasis, dry eye, LSCD. Rx: stop drug, burn unit; <b>daily fornix sweep, topical steroid, lubricants</b>, antibiotics if defects; <b>amniotic membrane over lid margins/fornices within 72 h</b>.",
+   "points": [
+    "Mortality: SJS 1–5%, TEN 25–35%.",
+    "Late: epilation, entropion repair with buccal graft, KPro (guarded)."
+   ],
+   "hook": "<b>SJS eyes: membrane early (AMT in 72 h) saves the surface.</b>",
+   "cards": [
+    {
+     "q": "HLA allele linking carbamazepine to SJS in Asians?",
+     "a": "HLA-B*15:02."
+    }
+   ]
+  },
+  {
+   "id": "w13-06",
+   "group": "13.7–13.10 Systemic eye signs",
+   "title": "Vitamin A deficiency, albinism, Wilson",
+   "minutes": 4,
+   "tldr": "<b>Vitamin A</b>: <b>night blindness first</b>, <b>Bitot spots</b> (X1B), corneal xerosis → <b>keratomalacia</b> (often after measles); WHO XN–XF. Rx: <b>200,000 IU days 1, 2 and 2 weeks</b> (100,000 if &lt;1 yr; lower in women of childbearing age). <b>Albinism</b>: VA 20/40–20/400, nystagmus, <b>TIDs, foveal hypoplasia</b>, misrouted chiasm; OCA (AR, tyrosinase), ocular (XL; carriers <b>mud-splattered</b> fundus). <b>Hermansky–Pudlak</b> (bleeding; Puerto Rico) and <b>Chédiak–Higashi</b> (infections). <b>Wilson</b>: <b>Kayser–Fleischer ring</b> (Descemet copper, starts superiorly, gonio), sunflower cataract; ↓ceruloplasmin; ring fades with treatment.",
+   "points": [
+    "Secondary vitamin A deficiency: bariatric surgery, IBD, CF, liver disease.",
+    "Albinism: check platelets before surgery.",
+    "Arcus in &lt;40 → fasting lipids."
+   ],
+   "hook": "<b>Wilson: copper ring on Descemet, sunflower on the lens.</b>",
+   "cards": [
+    {
+     "q": "WHO dose of vitamin A for xerophthalmia in a child >1 year?",
+     "a": "200,000 IU on days 1 and 2, repeated at 2 weeks."
+    },
+    {
+     "q": "Albinism with easy bruising in a Puerto Rican patient?",
+     "a": "Hermansky–Pudlak syndrome."
+    }
+   ]
+  },
+  {
+   "id": "w13-07",
+   "group": "13.11–13.12 Hypotony & blind eye",
+   "title": "Hypotony & the blind painful eye",
+   "minutes": 4,
+   "tldr": "<b>Hypotony</b> (≤5 mm Hg) → folds, maculopathy, choroidals, flat AC. Causes: <b>wound/bleb leak (Seidel)</b>, overfiltration, <b>cyclodialysis cleft</b>, scleral perforation, uveitis, RD, oral CAI + β-blocker, cidofovir, systemic (dehydration, uraemia, myotonic). Fix the cause; drain choroidals if kissing, lens–cornea touch (emergency) or decompensation. <b>Blind painful eye</b>: find the cause — epithelial defect, uveitis, high IOP, hypotony; B-scan if no view (tumour). Rx: atropine + steroid, lubrication/tarsorrhaphy, IOP drops, <b>cyclophotocoagulation</b>, <b>retrobulbar alcohol/chlorpromazine</b>, enucleation/evisceration (not if tumour possible).",
+   "points": [
+    "Low IOP alone with good vision and formed AC can be watched.",
+    "Monocular patients: polycarbonate glasses always.",
+    "Periodic B-scan (~3-yearly) in blind eyes without fundus view."
+   ],
+   "hook": "<b>Blind + painful: atropine and steroid first; scan for tumour before evisceration.</b>",
+   "cards": [
+    {
+     "q": "Contraindication to evisceration of a blind painful eye?",
+     "a": "Possible intraocular malignancy (choose enucleation)."
+    }
+   ]
+  },
+  {
+   "id": "w13-08",
+   "group": "13.13 Phakomatoses",
+   "title": "NF1 & NF2",
+   "minutes": 4,
+   "tldr": "<b>NF1</b> (17q, AD): ≥2 of <b>≥6 café-au-lait</b>, neurofibromas (1 plexiform or ≥2), <b>axillary freckling</b>, <b>optic pathway glioma</b> (12–15%), <b>≥2 Lisch nodules</b> (~10% × age; 98% after puberty), sphenoid/tibial dysplasia, affected relative. Eye: <b>plexiform neurofibroma (S-shaped lid) → glaucoma</b>, pulsatile proptosis (absent sphenoid wing), choroidal nodules on NIR-OCT. Exam yearly to age 6, then 2-yearly; MRI only if signs. <b>NF2</b> (22q): <b>bilateral acoustic neuromas</b>, <b>juvenile PSC cataract</b>, combined hamartoma, ERM, ONSM.",
+   "points": [
+    "Watch for amblyopia from ptotic plexiform lid."
+   ],
+   "hook": "<b>NF1 = skin + iris (Lisch). NF2 = ears + lens (PSC).</b>",
+   "cards": [
+    {
+     "q": "Ocular feature characteristic of NF2?",
+     "a": "Juvenile posterior subcapsular cataract (also combined hamartoma, ERM)."
+    }
+   ]
+  },
+  {
+   "id": "w13-09",
+   "group": "13.13 Phakomatoses",
+   "title": "Sturge–Weber, TSC, VHL, Wyburn–Mason, AT",
+   "minutes": 5,
+   "tldr": "<b>Sturge–Weber</b> (GNAQ somatic): port-wine stain (V1/V2), <b>glaucoma</b> (early = goniodysgenesis; late = ↑episcleral venous pressure), <b>diffuse choroidal haemangioma ('tomato ketchup')</b>, leptomeningeal angioma, seizures; avoid α-agonists if brain involved. <b>TSC</b>: <b>retinal astrocytic hamartoma</b> (mulberry, calcifies), adenoma sebaceum, <b>ash-leaf spots</b>, seizures, renal angiomyolipoma, cardiac rhabdomyoma. <b>VHL</b> (3p): <b>retinal haemangioblastoma with feeder vessels</b>, cerebellar haemangioblastoma, <b>RCC, phaeochromocytoma</b> → laser/cryo; screen BP, catecholamines, MRI, abdominal US. <b>Wyburn–Mason</b>: racemose AV malformation + midbrain AVM (no Rx; dental bleeding risk). <b>Ataxia-telangiectasia</b>: conjunctival telangiectasia, <b>oculomotor apraxia</b>, infections, leukaemia, radiosensitivity.",
+   "points": [
+    "Multiple/bilateral retinal haemangioblastomas = VHL.",
+    "Choroidal haemangioma with SRF: PDT or low-dose plaque.",
+    "Astrocytoma DDx: retinoblastoma."
+   ],
+   "table": {
+    "head": [
+     "Syndrome",
+     "Eye lesion",
+     "Systemic"
+    ],
+    "rows": [
+     [
+      "Sturge–Weber",
+      "Choroidal haemangioma, glaucoma",
+      "Port-wine stain, seizures"
+     ],
+     [
+      "TSC",
+      "Astrocytic hamartoma",
+      "Ash-leaf, adenoma sebaceum"
+     ],
+     [
+      "VHL",
+      "Capillary haemangioblastoma",
+      "RCC, phaeo, cerebellar HB"
+     ],
+     [
+      "Wyburn–Mason",
+      "Racemose AVM",
+      "Midbrain AVM"
+     ],
+     [
+      "AT",
+      "Conjunctival telangiectasia",
+      "Ataxia, immunodeficiency"
+     ]
+    ]
+   },
+   "hook": "<b>VHL: Very Hungry Lesions (feeders) + kidney and adrenal tumours.</b>",
+   "cards": [
+    {
+     "q": "Retinal tumour with a dilated feeding artery and draining vein?",
+     "a": "Retinal capillary haemangioblastoma (VHL)."
+    },
+    {
+     "q": "Mechanism of late-onset glaucoma in Sturge–Weber?",
+     "a": "Raised episcleral venous pressure."
+    }
+   ]
+  }
+ ]
+}
