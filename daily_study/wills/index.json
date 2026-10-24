@@ -374,7 +374,83 @@
    "num": 5,
    "title": "Conjunctiva/Sclera/Iris/External Disease",
    "file": "ch05.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "w05-01",
+     "title": "Viral conjunctivitis (EKC)",
+     "group": "5.1 Acute conjunctivitis"
+    },
+    {
+     "id": "w05-02",
+     "title": "Allergic, vernal & atopic",
+     "group": "5.1 Acute conjunctivitis"
+    },
+    {
+     "id": "w05-03",
+     "title": "Bacterial & gonococcal conjunctivitis",
+     "group": "5.1 Acute conjunctivitis"
+    },
+    {
+     "id": "w05-04",
+     "title": "Chlamydia & trachoma",
+     "group": "5.2–5.3 Chronic conjunctivitis"
+    },
+    {
+     "id": "w05-05",
+     "title": "Molluscum, microsporidia, toxic & Parinaud",
+     "group": "5.2–5.3 Chronic conjunctivitis"
+    },
+    {
+     "id": "w05-06",
+     "title": "Superior limbic keratoconjunctivitis",
+     "group": "5.4–5.6 Surface & episclera"
+    },
+    {
+     "id": "w05-07",
+     "title": "Subconjunctival haemorrhage",
+     "group": "5.4–5.6 Surface & episclera"
+    },
+    {
+     "id": "w05-08",
+     "title": "Episcleritis",
+     "group": "5.4–5.6 Surface & episclera"
+    },
+    {
+     "id": "w05-09",
+     "title": "Scleritis: recognise & work up",
+     "group": "5.7 Scleritis"
+    },
+    {
+     "id": "w05-10",
+     "title": "Scleritis: treatment",
+     "group": "5.7 Scleritis"
+    },
+    {
+     "id": "w05-11",
+     "title": "Blepharitis/MGD & ocular rosacea",
+     "group": "5.8–5.11 Lids & surface disease"
+    },
+    {
+     "id": "w05-12",
+     "title": "Mucous membrane pemphigoid",
+     "group": "5.8–5.11 Lids & surface disease"
+    },
+    {
+     "id": "w05-13",
+     "title": "Contact dermatitis",
+     "group": "5.8–5.11 Lids & surface disease"
+    },
+    {
+     "id": "w05-14",
+     "title": "Conjunctival tumours: non-pigmented",
+     "group": "5.12–5.13 Tumours"
+    },
+    {
+     "id": "w05-15",
+     "title": "Pigmented lesions & iris melanoma",
+     "group": "5.12–5.13 Tumours"
+    }
+   ]
   },
   {
    "id": "ch06",

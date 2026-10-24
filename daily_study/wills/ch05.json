@@ -1,0 +1,343 @@
+{
+ "id": "ch05",
+ "num": 5,
+ "title": "Conjunctiva/Sclera/Iris/External Disease",
+ "chunks": [
+  {
+   "id": "w05-01",
+   "group": "5.1 Acute conjunctivitis",
+   "title": "Viral conjunctivitis (EKC)",
+   "minutes": 4,
+   "tldr": "<b>Follicles on lower lid + tender preauricular node</b>, watery, one eye then the other, after a cold. <b>Adenovirus 8, 19, 37</b> (EKC); <b>3, 7</b> = pharyngoconjunctival fever (kids). Worse days 4–7, lasts 2–3 weeks, <b>contagious ~10–12 days</b>. Rx: hygiene, cool compresses, PF tears; <b>peel membranes</b>; steroids for membranes or <b>vision-reducing SEIs</b> (1–2 weeks later). No routine antibiotics.",
+   "points": [
+    "Early sign: intraepithelial microcysts.",
+    "Acute haemorrhagic conjunctivitis: enterovirus 70, coxsackie A24 (tropics).",
+    "Steroids shorten symptoms but prolong shedding; SEIs can rebound on taper; only after slit-lamp exam.",
+    "Antihistamine drop for itch.",
+    "Off work/school while red and weeping.",
+    "<b>HSV conjunctivitis</b>: unilateral follicular + lid vesicles → antivirals, <b>no steroids</b>."
+   ],
+   "hook": "<b>Follicles + node + recent cold = viral; wash hands, wait 3 weeks.</b>",
+   "cards": [
+    {
+     "q": "When do adenoviral subepithelial infiltrates appear?",
+     "a": "About 1–2 weeks after onset of conjunctivitis."
+    },
+    {
+     "q": "Adenovirus serotypes causing pharyngoconjunctival fever?",
+     "a": "Types 3 and 7."
+    }
+   ]
+  },
+  {
+   "id": "w05-02",
+   "group": "5.1 Acute conjunctivitis",
+   "title": "Allergic, vernal & atopic",
+   "minutes": 4,
+   "tldr": "<b>Allergic</b>: itch, chemosis, papillae, <b>no node</b>. Rx: avoid trigger, cold compresses, <b>antihistamine/mast cell drops</b> (olopatadine, alcaftadine, ketotifen…), brief mild steroid if severe, oral antihistamine. <b>Vernal</b> (young boys, spring): <b>cobblestone upper tarsal papillae, Horner–Trantas dots, shield ulcer</b>. <b>Atopic</b>: eczema/asthma, all year. Rx: start mast-cell drops <b>2–3 weeks before season</b>, ciclosporin, <b>tacrolimus</b> for lids.",
+   "points": [
+    "Thick ropy discharge in VKC/AKC.",
+    "Shield ulcer: steroid + antibiotic + cycloplegic; may need scraping of plaque.",
+    "Topical NSAID helps but corneal toxicity with chronic use.",
+    "Monitor IOP even with steroid on skin."
+   ],
+   "hook": "<b>Spring + boy + cobblestones + shield = vernal.</b>",
+   "cards": [
+    {
+     "q": "What are Horner–Trantas dots?",
+     "a": "Limbal white dots of degenerated eosinophils in vernal/atopic keratoconjunctivitis."
+    },
+    {
+     "q": "Treatment of a vernal shield ulcer?",
+     "a": "Topical steroid + antibiotic + cycloplegic (± scrape the plaque); continue antiallergy drops."
+    }
+   ]
+  },
+  {
+   "id": "w05-03",
+   "group": "5.1 Acute conjunctivitis",
+   "title": "Bacterial & gonococcal conjunctivitis",
+   "minutes": 4,
+   "tldr": "<b>Bacterial</b>: purulent discharge, papillae, no node; Staph, Strep pneumoniae, <b>H. influenzae (kids, otitis → oral co-amoxiclav)</b>, Moraxella; topical antibiotic 5–7 days. <b>Gonococcal</b>: <b>hyperacute (12–24 h), copious pus, node</b> → Gram stain; <b>ceftriaxone 1 g IM + azithromycin 1 g</b>; <b>IV ceftriaxone if cornea involved</b> (can perforate); saline washes; treat chlamydia + partners.",
+   "points": [
+    "Culture if severe, recurrent or recalcitrant.",
+    "Check whole cornea for peripheral (superior) ulcers in gonococcus.",
+    "Alternatives (ceph allergy): gemifloxacin or gentamicin + azithromycin 2 g.",
+    "Topical FQ hourly if cornea involved.",
+    "Dacryocystitis-associated → systemic antibiotics.",
+    "<b>Pediculosis</b>: lice/nits on lashes → remove, bland ointment t.i.d. 10 days, shampoo contacts; in kids consider abuse."
+   ],
+   "hook": "<b>Pus pouring within a day = gonococcus → systemic ceftriaxone.</b>",
+   "cards": [
+    {
+     "q": "First-line treatment for adult gonococcal conjunctivitis?",
+     "a": "Ceftriaxone 1 g IM single dose plus azithromycin 1 g oral (IV ceftriaxone if cornea involved)."
+    },
+    {
+     "q": "Why treat H. influenzae conjunctivitis orally?",
+     "a": "Risk of otitis media, pneumonia, meningitis."
+    }
+   ]
+  },
+  {
+   "id": "w05-04",
+   "group": "5.2–5.3 Chronic conjunctivitis",
+   "title": "Chlamydia & trachoma",
+   "minutes": 4,
+   "tldr": "<b>Adult inclusion conjunctivitis</b> (serotypes D–K, sexually transmitted): chronic follicular, superior pannus, node, peripheral SEIs. Test PCR/IF (fluorescein interferes). Rx: <b>azithromycin 1 g once</b> or doxycycline 7 days + partners. <b>Trachoma</b> (A–C): <b>Arlt line, Herbert pits</b>, trichiasis, scarring. WHO <b>TF, TI, TS, TT, CO</b>. Rx: azithromycin 20 mg/kg; <b>SAFE</b> strategy.",
+   "points": [
+    "Chronic = &gt;4 weeks. DDx: Parinaud, silent dacryocystitis, CL, tumours, autoimmune.",
+    "Giemsa: intracytoplasmic inclusion bodies.",
+    "Trachoma Rx also topical tetracycline/erythromycin 3–4 weeks; no tetracyclines &lt;8 yrs/pregnancy.",
+    "TF = &gt;5 follicles upper tarsus; TI = &gt;50% vessels obscured; TT = ≥1 lash touching."
+   ],
+   "hook": "<b>Arlt line + Herbert pits = trachoma.</b>",
+   "cards": [
+    {
+     "q": "Name the WHO trachoma grades.",
+     "a": "TF (follicular), TI (intense), TS (scarring), TT (trichiasis), CO (corneal opacity)."
+    },
+    {
+     "q": "What are Herbert pits?",
+     "a": "Scarred limbal follicles – sign of previous trachoma."
+    }
+   ]
+  },
+  {
+   "id": "w05-05",
+   "group": "5.2–5.3 Chronic conjunctivitis",
+   "title": "Molluscum, microsporidia, toxic & Parinaud",
+   "minutes": 4,
+   "tldr": "<b>Molluscum</b>: umbilicated lid-margin nodule → chronic follicular conjunctivitis; <b>remove lesion</b>; many lesions → test HIV. <b>Toxic (medicamentosa)</b>: inferior papillae/staining from glaucoma drops, aminoglycosides, antivirals, BAK → stop drop. <b>Parinaud oculoglandular</b>: conjunctival granuloma + big preauricular/submandibular node — <b>cat-scratch (Bartonella)</b>, tularaemia, TB, syphilis.",
+   "points": [
+    "Microsporidia: coarse punctate keratitis, HIV; fumagillin/PHMB, albendazole.",
+    "Long-term atropine, miotics, adrenaline cause follicles.",
+    "Cat-scratch usually self-limits in 6 weeks; azithromycin option; cat can stay.",
+    "Tularaemia: rabbits/ticks → gentamicin.",
+    "Workup if no cat history: biopsy, cultures, syphilis serology, ACE, CXR/IGRA."
+   ],
+   "hook": "<b>Lump in the conjunctiva + lump by the ear + kitten = cat-scratch.</b>",
+   "cards": [
+    {
+     "q": "Commonest cause of Parinaud oculoglandular syndrome?",
+     "a": "Cat-scratch disease (Bartonella henselae)."
+    },
+    {
+     "q": "Treatment of molluscum-related chronic conjunctivitis?",
+     "a": "Remove the lid lesion (excision, curettage or cryo)."
+    }
+   ]
+  },
+  {
+   "id": "w05-06",
+   "group": "5.4–5.6 Surface & episclera",
+   "title": "Superior limbic keratoconjunctivitis",
+   "minutes": 3,
+   "tldr": "Sectoral <b>superior bulbar injection + thickening</b>, superior staining, filaments, micropannus; often loose superior conjunctiva. <b>~50% thyroid disease</b> → TFTs. Rx: PF lubricants, plugs, treat blepharitis, ciclosporin/lifitegrast, bandage CL; then serum, tacrolimus, acetylcysteine, <b>0.5% silver nitrate solution</b> (never the sticks), botox to Riolan, conjunctival resection/cautery.",
+   "points": [
+    "Look by lifting lid in room light on downgaze.",
+    "Low-dose doxycycline helps (MMP)."
+   ],
+   "hook": "<b>SLK → check the thyroid.</b>",
+   "cards": [
+    {
+     "q": "Systemic test in superior limbic keratoconjunctivitis?",
+     "a": "Thyroid function tests (~50% have thyroid disease)."
+    }
+   ]
+  },
+  {
+   "id": "w05-07",
+   "group": "5.4–5.6 Surface & episclera",
+   "title": "Subconjunctival haemorrhage",
+   "minutes": 2,
+   "tldr": "Bright red patch, painless, scary-looking but harmless. Causes: <b>Valsalva</b>, trauma, <b>hypertension</b>, diabetes, anticoagulants/antiplatelets, bleeding disorders. <b>Check BP</b>; recurrent → clotting screen, FBC/film; traumatic → rule out rupture/retrobulbar bleed. Resolves 2–4 weeks; don't stop blood thinners without the GP.",
+   "points": [
+    "DDx: Kaposi sarcoma (purple, raised → HIV test), lymphoma/amyloid bleeding.",
+    "Orbital signs without trauma → image for mass (neuroblastoma in kids, lymphangioma)."
+   ],
+   "hook": "<b>Red patch, no pain, normal vision → check BP and reassure.</b>",
+   "cards": [
+    {
+     "q": "Workup for recurrent subconjunctival haemorrhages?",
+     "a": "BP, PT/aPTT, FBC with film, LFTs (± protein C/S) and look for a conjunctival lesion."
+    }
+   ]
+  },
+  {
+   "id": "w05-08",
+   "group": "5.4–5.6 Surface & episclera",
+   "title": "Episcleritis",
+   "minutes": 3,
+   "tldr": "Young–middle-aged (women), sectoral redness, <b>mild ache</b>, no discharge, vision normal. Vessels <b>move with a cotton bud</b> and <b>blanch with phenylephrine 2.5%</b>. ~60% idiopathic; also zoster, rosacea, atopy, RA/IBD/AS/SLE, gout, topiramate/pamidronate. Rx: tears; topical NSAID or mild steroid; oral NSAID.",
+   "points": [
+    "Nodular form: nodule moves over sclera.",
+    "Look in daylight for violaceous scleritis hue.",
+    "Recurrent/systemic clues → bloods (ANA, RF, anti-CCP, ESR, urate, syphilis, ANCA)."
+   ],
+   "hook": "<b>Blanches with phenylephrine = episcleritis; doesn't = scleritis.</b>",
+   "cards": [
+    {
+     "q": "How does phenylephrine 2.5% help distinguish episcleritis from scleritis?",
+     "a": "Episcleral vessels blanch; deep scleral vessels stay engorged."
+    }
+   ]
+  },
+  {
+   "id": "w05-09",
+   "group": "5.7 Scleritis",
+   "title": "Scleritis: recognise & work up",
+   "minutes": 4,
+   "tldr": "<b>Severe boring pain</b> radiating to brow/jaw, <b>wakes at night</b>, tender globe; <b>violaceous</b> hue in daylight; deep vessels <b>don't move or blanch</b>. Types: diffuse, nodular, <b>necrotising with inflammation</b>, <b>scleromalacia perforans</b> (painless, old women with RA), <b>posterior</b> (folds, exudative RD, disc swelling, <b>T-sign on B-scan</b>). <b>~50% systemic disease</b> (RA, GPA, polychondritis, SLE, IBD…).",
+   "points": [
+    "Infectious: Pseudomonas, atypical mycobacteria, fungi, Nocardia, zoster, syphilis, after pterygium surgery with MMC/beta radiation, scleral buckle (Proteus).",
+    "Red-free light to find avascular (necrotic) areas.",
+    "Bloods: FBC, creatinine, ESR, CRP, urate, syphilis, <b>ANCA</b>, RF, anti-CCP, ANA, ACE, complement, urinalysis; ± IGRA, Lyme, HLA-B27, CXR.",
+    "Posterior scleritis mimics: VKH, melanoma, metastasis, haemangioma.",
+    "Can be part of orbital inflammation (IOIS)."
+   ],
+   "hook": "<b>Pain that wakes you + purple sclera = scleritis → find the vasculitis.</b>",
+   "cards": [
+    {
+     "q": "B-scan sign of posterior scleritis?",
+     "a": "T-sign (fluid in sub-Tenon space around the optic nerve)."
+    },
+    {
+     "q": "What is scleromalacia perforans?",
+     "a": "Painless necrotising scleritis without inflammation, typically in elderly women with longstanding RA."
+    }
+   ]
+  },
+  {
+   "id": "w05-10",
+   "group": "5.7 Scleritis",
+   "title": "Scleritis: treatment",
+   "minutes": 3,
+   "tldr": "Diffuse/nodular: <b>oral NSAID</b> (try several) → <b>prednisone 60–80 mg</b> taper (IV methylpred 1 g × 3 if severe) → <b>immunosuppressants/biologics</b> if &gt;7.5–10 mg needed. <b>Necrotising</b> (esp. RA): urgent aggressive immunosuppression — <b>mortality from systemic vasculitis</b>; patch graft if perforation risk. <b>No periocular steroid in necrotising disease.</b> Infectious: debride, culture, antimicrobials, remove buckle.",
+   "points": [
+    "Gut protection + calcium/vit D with steroids.",
+    "Topical therapy usually weak; difluprednate sometimes helps mild cases.",
+    "Subconjunctival triamcinolone option for non-necrotising if can't tolerate systemic.",
+    "Shield/glasses if thin.",
+    "Less pain = first sign of response."
+   ],
+   "hook": "<b>NSAID → steroid → immunosuppressant; never inject a melting sclera.</b>",
+   "cards": [
+    {
+     "q": "Why is necrotising scleritis in RA an emergency?",
+     "a": "It signals systemic vasculitis with increased mortality (coronary/cerebral arteritis); needs urgent immunosuppression."
+    }
+   ]
+  },
+  {
+   "id": "w05-11",
+   "group": "5.8–5.11 Lids & surface disease",
+   "title": "Blepharitis/MGD & ocular rosacea",
+   "minutes": 4,
+   "tldr": "<b>Blepharitis</b>: crusty red lid margins, collarettes, capped meibomian glands; <b>worse in the morning</b>. Rx: <b>lid scrubs + warm compresses</b>, tears, erythromycin/azithromycin at night, ± steroid-antibiotic ointment, <b>doxycycline</b> or oral azithromycin pulses; <b>Demodex</b> (cylindrical sleeves) → <b>tea-tree oil/hypochlorous</b>; IPL, thermal pulsation. <b>Rosacea</b>: facial flushing/telangiectasia, inferior corneal vessels/infiltrates → doxycycline, avoid triggers, metronidazole gel.",
+   "points": [
+    "Unilateral/asymmetric refractory blepharitis → think <b>sebaceous carcinoma</b>.",
+    "Doxy: not in pregnancy, breastfeeding, &lt;8 yrs (erythromycin instead); photosensitivity.",
+    "Rosacea triggers: hot drinks, alcohol, smoking, stress.",
+    "Rosacea can perforate the cornea (glue if &lt;1–2 mm)."
+   ],
+   "hook": "<b>Scrub, heat, doxy.</b> Sleeves on lashes = Demodex.",
+   "cards": [
+    {
+     "q": "Sign suggesting Demodex blepharitis?",
+     "a": "Cylindrical sleeves (collarettes) at the base of lashes."
+    },
+    {
+     "q": "Red flag in chronic blepharitis?",
+     "a": "Unilateral or asymmetric, treatment-resistant disease – exclude sebaceous carcinoma."
+    }
+   ]
+  },
+  {
+   "id": "w05-12",
+   "group": "5.8–5.11 Lids & surface disease",
+   "title": "Mucous membrane pemphigoid",
+   "minutes": 4,
+   "tldr": "&gt;55, bilateral, insidious: <b>inferior symblepharon, short lower fornix</b>, tarsal scarring → trichiasis, entropion, dry eye, keratinised cornea, ankyloblepharon. Mouth (<b>desquamative gingivitis</b>), oesophagus, genitals. Stages I–IV (Foster). <b>Biopsy for direct immunofluorescence</b>. Rx: lubricate, lid care, scleral lens; <b>systemic immunosuppression</b> (mycophenolate, methotrexate, cyclophosphamide, rituximab, IVIG), <b>dapsone</b> (check G6PD).",
+   "points": [
+    "Pull lower lid down on upgaze to see fornix shortening.",
+    "DDx: SJS/TEN (acute, drugs), old membranous conjunctivitis, chemical burn, <b>chronic drops (pilocarpine, echothiophate)</b>, atopy, radiation, SCC.",
+    "Surgery only when quiet (scarring flare); mucous membrane grafts; KPro end-stage.",
+    "Dapsone: haemolysis, weekly FBC + reticulocytes initially."
+   ],
+   "hook": "<b>Old person + shrinking fornix + sore gums = pemphigoid.</b>",
+   "cards": [
+    {
+     "q": "Diagnostic test for mucous membrane pemphigoid?",
+     "a": "Conjunctival (or oral) biopsy with direct immunofluorescence (linear basement membrane deposits)."
+    },
+    {
+     "q": "Test required before dapsone?",
+     "a": "G6PD level (and FBC)."
+    }
+   ]
+  },
+  {
+   "id": "w05-13",
+   "group": "5.8–5.11 Lids & surface disease",
+   "title": "Contact dermatitis",
+   "minutes": 2,
+   "tldr": "Sudden itchy red <b>lichenified/vesicular lid skin</b> + chemosis out of proportion — usually <b>drops or cosmetics</b>. Stop the culprit, cool compresses, PF tears/antihistamine, <b>tacrolimus ointment</b> or short mild steroid ointment, oral antihistamine.",
+   "points": [
+    "DDx: zoster (dermatomal pain), eczema, impetigo (honey crusts), cellulitis."
+   ],
+   "hook": "<b>New drop + itchy scaly lids = contact dermatitis.</b>",
+   "cards": [
+    {
+     "q": "Most common causes of periocular contact dermatitis?",
+     "a": "Eye drops (e.g., neomycin, preservatives) and cosmetics."
+    }
+   ]
+  },
+  {
+   "id": "w05-14",
+   "group": "5.12–5.13 Tumours",
+   "title": "Conjunctival tumours: non-pigmented",
+   "minutes": 4,
+   "tldr": "<b>Dermoid</b> (inferotemporal limbus, Goldenhar; may be very thin underneath). <b>Dermolipoma</b> (superotemporal, goes into orbit — leave). <b>Pyogenic granuloma</b> (steroid-antibiotic). <b>Lymphangioma</b> (cystic, 'chocolate cyst', bleomycin). <b>Papilloma</b> viral (kids, leave/cimetidine) vs non-viral (older, excise). <b>CIN/SCC</b> (gelatinous limbal → excise + cryo / MMC/5-FU/IFN). <b>Lymphoma</b> (salmon). <b>Kaposi</b> (HIV). <b>Amyloid</b> (waxy, bleeds).",
+   "points": [
+    "Granuloma: sarcoid/TB/FB — good biopsy site.",
+    "Lymphoma: fresh tissue for immunohistochemistry; rituximab, low-dose RT; systemic staging.",
+    "Osseous choristoma: hard, superotemporal.",
+    "Amelanotic melanoma: vascular limbal lesion; look for PAM.",
+    "Sebaceous carcinoma can spread pagetoid onto conjunctiva."
+   ],
+   "hook": "<b>Salmon = lymphoma; jelly at the limbus = CIN.</b>",
+   "cards": [
+    {
+     "q": "Treatment of conjunctival intraepithelial neoplasia?",
+     "a": "Complete excision with cryotherapy to margins; or topical MMC, 5-FU or interferon."
+    }
+   ]
+  },
+  {
+   "id": "w05-15",
+   "group": "5.12–5.13 Tumours",
+   "title": "Pigmented lesions & iris melanoma",
+   "minutes": 4,
+   "tldr": "<b>Naevus</b>: puberty, interpalpebral, <b>cysts</b>; photo, review 6–12 months. <b>Ocular melanocytosis/Ota</b>: blue-grey <b>episcleral</b> (doesn't move), darker iris → uveal melanoma (~1/400), glaucoma. <b>PAM</b>: flat brown, no cysts, older whites, 10–30% → melanoma; 1–2 clock h observe, 2–4 excise + cryo, &gt;4 incisional biopsy + cryo. <b>Melanoma</b>: vascular nodule, feeder vessel → no-touch excision + cryo, sentinel node. <b>Iris melanoma</b>: inferior, &gt;3 mm × 1 mm, growth, feeder vessel, hyphaema, glaucoma.",
+   "points": [
+    "Other pigment: alkaptonuria (ochronosis), argyrosis, adrenochrome (adrenaline drops), mascara, staphyloma.",
+    "Check for underlying ciliary body melanoma (dilate, transilluminate, UBM).",
+    "Iris naevus: flat, &lt;3 mm, rarely grows; iris pigment epithelium tumours black, posterior.",
+    "Iris mets: fast, multiple, shed cells (pseudohypopyon)."
+   ],
+   "hook": "<b>Moves with conjunctiva = conjunctival; doesn't = episcleral (melanocytosis).</b>",
+   "cards": [
+    {
+     "q": "Management of PAM 2–4 clock hours?",
+     "a": "Excisional biopsy with cryotherapy."
+    },
+    {
+     "q": "Risk of uveal melanoma in ocular melanocytosis?",
+     "a": "About 1 in 400."
+    }
+   ]
+  }
+ ]
+}
