@@ -520,7 +520,63 @@
    "num": 7,
    "title": "Orbit",
    "file": "ch07.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "w07-01",
+     "title": "Orbital disease: the framework",
+     "group": "7.1 Approach"
+    },
+    {
+     "id": "w07-02",
+     "title": "Thyroid eye disease: signs",
+     "group": "7.2 Inflammatory"
+    },
+    {
+     "id": "w07-03",
+     "title": "Thyroid eye disease: treatment",
+     "group": "7.2 Inflammatory"
+    },
+    {
+     "id": "w07-04",
+     "title": "Idiopathic orbital inflammation & IgG4",
+     "group": "7.2 Inflammatory"
+    },
+    {
+     "id": "w07-05",
+     "title": "Orbital cellulitis",
+     "group": "7.3 Infectious"
+    },
+    {
+     "id": "w07-06",
+     "title": "Subperiosteal abscess & cavernous sinus thrombosis",
+     "group": "7.3 Infectious"
+    },
+    {
+     "id": "w07-07",
+     "title": "Acute dacryoadenitis",
+     "group": "7.3 Infectious"
+    },
+    {
+     "id": "w07-08",
+     "title": "Orbital tumours in children",
+     "group": "7.4 Tumours"
+    },
+    {
+     "id": "w07-09",
+     "title": "Orbital tumours in adults",
+     "group": "7.4 Tumours"
+    },
+    {
+     "id": "w07-10",
+     "title": "Lacrimal gland masses",
+     "group": "7.6 Lacrimal gland"
+    },
+    {
+     "id": "w07-11",
+     "title": "Carotid–cavernous fistula & other",
+     "group": "7.7 Miscellaneous"
+    }
+   ]
   },
   {
    "id": "ch08",
