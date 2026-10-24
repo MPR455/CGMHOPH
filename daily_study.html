@@ -153,7 +153,7 @@ body.theme-black .badge{background:#1a1a1a}
     <a href="mindmaps.html">Mind Maps</a>
     <a href="daily_study.html" class="active">Daily Study</a>
   </nav>
-  <span class="hdr-title">📖 Kanski, one bite at a time</span>
+  <span class="hdr-title" id="hdr-title">📖 One bite at a time</span>
 </header>
 <div id="menu-dd" class="menu-dd"></div>
 
@@ -164,6 +164,7 @@ body.theme-black .badge{background:#1a1a1a}
         <h2 style="margin:0">Topics</h2>
         <button class="btn sec sm" id="toggle-side" style="margin-left:auto" onclick="document.getElementById('side').classList.toggle('collapsed')">Show / hide</button>
       </div>
+      <select class="search" id="book-sel" style="margin:8px 0 0;font-weight:600" onchange="switchBook(this.value)" aria-label="Choose book"></select>
       <div class="small" id="prog-txt" style="margin-top:6px">Loading…</div>
       <div class="prog"><div id="prog-bar"></div></div>
       <div class="tree">
@@ -177,8 +178,10 @@ body.theme-black .badge{background:#1a1a1a}
 <div class="toast" id="toast"></div>
 
 <script>
+var BOOKS = [];            // daily_study/books.json
+var BOOK = null;           // current book entry {id,title,short,dir}
 var DATA_DIR = "daily_study/";
-var IDX = null;            // daily_study/index.json
+var IDX = null;            // <book dir>/index.json
 var CHAPTERS = {};         // id -> loaded chapter JSON (lazy)
 var LOADING = {};
 var CUR = null;            // {chap, i}
@@ -189,11 +192,49 @@ function saveDone(){ try{ localStorage.setItem("cgmh_daily_done", JSON.stringify
 function esc(s){ return String(s).replace(/[&<>"]/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
 function toast(t){ var el=document.getElementById("toast"); el.textContent=t; el.classList.add("show"); setTimeout(function(){ el.classList.remove("show"); }, 1600); }
 
-function loadIndex(){
+// Hash is "#<bookId>:<chunkId>"; a bare "#<chunkId>" is an old Kanski link.
+function parseHash(){
+  var h = decodeURIComponent(location.hash.replace("#",""));
+  if(!h) return null;
+  var p = h.indexOf(":");
+  return p<0 ? {book:"kanski", chunk:h} : {book:h.slice(0,p), chunk:h.slice(p+1)};
+}
+function loadBooks(){
+  fetch("daily_study/books.json", {cache:"no-cache"}).then(function(r){ return r.json(); }).then(function(j){
+    BOOKS = j.books;
+  }).catch(function(){
+    BOOKS = [{id:"kanski", title:"Kanski's Clinical Ophthalmology", short:"Kanski", dir:"daily_study/"}];
+  }).then(function(){
+    var want = null, ph = parseHash();
+    if(ph) want = ph.book;
+    if(!want){ try{ want = localStorage.getItem("cgmh_daily_book"); }catch(e){} }
+    var b = BOOKS.find(function(x){ return x.id===want; }) || BOOKS[0];
+    document.getElementById("book-sel").innerHTML = BOOKS.map(function(x){ return '<option value="'+esc(x.id)+'">📚 '+esc(x.title)+'</option>'; }).join("");
+    selectBook(b, ph && ph.book===b.id ? ph.chunk : null);
+  });
+}
+function selectBook(b, chunkId){
+  BOOK = b; DATA_DIR = b.dir; IDX = null; CHAPTERS = {}; LOADING = {}; CUR = null;
+  document.getElementById("book-sel").value = b.id;
+  document.getElementById("hdr-title").textContent = "📖 "+b.short+", one bite at a time";
+  document.getElementById("search").value = "";
+  try{ localStorage.setItem("cgmh_daily_book", b.id); }catch(e){}
+  loadIndex(chunkId);
+}
+function switchBook(id){
+  var b = BOOKS.find(function(x){ return x.id===id; });
+  if(!b || (BOOK && BOOK.id===id)) return;
+  history.replaceState(null,"",location.pathname+location.search);
+  selectBook(b, null);
+}
+
+function loadIndex(chunkId){
+  var book = BOOK;
+  document.getElementById("tree").innerHTML='<div class="loading">Loading…</div>';
   fetch(DATA_DIR+"index.json", {cache:"no-cache"}).then(function(r){ return r.json(); }).then(function(j){
+    if(book!==BOOK) return;  // user switched book while loading
     IDX = j; renderTree(); updateProgress();
-    var h = location.hash.replace("#","");
-    if(h){ openChunkById(h); } else { renderWelcome(); }
+    if(chunkId){ openChunkById(chunkId); } else { renderWelcome(); }
   }).catch(function(){
     document.getElementById("tree").innerHTML='<div class="loading">Could not load topic list. (If opened as a local file, use a local server or the GitHub Pages site.)</div>';
   });
@@ -264,7 +305,7 @@ function nextUndone(){ return allChunks().find(function(x){ return !DONE[x.id]; 
 function renderWelcome(){
   var n=nextUndone();
   document.getElementById("view").innerHTML =
-   '<div class="card welcome"><h2>Daily Study — Kanski, dumbed down</h2>'
+   '<div class="card welcome"><h2>Daily Study — '+esc(BOOK.short)+', dumbed down</h2>'
    +'<p>Each <b>bite</b> takes about <b>3–5 minutes</b>: one TL;DR line, a few numbered points, a memory hook, and flip cards to test yourself.</p>'
    +'<p>Do a few bites, tick them off, take a break. Your progress is saved in this browser.</p>'
    +'<div class="navrow">'+(n?'<button class="btn" onclick="openChunk(\''+n.chap+'\','+n.i+')">▶ Start next bite</button>':'<span class="small">All bites done 🎉</span>')
@@ -280,10 +321,12 @@ function openChunkById(cid){
 
 function openChunk(id, i){
   document.getElementById("view").innerHTML='<div class="card loading">Loading…</div>';
+  var book = BOOK;
   loadChapter(id).then(function(ch){
+    if(book!==BOOK) return;
     CUR={chap:id,i:i};
     var k=ch.chunks[i], meta=IDX.chapters.find(function(c){ return c.id===id; });
-    history.replaceState(null,"","#"+k.id);
+    history.replaceState(null,"","#"+BOOK.id+":"+k.id);
     var h='<div class="card chunk">'
       +'<div class="hero"><div class="crumb">Ch '+meta.num+' · '+esc(meta.title)+(k.group?' › '+esc(k.group):'')+'</div>'
       +'<span class="badge">⏱ ~'+(k.minutes||3)+' min · bite '+(i+1)+'/'+ch.chunks.length+'</span></div>'
@@ -347,11 +390,11 @@ function markThemeDot(){
 }
 document.addEventListener("click", function(e){ if(!e.target.closest("#menu-wrap") && !e.target.closest("#menu-dd")) closeMenu(); });
 document.addEventListener("keydown", function(e){
-  if(!CUR || e.target.tagName==="INPUT") return;
+  if(!CUR || e.target.tagName==="INPUT" || e.target.tagName==="SELECT") return;
   if(e.key==="ArrowRight") step(1); else if(e.key==="ArrowLeft") step(-1);
 });
 
-(function(){ var t="default"; try{ t=localStorage.getItem("cgmh_theme")||"default"; }catch(e){} buildMenu(); setTheme(t); loadIndex(); })();
+(function(){ var t="default"; try{ t=localStorage.getItem("cgmh_theme")||"default"; }catch(e){} buildMenu(); setTheme(t); loadBooks(); })();
 </script>
 </body>
 </html>
