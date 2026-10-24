@@ -1,0 +1,139 @@
+{
+ "id": "ch06", "num": 6, "title": "Eyelid",
+ "chunks": [
+  {
+   "id": "w06-01", "group": "6.1–6.2 Ptosis & lumps", "title": "Ptosis: don't miss list & types", "minutes": 4,
+   "tldr": "Rule out the dangerous ones: <b>Horner, III nerve palsy, myasthenia, orbital/lid tumour, CPEO (Kearns–Sayre)</b>. Types: <b>aponeurotic</b> (commonest; high crease, good levator 10–15 mm, worse in downgaze), <b>myogenic/congenital</b> (poor levator 0–5 mm, no crease), <b>neurogenic</b>, mechanical, traumatic, <b>pseudoptosis</b>. <b>Always document pupils + motility.</b>",
+   "points": [
+    "Aponeurotic causes: ageing, rubbing, RGP lens handling, trauma, intraocular surgery (speculum).",
+    "Horner: ~2 mm upper + lower lid 'reverse ptosis'.",
+    "Marcus Gunn jaw-wink: lid rises with jaw movement.",
+    "Pseudoptosis: contralateral retraction/proptosis, enophthalmos, hypertropia, dermatochalasis, brow ptosis.",
+    "Measure MRD1, levator function (block frontalis), crease, Hertel, lagophthalmos, Bell, fatigue, palpate superior orbit.",
+    "Young + ptosis + ophthalmoplegia → dilate for pigmentary retinopathy → <b>urgent ECG</b> (KSS heart block).",
+    "Tests: <b>ice test</b> (MG), <b>phenylephrine 2.5%</b> (predicts Müller resection response).",
+    "<b>Every III nerve palsy</b> (pupil-sparing too) → urgent CTA/MRA; Horner → head + neck imaging (dissection), chest CT."
+   ],
+   "hook": "<b>Ptosis + big pupil = III; + small pupil = Horner; + fatigue = MG.</b>",
+   "cards": [
+    {"q": "Levator function in aponeurotic vs congenital myogenic ptosis?", "a": "Aponeurotic: good (10–15 mm). Congenital myogenic: poor (0–5 mm)."},
+    {"q": "Purpose of the phenylephrine test in ptosis?", "a": "Lid elevation after 2.5% phenylephrine predicts good outcome with Müller muscle–conjunctival resection."}
+   ]
+  },
+  {
+   "id": "w06-02", "group": "6.1–6.2 Ptosis & lumps", "title": "Ptosis management", "minutes": 2,
+   "tldr": "Treat cause. Non-surgical: observe, tape, <b>lid crutches</b>. Surgery: <b>levator advancement</b> (good function), <b>frontalis sling</b> (poor function), <b>Müllerectomy</b>/Fasanella–Servat (mild, phenylephrine-responsive). Congenital: watch <b>amblyopia</b> (occlusion or astigmatism). Traumatic: wait <b>6 months</b>.",
+   "points": [
+    "Postop: infection, bleeding, exposure, asymmetry; mild lagophthalmos 2–3 weeks normal.",
+    "Poor Bell/lagophthalmos → under-correct to protect cornea."
+   ],
+   "hook": "<b>Good levator → advance it. No levator → borrow frontalis.</b>",
+   "cards": [{"q": "Surgery for ptosis with poor levator function?", "a": "Frontalis suspension (sling)."}]
+  },
+  {
+   "id": "w06-03", "group": "6.1–6.2 Ptosis & lumps", "title": "Chalazion & hordeolum", "minutes": 3,
+   "tldr": "<b>Chalazion</b> = blocked meibomian/Zeis gland, firm lump. <b>Hordeolum</b> = acute staph abscess (external Zeis / internal meibomian). Rx: <b>warm compresses + massage q.i.d.</b>, short antibiotic (hordeolum) or antibiotic-steroid ointment (chalazion), doxycycline if recurrent/rosacea. Persisting 3–4 weeks → <b>I&amp;C</b> or <b>intralesional triamcinolone</b>. <b>Recurrent chalazion in older patient → biopsy (sebaceous carcinoma).</b>",
+   "points": [
+    "Steroid injection risks: skin depigmentation/atrophy (dark skin), rare retinal artery occlusion.",
+    "Worsening hordeolum → I&amp;D, treat as preseptal cellulitis.",
+    "DDx: preseptal cellulitis, forniceal FB, pyogenic granuloma.",
+    "Send all excised atypical/recurrent lesions for histology."
+   ],
+   "hook": "<b>Same spot, again and again, in an older person = biopsy it.</b>",
+   "cards": [{"q": "Risk of intralesional steroid for chalazion in dark skin?", "a": "Permanent skin depigmentation/atrophy."}]
+  },
+  {
+   "id": "w06-04", "group": "6.3–6.7 Lid position & spasm", "title": "Ectropion, entropion & trichiasis", "minutes": 4,
+   "tldr": "<b>Ectropion</b>: involutional (laxity, commonest), paralytic (VII — wait 3–6 months), cicatricial, mechanical, allergic, congenital. <b>Entropion</b>: involutional, <b>cicatricial</b> (pemphigoid, SJS, trachoma, burns), spastic (<b>Quickert suture</b>), congenital. <b>Trichiasis</b>: epilate few lashes; recurrent → electrolysis/cryo/RF/laser/surgery; distichiasis; <b>epiblepharon</b> (Asian kids).",
+   "points": [
+    "Lubricate exposed cornea; tape lids as temporary fix.",
+    "VII palsy + hearing loss → image for acoustic neuroma.",
+    "Evert lids in trichiasis to look for scarring/symblepharon.",
+    "Prostaglandin drops can cause trichiasis."
+   ],
+   "hook": "<b>Ecto = Exits outward. Ento = Enters inward.</b>",
+   "cards": [
+    {"q": "Bedside temporary fix for spastic lower lid entropion?", "a": "Quickert (everting) sutures."},
+    {"q": "What is distichiasis?", "a": "An extra row of lashes emerging from meibomian gland orifices."}
+   ]
+  },
+  {
+   "id": "w06-05", "group": "6.3–6.7 Lid position & spasm", "title": "Floppy eyelid syndrome", "minutes": 2,
+   "tldr": "Obese (often male) patient, chronic red irritated eyes worse on waking; <b>upper lid everts with a gentle pull</b>, rubbery tarsus, papillae. Linked to <b>obstructive sleep apnoea</b>, keratoconus, Down. Rx: ointment, <b>tape/shield at night</b>, don't sleep face-down; <b>lateral tarsal strip/wedge resection</b>. <b>Refer for sleep study.</b>",
+   "points": ["Unilateral if they sleep on that side.", "OSA matters for anaesthesia before surgery."],
+   "hook": "<b>Lid flips by itself → ask about snoring.</b>",
+   "cards": [{"q": "Systemic association to check in floppy eyelid syndrome?", "a": "Obstructive sleep apnoea."}]
+  },
+  {
+   "id": "w06-06", "group": "6.3–6.7 Lid position & spasm", "title": "Blepharospasm & mimics", "minutes": 3,
+   "tldr": "<b>Bilateral involuntary orbicularis spasm</b>, gone in sleep; + jaw/neck = <b>Meige</b>. Rx: treat surface irritation, <b>botulinum toxin</b>, myectomy if fails. <b>Hemifacial spasm</b>: one side, <b>persists in sleep → MRI CP angle</b>. Myokymia: harmless lid twitch (caffeine, stress). Also Tourette, tardive dyskinesia, <b>apraxia of lid opening</b> (Parkinson — can't open, no spasm).",
+   "points": ["Typical blepharospasm needs no imaging.", "Lorazepam/methylphenidate occasionally."],
+   "hook": "<b>Both eyes = blepharospasm. One face side = hemifacial (scan).</b>",
+   "cards": [{"q": "Key difference between hemifacial spasm and blepharospasm?", "a": "Hemifacial is unilateral, involves the whole half-face and persists during sleep; needs MRI of CP angle."}]
+  },
+  {
+   "id": "w06-07", "group": "6.8–6.10 Lacrimal & cellulitis", "title": "Canaliculitis", "minutes": 2,
+   "tldr": "<b>Pouting red punctum</b>, nasal-sided recurrent conjunctivitis, <b>gritty concretions</b> on expression. <b>Actinomyces</b> (sulphur granules); also retained <b>punctal plug</b>. Rx: express/<b>canaliculotomy</b> to remove stones, irrigate with antibiotic, topical + oral antibiotics (doxycycline), warm compresses; fungus → nystatin.",
+   "points": ["DDx: dacryocystitis (sac swelling), chalazion, NLDO.", "Ask about previous plugs."],
+   "hook": "<b>Pouting punctum + sulphur stones = Actinomyces.</b>",
+   "cards": [{"q": "Most common organism in canaliculitis?", "a": "Actinomyces israelii."}]
+  },
+  {
+   "id": "w06-08", "group": "6.8–6.10 Lacrimal & cellulitis", "title": "Dacryocystitis", "minutes": 3,
+   "tldr": "Tender red swelling <b>below the medial canthal tendon</b>, pus from punctum on pressure; due to <b>NLDO</b>. Swelling <b>above</b> the tendon → think <b>tumour</b>. Rx: <b>systemic antibiotics</b> (co-amoxiclav/cephalexin; MRSA → TMP-SMX/clindamycin; sick → IV), warm massage, drain pointing abscess. <b>No probing during infection</b>; DCR afterwards.",
+   "points": [
+    "DDx: facial cellulitis (patent system), <b>congenital dacryocystocele</b> (bilateral → check airway), ethmoid sinusitis, frontal mucocele.",
+    "Gram-negative/atypical in diabetics, immunocompromised, nursing homes.",
+    "Topical alone inadequate; 10–14 days total.",
+    "CT if atypical, severe or not responding."
+   ],
+   "hook": "<b>Below the tendon = sac infection; above = suspect tumour.</b>",
+   "cards": [{"q": "Why avoid probing in acute dacryocystitis?", "a": "Risk of spreading infection/false passage; probe and irrigate after it settles."}]
+  },
+  {
+   "id": "w06-09", "group": "6.8–6.10 Lacrimal & cellulitis", "title": "Preseptal cellulitis", "minutes": 4,
+   "tldr": "Red, hot, swollen lids but <b>white eye, no proptosis, full painless motility, normal vision/pupils</b>. Cause: abrasion, bite, hordeolum, dacryocystitis. Mild, &gt;5 yrs, afebrile: <b>oral co-amoxiclav / cefpodoxime</b> (MRSA risk → TMP-SMX, doxy, clindamycin) 10–14 days. <b>Admit for IV</b> (vancomycin + ampicillin-sulbactam/ceftriaxone etc.) if toxic, ≤5 yrs, unreliable, or not better in 24–48 h.",
+   "points": [
+    "DDx: <b>orbital cellulitis</b>, chalazion, allergy, erysipelas, <b>necrotising fasciitis</b> (grey-purple numb skin, septic → emergency debridement), viral conjunctivitis, cavernous sinus thrombosis, HSV/VZV.",
+    "Non-immunised child → H. influenzae.",
+    "Bite/foul discharge → anaerobes.",
+    "CT orbit/sinuses if trauma, FB, orbital signs, abscess, no improvement.",
+    "MRSA risk factors: prior MRSA, contacts, healthcare stay, dialysis, IVDU, prison, contact sports.",
+    "Drain fluctuant abscess; consider steroids once covered."
+   ],
+   "hook": "<b>Swollen lid + quiet eye = preseptal. Proptosis/painful moves = orbital.</b>",
+   "cards": [
+    {"q": "Signs that distinguish orbital from preseptal cellulitis?", "a": "Proptosis, painful/restricted eye movements, reduced vision, RAPD, chemosis."},
+    {"q": "Children of what age with preseptal cellulitis are usually admitted?", "a": "5 years or younger."}
+   ]
+  },
+  {
+   "id": "w06-10", "group": "6.11 Lid tumours", "title": "Benign lid lesions", "minutes": 3,
+   "tldr": "<b>Seborrhoeic keratosis</b> (stuck-on brown), cysts, <b>molluscum</b> (umbilicated, kids/HIV), <b>naevus</b>, <b>xanthelasma</b> (&lt;40 yrs → lipids), squamous papilloma, <b>actinic keratosis</b> (premalignant, scaly). Malignant clues: <b>ulceration, lash loss (madarosis), poliosis, distorted margin, bleeding, telangiectasia</b>.",
+   "points": [
+    "Necrobiotic xanthogranuloma (myeloma) mimics xanthelasma.",
+    "Chronic contact dermatitis can mimic malignancy.",
+    "Diplopia/ophthalmoplegia = orbital invasion."
+   ],
+   "hook": "<b>Lost lashes over a lump = malignant until proven otherwise.</b>",
+   "cards": [{"q": "Which patients with xanthelasma need a lipid profile?", "a": "Those 40 years or younger (consider all)."}]
+  },
+  {
+   "id": "w06-11", "group": "6.11 Lid tumours", "title": "Malignant lid tumours", "minutes": 4,
+   "tldr": "<b>BCC</b> (commonest, lower lid/medial canthus; nodular with telangiectasia/ulcer, or <b>morpheaform</b>) → <b>excision with margin control (Mohs/frozen)</b>; vismodegib if unresectable. <b>SCC</b> (perineural, nodal spread; from actinic keratosis). <b>Keratoacanthoma</b> (crater with keratin = low-grade SCC). <b>Sebaceous carcinoma</b> (elderly women, <b>upper lid</b>, mimics chalazion/blepharitis, pagetoid spread, prior radiation). Others: melanoma, Merkel, lymphoma, mets.",
+   "points": [
+    "Palpate preauricular/submandibular/cervical nodes.",
+    "Incisional biopsy before big surgery; sentinel node for melanoma/sebaceous.",
+    "Lymphoma: send fresh tissue (flow cytometry).",
+    "SCC second-line: radiotherapy; imiquimod/interferon for non-surgical.",
+    "Sun protection advice."
+   ],
+   "table": {"head": ["Tumour", "Where", "Clue"], "rows": [["BCC", "Lower lid, medial canthus", "Pearly, telangiectasia, rolled edge"], ["SCC", "Any", "Scaly, perineural spread"], ["Sebaceous ca", "Upper lid", "'Recurrent chalazion', madarosis"]]},
+   "hook": "<b>BCC Bottom lid; Sebaceous Superior lid.</b>",
+   "cards": [
+    {"q": "Most common malignant eyelid tumour?", "a": "Basal cell carcinoma."},
+    {"q": "Which lid malignancy masquerades as recurrent chalazion or unilateral blepharitis?", "a": "Sebaceous gland carcinoma."}
+   ]
+  }
+ ]
+}
