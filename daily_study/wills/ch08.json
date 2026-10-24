@@ -1,0 +1,405 @@
+{
+ "id": "ch08",
+ "num": 8,
+ "title": "Pediatrics",
+ "chunks": [
+  {
+   "id": "w08-01",
+   "group": "8.1–8.3 Retina in kids",
+   "title": "Leukocoria",
+   "minutes": 4,
+   "tldr": "<b>Retinoblastoma</b> (mean 18 months, normal-size eye, white mass ± calcification, NVI, seeds). <b>Toxocara</b> (puppies/eating dirt, granuloma, traction; ELISA ≥1:8). <b>Coats</b> (boys, unilateral, telangiectasia + yellow exudative RD = xanthocoria). <b>PFV</b> (small eye, stalk, stretched ciliary processes, cataract). Cataract, astrocytoma (TSC), ROP, FEVR, coloboma, myelinated fibres, Norrie, IP.",
+   "points": [
+    "Measure corneal diameter (small eye = PFV), check iris for NV, lens, dilated fundus.",
+    "B-scan (calcification, stalk, RD), FA (Coats/ROP), <b>MRI not CT</b> for RB (radiation → second tumours).",
+    "<b>Never do AC tap if RB possible</b> (seeding).",
+    "EUA often needed; screen at-risk newborns within 1–2 weeks.",
+    "RB Rx: chemoreduction, intra-arterial/intravitreal chemo, cryo, TTT, laser, plaque; enucleation if advanced.",
+    "Toxocara: steroids, vitrectomy for traction; albendazole only for systemic.",
+    "Coats: FA-guided laser ± anti-VEGF; drain big RD.",
+    "PFV: lensectomy + stalk resection; amblyopia therapy (often poor outcome)."
+   ],
+   "hook": "<b>White pupil: RB until proven otherwise — never tap it.</b>",
+   "cards": [
+    {
+     "q": "Leukocoria in a microphthalmic eye with elongated ciliary processes?",
+     "a": "Persistent fetal vasculature."
+    },
+    {
+     "q": "Why is MRI preferred to CT for retinoblastoma?",
+     "a": "Avoids radiation, which increases second malignancy risk (germline RB)."
+    }
+   ]
+  },
+  {
+   "id": "w08-02",
+   "group": "8.1–8.3 Retina in kids",
+   "title": "ROP: zones, stages, plus",
+   "minutes": 4,
+   "tldr": "Screen <b>≤30 weeks or ≤1500 g</b> (or unstable). First exam at <b>31–32 weeks PMA or 4 weeks after birth, whichever later</b>. Zone I = 2× disc–fovea radius round the disc; II = to nasal ora; III = temporal crescent. Stages: <b>1 line, 2 ridge, 3 ridge + NV, 4A/4B partial RD (extra/foveal), 5 total</b>. <b>Plus</b> = dilated tortuous posterior vessels in ≥2 quadrants.",
+   "points": [
+    "Risks: prematurity, low weight, oxygen, sepsis, white race, male.",
+    "Zone I limit: nasal disc edge at one side of a 28 D lens → temporal field edge.",
+    "Don't call zone III until nasal side vascularised to ora.",
+    "Aggressive posterior ROP ('rush'): zone I + plus, skips stages, haemorrhages at junction.",
+    "Pre-plus = abnormal but not enough for plus.",
+    "Dilate with 2 of: phenylephrine 1%, tropicamide 1%, cyclopentolate 0.2–0.5%."
+   ],
+   "hook": "<b>1 line, 2 ridge, 3 vessels, 4 partly off, 5 totally off.</b>",
+   "cards": [
+    {
+     "q": "Criteria for ROP screening?",
+     "a": "Birth weight ≤1500 g or gestational age ≤30 weeks (plus selected unstable larger infants)."
+    },
+    {
+     "q": "Define stage 3 ROP.",
+     "a": "Ridge with extraretinal fibrovascular proliferation."
+    }
+   ]
+  },
+  {
+   "id": "w08-03",
+   "group": "8.1–8.3 Retina in kids",
+   "title": "ROP: treatment & follow-up",
+   "minutes": 3,
+   "tldr": "<b>Type 1 → treat within 48–72 h</b>: zone I any stage + plus; zone I stage 3; zone II stage 2/3 + plus. <b>Type 2 → watch closely</b>: zone I stage 1–2 no plus; zone II stage 3 no plus. Rx: <b>laser to avascular retina</b> (preferred) or <b>intravitreal bevacizumab 0.625 mg</b> (posterior zone I; late recurrence risk). Stage 4–5: vitrectomy.",
+   "points": [
+    "Stop screening: zone III vascularised without prior I/II ROP; PMA 50 weeks without severe ROP; full vascularisation after anti-VEGF.",
+    "After anti-VEGF: follow beyond 65–70 weeks PMA (recurrence); consider prophylactic laser if follow-up uncertain.",
+    "Lifelong yearly exams: myopia, strabismus, amblyopia, macular drag, cataract, glaucoma, late RD.",
+    "Intervals: ≤1 week for zone I or aggressive disease; 2–3 weeks for zone III."
+   ],
+   "hook": "<b>Type 1 = Treat. Type 2 = Too early, watch.</b>",
+   "cards": [
+    {
+     "q": "Name the three Type 1 ROP criteria.",
+     "a": "Zone I any stage with plus; zone I stage 3 without plus; zone II stage 2 or 3 with plus."
+    }
+   ]
+  },
+  {
+   "id": "w08-04",
+   "group": "8.1–8.3 Retina in kids",
+   "title": "Familial exudative vitreoretinopathy",
+   "minutes": 2,
+   "tldr": "Looks like ROP in a <b>full-term</b> baby: <b>temporal avascular periphery</b>, fimbriated vessel ends, <b>macular drag, falciform folds</b>, exudate, RD. Bilateral, asymmetric, <b>Wnt pathway</b> (FZD4, LRP5 — osteoporosis, TSPAN12, NDP). Mostly AD. <b>Wide-field FA</b> for patient + family. Laser if NV/exudate; lifelong follow-up.",
+   "points": [
+    "Relatives are often asymptomatic — examine and FA them."
+   ],
+   "hook": "<b>ROP without prematurity → look at the parents' retinas.</b>",
+   "cards": [
+    {
+     "q": "FEVR gene linked with early-onset osteoporosis?",
+     "a": "LRP5."
+    }
+   ]
+  },
+  {
+   "id": "w08-05",
+   "group": "8.4–8.6 Strabismus",
+   "title": "Esodeviations",
+   "minutes": 4,
+   "tldr": "<b>Pseudoesotropia</b>: wide bridge/epicanthus, normal cover test. <b>Infantile ET</b> (by 6 months, large &gt;40–50 Δ, normal refraction → surgery early). <b>Accommodative</b> (avg 2.5 yrs, hyperopia +3 to +10 → <b>full cycloplegic Rx</b>; high AC/A → bifocals). <b>Acquired non-accommodative</b> — <b>&gt;6 yrs: image for posterior fossa lesion</b>. Sensory ET, divergence insufficiency. <b>Incomitant</b> (worse in side gaze) → VI palsy, restriction → MRI.",
+   "points": [
+    "Correct ≥+2.00 D hyperopia in esotropes; treat amblyopia first.",
+    "&gt;6 yrs: push maximum plus without blurring.",
+    "High AC/A options: executive bifocals +2.5–3, echothiophate, posterior fixation surgery.",
+    "Decompensated accommodative ET when more plus doesn't straighten.",
+    "Congenital ET in up to 30% of neuro/developmental disorders — no workup if otherwise normal.",
+    "Low vision eye → polycarbonate glasses."
+   ],
+   "hook": "<b>New crossing after age 6 = brain scan.</b>",
+   "cards": [
+    {
+     "q": "Average age of onset of accommodative esotropia?",
+     "a": "About 2.5 years (6 months–6 years)."
+    },
+    {
+     "q": "Acquired comitant esotropia in a 9-year-old — next step?",
+     "a": "Urgent MRI brain to exclude posterior fossa pathology."
+    }
+   ]
+  },
+  {
+   "id": "w08-06",
+   "group": "8.4–8.6 Strabismus",
+   "title": "Exodeviations",
+   "minutes": 3,
+   "tldr": "<b>Intermittent XT</b> (commonest in kids, &lt;5 yrs, worse when tired, <b>closes one eye in sun</b>). Control: good (out only after cover), fair (needs blink), poor (spontaneous). Types: basic, true/simulated divergence excess, CI. Rx: glasses, amblyopia, <b>alternate patching/over-minus</b> for fair, <b>surgery</b> for poor control. <b>Congenital XT</b> (rare, CNS association). Sensory, consecutive, Duane type 2.",
+   "points": [
+    "Pseudoexotropia: wide IPD, large positive kappa, <b>temporal macular drag</b> (ROP, FEVR, toxocara).",
+    "Convergence paralysis: acute, can't overcome base-out → intracranial lesion.",
+    "Review 3–6 monthly."
+   ],
+   "hook": "<b>Squints in sunshine = intermittent exotropia.</b>",
+   "cards": [
+    {
+     "q": "How is control graded in intermittent exotropia?",
+     "a": "Good (deviates only after cover, recovers quickly), fair (recovers with blink/refixation), poor (deviates spontaneously, stays out)."
+    }
+   ]
+  },
+  {
+   "id": "w08-07",
+   "group": "8.4–8.6 Strabismus",
+   "title": "Strabismus syndromes",
+   "minutes": 3,
+   "tldr": "<b>Duane</b>: retraction + fissure narrowing on adduction; type 1 (poor abduction, eso, face turn <b>toward</b>), type 2 (poor adduction, exo, face turn away), type 3 (both). <b>Brown</b>: can't elevate in adduction (forced ductions +). <b>Monocular elevation deficiency</b>: no elevation anywhere (forced ductions + = IR fibrosis). <b>Möbius</b>: VI + VII. <b>Congenital fibrosis</b>: eyes stuck down, ptosis, chin up.",
+   "points": [
+    "Duane: 85% unilateral; deafness, limb/vertebral anomalies.",
+    "Treat for abnormal head posture or primary-position deviation.",
+    "Image if acquired, atypical or progressive."
+   ],
+   "hook": "<b>Duane 1 = can't go out; Duane 2 = can't go in.</b>",
+   "cards": [
+    {
+     "q": "Face turn in unilateral Duane type 1?",
+     "a": "Toward the affected side."
+    }
+   ]
+  },
+  {
+   "id": "w08-08",
+   "group": "8.7–8.8 Amblyopia & cataract",
+   "title": "Amblyopia: types & signs",
+   "minutes": 3,
+   "tldr": "Reduced best-corrected central vision not explained by pathology, from the first decade. Types: <b>strabismic</b>, <b>anisometropic (≥1.5 D)</b>, <b>deprivation</b> (cataract, scar, ptosis, PFV), <b>occlusion</b> (too much patching/atropine — review 1 week per year of age). Signs: <b>crowding</b>, <b>neutral-density filter effect</b>, possible trace RAPD.",
+   "points": [
+    "Can be bilateral (untreated bilateral cataracts).",
+    "Lid haemangioma/ptosis can induce astigmatic amblyopia.",
+    "Check RAPD with light on-axis (false positives with squint)."
+   ],
+   "hook": "<b>Dim light hurts sick eyes, not lazy eyes</b> (ND filter).",
+   "cards": [
+    {
+     "q": "What is the neutral-density filter effect?",
+     "a": "In dim light, VA of an amblyopic eye falls much less than an eye with organic disease."
+    }
+   ]
+  },
+  {
+   "id": "w08-09",
+   "group": "8.7–8.8 Amblyopia & cataract",
+   "title": "Amblyopia: treatment",
+   "minutes": 3,
+   "tldr": "<b>Glasses first</b> (full cycloplegic Rx, or cut hyperopia symmetrically). Wait <b>6–12 weeks</b> of refractive adaptation, then <b>patch the good eye 2–6 h/day</b> (adhesive, on skin) or <b>atropine 1% daily</b> (as good as patching if VA 20/100 or better). Review <b>1 week per year of age</b>. Stop when equal or no gain after 3 compliant cycles; taper to prevent recurrence.",
+   "points": [
+    "Boost atropine: remove plus lens from the good eye's glasses.",
+    "Optical degradation: +9 D lens over the good eye.",
+    "Occlusion amblyopia → patch the other eye ~1 day per year of age, re-check.",
+    "Delay squint surgery until vision is maximised.",
+    "Not reaching 20/40 → polycarbonate protective glasses for sport (one-eyed rule).",
+    "Media opacity → remove it first, then patch."
+   ],
+   "hook": "<b>Specs → wait → patch. Check back 1 week per year.</b>",
+   "cards": [
+    {
+     "q": "How often to review a 4-year-old on full-time patching?",
+     "a": "About every 4 weeks (1 week per year of age)."
+    },
+    {
+     "q": "Atropine penalisation works as well as patching up to what VA?",
+     "a": "Mild–moderate amblyopia, 20/100 or better."
+    }
+   ]
+  },
+  {
+   "id": "w08-10",
+   "group": "8.7–8.8 Amblyopia & cataract",
+   "title": "Pediatric cataract",
+   "minutes": 4,
+   "tldr": "Mostly <b>idiopathic</b>; familial (AD); <b>galactosaemia</b> (oil droplet, reversible with diet); <b>rubella</b> (pearly nuclear, salt-and-pepper retina — isolate from pregnant women); <b>Lowe</b> (XLR, glaucoma + renal; carrier mums have small opacities); <b>Alport</b> (anterior lenticonus, deafness, nephritis); PFV. <b>Zonular/lamellar</b> = commonest type. <b>≥3 mm or blunted retinoscopy reflex = visually significant</b> → surgery within days–weeks, then amblyopia therapy.",
+   "points": [
+    "Bilateral → paediatric review for genetic/metabolic cause; unilateral rarely needs systemic workup.",
+    "Unilateral + no fundus view → B-scan to exclude posterior PFV.",
+    "Tests if indicated: RBC galactokinase/GALT, TORCH titres, urine amino acids.",
+    "Anterior polar: small, stable, but can cause anisometropic amblyopia.",
+    "Temporising: dilating drops (phenylephrine 2.5%, cyclopentolate 1%) if small central opacity.",
+    "Cataract alone doesn't cause RAPD."
+   ],
+   "hook": "<b>3 mm and central = it blocks vision. Operate fast, then patch.</b>",
+   "cards": [
+    {
+     "q": "Most common morphology of congenital cataract?",
+     "a": "Zonular (lamellar)."
+    },
+    {
+     "q": "Anterior lenticonus + haematuria + deafness?",
+     "a": "Alport syndrome."
+    }
+   ]
+  },
+  {
+   "id": "w08-11",
+   "group": "8.9–8.10 Sticky eyes",
+   "title": "Ophthalmia neonatorum",
+   "minutes": 4,
+   "tldr": "Conjunctivitis in the first month. <b>Chemical</b>: hours, gone by 24–36 h. <b>Gonococcus</b>: <b>day 3–4</b>, hyperpurulent, can perforate cornea → <b>admit, ceftriaxone 25–50 mg/kg IV/IM single dose (max 125 mg)</b> + saline lavage + treat chlamydia too. <b>Chlamydia</b>: <b>1–2 weeks</b>, mucoid ± pseudomembrane → <b>oral erythromycin 50 mg/kg/d × 14 d</b> (topical alone fails; risk pneumonia/otitis). <b>HSV</b>: <b>IV acyclovir 60 mg/kg/d</b> 14 d (21 if CNS/disseminated).",
+   "points": [
+    "Gram + Giemsa scrapings, blood + chocolate agar (CO₂), chlamydia PCR, viral culture.",
+    "Gram stain: Gram-negative intracellular diplococci = gonorrhoea.",
+    "Giemsa: basophilic intracytoplasmic inclusions = chlamydia; multinucleated giant cells = HSV.",
+    "Treat mother and partners for both GC and chlamydia.",
+    "Avoid gentamicin prophylaxis (toxic reaction).",
+    "Other bacteria: bacitracin (Gram +) or aminoglycoside/FQ (Gram –) ointment × 2 weeks."
+   ],
+   "table": {
+    "head": [
+     "Cause",
+     "Onset",
+     "Treatment"
+    ],
+    "rows": [
+     [
+      "Chemical",
+      "Hours",
+      "Stop agent"
+     ],
+     [
+      "Gonococcus",
+      "Day 3–4",
+      "Ceftriaxone IV/IM"
+     ],
+     [
+      "Chlamydia",
+      "Week 1–2",
+      "Oral erythromycin 14 d"
+     ],
+     [
+      "HSV",
+      "Week 1–2",
+      "IV acyclovir"
+     ]
+    ]
+   },
+   "hook": "<b>Day 1 chemical, day 3 gonococcus, week 1–2 chlamydia/herpes.</b>",
+   "cards": [
+    {
+     "q": "Why give systemic, not topical, treatment for neonatal chlamydia?",
+     "a": "Topical alone is ineffective and systemic therapy prevents chlamydial pneumonia/otitis."
+    },
+    {
+     "q": "Hyperpurulent neonatal conjunctivitis on day 3 — drug?",
+     "a": "Ceftriaxone 25–50 mg/kg IV/IM single dose (max 125 mg), admit, also treat chlamydia."
+    }
+   ]
+  },
+  {
+   "id": "w08-12",
+   "group": "8.9–8.10 Sticky eyes",
+   "title": "Congenital NLDO",
+   "minutes": 2,
+   "tldr": "Watery eye + sticky lashes, white eye, reflux on sac pressure, starts in <b>first 3 months</b>. Cause: membrane at <b>valve of Hasner</b>. <b>Exclude congenital glaucoma</b> (photophobia, big cloudy cornea). Rx: <b>sac massage q.i.d.</b> ± topical antibiotic; most open by 6–12 months. <b>Probe if still blocked after age 1</b> (or recurrent infection); then balloon/silicone tubes; DCR last.",
+   "points": [
+    "Dye disappearance test: fluorescein still pooled at 10 min.",
+    "Dacryocele: bluish firm mass below medial canthus in first week.",
+    "Acute dacryocystitis → systemic antibiotics.",
+    "Watch for anisometropic amblyopia."
+   ],
+   "hook": "<b>Watery + photophobic + big cornea ≠ blocked duct → glaucoma.</b>",
+   "cards": [
+    {
+     "q": "When is probing indicated for congenital NLDO?",
+     "a": "Persisting beyond ~1 year, or earlier with recurrent infection/parental request."
+    }
+   ]
+  },
+  {
+   "id": "w08-13",
+   "group": "8.11–8.12 Glaucoma & dysgenesis",
+   "title": "Congenital / infantile glaucoma",
+   "minutes": 4,
+   "tldr": "Triad: <b>tearing, photophobia, blepharospasm</b> + cloudy, big eye (<b>cornea &gt;12 mm before age 1</b>), <b>Haab striae</b> (horizontal/curvilinear Descemet breaks), cupping, axial myopia; 80% bilateral. Primary congenital = goniodysgenesis. <b>Commonest paediatric glaucoma overall = after cataract surgery</b>. Rx is <b>surgical: goniotomy</b> (clear cornea) or <b>trabeculotomy</b>; drops only as bridge.",
+   "points": [
+    "DDx: megalocornea (&gt;13 mm, normal IOP), forceps trauma (vertical breaks, unilateral), CHED, PPMD, MPS, NLDO.",
+    "EUA: corneal diameter, IOP, pachymetry, gonio, disc, A-scan (17 mm at term → 20 mm at 1 yr).",
+    "Halothane/hyperventilation lower IOP; ketamine, succinylcholine, intubation raise it.",
+    "Medical: oral acetazolamide 15–30 mg/kg/d (best), topical CAI, timolol 0.25%, PGA.",
+    "<b>No brimonidine under age 1</b> (apnoea, bradycardia); caution &lt;5 yrs or &lt;20 kg.",
+    "Amblyopia = commonest cause of vision loss; lifelong follow-up.",
+    "Associations: Sturge–Weber, aniridia, Axenfeld–Rieger, Peters, Lowe, rubella, NF1."
+   ],
+   "hook": "<b>Watery, light-shy baby with big eyes = glaucoma until proven otherwise.</b>",
+   "cards": [
+    {
+     "q": "Why avoid brimonidine in infants?",
+     "a": "Crosses blood–brain barrier → apnoea, bradycardia, hypotension, hypothermia."
+    },
+    {
+     "q": "How do Haab striae differ from forceps injury breaks?",
+     "a": "Haab: horizontal/curvilinear in an enlarged cornea; forceps: vertical/oblique, unilateral, normal diameter."
+    }
+   ]
+  },
+  {
+   "id": "w08-14",
+   "group": "8.11–8.12 Glaucoma & dysgenesis",
+   "title": "Anterior segment dysgenesis",
+   "minutes": 4,
+   "tldr": "<b>Posterior embryotoxon</b> (anterior Schwalbe line; Alagille). <b>Axenfeld–Rieger</b> (iris strands to Schwalbe, corectopia, polycoria; <b>50–60% glaucoma</b>; PITX2/FOXC1; teeth, umbilical skin). <b>Peters</b> (central corneal opacity + iris/lens adhesion; 'Peters plus' = short stature). <b>Aniridia</b> (PAX6; glaucoma, foveal hypoplasia, nystagmus, pannus; sporadic → <b>WAGR</b>, ~30% Wilms → renal US). Microspherophakia (Weill–Marchesani), lenticonus (anterior = Alport), sclerocornea.",
+   "points": [
+    "Aniridia: karyotype/microarray or PAX6 test; renal US at diagnosis then ≥6-monthly to age 7–8 (3-monthly if WT1 deleted).",
+    "Ectopia lentis et pupillae: lens and pupil displaced in opposite directions.",
+    "Glaucoma meds: β-blocker, PGA, CAI; <b>pilocarpine doesn't work</b>.",
+    "Exam every 6 months for life."
+   ],
+   "hook": "<b>No iris? Scan the kidneys (Wilms).</b>",
+   "cards": [
+    {
+     "q": "Genes for Axenfeld–Rieger syndrome?",
+     "a": "PITX2 and FOXC1 (autosomal dominant)."
+    },
+    {
+     "q": "What does WAGR stand for?",
+     "a": "Wilms tumour, Aniridia, Genitourinary anomalies, Retardation (11p13 deletion)."
+    }
+   ]
+  },
+  {
+   "id": "w08-15",
+   "group": "8.13–8.14 Lids & blind baby",
+   "title": "Congenital ptosis",
+   "minutes": 3,
+   "tldr": "<b>Simple congenital</b>: fibrotic levator → <b>poor levator function</b>, weak crease, <b>lid lag/lagophthalmos in downgaze</b>, chin-up. <b>Blepharophimosis</b> (ptosis, telecanthus, epicanthus inversus; AD). <b>Marcus Gunn jaw-wink</b> (lid rises when chewing). <b>Horner</b> (mild ptosis, miosis, heterochromia if congenital; acquired → think <b>neuroblastoma</b>). Amblyopia mostly from <b>astigmatism</b>.",
+   "points": [
+    "Observe if mild, no amblyopia, no head posture; re-check 3–12 months.",
+    "Poor levator function → <b>frontalis sling</b>; moderate/good → levator resection.",
+    "Blepharophimosis needs frontalis sling; telecanthus improves with growth.",
+    "Jaw-wink often improves by school age; levator resection worsens winking.",
+    "Watch exposure keratopathy after surgery."
+   ],
+   "hook": "<b>Bad levator → borrow the brow (frontalis sling).</b>",
+   "cards": [
+    {
+     "q": "Most common amblyogenic mechanism in congenital ptosis?",
+     "a": "Induced astigmatism/anisometropia (occlusion less common)."
+    }
+   ]
+  },
+  {
+   "id": "w08-16",
+   "group": "8.13–8.14 Lids & blind baby",
+   "title": "The bilaterally blind infant",
+   "minutes": 4,
+   "tldr": "Roving eyes from 4–8 weeks, poor pupils, no fix/follow by 4 months. <b>Abnormal eye exam</b>: ROP, cataract, aniridia, albinism, <b>optic nerve hypoplasia</b> (double-ring sign; bilateral → <b>MRI for septo-optic dysplasia</b>: GH, cortisol, DI, hypoglycaemic fits), optic atrophy, shaken baby. <b>Normal exam</b>: <b>Leber congenital amaurosis</b> (flat ERG), CSNB (paradoxical pupils), achromatopsia (photophobia, no 30 Hz flicker), <b>cortical visual impairment</b>, delayed visual maturation (normal ERG, improves by 4–12 months).",
+   "points": [
+    "Exam: fix/follow, pupils, nystagmus type, iris transillumination, dilated fundus, cycloplegic refraction.",
+    "ERG ± genetics for suspected retinal dystrophy.",
+    "MRI if neuro signs, seizures, failure to thrive, ONH, localising nystagmus (seesaw, vertical), or optic atrophy (glioma, craniopharyngioma).",
+    "Congenital motor nystagmus: vision usually ≥20/60, null-point face turn.",
+    "Counsel parents; low-vision/educational services; genetic counselling."
+   ],
+   "hook": "<b>Normal-looking eyes + flat ERG = Leber congenital amaurosis.</b>",
+   "cards": [
+    {
+     "q": "Paradoxical pupil constriction in darkness — two infant causes?",
+     "a": "Congenital stationary night blindness and achromatopsia (also optic nerve hypoplasia, LCA)."
+    },
+    {
+     "q": "Bilateral optic nerve hypoplasia — essential investigation?",
+     "a": "MRI brain (hypothalamic–pituitary) + endocrine review for septo-optic dysplasia."
+    }
+   ]
+  }
+ ]
+}
