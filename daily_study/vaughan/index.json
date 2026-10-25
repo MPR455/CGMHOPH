@@ -1324,7 +1324,18 @@
    "num": 25,
    "title": "Vision Rehabilitation",
    "file": "ch25.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v25-01",
+     "title": "Stages of vision & aspects of vision loss",
+     "group": "Rehabilitation"
+    },
+    {
+     "id": "v25-02",
+     "title": "Comprehensive vision rehabilitation plan",
+     "group": "Rehabilitation"
+    }
+   ]
   }
  ]
 }
