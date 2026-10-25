@@ -1,0 +1,325 @@
+{
+ "id": "ch14",
+ "num": 14,
+ "title": "Neuro-Ophthalmology",
+ "chunks": [
+  {
+   "id": "v14-01",
+   "group": "Optic nerve",
+   "title": "Optic nerve disease: signs, swelling, atrophy",
+   "minutes": 2,
+   "tldr": "Optic neuropathy = ↓VA, field defect, <b>RAPD</b>, <b>poor colour</b>, disc change. Disc swelling: papillitis, AION, <b>papilloedema</b> (raised ICP), orbital compression, CRVO, hypotony, uveitis. Macular star with disc swelling ('neuroretinitis') — classic <b>Bartonella</b>. <b>Optic atrophy</b> is non-specific; <b>compressive neuropathy may have a normal disc</b> despite bad vision. Hereditary/toxic → <b>temporal pallor</b> (papillomacular bundle). Cupping usually = glaucoma.",
+   "points": [],
+   "hook": "<b>Bad vision + RAPD + normal disc = compress until proven otherwise → image.</b>",
+   "cards": [
+    {
+     "q": "Which optic neuropathy can show a normal disc despite severe visual loss?",
+     "a": "Compressive optic neuropathy (and retrobulbar neuritis acutely)."
+    }
+   ]
+  },
+  {
+   "id": "v14-02",
+   "group": "Optic nerve",
+   "title": "Typical optic neuritis & MS",
+   "minutes": 3,
+   "tldr": "Women 3:1, age 20–40, unilateral; VA falls over <b>2–7 days</b>, <b>pain on eye movement</b> (90%), RAPD, colour loss; disc normal in ⅔ (retrobulbar). Spontaneous recovery from ~2 wk; &gt;90% ≥6/12 at 1 and 15 y. <b>Steroids (IV methylpred 1 g ×3 d) speed recovery, not final VA</b> (ONTT; oral prednisolone alone ↑ recurrence). MRI brain stratifies <b>MS risk</b> (~50% at 15 y overall). <b>Uhthoff</b>: worse with heat. MS eye signs: optic neuritis (90% at some point), <b>bilateral INO</b>, nystagmus, periphlebitis, intermediate uveitis. Disease-modifying drugs cut relapses. <b>ADEM</b>: kids, post-viral/vaccine, bilateral ON, usually monophasic.",
+   "points": [
+    "Kids: often bilateral, swollen discs, parainfectious."
+   ],
+   "hook": "<b>Young woman, painful eye movement, slowly dim vision, recovers = demyelinating optic neuritis.</b>",
+   "cards": [
+    {
+     "q": "What did the ONTT show about IV methylprednisolone?",
+     "a": "It speeds visual recovery (and short-term reduced MS conversion) but does not change final visual acuity; oral prednisolone alone increased recurrence."
+    },
+    {
+     "q": "What is the Uhthoff phenomenon?",
+     "a": "Transient worsening of vision (or other MS symptoms) with raised body temperature, e.g. exercise or hot bath."
+    }
+   ]
+  },
+  {
+   "id": "v14-03",
+   "group": "Optic nerve",
+   "title": "Atypical optic neuritis: NMO & MOG",
+   "minutes": 2,
+   "tldr": "Red flags: <b>severe pain</b>, <b>NPL</b>, bilateral/simultaneous, worsening &gt;2 wk, <b>no recovery by 6 wk</b>, disc exudates. Work-up: MRI orbits/brain (chiasm involvement → NMO), LP, sarcoid/autoimmune/infection screen, <b>AQP4-IgG</b>, <b>MOG-IgG</b>. <b>NMO (Devic)</b>: optic neuritis + <b>long transverse myelitis</b>, anti-aquaporin-4, severe disability. <b>MOG</b>: relapsing bilateral ON, ADEM. Rx: IV methylpred → oral pred 1 mg/kg, <b>plasma exchange</b> if poor response, then long-term immunosuppression (anti-B-cell). Others: sarcoid, CRION, SLE, syphilis, TB, Lyme, cat-scratch.",
+   "points": [],
+   "hook": "<b>Optic neuritis that doesn't get better = it isn't typical. Check AQP4 & MOG.</b>",
+   "cards": [
+    {
+     "q": "Antibody in neuromyelitis optica?",
+     "a": "Anti-aquaporin-4 IgG (AQP4-IgG)."
+    }
+   ]
+  },
+  {
+   "id": "v14-04",
+   "group": "Optic nerve",
+   "title": "Ischaemic optic neuropathy",
+   "minutes": 3,
+   "tldr": "<b>NAION</b>: 50s–70s, sudden painless loss (often on waking), <b>inferior altitudinal</b> defect, swollen disc with splinter haems; risk: <b>crowded 'disc at risk'</b>, OSA, nocturnal hypotension, DM/HTN, PDE5 inhibitors; 15% fellow eye; ~40% improve; no proven Rx (aspirin for fellow eye?). <b>Arteritic (GCA)</b>: &gt;50, severe loss, <b>chalky white swollen disc</b>; also CRAO, cilioretinal occlusion, CWS; headache, <b>jaw claudication</b>, scalp tenderness, PMR, weight loss. ↑ESR/CRP; <b>temporal artery biopsy</b> within 2 wk of steroids (skip lesions; US/PET help). <b>Start steroids immediately</b>: pred 1–1.5 mg/kg or IV methylpred 0.5–1 g ×3 d if bilateral/progressing; taper over 9–12+ months. <b>PION</b>: no disc swelling — blood loss, spine surgery prone, GCA, radiation.",
+   "points": [],
+   "hook": "<b>Over 50 + sudden vision loss → ESR/CRP and ask about the jaw. Treat before biopsy.</b>",
+   "cards": [
+    {
+     "q": "Disc appearance of arteritic vs non-arteritic AION?",
+     "a": "Arteritic: pale (chalky white) swelling; NAION: hyperaemic/sectoral swelling with a small crowded fellow disc."
+    },
+    {
+     "q": "Typical field defect in NAION?",
+     "a": "Inferior altitudinal defect."
+    }
+   ]
+  },
+  {
+   "id": "v14-05",
+   "group": "Optic nerve",
+   "title": "Papilloedema & IIH",
+   "minutes": 3,
+   "tldr": "Papilloedema = disc swelling from <b>raised ICP</b> (needs patent nerve sheath). Signs: blurred margins (superior/inferior first), hyperaemia, dilated capillaries, <b>absent SVP</b>, Paton lines; acute → haemorrhages, CWS; chronic → champagne-cork; <b>atrophic</b> late. Takes 1–5 days to appear, 6–8 wk to resolve. Vision usually normal (enlarged blind spot, <b>transient obscurations</b>) until late field constriction. Causes: mass, hydrocephalus, venous sinus thrombosis, meningitis. <b>IIH</b>: obese young women; normal imaging (empty sella, flattened globes) and CSF contents; exclude <b>tetracyclines, vitamin A/retinoids</b>, steroid withdrawal, OSA (men). Rx: <b>weight loss</b>, <b>acetazolamide</b> (250 mg–1 g qds), furosemide; failing vision → <b>optic nerve sheath fenestration</b> or CSF shunt; serial fields.",
+   "points": [
+    "Foster Kennedy: papilloedema one eye + atrophy other (frontal meningioma); pseudo-Foster Kennedy = sequential NAION.",
+    "Mimics: buried drusen, small hyperopic discs, myelinated fibres."
+   ],
+   "hook": "<b>Fat, female, fertile, headache + papilloedema → IIH (after scan + venogram).</b>",
+   "cards": [
+    {
+     "q": "Drugs associated with idiopathic intracranial hypertension?",
+     "a": "Tetracyclines (minocycline, doxycycline), vitamin A/retinoids, steroid withdrawal (also lithium, growth hormone)."
+    },
+    {
+     "q": "Surgery for IIH with progressive visual loss?",
+     "a": "Optic nerve sheath fenestration or CSF shunting (VP/LP)."
+    }
+   ]
+  },
+  {
+   "id": "v14-06",
+   "group": "Optic nerve",
+   "title": "Compressive, toxic, traumatic & hereditary optic neuropathy",
+   "minutes": 3,
+   "tldr": "<b>Compression</b>: sphenoid wing/suprasellar/olfactory meningioma, pituitary, craniopharyngioma, aneurysm, TED; <b>optic nerve sheath meningioma</b> (middle-aged women, pale swollen disc + <b>optociliary shunts</b>, 'tram-track' on CT) → stereotactic RT. <b>Nutritional/toxic</b>: bilateral, <b>centrocaecal scotoma</b>, poor colour, temporal pallor — B12/B1/folate, tobacco-alcohol, <b>ethambutol</b>, isoniazid, linezolid, amiodarone (bilateral mild swelling), quinine; <b>methanol</b> (peripapillary oedema; bicarbonate, ethanol/fomepizole, dialysis). <b>Trauma</b>: indirect (forehead blow), avulsion; steroids/decompression unproven. <b>LHON</b>: young men, sequential painless loss, telangiectatic disc that <b>doesn't leak</b>; mtDNA <b>11778</b> (commonest), 14484 (best recovery), 3460; avoid smoking/alcohol; idebenone. <b>Dominant optic atrophy</b> (OPA1): childhood insidious, temporal pallor. <b>Wolfram</b> (DIDMOAD).",
+   "points": [],
+   "hook": "<b>Young man, one eye then the other, swollen-looking disc that doesn't leak = LHON.</b>",
+   "cards": [
+    {
+     "q": "Typical field defect in toxic/nutritional optic neuropathy?",
+     "a": "Bilateral centrocaecal scotoma."
+    },
+    {
+     "q": "LHON mutation with the best visual prognosis?",
+     "a": "14484."
+    }
+   ]
+  },
+  {
+   "id": "v14-07",
+   "group": "Optic nerve",
+   "title": "Congenital disc anomalies & drusen",
+   "minutes": 2,
+   "tldr": "<b>Hypoplasia</b>: small disc, <b>double-ring sign</b>; <b>septo-optic dysplasia (de Morsier)</b> — absent septum pellucidum/corpus callosum + <b>pituitary deficiency (GH)</b>. <b>Superior segmental hypoplasia ('topless disc')</b>: mother with type 1 diabetes, inferior field loss. Coloboma (CHARGE, Aicardi with lacunae), <b>morning glory</b>, <b>optic pit</b> (serous macular detachment later), <b>tilted discs</b> (superotemporal field defects mimic chiasm), megalopapilla, myelinated nerve fibres, Bergmeister papilla. <b>Disc drusen</b>: buried in children → pseudopapilloedema (small cupless disc); exposed later, <b>autofluorescent</b>; diagnose with US/CT/OCT; can cause field loss.",
+   "points": [],
+   "hook": "<b>Small disc in a short child = check growth hormone (septo-optic dysplasia).</b>",
+   "cards": [
+    {
+     "q": "Best test to confirm buried optic disc drusen?",
+     "a": "B-scan ultrasound (hyperreflective calcification) — also CT, OCT/autofluorescence."
+    }
+   ]
+  },
+  {
+   "id": "v14-08",
+   "group": "Visual pathways",
+   "title": "Chiasm & retrochiasmal lesions",
+   "minutes": 3,
+   "tldr": "<b>Chiasm → bitemporal hemianopia</b>, acuity kept until late. <b>Pituitary adenoma</b>: below → <b>upper</b> temporal first; prolactinoma → cabergoline/bromocriptine; others transsphenoidal surgery ± RT; fields recover after decompression (atrophy = poor sign); <b>pituitary apoplexy</b> emergency. <b>Craniopharyngioma</b> (Rathke pouch): kids 10–25 & elderly; from above → <b>lower</b> temporal first; calcified; papilloedema commoner. Suprasellar meningioma (women), chiasmal glioma (NF1). <b>Retrochiasmal → contralateral homonymous</b>: tract (incongruous, contralateral RAPD, bow-tie atrophy), <b>temporal → superior 'pie in the sky'</b>, <b>parietal → inferior 'pie on the floor'</b> + OKN asymmetry, <b>occipital → congruous, macular sparing</b> (PCA stroke; &gt;80% of isolated homonymous loss in &gt;50s). Cogan sign: occipital field defect + OKN asymmetry = tumour. PRES (eclampsia, ciclosporin).",
+   "points": [],
+   "hook": "<b>The further back, the more congruous.</b>",
+   "cards": [
+    {
+     "q": "Field defect from a temporal lobe (Meyer's loop) lesion?",
+     "a": "Contralateral homonymous superior quadrantanopia ('pie in the sky')."
+    },
+    {
+     "q": "Why does a pituitary adenoma typically cause upper temporal loss first?",
+     "a": "It compresses the chiasm from below, hitting inferonasal crossing fibres (which serve the superotemporal field)."
+    }
+   ]
+  },
+  {
+   "id": "v14-09",
+   "group": "Pupils",
+   "title": "Pupil pathways, RAPD & light-near dissociation",
+   "minutes": 3,
+   "tldr": "Light reflex: retina (incl. <b>ipRGCs</b>) → optic nerve → chiasm → tract → <b>brachium of superior colliculus → pretectal nuclei</b> → both Edinger-Westphal → III → ciliary ganglion → short ciliary nerves → sphincter. Normal pupil 3–4 mm; physiological anisocoria (&lt;1 mm) in 30%. <b>RAPD</b> (swinging torch): optic nerve or extensive retina/macula; <b>not from cataract</b>, refractive error, amblyopia (mild at most) or functional loss. <b>Light-near dissociation</b>: afferent defect, <b>Adie</b>, <b>Argyll Robertson</b> (small, irregular, syphilis), <b>Parinaud</b>, diabetes, alcohol.",
+   "points": [],
+   "hook": "<b>Dense cataract never gives an RAPD.</b>",
+   "cards": [
+    {
+     "q": "Causes of light-near dissociation?",
+     "a": "Severe afferent defect, tonic (Adie) pupil, Argyll Robertson pupils, dorsal midbrain syndrome, diabetes/alcoholic neuropathy."
+    }
+   ]
+  },
+  {
+   "id": "v14-10",
+   "group": "Pupils",
+   "title": "Adie pupil & Horner syndrome",
+   "minutes": 3,
+   "tldr": "<b>Tonic (Adie) pupil</b>: young women; dilated → later small; <b>sectoral sphincter palsy</b> (vermiform), light-near dissociation, slow redilation; <b>supersensitive to 0.1% pilocarpine</b>; ciliary ganglion damage (near fibres 30:1 regrow); ± absent reflexes (Holmes-Adie); 50% other eye in 10 y. <b>Horner</b>: <b>ptosis (Müller), miosis (worse in dim light — dilation lag), ± anhidrosis</b> (central/preganglionic), iris hypochromia if congenital. 1st order: Wallenberg, syrinx; 2nd: <b>Pancoast</b>, neck/thyroid surgery, cervical rib; 3rd: <b>carotid dissection</b> (painful, acute → urgent CTA/MRA), cluster headache, cavernous sinus. Confirm with <b>apraclonidine</b> (reversal of anisocoria) or cocaine; hydroxyamphetamine localises post-ganglionic. Child with acquired Horner → image for <b>neuroblastoma</b>.",
+   "points": [],
+   "hook": "<b>Painful new Horner = carotid dissection until proven otherwise.</b>",
+   "cards": [
+    {
+     "q": "Apraclonidine test result in Horner syndrome?",
+     "a": "Reversal of anisocoria — the Horner pupil dilates (denervation supersensitivity) and lid elevates."
+    },
+    {
+     "q": "Pharmacological test for Adie pupil?",
+     "a": "Constriction to dilute (0.1%) pilocarpine from denervation supersensitivity."
+    }
+   ]
+  },
+  {
+   "id": "v14-11",
+   "group": "Eye movements",
+   "title": "Supranuclear & internuclear disorders",
+   "minutes": 3,
+   "tldr": "Horizontal saccade generator = <b>PPRF</b> (pons); vertical/torsional = <b>riMLF</b> (midbrain); integrators: NPH (horizontal), INC (vertical). Frontal eye field lesion → eyes deviate <b>toward</b> lesion (seizure → away). Pursuit: parieto-occipital, ipsilateral. <b>Parinaud (dorsal midbrain)</b>: up-gaze palsy, <b>convergence-retraction nystagmus</b>, light-near dissociation, <b>lid retraction (Collier)</b> — pinealoma, hydrocephalus. <b>INO</b> (MLF): <b>ipsilateral adduction lag</b> + abducting nystagmus of the other eye, convergence spared; young bilateral = <b>MS</b>; elderly = stroke; WEBINO. <b>One-and-a-half</b>: PPRF/VI nucleus + MLF → only abduction of the other eye remains. Convergence insufficiency/spasm of near reflex (functional → miosis + accommodative spasm).",
+   "points": [
+    "VI nucleus lesion = ipsilateral gaze palsy (all movements); PPRF lesion spares vestibular (doll's head)."
+   ],
+   "hook": "<b>INO is named for the eye that can't adduct.</b>",
+   "cards": [
+    {
+     "q": "Features of right INO?",
+     "a": "Impaired adduction of the right eye on left gaze, abducting nystagmus of the left eye, convergence preserved."
+    },
+    {
+     "q": "Four signs of Parinaud syndrome?",
+     "a": "Upgaze palsy, convergence-retraction nystagmus, light-near dissociation, eyelid retraction (Collier sign)."
+    }
+   ]
+  },
+  {
+   "id": "v14-12",
+   "group": "Eye movements",
+   "title": "Third nerve palsy",
+   "minutes": 3,
+   "tldr": "Nucleus: single central levator subnucleus (→ <b>bilateral ptosis</b>), <b>SR subnuclei innervate contralateral SR</b>. Peripheral palsy: eye <b>down and out</b>, ptosis, ± dilated pupil, no accommodation; SO intorsion still visible. Causes: microvascular (DM/HTN — <b>pupil spared</b> in most; recover by ~3–4 months), <b>PCoA aneurysm</b> (pupil involved, painful → <b>emergency CTA/MRA</b>), trauma, tumour, uncal herniation (fixed dilated pupil), basilar aneurysm (bilateral). Superior division → ptosis + SR. Kids: congenital, ophthalmoplegic migraine, post-viral. <b>Aberrant regeneration</b> (lid lifts on adduction/down-gaze, pupil constricts on adduction) after trauma/aneurysm — <b>never ischaemic</b>; primary aberrant regeneration → cavernous sinus mass. Marcus Gunn jaw-wink (V → levator).",
+   "points": [],
+   "hook": "<b>Painful III with a blown pupil = aneurysm until proven otherwise.</b>",
+   "cards": [
+    {
+     "q": "Why is the pupil usually spared in microvascular III palsy?",
+     "a": "Pupillomotor fibres run superficially on the nerve (supplied by pial vessels) and are spared by central ischaemia but hit early by compression."
+    },
+    {
+     "q": "Is aberrant regeneration seen after microvascular III palsy?",
+     "a": "No — it suggests trauma or compression (aneurysm/tumour)."
+    }
+   ]
+  },
+  {
+   "id": "v14-13",
+   "group": "Eye movements",
+   "title": "Fourth & sixth nerve palsies",
+   "minutes": 3,
+   "tldr": "<b>IV</b>: only crossed, dorsal-exiting nerve; longest intracranial course; <b>trauma</b> commonest acquired (bilateral → chin-down, large excyclotorsion, V-pattern); also microvascular, posterior fossa. Hypertropia worse on <b>contralateral gaze and ipsilateral tilt</b>; head tilts away. Congenital: no torsional symptoms, large vertical fusion range, old photos with tilt. <b>SO myokymia</b>: monocular torsional oscillopsia → carbamazepine/β-blocker drops. <b>VI</b>: commonest isolated palsy; long course over petrous apex → <b>false-localising</b> in raised ICP, also low CSF pressure (post-LP), tumour, MS, Chiari; kids → pontine glioma if no trauma. <b>Gradenigo</b>: VI + facial pain + otitis (petrous apex). Mimics: Duane, Möbius, TED, MG, medial wall fracture, convergence spasm. <b>Ischaemic palsies recover by 4 months — otherwise investigate</b>; young or multiple nerves → urgent imaging.",
+   "points": [
+    "Cavernous sinus/SOF/apex syndromes combine III, IV, VI (+V, + II at apex). Sudden total ophthalmoplegia: brainstem stroke, Wernicke, Miller Fisher, pituitary apoplexy, botulism, MG crisis."
+   ],
+   "hook": "<b>VI palsy in a child without trauma → MRI the pons.</b>",
+   "cards": [
+    {
+     "q": "What is Gradenigo syndrome?",
+     "a": "Abducens palsy + ipsilateral facial pain (V) + otorrhoea from petrous apicitis (complicated otitis media)."
+    },
+    {
+     "q": "How long to wait for a presumed microvascular cranial nerve palsy to recover before imaging?",
+     "a": "About 3–4 months; no recovery → investigate."
+    }
+   ]
+  },
+  {
+   "id": "v14-14",
+   "group": "Eye movements",
+   "title": "Myasthenia gravis & CPEO",
+   "minutes": 3,
+   "tldr": "<b>MG</b>: fatigable ptosis/diplopia, worse in evening, no pupil involvement, can mimic any palsy/INO. ⅓ start ocular; ⅔ of those generalise (mostly within 1 y). Associations: <b>thymoma 15%</b>, thyroid disease, autoimmunity; drugs worsen (β-blockers, aminoglycosides, statins, penicillamine, quinine). Tests: <b>AChR antibodies</b> (80–90% generalised, 40–60% ocular), <b>MuSK</b>, ice-pack test, rest test, edrophonium (with atropine), repetitive stimulation, <b>single-fibre EMG (orbicularis)</b>; CT chest. Rx: pyridostigmine (ocular responds less), <b>steroids</b>, azathioprine, IVIG/plasma exchange, thymectomy. <b>CPEO</b>: slow symmetric ptosis + ophthalmoplegia, <b>no diplopia</b> usually, normal pupils; mtDNA deletion; <b>Kearns-Sayre</b> = CPEO + pigmentary retinopathy + <b>heart block</b> before 15 y (ECG!).",
+   "points": [],
+   "hook": "<b>Variable ptosis that improves with ice = myasthenia.</b>",
+   "cards": [
+    {
+     "q": "Triad of Kearns-Sayre syndrome?",
+     "a": "CPEO, pigmentary retinopathy and cardiac conduction block, onset before age 15."
+    },
+    {
+     "q": "Most sensitive test for ocular myasthenia?",
+     "a": "Single-fibre EMG (e.g. of orbicularis oculi)."
+    }
+   ]
+  },
+  {
+   "id": "v14-15",
+   "group": "Nystagmus",
+   "title": "Nystagmus types",
+   "minutes": 3,
+   "tldr": "Named by <b>fast phase</b>. Physiological: end-point, OKN (asymmetric horizontal → <b>parietal lesion</b>; useful in functional loss), caloric (<b>COWS</b>). <b>Infantile/congenital</b>: by 6 mo, horizontal even in upgaze, <b>null zone</b> (head turn), damps with convergence, no oscillopsia; look for sensory cause (albinism, aniridia, achromatopsia, ONH, LCA). <b>Latent</b>: with infantile ET, beats toward fixing eye on occlusion. <b>Spasmus nutans</b>: nodding + head tilt + fine asymmetric nystagmus, resolves — exclude chiasmal glioma. <b>Peripheral vestibular</b>: horizontal-torsional, beats away from lesion, suppressed by fixation, vertigo/tinnitus. <b>Downbeat</b>: <b>cervicomedullary junction (Chiari)</b>, cerebellar, lithium, anticonvulsants. <b>Upbeat</b>: brainstem, drugs. <b>Gaze-evoked</b>: cerebellum/drugs; Bruns (CPA). <b>See-saw</b>: chiasm/parasellar. <b>Convergence-retraction</b>: Parinaud. <b>PAN</b>: cerebellar, baclofen. Oculopalatal tremor after brainstem stroke.",
+   "points": [
+    "Mimics: square-wave jerks, opsoclonus (neuroblastoma in kids), ocular flutter, voluntary nystagmus."
+   ],
+   "hook": "<b>Downbeat = Down at the foramen magnum (Chiari) — get an MRI.</b>",
+   "cards": [
+    {
+     "q": "Localisation of downbeat nystagmus?",
+     "a": "Cervicomedullary junction/cerebellum (e.g. Arnold-Chiari malformation); also drugs (lithium, anticonvulsants)."
+    },
+    {
+     "q": "COWS mnemonic for calorics?",
+     "a": "Cold water → fast phase Opposite; Warm → Same side."
+    }
+   ]
+  },
+  {
+   "id": "v14-16",
+   "group": "Vascular & other",
+   "title": "Transient visual loss, stroke & migraine",
+   "minutes": 3,
+   "tldr": "<b>Amaurosis fugax</b>: monocular curtain 5–10 min — retinal emboli (carotid, cardiac): <b>Hollenhorst</b> cholesterol (glinting, bifurcations), platelet-fibrin (white, transient), calcific (valves, CRAO). Treat as <b>TIA</b>: aspirin, BP/lipids, carotid Doppler, <b>endarterectomy for 70–99% stenosis</b>. Also GCA, hyperviscosity, antiphospholipid. <b>Ocular ischaemic syndrome</b>: mid-peripheral blot haemorrhages, dilated non-tortuous veins, NVI, anterior uveitis — severe carotid disease. <b>Vertebrobasilar</b>: bilateral greying. <b>PCA occlusion</b>: homonymous (superior) field loss, <b>alexia without agraphia</b>. <b>Subdural</b>: ipsilateral dilated pupil = herniation. <b>SAH</b>: thunderclap, Terson. <b>Migraine aura</b>: bilateral homonymous <b>fortification spectrum</b> expanding over 15–30 min.",
+   "points": [],
+   "hook": "<b>Amaurosis fugax = a TIA of the eye — same-day stroke work-up.</b>",
+   "cards": [
+    {
+     "q": "What are Hollenhorst plaques?",
+     "a": "Refractile cholesterol emboli at retinal arteriolar bifurcations, usually from carotid atheroma."
+    },
+    {
+     "q": "Retinal signs of ocular ischaemic syndrome?",
+     "a": "Mid-peripheral dot-blot haemorrhages, dilated non-tortuous veins, narrowed arteries, NVD/NVI; often low IOP with anterior segment inflammation."
+    }
+   ]
+  },
+  {
+   "id": "v14-17",
+   "group": "Vascular & other",
+   "title": "Phakomatoses",
+   "minutes": 3,
+   "tldr": "<b>NF1</b> (17q, 1:3000): ≥6 café-au-lait, neurofibromas, axillary freckling, <b>Lisch nodules</b> (~93%), plexiform lid neurofibroma, <b>optic pathway glioma</b> (bilateral ON glioma pathognomonic), sphenoid dysplasia, congenital glaucoma. <b>NF2</b> (22q): <b>bilateral vestibular schwannomas</b>, meningiomas; <b>PSC cataract in ~75%</b>, ERM, combined hamartoma, ONSM. <b>VHL</b> (3p, AD): retinal capillary haemangioma, cerebellar haemangioblastoma, RCC, phaeo, cysts — lifelong screening. <b>Sturge-Weber</b> (sporadic): port-wine stain (V1/V2), leptomeningeal angioma (seizures, tram-track calcification), <b>ipsilateral glaucoma</b> (lid involvement), <b>diffuse choroidal haemangioma</b> in 40%. <b>Tuberous sclerosis</b> (TSC1 chr 9, TSC2 chr 16): adenoma sebaceum, ash-leaf spots, seizures, <b>retinal astrocytoma</b>, renal angiomyolipoma. <b>Ataxia-telangiectasia</b> (AR): conjunctival telangiectasia, ataxia, infections, oculomotor apraxia. <b>Wyburn-Mason</b>: retinal + midbrain AVMs.",
+   "points": [],
+   "hook": "<b>NF1 = 17 letters in 'von Recklinghausen'; NF2 = 22 (two ears, chr 22).</b>",
+   "cards": [
+    {
+     "q": "Ocular feature present in most NF2 patients?",
+     "a": "Early posterior subcapsular (or cortical) lens opacities (~75%)."
+    },
+    {
+     "q": "Ocular manifestations of Sturge-Weber?",
+     "a": "Ipsilateral glaucoma, diffuse choroidal haemangioma ('tomato ketchup' fundus), episcleral haemangioma, port-wine stain on lids."
+    }
+   ]
+  }
+ ]
+}
