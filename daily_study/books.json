@@ -1,6 +1,22 @@
 {
  "books": [
-  {"id": "kanski", "title": "Kanski's Clinical Ophthalmology (9th ed.)", "short": "Kanski", "dir": "daily_study/kanski/"},
-  {"id": "wills", "title": "The Wills Eye Manual (8th ed.)", "short": "Wills Eye Manual", "dir": "daily_study/wills/"}
+  {
+   "id": "kanski",
+   "title": "Kanski's Clinical Ophthalmology (9th ed.)",
+   "short": "Kanski",
+   "dir": "daily_study/kanski/"
+  },
+  {
+   "id": "wills",
+   "title": "The Wills Eye Manual (8th ed.)",
+   "short": "Wills Eye Manual",
+   "dir": "daily_study/wills/"
+  },
+  {
+   "id": "vaughan",
+   "title": "Vaughan & Asbury's General Ophthalmology (19th ed.)",
+   "short": "Vaughan",
+   "dir": "daily_study/vaughan/"
+  }
  ]
 }

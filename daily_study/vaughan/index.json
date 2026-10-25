@@ -1,0 +1,242 @@
+{
+ "book": "Vaughan & Asbury's General Ophthalmology (19th ed.)",
+ "updated": "2026-10-25",
+ "chapters": [
+  {
+   "id": "ch01",
+   "num": 1,
+   "title": "Anatomy & Embryology of the Eye",
+   "file": "ch01.json",
+   "chunks": [
+    {
+     "id": "v01-01",
+     "title": "Orbital walls & apex",
+     "group": "Orbit"
+    },
+    {
+     "id": "v01-02",
+     "title": "Blood supply & venous drainage",
+     "group": "Orbit"
+    },
+    {
+     "id": "v01-03",
+     "title": "Conjunctiva, Tenon's & sclera",
+     "group": "Globe"
+    },
+    {
+     "id": "v01-04",
+     "title": "Cornea",
+     "group": "Globe"
+    },
+    {
+     "id": "v01-05",
+     "title": "Uveal tract, lens & aqueous",
+     "group": "Globe"
+    },
+    {
+     "id": "v01-06",
+     "title": "Angle, retina & vitreous",
+     "group": "Globe"
+    },
+    {
+     "id": "v01-07",
+     "title": "Extraocular muscles & surgical landmarks",
+     "group": "Muscles & landmarks"
+    },
+    {
+     "id": "v01-08",
+     "title": "Lids: layers, margin & retractors",
+     "group": "Adnexa"
+    },
+    {
+     "id": "v01-09",
+     "title": "Lacrimal apparatus",
+     "group": "Adnexa"
+    },
+    {
+     "id": "v01-10",
+     "title": "Optic nerve, chiasm & visual pathway",
+     "group": "Visual pathway & nerves"
+    },
+    {
+     "id": "v01-11",
+     "title": "Cranial nerves III–VII around the eye",
+     "group": "Visual pathway & nerves"
+    },
+    {
+     "id": "v01-12",
+     "title": "Embryology & postnatal growth",
+     "group": "Embryology & growth"
+    }
+   ]
+  },
+  {
+   "id": "ch02",
+   "num": 2,
+   "title": "Ophthalmologic Examination",
+   "file": "ch02.json",
+   "chunks": []
+  },
+  {
+   "id": "ch03",
+   "num": 3,
+   "title": "Ophthalmic Emergencies",
+   "file": "ch03.json",
+   "chunks": []
+  },
+  {
+   "id": "ch04",
+   "num": 4,
+   "title": "Lids & Lacrimal Apparatus",
+   "file": "ch04.json",
+   "chunks": []
+  },
+  {
+   "id": "ch05",
+   "num": 5,
+   "title": "Conjunctiva & Tears",
+   "file": "ch05.json",
+   "chunks": []
+  },
+  {
+   "id": "ch06",
+   "num": 6,
+   "title": "Cornea",
+   "file": "ch06.json",
+   "chunks": []
+  },
+  {
+   "id": "ch07",
+   "num": 7,
+   "title": "Uveal Tract & Sclera",
+   "file": "ch07.json",
+   "chunks": []
+  },
+  {
+   "id": "ch08",
+   "num": 8,
+   "title": "Lens",
+   "file": "ch08.json",
+   "chunks": []
+  },
+  {
+   "id": "ch09",
+   "num": 9,
+   "title": "Vitreous",
+   "file": "ch09.json",
+   "chunks": []
+  },
+  {
+   "id": "ch10",
+   "num": 10,
+   "title": "Retina",
+   "file": "ch10.json",
+   "chunks": []
+  },
+  {
+   "id": "ch11",
+   "num": 11,
+   "title": "Glaucoma",
+   "file": "ch11.json",
+   "chunks": []
+  },
+  {
+   "id": "ch12",
+   "num": 12,
+   "title": "Strabismus",
+   "file": "ch12.json",
+   "chunks": []
+  },
+  {
+   "id": "ch13",
+   "num": 13,
+   "title": "Orbit",
+   "file": "ch13.json",
+   "chunks": []
+  },
+  {
+   "id": "ch14",
+   "num": 14,
+   "title": "Neuro-Ophthalmology",
+   "file": "ch14.json",
+   "chunks": []
+  },
+  {
+   "id": "ch15",
+   "num": 15,
+   "title": "Ocular Disorders Associated with Systemic Diseases",
+   "file": "ch15.json",
+   "chunks": []
+  },
+  {
+   "id": "ch16",
+   "num": 16,
+   "title": "Immunologic Diseases of the Eye",
+   "file": "ch16.json",
+   "chunks": []
+  },
+  {
+   "id": "ch17",
+   "num": 17,
+   "title": "Special Subjects of Pediatric Interest",
+   "file": "ch17.json",
+   "chunks": []
+  },
+  {
+   "id": "ch18",
+   "num": 18,
+   "title": "Ophthalmic Genetics",
+   "file": "ch18.json",
+   "chunks": []
+  },
+  {
+   "id": "ch19",
+   "num": 19,
+   "title": "Ophthalmic Trauma",
+   "file": "ch19.json",
+   "chunks": []
+  },
+  {
+   "id": "ch20",
+   "num": 20,
+   "title": "Causes & Prevention of Vision Loss",
+   "file": "ch20.json",
+   "chunks": []
+  },
+  {
+   "id": "ch21",
+   "num": 21,
+   "title": "Optics & Refraction",
+   "file": "ch21.json",
+   "chunks": []
+  },
+  {
+   "id": "ch22",
+   "num": 22,
+   "title": "Ophthalmic Therapeutics",
+   "file": "ch22.json",
+   "chunks": []
+  },
+  {
+   "id": "ch23",
+   "num": 23,
+   "title": "Lasers in Ophthalmology",
+   "file": "ch23.json",
+   "chunks": []
+  },
+  {
+   "id": "ch24",
+   "num": 24,
+   "title": "Low Vision",
+   "file": "ch24.json",
+   "chunks": []
+  },
+  {
+   "id": "ch25",
+   "num": 25,
+   "title": "Vision Rehabilitation",
+   "file": "ch25.json",
+   "chunks": []
+  }
+ ]
+}

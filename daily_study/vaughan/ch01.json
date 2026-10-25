@@ -1,0 +1,307 @@
+{
+ "id": "ch01",
+ "num": 1,
+ "title": "Anatomy & Embryology of the Eye",
+ "chunks": [
+  {
+   "id": "v01-01",
+   "group": "Orbit",
+   "title": "Orbital walls & apex",
+   "minutes": 4,
+   "tldr": "Orbit = <b>4-walled pyramid</b>, volume <b>~30 mL</b>, globe only <b>⅕</b>. <b>Roof</b>: frontal + lesser sphenoid (optic canal, lacrimal fossa). <b>Lateral</b>: zygoma + greater sphenoid — <b>strongest</b>. <b>Floor</b>: maxilla — <b>blowout fractures</b>, infraorbital nerve. <b>Medial</b>: <b>lamina papyracea</b> (ethmoid) — paper-thin, ethmoid sinusitis spreads here. Lateral walls 90° apart; each lateral–medial 45°.",
+   "points": [
+    "<b>Superior orbital fissure (SOF)</b>: outside annulus — lacrimal, frontal, trochlear (IV) nerves + superior ophthalmic vein; <b>inside annulus of Zinn</b> — III (both divisions), VI, nasociliary.",
+    "<b>Optic canal</b> (inside annulus): optic nerve + ophthalmic artery.",
+    "Inferior orbital fissure: maxillary nerve (V2) → infraorbital nerve; route to pterygoid plexus.",
+    "All extraocular muscles arise at the apex <b>except the inferior oblique</b>.",
+    "Roof defects (NF1) → pulsatile globe; sphenoid sinusitis can affect the optic nerve."
+   ],
+   "table": {
+    "head": [
+     "Wall",
+     "Bones",
+     "Clinical"
+    ],
+    "rows": [
+     [
+      "Roof",
+      "Frontal, lesser sphenoid",
+      "Lacrimal fossa, optic canal"
+     ],
+     [
+      "Lateral",
+      "Zygomatic, greater sphenoid",
+      "Strongest"
+     ],
+     [
+      "Floor",
+      "Maxilla, zygoma, palatine",
+      "Blowout, V2 numbness"
+     ],
+     [
+      "Medial",
+      "Ethmoid, lacrimal, maxilla, sphenoid",
+      "Thinnest; ethmoid sinusitis"
+     ]
+    ]
+   },
+   "hook": "<b>Lateral is tough, medial is paper, floor breaks.</b>",
+   "cards": [
+    {
+     "q": "Which structures pass through the SOF inside the annulus of Zinn?",
+     "a": "Superior and inferior divisions of III, VI and the nasociliary nerve."
+    },
+    {
+     "q": "Which extraocular muscle does not arise from the orbital apex?",
+     "a": "Inferior oblique (arises from the anteromedial orbital floor)."
+    }
+   ]
+  },
+  {
+   "id": "v01-02",
+   "group": "Orbit",
+   "title": "Blood supply & venous drainage",
+   "minutes": 3,
+   "tldr": "<b>Ophthalmic artery</b> = 1st branch of intracranial ICA; runs under the optic nerve through the canal. Branches: <b>central retinal artery</b> (1st; enters nerve 8–15 mm behind globe), lacrimal, muscular (→ <b>anterior ciliary</b>), <b>short posterior ciliary</b> (choroid + nerve head), <b>2 long posterior ciliary</b> (→ major arterial circle of iris), palpebral, supraorbital/supratrochlear. Veins: superior/inferior ophthalmic → <b>cavernous sinus</b> (via SOF) and pterygoid plexus.",
+   "points": [
+    "Valveless facial–ophthalmic venous link → periorbital skin infection can cause <b>cavernous sinus thrombosis</b>.",
+    "Vortex veins (4, one per posterior quadrant) drain the choroid.",
+    "Lid arcades anastomose with external carotid via the facial artery."
+   ],
+   "hook": "<b>Ophthalmic artery: first off ICA, first branch central retinal artery.</b>",
+   "cards": [
+    {
+     "q": "Why can a facial skin infection cause cavernous sinus thrombosis?",
+     "a": "Supraorbital/angular veins drain via the superior ophthalmic vein directly into the cavernous sinus."
+    }
+   ]
+  },
+  {
+   "id": "v01-03",
+   "group": "Globe",
+   "title": "Conjunctiva, Tenon's & sclera",
+   "minutes": 3,
+   "tldr": "<b>Conjunctiva</b>: palpebral (stuck to tarsus) → fornix → bulbar (loose). Epithelium 2–5 layers columnar + <b>goblet cells</b> (mucin). Stroma: adenoid layer appears only <b>after 2–3 months</b> → <b>neonatal conjunctivitis is papillary, not follicular</b>. Accessory lacrimal glands: <b>Krause</b> (fornices), <b>Wolfring</b> (upper tarsal border). <b>Tenon's capsule</b>: limbus → optic nerve; check ligaments; <b>Lockwood's ligament</b> supports globe. <b>Sclera</b>: collagen, 0.3 mm under recti, 0.6 mm elsewhere; opaque because irregular lamellae + more water.",
+   "points": [
+    "Conjunctiva sensation: V1; few pain fibres.",
+    "Conjunctiva + Tenon's + episclera fused at limbus for ~3 mm.",
+    "Long posterior ciliary arteries/nerves run at <b>3 and 9 o'clock</b>.",
+    "Anterior ciliary vessels enter ~4 mm behind limbus; vortex veins exit just behind equator.",
+    "Lamina cribrosa: scleral collagen bands at the optic nerve exit."
+   ],
+   "hook": "<b>Babies have no adenoid layer → no follicles under 3 months.</b>",
+   "cards": [
+    {
+     "q": "Why is neonatal inclusion conjunctivitis papillary rather than follicular?",
+     "a": "The conjunctival adenoid (lymphoid) layer doesn't develop until 2–3 months of age."
+    }
+   ]
+  },
+  {
+   "id": "v01-04",
+   "group": "Globe",
+   "title": "Cornea",
+   "minutes": 3,
+   "tldr": "~<b>550 µm</b> centrally, <b>11.7 × 10.6 mm</b>. Five layers: <b>epithelium</b> (5–6 cells), <b>Bowman</b> (acellular), <b>stroma</b> (90%, regular collagen lamellae), <b>Descemet</b> (endothelial basement membrane, 3 µm at birth → 10–12 µm adult), <b>endothelium</b> (single layer, pumps → deturgescence). Endothelial density <b>~3500 (birth) → ~2000 cells/mm² (old age)</b>; repair only by cell enlargement/sliding. Clarity = uniform structure + <b>avascularity</b> + <b>deturgescence</b>.",
+   "points": [
+    "Nutrition: limbal vessels, aqueous, tears; O₂ mainly from air.",
+    "Sensation: V1 via long ciliary nerves.",
+    "Endothelial failure → corneal oedema."
+   ],
+   "hook": "<b>Every Busy Student Drinks Espresso: Epithelium, Bowman, Stroma, Descemet, Endothelium.</b>",
+   "cards": [
+    {
+     "q": "Three reasons the cornea is transparent?",
+     "a": "Uniform regular stromal structure, avascularity, deturgescence (endothelial pump)."
+    }
+   ]
+  },
+  {
+   "id": "v01-05",
+   "group": "Globe",
+   "title": "Uveal tract, lens & aqueous",
+   "minutes": 4,
+   "tldr": "<b>Iris</b>: no anterior epithelium; sphincter/dilator from anterior epithelium; heavily pigmented posterior epithelium; capillaries <b>non-fenestrated</b> (no fluorescein leak). <b>Ciliary body</b> ~6 mm: <b>pars plicata 2 mm</b> (processes make <b>aqueous</b>; fenestrated) + <b>pars plana 4 mm</b>. Ciliary muscle: circular fibres → accommodation; longitudinal → open trabecular meshwork. <b>Choroid</b>: 3 vessel layers, choriocapillaris innermost, Bruch membrane inside. <b>Lens</b>: 4 × 9 mm, avascular, <b>65% water, 35% protein (highest in body)</b>, Y sutures (upright anterior, inverted posterior), grows lifelong.",
+   "points": [
+    "Ciliary epithelium: inner non-pigmented (from neuroretina), outer pigmented (from RPE).",
+    "Lens: no nerves, vessels or pain fibres; potassium, ascorbate, glutathione concentrated.",
+    "Aqueous: ciliary body → posterior chamber → pupil → AC → angle."
+   ],
+   "hook": "<b>Plicata makes aqueous; plana is where we inject.</b>",
+   "cards": [
+    {
+     "q": "Why do iris capillaries not leak fluorescein but ciliary process capillaries do?",
+     "a": "Iris capillaries are non-fenestrated; ciliary process capillaries are fenestrated."
+    }
+   ]
+  },
+  {
+   "id": "v01-06",
+   "group": "Globe",
+   "title": "Angle, retina & vitreous",
+   "minutes": 4,
+   "tldr": "<b>Angle</b>: Schwalbe line (end of Descemet/endothelium) → <b>trabecular meshwork</b> (uveal → corneoscleral, pores shrink toward Schlemm) → <b>scleral spur</b>. Schlemm drains via ~30 collector channels + aqueous veins to episcleral veins. <b>Retina</b>: 10 layers, ILM → RPE. Thickness 0.1 mm (ora) to 0.56 mm. <b>Macula</b> 5.5–6 mm; <b>fovea</b> 1.5 mm; <b>foveola</b> 0.3 mm, cones only, = FAZ, 4 mm temporal to disc. Blood: <b>choriocapillaris → outer ⅓</b>; central retinal artery → inner ⅔. <b>Vitreous</b> 99% water (collagen + hyaluronan); base firmly attached at pars plana/ora lifelong.",
+   "points": [
+    "Retina firmly attached only at <b>disc and ora</b> → limits RD spread; choroidal detachments extend past the ora.",
+    "Inner blood–retinal barrier = retinal capillary endothelium; outer = RPE.",
+    "Foveola fed only by choriocapillaris → damaged irreversibly when detached.",
+    "Ora: 6.5 mm (temporal) / 5.7 mm (nasal) behind Schwalbe."
+   ],
+   "table": {
+    "head": [
+     "#",
+     "Retinal layer (inner → outer)"
+    ],
+    "rows": [
+     [
+      "1–3",
+      "ILM, nerve fibre layer, ganglion cells"
+     ],
+     [
+      "4–5",
+      "Inner plexiform, inner nuclear (bipolar, amacrine, horizontal)"
+     ],
+     [
+      "6–7",
+      "Outer plexiform, outer nuclear (photoreceptor nuclei)"
+     ],
+     [
+      "8–10",
+      "External limiting membrane, rods/cones, RPE"
+     ]
+    ]
+   },
+   "hook": "<b>Choroid feeds the outer third; central retinal artery the inner two-thirds.</b>",
+   "cards": [
+    {
+     "q": "Where is the retina firmly attached to the RPE?",
+     "a": "At the optic disc and the ora serrata."
+    },
+    {
+     "q": "Which part of the retina contains only cones?",
+     "a": "The foveola (~0.3 mm)."
+    }
+   ]
+  },
+  {
+   "id": "v01-07",
+   "group": "Muscles & landmarks",
+   "title": "Extraocular muscles & surgical landmarks",
+   "minutes": 4,
+   "tldr": "Recti arise from <b>annulus of Zinn</b>; insertions from limbus: <b>MR 5.5, IR 6.5, LR 7.0, SR 7.7 mm</b> (spiral of Tillaux). Vertical recti 23° to optic axis; obliques 51–54°. <b>SO</b>: longest/thinnest; through <b>trochlea</b>, inserts under SR. <b>IO</b>: from medial orbital floor, inserts over macula. Nerves: <b>LR6 SO4, rest 3</b>. <b>Pars plana injections</b>: 3.5–4 mm (phakic), 3–3.5 mm (pseudophakic). Pars plicata (cyclodestruction target) 2–3 mm behind limbus.",
+   "points": [
+    "Ora externally: 5.5 mm nasal, 7 mm temporal (≈ rectus insertions).",
+    "Check ligaments = functional origins (pulley hypothesis).",
+    "LR also fed by lacrimal artery; IO by infraorbital artery."
+   ],
+   "hook": "<b>Tillaux spiral 5.5 → 6.5 → 7 → 7.7: Medial, Inferior, Lateral, Superior.</b>",
+   "cards": [
+    {
+     "q": "Distance behind the limbus for an intravitreal injection in a phakic eye?",
+     "a": "3.5–4.0 mm (3–3.5 mm if pseudophakic/aphakic)."
+    }
+   ]
+  },
+  {
+   "id": "v01-08",
+   "group": "Adnexa",
+   "title": "Lids: layers, margin & retractors",
+   "minutes": 4,
+   "tldr": "Lid layers: <b>skin</b> (thin, no fat), <b>orbicularis</b> (VII; pretarsal/preseptal/orbital), areolar tissue, <b>tarsal plate</b>, <b>palpebral conjunctiva</b>. <b>Grey line</b> splits anterior lamella (skin + orbicularis) from posterior (tarsus + conjunctiva). Margin glands: <b>Zeis</b> (sebaceous, lash follicles), <b>Moll</b> (sweat), <b>meibomian</b> (posterior margin). <b>Orbital septum</b>: barrier lid ↔ orbit. Upper retractor: <b>levator</b> (III) aponeurosis → skin crease + <b>Müller's</b> (sympathetic). Lower: capsulopalpebral fascia from IR.",
+   "points": [
+    "<b>Ptosis occurs in both Horner (Müller) and III palsy (levator)</b>.",
+    "Whitnall's ligament: check band of levator.",
+    "Sensation: V1 (lacrimal, supraorbital, supratrochlear, infratrochlear) + V2 (infraorbital).",
+    "Lymph: lateral → preauricular/parotid; medial → submandibular.",
+    "Epicanthus normal in infants; persists in Asians."
+   ],
+   "hook": "<b>Grey line = the zip between front and back lamella.</b>",
+   "cards": [
+    {
+     "q": "Why does Horner syndrome cause ptosis?",
+     "a": "Loss of sympathetic supply to Müller's (superior tarsal) muscle."
+    }
+   ]
+  },
+  {
+   "id": "v01-09",
+   "group": "Adnexa",
+   "title": "Lacrimal apparatus",
+   "minutes": 3,
+   "tldr": "<b>Lacrimal gland</b>: orbital lobe (in fossa) + palpebral lobe, split by levator lateral horn; ~10 ducts open in <b>superotemporal fornix</b> — <b>removing the palpebral lobe cuts all ducts</b>. Drainage: puncta → canaliculi → sac (lacrimal fossa) → nasolacrimal duct → <b>inferior meatus</b>. Pump: capillarity, gravity, blinking, <b>Horner's muscle</b>. Nerves: lacrimal (sensory V1), <b>greater petrosal</b> (parasympathetic secretomotor, VII → pterygopalatine ganglion), sympathetics (Vidian nerve).",
+   "points": [
+    "Sac below the medial palpebral ligament is weakly covered → dacryocystitis swells/fistulates here.",
+    "Angular vessels 8 mm nasal to inner canthus → incise 2–3 mm nasal to canthus in sac surgery.",
+    "Gland lymph → preauricular nodes."
+   ],
+   "hook": "<b>Cut the palpebral lobe, dry the whole gland.</b>",
+   "cards": [
+    {
+     "q": "Which nerve carries parasympathetic secretomotor fibres to the lacrimal gland?",
+     "a": "Greater petrosal nerve (VII) → nerve of pterygoid canal → pterygopalatine ganglion."
+    }
+   ]
+  },
+  {
+   "id": "v01-10",
+   "group": "Visual pathway & nerves",
+   "title": "Optic nerve, chiasm & visual pathway",
+   "minutes": 4,
+   "tldr": "Optic nerve: <b>~1 million axons</b>; exits 3 mm nasal to posterior pole; myelinated after lamina (1.5 → 3 mm wide). Segments: intraocular 1 mm, <b>intraorbital 25–30 mm</b> (S-shaped slack), intracanalicular 4–9 mm, intracranial 10 mm. Sheaths = meninges; raised ICP distends subarachnoid space. Blood: disc surface from retinal arterioles, <b>laminar region from short posterior ciliary arteries</b>, rest pial. <b>Chiasm</b>: nasal fibres cross. Tract → LGN → radiation; <b>Meyer's loop</b> (temporal) = superior quadrantanopia. V1 calcarine; <b>V4 colour, V5 motion</b>.",
+   "points": [
+    "80% visual fibres, 20% pupillary (bypass LGN → pretectum).",
+    "Ganglion cell axons are CNS → don't regenerate.",
+    "Macula represented at the occipital pole."
+   ],
+   "hook": "<b>Meyer's loop: temporal lobe lesion → pie in the sky.</b>",
+   "cards": [
+    {
+     "q": "Arterial supply of the laminar optic nerve head?",
+     "a": "Short posterior ciliary arteries."
+    }
+   ]
+  },
+  {
+   "id": "v01-11",
+   "group": "Visual pathway & nerves",
+   "title": "Cranial nerves III–VII around the eye",
+   "minutes": 4,
+   "tldr": "<b>III</b>: between cerebral peduncles, near <b>PComm</b>, lateral wall of cavernous sinus → superior (SR, levator) and inferior divisions (MR, IR, IO + parasympathetic to ciliary ganglion). <b>IV</b>: thinnest, <b>only dorsal exit</b>, crosses; tentorium injury. <b>V1</b>: lacrimal, frontal, <b>nasociliary</b> (sensory nerve of the eye; tip of nose → <b>Hutchinson sign</b>). <b>V2</b>: infraorbital, damaged in floor fractures. <b>VI</b>: <b>longest intracranial course</b>, runs <b>inside</b> the cavernous sinus. <b>VII</b>: orbicularis + greater petrosal (tears).",
+   "points": [
+    "All other cavernous sinus nerves run in the lateral wall; VI is free in the sinus.",
+    "Herpes zoster vesicles on the nose tip predict ocular involvement (nasociliary)."
+   ],
+   "hook": "<b>VI travels furthest and sits inside the sinus — first to suffer.</b>",
+   "cards": [
+    {
+     "q": "Why does a nose-tip zoster rash predict eye involvement?",
+     "a": "Both are supplied by the nasociliary branch of V1 (Hutchinson sign)."
+    }
+   ]
+  },
+  {
+   "id": "v01-12",
+   "group": "Embryology & growth",
+   "title": "Embryology & postnatal growth",
+   "minutes": 4,
+   "tldr": "<b>Surface ectoderm</b>: lens, lacrimal gland, corneal/conjunctival epithelium, lid epidermis. <b>Neural crest</b>: keratocytes, <b>corneal endothelium, trabecular meshwork</b>, iris/choroid stroma, ciliary muscle, sclera, meninges. <b>Neural ectoderm</b>: retina, RPE, ciliary epithelium, <b>iris sphincter/dilator</b>, optic nerve. <b>Mesoderm</b>: EOMs, vascular endothelium. Timeline: optic vesicle 4 wk → cup + lens vesicle 5–6 wk → fissure closes (coloboma if not) → lids fuse 8 wk, open 5th month → hyaloid gone by 8 mo → macula mature 6 mo after birth; myelination complete 3 mo.",
+   "points": [
+    "Vitreous: primary (3–6 wk, hyaloid), secondary (6–10 wk), tertiary (zonule, from 10 wk).",
+    "Nasolacrimal cord canalises just before birth (→ congenital NLDO).",
+    "Newborn eye ~16.6 mm, adult size by 7–8 yr; cornea adult size by 2 yr.",
+    "Infant irides look blue: little stromal pigment."
+   ],
+   "hook": "<b>Iris muscles are neural (not muscle) tissue; angle and endothelium are neural crest.</b>",
+   "cards": [
+    {
+     "q": "Embryological origin of the iris sphincter and dilator muscles?",
+     "a": "Neural ectoderm (anterior iris epithelium)."
+    },
+    {
+     "q": "Origin of corneal endothelium and trabecular meshwork?",
+     "a": "Neural crest."
+    }
+   ]
+  }
+ ]
+}
