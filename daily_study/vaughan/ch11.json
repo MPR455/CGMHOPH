@@ -1,0 +1,215 @@
+{
+ "id": "ch11",
+ "num": 11,
+ "title": "Glaucoma",
+ "chunks": [
+  {
+   "id": "v11-01",
+   "group": "Basics",
+   "title": "What glaucoma is & aqueous dynamics",
+   "minutes": 3,
+   "tldr": "Chronic optic neuropathy: <b>disc cupping + field loss</b>, usually with raised IOP. ~60 million worldwide; half undiagnosed; leading cause of preventable blindness in the US. POAG commonest in blacks and whites; <b>angle closure</b> dominates in East Asia/Inuit; <b>NTG</b> commonest in Japan. Aqueous: ~250 µL, made at <b>~2.5 µL/min</b> by ciliary epithelium; high ascorbate/lactate, low protein. Exit: <b>trabecular → Schlemm → collectors → episcleral veins</b> (main resistance = <b>juxtacanalicular tissue</b>), plus <b>uveoscleral</b>. Episcleral venous pressure sets the IOP floor.",
+   "points": [
+    "Mechanism of vision loss = retinal ganglion cell apoptosis.",
+    "Screen everyone &gt;35 with disc check + tonometry; blacks 2-yearly from 35, yearly from 50; first-degree relatives."
+   ],
+   "hook": "<b>In through the ciliary body, out through the meshwork.</b>",
+   "cards": [
+    {
+     "q": "Site of greatest resistance to conventional aqueous outflow?",
+     "a": "Juxtacanalicular trabecular tissue next to the inner wall of Schlemm's canal."
+    },
+    {
+     "q": "Normal aqueous production rate?",
+     "a": "About 2.5 µL/min."
+    }
+   ]
+  },
+  {
+   "id": "v11-02",
+   "group": "Basics",
+   "title": "Tonometry, gonioscopy, disc & fields",
+   "minutes": 3,
+   "tldr": "<b>Goldmann applanation</b>: normal 11–21 mmHg (elderly up to 24); <b>thick cornea overestimates, thin cornea underestimates</b> (Pascal DCT avoids this). Diurnal swings; 1/3–1/2 of POAG have normal IOP at first check. <b>Gonioscopy</b>: see scleral spur/TM = open; only Schwalbe's line = narrow; nothing = closed. Hyperopes narrow, myopes wide. <b>Disc</b>: RNFL thinning first, then enlarged vertical cup, <b>notching</b> (inferior &gt; superior), disc haemorrhage, nasal vessel shift, <b>bean-pot</b> cup, asymmetry. <b>Fields</b>: central 30°, <b>Bjerrum/arcuate</b>, Seidel, <b>nasal step</b>, temporal and central islands last; white-on-white SAP misses until ~40% ganglion loss (SWAP, FDT earlier).",
+   "points": [
+    "Acuity is a poor guide — a patient can be 6/6 with a 5° field (legally blind)."
+   ],
+   "hook": "<b>ISNT rule broken + nasal step = glaucoma.</b>",
+   "cards": [
+    {
+     "q": "Effect of a thin central cornea on Goldmann IOP?",
+     "a": "Underestimates true IOP."
+    },
+    {
+     "q": "Earliest structural sign of glaucoma?",
+     "a": "Thinning of the peripapillary retinal nerve fibre layer."
+    }
+   ]
+  },
+  {
+   "id": "v11-03",
+   "group": "Treatment",
+   "title": "Glaucoma drops",
+   "minutes": 3,
+   "tldr": "<b>Prostaglandin analogues</b> (latanoprost, travoprost, bimatoprost, tafluproost) nightly — ↑<b>uveoscleral</b> outflow; 1st line. SE: red eye, <b>iris darkening</b>, lash growth, periorbital fat loss/pigment, CME/uveitis/HSV reactivation. <b>β-blockers</b> (timolol) ↓production; avoid in <b>asthma/COPD, heart block</b>; betaxolol β1-selective, weaker. <b>α2-agonists</b>: brimonidine (↓production + ↑uveoscleral; allergy; <b>apnoea in infants</b>), apraclonidine (post-laser spikes; tachyphylaxis). <b>Topical CAIs</b> dorzolamide/brinzolamide (bitter taste). <b>Miotics</b> pilocarpine (↑trabecular; brow ache, myopia, RD). <b>Oral acetazolamide</b> 250 mg qds/500 mg IV: paraesthesia, kidney stones, hypokalaemia, sulfa allergy. <b>Hyperosmotics</b>: glycerol 1 mL/kg oral (care in diabetics), IV mannitol.",
+   "points": [
+    "Fixed combos with timolol reduce drop burden."
+   ],
+   "hook": "<b>PGA opens the back door (uveoscleral); pilocarpine opens the front door (trabecular).</b>",
+   "cards": [
+    {
+     "q": "Mechanism of prostaglandin analogues?",
+     "a": "Increase uveoscleral outflow."
+    },
+    {
+     "q": "Why avoid brimonidine in infants?",
+     "a": "CNS depression and apnoea."
+    }
+   ]
+  },
+  {
+   "id": "v11-04",
+   "group": "Treatment",
+   "title": "Laser & surgery",
+   "minutes": 3,
+   "tldr": "<b>YAG peripheral iridotomy</b>: fixes pupil block (argon in dark irides); prophylaxis in narrow angles; <b>argon iridoplasty</b> if PI fails/can't be done. <b>Laser trabeculoplasty</b> (ALT/SLT) → can be first-line in POAG; effect fades over 2–5 y. <b>Trabeculectomy</b> ± <b>MMC/5-FU</b> (scarring risk: young, black, secondary, previous surgery) — best IOP drop; risks bleb leak, <b>blebitis/endophthalmitis</b>, hypotony maculopathy, cataract. <b>Tubes</b> (Baerveldt/Molteno non-valved, Ahmed valved) for high-risk eyes. Non-penetrating (deep sclerectomy, viscocanalostomy) safer, less effect; <b>MIGS</b>. <b>Goniotomy/trabeculotomy</b> for congenital. <b>Cyclodestruction</b> (diode/cryo) for refractory/blind painful eyes.",
+   "points": [],
+   "hook": "<b>Pupil block → hole in the iris; open angle → laser the meshwork or build a new drain.</b>",
+   "cards": [
+    {
+     "q": "Antimetabolites used with trabeculectomy?",
+     "a": "Mitomycin C and 5-fluorouracil."
+    }
+   ]
+  },
+  {
+   "id": "v11-05",
+   "group": "Open angle",
+   "title": "POAG, NTG & ocular hypertension",
+   "minutes": 3,
+   "tldr": "<b>POAG</b>: 1.3–2% &gt;40 y, 4.7% &gt;75; 4× more common and 6× more blinding in blacks; family history; <b>myocilin (chr 1)</b> in juvenile OAG. Asymptomatic, bilateral. Each 1 mmHg ↓ ≈ 10% ↓ progression risk (EMGT); advanced → target &lt;15. <b>NTG</b>: IOP ≤21 but damage; vascular (vasospasm, low CSF pressure), <b>optineurin (chr 10)</b>; <b>disc haemorrhages</b> common; exclude diurnal spikes, thin cornea, previous steroids/uveitis, intermittent closure, compressive lesions; 30% IOP ↓ helps (CNTGS). <b>OHT</b>: raised IOP, normal disc/field → 1–2%/yr convert (higher if high IOP, thin CCT, big cup, haemorrhage); OHTS: treatment halves conversion.",
+   "points": [],
+   "hook": "<b>Normal pressure doesn't rule out glaucoma — look at the disc.</b>",
+   "cards": [
+    {
+     "q": "Key OHTS findings?",
+     "a": "Treating ocular hypertension reduced conversion to POAG (~9.5% → 4.4% at 5 y); thin CCT is a strong risk factor."
+    },
+    {
+     "q": "Gene linked to some familial normal-tension glaucoma?",
+     "a": "Optineurin (OPTN) on chromosome 10."
+    }
+   ]
+  },
+  {
+   "id": "v11-06",
+   "group": "Angle closure",
+   "title": "Acute angle closure",
+   "minutes": 3,
+   "tldr": "Small <b>hyperopic</b> eye, big old lens, women, East Asian/Inuit. Trigger: <b>dim light, mydriatics, anticholinergics</b> (antidepressants, nebulisers, decongestants), topiramate (secondary). <b>Pupil block → iris bombé</b> → IOP 60–80. Painful red eye, <b>halos</b>, nausea/vomiting (mimics abdomen), steamy cornea, <b>fixed mid-dilated pupil</b>, shallow AC; gonioscope the fellow eye. Rx: <b>IV/oral acetazolamide</b> + topical β-blocker, apraclonidine/brimonidine, steroid, ± hyperosmotic; <b>pilocarpine 2% after ~30 min</b> (ischaemic sphincter won't respond earlier); then <b>YAG PI both eyes</b>; surgical iridectomy if PI fails; lens extraction increasingly used.",
+   "points": [
+    "Iritis: small pupil, normal/low IOP, more photophobia. Conjunctivitis: discharge, no pain or vision loss."
+   ],
+   "hook": "<b>Vomiting old lady with a red eye and mid-dilated pupil — check the pressure, not the abdomen.</b>",
+   "cards": [
+    {
+     "q": "Why delay pilocarpine in acute angle closure?",
+     "a": "The ischaemic iris sphincter won't respond until IOP has been lowered."
+    },
+    {
+     "q": "Definitive treatment after breaking an acute attack?",
+     "a": "Laser peripheral iridotomy in both eyes."
+    }
+   ]
+  },
+  {
+   "id": "v11-07",
+   "group": "Angle closure",
+   "title": "Subacute & chronic angle closure, plateau iris",
+   "minutes": 2,
+   "tldr": "<b>Subacute (intermittent)</b>: evening episodes of ache, blur, halos that resolve overnight; PAS accumulate → PI. <b>Chronic angle closure</b>: creeping PAS, gradual IOP rise, looks like POAG; gonioscopy is the key → <b>PI first</b>, then drops; surgery often needed; <b>phaco + IOL</b> helps if ≤2 quadrants PAS; no strong miotics before PI. <b>Plateau iris</b>: anteriorly placed ciliary processes; normal central AC depth but angle crowds on dilation <b>despite a patent PI</b> → iridoplasty or long-term miotics; younger patients. Nomenclature: 'angle-closure glaucoma' only once disc/field damage exists.",
+   "points": [],
+   "hook": "<b>Angle still closes after a good PI? Think plateau iris.</b>",
+   "cards": [
+    {
+     "q": "Mechanism of plateau iris?",
+     "a": "Anteriorly positioned ciliary processes push the peripheral iris forward, causing angle crowding on dilation without significant pupil block."
+    }
+   ]
+  },
+  {
+   "id": "v11-08",
+   "group": "Childhood",
+   "title": "Congenital glaucoma",
+   "minutes": 2,
+   "tldr": "Primary congenital (angle dysgenesis) or with anomalies: <b>Axenfeld-Rieger</b>, <b>Peters</b>, <b>aniridia</b>; syndromes: <b>Sturge-Weber</b>, NF1, Lowe, rubella, Marfan. 50% at birth, 80% by 1 y. Triad: <b>epiphora, photophobia, blepharospasm</b>; then cloudy cornea, <b>Haab striae</b> (Descemet breaks), <b>buphthalmos</b> (corneal diameter &gt;11.5 mm in newborn = significant), deep AC, early cupping (reversible). Treatment is <b>surgical</b>: goniotomy (clear cornea) or trabeculotomy.",
+   "points": [],
+   "hook": "<b>Watery, light-shy baby with big cloudy corneas = congenital glaucoma, not blocked duct.</b>",
+   "cards": [
+    {
+     "q": "What are Haab striae?",
+     "a": "Horizontal/curvilinear breaks in Descemet's membrane from corneal stretching in infantile glaucoma."
+    }
+   ]
+  },
+  {
+   "id": "v11-09",
+   "group": "Secondary",
+   "title": "Pigmentary & pseudoexfoliation glaucoma",
+   "minutes": 3,
+   "tldr": "<b>Pigment dispersion</b>: young <b>myopic men</b> 25–40, deep AC, <b>concave (posterior bowing) iris</b> rubs zonules → <b>Krukenberg spindle</b>, <b>mid-peripheral radial transillumination defects</b>, heavily pigmented TM (Sampaolesi line); IOP spikes after <b>exercise or dilation</b>; 10% glaucoma by 5 y. PI flattens iris; SLT; often surgery. <b>PXF</b>: elderly, Scandinavia, <b>LOXL1</b>; white fibrillar flakes on anterior lens ('target'), pupil margin; also systemic. 5% glaucoma at 5 y, 15% at 10 y; higher IOP, worse course; <b>weak zonules → cataract surgery complications</b>.",
+   "points": [
+    "True exfoliation (glassblower's cataract) = infrared-induced capsular delamination — different."
+   ],
+   "hook": "<b>Young myope, IOP up after jogging = pigment dispersion.</b>",
+   "cards": [
+    {
+     "q": "Gene associated with pseudoexfoliation?",
+     "a": "LOXL1 (lysyl oxidase-like 1), chromosome 15q24."
+    },
+    {
+     "q": "Three signs of pigment dispersion syndrome?",
+     "a": "Krukenberg spindle, mid-peripheral radial iris transillumination defects, dense trabecular pigmentation."
+    }
+   ]
+  },
+  {
+   "id": "v11-10",
+   "group": "Secondary",
+   "title": "Lens, uveitic, ICE & traumatic glaucoma",
+   "minutes": 3,
+   "tldr": "<b>Lens</b>: anterior dislocation/<b>intumescent</b> lens → pupil block (remove lens); <b>phacolytic</b> — leaky hypermature lens protein clogs TM (no keratic precipitates, white flecks) → lower IOP, steroid, remove lens. <b>Uveitic</b>: TM blockage, trabeculitis, <b>steroid response</b>, PAS, <b>seclusio pupillae → iris bombé</b>; worst offenders Fuchs, HLA-B27, herpes; avoid miotics, use mydriatics. Tumour (melanoma), <b>ciliary body swelling</b> (topiramate, after VR surgery) → secondary closure. <b>ICE</b>: young women, unilateral, beaten-metal endothelium, corectopia/polycoria, PAS. <b>Trauma</b>: hyphaema (worse with rebleed; sickle!), <b>angle recession</b> (late, deeper AC), PAS from flat AC.",
+   "points": [],
+   "hook": "<b>Old eye on a 'dead' cataract becomes red and hard = phacolytic.</b>",
+   "cards": [
+    {
+     "q": "Clinical clue to angle recession glaucoma?",
+     "a": "History of blunt trauma, deeper AC than fellow eye, wide ciliary body band on gonioscopy — glaucoma may appear years later."
+    },
+    {
+     "q": "Features of ICE syndrome?",
+     "a": "Young adult women, unilateral; corneal endothelial abnormality ('hammered silver'), iris atrophy/corectopia/polycoria, PAS and glaucoma."
+    }
+   ]
+  },
+  {
+   "id": "v11-11",
+   "group": "Secondary",
+   "title": "Malignant, neovascular, episcleral & steroid glaucoma",
+   "minutes": 3,
+   "tldr": "<b>Ciliary block (malignant) glaucoma</b>: after surgery in eyes with closed/narrow angles — aqueous misdirected into vitreous, <b>shallow central AND peripheral AC with high IOP</b> despite patent PI, myopic shift. Rx: <b>cycloplegics/mydriatics</b> (atropine), aqueous suppressants, hyperosmotics; YAG hyaloidotomy, vitrectomy. <b>NVG</b>: ischaemic DR, CRVO, carotid disease → fibrovascular membrane → zipped-shut angle; <b>anti-VEGF + PRP</b>, atropine + steroid, tube or cyclodestruction. <b>Raised episcleral venous pressure</b>: Sturge-Weber, carotid-cavernous fistula — meds can't go below EVP. <b>Steroid-induced</b>: topical &gt; periocular/intraocular &gt; systemic; ~weeks; worse with family history of POAG.",
+   "points": [],
+   "hook": "<b>Flat AC + high IOP after trab + patent PI = aqueous misdirection → atropine.</b>",
+   "cards": [
+    {
+     "q": "Medical treatment of malignant (ciliary block) glaucoma?",
+     "a": "Cycloplegic-mydriatics (atropine), aqueous suppressants and hyperosmotic agents."
+    },
+    {
+     "q": "Two causes of glaucoma from raised episcleral venous pressure?",
+     "a": "Sturge-Weber syndrome and carotid-cavernous fistula."
+    }
+   ]
+  }
+ ]
+}

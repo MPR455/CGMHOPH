@@ -652,7 +652,63 @@
    "num": 11,
    "title": "Glaucoma",
    "file": "ch11.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v11-01",
+     "title": "What glaucoma is & aqueous dynamics",
+     "group": "Basics"
+    },
+    {
+     "id": "v11-02",
+     "title": "Tonometry, gonioscopy, disc & fields",
+     "group": "Basics"
+    },
+    {
+     "id": "v11-03",
+     "title": "Glaucoma drops",
+     "group": "Treatment"
+    },
+    {
+     "id": "v11-04",
+     "title": "Laser & surgery",
+     "group": "Treatment"
+    },
+    {
+     "id": "v11-05",
+     "title": "POAG, NTG & ocular hypertension",
+     "group": "Open angle"
+    },
+    {
+     "id": "v11-06",
+     "title": "Acute angle closure",
+     "group": "Angle closure"
+    },
+    {
+     "id": "v11-07",
+     "title": "Subacute & chronic angle closure, plateau iris",
+     "group": "Angle closure"
+    },
+    {
+     "id": "v11-08",
+     "title": "Congenital glaucoma",
+     "group": "Childhood"
+    },
+    {
+     "id": "v11-09",
+     "title": "Pigmentary & pseudoexfoliation glaucoma",
+     "group": "Secondary"
+    },
+    {
+     "id": "v11-10",
+     "title": "Lens, uveitic, ICE & traumatic glaucoma",
+     "group": "Secondary"
+    },
+    {
+     "id": "v11-11",
+     "title": "Malignant, neovascular, episcleral & steroid glaucoma",
+     "group": "Secondary"
+    }
+   ]
   },
   {
    "id": "ch12",
