@@ -175,9 +175,10 @@ body.theme-black .badge{background:#1a1a1a}
       <div class="small" id="prog-txt" style="margin-top:6px">Loading…</div>
       <div class="prog"><div id="prog-bar"></div></div>
       <div class="small" style="margin-top:6px;display:flex;gap:6px;align-items:center;flex-wrap:wrap">
-        <button class="btn sec sm" onclick="document.getElementById('local-pick').click()" title="Copy figures from a folder on this computer into this browser only. Nothing is uploaded.">🖼 Import local figures</button>
+        <button class="btn sec sm" id="local-btn" onclick="document.getElementById('local-pick').click()" title="Copy figures from a folder on this computer into this browser only. Nothing is uploaded.">🖼 Import local figures</button>
         <span id="local-st"></span>
       </div>
+      <div class="prog" id="local-prog" hidden><div id="local-bar"></div></div>
       <input type="file" id="local-pick" webkitdirectory multiple hidden onchange="importLocal(this)">
       <div class="tree">
         <input class="search" id="search" placeholder="Filter loaded topics…" oninput="filterTree()">
@@ -396,10 +397,20 @@ function renderImage(im){
 }
 // ---- Local figures imported into this browser (IndexedDB). Nothing leaves the computer. ----
 // files: "<bookId>|img/x.jpg" -> Blob     maps: "<bookId>" -> that book's images.json
+// meta:  "<bookId>|img/x.jpg" -> {size, mtime} of the copied file, so re-imports skip unchanged figures
 function idb(){
   if(!idb.p) idb.p = new Promise(function(res, rej){
-    var r = indexedDB.open("cgmh_daily_local", 1);
-    r.onupgradeneeded = function(){ r.result.createObjectStore("files"); r.result.createObjectStore("maps"); };
+    var r = indexedDB.open("cgmh_daily_local", 2);
+    r.onupgradeneeded = function(e){
+      var db = r.result;
+      if(e.oldVersion < 1){ db.createObjectStore("files"); db.createObjectStore("maps"); }
+      if(e.oldVersion < 2){
+        db.createObjectStore("meta");
+        if(e.oldVersion === 1){                       // v1 copies have no change info (and old paths): start clean
+          r.transaction.objectStore("files").clear(); r.transaction.objectStore("maps").clear();
+        }
+      }
+    };
     r.onsuccess = function(){ res(r.result); }; r.onerror = function(){ rej(r.error); };
   });
   return idb.p;
@@ -434,41 +445,90 @@ function hydrateIdbImages(){
 }
 // Pick daily_study/local (all books at once) or one book's folder inside it, e.g. local/wills.
 // The folder holding each images.json is named after the book id.
+function idbTx(stores, fn){
+  return idb().then(function(db){ return new Promise(function(res, rej){
+    var tx = db.transaction(stores, "readwrite"), out = fn(tx);
+    tx.oncomplete = function(){ res(out); }; tx.onerror = tx.onabort = function(){ rej(tx.error); };
+  }); });
+}
+function bookRange(id){ return IDBKeyRange.bound(id+"|", id+"|￿"); }
+function importProgress(text, done, total){
+  var bar = document.getElementById("local-prog");
+  document.getElementById("local-st").textContent = text;
+  bar.hidden = total == null;
+  if(total != null) document.getElementById("local-bar").style.width = (total ? 100*done/total : 100)+"%";
+}
+// Copy one book: skip figures whose size and modified time match the stored copy, drop ones no
+// longer listed, and write in small batches so progress can be shown.
+function importBook(book, map, prefix, byPath, onStep){
+  var want = {};
+  Object.keys(map).forEach(function(k){ map[k].forEach(function(im){
+    var f = byPath[prefix + im.src]; if(f) want[book.id+"|"+im.src] = f;
+  }); });
+  return idb().then(function(db){ return new Promise(function(res, rej){
+    var st = db.transaction("meta").objectStore("meta"), keys, vals;
+    var qk = st.getAllKeys(bookRange(book.id)), qv = st.getAll(bookRange(book.id));
+    qk.onsuccess = function(){ keys = qk.result; if(vals) res([keys, vals]); };
+    qv.onsuccess = function(){ vals = qv.result; if(keys) res([keys, vals]); };
+    qk.onerror = qv.onerror = function(){ rej(qk.error || qv.error); };
+  }); }).then(function(kv){
+    var have = {}; kv[0].forEach(function(k, i){ have[k] = kv[1][i]; });
+    var copy = Object.keys(want).filter(function(k){
+      var m = have[k], f = want[k]; return !m || m.size !== f.size || m.mtime !== f.lastModified;
+    });
+    var stale = Object.keys(have).filter(function(k){ return !want[k]; });
+    var total = copy.length, done = 0, BATCH = 40;
+    onStep(0, total);
+    var p = stale.length ? idbTx(["files","meta"], function(tx){
+      stale.forEach(function(k){ tx.objectStore("files").delete(k); tx.objectStore("meta").delete(k); });
+    }) : Promise.resolve();
+    for(var i = 0; i < copy.length; i += BATCH){
+      (function(part){
+        p = p.then(function(){ return idbTx(["files","meta"], function(tx){
+          part.forEach(function(k){
+            var f = want[k];
+            tx.objectStore("files").put(f, k);
+            tx.objectStore("meta").put({size:f.size, mtime:f.lastModified}, k);
+          });
+        }); }).then(function(){ done += part.length; onStep(done, total); });
+      })(copy.slice(i, i + BATCH));
+    }
+    return p.then(function(){ return idbTx(["maps"], function(tx){ tx.objectStore("maps").put(map, book.id); }); })
+      .then(function(){ return {book:book, copied:total, same:Object.keys(want).length - total, removed:stale.length}; });
+  });
+}
 function importLocal(input){
   var files = Array.from(input.files || []); input.value = "";
   var byPath = {}; files.forEach(function(f){ byPath[f.webkitRelativePath] = f; });
-  var maps = files.filter(function(f){ return /(^|\/)[^\/]+\/images\.json$/.test(f.webkitRelativePath); });
-  if(!maps.length){ toast("No <book>/images.json found — pick the daily_study/local folder"); return; }
+  var jobs = files.filter(function(f){ return /(^|\/)[^\/]+\/images\.json$/.test(f.webkitRelativePath); })
+    .map(function(mf){
+      var prefix = mf.webkitRelativePath.replace(/images\.json$/, "");    // ".../<bookId>/"
+      var segs = prefix.split("/"), id = segs[segs.length-2];
+      return {mf:mf, prefix:prefix, book:BOOKS.find(function(b){ return b.id===id; })};
+    }).filter(function(j){ return j.book; });
+  if(!jobs.length){ toast("No <book>/images.json found — pick the daily_study/local folder"); return; }
   if(navigator.storage && navigator.storage.persist) navigator.storage.persist();
-  Promise.all(maps.map(function(mf){
-    var prefix = mf.webkitRelativePath.replace(/images\.json$/, "");      // ".../<bookId>/"
-    var segs = prefix.split("/"), id = segs[segs.length-2];
-    var book = BOOKS.find(function(b){ return b.id===id; });
-    if(!book) return Promise.resolve(null);
-    return mf.text().then(function(t){
-      var map = JSON.parse(t), puts = [];
-      Object.keys(map).forEach(function(k){ map[k].forEach(function(im){
-        var f = byPath[prefix + im.src];
-        if(f) puts.push([book.id+"|"+im.src, f]);
-      }); });
-      return idb().then(function(db){ return new Promise(function(res, rej){
-        var tx = db.transaction(["files","maps"], "readwrite"), fs = tx.objectStore("files");
-        fs.delete(IDBKeyRange.bound(book.id+"|", book.id+"|￿"));      // drop that book's old copies
-        puts.forEach(function(p){ fs.put(p[1], p[0]); });
-        tx.objectStore("maps").put(map, book.id);
-        tx.oncomplete = function(){ res({book:book, n:puts.length}); }; tx.onerror = function(){ rej(tx.error); };
-      }); });
-    });
-  })).then(function(done){
-    done = done.filter(Boolean);
-    if(!done.length){ toast("Couldn't tell which book that folder belongs to"); return; }
-    toast("Imported "+done.map(function(d){ return d.n+" "+d.book.short+" figures"; }).join(", "));
-    var cur = done.find(function(d){ return d.book===BOOK; });
-    if(cur && LOCALSRC!=="server"){
-      LOCALP = idbGet("maps", BOOK.id).then(function(m){ LOCALIMG=m||{}; LOCALSRC="browser"; showLocalStatus(); return LOCALIMG; });
+  var btn = document.getElementById("local-btn"); btn.disabled = true;
+  var results = [], p = Promise.resolve();
+  jobs.forEach(function(j, n){                                           // one book at a time
+    p = p.then(function(){ return j.mf.text(); }).then(function(t){
+      var tag = jobs.length > 1 ? " ("+(n+1)+"/"+jobs.length+")" : "";
+      return importBook(j.book, JSON.parse(t), j.prefix, byPath, function(done, total){
+        importProgress(total ? "Copying "+j.book.short+tag+": "+done+" / "+total : "Checking "+j.book.short+tag+"…", done, total);
+      });
+    }).then(function(r){ results.push(r); });
+  });
+  p.then(function(){
+    toast(results.map(function(r){
+      return r.book.short+": "+r.copied+" copied, "+r.same+" unchanged"+(r.removed ? ", "+r.removed+" removed" : "");
+    }).join(" · "));
+    if(results.some(function(r){ return r.book===BOOK; }) && LOCALSRC!=="server"){
+      LOCALP = idbGet("maps", BOOK.id).then(function(m){ LOCALIMG=m||{}; LOCALSRC="browser"; return LOCALIMG; });
       LOCALP.then(function(){ if(CUR) openChunk(CUR.chap, CUR.i); });
     }
-  }).catch(function(e){ toast("Import failed: "+(e && e.message || e)); });
+    return LOCALP;
+  }).catch(function(e){ toast("Import failed: "+(e && e.message || e)); })
+    .then(function(){ btn.disabled = false; importProgress("", 0, null); showLocalStatus(); });
 }
 function openLightbox(src, alt){
   var d=document.createElement("div"); d.className="lightbox"; d.onclick=function(){ d.remove(); };

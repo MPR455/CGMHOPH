@@ -42,5 +42,5 @@ Only for images you have the right to publish. Give the bite an `images` array; 
 
 The live site has no `local/` folder, so other visitors see no figures. Two ways to see them yourself:
 
-- **On the live site:** click **🖼 Import local figures** in the sidebar and pick the `daily_study/local` folder. That imports every book at once; picking one book's folder, e.g. `local/wills`, also works. The page copies each `images.json` and its pictures into that browser's IndexedDB. Nothing is uploaded. Re-import once per browser or computer, after clearing site data, or after the figures change.
+- **On the live site:** click **🖼 Import local figures** in the sidebar and pick the `daily_study/local` folder. That imports every book at once; picking one book's folder, e.g. `local/wills`, also works. The page copies each `images.json` and its pictures into that browser's IndexedDB. Nothing is uploaded. A progress bar shows while copying. Re-imports only copy figures that are new or changed (by file size and modified time) and drop ones no longer listed, so re-importing after adding a book is quick. Re-import once per browser or computer, after clearing site data, or after the figures change.
 - **Without importing:** run `study_local.bat`, which serves the repo at http://localhost:8777.
