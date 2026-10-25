@@ -30,6 +30,19 @@ assert.equal(PROCS.length, 192);
 assert.equal(Object.keys(education.diseases).length, DATA.length);
 assert.equal(Object.keys(education.procedures).length, PROCS.length);
 const plain = value => value.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ');
+for (const record of DATA) {
+  assert.ok(typeof record.symptom === 'string' && record.symptom.trim(), record.id + ': missing English symptoms');
+  assert.doesNotMatch(record.symptom + (record.laterality || ''), /[\u3400-\u9fff]/, record.id + ': symptoms must be English');
+  if (/conjunctivitis|ophthalmia neonatorum/i.test(record.t)) {
+    assert.ok(record.laterality, record.id + ': missing conjunctivitis laterality');
+  }
+  context.curTab = 'symptom';
+  const rendered = context.renderDiseaseDetail(record);
+  assert.match(rendered, /data-tab="symptom">Symptoms<\/button>.*data-tab="criteria">Criteria<\/button>/);
+  assert.match(rendered, /<div class="dtab-panel active" lang="en">/);
+  assert.ok(rendered.includes(context.formatContent(record.symptom)), record.id + ': missing symptom content');
+  if (record.laterality) assert.ok(rendered.includes(context.formatContent('**Laterality and fellow-eye involvement:** ' + record.laterality)), record.id + ': missing laterality content');
+}
 for (const [records, kind, field] of [[DATA, 'dis', 'teach'], [PROCS, 'proc', 'layzh']]) {
   assert.equal(new Set(records.map(record => record.id)).size, records.length);
   for (const record of records) {
@@ -64,6 +77,16 @@ for (const [records, kind, field] of [[DATA, 'dis', 'teach'], [PROCS, 'proc', 'l
 }
 const disease = prefix => DATA.find(d => d.id.startsWith(prefix + '-'));
 const proc = prefix => PROCS.find(p => p.id.startsWith(prefix + '-'));
+assert.match(disease('d35').laterality, /fellow eye over the next several days/);
+assert.match(disease('d35').laterality, /some cases stay unilateral/);
+assert.match(disease('d37').laterality, /Usually bilateral/);
+assert.match(disease('d37').laterality, /not contagious/);
+assert.match(disease('d36').laterality, /Adult inclusion conjunctivitis is usually unilateral/);
+assert.match(disease('d36').laterality, /Trachoma typically affects both eyes/);
+assert.match(disease('d40').laterality, /prosthesis may affect only that side/);
+assert.match(disease('d311').symptom, /first month of life/);
+assert.match(disease('d34').symptom, /Hyperacute gonococcal.*urgent assessment/);
+assert.ok(context.matchesQuery(disease('d43'), 'fibrin-clearance', context.DIS_SEARCH_FIELDS), 'laterality notes are searchable');
 assert.match(disease('d157').teach, /立刻.*急診/);
 assert.match(disease('d157').treatment, /Do not routinely offer ocular massage/);
 assert.doesNotMatch(proc('p111').indication, /possibly dislodge the embolus/);
@@ -94,4 +117,4 @@ assert.ok(context.matchesQuery(disease('d157'), '眼部中風', context.DIS_SEAR
 assert.ok(context.matchesQuery(proc('p89'), '一氧化二氮', context.PROC_SEARCH_FIELDS), 'Chinese procedure search');
 assert.doesNotMatch(context.findMatchSnippet(proc('p89'), '一氧化二氮', context.PROC_SEARCH_FIELDS), /<[^>]+>/);
 assert.ok(!context.matchesQuery(proc('p89'), 'teach-section', context.PROC_SEARCH_FIELDS), 'markup is not searchable content');
-console.log(`Validated ${DATA.length} disease and ${PROCS.length} intervention teaching panels, rendering, Chinese search and clinical safety regressions.`);
+console.log(`Validated ${DATA.length} English symptom panels, conjunctivitis laterality, ${DATA.length} disease and ${PROCS.length} intervention teaching panels, rendering, search and clinical safety regressions.`);

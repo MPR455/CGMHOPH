@@ -262,6 +262,7 @@ header{flex-wrap:wrap;row-gap:6px}
 <p class="small" style="text-align:center;margin:16px 0;color:var(--sub)">&copy; 2026 Victor Lin. All rights reserved. &nbsp;&middot;&nbsp; <a href="/CGMHOPH/index.html">&larr; Back to CGMH OPH</a></p>
 <script src="assets/quick_reference_patient_education_zh.js"></script>
 <script src="assets/quick_reference_teaching_zh.js"></script>
+<script src="assets/quick_reference_symptoms_en.js"></script>
 <script>
 function setTheme(t){document.body.classList.remove("theme-macaroon","theme-dark","theme-black");if(t==="macaroon"||t==="dark"||t==="black")document.body.classList.add("theme-"+t);try{localStorage.setItem("cgmh_theme",t);}catch(e){}markDots();}
 function markDots(){var m=document.body.className.match(/theme-(\w+)/);var cur=m?m[1]:"default";document.querySelectorAll(".theme-dot").forEach(function(d){d.classList.toggle("sel",d.dataset.theme===cur);});}
@@ -947,9 +948,10 @@ function procedureMetaHtml(p){
 }
 
 QUICK_REFERENCE_TEACHING_ZH.applyClinicalUpdates(DATA, PROCS);
+QUICK_REFERENCE_SYMPTOMS_EN.apply(DATA);
 DATA.forEach(function(d){ d.teach = QUICK_REFERENCE_TEACHING_ZH.diseaseHtml(d); });
 PROCS.forEach(function(p){ p.layzh = buildProcedureLayZh(p); });
-var TABS = [["criteria","Criteria"],["treatment","Treatment"],["prognosis","Prognosis"],["prevalence","Prevalence"],["teach","教學"]];
+var TABS = [["symptom","Symptoms"],["criteria","Criteria"],["treatment","Treatment"],["prognosis","Prognosis"],["prevalence","Prevalence"],["teach","教學"]];
 var PROC_TABS = [["indication","Indication"],["method","Method"],["preop","Pre-op"],["postop","Post-op"],["contra","Contraindications"],["prognosis","Prognosis"],["notes","Notes"],["layzh","教學"]];
 var PREV_LABELS = ["", "Rare", "Uncommon", "Occasional", "Common", "Very common"];
 function prevSort(a,b){
@@ -975,7 +977,7 @@ var VIEW = "categories";  // categories | items | detail | search
 var curCat = null;
 var curDetailKind = null;  // "dis" | "proc"
 var curDetailId = null;
-var curTab = "criteria";
+var curTab = "symptom";
 var DETAIL_NAV_IDS = [];
 var topicOpen = false;
 var FS_MIN = 12.5, FS_MAX = 19, FS_STEP = 1.25;
@@ -1123,7 +1125,7 @@ function goToCat(cat){
   render();
 }
 function goToDisease(id){
-  curDetailKind = "dis"; curDetailId = id; VIEW = "detail"; curTab = "criteria";
+  curDetailKind = "dis"; curDetailId = id; VIEW = "detail"; curTab = "symptom";
   if(MODE === "intervention"){ MODE = "diseases"; renderNav(); }
   render();
   window.scrollTo({top:0, behavior:'smooth'});
@@ -1309,7 +1311,7 @@ function renderItemGrid(cat){
   return html;
 }
 
-var DIS_SEARCH_FIELDS = [["Symptom","symptom"],["Criteria","criteria"],["Treatment","treatment"],["Prognosis","prognosis"],["Prevalence","prevalence"],["教學","teach"]];
+var DIS_SEARCH_FIELDS = [["Symptoms","symptom"],["Laterality","laterality"],["Criteria","criteria"],["Treatment","treatment"],["Prognosis","prognosis"],["Prevalence","prevalence"],["教學","teach"]];
 var PROC_SEARCH_FIELDS = [["Indication","indication"],["Method","method"],["Pre-op","preop"],["Post-op","postop"],["Contraindications","contra"],["Prognosis","prognosis"],["Notes","notes"],["教學","layzh"]];
 
 function searchableText(value){
@@ -1384,11 +1386,12 @@ function renderDiseaseDetail(d){
   }).join('');
   var panelsHtml = TABS.map(function(t){
     var content = d[t[0]];
+    if(t[0] === 'symptom' && d.laterality) content += '<br>**Laterality and fellow-eye involvement:** ' + d.laterality;
     var activeCls = (t[0] === curTab) ? ' active' : '';
     var opts = (t[0] === 'treatment') ? {links: d.treatmentLinks} : undefined;
-    var teachingAttrs = t[0] === 'teach' ? ' lang="zh-Hant"' : '';
+    var languageAttrs = t[0] === 'teach' ? ' lang="zh-Hant"' : (t[0] === 'symptom' ? ' lang="en"' : '');
     var panelContent = t[0] === 'teach' ? formatTeachingContent(content) : formatContent(content, opts);
-    return '<div class="dtab-panel' + activeCls + '"' + teachingAttrs + '>' + panelContent + '</div>';
+    return '<div class="dtab-panel' + activeCls + '"' + languageAttrs + '>' + panelContent + '</div>';
   }).join('');
   return '<div class="card">' +
     '<div class="dtitle">' + d.t + '</div>' +
