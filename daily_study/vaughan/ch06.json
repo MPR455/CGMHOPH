@@ -1,0 +1,342 @@
+{
+ "id": "ch06",
+ "num": 6,
+ "title": "Cornea",
+ "chunks": [
+  {
+   "id": "v06-01",
+   "group": "Microbial keratitis",
+   "title": "Approach to microbial keratitis",
+   "minutes": 2,
+   "tldr": "History is half the diagnosis: <b>trauma</b>, <b>contact lens</b> wear, topical <b>steroids</b> (open the door to bacteria, fungi, HSV), past HSV. Slitlamp + fluorescein. <b>Scrape</b> before treating: Gram & Giemsa, cultures (bacteria, fungi, Acanthamoeba on non-nutrient agar + E coli), <b>PCR</b> for HSV/Acanthamoeba/fungi. Start treatment as soon as samples are taken; read lab results alongside the clinical picture.",
+   "points": [
+    "Imaging: topography (shape), specular microscopy (endothelial count), AS-OCT (depth, graft position), <b>confocal microscopy</b> (Acanthamoeba cysts, fungal hyphae).",
+    "Recurrent erosion hurts; recurrent HSV often doesn't (reduced sensation)."
+   ],
+   "hook": "<b>Scrape first, then drop hourly.</b>",
+   "cards": [
+    {
+     "q": "Which imaging tool can directly show Acanthamoeba cysts and fungal hyphae?",
+     "a": "In vivo confocal microscopy."
+    }
+   ]
+  },
+  {
+   "id": "v06-02",
+   "group": "Microbial keratitis",
+   "title": "Bacterial ulcers by bug",
+   "minutes": 3,
+   "tldr": "<b>Pneumococcus</b>: 24–48 h after abrasion, creeping ulcer toward centre, clear surrounding cornea, <b>hypopyon</b>; lancet-shaped G+ diplococci; look for dacryocystitis. <b>Pseudomonas</b>: <b>soft CL / overnight wear</b>, rapid melt from proteolytic enzymes, big hypopyon, perforation risk; G– rods. <b>Moraxella</b>: indolent inferior oval ulcer in alcoholics/diabetics; square-ended G– diplobacilli. <b>Staph/α-strep</b>: indolent, in steroid-compromised corneas; <b>infectious crystalline keratopathy</b> (branching) with long-term steroids. <b>Nocardia / M chelonae</b>: soil trauma, 'cracked windshield' ulcer bed.",
+   "points": [
+    "Rx (Table 6-3): <b>topical fluoroquinolone hourly day & night 48 h</b> → hourly by day ×3 d → qds; 2nd line fortified cefuroxime 5% + gentamicin 1.5%.",
+    "Mycobacterial: amikacin 2.5% + levofloxacin; chlamydial: oral azithro/doxy."
+   ],
+   "table": {
+    "head": [
+     "Bug",
+     "Clue"
+    ],
+    "rows": [
+     [
+      "Pneumococcus",
+      "Post-abrasion, creeping, hypopyon"
+     ],
+     [
+      "Pseudomonas",
+      "Soft CL, fast melt"
+     ],
+     [
+      "Moraxella",
+      "Alcoholic, indolent inferior"
+     ],
+     [
+      "Nocardia/M chelonae",
+      "Soil, cracked windshield"
+     ]
+    ]
+   },
+   "hook": "<b>Contact lens + rapidly melting ulcer = Pseudomonas.</b>",
+   "cards": [
+    {
+     "q": "Infectious crystalline keratopathy is associated with which organism and which drug?",
+     "a": "Alpha-haemolytic (viridans) streptococci, in corneas on long-term topical steroid (often grafts)."
+    },
+    {
+     "q": "Second-line fortified antibiotics for bacterial keratitis per Vaughan?",
+     "a": "Cefuroxime 5% and gentamicin 1.5%."
+    }
+   ]
+  },
+  {
+   "id": "v06-03",
+   "group": "Microbial keratitis",
+   "title": "Fungal & Acanthamoeba keratitis",
+   "minutes": 3,
+   "tldr": "<b>Fungal</b>: vegetable-matter trauma, CL, steroids. Feathery irregular edge, raised dry infiltrate, <b>satellite lesions</b>, endothelial plaque, hypopyon. Filamentous (Fusarium, Aspergillus) → <b>natamycin 5%</b>; yeasts (Candida) → <b>amphotericin 0.15%</b>; second line voriconazole 1%. <b>Steroids contraindicated.</b> <b>Acanthamoeba</b>: CL + tap water/swimming; <b>pain out of proportion</b>, <b>perineural infiltrates</b> early, <b>ring infiltrate</b> later; often misdiagnosed as HSV. Rx: <b>PHMB 0.02% and/or hexamidine/propamidine</b> (must be cysticidal), hourly then tapered over months.",
+   "points": [
+    "Corneal biopsy beats scraping for Acanthamoeba; culture the lens case.",
+    "Keratoplasty if progressing; scleral spread does badly."
+   ],
+   "hook": "<b>Agony + small epithelial changes + lens wearer = Acanthamoeba.</b>",
+   "cards": [
+    {
+     "q": "First-line topical drug for filamentous fungal keratitis?",
+     "a": "Natamycin 5%."
+    },
+    {
+     "q": "Early sign of Acanthamoeba keratitis on slitlamp?",
+     "a": "Radial perineural infiltrates (keratoneuritis)."
+    }
+   ]
+  },
+  {
+   "id": "v06-04",
+   "group": "Viral keratitis",
+   "title": "HSV keratitis: forms",
+   "minutes": 3,
+   "tldr": "HSV-1 latent in <b>trigeminal ganglion</b>; triggers: fever, UV, trauma, menses, stress. <b>Epithelial</b>: <b>dendritic ulcer</b> with <b>terminal bulbs</b> → broader <b>geographic</b> ulcer (esp. after steroids); reduced <b>corneal sensation</b>. <b>Stromal</b>: necrotising (viral replication, can perforate) vs <b>disciform</b> (commonest; central disc of oedema, KPs underneath, immune). <b>Endotheliitis</b>: oedema + KPs + raised IOP + iritis. Peripheral HSV ulcer: epithelium lost <b>before</b> infiltrate (opposite of staph marginal).",
+   "points": [
+    "Bilateral in 4–6%, mostly atopic patients.",
+    "Primary HSV in kids: vesicular blepharoconjunctivitis."
+   ],
+   "hook": "<b>Dendrite has bulbs on its tips; zoster pseudodendrite doesn't.</b>",
+   "cards": [
+    {
+     "q": "Most common form of HSV stromal keratitis?",
+     "a": "Disciform keratitis (immune-mediated central disc of stromal oedema)."
+    },
+    {
+     "q": "How do you distinguish peripheral HSV ulcer from staph marginal keratitis?",
+     "a": "HSV: epithelial loss precedes infiltrate, little pain/photophobia; staph: infiltrate first with clear zone, painful."
+    }
+   ]
+  },
+  {
+   "id": "v06-05",
+   "group": "Viral keratitis",
+   "title": "HSV keratitis: treatment",
+   "minutes": 2,
+   "tldr": "<b>Epithelial</b>: debride infected epithelium + topical <b>ganciclovir/acyclovir/trifluridine</b>, or oral acyclovir. Oral acyclovir doses: <b>400 mg 5×/day</b> active (800 mg 5×/day if immunocompromised/atopic); <b>prophylaxis 400 mg bd</b>. <b>Stromal/disciform</b>: topical steroid <b>only under antiviral cover</b>, ophthalmologist-supervised. Graft only after months of quiescence, with oral antiviral cover; DALK preferred (less rejection).",
+   "points": [
+    "Over-treatment with many drops → epithelial toxicity; often improves by simplifying.",
+    "Small perforation: cyanoacrylate glue; persistent defect: BCL, tarsorrhaphy, amniotic membrane."
+   ],
+   "hook": "<b>Steroid for HSV stroma? Never without an antiviral umbrella.</b>",
+   "cards": [
+    {
+     "q": "Prophylactic oral acyclovir dose for recurrent HSV keratitis?",
+     "a": "400 mg twice daily."
+    }
+   ]
+  },
+  {
+   "id": "v06-06",
+   "group": "Viral keratitis",
+   "title": "Zoster & adenoviral keratitis",
+   "minutes": 2,
+   "tldr": "<b>HZO</b>: <b>Hutchinson sign</b> (nasociliary tip-of-nose rash) predicts eye involvement. Stroma and uvea hit from the start; blotchy epithelium, <b>pseudodendrites</b>, nummular/disciform keratitis, uveitis, sclerokeratitis, <b>neurotrophic</b> cornea for months. Rx within 72 h: acyclovir 800 mg 5×/d ×10–14 d / valacyclovir 1 g tds / famciclovir 500 mg tds ×7–10 d; topical steroid for keratitis/uveitis. <b>Adenovirus</b>: punctate keratitis day 5–7, then <b>SEIs</b> at day 8–15 lasting months; steroids clear but rebound; cyclosporine/tacrolimus alternative.",
+   "points": [
+    "Elderly get severe zoster disease; children mild.",
+    "Follow zoster patients for months — keratitis may appear late."
+   ],
+   "hook": "<b>Tip of the nose blisters = check the eye.</b>",
+   "cards": [
+    {
+     "q": "Why is the cornea at risk long after zoster keratitis seems healed?",
+     "a": "Loss of corneal sensation → neurotrophic keratitis/ulceration and secondary infection."
+    }
+   ]
+  },
+  {
+   "id": "v06-07",
+   "group": "Sterile keratitis",
+   "title": "Marginal keratitis, Mooren & PUK",
+   "minutes": 3,
+   "tldr": "<b>Marginal (catarrhal) keratitis</b>: immune reaction to staph antigens; oval infiltrate with <b>clear zone</b> from limbus, painful, 7–10 d; Rx lid hygiene ± weak steroid. <b>Mooren ulcer</b>: idiopathic autoimmune, painful <b>circumferential undermined excavation</b>, elderly, unilateral 60–80%; needs systemic immunosuppression, conjunctival resection, tectonic graft. <b>PUK</b>: peripheral melt with <b>systemic vasculitis</b> — RA, GPA (Wegener), PAN, SLE, relapsing polychondritis, IBD; immune complexes in limbal capillaries (like glomeruli). Treat the systemic disease.",
+   "points": [
+    "Rule out HSV before steroid for a marginal infiltrate.",
+    "Perforation: glue, patch graft, keratoplasty."
+   ],
+   "hook": "<b>Peripheral melt = look for vasculitis; it may be life-threatening.</b>",
+   "cards": [
+    {
+     "q": "Systemic diseases associated with peripheral ulcerative keratitis?",
+     "a": "Rheumatoid arthritis, granulomatosis with polyangiitis, polyarteritis nodosa, SLE, relapsing polychondritis, IBD."
+    }
+   ]
+  },
+  {
+   "id": "v06-08",
+   "group": "Sterile keratitis",
+   "title": "Vitamin A, neurotrophic, exposure & toxic keratopathy",
+   "minutes": 3,
+   "tldr": "<b>Xerophthalmia</b>: night blindness, <b>Bitot spots</b> (foamy temporal keratinised wedge), bilateral central grey ulcer → <b>keratomalacia</b> and perforation; malnutrition/malabsorption; Rx vitamin A (adult mild 30,000 U/d ×1 wk). <b>Neurotrophic</b> (CN V damage): painless epithelial breakdown → ulcer; Rx lubricate, <b>close the lids</b> (taping, tarsorrhaphy, botox ptosis), <b>nerve growth factor</b> drops, serum. <b>Exposure</b>: inferior third ulcer (proptosis, Bell palsy, ectropion). <b>Toxic</b>: trifluridine, aminoglycosides, BAK → inferior coarse punctate keratitis.",
+   "points": [
+    "Anaesthesia + exposure together = worst combination.",
+    "Dry eye: filaments in the lower cornea."
+   ],
+   "hook": "<b>Numb cornea can't complain — warn the patient to report redness.</b>",
+   "cards": [
+    {
+     "q": "What is a Bitot spot?",
+     "a": "A foamy, triangular area of keratinised temporal bulbar conjunctiva in vitamin A deficiency."
+    },
+    {
+     "q": "Topical biologic for neurotrophic keratitis?",
+     "a": "Nerve growth factor (cenegermin) drops."
+    }
+   ]
+  },
+  {
+   "id": "v06-09",
+   "group": "Ectasia",
+   "title": "Keratoconus",
+   "minutes": 3,
+   "tldr": "Bilateral asymmetric stromal thinning/protrusion; starts teens. Associations: <b>Down</b>, <b>atopy/eye rubbing</b>, Marfan, Ehlers-Danlos, RP. Rising myopic <b>irregular astigmatism</b>, <b>scissoring</b> reflex. Signs: <b>Vogt striae</b> (pathognomonic), <b>Fleischer ring</b> (iron), <b>Munson sign</b>; topography detects early (forme fruste — no LASIK!). <b>Acute hydrops</b> = Descemet break, clears with scar. Rx: glasses → <b>rigid CL</b>; <b>corneal cross-linking</b> (riboflavin + UVA) halts progression; ring segments; DALK/PK when CL fails.",
+   "points": [
+    "Review every 6–12 months with serial topography to catch progression.",
+    "Graft outcomes good: &gt;85% good vision at 4 years."
+   ],
+   "hook": "<b>Progressing cone? Cross-link it before it needs a graft.</b>",
+   "cards": [
+    {
+     "q": "Pathognomonic slitlamp sign of keratoconus?",
+     "a": "Vogt striae — fine vertical folds in deep stroma/Descemet that disappear with pressure."
+    },
+    {
+     "q": "What does corneal collagen cross-linking use?",
+     "a": "Riboflavin drops plus ultraviolet A light to strengthen stromal collagen bonds."
+    }
+   ]
+  },
+  {
+   "id": "v06-10",
+   "group": "Degenerations",
+   "title": "Corneal degenerations",
+   "minutes": 3,
+   "tldr": "<b>Terrien</b>: men, superior marginal thinning with vessels + lipid leading edge, painless, slow. <b>Band keratopathy</b>: calcium in Bowman's, interpalpebral with clear rim and holes; JIA uveitis, chronic inflammation, hypercalcaemia/hyperparathyroidism; Rx scrape + <b>EDTA chelation</b> ± PTK. <b>Spheroidal (climatic droplet)</b>: UV, outdoor workers, golden droplets. <b>Salzmann nodules</b>: grey-white elevated nodules after phlyctenules/trachoma. <b>Arcus</b>: grey ring with clear zone; check lipids if &lt;50.",
+   "points": [
+    "Vortex keratopathy (verticillata): amiodarone, chloroquine/HCQ, indomethacin, phenothiazines, <b>Fabry</b>."
+   ],
+   "hook": "<b>Band keratopathy in a child = JIA until proven otherwise.</b>",
+   "cards": [
+    {
+     "q": "Treatment of calcific band keratopathy?",
+     "a": "Epithelial removal and chelation with EDTA (0.01 M), ± excimer PTK smoothing."
+    },
+    {
+     "q": "Drugs causing cornea verticillata?",
+     "a": "Amiodarone, chloroquine/hydroxychloroquine, indomethacin, phenothiazines (also Fabry disease)."
+    }
+   ]
+  },
+  {
+   "id": "v06-11",
+   "group": "Dystrophies",
+   "title": "Corneal dystrophies (IC3D)",
+   "minutes": 3,
+   "tldr": "Bilateral, symmetric, inherited, no inflammation. <b>Epithelial</b>: <b>EBMD</b> (map-dot-fingerprint; recurrent erosions), Meesmann (keratin K3/K12). <b>Epithelial-stromal TGFBI (5q31, AD)</b>: Reis-Bücklers (Bowman's, erosions), <b>lattice</b> (branching lines, <b>amyloid</b>, erosions, recurs in graft), <b>granular</b> (breadcrumbs, <b>hyaline</b>, clear between). <b>Stromal</b>: <b>macular</b> (<b>AR</b>, CHST6, <b>mucopolysaccharide</b>, hazy to limbus, worst vision), Schnyder (UBIAD1, crystals). <b>Endothelial</b>: <b>Fuchs</b>, PPCD (AD; vesicles, ZEB1), CHED (AR, SLC4A11).",
+   "points": [
+    "Lattice and EBMD/Reis-Bücklers cause recurrent erosions.",
+    "Transplant usually restores vision; lattice/granular can recur in the graft."
+   ],
+   "table": {
+    "head": [
+     "Dystrophy",
+     "Deposit / stain",
+     "Inheritance"
+    ],
+    "rows": [
+     [
+      "Granular",
+      "Hyaline (Masson trichrome)",
+      "AD"
+     ],
+     [
+      "Lattice",
+      "Amyloid (Congo red)",
+      "AD"
+     ],
+     [
+      "Macular",
+      "Mucopolysaccharide (Alcian blue)",
+      "AR"
+     ]
+    ]
+   },
+   "hook": "<b>Marilyn Monroe Always Gets Her Man in LA City: Macular–Mucopolysaccharide–Alcian; Granular–Hyaline; Lattice–Amyloid–Congo.</b>",
+   "cards": [
+    {
+     "q": "The only autosomal recessive classic stromal dystrophy?",
+     "a": "Macular corneal dystrophy (CHST6)."
+    },
+    {
+     "q": "Which gene underlies Reis-Bücklers, Thiel-Behnke, lattice type 1 and granular dystrophies?",
+     "a": "TGFBI on 5q31."
+    }
+   ]
+  },
+  {
+   "id": "v06-12",
+   "group": "Dystrophies",
+   "title": "Fuchs, Thygeson & recurrent erosion",
+   "minutes": 3,
+   "tldr": "<b>Fuchs</b>: women, 4th decade+; central <b>guttae</b>, thick Descemet, endothelial loss → <b>morning blur/glare</b> that clears through the day → stromal/epithelial oedema, bullae; decompensates after cataract surgery. Rx: hypertonic saline, then <b>endothelial keratoplasty (DSAEK/DMEK)</b> ± combined with cataract. <b>Thygeson SPK</b>: bilateral raised grey oval central epithelial dots, white quiet eye, recurrent for years; weak steroid or cyclosporine. <b>Recurrent erosion</b>: wakes with pain on eye opening; trauma, EBMD; Rx lubricant ointment for months, 5% NaCl, BCL, <b>anterior stromal puncture</b>, <b>PTK</b>.",
+   "points": [
+    "Erosion = faulty hemidesmosome anchoring of epithelium to Bowman's.",
+    "Staph keratitis: lower third; trachoma: upper third; Thygeson: central, no conjunctivitis."
+   ],
+   "hook": "<b>Fuchs = foggy at Five a.m., clearer by noon.</b>",
+   "cards": [
+    {
+     "q": "Why is vision worse in the morning in Fuchs dystrophy?",
+     "a": "Overnight corneal oedema with lids closed (no evaporation); clears as tears evaporate during the day."
+    },
+    {
+     "q": "Surgical options for recurrent corneal erosion resistant to lubricants?",
+     "a": "Bandage CL, anterior stromal puncture, excimer phototherapeutic keratectomy."
+    }
+   ]
+  },
+  {
+   "id": "v06-13",
+   "group": "Surface & surgery",
+   "title": "Limbal stem cell deficiency & keratoplasty types",
+   "minutes": 3,
+   "tldr": "<b>LSCD</b>: chemical/thermal burns, SJS, pemphigoid, GVHD, aniridia, CL overuse, drop toxicity → conjunctivalisation, vessels, persistent defects. <b>Impression cytology</b>: goblet cells + CK19 = conjunctival; CK3/12 = corneal. Rx: limbal transplant (autologous from fellow eye — CLAU/SLET, or allogeneic), cultivated cells, amniotic membrane. Grafts: <b>PK</b> (full thickness), <b>DALK</b> (keep own Descemet/endothelium — keratoconus, stromal scars, no endothelial rejection), <b>DSAEK/DMEK</b> (endothelial failure), tectonic, rotational.",
+   "points": [
+    "Donor cornea storage: 4°C up to ~10 days; organ culture 34°C up to ~6 weeks.",
+    "Biggest PK problems: astigmatism and rejection."
+   ],
+   "hook": "<b>Replace only the layer that's broken.</b>",
+   "cards": [
+    {
+     "q": "Which keratoplasty is preferred for Fuchs dystrophy?",
+     "a": "Endothelial keratoplasty (DSAEK or DMEK)."
+    },
+    {
+     "q": "Impression cytology markers of conjunctivalised cornea?",
+     "a": "Goblet cells and cytokeratin 19 (instead of corneal CK3/CK12)."
+    }
+   ]
+  },
+  {
+   "id": "v06-14",
+   "group": "Surface & surgery",
+   "title": "Refractive corneal surgery",
+   "minutes": 2,
+   "tldr": "<b>LASIK</b>: flap (femtosecond/microkeratome) + excimer ablation of bed — fastest recovery; risk of <b>ectasia</b> with large ablations/thin corneas; flap complications. <b>PRK/surface ablation</b>: epithelium removed then ablated — for thin corneas and contact sports; more pain, haze risk. Wavefront-guided refines. <b>Intrastromal ring segments</b> (Intacs/KeraRing) for keratoconus CL intolerance; <b>arcuate keratotomy</b> for astigmatism (incl. post-graft).",
+   "points": [
+    "Prior refractive surgery makes IOL power calculation tricky.",
+    "Forme fruste keratoconus on topography = no LASIK."
+   ],
+   "hook": "<b>Thin cornea or boxer? PRK, not LASIK.</b>",
+   "cards": [
+    {
+     "q": "Key screening finding that contraindicates LASIK?",
+     "a": "Forme fruste keratoconus / abnormal topography or thin cornea (ectasia risk)."
+    }
+   ]
+  }
+ ]
+}
