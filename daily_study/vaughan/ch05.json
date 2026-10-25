@@ -1,0 +1,383 @@
+{
+ "id": "ch05",
+ "num": 5,
+ "title": "Conjunctiva & Tears",
+ "chunks": [
+  {
+   "id": "v05-01",
+   "group": "Conjunctivitis basics",
+   "title": "Reading the red eye: cytology & signs",
+   "minutes": 3,
+   "tldr": "Scraping tells you the bug class: <b>PMNs = bacterial</b>, <b>mononuclear = viral</b>, <b>mixed PMN + mononuclear (+ plasma cells, Leber cells) = chlamydia</b>, <b>eosinophils = allergic</b>. <b>Papillae</b>: vascular core, nonspecific (bacterial, allergic, CL). <b>Follicles</b>: avascular lymphoid centre with vessels around the edge — viral, chlamydial, drug toxicity. <b>Giant papillae</b>: upper tarsus in VKC/GPC, lower in AKC.",
+   "points": [
+    "<b>Pseudomembrane</b> peels without bleeding; <b>true membrane</b> bleeds when stripped.",
+    "Ligneous conjunctivitis = recurrent membranes (plasminogen deficiency).",
+    "Granuloma + big preauricular node = <b>Parinaud oculoglandular syndrome</b>.",
+    "Preauricular node: prominent in viral, chlamydial, gonococcal; rare in plain bacterial."
+   ],
+   "table": {
+    "head": [
+     "Cell",
+     "Think"
+    ],
+    "rows": [
+     [
+      "PMNs",
+      "Bacteria"
+     ],
+     [
+      "Lymphocytes/monocytes",
+      "Virus"
+     ],
+     [
+      "Mixed + Leber cells",
+      "Chlamydia"
+     ],
+     [
+      "Eosinophils",
+      "Allergy"
+     ]
+    ]
+   },
+   "hook": "<b>Follicle = blood vessels round the outside; papilla = vessel in the middle.</b>",
+   "cards": [
+    {
+     "q": "Which conjunctivitis shows a mixed PMN and mononuclear cytology?",
+     "a": "Chlamydial (trachoma / inclusion conjunctivitis)."
+    },
+    {
+     "q": "How to tell a pseudomembrane from a true membrane?",
+     "a": "Pseudomembrane peels off leaving intact epithelium; a true membrane leaves a raw bleeding surface."
+    }
+   ]
+  },
+  {
+   "id": "v05-02",
+   "group": "Bacterial",
+   "title": "Bacterial conjunctivitis: hyperacute to chronic",
+   "minutes": 3,
+   "tldr": "<b>Hyperacute purulent</b> = <b>Neisseria</b> (gonorrhoeae, meningitidis): copious pus, chemosis, node; can perforate the cornea fast. Rx: <b>ceftriaxone 1 g IM once</b> (cornea involved → 1–2 g IV daily ×5 d) + saline irrigation + treat chlamydia/partners. <b>Acute</b> mucopurulent: <b>S pneumoniae</b>, <b>H aegyptius</b>. <b>Subacute</b>: H influenzae. <b>Chronic</b>: staph blepharoconjunctivitis, Moraxella (angular).",
+   "points": [
+    "Uncomplicated bacterial conjunctivitis self-limits in <b>10–14 days</b>; 1–3 days with treatment.",
+    "Chronic unilateral 'conjunctivitis' → look for <b>dacryocystitis</b> or <b>canaliculitis</b> (pouting punctum, Actinomyces).",
+    "Gram stain + culture for any hyperacute case."
+   ],
+   "hook": "<b>Pus pouring out overnight = gonococcus until proven otherwise — systemic ceftriaxone.</b>",
+   "cards": [
+    {
+     "q": "Treatment of adult gonococcal conjunctivitis without corneal involvement?",
+     "a": "Ceftriaxone 1 g IM single dose, plus irrigation and chlamydia cover; treat partners."
+    },
+    {
+     "q": "Unilateral mucopurulent conjunctivitis that won't settle — what to check?",
+     "a": "The lacrimal system: dacryocystitis or canaliculitis (Actinomyces)."
+    }
+   ]
+  },
+  {
+   "id": "v05-03",
+   "group": "Chlamydial",
+   "title": "Trachoma",
+   "minutes": 3,
+   "tldr": "<b>C trachomatis serovars A–C</b>, spread by eye-to-eye/flies in poor hygiene. Follicles on upper tarsus → scarring (<b>Arlt line</b>), <b>Herbert's pits</b> (necrosed limbal follicles), <b>superior pannus</b>, then entropion/<b>trichiasis</b> → corneal opacity: leading infectious cause of blindness. Rx: <b>azithromycin 1 g single dose</b> (mass treatment) or doxycycline 100 mg bd ×3 wk; no tetracyclines under 7 y or in pregnancy. Trichiasis → lid surgery.",
+   "points": [
+    "WHO <b>SAFE</b>: Surgery, Antibiotics, Facial cleanliness, Environmental improvement.",
+    "Herbert's pits are pathognomonic of past trachoma."
+   ],
+   "hook": "<b>A–C trachoma = Africa/Asia Child blinding; D–K = genital inclusion.</b>",
+   "cards": [
+    {
+     "q": "What are Herbert's pits?",
+     "a": "Small depressions at the superior limbus from necrosed limbal follicles — a sign of trachoma."
+    },
+    {
+     "q": "Mass treatment drug for trachoma?",
+     "a": "Single-dose oral azithromycin 1 g (20 mg/kg in children)."
+    }
+   ]
+  },
+  {
+   "id": "v05-04",
+   "group": "Chlamydial",
+   "title": "Inclusion conjunctivitis (adult & neonatal)",
+   "minutes": 2,
+   "tldr": "<b>Serovars D–K</b>, sexually transmitted (≈1 in 300 genital infections reach the eye). Adult: unilateral/bilateral follicular conjunctivitis, tender node, micropannus; lasts <b>3–9 months</b> untreated. Rx: <b>azithromycin 1 g</b> once or <b>doxycycline 100 mg bd ×7 d</b> + treat partners, screen for other STIs. Newborns (no lymphoid tissue yet) get a <b>papillary</b>, often membranous picture: <b>erythromycin 50 mg/kg/d ×14 d</b> (also treats chlamydial pneumonia).",
+   "points": [
+    "LGV serovars L1–L3 → granulomatous conjunctivitis with huge nodes (Parinaud)."
+   ],
+   "hook": "<b>Chronic follicular conjunctivitis in a young adult = ask about sex.</b>",
+   "cards": [
+    {
+     "q": "Why is neonatal chlamydial conjunctivitis papillary rather than follicular?",
+     "a": "The newborn conjunctiva has no adenoid (lymphoid) layer until ~2–3 months."
+    }
+   ]
+  },
+  {
+   "id": "v05-05",
+   "group": "Viral",
+   "title": "Adenovirus: PCF vs EKC",
+   "minutes": 3,
+   "tldr": "<b>Pharyngoconjunctival fever</b> (adenovirus <b>3, 4, 7</b>): fever, sore throat, follicular conjunctivitis, <b>non-tender</b> node; kids, swimming pools; ~10 days. <b>Epidemic keratoconjunctivitis</b> (<b>8, 19, 29, 37</b>): tender node, then <b>subepithelial opacities</b> (immune) after ~2 weeks that blur vision for months; very contagious — <b>nosocomial</b> spread via tonometers/hands.",
+   "points": [
+    "Treatment supportive: cold compresses, tears; peel membranes.",
+    "<b>Avoid steroids</b> routinely — they prolong viral shedding and rebound; reserve for disabling SEIs.",
+    "Clean instruments; patient off work while eyes are red."
+   ],
+   "hook": "<b>EKC: Eight-teen (8, 19) Keratitis Contagious.</b>",
+   "cards": [
+    {
+     "q": "Adenovirus types causing EKC?",
+     "a": "8, 19, 29, 37."
+    },
+    {
+     "q": "What causes the late blurring in EKC?",
+     "a": "Subepithelial corneal infiltrates (immune response to viral antigen)."
+    }
+   ]
+  },
+  {
+   "id": "v05-06",
+   "group": "Viral",
+   "title": "HSV, zoster, AHC & other viruses",
+   "minutes": 3,
+   "tldr": "<b>HSV conjunctivitis</b>: unilateral follicular, vesicles on lid, maybe dendrites; multinucleated giant cells. Rx: topical trifluridine/ganciclovir gel or <b>oral acyclovir 400 mg 5×/day</b>; <b>neonates → IV acyclovir</b>. <b>Steroids contraindicated.</b> <b>Zoster ophthalmicus</b>: oral acyclovir 800 mg 5×/d, famciclovir 500 mg tds or valacyclovir 1 g tds ×7 d, ideally within 72 h. <b>Acute haemorrhagic conjunctivitis</b>: enterovirus 70 / coxsackie A24, explosive epidemics, subconjunctival haemorrhages, 5–7 d.",
+   "points": [
+    "<b>Molluscum</b> nodule on lid margin → chronic follicular conjunctivitis; cure = excise/curette the lesion.",
+    "Newcastle disease (poultry workers), measles (Koplik spots on caruncle) also cause conjunctivitis."
+   ],
+   "hook": "<b>Follicular red eye that won't go → look at the lid margin for a molluscum.</b>",
+   "cards": [
+    {
+     "q": "Oral acyclovir dose for herpes zoster ophthalmicus?",
+     "a": "800 mg five times daily for 7 days (start within 72 h)."
+    },
+    {
+     "q": "Causes of acute haemorrhagic conjunctivitis?",
+     "a": "Enterovirus 70 and coxsackievirus A24."
+    }
+   ]
+  },
+  {
+   "id": "v05-07",
+   "group": "Other infections",
+   "title": "Fungal & parasitic conjunctivitis",
+   "minutes": 2,
+   "tldr": "<b>Candida</b>: white plaques, immunocompromised; amphotericin B or nystatin. <b>Sporothrix</b>, <b>Rhinosporidium</b> (bleeding polyp; excise), <b>Coccidioides</b> (Parinaud from lung disease) are rare. Parasites: <b>Loa loa</b> (African eye worm under conjunctiva, eosinophilia; diethylcarbamazine), <b>Thelazia</b> (dog worm — pick it out), <b>Ascaris</b> juice = violent toxic 'butcher's conjunctivitis' (irrigate), <b>Trichinella</b> (lemon-yellow chemosis over recti), <b>Taenia</b> (subconjunctival cyst), <b>Phthirus pubis</b> (lice/nits on lashes).",
+   "points": [
+    "Lash lice: remove nits, smother with ointment on lid margins; treat contacts, wash bedding.",
+    "Ophthalmomyiasis: fly larvae on the surface — remove mechanically."
+   ],
+   "hook": "<b>Itchy lid margins with 'dandruff' glued to lashes in an adult → pubic lice.</b>",
+   "cards": [
+    {
+     "q": "Worm visible crossing under the conjunctiva in a patient from West Africa?",
+     "a": "Loa loa — treat with diethylcarbamazine (and surgical removal)."
+    }
+   ]
+  },
+  {
+   "id": "v05-08",
+   "group": "Allergic",
+   "title": "Hay fever conjunctivitis & the allergy drug toolbox",
+   "minutes": 2,
+   "tldr": "Itching, tearing, chemosis ('eyes sinking in'), ropy discharge with pollen/dander exposure. Drugs: <b>antihistamines</b> (emedastine, levocabastine), <b>mast cell stabilisers</b> (cromolyn, lodoxamide, nedocromil — slower, prophylactic), <b>dual-action</b> (olopatadine, ketotifen, epinastine, azelastine, bepotastine, alcaftadine), <b>NSAIDs</b> (ketorolac). Cold compresses; oral loratadine helps.",
+   "points": [
+    "OTC vasoconstrictors (naphazoline etc.) → <b>rebound redness</b> and follicular reaction.",
+    "Eosinophils hard to find on scrapings in hay fever conjunctivitis."
+   ],
+   "hook": "<b>Itch is the cardinal symptom of allergy — no itch, rethink.</b>",
+   "cards": [
+    {
+     "q": "Name two dual-action antihistamine/mast cell stabiliser drops.",
+     "a": "Olopatadine, ketotifen (also epinastine, azelastine, bepotastine, alcaftadine)."
+    }
+   ]
+  },
+  {
+   "id": "v05-09",
+   "group": "Allergic",
+   "title": "Vernal keratoconjunctivitis (VKC)",
+   "minutes": 3,
+   "tldr": "Boys, prepubertal, warm climates, lasts <b>5–10 years</b>, worse in spring/summer. Intense itch + ropy discharge. <b>Cobblestone giant papillae on upper tarsus</b> or <b>limbal gelatinous papillae</b> with <b>Horner–Trantas dots</b> (eosinophil collections), pseudogerontoxon. <b>Shield ulcer</b> (superior oval) can scar. Maxwell-Lyons sign = fibrinous pseudomembrane on upper tarsus.",
+   "points": [
+    "Rx: dual-action drops, cold, air-con; short pulse of steroid for flares only (glaucoma/cataract risk).",
+    "Severe: <b>cyclosporine or tacrolimus</b> drops; supratarsal steroid injection ± papilla excision for shield ulcer.",
+    "Associated with keratoconus; burns out without scarring."
+   ],
+   "hook": "<b>Itchy boy in spring with cobblestones under his upper lid = VKC.</b>",
+   "cards": [
+    {
+     "q": "What are Trantas dots?",
+     "a": "White limbal collections of eosinophils in active (limbal) vernal keratoconjunctivitis."
+    },
+    {
+     "q": "Steroid-sparing drops for severe VKC?",
+     "a": "Cyclosporine or tacrolimus."
+    }
+   ]
+  },
+  {
+   "id": "v05-10",
+   "group": "Allergic",
+   "title": "AKC, GPC & phlyctenulosis",
+   "minutes": 3,
+   "tldr": "<b>Atopic KC</b>: adults with eczema; burning, milky conjunctiva, papillae <b>lower</b> tarsus, conjunctival scarring, corneal vascularisation; associations: <b>atopic (anterior shield/posterior subcapsular) cataract</b>, keratoconus, RD, HSV keratitis, staph. <b>GPC</b>: contact lenses/prostheses (basophil-rich, Jones–Mote) — clean/replace lenses, daily disposables, stop wear. <b>Phlyctenule</b>: type IV reaction to <b>staph</b> (TB in endemic areas); limbal nodule, corneal ones leave a <b>triangular scar</b> with base at limbus; dramatic response to topical steroid.",
+   "points": [
+    "Conjunctival phlyctenules leave no scar; corneal ones always scar.",
+    "Contact blepharitis from neomycin/atropine/preservatives → remove the agent."
+   ],
+   "hook": "<b>VKC = upper lid, boys, spring. AKC = lower lid, adults, eczema, scarring.</b>",
+   "cards": [
+    {
+     "q": "Commonest cause of phlyctenulosis in developed countries?",
+     "a": "Delayed hypersensitivity to Staphylococcus aureus antigens (TB in endemic regions)."
+    },
+    {
+     "q": "Cataract associated with atopic keratoconjunctivitis?",
+     "a": "Anterior shield-like or posterior subcapsular cataract."
+    }
+   ]
+  },
+  {
+   "id": "v05-11",
+   "group": "Immune & cicatrising",
+   "title": "Pemphigoid, SJS/TEN & Sjögren",
+   "minutes": 3,
+   "tldr": "<b>Mucous membrane pemphigoid</b>: elderly, chronic 'resistant conjunctivitis' → <b>fornix shortening</b>, symblepharon, entropion/trichiasis, blindness; biopsy shows <b>linear IgG/IgA/C3 at basement membrane</b>. Rx: dapsone, systemic immunosuppression, biologics. <b>SJS/TEN</b>: drug-triggered, membranous conjunctivitis acutely (~6 wk), then scarring, dry eye, trichiasis — topical steroids may melt cornea. <b>Sjögren</b>: dry eye + dry mouth; anti-Ro/La, lip biopsy.",
+   "points": [
+    "<b>Superior limbic KC</b>: upper limbus/tarsus, rose bengal staining, filaments; ~50% thyroid; silver nitrate, resect conjunctiva.",
+    "Reiter (reactive arthritis): urethritis + arthritis + papillary conjunctivitis, HLA-B27.",
+    "Kawasaki: bilateral non-purulent conjunctivitis + fever, rash, cardiac risk."
+   ],
+   "hook": "<b>Look in the lower fornix — shallow fornix in an old person = pemphigoid.</b>",
+   "cards": [
+    {
+     "q": "Immunofluorescence finding in mucous membrane pemphigoid?",
+     "a": "Linear deposition of IgG/IgA/IgM/complement along the epithelial basement membrane."
+    },
+    {
+     "q": "Thyroid association of which conjunctival disease?",
+     "a": "Superior limbic keratoconjunctivitis (~50%)."
+    }
+   ]
+  },
+  {
+   "id": "v05-12",
+   "group": "Chemical & misc",
+   "title": "Chemical burns, toxic drops & rosacea",
+   "minutes": 3,
+   "tldr": "<b>Alkali</b> saponifies fats and penetrates deep (worse); acid coagulates protein and stays superficial. <b>Irrigate immediately and copiously</b> — no antidotes; remove particles; then intensive steroid, <b>ascorbate & citrate</b>, cycloplegic, IOP control; later amniotic membrane, limbal stem cell transplant. <b>Toxic conjunctivitis</b> from brimonidine, apraclonidine, preservatives: follicular, persists weeks after stopping. <b>Ocular rosacea</b>: lid margin telangiectasia, MGD, inferior wedge pannus/ulcer; Rx lid care + <b>oral doxycycline</b>.",
+   "points": [
+    "Ophthalmia nodosa = caterpillar hairs → granulomas; remove each hair.",
+    "Folliculosis/Axenfeld: benign childhood follicles, self-limiting."
+   ],
+   "hook": "<b>Chemical splash: water first, questions later.</b>",
+   "cards": [
+    {
+     "q": "Why are alkali burns worse than acid?",
+     "a": "Alkalis saponify cell membrane lipids and penetrate deeply and continue damaging; acids precipitate proteins, forming a barrier."
+    }
+   ]
+  },
+  {
+   "id": "v05-13",
+   "group": "Chemical & misc",
+   "title": "Pinguecula, pterygium, SCH & ophthalmia neonatorum",
+   "minutes": 3,
+   "tldr": "<b>Pinguecula</b>: yellow nasal interpalpebral nodule (elastotic); pingueculitis → weak steroid/NSAID. <b>Pterygium</b>: fleshy wing onto cornea (UV, dust, wind); excise if growing toward pupil, <b>conjunctival autograft</b> lowers recurrence. <b>Subconjunctival haemorrhage</b>: reassure, clears 1–3 wk; recurrent/bilateral → check clotting. <b>Ophthalmia neonatorum</b> by onset: <b>gonococcal 2–3 d</b> (ceftriaxone 125 mg IM once), <b>HSV 2–3 d</b> (acyclovir 30 mg/kg/d ×14 d, admit), <b>chlamydia 5–12 d</b> (oral erythromycin ×2 wk); treat parents.",
+   "points": [
+    "Crede silver nitrate prevents gonococcal but not chlamydial or HSV; erythromycin/tetracycline ointment alternatives.",
+    "Cat-scratch (Bartonella henselae) = commonest Parinaud oculoglandular syndrome."
+   ],
+   "hook": "<b>Newborn red eye: Day 2–3 Gonococcus/Herpes, Day 5–12 Chlamydia.</b>",
+   "cards": [
+    {
+     "q": "Treatment of neonatal gonococcal conjunctivitis?",
+     "a": "Ceftriaxone 125 mg IM single dose (plus irrigation; treat parents)."
+    },
+    {
+     "q": "What surgical step reduces pterygium recurrence?",
+     "a": "Conjunctival autograft at excision."
+    }
+   ]
+  },
+  {
+   "id": "v05-14",
+   "group": "Tumours",
+   "title": "Benign & premalignant conjunctival lesions",
+   "minutes": 3,
+   "tldr": "<b>Nevus</b>: childhood onset, limbal, interpalpebral, contains <b>cysts</b> (reassuring). <b>Limbal dermoid</b>: white mass straddling inferotemporal limbus with hairs; bilateral → <b>Goldenhar</b>. Haemangioma/lymphangioma: hard to excise. <b>PAM</b>: acquired flat brown patch in middle-aged/older, unilateral — <b>premalignant</b> if atypia; biopsy, cryo, MMC. <b>Dysplasia/CIN</b>: grey translucent limbal/corneal epithelium; excise or topical <b>MMC, 5-FU, interferon α-2b</b>.",
+   "points": [
+    "Lymphoid hyperplasia & lymphoma: salmon-pink fornix mass — biopsy, low-dose radiotherapy, watch for systemic lymphoma."
+   ],
+   "hook": "<b>Pigment since childhood with cysts = nevus. New pigment in a 60-year-old = PAM — biopsy.</b>",
+   "cards": [
+    {
+     "q": "Bilateral limbal dermoids suggest which syndrome?",
+     "a": "Goldenhar syndrome (oculoauriculovertebral dysplasia)."
+    },
+    {
+     "q": "Topical chemotherapy agents for ocular surface neoplasia?",
+     "a": "Mitomycin C, 5-fluorouracil, interferon alpha-2b."
+    }
+   ]
+  },
+  {
+   "id": "v05-15",
+   "group": "Tumours",
+   "title": "Malignant conjunctival tumours",
+   "minutes": 3,
+   "tldr": "<b>SCC</b>: limbal interpalpebral, older males (young in <b>xeroderma pigmentosum</b>, HIV); leukoplakic, gelatinous or papillary with feeder vessels. Rx: <b>excision (no-touch) + cryotherapy</b> to margins ± topical MMC/5-FU/IFN. <b>Mucoepidermoid</b>: aggressive yellow variant → often exenteration. <b>Melanoma</b>: from PAM/nevus/de novo; vascular brown nodule; worse if <b>fornix/caruncle</b>, large, recurrent; wide excision + cryo, consider node biopsy. <b>Lymphoma</b>: pink fornix mass, ~20% systemic → radiotherapy. <b>Kaposi</b>: red haemorrhagic nodule in AIDS.",
+   "points": [
+    "Masquerade syndrome: sebaceous carcinoma or CIS posing as chronic conjunctivitis."
+   ],
+   "hook": "<b>Salmon patch = lymphoma; feeder vessels + white plaque at limbus = SCC.</b>",
+   "cards": [
+    {
+     "q": "Poor prognostic sites for conjunctival melanoma?",
+     "a": "Fornix, caruncle (and palpebral) involvement; also thickness and local recurrence."
+    }
+   ]
+  },
+  {
+   "id": "v05-16",
+   "group": "Tears & dry eye",
+   "title": "Tear film & dry eye tests",
+   "minutes": 3,
+   "tldr": "Tear film 7–10 µm: <b>lipid</b> (meibomian, slows evaporation) / <b>aqueous</b> (lacrimal glands; lysozyme, IgA, lactoferrin) / <b>mucin</b> (goblet cells; makes epithelium wettable). Volume ~7 µL, osmolarity ~300 mOsm/L. Tests: <b>Schirmer without anaesthesia &lt;10 mm/5 min abnormal</b> (with anaesthesia &lt;5 mm); <b>TBUT &lt;10 s</b> (normal &gt;15 s, mucin/lipid problem); <b>rose bengal/lissamine green</b> stain devitalised cells; tear osmolarity (most specific); lysozyme/lactoferrin low in Sjögren.",
+   "points": [
+    "Causes: aqueous deficiency (Sjögren, drugs: antihistamines, antimuscarinics, β-blockers), mucin deficiency (vit A, SJS, pemphigoid, trachoma, burns), lipid (blepharitis), exposure.",
+    "Earliest sign: thin/absent inferior tear meniscus; interpalpebral staining; filaments."
+   ],
+   "hook": "<b>Lipid on top, water in the middle, mucus glue at the bottom.</b>",
+   "cards": [
+    {
+     "q": "Abnormal Schirmer I result (no anaesthesia)?",
+     "a": "Less than 10 mm wetting in 5 minutes."
+    },
+    {
+     "q": "Which dry eye test is said to be most specific?",
+     "a": "Tear film hyperosmolarity."
+    }
+   ]
+  },
+  {
+   "id": "v05-17",
+   "group": "Tears & dry eye",
+   "title": "Treating dry eye",
+   "minutes": 2,
+   "tldr": "Chronic — explain it. Ladder: <b>artificial tears</b> (preservative-free if &gt;4×/day; <b>benzalkonium</b> most toxic), gels/ointment at night, Lacrisert, autologous serum, mucolytic acetylcysteine for strands; humidifier, moisture goggles. Anti-inflammatory: <b>cyclosporine 0.05% bd</b>, loteprednol pulses; diquafosol. Treat blepharitis/rosacea (doxycycline), omega-3. Retain tears: <b>punctal plugs</b> → cautery occlusion.",
+   "points": [
+    "Complications of severe dry eye: ulcer, thinning, perforation, infection."
+   ],
+   "hook": "<b>Lubricate → calm inflammation → plug the drain.</b>",
+   "cards": [
+    {
+     "q": "Which preservative in eye drops is the most epitheliotoxic?",
+     "a": "Benzalkonium chloride."
+    }
+   ]
+  }
+ ]
+}

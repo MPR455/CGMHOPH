@@ -239,7 +239,93 @@
    "num": 5,
    "title": "Conjunctiva & Tears",
    "file": "ch05.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v05-01",
+     "title": "Reading the red eye: cytology & signs",
+     "group": "Conjunctivitis basics"
+    },
+    {
+     "id": "v05-02",
+     "title": "Bacterial conjunctivitis: hyperacute to chronic",
+     "group": "Bacterial"
+    },
+    {
+     "id": "v05-03",
+     "title": "Trachoma",
+     "group": "Chlamydial"
+    },
+    {
+     "id": "v05-04",
+     "title": "Inclusion conjunctivitis (adult & neonatal)",
+     "group": "Chlamydial"
+    },
+    {
+     "id": "v05-05",
+     "title": "Adenovirus: PCF vs EKC",
+     "group": "Viral"
+    },
+    {
+     "id": "v05-06",
+     "title": "HSV, zoster, AHC & other viruses",
+     "group": "Viral"
+    },
+    {
+     "id": "v05-07",
+     "title": "Fungal & parasitic conjunctivitis",
+     "group": "Other infections"
+    },
+    {
+     "id": "v05-08",
+     "title": "Hay fever conjunctivitis & the allergy drug toolbox",
+     "group": "Allergic"
+    },
+    {
+     "id": "v05-09",
+     "title": "Vernal keratoconjunctivitis (VKC)",
+     "group": "Allergic"
+    },
+    {
+     "id": "v05-10",
+     "title": "AKC, GPC & phlyctenulosis",
+     "group": "Allergic"
+    },
+    {
+     "id": "v05-11",
+     "title": "Pemphigoid, SJS/TEN & Sjögren",
+     "group": "Immune & cicatrising"
+    },
+    {
+     "id": "v05-12",
+     "title": "Chemical burns, toxic drops & rosacea",
+     "group": "Chemical & misc"
+    },
+    {
+     "id": "v05-13",
+     "title": "Pinguecula, pterygium, SCH & ophthalmia neonatorum",
+     "group": "Chemical & misc"
+    },
+    {
+     "id": "v05-14",
+     "title": "Benign & premalignant conjunctival lesions",
+     "group": "Tumours"
+    },
+    {
+     "id": "v05-15",
+     "title": "Malignant conjunctival tumours",
+     "group": "Tumours"
+    },
+    {
+     "id": "v05-16",
+     "title": "Tear film & dry eye tests",
+     "group": "Tears & dry eye"
+    },
+    {
+     "id": "v05-17",
+     "title": "Treating dry eye",
+     "group": "Tears & dry eye"
+    }
+   ]
   },
   {
    "id": "ch06",
