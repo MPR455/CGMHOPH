@@ -191,6 +191,8 @@ var DATA_DIR = "daily_study/";
 var IDX = null;            // <book dir>/index.json
 var CHAPTERS = {};         // id -> loaded chapter JSON (lazy)
 var LOADING = {};
+var LOCALIMG = {};         // <book dir>/local/images.json — figures kept only on this computer (gitignored)
+var LOCALP = Promise.resolve({});
 var CUR = null;            // {chap, i}
 var DONE = {};
 try{ DONE = JSON.parse(localStorage.getItem("cgmh_daily_done")) || {}; }catch(e){ DONE = {}; }
@@ -226,6 +228,10 @@ function selectBook(b, chunkId){
   document.getElementById("hdr-title").textContent = "📖 "+b.short+", one bite at a time";
   document.getElementById("search").value = "";
   try{ localStorage.setItem("cgmh_daily_book", b.id); }catch(e){}
+  // Missing on the public site (404) — that's expected; bites then show no local figures.
+  LOCALIMG = {};
+  LOCALP = fetch(DATA_DIR+"local/images.json", {cache:"no-cache"}).then(function(r){ return r.ok ? r.json() : {}; })
+    .catch(function(){ return {}; }).then(function(j){ if(b===BOOK) LOCALIMG=j; return j; });
   loadIndex(chunkId);
 }
 function switchBook(id){
@@ -329,10 +335,12 @@ function openChunkById(cid){
 function openChunk(id, i){
   document.getElementById("view").innerHTML='<div class="card loading">Loading…</div>';
   var book = BOOK;
-  loadChapter(id).then(function(ch){
+  Promise.all([loadChapter(id), LOCALP]).then(function(res){
+    var ch=res[0];
     if(book!==BOOK) return;
     CUR={chap:id,i:i};
     var k=ch.chunks[i], meta=IDX.chapters.find(function(c){ return c.id===id; });
+    var imgs=(k.images||[]).concat(LOCALIMG[k.id]||[]);
     history.replaceState(null,"","#"+BOOK.id+":"+k.id);
     var h='<div class="card chunk">'
       +'<div class="hero"><div class="crumb">Ch '+meta.num+' · '+esc(meta.title)+(k.group?' › '+esc(k.group):'')+'</div>'
@@ -340,7 +348,7 @@ function openChunk(id, i){
       +'<h1>'+esc(k.title)+'</h1>'
       +'<div class="tldr">'+k.tldr+'</div>'
       +'<ul class="pts">'+k.points.map(function(p,n){ return '<li data-n="'+(n+1)+'">'+p+'</li>'; }).join("")+'</ul>'
-      +((k.images&&k.images.length)?k.images.map(renderImage).join(""):'')
+      +imgs.map(renderImage).join("")
       +(k.table?renderTable(k.table):'')
       +(k.hook?'<div class="hook">'+k.hook+'</div>':'')
       +((k.pearls&&k.pearls.length)?'<h3 class="sec">Exam pearls</h3>'+k.pearls.map(function(p){ return '<div class="pearl">'+p+'</div>'; }).join(""):'')
