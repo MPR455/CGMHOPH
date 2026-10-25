@@ -10,7 +10,7 @@ daily_study/
       images.json     which bite gets which picture
       img/            the picture files
       tools/          scripts used to extract and match them
-    kanski/           (when added)
+    kanski/           same layout (1,116 figures)
 ```
 
 `daily_study.html` loads this data in steps, so adding books or pictures doesn't slow the first load:
