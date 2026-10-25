@@ -174,6 +174,11 @@ body.theme-black .badge{background:#1a1a1a}
       <select class="search" id="book-sel" style="margin:8px 0 0;font-weight:600" onchange="switchBook(this.value)" aria-label="Choose book"></select>
       <div class="small" id="prog-txt" style="margin-top:6px">Loading…</div>
       <div class="prog"><div id="prog-bar"></div></div>
+      <div class="small" style="margin-top:6px;display:flex;gap:6px;align-items:center;flex-wrap:wrap">
+        <button class="btn sec sm" onclick="document.getElementById('local-pick').click()" title="Copy figures from a folder on this computer into this browser only. Nothing is uploaded.">🖼 Import local figures</button>
+        <span id="local-st"></span>
+      </div>
+      <input type="file" id="local-pick" webkitdirectory multiple hidden onchange="importLocal(this)">
       <div class="tree">
         <input class="search" id="search" placeholder="Filter loaded topics…" oninput="filterTree()">
         <div id="tree"></div>
@@ -193,6 +198,8 @@ var CHAPTERS = {};         // id -> loaded chapter JSON (lazy)
 var LOADING = {};
 var LOCALIMG = {};         // <book dir>/local/images.json — figures kept only on this computer (gitignored)
 var LOCALP = Promise.resolve({});
+var LOCALSRC = "none";     // where LOCALIMG came from: "server" (study_local.bat), "browser" (imported), "none"
+var OBJURLS = [];          // object URLs for imported figures on the current bite
 var CUR = null;            // {chap, i}
 var DONE = {};
 try{ DONE = JSON.parse(localStorage.getItem("cgmh_daily_done")) || {}; }catch(e){ DONE = {}; }
@@ -228,10 +235,17 @@ function selectBook(b, chunkId){
   document.getElementById("hdr-title").textContent = "📖 "+b.short+", one bite at a time";
   document.getElementById("search").value = "";
   try{ localStorage.setItem("cgmh_daily_book", b.id); }catch(e){}
-  // Missing on the public site (404) — that's expected; bites then show no local figures.
-  LOCALIMG = {};
-  LOCALP = fetch(DATA_DIR+"local/images.json", {cache:"no-cache"}).then(function(r){ return r.ok ? r.json() : {}; })
-    .catch(function(){ return {}; }).then(function(j){ if(b===BOOK) LOCALIMG=j; return j; });
+  // Local figures: served by study_local.bat, else imported into this browser, else none
+  // (the public site has no local/ folder, so the fetch 404s there).
+  LOCALIMG = {}; LOCALSRC = "none"; showLocalStatus();
+  LOCALP = fetch(DATA_DIR+"local/images.json", {cache:"no-cache"})
+    .then(function(r){ return r.ok ? r.json().then(function(j){ return {j:j, src:"server"}; }) : null; })
+    .catch(function(){ return null; })
+    .then(function(x){
+      return x || idbGet("maps", b.id).then(function(m){ return m ? {j:m, src:"browser"} : {j:{}, src:"none"}; })
+                    .catch(function(){ return {j:{}, src:"none"}; });
+    })
+    .then(function(x){ if(b===BOOK){ LOCALIMG=x.j; LOCALSRC=x.src; showLocalStatus(); } return x.j; });
   loadIndex(chunkId);
 }
 function switchBook(id){
@@ -340,7 +354,9 @@ function openChunk(id, i){
     if(book!==BOOK) return;
     CUR={chap:id,i:i};
     var k=ch.chunks[i], meta=IDX.chapters.find(function(c){ return c.id===id; });
-    var imgs=(k.images||[]).concat(LOCALIMG[k.id]||[]);
+    var imgs=(k.images||[]).concat((LOCALIMG[k.id]||[]).map(function(im){
+      return LOCALSRC==="browser" ? Object.assign({}, im, {idb: BOOK.id+"|"+im.src}) : im;
+    }));
     history.replaceState(null,"","#"+BOOK.id+":"+k.id);
     var h='<div class="card chunk">'
       +'<div class="hero"><div class="crumb">Ch '+meta.num+' · '+esc(meta.title)+(k.group?' › '+esc(k.group):'')+'</div>'
@@ -359,6 +375,7 @@ function openChunk(id, i){
       +'<button class="btn sec" onclick="step(1)">Next →</button><span class="sp"></span>'
       +'<button class="btn sec sm" onclick="renderWelcome()">Home</button></div></div>';
     document.getElementById("view").innerHTML=h;
+    hydrateIdbImages();
     toggleChap(id, true);
     window.scrollTo({top:0,behavior:"smooth"});
     if(window.innerWidth<=860) document.getElementById("side").classList.add("collapsed");
@@ -368,11 +385,89 @@ function openChunk(id, i){
 // only fetched when their bite is opened and they scroll into view.
 function imgSrc(src){ return /^(https?:)?\/\//.test(src) || src.charAt(0)==="/" ? src : DATA_DIR+src; }
 function renderImage(im){
-  var src=esc(imgSrc(im.src)), alt=esc(im.alt||im.caption||"");
-  return '<figure class="pic"><img src="'+src+'" alt="'+alt+'" loading="lazy" decoding="async"'
+  var alt=esc(im.alt||im.caption||"");
+  // Imported figures have no URL yet; hydrateIdbImages() fills them in from browser storage.
+  var srcAttr = im.idb ? 'data-idb="'+esc(im.idb)+'"' : 'src="'+esc(imgSrc(im.src))+'"';
+  return '<figure class="pic"><img '+srcAttr+' alt="'+alt+'" loading="lazy" decoding="async"'
     +' onclick="openLightbox(this.src,this.alt)" onerror="this.parentNode.classList.add(\'broken\')">'
     +((im.caption||im.credit)?'<figcaption>'+(im.caption||'')+(im.credit?' <i>('+esc(im.credit)+')</i>':'')+'</figcaption>':'')
     +'</figure>';
+}
+// ---- Local figures imported into this browser (IndexedDB). Nothing leaves the computer. ----
+// files: "<bookId>|local/img/x.jpg" -> Blob     maps: "<bookId>" -> that book's images.json
+function idb(){
+  if(!idb.p) idb.p = new Promise(function(res, rej){
+    var r = indexedDB.open("cgmh_daily_local", 1);
+    r.onupgradeneeded = function(){ r.result.createObjectStore("files"); r.result.createObjectStore("maps"); };
+    r.onsuccess = function(){ res(r.result); }; r.onerror = function(){ rej(r.error); };
+  });
+  return idb.p;
+}
+function idbGet(store, key){
+  return idb().then(function(db){ return new Promise(function(res, rej){
+    var q = db.transaction(store).objectStore(store).get(key);
+    q.onsuccess = function(){ res(q.result); }; q.onerror = function(){ rej(q.error); };
+  }); });
+}
+function showLocalStatus(){
+  var el = document.getElementById("local-st"); if(!el) return;
+  var n = Object.keys(LOCALIMG).reduce(function(s,k){ return s + LOCALIMG[k].length; }, 0);
+  el.textContent = !n ? "" : n+" figures"+(LOCALSRC==="browser" ? " (this browser)" : " (local server)");
+}
+function hydrateIdbImages(){
+  OBJURLS.forEach(function(u){ URL.revokeObjectURL(u); }); OBJURLS = [];
+  var imgs = document.querySelectorAll("#view img[data-idb]");
+  if(!imgs.length) return;
+  function load(img){
+    idbGet("files", img.dataset.idb).then(function(blob){
+      if(!blob){ img.parentNode.classList.add("broken"); return; }
+      var u = URL.createObjectURL(blob); OBJURLS.push(u); img.src = u;
+    }).catch(function(){ img.parentNode.classList.add("broken"); });
+  }
+  // Keep it lazy: read each figure from storage only when it nears the screen.
+  if(!("IntersectionObserver" in window)){ imgs.forEach(load); return; }
+  var io = new IntersectionObserver(function(es){
+    es.forEach(function(e){ if(e.isIntersecting){ io.unobserve(e.target); load(e.target); } });
+  }, {rootMargin:"300px"});
+  imgs.forEach(function(img){ io.observe(img); });
+}
+// Accepts a book's local folder, a book folder, the daily_study folder or the whole repo.
+function importLocal(input){
+  var files = Array.from(input.files || []); input.value = "";
+  var byPath = {}; files.forEach(function(f){ byPath[f.webkitRelativePath] = f; });
+  var maps = files.filter(function(f){ return /(^|\/)local\/images\.json$/.test(f.webkitRelativePath); });
+  if(!maps.length){ toast("No local/images.json found in that folder"); return; }
+  if(navigator.storage && navigator.storage.persist) navigator.storage.persist();
+  Promise.all(maps.map(function(mf){
+    var prefix = mf.webkitRelativePath.replace(/images\.json$/, "");      // ".../local/"
+    var segs = prefix.split("/");                                          // [..., parent, "local", ""]
+    var parent = segs.length >= 3 ? segs[segs.length-3] : null;
+    var book = (parent && BOOKS.find(function(b){ return b.dir.replace(/\/$/,"").split("/").pop()===parent; })) || (!parent ? BOOK : null);
+    if(!book) return Promise.resolve(null);
+    return mf.text().then(function(t){
+      var map = JSON.parse(t), puts = [];
+      Object.keys(map).forEach(function(k){ map[k].forEach(function(im){
+        var f = /^local\//.test(im.src) && byPath[prefix + im.src.slice(6)];
+        if(f) puts.push([book.id+"|"+im.src, f]);
+      }); });
+      return idb().then(function(db){ return new Promise(function(res, rej){
+        var tx = db.transaction(["files","maps"], "readwrite"), fs = tx.objectStore("files");
+        fs.delete(IDBKeyRange.bound(book.id+"|", book.id+"|￿"));      // drop that book's old copies
+        puts.forEach(function(p){ fs.put(p[1], p[0]); });
+        tx.objectStore("maps").put(map, book.id);
+        tx.oncomplete = function(){ res({book:book, n:puts.length}); }; tx.onerror = function(){ rej(tx.error); };
+      }); });
+    });
+  })).then(function(done){
+    done = done.filter(Boolean);
+    if(!done.length){ toast("Couldn't tell which book that folder belongs to"); return; }
+    toast("Imported "+done.map(function(d){ return d.n+" "+d.book.short+" figures"; }).join(", "));
+    var cur = done.find(function(d){ return d.book===BOOK; });
+    if(cur && LOCALSRC!=="server"){
+      LOCALP = idbGet("maps", BOOK.id).then(function(m){ LOCALIMG=m||{}; LOCALSRC="browser"; showLocalStatus(); return LOCALIMG; });
+      LOCALP.then(function(){ if(CUR) openChunk(CUR.chap, CUR.i); });
+    }
+  }).catch(function(e){ toast("Import failed: "+(e && e.message || e)); });
 }
 function openLightbox(src, alt){
   var d=document.createElement("div"); d.className="lightbox"; d.onclick=function(){ d.remove(); };

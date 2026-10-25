@@ -35,4 +35,7 @@ Give the bite an `images` array:
 {"w08-02": [{"src": "local/img/fig-8.2.1.jpg", "caption": "Fig 8.2.1: ROP stage 1", "credit": "Wills Eye Manual 8e"}]}
 ```
 
-On the public site that file is missing, so those bites simply show no extra pictures. To see them, run `study_local.bat`, which serves the repo at http://localhost:8777. The Wills figures were extracted with `daily_study/wills/local/tools/extract_figures.py` and `match_figures.py`.
+On the public site that file is missing, so those bites simply show no extra pictures. Two ways to see them:
+
+- **On the live site:** click **🖼 Import local figures** in the sidebar and pick a book's folder (e.g. `daily_study/wills`), the `daily_study` folder, or the repo. The page copies each `local/images.json` and the pictures it lists into that browser's IndexedDB. Nothing is uploaded. Repeat once per browser or computer, or after clearing site data, or after the figures change.
+- **Without importing:** run `study_local.bat`, which serves the repo at http://localhost:8777. The Wills figures were extracted with `daily_study/wills/local/tools/extract_figures.py` and `match_figures.py`.
