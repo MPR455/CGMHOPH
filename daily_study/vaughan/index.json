@@ -143,7 +143,38 @@
    "num": 3,
    "title": "Ophthalmic Emergencies",
    "file": "ch03.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v03-01",
+     "title": "Acute red eye: who needs urgent review",
+     "group": "Red eye"
+    },
+    {
+     "id": "v03-02",
+     "title": "Red eye: management principles",
+     "group": "Red eye"
+    },
+    {
+     "id": "v03-03",
+     "title": "Acute orbital disease",
+     "group": "Orbit"
+    },
+    {
+     "id": "v03-04",
+     "title": "Acute painless visual loss",
+     "group": "Visual loss"
+    },
+    {
+     "id": "v03-05",
+     "title": "Painful visual loss with a white eye",
+     "group": "Visual loss"
+    },
+    {
+     "id": "v03-06",
+     "title": "Double vision, pupils & swollen discs",
+     "group": "Neuro"
+    }
+   ]
   },
   {
    "id": "ch04",

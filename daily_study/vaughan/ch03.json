@@ -1,0 +1,123 @@
+{
+ "id": "ch03",
+ "num": 3,
+ "title": "Ophthalmic Emergencies",
+ "chunks": [
+  {
+   "id": "v03-01",
+   "group": "Red eye",
+   "title": "Acute red eye: who needs urgent review",
+   "minutes": 4,
+   "tldr": "Most red eyes are benign (conjunctivitis, subconj haemorrhage, blepharitis). <b>Red flags</b>: recent <b>intraocular surgery</b> (endophthalmitis), <b>contact lens</b> (keratitis), <b>corneal graft</b> (rejection), past uveitis/scleritis or AS/RA, septic or ICU patient with lines (endogenous endophthalmitis), SJS/TEN. <b>Pain (not discomfort)</b> or <b>reduced vision</b> rules out simple conjunctivitis. Nausea/vomiting → very high IOP. <b>Boring night pain → scleritis</b>. Photophobia → keratitis/iritis.",
+   "points": [
+    "Redness pattern: <b>circumcorneal (ciliary flush) = intraocular</b>; diffuse tarsal + bulbar = conjunctivitis; sectoral = episcleritis; violaceous = scleritis; lid margins = blepharitis.",
+    "Brightness of redness ≠ seriousness (subconj haemorrhage).",
+    "<b>Profuse pus = gonococcus</b> → emergency.",
+    "Any corneal opacity, ulcer or diffuse haze (± mid-dilated pupil = angle closure) → emergency.",
+    "Small pupil = iritis; <b>hypopyon</b> = keratitis, endophthalmitis or iritis → emergency.",
+    "Lid/skin vesicles → zoster, HSV, varicella."
+   ],
+   "hook": "<b>Pain, poor vision or a bad cornea = not conjunctivitis.</b>",
+   "cards": [
+    {
+     "q": "Pattern of redness suggesting intraocular disease?",
+     "a": "Circumcorneal (limbal) injection — ciliary flush."
+    }
+   ]
+  },
+  {
+   "id": "v03-02",
+   "group": "Red eye",
+   "title": "Red eye: management principles",
+   "minutes": 3,
+   "tldr": "<b>Neonatal conjunctivitis</b>: chlamydia, gonococcus (systemic therapy) or HSV (risk of encephalitis → admit, IV antiviral). <b>Gonococcal at any age</b>: Gram stain + culture, <b>IV/IM ceftriaxone</b>. <b>HZO</b>: systemic antiviral <b>within 72 h</b> of rash; <b>Hutchinson sign</b> (nose tip) or lid margin lesions predict eye involvement. Keratitis: find the infection (CL, surface disease, anaesthesia, exposure). Uveitis: exclude infection, especially posterior involvement or recent surgery. <b>Never start steroids without ophthalmic assessment.</b> Scleritis: oral NSAIDs first-line. <b>Acute angle closure</b>: IV/oral acetazolamide + topicals + steroid + pilocarpine → <b>laser PI both eyes</b>.",
+   "points": [],
+   "hook": "<b>No steroid drops from the ED.</b>",
+   "cards": [
+    {
+     "q": "Time window for systemic antiviral therapy in herpes zoster ophthalmicus?",
+     "a": "Within 72 hours of rash onset."
+    }
+   ]
+  },
+  {
+   "id": "v03-03",
+   "group": "Orbit",
+   "title": "Acute orbital disease",
+   "minutes": 3,
+   "tldr": "<b>Orbital cellulitis</b>: usually children, from <b>ethmoid sinus</b> — fever, pain, lid swelling, <b>proptosis</b>, <b>restricted movements</b>, leucocytosis. <b>Preseptal</b>: no proptosis/motility limit (may be early orbital). Teens: frontoethmoidal spread (intracranial risk). <b>Diabetic/immunocompromised: mucormycosis</b> (high mortality). Mimics: acute <b>Graves</b> (exposure, optic nerve compression), pseudotumour, <b>carotid–cavernous fistula</b>. Optic nerve compromise: poor colour, RAPD. <b>Non-axial proptosis → abscess</b>.",
+   "points": [
+    "Orbital cellulitis is clinical → <b>IV antibiotics immediately</b>; ophthalmology + ENT.",
+    "CT (or MRI) for suspected abscess/complications and to separate Graves, pseudotumour, CCF; orbital Doppler for CCF.",
+    "Complications: cavernous sinus thrombosis, intracranial abscess (frontal sinus)."
+   ],
+   "hook": "<b>Proptosis + painful restricted eye in a febrile child = orbital cellulitis → IV antibiotics now.</b>",
+   "cards": [
+    {
+     "q": "What sign distinguishes orbital from preseptal cellulitis?",
+     "a": "Proptosis and/or restricted (painful) eye movements (± RAPD)."
+    }
+   ]
+  },
+  {
+   "id": "v03-04",
+   "group": "Visual loss",
+   "title": "Acute painless visual loss",
+   "minutes": 4,
+   "tldr": "First: <b>one eye or both?</b> (cover each eye) — monocular = globe/optic nerve; bilateral or homonymous = chiasm or behind. Is it truly new? <b>Floaters + flashes + rising curtain</b> = RD (macula on → emergency). Sudden floaters = VH (tear, PDR, RVO). <b>≥55 with central loss/distortion = wet AMD</b> until proven otherwise. Abrupt = arterial; full recovery = embolus. <b>≥55 with arterial event → ESR/CRP for GCA.</b> Fundus: no red reflex (VH/RD), widespread/sectoral haemorrhages (CRVO/BRVO), <b>white retina + cherry-red spot (CRAO)</b>, disc swelling (AION).",
+   "points": [
+    "Amaurosis fugax → carotid + cardiac work-up; carotid revascularisation if ≥70% stenosis.",
+    "Wet AMD → repeated intravitreal anti-VEGF.",
+    "No proven acute treatment for RVO, CRAO or NAION — but <b>untreated GCA → rapid bilateral blindness</b>.",
+    "GCA fundus can be normal (choroidal ischaemia, posterior ION).",
+    "Chiasmal/retrochiasmal loss → emergency imaging."
+   ],
+   "hook": "<b>Old person, sudden loss: think GCA first — bloods today.</b>",
+   "cards": [
+    {
+     "q": "Carotid stenosis threshold for urgent revascularisation after retinal emboli?",
+     "a": "≥70% ipsilateral internal carotid stenosis."
+    }
+   ]
+  },
+  {
+   "id": "v03-05",
+   "group": "Visual loss",
+   "title": "Painful visual loss with a white eye",
+   "minutes": 3,
+   "tldr": "<b>Demyelinating optic neuritis</b>: subacute monocular loss, pain on eye movement, colour loss, RAPD, disc normal (⅔) — usually recovers; key is excluding other causes. <b>Pituitary apoplexy</b>: thunderclap headache, uni/bilateral loss, ophthalmoplegia, <b>adrenal crisis</b> → <b>IV hydrocortisone before imaging</b>, urgent neurosurgery. <b>Sphenoid sinusitis</b>: vertex headache + optic neuropathy → drainage + antibiotics. <b>Posterior scleritis</b>: proptosis, choroidal folds, exudative RD, disc swelling; <b>ultrasound</b> best; NSAIDs/steroids.",
+   "points": [],
+   "hook": "<b>Headache + vision loss + collapse = apoplexy → hydrocortisone first.</b>",
+   "cards": [
+    {
+     "q": "First treatment in suspected pituitary apoplexy?",
+     "a": "IV hydrocortisone (before imaging), then urgent neurosurgical review."
+    }
+   ]
+  },
+  {
+   "id": "v03-06",
+   "group": "Neuro",
+   "title": "Double vision, pupils & swollen discs",
+   "minutes": 4,
+   "tldr": "<b>Monocular diplopia</b> = refractive, lens, macula — not intracranial. Binocular: worrying if <b>multiple cranial nerves</b>, neuro signs, severe headache, systemic illness, or <b>age &lt;50</b>. <b>III palsy with pupil involvement or pain = PComm aneurysm</b> → emergency imaging. Microvascular palsies (&gt;50) recover; exclude GCA. INO = MLF; horizontal gaze palsy = pons; vertical = midbrain; fatigable = <b>myasthenia</b> (check breathing/swallowing). Pupils: isolated fixed dilated pupil in a well person = <b>tonic</b> (dilute pilocarpine 0.125% constricts) or <b>pharmacological</b> (no response to 2%). Painful Horner → <b>carotid dissection</b>. <b>Bilateral disc swelling → urgent imaging + check BP</b> (malignant HTN — lower gradually).",
+   "points": [
+    "Decompensated long-standing palsy (e.g. congenital IV) → prisms, often no imaging.",
+    "Dilated pupil + reduced consciousness = tentorial herniation.",
+    "Light–near dissociation: syphilis or dorsal midbrain (pineal, hydrocephalus).",
+    "Pseudopapilloedema: drusen, crowded discs, myelinated fibres."
+   ],
+   "hook": "<b>Pupil-involving III = aneurysm until scanned.</b>",
+   "cards": [
+    {
+     "q": "Fixed dilated pupil constricts with 0.125% pilocarpine — diagnosis?",
+     "a": "Tonic (Adie) pupil (denervation supersensitivity)."
+    },
+    {
+     "q": "Fixed dilated pupil that fails to constrict with 2% pilocarpine?",
+     "a": "Pharmacological mydriasis (anticholinergic)."
+    }
+   ]
+  }
+ ]
+}
