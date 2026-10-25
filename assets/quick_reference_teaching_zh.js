@@ -964,6 +964,7 @@ p191|微創小切口角膜透鏡取出術|飛秒雷射在角膜基質內製作�
   function procedureHtml(record, profile) {
     var value = teachingRecord(procedures, record), id = key(record);
     var education = teachingRecord(root.QUICK_REFERENCE_PATIENT_EDUCATION_ZH.procedures, record);
+    var operationSteps = teachingRecord(root.QUICK_REFERENCE_PROCEDURE_STEPS_ZH, record);
     var risk = profile[4];
     if (id === 'p96' || id === 'p118') {
       risk = '眼內炎、眼壓升高、出血、視網膜裂孔或剝離；類固醇另有白內障與眼壓風險。';
@@ -975,7 +976,9 @@ p191|微創小切口角膜透鏡取出術|飛秒雷射在角膜基質內製作�
       ? section('若眼內留有空氣或氣體', '依裂孔或移植物位置維持醫師指定姿勢；在醫師確認氣泡完全吸收前，禁止搭飛機、前往高海拔或使用笑氣（一氧化二氮）麻醉。接受任何急救、牙科或麻醉前都要主動告知。') : '';
     var flow = '<div class="teach-section"><strong>治療流程</strong><ol class="teach-steps">' +
       '<li><b>治療前：</b>' + escape(education.preparation) + '</li>' +
-      '<li><b>進行時：</b>' + escape(value.explanation) + '</li>' +
+      '<li><b>進行時：</b><ol class="teach-operation-steps">' + operationSteps.map(function (step) {
+        return '<li>' + escape(step) + '</li>';
+      }).join('') + '</ol></li>' +
       '<li><b>完成後：</b>' + escape(education.immediateCare) + '</li></ol></div>';
     return '<div class="teach-compact" lang="zh-Hant">' + section('本項處置', value.title) + flow +
       section('療程與恢復時間', education.course) +

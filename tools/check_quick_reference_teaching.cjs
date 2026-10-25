@@ -25,10 +25,12 @@ for (const match of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/g)) {
 }
 const {DATA, PROCS, QUICK_REFERENCE_TEACHING_ZH: copy} = context;
 const education = context.QUICK_REFERENCE_PATIENT_EDUCATION_ZH;
+const operationSteps = context.QUICK_REFERENCE_PROCEDURE_STEPS_ZH;
 assert.equal(DATA.length, 475);
 assert.equal(PROCS.length, 192);
 assert.equal(Object.keys(education.diseases).length, DATA.length);
 assert.equal(Object.keys(education.procedures).length, PROCS.length);
+assert.equal(Object.keys(operationSteps).length, PROCS.length);
 const plain = value => value.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ');
 for (const record of DATA) {
   assert.ok(typeof record.symptom === 'string' && record.symptom.trim(), record.id + ': missing English symptoms');
@@ -57,6 +59,13 @@ for (const [records, kind, field] of [[DATA, 'dis', 'teach'], [PROCS, 'proc', 'l
     if (kind === 'proc') {
       assert.match(panel, /<ol class="teach-steps">/);
       for (const label of ['治療前：', '進行時：', '完成後：']) assert.ok(panel.includes('<b>' + label + '</b>'), record.id + ': missing flow step ' + label);
+      const steps = operationSteps[record.id.split('-')[0]];
+      assert.ok(Array.isArray(steps) && steps.length >= 4, record.id + ': incomplete treatment sequence');
+      assert.match(panel, /<ol class="teach-operation-steps">/);
+      for (const step of steps) {
+        assert.ok(typeof step === 'string' && step.trim().length > 10, record.id + ': empty treatment step');
+        assert.ok(panel.includes('<li>' + context.escapeHtml(step) + '</li>'), record.id + ': missing treatment step');
+      }
     }
     assert.doesNotMatch(panel, /延伸閱讀|教學整理|提問：|解答：|重點複習|teach-sources|teach-reviewed|teach-additional/, record.id);
     assert.doesNotMatch(panel, /undefined|\[object Object\]|Additional knowledge|High-yield|HY question|Solution:|Explain:|Home plan:/, record.id);
@@ -100,6 +109,15 @@ assert.doesNotMatch(disease('d357').treatment, /Diphoterine are superior/);
 assert.match(proc('p89').layzh, /氣泡完全吸收/);
 assert.match(proc('p89').layzh, /一氧化二氮/);
 assert.match(proc('p96').layzh, /不常規使用.*抗生素/);
+assert.match(operationSteps.p0.join(' '), /前囊.*晶核.*人工水晶體/);
+assert.match(operationSteps.p21.join(' '), /含薄層基質/);
+assert.match(operationSteps.p22.join(' '), /僅含供體後彈力層與內皮/);
+assert.match(operationSteps.p79.join(' '), /眼白外側/);
+assert.match(operationSteps.p118.join(' '), /優碘/);
+assert.match(operationSteps.p140.join(' '), /上下眼瞼部分靠攏/);
+assert.match(operationSteps.p189.join(' '), /陽性不代表當場一律清除所有淋巴結/);
+assert.match(operationSteps.p190.join(' '), /不足檢體不能當作陰性/);
+assert.match(operationSteps.p191.join(' '), /不使用準分子雷射切削/);
 assert.match(proc('p189').method, /not automatic completion/);
 assert.match(proc('p190').method, /non-diagnostic, not negative/);
 assert.doesNotMatch(disease('d37').t, /primary angle closure/);
