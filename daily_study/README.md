@@ -35,4 +35,4 @@ Give the bite an `images` array:
 {"w08-02": [{"src": "local/img/fig-8.2.1.jpg", "caption": "Fig 8.2.1: ROP stage 1", "credit": "Wills Eye Manual 8e"}]}
 ```
 
-On the public site that file is missing, so those bites simply show no extra pictures. To see them, run `study_local.bat`, which serves the repo at http://localhost:8765. The Wills figures were extracted with `daily_study/wills/local/tools/extract_figures.py` and `match_figures.py`.
+On the public site that file is missing, so those bites simply show no extra pictures. To see them, run `study_local.bat`, which serves the repo at http://localhost:8777. The Wills figures were extracted with `daily_study/wills/local/tools/extract_figures.py` and `match_figures.py`.
