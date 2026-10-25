@@ -1,0 +1,111 @@
+{
+ "id": "ch16",
+ "num": 16,
+ "title": "Immunologic Diseases of the Eye",
+ "chunks": [
+  {
+   "id": "v16-01",
+   "group": "Antibody-mediated",
+   "title": "Antibody-mediated eye disease & allergy",
+   "minutes": 3,
+   "tldr": "Eye is immune-privileged yet often hit: vascular uvea, immune-complex deposition, exposed conjunctiva. 'Antibody-mediated' if e.g. more antibody in eye fluid than serum, plasma cells/Ig/complement or <b>eosinophils</b> at the site. <b>Allergic conjunctivitis</b> (seasonal = pollen; perennial = mites, mould, dander): <b>type I</b> — allergen binds <b>IgE on conjunctival mast cells</b> → histamine/leukotrienes → itch, chemosis. Eosinophils on scraping; skin prick tests; tear/serum IgE. Rx: avoid allergen, cold, lubricants → antihistamine/mast-cell stabiliser → <b>dual agents</b> → short steroid; <b>allergen immunotherapy</b> (sublingual/subcut) for severe/rhinoconjunctivitis.",
+   "points": [],
+   "hook": "<b>Allergy = IgE + mast cell = type I.</b>",
+   "cards": [
+    {
+     "q": "Mechanism of seasonal allergic conjunctivitis?",
+     "a": "Type I hypersensitivity — allergen cross-links IgE on conjunctival mast cells, releasing histamine and leukotrienes."
+    }
+   ]
+  },
+  {
+   "id": "v16-02",
+   "group": "Antibody-mediated",
+   "title": "AKC vs VKC immunology; joints & HLA",
+   "minutes": 3,
+   "tldr": "<b>VKC</b>: kids, hot dry climate, giant upper tarsal papillae, Trantas dots, shield ulcer (plaque may need removal); <b>Th2</b>-driven, many degranulated eosinophils; mast-cell stabilisers help. <b>AKC</b>: late teens–50s, perennial, eczema, lower papillae, scarring/vascularisation, HSV keratitis, cataract, keratoconus; <b>Th1</b>-driven; often needs steroid; ciclosporin/tacrolimus. <b>Joints</b>: RA → scleritis (immune-complex occlusive vasculitis, RF/anti-CCP), PUK, secondary Sjögren; <b>JIA</b> oligoarticular ANA+ → silent chronic AU; HLA-B27 enthesitis JIA, AS → acute AU with fibrin; <b>reactive arthritis</b> (Shigella, Salmonella, Campylobacter, Chlamydia) → conjunctivitis then iridocyclitis. <b>MMP</b>: antibodies to basement membrane hemidesmosome protein → subepithelial bullae, fornix shrinkage, keratinisation → systemic immunosuppression.",
+   "points": [],
+   "table": {
+    "head": [
+     "HLA",
+     "Disease"
+    ],
+    "rows": [
+     [
+      "B27",
+      "Acute anterior uveitis"
+     ],
+     [
+      "A11, DRB1",
+      "Sympathetic ophthalmia"
+     ],
+     [
+      "DR4",
+      "VKH (also MMP)"
+     ],
+     [
+      "A29",
+      "Birdshot"
+     ],
+     [
+      "B51",
+      "Behçet"
+     ],
+     [
+      "B15/58/59, A02/B44",
+      "SJS/TEN (drug-specific)"
+     ]
+    ]
+   },
+   "hook": "<b>VKC = Th2 (Two, kids); AKC = Th1 (adults, scarring).</b>",
+   "cards": [
+    {
+     "q": "Which T-helper subset drives VKC vs AKC?",
+     "a": "VKC: Th2. AKC: Th1 (both have mast cell/IgE components)."
+    },
+    {
+     "q": "HLA associated with VKH?",
+     "a": "HLA-DR4 (DRB1*0405)."
+    }
+   ]
+  },
+  {
+   "id": "v16-03",
+   "group": "Cell-mediated",
+   "title": "Granulomatous & cell-mediated eye disease",
+   "minutes": 3,
+   "tldr": "Type IV (delayed) hypersensitivity: lymphocytes + macrophages; antigens from TB, leprosy, toxo, zoster (skin-test positive), or unknown (sarcoid). <b>Sarcoid</b>: non-caseating granulomas; biopsy (node, skin, lung/BAL); hilar nodes, ↑ACE, <b>anergic tuberculin</b>, gallium. <b>Sympathetic ophthalmia</b>: exposure of hidden uveal antigens after trauma/surgery → bilateral granulomatous uveitis, Dalen-Fuchs, ± vitiligo/poliosis. <b>VKH</b>: melanocyte antigens, pigmented races (Hispanic, Japanese); meningeal prodrome (headache, CSF lymphocytosis, tinnitus, hearing loss) → panuveitis, disc oedema, exudative RD → vitiligo, poliosis, alopecia; FFA <b>pinpoint RPE leaks</b>, US <b>choroidal thickening</b>. <b>GCA, PAN, GPA</b> (C-ANCA), <b>Behçet</b> (immune complexes, HLA-B51). <b>Contact dermatitis</b> (brimonidine, atropine, preservatives — lower lid worse). <b>Phlyctenulosis</b> (TB, staph). <b>SJS/TEN</b>: keratinocyte apoptosis.",
+   "points": [],
+   "hook": "<b>Red, itchy, scaly lower lids after new drops = contact dermatitis (type IV).</b>",
+   "cards": [
+    {
+     "q": "Fluorescein and ultrasound findings in acute VKH?",
+     "a": "Multiple pinpoint RPE leaks pooling into serous detachments; diffuse choroidal thickening on B-scan."
+    },
+    {
+     "q": "Why is the lower lid more affected in drop-induced contact dermatitis?",
+     "a": "Drops pool and run over the lower lid skin."
+    }
+   ]
+  },
+  {
+   "id": "v16-04",
+   "group": "Transplant & therapy",
+   "title": "Corneal graft rejection & immunotherapy",
+   "minutes": 3,
+   "tldr": "Cornea is a relatively privileged allograft — no routine HLA match: PK 1-y survival ≥85%, low-risk 5-y &gt;90%; <b>high-risk</b> (vascularised, inflamed, regraft, young, HSV, prior surgery) ~55% at 5 y. Antigens mainly on <b>endothelium</b> → DALK/EK reduce rejection. Early rejection (2–4 wk) cell-mediated: <b>Khodadoust endothelial rejection line</b>, KPs, oedema; epithelial line; stromal infiltrates; late can be antibody/complement (rings). Rx: <b>intensive topical steroid</b> (hourly) ± systemic/IV steroid, ciclosporin/tacrolimus; endothelial damage often irreversible. High-risk: HLA/ABO matching, pre-op aza/ciclosporin/MMF. Immunotherapy: antimetabolites (aza, MTX, MMF), calcineurin inhibitors, alkylators (cyclophosphamide, chlorambucil); biologics: anti-TNF (<b>adalimumab, infliximab</b>), rituximab (CD20), tocilizumab/sarilumab (IL-6R), secukinumab (IL-17), anakinra (IL-1), daclizumab, interferons; intravitreal MTX.",
+   "points": [],
+   "hook": "<b>RSVP for a rejecting graft: Redness, Sensitivity to light, Vision down, Pain.</b>",
+   "cards": [
+    {
+     "q": "Which corneal layer carries most graft-rejection antigens?",
+     "a": "The endothelium (hence endothelial rejection threatens graft survival most)."
+    },
+    {
+     "q": "Name an anti-TNF biologic licensed for non-infectious uveitis.",
+     "a": "Adalimumab."
+    }
+   ]
+  }
+ ]
+}
