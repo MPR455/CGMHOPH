@@ -1263,7 +1263,38 @@
    "num": 23,
    "title": "Lasers in Ophthalmology",
    "file": "ch23.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v23-01",
+     "title": "How lasers work & tissue interactions",
+     "group": "Laser basics"
+    },
+    {
+     "id": "v23-02",
+     "title": "Laser safety",
+     "group": "Laser basics"
+    },
+    {
+     "id": "v23-03",
+     "title": "Refractive lasers & femtosecond cataract surgery",
+     "group": "Cornea & cataract"
+    },
+    {
+     "id": "v23-04",
+     "title": "Nd:YAG capsulotomy & vitreolysis",
+     "group": "Cornea & cataract"
+    },
+    {
+     "id": "v23-05",
+     "title": "Iridotomy, iridoplasty, trabeculoplasty, cyclophotocoagulation",
+     "group": "Glaucoma lasers"
+    },
+    {
+     "id": "v23-06",
+     "title": "PRP, macular laser, retinopexy, PDT & macroaneurysm",
+     "group": "Retinal lasers"
+    }
+   ]
   },
   {
    "id": "ch24",

@@ -1,0 +1,148 @@
+{
+ "id": "ch23",
+ "num": 23,
+ "title": "Lasers in Ophthalmology",
+ "chunks": [
+  {
+   "id": "v23-01",
+   "group": "Laser basics",
+   "title": "How lasers work & tissue interactions",
+   "minutes": 3,
+   "tldr": "LASER: <b>monochromatic, coherent, collimated</b> → huge irradiance. Gain medium (crystal, diode, gas, dye) in a resonator with mirrors; pumping → <b>population inversion</b> → stimulated emission cascade. Pulses: <b>Q-switching</b> (nanosecond giant pulses), <b>mode-locking</b> (pico/femtosecond). Penetration: UV-C/B → cornea; UV-A → lens; visible + near-IR (380–1400 nm) → retina/RPE/choroid; far IR → cornea/lens. Interactions: <b>photochemical</b> (long, low — CXL, PDT), <b>photothermal</b> (coagulation 10–20 °C rise; vaporisation at 100 °C — PRP, ALT; pigment: melanin broad, Hb blue-green-yellow, <b>xanthophyll blue</b>), <b>selective thermolysis</b> (pulse &lt; thermal relaxation time — SLT, micropulse), <b>photoablation</b> (193 nm excimer breaks bonds — PRK/LASIK), <b>photodisruption</b> (plasma, shock wave, cavitation — Nd:YAG 1064 nm, femtosecond 1053 nm).",
+   "table": {
+    "head": [
+     "Laser",
+     "λ",
+     "Use"
+    ],
+    "rows": [
+     [
+      "ArF excimer",
+      "193 nm",
+      "Corneal ablation"
+     ],
+     [
+      "Argon",
+      "488/514 nm",
+      "Retina, ALT, iridoplasty"
+     ],
+     [
+      "FD-YAG",
+      "532 nm",
+      "PRP, SLT (Q-switched)"
+     ],
+     [
+      "Diode",
+      "577/810 nm",
+      "Micropulse, cyclodiode"
+     ],
+     [
+      "Femtosecond",
+      "1053 nm",
+      "Flaps, SMILE, cataract"
+     ],
+     [
+      "Nd:YAG",
+      "1064 nm",
+      "Capsulotomy, PI"
+     ]
+    ]
+   },
+   "points": [],
+   "hook": "<b>Excimer chops bonds; YAG blows bubbles; argon cooks.</b>",
+   "cards": [
+    {
+     "q": "Mechanism of Nd:YAG capsulotomy?",
+     "a": "Photodisruption — optical breakdown creating plasma, shock wave and cavitation."
+    },
+    {
+     "q": "Why does SLT spare non-pigmented trabecular cells?",
+     "a": "Nanosecond pulses shorter than the thermal relaxation time give selective photothermolysis of pigmented cells."
+    }
+   ]
+  },
+  {
+   "id": "v23-02",
+   "group": "Laser basics",
+   "title": "Laser safety",
+   "minutes": 2,
+   "tldr": "IEC classes 1–4; nearly all ophthalmic lasers are <b>class 4</b> (eye and skin injury from direct and diffuse reflections, fire). Laser safety officer, warning signs, locked door/interlocks, cover windows and reflective surfaces, aim away from doors. Slitlamp lasers have built-in filters; others (handheld/indirect, observers) wear <b>goggles rated for that wavelength</b> — optical density is logarithmic (OD 3 = 0.1% transmission; most OD 7).",
+   "points": [],
+   "hook": "<b>Check the goggles' wavelength, not just that they're goggles.</b>",
+   "cards": [
+    {
+     "q": "Transmission through a filter of optical density 3?",
+     "a": "0.1% (10⁻³)."
+    }
+   ]
+  },
+  {
+   "id": "v23-03",
+   "group": "Cornea & cataract",
+   "title": "Refractive lasers & femtosecond cataract surgery",
+   "minutes": 3,
+   "tldr": "<b>PRK</b>: excimer on bare stroma — flatten centre (myopia) or periphery (hyperopia); painful days, haze months. <b>LASEK/epi-LASIK</b>: epithelium lifted (alcohol/epikeratome) and replaced — less pain/haze. <b>PTK</b>: erosions, scars, dystrophies, Salzmann, band keratopathy. <b>LASIK</b>: femtosecond/microkeratome flap + excimer; leave <b>≥250 µm residual stromal bed</b>; no LASIK in forme fruste KC; flap complications (ingrowth, DLK, buttonhole), dry eye. <b>SMILE</b>: femto lenticule removed through small incision — similar results, less dry eye, good for myopic astigmatism. <b>Femto cataract</b>: incisions, arcuate keratotomies, capsulorhexis, nucleus fragmentation — precise and repeatable, no proven visual advantage, costly.",
+   "points": [],
+   "hook": "<b>LASIK floor: keep 250 µm of stroma.</b>",
+   "cards": [
+    {
+     "q": "Minimum residual stromal bed after LASIK to avoid ectasia?",
+     "a": "About 250 µm."
+    }
+   ]
+  },
+  {
+   "id": "v23-04",
+   "group": "Cornea & cataract",
+   "title": "Nd:YAG capsulotomy & vitreolysis",
+   "minutes": 2,
+   "tldr": "<b>Posterior capsulotomy</b> for PCO: Q-switched Nd:YAG, Abraham/Peyman lens, start ~0.8 mJ and titrate; cross, circular or inverted-U pattern; <b>posterior defocus</b> to avoid IOL pitting; apraclonidine 1% for IOP spike; enlarges 20–30% over 3 months. Risks: IOP rise, IOL pits, CME, <b>RD</b>, floaters. <b>Anterior capsulotomy</b> for phimosis: radial cuts, anterior defocus, higher power. <b>Anterior vitreolysis</b>: cut vitreous strands to the wound (peaked pupil, CME, uveitis) with pilocarpine to tighten them.",
+   "points": [],
+   "hook": "<b>Focus behind the capsule to keep the IOL clean.</b>",
+   "cards": [
+    {
+     "q": "Main complications of Nd:YAG posterior capsulotomy?",
+     "a": "IOP spike, IOL pitting, CME, retinal detachment, floaters."
+    }
+   ]
+  },
+  {
+   "id": "v23-05",
+   "group": "Glaucoma lasers",
+   "title": "Iridotomy, iridoplasty, trabeculoplasty, cyclophotocoagulation",
+   "minutes": 3,
+   "tldr": "<b>YAG PI</b>: pilocarpine + apraclonidine, Abraham lens, iris crypt <b>10–2 o'clock</b> (lid hides glare); dark irides → argon/FD-YAG pretreat; aqueous gush = patent; ~200 µm; check IOP at 1 h; short steroid. <b>ALPI</b>: ring of large slow burns contracts peripheral iris — plateau iris or when PI impossible. <b>ALT</b>: ~100 burns (50 µm) at pigmented/non-pigmented TM junction; scars TM, PAS, poor repeat. <b>SLT</b>: Q-switched FD-YAG 3 ns, 400 µm spot, ~0.8 mJ titrated below 'champagne bubbles', 180–360°; repeatable; same 12-month effect as ALT. <b>Cyclodiode (TCP)</b>: 810 nm transscleral over ciliary body (transillumination), avoid 3 & 9 o'clock; 'pop' = too much; inflammation, hypotony/phthisis; traditionally blind painful eyes, now earlier. <b>ECP</b>: endoscopic, with phaco/vitrectomy, less hypotony. <b>Laser suture lysis</b> after trab (Hoskins lens).",
+   "points": [],
+   "hook": "<b>SLT = Selective, Low-energy, repeaTable.</b>",
+   "cards": [
+    {
+     "q": "Why put a peripheral iridotomy between 10 and 2 o'clock?",
+     "a": "The upper lid covers it, reducing glare/ghost images."
+    },
+    {
+     "q": "End point for SLT power titration?",
+     "a": "Just below the energy producing 'champagne' cavitation bubbles."
+    }
+   ]
+  },
+  {
+   "id": "v23-06",
+   "group": "Retinal lasers",
+   "title": "PRP, macular laser, retinopexy, PDT & macroaneurysm",
+   "minutes": 3,
+   "tldr": "<b>PRP</b>: ablate ischaemic periphery → ↓VEGF. Burns 200–500 µm, 0.5–1 burn apart, 100 ms (20 ms pattern), gentle blanch; sessions of 1000–1500, total ≥2000 (up to 6000+); <b>inferior first</b> (VH settles there); treat macular oedema first; endolaser/indirect if VH or ROP; sector PRP for BRVO. Indications: high-risk PDR, NVI/NVA (ischaemic CRVO), sickle, OIS, ROP. <b>Macular grid</b>: 50–100 µm, 1–2 widths apart, spare 500 µm from fovea; DMO (ETDRS CSME, non-centre), <b>BRVO</b> (VA ≤6/12 after 3 months) — not CRVO; <b>micropulse</b> 577/810 nm (5% duty cycle, subthreshold, confluent). <b>Retinopexy</b>: 2–3 rows confluent burns around horseshoe tears (and selected holes) before SRF accumulates; indirect + indentation for far periphery. <b>PDT</b>: verteporfin + 689 nm, 83 s — PCV, anti-VEGF allergy, CSCR. <b>Macroaneurysm</b>: ring of burns if exudate threatens fovea.",
+   "points": [],
+   "hook": "<b>PRP: start at the bottom, before the blood falls there.</b>",
+   "cards": [
+    {
+     "q": "Why treat the inferior retina first during PRP?",
+     "a": "Any subsequent vitreous haemorrhage settles inferiorly and would block later treatment there."
+    },
+    {
+     "q": "Photosensitiser and wavelength used in PDT?",
+     "a": "Verteporfin activated by 689 nm diode laser (83 seconds)."
+    }
+   ]
+  }
+ ]
+}
