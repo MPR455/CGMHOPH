@@ -1068,7 +1068,18 @@
    "num": 18,
    "title": "Ophthalmic Genetics",
    "file": "ch18.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v18-01",
+     "title": "Inheritance patterns with eye examples",
+     "group": "Inheritance"
+    },
+    {
+     "id": "v18-02",
+     "title": "Chromosomal syndromes, genetic testing & gene therapy",
+     "group": "Chromosomes & uses"
+    }
+   ]
   },
   {
    "id": "ch19",

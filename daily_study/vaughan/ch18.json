@@ -1,0 +1,47 @@
+{
+ "id": "ch18",
+ "num": 18,
+ "title": "Ophthalmic Genetics",
+ "chunks": [
+  {
+   "id": "v18-01",
+   "group": "Inheritance",
+   "title": "Inheritance patterns with eye examples",
+   "minutes": 3,
+   "tldr": "<b>AD</b>: every generation, 50% of children, both sexes — NF1, NF2, tuberous sclerosis, VHL, <b>germline RB</b>, Best, some RP, Gardner (FAP CHRPE). Isolated unilateral cases may be new somatic mutations (not transmitted). Many 'AD' tumour syndromes are recessive at the cell level (two hits). <b>AR</b>: one generation, carrier parents → 1 in 4 affected, 2 in 4 carriers; consanguinity — some RP, <b>gyrate atrophy</b>, <b>xeroderma pigmentosum</b>. <b>X-linked recessive</b>: males affected, carrier mothers (half sons affected, half daughters carriers), affected fathers → all daughters carriers, no sons affected — <b>XLRS, ocular albinism, some RP, Norrie, choroideremia</b>. <b>Mitochondrial</b>: mother → all children; fathers never transmit — <b>LHON, Kearns-Sayre</b>. <b>Polygenic/multifactorial</b>: AMD, POAG.",
+   "points": [
+    "Father and son both affected → can't be X-linked or mitochondrial."
+   ],
+   "hook": "<b>Male-to-male transmission rules out X-linked and mitochondrial.</b>",
+   "cards": [
+    {
+     "q": "Name three X-linked recessive eye diseases.",
+     "a": "X-linked retinoschisis, choroideremia, ocular albinism (also Norrie disease, some RP, red-green colour blindness)."
+    },
+    {
+     "q": "Can an affected father pass LHON to his children?",
+     "a": "No — mitochondrial DNA is inherited only from the mother."
+    }
+   ]
+  },
+  {
+   "id": "v18-02",
+   "group": "Chromosomes & uses",
+   "title": "Chromosomal syndromes, genetic testing & gene therapy",
+   "minutes": 3,
+   "tldr": "Whole/partial chromosome gain or loss → multiple anomalies, rarely transmitted; karyotype. <b>Trisomy 13 (Patau)</b>: microphthalmia, colobomas, cataract. <b>Trisomy 18 (Edwards)</b>: hypertelorism, lid anomalies. <b>Trisomy 21 (Down)</b>: epicanthus, upslanting fissures, <b>Brushfield spots/iris hypoplasia</b>, <b>keratoconus</b>, cataract. <b>Klinefelter (XXY)</b>: epicanthus, hypertelorism. <b>Turner (XO)</b>: ptosis, strabismus, cataract (+ colour blindness like males). <b>13q deletion</b>: retinoblastoma. <b>11p deletion</b>: aniridia (WAGR). Uses: identify <b>carriers</b> (counselling) and <b>at-risk relatives</b> to target screening (e.g. RB1 carriers → EUAs; non-carriers spared). Prognosis: genotype–phenotype in RP, VHL subtypes (RCC risk), <b>uveal melanoma monosomy 3/GEP class 2</b>. Gene therapy: <b>RPE65 LCA</b> (voretigene), trials in choroideremia, RP, LHON.",
+   "points": [],
+   "hook": "<b>Down syndrome eye = keratoconus + Brushfield + cataract.</b>",
+   "cards": [
+    {
+     "q": "Ocular features of trisomy 13?",
+     "a": "Microphthalmia, uveal colobomas, congenital cataract (also PHPV, retinal dysplasia)."
+    },
+    {
+     "q": "First approved ocular gene therapy and its target?",
+     "a": "Voretigene neparvovec for biallelic RPE65-associated retinal dystrophy (LCA/RP)."
+    }
+   ]
+  }
+ ]
+}
