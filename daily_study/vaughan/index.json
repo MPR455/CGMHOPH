@@ -1020,7 +1020,48 @@
    "num": 17,
    "title": "Special Subjects of Pediatric Interest",
    "file": "ch17.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v17-01",
+     "title": "Neonatal & infant eye examination",
+     "group": "Examining children"
+    },
+    {
+     "id": "v17-02",
+     "title": "Vision & refraction in children",
+     "group": "Examining children"
+    },
+    {
+     "id": "v17-03",
+     "title": "Congenital anomalies of globe, lids, cornea, iris",
+     "group": "Congenital anomalies"
+    },
+    {
+     "id": "v17-04",
+     "title": "Congenital cataract, glaucoma, PHPV, optic nerve, NLDO",
+     "group": "Congenital anomalies"
+    },
+    {
+     "id": "v17-05",
+     "title": "The visually inattentive baby",
+     "group": "Common problems"
+    },
+    {
+     "id": "v17-06",
+     "title": "Ophthalmia neonatorum & childhood uveitis",
+     "group": "Common problems"
+    },
+    {
+     "id": "v17-07",
+     "title": "Retinopathy of prematurity",
+     "group": "Common problems"
+    },
+    {
+     "id": "v17-08",
+     "title": "Leukocoria, strabismus, amblyopia, abuse & dyslexia",
+     "group": "Common problems"
+    }
+   ]
   },
   {
    "id": "ch18",

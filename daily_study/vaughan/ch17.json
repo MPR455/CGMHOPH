@@ -1,0 +1,145 @@
+{
+ "id": "ch17",
+ "num": 17,
+ "title": "Special Subjects of Pediatric Interest",
+ "chunks": [
+  {
+   "id": "v17-01",
+   "group": "Examining children",
+   "title": "Neonatal & infant eye examination",
+   "minutes": 3,
+   "tldr": "Every newborn: symmetric anatomy + <b>red reflex</b> each eye. Fixation on a face; smooth pursuit may be jerky for 2 months. Pupils react from ~29 wk gestation, reliable from 32 wk; anisocoria 0.5 mm in 20% — but ptosis + anisocoria → <b>Horner → neuroblastoma</b>. Dilate: phenylephrine 2.5% + cyclopentolate 1%/tropicamide 1%; <b>premature/light irides → Cyclomydril</b> (cyclopentolate 0.2% + phenylephrine 1%). Newborn disc grey (pink by 2 y), no physiological cup; retinal haemorrhages in up to 50% of births, clear in weeks. Infant fundus grey, no foveal reflex until 3–4 months. Schedule: neonate (red reflex) → 6 mo (fixation, alignment) → <b>4 y (acuity)</b> → 5–16 y every 2 y; colour 8–12 y.",
+   "points": [],
+   "hook": "<b>No red reflex = urgent referral (cataract, RB).</b>",
+   "cards": [
+    {
+     "q": "Which dilating drops are used in premature neonates?",
+     "a": "Cyclomydril — cyclopentolate 0.2% + phenylephrine 1% (fewer systemic effects)."
+    }
+   ]
+  },
+  {
+   "id": "v17-02",
+   "group": "Examining children",
+   "title": "Vision & refraction in children",
+   "minutes": 3,
+   "tldr": "Approx VA: <b>2 mo 6/120, 6 mo 6/30, 1 y 6/15, 3 y 6/6</b>. Pre-verbal: fix &amp; follow, <b>objection to occlusion</b> (covering the good eye upsets the child), preferential looking (overestimates amblyopic VA), OKN, VEP. From ~4 y: tumbling E, Lea, HOTV; stereo (Random Dot E, Titmus) from 3–4 y. <b>Cycloplegic refraction</b>: cyclopentolate 1% ×2, 5 min apart, 30 min before; <b>atropine 1% ointment daily ×2–3 days</b> for esotropia/dark irides — warn of toxicity (fever, flushing, tachycardia). Ages 2–6: <b>80% hyperopic</b>, 5% myopic; only ~10% need specs before 7–8 y; myopia appears 6–9 y and grows through puberty; anisometropia → amblyopia.",
+   "points": [],
+   "hook": "<b>Hot, red, dry, mad = atropine toxicity.</b>",
+   "cards": [
+    {
+     "q": "Approximate visual acuity at 6 months?",
+     "a": "About 6/30 (20/100)."
+    },
+    {
+     "q": "Signs of atropine toxicity in a child?",
+     "a": "Fever, flushed dry skin, tachycardia, irritability/confusion."
+    }
+   ]
+  },
+  {
+   "id": "v17-03",
+   "group": "Congenital anomalies",
+   "title": "Congenital anomalies of globe, lids, cornea, iris",
+   "minutes": 3,
+   "tldr": "<b>Anophthalmos</b> (no optic vesicle), cystic eye (no invagination), <b>coloboma</b> (fissure fails to close — inferonasal), cryptophthalmos (lids unseparated). <b>Nanophthalmos</b> (small but normal) vs <b>microphthalmos</b> (abnormal). Ptosis (levator dystrophy, Horner, III) → amblyopia. Lid coloboma (Goldenhar) → repair. <b>Cloudy cornea DDx (STUMPED)</b>: Sclerocornea, Tears in Descemet (<b>glaucoma</b>, <b>forceps</b>), Ulcer, Metabolic (<b>MPS — Hurler</b>), Peters, Endothelial dystrophy (CHED), Dermoid. <b>Megalocornea</b>: X-linked, clear. <b>Aniridia</b> (PAX6, AD): glaucoma, foveal hypoplasia, nystagmus; sporadic (WAGR, 11p13) → <b>Wilms tumour</b> — renal US every 3 months to age 8. Axenfeld-Rieger, Peters (neural crest/PAX6) → glaucoma. Heterochromia: congenital Horner, inflammation.",
+   "points": [],
+   "hook": "<b>Sporadic aniridia = scan the kidneys (WAGR).</b>",
+   "cards": [
+    {
+     "q": "Tumour linked to sporadic aniridia?",
+     "a": "Wilms tumour (WAGR syndrome, 11p13 deletion including WT1)."
+    },
+    {
+     "q": "Causes of a cloudy cornea at birth?",
+     "a": "Congenital glaucoma, forceps injury (Descemet breaks), Peters anomaly, CHED, sclerocornea, mucopolysaccharidosis, dermoid, infection."
+    }
+   ]
+  },
+  {
+   "id": "v17-04",
+   "group": "Congenital anomalies",
+   "title": "Congenital cataract, glaucoma, PHPV, optic nerve, NLDO",
+   "minutes": 3,
+   "tldr": "<b>Cataract</b>: AD commonest in developed world; rubella in developing; position dates onset. Visually significant → <b>surgery within ~2 months</b>, then CL/IOL + amblyopia therapy; bilateral: short interval. <b>Congenital glaucoma</b>: photophobia, haze, big cornea; DDx forceps, anterior segment dysgenesis, MPS (no enlargement). <b>Hyaloid remnants</b>: Mittendorf dot (lens), Bergmeister papilla (disc); <b>PHPV/PFV</b> → leukocoria, microphthalmia. Choroidal coloboma (CHARGE, Aicardi, Goldenhar). <b>ONH</b> (double-ring): septo-optic dysplasia → hypoglycaemia, jaundice, growth failure, DI → endocrine + MRI. <b>Congenital NLDO</b>: 30% early epiphora, 6% persist; massage + antibiotics; <b>probing ~1 y</b> (earlier if dacryocystitis); intubation/balloon/DCR. <b>Crouzon</b>: craniosynostosis, shallow orbits/proptosis, hypertelorism, strabismus, optic atrophy.",
+   "points": [],
+   "hook": "<b>Watery eye in a baby: blocked duct (common) vs glaucoma (photophobia, big cornea).</b>",
+   "cards": [
+    {
+     "q": "Best age for probing persistent congenital nasolacrimal duct obstruction?",
+     "a": "Around 12 months (most resolve spontaneously before)."
+    }
+   ]
+  },
+  {
+   "id": "v17-05",
+   "group": "Common problems",
+   "title": "The visually inattentive baby",
+   "minutes": 2,
+   "tldr": "After excluding ONH, albinism, high refractive error: <b>LCA</b> and <b>cone dystrophy</b> (roving nystagmus, <b>oculodigital sign</b> eye-poking; <b>ERG</b> confirms), <b>cortical/cerebral visual impairment</b> (prematurity, HIE; commonest cause in developed countries; normal eyes, MRI), <b>ocular motor apraxia</b> (can't start horizontal saccades — head thrusts; vision fine), <b>delayed visual maturation</b> (sees after 2–6 months; normal if isolated).",
+   "points": [],
+   "hook": "<b>Baby poking its eyes = retinal dystrophy (LCA) — get an ERG.</b>",
+   "cards": [
+    {
+     "q": "Leading cause of infant blindness in developed countries?",
+     "a": "Cerebral (cortical) visual impairment."
+    }
+   ]
+  },
+  {
+   "id": "v17-06",
+   "group": "Common problems",
+   "title": "Ophthalmia neonatorum & childhood uveitis",
+   "minutes": 2,
+   "tldr": "<b>Chlamydia</b> = commonest infectious cause in US; day <b>5–14</b>; inclusions, IF/PCR; <b>oral erythromycin</b> (also treats nasopharynx → prevents pneumonitis). <b>Bacterial</b> day 2–5 (staph, Haemophilus, strep, <b>gonococcus, Pseudomonas</b> — corneal risk); gonococcus → <b>IV/IM ceftriaxone</b> (cefotaxime if jaundiced). <b>HSV</b>: giant cells; keratitis &lt;6 months → <b>admit, LP-PCR</b>, systemic acyclovir. Test/treat baby for other STIs; treat mother and partners. <b>Childhood uveitis</b>: HLA-B27, intermediate, Fuchs, idiopathic; <b>JIA (oligoarticular, ANA+ girls)</b> silent → screening; watch steroid effects on growth.",
+   "points": [],
+   "hook": "<b>Week 1 = bugs (gonococcus), week 2 = chlamydia.</b>",
+   "cards": [
+    {
+     "q": "Why give systemic rather than topical treatment for chlamydial neonatal conjunctivitis?",
+     "a": "To eradicate nasopharyngeal carriage and prevent chlamydial pneumonitis."
+    }
+   ]
+  },
+  {
+   "id": "v17-07",
+   "group": "Common problems",
+   "title": "Retinopathy of prematurity",
+   "minutes": 3,
+   "tldr": "Risks: <b>low gestational age & birth weight</b>, oxygen, acidosis, apnoea, PDA, sepsis, transfusions, IVH. Vessels reach nasal ora at 8 mo, temporal at 9 mo. Stages: <b>1 demarcation line, 2 ridge, 3 extraretinal fibrovascular proliferation, 4 subtotal RD, 5 total RD</b>; zone I (around disc) worst; <b>plus disease</b> = posterior venous dilation + arterial tortuosity. Screen: <b>BW ≤1500 g or GA ≤30 wk</b> (or sicker 1500–2000 g); start at <b>31 wk PMA</b> if GA ≤27 wk, else 4 wk chronological age; until vascularised/regressed. Treat (Type 1): <b>zone I any stage + plus, zone I stage 3, zone II stage 2–3 + plus</b> → <b>laser</b> (diode indirect) or <b>intravitreal anti-VEGF</b> (BEAT-ROP: zone I); vitrectomy for 4–5 (poor). Late: myopia, strabismus, cataract, angle closure, dragged disc/macula, retinal breaks.",
+   "points": [
+    "Screening/treatment can cause apnoea/cardiorespiratory arrest — neonatal team present."
+   ],
+   "hook": "<b>Screen under 1500 g or under 31 weeks (≤30).</b>",
+   "cards": [
+    {
+     "q": "What is plus disease?",
+     "a": "Dilation and tortuosity of posterior pole retinal vessels indicating active, severe ROP."
+    },
+    {
+     "q": "ROP screening criteria (Vaughan)?",
+     "a": "Birth weight ≤1500 g or gestational age ≤30 weeks, plus selected larger/older unstable infants."
+    }
+   ]
+  },
+  {
+   "id": "v17-08",
+   "group": "Common problems",
+   "title": "Leukocoria, strabismus, amblyopia, abuse & dyslexia",
+   "minutes": 3,
+   "tldr": "<b>Leukocoria</b> (or absent red-eye in photos): <b>retinoblastoma</b> (90% by 3 y), cataract, ROP, PHPV, Coats, toxocara, high refractive error → urgent referral. <b>Strabismus</b> (~2–4%) after 3 months always refer; never 'grow out of it'. <b>Amblyopia</b>: critical period to ~8 y; strabismus, anisometropia, bilateral high hyperopia/astigmatism; specs → patch/atropine; screen by 4 y. <b>Shaken baby (abusive head trauma)</b>: <b>multilayered retinal haemorrhages</b> (intra-, pre-retinal, vitreous) to the periphery ± retinoschisis, with subdural haemorrhage, often no external injury; in &lt;3 y strongly suggestive once blood disorders excluded; document carefully, involve paediatrics. <b>Dyslexia</b>: central language-processing problem, not visual; treat any refractive error/strabismus; 'vision therapy'/coloured lenses unproven.",
+   "points": [],
+   "hook": "<b>Haemorrhages everywhere in a baby without a bump = abuse until proven otherwise.</b>",
+   "cards": [
+    {
+     "q": "Retinal findings typical of abusive head trauma?",
+     "a": "Numerous multilayered haemorrhages extending to the ora, often with perimacular retinoschisis/folds."
+    },
+    {
+     "q": "Is dyslexia caused by eye problems?",
+     "a": "No — it's a central language-processing disorder; vision therapy has no proven benefit."
+    }
+   ]
+  }
+ ]
+}
