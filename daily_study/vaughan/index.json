@@ -1162,7 +1162,48 @@
    "num": 21,
    "title": "Optics & Refraction",
    "file": "ch21.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v21-01",
+     "title": "Light, refraction & critical angle",
+     "group": "Geometric optics"
+    },
+    {
+     "id": "v21-02",
+     "title": "Lens formulas, vertex distance & aberrations",
+     "group": "Geometric optics"
+    },
+    {
+     "id": "v21-03",
+     "title": "Cylinders, Sturm's conoid & prisms",
+     "group": "Geometric optics"
+    },
+    {
+     "id": "v21-04",
+     "title": "Optics of the eye & visual acuity",
+     "group": "The eye's optics"
+    },
+    {
+     "id": "v21-05",
+     "title": "Presbyopia, myopia & hyperopia",
+     "group": "Refractive errors"
+    },
+    {
+     "id": "v21-06",
+     "title": "Astigmatism, development & anisometropia",
+     "group": "Refractive errors"
+    },
+    {
+     "id": "v21-07",
+     "title": "Spectacles, contact lenses & IOL formulas",
+     "group": "Correction"
+    },
+    {
+     "id": "v21-08",
+     "title": "Retinoscopy & subjective refraction",
+     "group": "Correction"
+    }
+   ]
   },
   {
    "id": "ch22",

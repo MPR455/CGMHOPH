@@ -1,0 +1,155 @@
+{
+ "id": "ch21",
+ "num": 21,
+ "title": "Optics & Refraction",
+ "chunks": [
+  {
+   "id": "v21-01",
+   "group": "Geometric optics",
+   "title": "Light, refraction & critical angle",
+   "minutes": 3,
+   "tldr": "Speed = frequency × wavelength; in media speed and wavelength change, <b>frequency (colour) doesn't</b>. Refractive index n = c(vacuum)/c(medium): air ~1.0003, water/aqueous ~1.33–1.34, PMMA 1.49, crown glass 1.52, flint 1.62, silicone 1.44. n rises with temperature (plastic/aqueous ~150× glass). <b>Dispersion</b>: n higher for blue; Abbe value V high = less dispersion. <b>Snell</b>: n sin i = n' sin i'. Reflection: angle in = angle out. <b>Fermat</b>: least-time path; optical path = n × distance. Denser → rarer medium: beyond the <b>critical angle</b> → <b>total internal reflection</b> (fibre-optics). Aqueous critical angle ~48° → <b>angle structures invisible without a gonio lens</b>.",
+   "points": [],
+   "hook": "<b>You need a goniolens because the angle's light is trapped by total internal reflection.</b>",
+   "cards": [
+    {
+     "q": "Why can't the iridocorneal angle be seen directly?",
+     "a": "Light from the angle exceeds the critical angle (~46–48°) at the cornea/tear–air interface and is totally internally reflected; a goniolens eliminates the air interface."
+    },
+    {
+     "q": "What stays constant when light enters a new medium?",
+     "a": "Frequency (and hence colour); speed and wavelength change."
+    }
+   ]
+  },
+  {
+   "id": "v21-02",
+   "group": "Geometric optics",
+   "title": "Lens formulas, vertex distance & aberrations",
+   "minutes": 3,
+   "tldr": "Thin-lens algebra (approximate): <b>Power (D) = 1/f (m)</b>; 1/v − 1/u = 1/f; magnification = image/object size = image/object distance; powers add for thin, close lenses. Thick lenses need two principal planes and nodal points; <b>back vertex power</b> is what the lensmeter reads. Trigonometric ray-tracing is exact (needed for IOLs, CLs, refractive surgery). Contact lens power ≈ 0.34/r. <b>Vertex distance</b>: P₂ = 1/(1/P₁ − d) — moving a plus lens closer needs more plus (+13 D at 11 mm → <b>+15.2 D contact lens</b>); minus lens closer needs less minus. Aberrations: <b>chromatic</b> (blue focuses in front), <b>spherical</b> (periphery bends more), <b>coma</b>, <b>oblique astigmatism</b>, curvature of field, distortion (pincushion/barrel); reduced by meniscus/aspheric design, stops, achromatic doublets.",
+   "points": [],
+   "hook": "<b>Plus lens forward = stronger. Hyperope's contact lens needs more plus than their specs.</b>",
+   "cards": [
+    {
+     "q": "A +13 D spectacle at 11 mm; approximate contact lens power?",
+     "a": "About +15.2 D (P = 1/(1/13 − 0.011))."
+    },
+    {
+     "q": "What does a lensmeter measure?",
+     "a": "Back vertex power."
+    }
+   ]
+  },
+  {
+   "id": "v21-03",
+   "group": "Geometric optics",
+   "title": "Cylinders, Sturm's conoid & prisms",
+   "minutes": 3,
+   "tldr": "<b>Planocylinder</b>: no power along its axis, max power 90° away → line focus parallel to axis. <b>Spherocylinder</b> → <b>conoid of Sturm</b>: two focal lines (interval of Sturm), <b>circle of least confusion</b> between. <b>Transposition</b>: add sphere + cylinder, flip cylinder sign, rotate axis 90° (+2.00/−3.00×90 = −1.00/+3.00×180). <b>Prism</b>: light bends toward base, image displaced toward <b>apex</b>; <b>1 PD = 1 cm at 1 m</b> (~0.57°; 2 PD ≈ 1°). Glass prisms calibrated in <b>Prentice position</b>, plastic in <b>minimum deviation</b>. <b>Prentice's rule</b>: prism (PD) = decentration (cm) × power (D); plus lens base toward centre, minus base away. Anisometropia → vertical prism when reading → chin-down, <b>slab-off</b>, or CLs. <b>Fresnel</b> press-on prisms: light but scatter. Hand neutralisation: <b>minus = 'with' movement</b>, plus = against; cylinder = scissor/rotation distortion.",
+   "points": [],
+   "hook": "<b>Prism: light to the Base, image to the Apex.</b>",
+   "cards": [
+    {
+     "q": "Transpose +2.00 / −3.00 × 90.",
+     "a": "−1.00 / +3.00 × 180."
+    },
+    {
+     "q": "Prism induced 5 mm from the centre of a +6 D lens?",
+     "a": "3 prism dioptres (Prentice: 0.5 cm × 6 D), base toward the optical centre."
+    }
+   ]
+  },
+  {
+   "id": "v21-04",
+   "group": "The eye's optics",
+   "title": "Optics of the eye & visual acuity",
+   "minutes": 2,
+   "tldr": "Classic simplification: cornea ~43 D, lens ~19 D, total ~60 D; <b>reduced schematic eye</b> (Gullstrand): single surface, n 1.33, axial length 22.5 mm — mathematical convenience, not physiology. Vaughan: better viewed as a three-lens system (aqueous, crystalline lens with graded index, vitreous); the cornea mostly shapes the aqueous lens. Accommodation from lens change (Purkinje images). Resolution ~1 arc-minute; Snellen letter 5×5 units → <b>6/6 letter subtends 5′</b> (8.7 mm at 6 m, ~0.025 mm on retina ≈ 100 lines/mm).",
+   "points": [],
+   "hook": "<b>6/6 letter = 5 minutes of arc; each stroke = 1 minute.</b>",
+   "cards": [
+    {
+     "q": "What angle does a 6/6 Snellen letter subtend?",
+     "a": "5 minutes of arc (each limb 1 minute)."
+    }
+   ]
+  },
+  {
+   "id": "v21-05",
+   "group": "Refractive errors",
+   "title": "Presbyopia, myopia & hyperopia",
+   "minutes": 3,
+   "tldr": "<b>Accommodation</b> falls: ~14 D at 8, 10 D at 25, 6 D at 40, 2 D at 50, ~1 D at 55 → <b>presbyopia</b> noticed ~44–46 (worse in dim light), stable ~55; reading glasses, bifocals, trifocals, varifocals. <b>Myopia</b>: image in front; axial (<b>~3 D per extra mm</b>) or refractive; <b>far point = 1/D</b> (far point 25 cm → −4 D); can read unaided when presbyopic; high myopia → RD, degeneration; concave lens. <b>Hyperopia</b>: image behind; short eye or low power (aphakia); young compensate by accommodating (<b>latent</b>) — cycloplegia reveals total; <b>manifest</b> = not overcome; causes asthenopia, <b>esotropia</b>, amblyopia; presbyopia arrives earlier, then blur at all distances.",
+   "points": [],
+   "hook": "<b>Myope's far point in metres = 1 / dioptres of myopia.</b>",
+   "cards": [
+    {
+     "q": "Each extra millimetre of axial length adds about how much myopia?",
+     "a": "About 3 dioptres."
+    },
+    {
+     "q": "What is latent hyperopia?",
+     "a": "The part of hyperopia masked by accommodation, revealed only with cycloplegia."
+    }
+   ]
+  },
+  {
+   "id": "v21-06",
+   "group": "Refractive errors",
+   "title": "Astigmatism, development & anisometropia",
+   "minutes": 3,
+   "tldr": "Regular astigmatism: two principal meridians 90° apart → compound/simple myopic, mixed, simple/compound hyperopic. <b>With-the-rule</b> (vertical meridian steeper; correct with minus cyl at 180, plus cyl at 90) — young. <b>Against-the-rule</b> (horizontal steeper) — elderly. Oblique if axes &gt;20° off. <b>Irregular</b> (keratoconus, scars) → <b>rigid CL</b>. Lenticular = 'residual' astigmatism (not fixed by spherical RGP). New cyl correction → temporary tilt/distortion. Development: newborn ~+0.5 D, cornea 6.59 → 7.71 mm radius by 1 y, axial length <b>16.6 mm → 21.8 mm (2–3 y) → 24 mm</b> by 10–15 y; myopia rises in teens (near work); progression treatments then unproven. <b>Anisometropia</b>: amblyopia (more hyperopic eye), <b>aniseikonia</b> — monocular aphakia: specs ~25% image difference (intolerable), CL ~6%, <b>IOL &lt;1%</b>.",
+   "points": [],
+   "hook": "<b>With-the-rule = vertical steeper = 'young & upright'.</b>",
+   "cards": [
+    {
+     "q": "Image size difference in monocular aphakia with spectacles vs CL vs IOL?",
+     "a": "About 25% vs 6% vs &lt;1%."
+    },
+    {
+     "q": "Which meridian is steeper in with-the-rule astigmatism?",
+     "a": "The vertical meridian."
+    }
+   ]
+  },
+  {
+   "id": "v21-07",
+   "group": "Correction",
+   "title": "Spectacles, contact lenses & IOL formulas",
+   "minutes": 3,
+   "tldr": "<b>Spectacles</b>: safest; meniscus form, pantoscopic tilt. <b>Rigid (PMMA → RGP)</b>: tear lens neutralises corneal (incl. irregular) astigmatism; power = base-curve effect + lens power. <b>Soft</b> drape onto cornea → need <b>toric</b> for astigmatism; base curve from keratometry; risk of keratitis. Uses: keratoconus (RGP), bandage (soft), aphakia, high myopia (better image than specs); mostly cosmetic. <b>IOLs</b>: in-the-bag foldable acrylic/silicone; power from biometry: <b>SRK: P = A − 2.5L − 0.9K</b> (regression, old); modern theoretical: <b>Hoffer Q (short &lt;22 mm)</b>, <b>Holladay (24.6–26 mm)</b>, <b>Haigis/SRK-T (&gt;26 mm)</b>. Post-refractive-surgery eyes → underestimated power unless pre-op data. Piggyback IOL, phakic IOL, <b>clear lens extraction</b> (high myopes — RD risk).",
+   "points": [],
+   "hook": "<b>Short eye = Hoffer Q; long eye = SRK/T.</b>",
+   "cards": [
+    {
+     "q": "Write the SRK formula.",
+     "a": "IOL power = A − 2.5 × axial length (mm) − 0.9 × average K."
+    },
+    {
+     "q": "IOL formula preferred for short eyes (&lt;22 mm)?",
+     "a": "Hoffer Q."
+    }
+   ]
+  },
+  {
+   "id": "v21-08",
+   "group": "Correction",
+   "title": "Retinoscopy & subjective refraction",
+   "minutes": 3,
+   "tldr": "<b>Retinoscopy</b>: streak (intercept) → pupillary reflex; aligned reflex = sphere or on-axis cylinder; rotate streak to find meridians. <b>'With' movement → add plus</b>; <b>'against' → add minus</b>; neutral = whole pupil fills, no movement. Then <b>subtract working distance</b>: 1/distance — at 2/3 m subtract <b>1.50 D</b> (at 50 cm subtract 2.00 D). Autorefractors unreliable in kids/opaque media. <b>Subjective</b>: maximum plus for best acuity (fight accommodation); <b>duochrome</b> — equal red/green = done (red clearer → add minus; green clearer → add plus); <b>Jackson cross cylinder</b> (±cyl with sphere half opposite) to refine axis then power. <b>Cycloplegic</b>: fogging in adults; children cyclopentolate 1%, or <b>atropine 0.5–1% ointment</b> bd ×3 days for dark irides/accommodative ET.",
+   "points": [],
+   "hook": "<b>WITH = Wants plus; against = add minus. Then take off 1.50.</b>",
+   "cards": [
+    {
+     "q": "Retinoscopy at 66 cm neutralises with +3.50 D. Refraction?",
+     "a": "+2.00 D (subtract 1.50 D working distance)."
+    },
+    {
+     "q": "On the duochrome test, letters are clearer on red. What next?",
+     "a": "Add minus (the patient is relatively myopic/over-plussed)."
+    }
+   ]
+  }
+ ]
+}
