@@ -75,7 +75,68 @@
    "num": 2,
    "title": "Ophthalmologic Examination",
    "file": "ch02.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v02-01",
+     "title": "Ocular symptoms: what to ask",
+     "group": "History & symptoms"
+    },
+    {
+     "id": "v02-02",
+     "title": "Visual acuity, pinhole & poor vision",
+     "group": "Basic exam"
+    },
+    {
+     "id": "v02-03",
+     "title": "Confrontation fields, pupils & RAPD",
+     "group": "Basic exam"
+    },
+    {
+     "id": "v02-04",
+     "title": "Motility, external & slit lamp",
+     "group": "Basic exam"
+    },
+    {
+     "id": "v02-05",
+     "title": "Special lenses & tonometry",
+     "group": "Basic exam"
+    },
+    {
+     "id": "v02-06",
+     "title": "Diagnostic drops",
+     "group": "Basic exam"
+    },
+    {
+     "id": "v02-07",
+     "title": "Direct vs indirect ophthalmoscopy",
+     "group": "Ophthalmoscopy"
+    },
+    {
+     "id": "v02-08",
+     "title": "Perimetry & Amsler grid",
+     "group": "Specialised tests"
+    },
+    {
+     "id": "v02-09",
+     "title": "Colour, contrast, glare, potential & functional loss",
+     "group": "Specialised tests"
+    },
+    {
+     "id": "v02-10",
+     "title": "Microbiology, cornea, tears & orbit tests",
+     "group": "Specialised tests"
+    },
+    {
+     "id": "v02-11",
+     "title": "Fundus photos, FA, ICGA, OCT & FAF",
+     "group": "Imaging"
+    },
+    {
+     "id": "v02-12",
+     "title": "Ultrasound, CT/MRI & electrophysiology",
+     "group": "Imaging"
+    }
+   ]
   },
   {
    "id": "ch03",

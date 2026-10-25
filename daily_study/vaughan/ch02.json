@@ -1,0 +1,292 @@
+{
+ "id": "ch02",
+ "num": 2,
+ "title": "Ophthalmologic Examination",
+ "chunks": [
+  {
+   "id": "v02-01",
+   "group": "History & symptoms",
+   "title": "Ocular symptoms: what to ask",
+   "minutes": 3,
+   "tldr": "Three symptom families: <b>vision</b>, <b>appearance</b>, <b>pain/discomfort</b>. Characterise onset, duration, frequency, laterality, severity, triggers, treatments tried. Ask about <b>diabetes, hypertension, steroids</b>, allergies, family history (glaucoma, strabismus, RD, AMD). Clues: myopic blur worse in dim light (big pupil); central cataract worse in bright light; corneal oedema blur <b>better as the day goes on</b>.",
+   "points": [
+    "Transient loss: vascular (amaurosis fugax) or migraine scotoma.",
+    "Flashes: instantaneous = retinal traction; seconds–minutes = migraine.",
+    "<b>Monocular diplopia</b> (persists with other eye covered) = optics: refractive, cataract, cornea.",
+    "Binocular diplopia: <b>incomitant</b> (varies with gaze) = palsy/restriction; <b>comitant</b> = long-standing squint.",
+    "Surface pain relieved by anaesthetic drop; deep ache = glaucoma, iritis, endophthalmitis, scleritis.",
+    "Itch = allergy; chronic epiphora = drainage problem; lids glued shut = infective conjunctivitis."
+   ],
+   "hook": "<b>Anaesthetic fixes surface pain, not deep pain.</b>",
+   "cards": [
+    {
+     "q": "Blurred vision from corneal oedema typically changes how through the day?",
+     "a": "It improves as the day progresses (evaporative dehydration of the cornea)."
+    }
+   ]
+  },
+  {
+   "id": "v02-02",
+   "group": "Basic exam",
+   "title": "Visual acuity, pinhole & poor vision",
+   "minutes": 3,
+   "tldr": "Distance acuity at <b>20 ft (6 m)</b>, near at 14 in (33 cm); always <b>each eye separately</b>. Snellen fraction = test distance / letter size row (20/60 = reads at 20 ft what normal reads at 60). <b>Tumbling/illiterate E</b> from ~3½ years. <b>Pinhole</b> blocks misfocused rays → if acuity improves, the problem is refractive. Can't read 20/200: move closer (5/200) → <b>CF</b> → <b>HM</b> → <b>LP</b> → <b>NLP</b>.",
+   "points": [
+    "Corrected acuity reflects ocular health; uncorrected may just be refractive error.",
+    "Refraction both prescribes and diagnoses (refractive vs other blur).",
+    "Binocular acuity matters for function, e.g. driving."
+   ],
+   "hook": "<b>Pinhole helps → it's the glasses, not the eye.</b>",
+   "cards": [
+    {
+     "q": "What does improvement with pinhole indicate?",
+     "a": "The reduced acuity is due to refractive error."
+    }
+   ]
+  },
+  {
+   "id": "v02-03",
+   "group": "Basic exam",
+   "title": "Confrontation fields, pupils & RAPD",
+   "minutes": 4,
+   "tldr": "<b>Confrontation</b>: patient and examiner close opposite eyes, compare fields with finger counting in 4 quadrants; red target for subtle desaturation. <b>Visual neglect</b> (right parietal): sees each side alone but misses the left with simultaneous stimuli. Pupils: size, shape, light + near; dim room shows a small pupil, bright room a large one. <b>Swinging light test</b>: affected pupil dilates when light swings to it = <b>RAPD</b> — optic nerve (or extensive retinal) disease; <b>not caused by cataract, corneal opacity or vitreous haemorrhage</b>.",
+   "points": [
+    "RAPD can be read from one pupil only — useful if the other pupil is damaged/unseen.",
+    "Pupil abnormalities: neurological, inflammation (spasm/synechiae), high IOP (atony), surgery, drugs, normal variants."
+   ],
+   "hook": "<b>Media opacities never give an RAPD.</b>",
+   "cards": [
+    {
+     "q": "Does a dense cataract cause an RAPD?",
+     "a": "No — media opacities do not cause a relative afferent pupillary defect."
+    }
+   ]
+  },
+  {
+   "id": "v02-04",
+   "group": "Basic exam",
+   "title": "Motility, external & slit lamp",
+   "minutes": 3,
+   "tldr": "<b>Corneal light reflex</b>: reflex temporal = esotropia; nasal = exotropia (works in infants). <b>Cover test</b>: cover one eye, watch the other for a refixation movement; <b>prism cover test</b> quantifies. Versions in cardinal gazes: palsy, myasthenia, restriction (e.g. floor fracture). External: lid position, palpebral fissure, proptosis, rim palpation, preauricular nodes, temporal artery. <b>Slit lamp</b> 10–16×, stereoscopic; optical section localises depth; shows cells/flare.",
+   "points": [
+    "<b>Lid eversion</b> (patient looks down, applicator at upper tarsal border ~8–9 mm above lashes) whenever a foreign body is suspected.",
+    "<b>Fluorescein</b> + cobalt blue: punctate staining (dryness, UV) to big defects (abrasion, ulcer)."
+   ],
+   "hook": "<b>Reflex goes temporal when the eye turns in.</b>",
+   "cards": [
+    {
+     "q": "Corneal light reflex displaced nasally in one eye indicates?",
+     "a": "Exotropia of that eye."
+    }
+   ]
+  },
+  {
+   "id": "v02-05",
+   "group": "Basic exam",
+   "title": "Special lenses & tonometry",
+   "minutes": 4,
+   "tldr": "Gonioscopy needs a mirror lens (<b>Goldmann, Posner–Zeiss</b>) or direct <b>Koeppe</b>. <b>Goldmann 3-mirror</b>: angle + mid/far periphery + central. <b>Volk</b> (90D/78D) non-contact posterior pole view. Normal IOP <b>10–21 mm Hg</b>. <b>Goldmann applanation</b>: force to flatten cornea; endpoint = fluorescein mires' inner edges touch. <b>Thin cornea → true IOP higher than measured</b>; thick → lower (pachymetry). Pascal dynamic contour ignores thickness. Portable: Perkins, Tono-Pen; Schiøtz (old); air-puff (screening, less accurate).",
+   "points": [
+    "Don't press on the globe while measuring.",
+    "Disinfect contact tonometer tips."
+   ],
+   "hook": "<b>Thin cornea lies low.</b>",
+   "cards": [
+    {
+     "q": "Effect of a thick cornea on Goldmann IOP?",
+     "a": "Overestimates — true IOP is lower than measured."
+    }
+   ]
+  },
+  {
+   "id": "v02-06",
+   "group": "Basic exam",
+   "title": "Diagnostic drops",
+   "minutes": 2,
+   "tldr": "Anaesthetics: <b>proparacaine, tetracaine, benoxinate</b>. Dilation: <b>phenylephrine 2.5%</b> (α-agonist, dilator) + <b>tropicamide 0.5–1%</b> (anticholinergic, also cycloplegic) — combination fastest (15–20 min) and widest. <b>Measure IOP before dilating</b> (small rise); check for <b>narrow angles</b> (oblique penlight) — risk of acute angle closure. Avoid excess drops (nasopharyngeal absorption).",
+   "points": [],
+   "hook": "<b>Pressure first, then dilate.</b>",
+   "cards": [
+    {
+     "q": "Why measure IOP before dilating?",
+     "a": "Dilation can raise IOP slightly and may precipitate angle closure."
+    }
+   ]
+  },
+  {
+   "id": "v02-07",
+   "group": "Ophthalmoscopy",
+   "title": "Direct vs indirect ophthalmoscopy",
+   "minutes": 4,
+   "tldr": "<b>Direct</b>: monocular, <b>15×</b>, ~10° field, portable. Red reflex at arm's length: moving opacity = vitreous; fixed = lens/cornea. Your right eye for their right eye; get close. Cup:disc ratio; disc 1.5–2 mm (1 DD); fovea ~2 DD temporal to disc. <b>Indirect (BIO)</b>: binocular/stereo, <b>~3.5×</b> with 20D, ~37° field, bright light (sees through haze), reaches <b>ora serrata with scleral depression</b>; image <b>inverted</b>. Used for RD assessment and surgery.",
+   "points": [
+    "Red-free filter: vessels and nerve fibre layer.",
+    "Small spot for undilated pupils.",
+    "Non-ophthalmologists: check acuity in children, refer diabetics for dilated exams, refer suspicious discs — amblyopia, DR, glaucoma are the big preventable blinders."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Direct",
+     "Indirect"
+    ],
+    "rows": [
+     [
+      "Magnification",
+      "15×",
+      "~3.5× (20D)"
+     ],
+     [
+      "Field",
+      "~10°",
+      "~37°"
+     ],
+     [
+      "Stereo",
+      "No",
+      "Yes"
+     ],
+     [
+      "Periphery",
+      "Limited",
+      "To ora (depression)"
+     ],
+     [
+      "Image",
+      "Upright",
+      "Inverted"
+     ]
+    ]
+   },
+   "hook": "<b>Direct = detail; indirect = the whole map.</b>",
+   "cards": [
+    {
+     "q": "Three advantages of indirect over direct ophthalmoscopy?",
+     "a": "Brighter light through hazy media, stereoscopic view, view of the entire retina to the ora with scleral depression."
+    }
+   ]
+  },
+  {
+   "id": "v02-08",
+   "group": "Specialised tests",
+   "title": "Perimetry & Amsler grid",
+   "minutes": 4,
+   "tldr": "Fields measured in degrees; sensitivity highest at fixation. <b>Static</b>: stimulus at fixed spot, brightness increased to <b>threshold</b> (automated Humphrey). <b>Kinetic</b>: fixed target moved inward → <b>isopters</b> (Goldmann, tangent screen). Automated printout: threshold dB (higher = better), total/pattern deviation, <b>MD, PSD</b>, reliability (fixation losses, false +/−). <b>Amsler grid</b>: central 20° × 20° (each square 1°) at reading distance; scotoma or <b>metamorphopsia</b> (macular fluid) — home monitoring in AMD.",
+   "points": [
+    "Needs steady fixation, fixed distance, standard background and targets, standard protocol.",
+    "Pattern deviation removes generalised loss (e.g. cataract)."
+   ],
+   "hook": "<b>Wavy lines on Amsler = fluid under the macula.</b>",
+   "cards": [
+    {
+     "q": "Static vs kinetic perimetry?",
+     "a": "Static: thresholds at fixed locations (automated). Kinetic: moving fixed target maps isopters (Goldmann)."
+    }
+   ]
+  },
+  {
+   "id": "v02-09",
+   "group": "Specialised tests",
+   "title": "Colour, contrast, glare, potential & functional loss",
+   "minutes": 4,
+   "tldr": "<b>Congenital red–green deficiency</b>: X-linked, <b>~8% of males</b>, &lt;0.05% females; blue–yellow (tritan) &lt;1%, not sex-linked. Acquired: <b>optic neuritis/compression → red–green</b> (before acuity drops); <b>glaucoma & macular disease → blue–yellow</b>. Plates: <b>Ishihara</b> (red–green), <b>HRR</b> (both), City University. Contrast sensitivity drops with cataract/retina/nerve disease despite 20/20. Glare (brightness acuity) for cataract/corneal oedema. <b>Potential acuity meter</b> projects chart through clear media gaps (imperfect). <b>Functional loss</b>: tunnel field that <b>doesn't expand at 2 m</b>; same lines read at every distance.",
+   "points": [
+    "Exclude advanced glaucoma, RP, cortical blindness before calling it functional."
+   ],
+   "hook": "<b>Nerve = red–green; glaucoma/macula = blue–yellow.</b>",
+   "cards": [
+    {
+     "q": "Prevalence of congenital red–green colour deficiency in males?",
+     "a": "About 8%."
+    },
+    {
+     "q": "Tangent screen sign of functional visual loss?",
+     "a": "Field doesn't double in diameter when testing distance doubles from 1 m to 2 m (tunnel field)."
+    }
+   ]
+  },
+  {
+   "id": "v02-10",
+   "group": "Specialised tests",
+   "title": "Microbiology, cornea, tears & orbit tests",
+   "minutes": 4,
+   "tldr": "Conjunctival scraping: <b>Giemsa</b> (cell types), <b>Gram</b> (bacteria). Corneal ulcer: scrape → plate <b>directly</b> (no transport medium); any growth significant. Endophthalmitis: aqueous tap (25G parallel to iris) or better <b>vitreous</b>; PCR for viral retinitis. <b>Keratometry</b> (2 meridians; astigmatism, IOL calc), topography, wavefront (higher-order aberrations), specular microscopy, <b>pachymetry</b>. <b>Schirmer</b>: &lt;5 mm in 5 min with anaesthetic = abnormal. <b>Rose bengal</b> stains devitalised cells. <b>Jones I</b> (dye recovered from nose?) → <b>Jones II</b> (irrigation). <b>Hertel</b>: normal 12–20 mm, eyes within 2 mm.",
+   "points": [
+    "Jones II: dye recovered after irrigation = partial obstruction; clear fluid = pump failure; no flow = total occlusion.",
+    "Exophthalmos = increased orbital content (haemorrhage, tumour, inflammation, oedema)."
+   ],
+   "hook": "<b>Schirmer under 5 mm = dry.</b>",
+   "cards": [
+    {
+     "q": "Normal Hertel measurement and acceptable asymmetry?",
+     "a": "12–20 mm, with ≤2 mm difference between eyes."
+    }
+   ]
+  },
+  {
+   "id": "v02-11",
+   "group": "Imaging",
+   "title": "Fundus photos, FA, ICGA, OCT & FAF",
+   "minutes": 4,
+   "tldr": "<b>Stereo disc photos</b>: track glaucomatous cupping. <b>Fluorescein</b>: blue excitation, green emission; normal vessels don't leak; RPE masks choroidal flush; macula darker. Leakage (late cloud) = permeability; non-perfusion; haemorrhage blocks. <b>ICGA</b>: big, protein-bound, sees through RPE/blood/exudate → <b>occult CNV</b>, choroid. <b>OCT</b>: 840 nm light echo, ~5 µm resolution, non-contact, undilated OK — macular oedema, RNFL/disc (glaucoma, often before field loss); OCT-A without dye; anterior segment OCT 1300 nm. <b>FAF</b>: lipofuscin map.",
+   "points": [
+    "Ultrasound resolution ~100 µm vs OCT ~5 µm."
+   ],
+   "hook": "<b>OCT is ultrasound with light.</b>",
+   "cards": [
+    {
+     "q": "Why is ICGA better than fluorescein for imaging the choroid?",
+     "a": "ICG is fully protein-bound (stays in choroidal vessels) and its infrared fluorescence passes through RPE, blood and exudate."
+    }
+   ]
+  },
+  {
+   "id": "v02-12",
+   "group": "Imaging",
+   "title": "Ultrasound, CT/MRI & electrophysiology",
+   "minutes": 4,
+   "tldr": "<b>A-scan</b>: 1-D spikes — <b>axial length for IOL power</b>, tumour size. <b>B-scan</b>: 2-D image through opaque media (RD, tumour: solid/cystic/calcified). Doppler: flow reversal in carotid occlusion or CCF. <b>CT</b>: bone, orbit, <b>foreign body</b>, calcium (retinoblastoma). <b>MRI</b>: intracranial/optic nerve disease; <b>contraindicated with metallic FB</b>. <b>Flash ERG</b>: whole-retina (RP, dystrophies, siderosis) — not focal/macular or ganglion disease. <b>Pattern ERG</b>: P50 macula, N95 ganglion cells. <b>EOG</b>: Arden ratio; <b>Best disease = abnormal EOG, normal ERG</b>. <b>VER</b>: whole pathway; demyelination prolongs latency; objective acuity in infants/malingerers. Dark adaptation: rod disease.",
+   "points": [],
+   "table": {
+    "head": [
+     "Test",
+     "Measures",
+     "Classic use"
+    ],
+    "rows": [
+     [
+      "Flash ERG",
+      "Whole retina",
+      "RP, toxic retinopathy"
+     ],
+     [
+      "Pattern ERG",
+      "Macula (P50), ganglion (N95)",
+      "Macula vs nerve"
+     ],
+     [
+      "EOG",
+      "RPE/photoreceptors (Arden)",
+      "Best disease"
+     ],
+     [
+      "VER",
+      "Retina → cortex",
+      "Demyelination, malingering"
+     ]
+    ]
+   },
+   "hook": "<b>Best disease: EOG bad, ERG fine.</b>",
+   "cards": [
+    {
+     "q": "Which imaging modality is contraindicated with a suspected metallic intraocular foreign body?",
+     "a": "MRI."
+    },
+    {
+     "q": "Effect of demyelination on the VER?",
+     "a": "Prolonged latency (reduced conduction speed)."
+    }
+   ]
+  }
+ ]
+}
