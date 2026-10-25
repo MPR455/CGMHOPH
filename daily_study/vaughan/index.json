@@ -1129,7 +1129,33 @@
    "num": 20,
    "title": "Causes & Prevention of Vision Loss",
    "file": "ch20.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v20-01",
+     "title": "Defining & counting vision loss",
+     "group": "Causes"
+    },
+    {
+     "id": "v20-02",
+     "title": "Global causes: cataract, refraction, glaucoma, trachoma, oncho",
+     "group": "Causes"
+    },
+    {
+     "id": "v20-03",
+     "title": "Preventing injury & infection",
+     "group": "Prevention"
+    },
+    {
+     "id": "v20-04",
+     "title": "Clinic infection control, congenital & genetic prevention",
+     "group": "Prevention"
+    },
+    {
+     "id": "v20-05",
+     "title": "Systemic disease, drugs & screening",
+     "group": "Prevention"
+    }
+   ]
   },
   {
    "id": "ch21",

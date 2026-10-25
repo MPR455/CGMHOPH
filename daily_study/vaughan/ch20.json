@@ -1,0 +1,134 @@
+{
+ "id": "ch20",
+ "num": 20,
+ "title": "Causes & Prevention of Vision Loss",
+ "chunks": [
+  {
+   "id": "v20-01",
+   "group": "Causes",
+   "title": "Defining & counting vision loss",
+   "minutes": 3,
+   "tldr": "ICD-10 (WHO) uses <b>presenting</b> VA in the better eye: moderate impairment (&lt;6/18), severe (&lt;6/60), <b>blindness &lt;3/60</b> or field ≤10° radius (US 'legal blindness' = best-corrected ≤20/200 or field ≤20° diameter). Presenting VA counts uncorrected refractive error, nearly doubling prevalence. Driving: most US states ~20/40 binocular; Canada 6/15 + 120° horizontal field, no central diplopia — doctors must ensure unfit patients don't drive. WHO 2010: <b>285 million</b> with vision loss, <b>39 million blind</b>; 82% over 50, ~90% in low/middle-income countries, <b>64% women</b>; 19 million children (1.4 million irreversibly blind).",
+   "table": {
+    "head": [
+     "Cause",
+     "Vision loss",
+     "Blindness"
+    ],
+    "rows": [
+     [
+      "Refractive error",
+      "42%",
+      "3%"
+     ],
+     [
+      "Cataract",
+      "33%",
+      "51%"
+     ],
+     [
+      "Glaucoma",
+      "2%",
+      "8%"
+     ],
+     [
+      "AMD",
+      "1%",
+      "5%"
+     ],
+     [
+      "Corneal opacity",
+      "1%",
+      "4%"
+     ],
+     [
+      "Trachoma",
+      "1%",
+      "3%"
+     ],
+     [
+      "Diabetic retinopathy",
+      "1%",
+      "1%"
+     ]
+    ]
+   },
+   "points": [],
+   "hook": "<b>World's #1 cause of vision loss = uncorrected refractive error; #1 cause of blindness = cataract.</b>",
+   "cards": [
+    {
+     "q": "Leading cause of global blindness?",
+     "a": "Cataract (~51%)."
+    },
+    {
+     "q": "WHO definition of blindness (VA)?",
+     "a": "Presenting VA worse than 3/60 in the better eye (or visual field &lt;10° from fixation)."
+    }
+   ]
+  },
+  {
+   "id": "v20-02",
+   "group": "Causes",
+   "title": "Global causes: cataract, refraction, glaucoma, trachoma, oncho",
+   "minutes": 3,
+   "tldr": "Developing world: cataract (backlog ~10 million; UV, dehydration from diarrhoea implicated; 10-year delay would halve surgery need), uncorrected refraction (12 million children), glaucoma (open-angle in West Africa; angle closure in China/SE Asia; ~3 million blind; adherence problem), <b>trachoma</b> (blind fell 6 → 1.8 million; <b>azithromycin + SAFE</b>), <b>onchocerciasis</b> (black fly, Volta basin; <b>mass ivermectin</b> success), leprosy (triple therapy), <b>xerophthalmia</b> (5 million kids/yr; vit A supplementation), corneal ulcers. Developed world: <b>AMD, diabetic retinopathy, glaucoma</b>, plus HSV, RD, vascular, inherited. <b>Children</b>: retinal disease incl. <b>ROP</b> 29%, corneal scarring (vit A, measles/rubella, infection) 21%, congenital 14%; developed — ROP, cataract, retinal dystrophy, CVI, malformations, nystagmus.",
+   "points": [],
+   "hook": "<b>Poor countries go blind from cataract and scars; rich countries from AMD, diabetes and glaucoma.</b>",
+   "cards": [
+    {
+     "q": "Main public-health tool against onchocerciasis?",
+     "a": "Mass ivermectin distribution (plus vector control)."
+    }
+   ]
+  },
+  {
+   "id": "v20-03",
+   "group": "Prevention",
+   "title": "Preventing injury & infection",
+   "minutes": 3,
+   "tldr": "~55 million eye injuries/yr; 57% under 30. Work: grinding/drilling projectiles, sharp tools, welding UV, chemicals → <b>guards, goggles (for bystanders too)</b>, training; DIY risk. Ask about injury in any unexplained inflammation (occult IOFB). Radiation workers → cataract. Sport (squash, baseball, hockey), corks, BB guns, fireworks → polycarbonate eyewear. UV: pterygium, lid cancers, cataract; <b>eclipse/solar retinopathy</b> — use filters; operating microscope phototoxicity. <b>Infection</b>: organisms that cross intact epithelium — <b>Neisseria, Corynebacterium diphtheriae, Haemophilus aegyptius, Listeria, Shigella, Acanthamoeba</b>. Protect exposed/anaesthetic eyes (CPA surgery, coma). Surgery: <b>povidone-iodine</b> pre-op, <b>intracameral cefuroxime</b>; lid/sac infections treated first. <b>CL</b>: overnight wear ×5 risk; no swimming/hot tubs; spare specs. Developing world: <b>antibiotic ointment after agricultural abrasions</b> prevents ulcers. Neonates: maternal treatment, erythromycin prophylaxis.",
+   "points": [],
+   "hook": "<b>Five-percent iodine before every intraocular operation.</b>",
+   "cards": [
+    {
+     "q": "Name organisms that can penetrate intact corneal epithelium.",
+     "a": "Neisseria gonorrhoeae/meningitidis, Corynebacterium diphtheriae, Haemophilus aegyptius, Listeria, Shigella (also Acanthamoeba)."
+    },
+    {
+     "q": "How much does overnight contact lens wear raise keratitis risk?",
+     "a": "About fivefold versus daily wear."
+    }
+   ]
+  },
+  {
+   "id": "v20-04",
+   "group": "Prevention",
+   "title": "Clinic infection control, congenital & genetic prevention",
+   "minutes": 3,
+   "tldr": "EKC outbreaks spread by hands, tonometers, contaminated drops; separate waiting/exam areas cut hospital-acquired adenovirus from 48% to 3%. <b>Pseudomonas</b> once contaminated fluorescein. Tonometer tips: <b>70% isopropyl alcohol wipe, dry fully</b> (kills HBV, HIV, HSV, adenovirus) — not prions (hypochlorite or <b>disposable tips</b>); non-contact tonometer aerosols. Hand hygiene every patient. <b>Congenital</b>: rubella vaccine; no CMV vaccine (ganciclovir); <b>toxo</b> — cook meat, wash produce, gloves for cat litter/gardening; antenatal treatment from 15 wk reduces transmission (40% risk if primary infection in pregnancy). <b>HSV-2</b>: 50% transmission with active genital lesions at delivery → caesarean; avoid scalp electrodes; disseminated neonatal HSV 75% mortality. <b>Genetic</b>: counselling, prenatal diagnosis; RB at-risk kids examined 6-monthly to 5–6 y unless gene-negative.",
+   "points": [],
+   "hook": "<b>Alcohol wipe the tonometer — and let it dry, or you'll make an abrasion.</b>",
+   "cards": [
+    {
+     "q": "How should applanation tonometer tips be disinfected between patients?",
+     "a": "Wipe with 70% isopropyl alcohol and allow to dry completely (or use disposable tips); prions need hypochlorite."
+    }
+   ]
+  },
+  {
+   "id": "v20-05",
+   "group": "Prevention",
+   "title": "Systemic disease, drugs & screening",
+   "minutes": 3,
+   "tldr": "<b>Diabetic retinopathy</b>: leading cause of blindness age 20–64 in developed world; ~40% of diabetics; type 1 none for ≥3 y, type 2 up to 20% at diagnosis → annual dilated photos, more in pregnancy; control glucose/BP/lipids/renal. <b>Vitamin A deficiency</b>: poverty, malabsorption, bowel/bariatric surgery, faddy diets, alcoholism → night blindness, Bitot spots; IM vitamin A, prophylaxis. Drugs: topical steroids (infection, HSV, glaucoma, PSC), never home anaesthetic drops, preservative toxicity; systemic drugs (SJS, angle closure, optic neuropathy, retinopathy) → drug history. <b>Screening</b>: POAG (0.1% at 40s → 5% &gt;75; OHT 10× commoner) — annual IOP + disc in first-degree relatives, everyone &gt;50 every 3–5 y; <b>DR</b>; <b>ROP</b> (&lt;30 wk, ≤1500 g, oxygen); <b>amblyopia</b> (neonatal red reflex, cover test, refer strabismus &gt;3 months, preschool VA, photoscreening); <b>JIA</b> uveitis 6-monthly (oligoarticular ANA+). Urgent-symptom conditions: keratitis, AACG, wet AMD, RD, GCA.",
+   "points": [],
+   "hook": "<b>Screen what is silent but treatable: glaucoma, diabetes, ROP, amblyopia, JIA.</b>",
+   "cards": [
+    {
+     "q": "Which eye conditions merit routine screening because they are silent but treatable?",
+     "a": "Primary open-angle glaucoma, diabetic retinopathy, ROP, amblyopia, JIA-associated uveitis."
+    }
+   ]
+  }
+ ]
+}
