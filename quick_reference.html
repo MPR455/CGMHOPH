@@ -73,10 +73,13 @@ body.theme-dark .gene-pill,body.theme-black .gene-pill{background:#0d2740;color:
 .teach-compact{display:grid;gap:7px}
 .teach-section{border-left:3px solid var(--acc);padding:3px 8px}
 .teach-section>strong{display:block;margin-bottom:1px;color:var(--acc)}
-.teach-additional{margin-top:3px;border:1px solid var(--border);border-radius:7px;padding:8px 10px;background:var(--soft)}
+.teach-additional{margin-top:3px;border:1px solid var(--line);border-radius:7px;padding:8px 10px;background:var(--chip)}
 .teach-additional-title{font-weight:800;color:var(--acc);margin-bottom:5px}
 .teach-additional-row{margin-top:4px}
 .teach-additional-row>strong{display:inline;margin-right:5px}
+.teach-sources{font-size:.88em;color:var(--sub);padding:8px;border-top:1px solid var(--line);line-height:1.6}
+.teach-sources a{color:var(--acc);overflow-wrap:anywhere}
+.teach-reviewed{display:block;margin-top:3px}
 .teach-card-source{display:block;margin-top:3px;padding:5px 7px;border-radius:5px;background:color-mix(in srgb,var(--chip) 72%,transparent);font-size:.9em;line-height:1.42}
 .opd-seg{background:#f2f7fc;border-left:4px solid var(--acc);border-radius:6px;padding:10px 14px;margin:0 0 8px;font-size:var(--opd-fs);line-height:1.62}
 .opd-seg b{color:var(--acc2)}
@@ -260,6 +263,7 @@ header{flex-wrap:wrap;row-gap:6px}
   <div id="opd-main"></div>
 </div>
 <p class="small" style="text-align:center;margin:16px 0;color:var(--sub)">&copy; 2026 Victor Lin. All rights reserved. &nbsp;&middot;&nbsp; <a href="/CGMHOPH/index.html">&larr; Back to CGMH OPH</a></p>
+<script src="assets/quick_reference_teaching_zh.js"></script>
 <script>
 function setTheme(t){document.body.classList.remove("theme-macaroon","theme-dark","theme-black");if(t==="macaroon"||t==="dark"||t==="black")document.body.classList.add("theme-"+t);try{localStorage.setItem("cgmh_theme",t);}catch(e){}markDots();}
 function markDots(){var m=document.body.className.match(/theme-(\w+)/);var cur=m?m[1]:"default";document.querySelectorAll(".theme-dot").forEach(function(d){d.classList.toggle("sel",d.dataset.theme===cur);});}
@@ -395,27 +399,6 @@ var PROC_LAY_ZH = {
   "Ocular Surface and Adnexal Tumour Procedures": ["診斷並清除結膜、角膜或眼瞼腫瘤，確認邊界與是否已擴散到淋巴結。", "手術刀／剪、冷凍探頭、酒精、局部化療眼藥、活檢容器；前哨淋巴結手術使用放射性示蹤劑。", "依腫瘤採不接觸切除、角膜表層移除、地圖式多點活檢或前哨淋巴結定位切除，並送病理檢查。", "需依病理結果決定追加冷凍、局部化療、放射線或更大範圍手術，並長期監測復發。", "感染、疤痕、角膜幹細胞缺乏、淚道狹窄、腫瘤復發／播散及淋巴結手術相關神經傷害。"]
 };
 
-var PROC_LAY_ZH_OVERRIDES = {
-  "p17-nd-yag-yttrium-aluminium-garnet-laser-la": ["用途：用雷射打開白內障手術後變混濁的後囊膜，改善再次出現的霧視與眩光。", "材料／器械：Nd:YAG 雷射、接觸鏡與局部麻醉眼藥。", "怎麼做：坐在雷射機前，醫師在混濁後囊中央製作透明開口；通常數分鐘完成，沒有切口。"],
-  "p18-anterior-vitrectomy-for-posterior-capsul": ["用途：清除白內障手術中跑到前房或傷口的玻璃體，避免拉扯視網膜及其他併發症。", "材料／器械：前段玻璃體切除器、灌流液與視情況使用的人工水晶體。", "怎麼做：經小切口以高速切割吸除脫出的玻璃體，穩定眼內結構後再決定人工水晶體放置方式。"],
-  "p30-corneal-biopsy": ["用途：取得少量角膜組織，診斷一般檢查無法確定的感染、發炎、沉積或腫瘤。", "材料／器械：細刀／環鑽、鑷子與分開標示的微生物及病理檢體瓶。", "怎麼做：局部麻醉後切取病灶邊緣少量組織並立即送驗，必要時放置保護性隱形眼鏡。"],
-  "p37-therapeutic-epithelial-debridement": ["用途：移除鬆脫或不健康的角膜表皮，讓新的表皮較平整地長回，常用於反覆角膜糜爛。", "材料／器械：棉棒、鈍刮匙或細刀，以及保護性隱形眼鏡。", "怎麼做：點麻醉藥後輕輕移除病變表皮，清潔表面並戴上保護鏡片等待癒合。"],
-  "p39-corneal-suture-removal-after-keratoplast": ["用途：拆除角膜移植後鬆脫、感染或造成散光的縫線。", "材料／器械：裂隙燈、細針／剪與鑷子、局部麻醉及抗生素眼藥。", "怎麼做：在顯微鏡下切斷並抽出指定縫線；通常一次只處理部分縫線，以免角膜形狀突然改變。"],
-  "p88-silicone-oil-removal-sor": ["用途：視網膜穩定後取出先前為固定視網膜而放入的矽油。", "材料／器械：微創玻璃體手術套管、灌流與抽吸設備；有時同時處理白內障或殘留膜。", "怎麼做：經眼白小切口抽出矽油並補充眼內液體或氣體，再確認視網膜仍貼附。"],
-  "p94-drainage-of-suprachoroidal-haemorrhage": ["用途：引流眼球壁與脈絡膜之間的大量積血，減輕眼內擠壓、疼痛與結構損害。", "材料／器械：鞏膜切開器械、套管、灌流液；必要時合併玻璃體切除。", "怎麼做：等待血塊適度液化後，在影像定位處做眼白開口讓積血緩慢流出，同時維持眼球壓力。"],
-  "p95-diagnostic-vitrectomy-and-vitreous-biops": ["用途：抽取玻璃體檢體，找出不明原因眼內發炎、感染或淋巴瘤。", "材料／器械：玻璃體切除器與分裝給微生物、細胞學、流式細胞及分子檢驗的無菌檢體容器。", "怎麼做：經眼白微小切口先取得未稀釋玻璃體，再完成必要的玻璃體切除並立即送驗。"],
-  "p112-corneal-foreign-body-removal-and-rust-ri": ["用途：取出卡在角膜的金屬或其他異物，並清除可能殘留的鐵鏽環。", "材料／器械：局部麻醉、細針／異物鏟或低速鏽環鑽。", "怎麼做：在裂隙燈下輕輕挑出異物與適量鏽環，再點抗生素並安排角膜癒合追蹤。"],
-  "p113-chalazion-incision-and-curettage": ["用途：清除長期不退或較大的霰粒腫。", "材料／器械：局部麻醉、霰粒腫夾、小刀與刮匙。", "怎麼做：固定並翻開眼皮，通常從內側切開後刮除發炎內容物，不一定需要皮膚縫線。"],
-  "p114-punctal-plug-insertion-and-punctal-canal": ["用途：堵住淚液排出口，讓自然眼淚在眼表停留更久，改善嚴重乾眼。", "材料／器械：可溶性或矽膠淚點塞；永久處置可使用熱燒灼。", "怎麼做：局部麻醉後把小塞子放入淚點，或以燒灼封閉淚點／淚小管。"],
-  "p115-botulinum-toxin-injection-for-blepharosp": ["用途：暫時放鬆過度收縮的肌肉，治療眼瞼痙攣、半面痙攣或部分斜視。", "材料／器械：botulinum toxin、細針與依體重／肌肉位置計算的劑量。", "怎麼做：在門診把少量藥物注射到指定眼周或眼外肌；效果通常在數天內出現並維持數月。"],
-  "p118-intravitreal-injection-as-an-office-proc": ["用途：把藥物直接送入玻璃體，治療黃斑水腫、新生血管、眼內感染或發炎。", "材料／器械：抗 VEGF、類固醇、抗生素等指定藥物，無菌細針、眼瞼撐開器與優碘消毒。", "怎麼做：消毒並點麻醉後，從眼白安全位置以極細針注入藥物；實際注射只需數秒。"],
-  "p146-lateral-canthotomy-and-cantholysis-for-o": ["用途：眼窩內急性出血造成高壓、威脅視神經時，立即減壓搶救視力。", "材料／器械：局部麻醉、止血鉗與剪刀；這是不能等待影像檢查的急救處置。", "怎麼做：切開外眼角並放鬆外眼角韌帶，讓眼球後方壓力迅速下降，之後再處理出血原因。"],
-  "p156-enucleation-with-orbital-implant": ["用途：因眼內惡性腫瘤、無法修復的嚴重外傷或疼痛盲眼而移除整個眼球。", "材料／器械：眼窩植入物、包覆材料、義眼模具與細縫線。", "怎麼做：保留眼外肌與眼窩組織，移除完整眼球後放入植入物補充體積，癒合後再配製義眼。"],
-  "p157-evisceration-with-orbital-implant-with-o": ["用途：移除失去功能且疼痛或嚴重感染眼睛的眼內內容，同時保留眼白外殼；不適用於疑似眼內腫瘤。", "材料／器械：眼窩植入物、義眼模具與細縫線。", "怎麼做：移除角膜及眼內內容後清潔眼白殼，放入植入物並關閉傷口，日後配製義眼。"],
-  "p180-fine-needle-aspiration-biopsy-fnab-of-uv": ["用途：用少量腫瘤細胞確認診斷並進行染色體／基因風險分析。", "材料／器械：極細針、導引與多個專用檢體容器。", "怎麼做：從眼白或眼內路徑將細針送入腫瘤抽取少量細胞，立即分送病理與基因檢驗。"],
-  "p189-sentinel-lymph-node-biopsy-slnb-for-conj": ["用途：檢查眼表或眼瞼腫瘤最先流向的淋巴結是否已有微小轉移。", "材料／器械：放射性示蹤劑、淋巴攝影、手持伽瑪探測器；有時加用染劑。", "怎麼做：先在腫瘤周圍注射示蹤劑定位前哨淋巴結，再由頭頸外科切除並做精細病理檢查。"]
-};
-
 function procedureLaserZh(p){
   var id = p.id;
   var text = [p.t,p.method].join(" ").toLowerCase();
@@ -435,14 +418,15 @@ function procedureLaserZh(p){
   if(/^p52-/.test(id)) add("**若需重新製作或轉換角膜瓣，飛秒雷射以光裂解（photodisruption）建立組織平面；若改做表層 PRK，準分子雷射以光消融（photoablation）塑形。**許多角膜瓣併發症只需掀瓣、沖洗或重新定位，不一定使用雷射。");
   if(/^p40-|^p47-/.test(id)) add("**若使用飛秒雷射：光裂解／光致破壞（photodisruption）**製作弧形角膜切口；**若使用準分子雷射：光消融（photoablation）**重新塑形角膜。並非每位病人都會使用雷射。");
   if(/^p69-/.test(id)) add("**810 nm 二極體內視鏡雷射 — 光熱凝固（photothermal coagulation）：**在眼內直接看到並縮小部分睫狀突，減少房水製造。");
-  if(/^p70-|^p104-/.test(id)) add("**連續波 810 nm 二極體雷射 — 光熱凝固／睫狀體消融（photothermal coagulation/cycloablation）：**由眼球外把熱能傳到睫狀體，降低房水製造。");
+  if(/^p70-/.test(id)) add("**連續波 810 nm 二極體雷射 — 光熱凝固／睫狀體消融（photothermal coagulation/cycloablation）：**由眼球外把熱能傳到睫狀體，降低房水製造。");
+  if(/^p104-/.test(id)) add("**經鞏膜二極體雷射：**可採連續波光熱凝固，或帶冷卻間隔的微脈衝方式；實際作用與組織反應依方案及能量不同。");
   if(/^p71-/.test(id)) add("**微脈衝 810 nm 二極體雷射 — 分段式光熱作用（micropulse photothermal effect）：**把能量分成短脈衝並留冷卻時間，以調節睫狀體功能並減少連續熱破壞。");
   if(/^p98-/.test(id)) add("**氬雷射 — 光熱凝固（photothermal coagulation）：**讓周邊虹膜基質收縮、把虹膜拉離房角；不是在虹膜打穿孔洞。");
   if(/^p99-/.test(id)) add("**SLT 選擇性雷射（532 nm、倍頻 Q-switched Nd:YAG）— 選擇性光熱作用（selective photothermolysis）：**主要作用於含色素的小樑網細胞，促進房水排出，周圍組織的熱傷害較少。");
   if(/^p100-/.test(id)) add("**氬雷射（ALT）— 光熱凝固（photothermal coagulation）：**在小樑網形成微小熱凝固點，藉組織收縮與重塑改善房水排出。");
   if(/^p102-/.test(id)) add("**氬雷射 — 光熱切斷（photothermal suture lysis）：**加熱並切斷青光眼手術縫線，增加濾過量；能量作用在縫線而不是用來消融眼組織。");
-  if(/^p53-/.test(id)) add("**若術後做雷射拆線：氬雷射的光熱作用（photothermal suture lysis）**經特殊接觸鏡切斷鞏膜瓣縫線以增加引流；trabeculectomy 主手術本身不是雷射手術。");
-  if(/^p54-/.test(id)) add("**若術後做 Nd:YAG goniopuncture：光裂解／光致破壞（photodisruption）**在保留的薄膜製作微小開口以增加房水流出；deep sclerectomy 主手術本身不是雷射手術。");
+  if(/^p53-/.test(id)) add("**若術後做雷射拆線：氬雷射的光熱作用（photothermal suture lysis）**經特殊接觸鏡切斷鞏膜瓣縫線以增加引流；小樑切除主手術本身不是雷射手術。");
+  if(/^p54-/.test(id)) add("**若術後做 Nd:YAG 雷射穿孔：光裂解／光致破壞（photodisruption）**在保留的薄膜製作微小開口以增加房水流出；深層鞏膜切除主手術本身不是雷射手術。");
   if(/^p60-/.test(id)) add("**若管口被虹膜阻塞：氬雷射以光熱收縮／凝固（photothermal contraction），或 Nd:YAG 以光裂解（photodisruption）移開／切開阻塞組織；**並非每次引流管修正都需要雷射。");
   if(/^p77-/.test(id)) add("**若以氬雷射關閉睫狀體脫離裂隙：光熱凝固（photothermal coagulation）**在裂隙處造成可控制的發炎與黏著；其他低眼壓原因可能完全不用雷射。");
   if(/^p105-|^p106-|^p108-/.test(id)) add("**視網膜雷射 — 光熱凝固（retinal photocoagulation）：**色素吸收光能後轉成熱，在視網膜形成可控制的凝固點，用來降低缺血驅動、封閉滲漏或在裂孔周圍形成黏著疤痕。");
@@ -453,86 +437,20 @@ function procedureLaserZh(p){
   if((/^p117-|^p130-/.test(id)) && /laser/.test(text)) add("**若使用氬雷射治療倒睫：光熱凝固（photothermal follicle destruction）**把熱能送到睫毛毛囊以減少再生；並非每種倒睫處置都使用雷射。");
   if(/^p15-|^p16-/.test(id)) add("**只有發現周邊視網膜裂孔時才使用眼內雷射：光熱凝固（photocoagulation）**在裂孔周圍形成黏著疤痕；主要的人工水晶體／水晶體手術本身不是雷射手術。");
   if(/^p114-/.test(id)) add("**若選擇氬雷射封閉淚點：光熱凝固（photothermal coagulation）**使淚點組織收縮結疤；再通率較高，因此常改用塞子或熱燒灼。");
-  if(/^p124-/.test(id)) add("**若合併眼皮皮膚雷射 resurfacing：CO2 雷射以光熱汽化／消融為主，Er:YAG 雷射以較精細的光消融為主；**下眼瞼整形的脂肪與肌肉步驟仍是傳統手術。");
+  if(/^p124-/.test(id)) add("**若合併眼皮皮膚雷射表面重整：CO2 與 Er:YAG 均主要利用組織水分吸收能量後汽化去除組織，熱擴散程度依波長與脈衝參數不同；**下眼瞼脂肪與肌肉的處理仍是手術步驟。");
   if(/^p149-/.test(id)) add("**若採雷射輔助鼻內淚囊鼻腔吻合：常用二極體雷射的光熱消融（photothermal ablation）**在鼻腔側建立開口；機械式內視鏡 DCR 則以器械與骨鑽造口。");
   if(/^p176-/.test(id)) add("**斑塊放射治療本身使用游離輻射，不是雷射；**若另加經瞳孔熱療，則以 810 nm 二極體雷射產生光熱加溫（photothermal hyperthermia）治療腫瘤頂端。");
   if(/^p179-/.test(id)) add("**若合併視網膜雷射固定：眼內雷射以光熱凝固（photocoagulation）**在切除區或裂孔周圍形成黏著；腫瘤切除本身是顯微手術，不是雷射消融。");
-  if(/^p180-/.test(id)) add("**若以雷射處理針道：視網膜／脈絡膜雷射以光熱凝固（photocoagulation）**封閉進針處並降低腫瘤細胞播散疑慮；細針抽吸本身不用雷射。");
   if((/^p183-/.test(id)) && /laser/.test(text)) add("**視網膜母細胞瘤局部雷射 — 光熱凝固／熱療（photothermal coagulation/thermotherapy）：**加熱腫瘤及其供血組織，常與化學治療合併，而不是以光裂解切除腫瘤。");
 
   return notes.join("<br>");
 }
 
 function buildProcedureLayZh(p){
-  var profile = PROC_LAY_ZH[p.h3] || ["以較容易理解的方式說明此項眼科處置的目的。", "實際材料與器械依病情及醫院設備而定。", "醫師會先完成檢查與麻醉，再依標準步驟進行。", "術後需按時用藥並依約回診。", "所有處置都有感染、出血、發炎及效果不如預期的可能。"];
-  var override = PROC_LAY_ZH_OVERRIDES[p.id];
-  var exactIndication = procedureTeachingComplete(p.indication,1);
-  var exactMethod = procedureTeachingComplete(p.method,2);
-  var exactPostop = procedureTeachingComplete(p.postop,2);
-  var exactOutcome = procedureTeachingComplete(p.prognosis,1);
-  var purpose = (override ? override[0].replace(/^用途：/, "") : profile[0]) +
-    '<span class="teach-card-source"><strong>此卡片的專屬適應症：</strong>' + exactIndication + '</span>';
-  var materials = (override ? override[1].replace(/^材料／器械：/, "") : profile[1]) +
-    '<span class="teach-card-source"><strong>此術式實際使用的器械／材料線索：</strong>' + procedureTeachingComplete(p.method,1) + '</span>';
-  var method = (override ? override[2].replace(/^怎麼做：/, "") : profile[2]) +
-    '<span class="teach-card-source"><strong>此卡片的實際步驟摘要：</strong>' + exactMethod + '</span>';
-  var laser = procedureLaserZh(p);
-  return '<div class="teach-compact">' +
-    '<div class="teach-section"><strong>本卡片處置</strong>' + procedureTeachingPlain(p.t,1000) + '</div>' +
-    '<div class="teach-section"><strong>這是做什麼的？</strong>' + purpose + '</div>' +
-    '<div class="teach-section"><strong>會用到什麼材料或器械？</strong>' + materials + '</div>' +
-    '<div class="teach-section"><strong>大致怎麼進行？</strong>' + method + '</div>' +
-    (laser ? '<div class="teach-section"><strong>若使用雷射：種類與作用方式</strong>' + laser + '</div>' : '') +
-    '<div class="teach-section"><strong>術後與恢復</strong>' + profile[3] + '<span class="teach-card-source"><strong>此術式的術後重點：</strong>' + exactPostop + '</span></div>' +
-    '<div class="teach-section"><strong>主要風險</strong>' + profile[4] + '<span class="teach-card-source"><strong>此術式的特定結果／風險：</strong>' + exactOutcome + '</span></div>' +
-    buildProcedureAdditionalKnowledge(p) +
-    '</div>';
+  var profile = PROC_LAY_ZH[p.h3];
+  if(!profile) throw new Error('Missing procedure teaching profile: ' + p.id);
+  return QUICK_REFERENCE_TEACHING_ZH.procedureHtml(p, profile, procedureLaserZh(p));
 }
-
-function procedureTeachingPlain(value,maxLength){
-  var text = String(value || '')
-    .replace(/<br\s*\/?>/gi,' ')
-    .replace(/<[^>]*>/g,' ')
-    .replace(/\*\*/g,'')
-    .replace(/\\"/g,'"')
-    .replace(/\s+/g,' ')
-    .trim()
-    .replace(/^Pearls?:\s*/i,'');
-  if(text.length > maxLength){
-    var clipped = text.slice(0,maxLength);
-    var sentenceEnd = Math.max(clipped.lastIndexOf('. '),clipped.lastIndexOf('; '));
-    text = (sentenceEnd > Math.floor(maxLength * 0.55) ? clipped.slice(0,sentenceEnd + 1) : clipped.replace(/\s+\S*$/,'') + '…');
-  }
-  return text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-}
-
-function procedureTeachingComplete(value,maxSegments){
-  var segments = String(value || '').split(/<br\s*\/?>/i).map(function(segment){
-    return segment.replace(/<[^>]*>/g,' ').replace(/\*\*/g,'').replace(/\\"/g,'"').replace(/\s+/g,' ').trim().replace(/^Pearls?:\s*/i,'');
-  }).filter(Boolean);
-  var text = segments.slice(0,Math.max(1,maxSegments || 1)).join(' ');
-  return text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-}
-
-function procedureTeachingKeyPoint(value){
-  var complete = procedureTeachingComplete(value,1);
-  var sentences = complete.split(/(?<=[.!?])\s+/).filter(Boolean);
-  return sentences.slice(0,2).join(' ');
-}
-
-function buildProcedureAdditionalKnowledge(p){
-  var pearl = procedureTeachingKeyPoint(p.notes || p.prognosis);
-  var indicationAnswer = procedureTeachingComplete(p.indication,1);
-  var principleAnswer = procedureTeachingKeyPoint(p.notes || p.method);
-  var title = procedureTeachingPlain(p.t,220);
-  return '<div class="teach-additional">' +
-    '<div class="teach-additional-title">Additional knowledge</div>' +
-    '<div class="teach-additional-row"><strong>High-yield knowledge:</strong>' + pearl + '</div>' +
-    '<div class="teach-additional-row"><strong>HY question:</strong>What are the principal indication and one key technical or clinical point for ' + title + '?</div>' +
-    '<div class="teach-additional-row"><strong>Solution:</strong><br><strong>Indication:</strong>' + indicationAnswer + '<br><strong>Key point:</strong>' + principleAnswer + '</div>' +
-    '</div>';
-}
-PROCS.forEach(function(p){ p.layzh = buildProcedureLayZh(p); });
 
 /* Expanded IRD catalogue. These compact records are promoted into the main
    DATA array so Disease, Symptom, search and IRD views stay synchronised. */
@@ -1030,8 +948,11 @@ function procedureMetaHtml(p){
     '<span class="proc-pill ' + p.useStatus.cls + '">' + p.useStatus.label + '</span>';
 }
 
-var TABS = [["criteria","Criteria"],["treatment","Treatment"],["prognosis","Prognosis"],["prevalence","Prevalence"],["teach","Teaching"]];
-var PROC_TABS = [["indication","Indication"],["method","Method"],["preop","Pre-op"],["postop","Post-op"],["contra","Contraindications"],["prognosis","Prognosis"],["notes","Notes"],["layzh","Teaching"]];
+QUICK_REFERENCE_TEACHING_ZH.applyClinicalUpdates(DATA, PROCS);
+DATA.forEach(function(d){ d.teach = QUICK_REFERENCE_TEACHING_ZH.diseaseHtml(d); });
+PROCS.forEach(function(p){ p.layzh = buildProcedureLayZh(p); });
+var TABS = [["criteria","Criteria"],["treatment","Treatment"],["prognosis","Prognosis"],["prevalence","Prevalence"],["teach","教學"]];
+var PROC_TABS = [["indication","Indication"],["method","Method"],["preop","Pre-op"],["postop","Post-op"],["contra","Contraindications"],["prognosis","Prognosis"],["notes","Notes"],["layzh","教學"]];
 var PREV_LABELS = ["", "Rare", "Uncommon", "Occasional", "Common", "Very common"];
 function prevSort(a,b){
   var ta = a.prevTier||3, tb = b.prevTier||3;
@@ -1390,13 +1311,17 @@ function renderItemGrid(cat){
   return html;
 }
 
-var DIS_SEARCH_FIELDS = [["Symptom","symptom"],["Criteria","criteria"],["Treatment","treatment"],["Prognosis","prognosis"],["Prevalence","prevalence"],["Teaching","teach"]];
-var PROC_SEARCH_FIELDS = [["Indication","indication"],["Method","method"],["Pre-op","preop"],["Post-op","postop"],["Contraindications","contra"],["Prognosis","prognosis"],["Notes","notes"]];
+var DIS_SEARCH_FIELDS = [["Symptom","symptom"],["Criteria","criteria"],["Treatment","treatment"],["Prognosis","prognosis"],["Prevalence","prevalence"],["教學","teach"]];
+var PROC_SEARCH_FIELDS = [["Indication","indication"],["Method","method"],["Pre-op","preop"],["Post-op","postop"],["Contraindications","contra"],["Prognosis","prognosis"],["Notes","notes"],["教學","layzh"]];
+
+function searchableText(value){
+  return String(value || '').replace(/&lt;br&gt;|<br\s*\/?>/gi, ' ').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+}
 
 function findMatchSnippet(item, ql, fieldDefs){
   for(var i=0;i<fieldDefs.length;i++){
     var label = fieldDefs[i][0], key = fieldDefs[i][1];
-    var val = (item[key] || '').replace(/&lt;br&gt;|<br>/g, ' ').replace(/<\/?(?:b|strong|em|i)>/gi, '');
+    var val = searchableText(item[key]);
     var low = val.toLowerCase();
     var idx = low.indexOf(ql);
     if(idx >= 0){
@@ -1416,7 +1341,7 @@ function matchesQuery(item, ql, fieldDefs){
     if(geneticText.indexOf(ql) >= 0) return true;
   }
   for(var i=0;i<fieldDefs.length;i++){
-    var val = item[fieldDefs[i][1]] || '';
+    var val = searchableText(item[fieldDefs[i][1]]);
     if(val.toLowerCase().indexOf(ql) >= 0) return true;
   }
   return false;
@@ -1463,7 +1388,9 @@ function renderDiseaseDetail(d){
     var content = d[t[0]];
     var activeCls = (t[0] === curTab) ? ' active' : '';
     var opts = (t[0] === 'treatment') ? {links: d.treatmentLinks} : undefined;
-    return '<div class="dtab-panel' + activeCls + '">' + formatContent(content, opts) + '</div>';
+    var teachingAttrs = t[0] === 'teach' ? ' lang="zh-Hant"' : '';
+    var panelContent = t[0] === 'teach' ? formatTeachingContent(content) : formatContent(content, opts);
+    return '<div class="dtab-panel' + activeCls + '"' + teachingAttrs + '>' + panelContent + '</div>';
   }).join('');
   return '<div class="card">' +
     '<div class="dtitle">' + d.t + '</div>' +
@@ -1485,7 +1412,8 @@ function renderProcDetail(p){
     var activeCls = (t[0] === curTab) ? ' active' : '';
     var teachingCls = (t[0] === 'layzh') ? ' proc-teaching-panel' : '';
     var panelContent = (t[0] === 'layzh') ? formatTeachingContent(content) : formatContent(content);
-    return '<div class="dtab-panel' + teachingCls + activeCls + '">' + panelContent + '</div>';
+    var teachingAttrs = t[0] === 'layzh' ? ' lang="zh-Hant"' : '';
+    return '<div class="dtab-panel' + teachingCls + activeCls + '"' + teachingAttrs + '>' + panelContent + '</div>';
   }).join('');
   var usedForHtml = '';
   if(p.usedFor && p.usedFor.length){
