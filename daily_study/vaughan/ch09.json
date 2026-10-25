@@ -1,0 +1,71 @@
+{
+ "id": "ch09",
+ "num": 9,
+ "title": "Vitreous",
+ "chunks": [
+  {
+   "id": "v09-01",
+   "group": "Vitreous",
+   "title": "Vitreous anatomy & how to look at it",
+   "minutes": 2,
+   "tldr": "Collagen fibre scaffold + <b>hyaluronan</b> gel. Cortex touches lens anteriorly and retina posteriorly. Strongest attachment: <b>vitreous base</b> (straddles ora, never detaches); also disc, macula, vessels. Age/myopia/blood/inflammation → collagen cross-linking and contraction → <b>PVD</b>; <b>saccade-driven dynamic traction</b> tears the retina at sticky spots. Cell invasion (RPE, glia) → static traction RD without tears. Examine with <b>narrow off-axis slit + contact lens</b>, indirect ophthalmoscope; opaque media → <b>B-scan</b>; macula interface → <b>OCT</b>.",
+   "points": [
+    "'Vitreous bands' are usually just the posterior hyaloid; true bands follow penetrating trauma or Toxocara."
+   ],
+   "hook": "<b>The gel never lets go of its base — that's where tears happen.</b>",
+   "cards": [
+    {
+     "q": "Where is vitreous attachment strongest?",
+     "a": "The vitreous base (spanning the ora serrata) — it never separates."
+    }
+   ]
+  },
+  {
+   "id": "v09-02",
+   "group": "Vitreous",
+   "title": "Floaters, flashes & PVD",
+   "minutes": 2,
+   "tldr": "PVD in ≥70% of people; causes most floaters (rings = <b>Weiss ring</b> from disc attachment) and <b>photopsia</b> (mechanical retinal traction, worse on eye movement). <b>Any new floaters or flashes → dilated indirect exam of the periphery within days</b>. Vitreous haemorrhage → find the source (torn vessel, PDR, RVO, sickle, leukaemia); cells → think lymphoma, sarcoid, Candida. <b>Asteroid hyalosis</b>: golden calcium-lipid spheres, no visual effect, no diabetes link. Vitrectomy/YAG for floaters rarely justified.",
+   "points": [
+    "Migraine aura: bilateral jagged scintillating scotoma (may have no headache) — not photopsia."
+   ],
+   "hook": "<b>New floaters + flashes = look for a tear before you reassure.</b>",
+   "cards": [
+    {
+     "q": "Is asteroid hyalosis associated with diabetes?",
+     "a": "No — this old teaching has been disproved; it rarely affects vision."
+    }
+   ]
+  },
+  {
+   "id": "v09-03",
+   "group": "Vitreous",
+   "title": "Vitreomacular disease",
+   "minutes": 3,
+   "tldr": "OCT is the key test. <b>Epimacular membrane</b>: glial cells grow through a defect after PVD → contraction, metamorphopsia; Rx <b>vitrectomy + membrane peel ± ILM peel</b>. <b>Vitreomacular traction</b>: taut adherent hyaloid lifts the fovea; vitrectomy. <b>Macular hole</b>: OCT decides partial vs full thickness; <b>full-thickness → vitrectomy + ILM peel + SF6 gas</b> (~90% good result); partial → observe unless symptomatic/cystic.",
+   "points": [],
+   "hook": "<b>Wavy lines (metamorphopsia) → OCT the macula.</b>",
+   "cards": [
+    {
+     "q": "Standard surgery for full-thickness macular hole?",
+     "a": "Pars plana vitrectomy, ILM peel and gas tamponade (SF6) ± posturing."
+    }
+   ]
+  },
+  {
+   "id": "v09-04",
+   "group": "Vitreous",
+   "title": "Retinal breaks, diabetes, post-cataract & trauma vitrectomy",
+   "minutes": 3,
+   "tldr": "<b>Horseshoe (flap) tears</b> under traction → RRD; round atrophic holes in lattice and operculated holes rarely do. <b>PDR haemorrhage</b>: PRP ± anti-VEGF; dense bleed → B-scan to rule out <b>tractional RD</b>; vitrectomy with segmentation/delamination + endolaser. <b>Post-cataract</b>: RRD 0.5–1% (more after capsule rupture/vitreous loss); <b>dropped nucleus</b> → vitrectomy + fragmentation; endophthalmitis → tap/inject ± vitrectomy. <b>Trauma</b>: mobile vitreous with attached retina → observe; vitrectomy ~7–10 days after repair; <b>metallic/organic IOFB → prompt removal</b>.",
+   "points": [],
+   "hook": "<b>Iron or copper in the eye must come out; glass may stay.</b>",
+   "cards": [
+    {
+     "q": "Which retinal breaks are highest risk for RD?",
+     "a": "Symptomatic flap (horseshoe) tears with persistent vitreous traction."
+    }
+   ]
+  }
+ ]
+}

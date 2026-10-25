@@ -521,7 +521,28 @@
    "num": 9,
    "title": "Vitreous",
    "file": "ch09.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v09-01",
+     "title": "Vitreous anatomy & how to look at it",
+     "group": "Vitreous"
+    },
+    {
+     "id": "v09-02",
+     "title": "Floaters, flashes & PVD",
+     "group": "Vitreous"
+    },
+    {
+     "id": "v09-03",
+     "title": "Vitreomacular disease",
+     "group": "Vitreous"
+    },
+    {
+     "id": "v09-04",
+     "title": "Retinal breaks, diabetes, post-cataract & trauma vitrectomy",
+     "group": "Vitreous"
+    }
+   ]
   },
   {
    "id": "ch10",
