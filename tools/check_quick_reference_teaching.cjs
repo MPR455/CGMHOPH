@@ -24,17 +24,28 @@ for (const match of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/g)) {
   if (src) Object.assign(context, context.window);
 }
 const {DATA, PROCS, QUICK_REFERENCE_TEACHING_ZH: copy} = context;
+const education = context.QUICK_REFERENCE_PATIENT_EDUCATION_ZH;
 assert.equal(DATA.length, 475);
 assert.equal(PROCS.length, 192);
+assert.equal(Object.keys(education.diseases).length, DATA.length);
+assert.equal(Object.keys(education.procedures).length, PROCS.length);
 const plain = value => value.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ');
 for (const [records, kind, field] of [[DATA, 'dis', 'teach'], [PROCS, 'proc', 'layzh']]) {
   assert.equal(new Set(records.map(record => record.id)).size, records.length);
   for (const record of records) {
     const panel = record[field];
     assert.match(panel, /lang="zh-Hant"/, record.id);
-    assert.match(panel, /提問：/);
-    assert.match(panel, /解答：/);
-    assert.match(panel, /延伸閱讀/);
+    const labels = kind === 'dis'
+      ? ['成因與機轉', '治療方向與選擇', '療程與恢復時間', '癒合與預後', '後續照護', '再發與再次治療']
+      : ['治療流程', '療程與恢復時間', '癒合與預後', '術後照護與注意事項', '後續追蹤與再次治療'];
+    for (const label of labels) {
+      assert.ok(panel.includes('<strong>' + label + '</strong>'), record.id + ': missing patient counselling section ' + label);
+    }
+    if (kind === 'proc') {
+      assert.match(panel, /<ol class="teach-steps">/);
+      for (const label of ['治療前：', '進行時：', '完成後：']) assert.ok(panel.includes('<b>' + label + '</b>'), record.id + ': missing flow step ' + label);
+    }
+    assert.doesNotMatch(panel, /延伸閱讀|教學整理|提問：|解答：|重點複習|teach-sources|teach-reviewed|teach-additional/, record.id);
     assert.doesNotMatch(panel, /undefined|\[object Object\]|Additional knowledge|High-yield|HY question|Solution:|Explain:|Home plan:/, record.id);
     // Technical names may remain, but English prose must not leak from source tabs.
     assert.doesNotMatch(plain(panel), /(?:\b[A-Za-z][A-Za-z'-]*\b[ ,]+){7,}/, record.id);
@@ -43,6 +54,12 @@ for (const [records, kind, field] of [[DATA, 'dis', 'teach'], [PROCS, 'proc', 'l
     assert.match(rendered, /data-tab="(?:teach|layzh)">教學<\/button>/);
     assert.ok(rendered.includes(panel.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')), record.id);
     for (const source of copy.sourceKeys(record)) assert.ok(copy.sources[source], record.id + ': missing source');
+    const id = record.id.startsWith('ird-') ? record.id : record.id.split('-')[0];
+    const patientCopy = education[kind === 'dis' ? 'diseases' : 'procedures'][id];
+    const fields = ['options', 'course', 'outlook', 'recurrence'].concat(kind === 'proc' ? ['preparation', 'immediateCare', 'aftercare'] : []);
+    for (const field of fields) {
+      assert.ok(typeof patientCopy[field] === 'string' && patientCopy[field].trim().length > 10, record.id + ': incomplete ' + field);
+    }
   }
 }
 const disease = prefix => DATA.find(d => d.id.startsWith(prefix + '-'));
@@ -64,6 +81,13 @@ assert.match(proc('p189').method, /not automatic completion/);
 assert.match(proc('p190').method, /non-diagnostic, not negative/);
 assert.doesNotMatch(disease('d37').t, /primary angle closure/);
 assert.doesNotMatch(disease('d291').t, /anterior chamber/);
+assert.match(education.diseases.d18.course, /1–3 天/);
+assert.match(education.diseases.d68.course, /終生/);
+assert.match(education.diseases.d35.course, /1–3 週/);
+assert.match(education.diseases.d199.recurrence, /持續存在/);
+assert.match(education.procedures.p19.course, /一年以上/);
+assert.match(education.procedures.p96.course, /感染.*急症/);
+assert.notEqual(education.diseases.d18.course, education.diseases.d68.course, 'acute injury and chronic disease need different course counselling');
 assert.match(DATA.find(d => d.id === 'ird-mactel2').treatment, /ENCELTO/);
 assert.ok(DATA.filter(d => d.id.startsWith('ird-')).every(d => d.prevNum === null), 'no fabricated common prevalence estimate');
 assert.ok(context.matchesQuery(disease('d157'), '眼部中風', context.DIS_SEARCH_FIELDS), 'Chinese disease search');

@@ -73,14 +73,11 @@ body.theme-dark .gene-pill,body.theme-black .gene-pill{background:#0d2740;color:
 .teach-compact{display:grid;gap:7px}
 .teach-section{border-left:3px solid var(--acc);padding:3px 8px}
 .teach-section>strong{display:block;margin-bottom:1px;color:var(--acc)}
-.teach-additional{margin-top:3px;border:1px solid var(--line);border-radius:7px;padding:8px 10px;background:var(--chip)}
-.teach-additional-title{font-weight:800;color:var(--acc);margin-bottom:5px}
-.teach-additional-row{margin-top:4px}
-.teach-additional-row>strong{display:inline;margin-right:5px}
-.teach-sources{font-size:.88em;color:var(--sub);padding:8px;border-top:1px solid var(--line);line-height:1.6}
-.teach-sources a{color:var(--acc);overflow-wrap:anywhere}
-.teach-reviewed{display:block;margin-top:3px}
-.teach-card-source{display:block;margin-top:3px;padding:5px 7px;border-radius:5px;background:color-mix(in srgb,var(--chip) 72%,transparent);font-size:.9em;line-height:1.42}
+.teach-steps{margin:3px 0 0;padding-left:1.4em}
+.teach-steps li+li{margin-top:5px}
+.teach-steps b{color:var(--acc2)}
+.teach-options summary{cursor:pointer;font-weight:700;color:var(--acc)}
+.teach-options p{margin:5px 0 0}
 .opd-seg{background:#f2f7fc;border-left:4px solid var(--acc);border-radius:6px;padding:10px 14px;margin:0 0 8px;font-size:var(--opd-fs);line-height:1.62}
 .opd-seg b{color:var(--acc2)}
 body.theme-dark .opd-seg{background:#0d1a24;border-color:var(--acc)}
@@ -263,6 +260,7 @@ header{flex-wrap:wrap;row-gap:6px}
   <div id="opd-main"></div>
 </div>
 <p class="small" style="text-align:center;margin:16px 0;color:var(--sub)">&copy; 2026 Victor Lin. All rights reserved. &nbsp;&middot;&nbsp; <a href="/CGMHOPH/index.html">&larr; Back to CGMH OPH</a></p>
+<script src="assets/quick_reference_patient_education_zh.js"></script>
 <script src="assets/quick_reference_teaching_zh.js"></script>
 <script>
 function setTheme(t){document.body.classList.remove("theme-macaroon","theme-dark","theme-black");if(t==="macaroon"||t==="dark"||t==="black")document.body.classList.add("theme-"+t);try{localStorage.setItem("cgmh_theme",t);}catch(e){}markDots();}
@@ -449,7 +447,7 @@ function procedureLaserZh(p){
 function buildProcedureLayZh(p){
   var profile = PROC_LAY_ZH[p.h3];
   if(!profile) throw new Error('Missing procedure teaching profile: ' + p.id);
-  return QUICK_REFERENCE_TEACHING_ZH.procedureHtml(p, profile, procedureLaserZh(p));
+  return QUICK_REFERENCE_TEACHING_ZH.procedureHtml(p, profile);
 }
 
 /* Expanded IRD catalogue. These compact records are promoted into the main

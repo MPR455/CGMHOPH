@@ -941,12 +941,6 @@ p191|微創小切口角膜透鏡取出術|飛秒雷射在角膜基質內製作�
       'Paediatric Ophthalmology & Strabismus': 'strabismus', 'Strabismus Surgery': 'strabismus', 'Refractive Surgery': 'refractive'};
     return [categories[record.h2] || 'overview'];
   }
-  function sourceHtml(record) {
-    return '<div class="teach-sources"><strong>延伸閱讀</strong> ' + sourceKeys(record).map(function (id) {
-      var source = sources[id];
-      return '<a href="' + escape(source[1]) + '" target="_blank" rel="noopener noreferrer">' + escape(source[0]) + '</a>';
-    }).join('；') + '<span class="teach-reviewed">教學整理：2026-10-25</span></div>';
-  }
   function teachingRecord(records, record) {
     var value = records[key(record)];
     if (!value) throw new Error('Missing Traditional Chinese teaching: ' + record.id);
@@ -954,34 +948,42 @@ p191|微創小切口角膜透鏡取出術|飛秒雷射在角膜基質內製作�
   }
   function diseaseHtml(record) {
     var value = teachingRecord(diseases, record);
+    var education = teachingRecord(root.QUICK_REFERENCE_PATIENT_EDUCATION_ZH.diseases, record);
     var warning = '突然視力下降、黑幕或新視野缺損應立即就醫；新發明顯眼痛、畏光或紅眼加劇應當日評估。原有慢性病不能用來解釋所有新症狀。';
-    if (/^d(75|156|157|243|250|357|367|368|369|372)-/.test(record.id)) warning = '這是可能威脅視力或生命的急症；依本卡照護重點立即處理並求醫，不等待例行回診。';
-    return '<div class="teach-compact" lang="zh-Hant">' + section('疾病說明', value.title + '：' + value.explanation) +
-      section('照護與追蹤', value.action) + section('何時需要立即就醫？', warning) +
-      '<div class="teach-additional"><div class="teach-additional-title">重點複習</div>' +
-      '<div class="teach-additional-row"><strong>提問：</strong>這項疾病最重要的照護提醒是什麼？</div>' +
-      '<div class="teach-additional-row"><strong>解答：</strong>' + escape(value.action) + '</div></div>' + sourceHtml(record) + '</div>';
+    var urgent = /^d(75|156|157|243|250|357|367|368|369|372)-/.test(record.id);
+    if (urgent) warning = '這是可能威脅視力或生命的急症；依下方照護重點立即處理並求醫，不等待例行回診。';
+    return '<div class="teach-compact" lang="zh-Hant">' + section('成因與機轉', value.title + '：' + value.explanation + (education.mechanism ? ' ' + education.mechanism : '')) +
+      (urgent ? section('現在需要做什麼？', value.action) : '') +
+      section('治療方向與選擇', education.options) +
+      section('療程與恢復時間', education.course) +
+      section('癒合與預後', education.outlook) +
+      section('後續照護', value.action) +
+      section('再發與再次治療', education.recurrence) +
+      section('何時需要提早或立即回診？', warning) + '</div>';
   }
-  function procedureHtml(record, profile, laser) {
+  function procedureHtml(record, profile) {
     var value = teachingRecord(procedures, record), id = key(record);
-    var care = profile[3], risk = profile[4];
+    var education = teachingRecord(root.QUICK_REFERENCE_PATIENT_EDUCATION_ZH.procedures, record);
+    var risk = profile[4];
     if (id === 'p96' || id === 'p118') {
-      care = '依藥物與病情安排眼壓及眼底追蹤；一般不常規使用預防性抗生素。若疼痛、紅眼、畏光加重或視力下降，當日急查眼內炎。';
       risk = '眼內炎、眼壓升高、出血、視網膜裂孔或剝離；類固醇另有白內障與眼壓風險。';
     }
     if (id === 'p155') {
-      care = '追蹤傷口、眼表及病理結果，再依診斷安排全身分期或其他治療。';
       risk = '出血、感染、乾眼、眼窩疤痕與周圍神經損傷；風險依採樣範圍而異。';
     }
     var gas = /^(p21|p22|p78|p80|p81|p83|p84|p85|p86|p88|p89|p90|p91|p92|p93)$/.test(id)
       ? section('若眼內留有空氣或氣體', '依裂孔或移植物位置維持醫師指定姿勢；在醫師確認氣泡完全吸收前，禁止搭飛機、前往高海拔或使用笑氣（一氧化二氮）麻醉。接受任何急救、牙科或麻醉前都要主動告知。') : '';
-    return '<div class="teach-compact" lang="zh-Hant">' + section('本項處置', value.title) +
-      section('目的與進行方式', value.explanation) + section('使用的材料與器械', materials[id]) +
-      (laser ? '<div class="teach-section"><strong>光能治療與雷射作用（如適用）</strong>' + laser + '</div>' : '') +
-      section('術後與恢復', care) + section('主要風險', risk) + gas + section('這項處置的重點', value.action) +
-      '<div class="teach-additional"><div class="teach-additional-title">補充知識與重點複習</div>' +
-      '<div class="teach-additional-row"><strong>提問：</strong>接受這項處置前後，最需要注意什麼？</div>' +
-      '<div class="teach-additional-row"><strong>解答：</strong>' + escape(value.action) + '</div></div>' + sourceHtml(record) + '</div>';
+    var flow = '<div class="teach-section"><strong>治療流程</strong><ol class="teach-steps">' +
+      '<li><b>治療前：</b>' + escape(education.preparation) + '</li>' +
+      '<li><b>進行時：</b>' + escape(value.explanation) + '</li>' +
+      '<li><b>完成後：</b>' + escape(education.immediateCare) + '</li></ol></div>';
+    return '<div class="teach-compact" lang="zh-Hant">' + section('本項處置', value.title) + flow +
+      section('療程與恢復時間', education.course) +
+      section('癒合與預後', education.outlook) +
+      section('術後照護與注意事項', education.aftercare) + gas +
+      section('後續追蹤與再次治療', education.recurrence) +
+      section('主要風險', risk) +
+      '<details class="teach-section teach-options"><summary>治療選擇與替代方式</summary><p>' + escape(education.options) + '</p></details></div>';
   }
   function applyClinicalUpdates(data, procs) {
     function disease(id) { return data.find(function (record) { return key(record) === id; }); }
