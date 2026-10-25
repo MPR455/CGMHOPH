@@ -1,41 +1,46 @@
 # Daily Study data
 
+```
+daily_study/
+  books.json          list of books (id, title, short, dir)
+  kanski/             one folder per book: index.json, chNN.json, build_index.py
+  wills/
+  local/              gitignored, never pushed: figures kept only on this computer
+    wills/            folder name = book id
+      images.json     which bite gets which picture
+      img/            the picture files
+      tools/          scripts used to extract and match them
+    kanski/           (when added)
+```
+
 `daily_study.html` loads this data in steps, so adding books or pictures doesn't slow the first load:
 
 1. `books.json`: the list of books, loaded at page open.
-2. `<book dir>/index.json`: chapter and bite titles, loaded when that book is selected.
-3. `<book dir>/chNN.json`: a chapter's bites, loaded when one of its bites is opened.
-4. Images: loaded only when their bite is open and they scroll into view (`loading="lazy"`).
+2. `<book>/index.json`: chapter and bite titles, loaded when that book is selected.
+3. `<book>/chNN.json`: a chapter's bites, loaded when one of its bites is opened.
+4. Images: loaded only when their bite is open and they scroll into view.
 
 ## Adding a book
 
-Add an entry to `books.json` (`id`, `title`, `short`, `dir`). Put its `index.json` and chapter files in `dir`.
+Make `daily_study/<id>/` with its `index.json` and chapter files, and add `{"id": "<id>", ..., "dir": "daily_study/<id>/"}` to `books.json`. Bite ids should be unique across books (e.g. `w08-02` for Wills).
 
-## Adding pictures to a bite
+## Public pictures in a bite
 
-Give the bite an `images` array:
+Only for images you have the right to publish. Give the bite an `images` array; `src` is relative to the book's folder:
 
 ```json
-"images": [
-  {"src": "img/ch08/rop-stage3.jpg", "caption": "Stage 3 ROP: ridge with <b>neovascularisation</b>", "alt": "ROP ridge", "credit": "CGMH"}
-]
+"images": [{"src": "img/ch08/rop.jpg", "caption": "Stage 3 ROP", "alt": "ROP ridge", "credit": "CGMH"}]
 ```
-
-- `src` is relative to the book's folder (e.g. `daily_study/wills/img/ch08/...`). A full `https://` URL also works.
-- Keep files small: JPG or WebP, about 1200 px wide, roughly 100–200 KB.
-- `caption` may contain `<b>`; `alt` and `credit` are plain text.
-- Pictures show below the numbered points; tap one to enlarge it.
-- Only use images you have the right to publish (own photos, open-licence images with credit).
 
 ## Local-only figures (never published)
 
-`daily_study/<book>/local/` is gitignored. If `local/images.json` exists, the page adds its pictures to the bites:
+`daily_study/local/<id>/images.json` maps bite ids to pictures; `src` is relative to `local/<id>/`:
 
 ```json
-{"w08-02": [{"src": "local/img/fig-8.2.1.jpg", "caption": "Fig 8.2.1: ROP stage 1", "credit": "Wills Eye Manual 8e"}]}
+{"w08-02": [{"src": "img/fig-8.2.1.jpg", "caption": "Fig 8.2.1: ROP stage 1", "credit": "Wills Eye Manual 8e"}]}
 ```
 
-On the public site that file is missing, so those bites simply show no extra pictures. Two ways to see them:
+The live site has no `local/` folder, so other visitors see no figures. Two ways to see them yourself:
 
-- **On the live site:** click **🖼 Import local figures** in the sidebar and pick a book's folder (e.g. `daily_study/wills`), the `daily_study` folder, or the repo. The page copies each `local/images.json` and the pictures it lists into that browser's IndexedDB. Nothing is uploaded. Repeat once per browser or computer, or after clearing site data, or after the figures change.
-- **Without importing:** run `study_local.bat`, which serves the repo at http://localhost:8777. The Wills figures were extracted with `daily_study/wills/local/tools/extract_figures.py` and `match_figures.py`.
+- **On the live site:** click **🖼 Import local figures** in the sidebar and pick the `daily_study/local` folder. That imports every book at once; picking one book's folder, e.g. `local/wills`, also works. The page copies each `images.json` and its pictures into that browser's IndexedDB. Nothing is uploaded. Re-import once per browser or computer, after clearing site data, or after the figures change.
+- **Without importing:** run `study_local.bat`, which serves the repo at http://localhost:8777.

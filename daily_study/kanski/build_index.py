@@ -1,6 +1,6 @@
-"""Rebuild daily_study/index.json from the chNN.json files.
+"""Rebuild daily_study/kanski/index.json from the chNN.json files.
 
-Run after adding or editing a chapter file:  python daily_study/build_index.py
+Run after adding or editing a chapter file:  python daily_study/kanski/build_index.py
 """
 import datetime
 import json
