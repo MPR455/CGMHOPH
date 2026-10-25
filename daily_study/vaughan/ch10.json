@@ -1,0 +1,374 @@
+{
+ "id": "ch10",
+ "num": 10,
+ "title": "Retina",
+ "chunks": [
+  {
+   "id": "v10-01",
+   "group": "Retina basics",
+   "title": "Photoreceptors, RPE & imaging",
+   "minutes": 2,
+   "tldr": "<b>Cones</b> packed at the fovea (1:1 cone→ganglion cell; acuity, colour, photopic). <b>Rods</b> in periphery (night, motion; many rods per ganglion cell). <b>Rhodopsin</b> = scotopsin + 11-cis retinal (vit A); light → all-trans; peak ~<b>500 nm</b>. Cones peak 430 (blue), 540 (green), 575 (red). <b>RPE</b>: eats outer segments, recycles vitamin A, absorbs scatter, outer blood-retinal barrier; inner layer of Bruch's; barely regenerates. Imaging: photos, FFA, OCT, ICGA, FAF, OCT-A, wide-field.",
+   "points": [
+    "Dark-adapted sensitivity shifts from 500 nm (rods) to ~560 nm (cones) in light (Purkinje shift)."
+   ],
+   "hook": "<b>Cones for Colour & Centre; Rods for Rim & dim.</b>",
+   "cards": [
+    {
+     "q": "Peak absorption of rhodopsin?",
+     "a": "About 500 nm (blue-green)."
+    }
+   ]
+  },
+  {
+   "id": "v10-02",
+   "group": "AMD",
+   "title": "AMD: risk, staging & dry disease",
+   "minutes": 3,
+   "tldr": "Leading cause of irreversible blindness in the elderly (developed world). Risk: age, white, female, <b>smoking</b>, genes <b>CFH (1q)</b> and <b>ARMS2/HTRA1 (10q)</b>. Beckman staging: small drusen &lt;63 µm = normal ageing; medium 63–125 µm = <b>early</b>; large &gt;125 µm or pigment change = <b>intermediate</b>; <b>late</b> = neovascular and/or <b>geographic atrophy</b>. <b>Reticular pseudodrusen</b> (subretinal drusenoid deposits; best on infrared/FAF) = high-risk. GA: sharp RPE/photoreceptor loss with visible choroidal vessels; monitor with <b>FAF</b> (dark).",
+   "points": [
+    "<b>AREDS</b> for intermediate AMD or late AMD in one eye: vit C 500 mg, vit E 400 IU, zinc 80 mg, copper 2 mg (+ lutein/zeaxanthin instead of β-carotene in smokers).",
+    "Stop smoking; exercise lowers risk."
+   ],
+   "hook": "<b>Big drusen (&gt;125 µm, a vein's width at the disc) = intermediate AMD → AREDS.</b>",
+   "cards": [
+    {
+     "q": "Two major AMD susceptibility genes?",
+     "a": "Complement factor H (CFH, 1q31) and ARMS2/HTRA1 (10q26)."
+    },
+    {
+     "q": "Why avoid beta-carotene in smokers taking AREDS?",
+     "a": "Increased lung cancer risk."
+    }
+   ]
+  },
+  {
+   "id": "v10-03",
+   "group": "AMD",
+   "title": "Neovascular AMD & anti-VEGF",
+   "minutes": 3,
+   "tldr": "CNV through Bruch's: <b>type 1 (occult, sub-RPE, fibrovascular PED)</b>, <b>type 2 (classic, subretinal; lacy early leak on FFA)</b>, <b>type 3 = RAP</b> (retinal angiomatous proliferation; intraretinal haemorrhage, retinochoroidal anastomosis). Symptoms: sudden distortion/central blur. OCT shows intra/subretinal fluid; FFA most sensitive for CNV. Rx: <b>intravitreal anti-VEGF</b> — <b>bevacizumab</b> (off-label, full antibody), <b>ranibizumab</b> (Fab), <b>aflibercept</b> (VEGFR1/2 trap, also PlGF, longer-acting, 8-weekly non-inferior). Load 3 monthly → treat-and-extend/PRN.",
+   "points": [
+    "Bevacizumab = ranibizumab in efficacy and safety (CATT/IVAN).",
+    "Anti-VEGF beats laser, PDT and surgery."
+   ],
+   "hook": "<b>Sudden wavy lines in an older person = wet AMD → inject within 2 weeks.</b>",
+   "cards": [
+    {
+     "q": "FFA pattern of classic CNV?",
+     "a": "Early well-defined lacy hyperfluorescence with late leakage."
+    },
+    {
+     "q": "What does aflibercept bind besides VEGF-A?",
+     "a": "VEGF-B and placental growth factor (PlGF)."
+    }
+   ]
+  },
+  {
+   "id": "v10-04",
+   "group": "AMD",
+   "title": "Myopic macular degeneration",
+   "minutes": 2,
+   "tldr": "Pathological myopia (&gt;6 D, long axial length; common in East Asia). Signs: <b>peripapillary atrophy</b>, tilted disc, <b>posterior staphyloma</b>, <b>lacquer cracks</b> (Bruch's breaks; can bleed without CNV), <b>Förster-Fuchs spot</b> (pigmented scar of CNV). Myopic CNV in 5–10% → anti-VEGF (few injections needed). Also <b>myopic foveoschisis</b> (surgery if progressing), macular hole RD, peripheral lattice/RD.",
+   "points": [],
+   "hook": "<b>Long eye → stretched Bruch's → cracks, holes and new vessels.</b>",
+   "cards": [
+    {
+     "q": "What is a Förster-Fuchs spot?",
+     "a": "A raised pigmented macular lesion in pathological myopia from regressed CNV with RPE proliferation."
+    }
+   ]
+  },
+  {
+   "id": "v10-05",
+   "group": "Diabetic retinopathy",
+   "title": "DR: pathology, screening & grading",
+   "minutes": 3,
+   "tldr": "Hyperglycaemia → pericyte loss, BM thickening → <b>microaneurysms</b>, leakage, capillary closure → ischaemia → <b>VEGF</b>. Screen: type 1 within 3–5 y of diagnosis, <b>type 2 at diagnosis</b>, then yearly; <b>pregnancy</b> each trimester. Grades: mild NPDR (MAs only), moderate, <b>severe NPDR = 4-2-1 rule</b> (haemorrhages in 4 quadrants, <b>venous beading in 2</b>, <b>IRMA in 1</b>). <b>PDR</b>: NVD/NVE; high-risk = NVD &gt;⅓ DD, any NVD + VH, NVE &gt;½ DD + VH. <b>CSME</b> (ETDRS): thickening within 500 µm of centre, exudate within 500 µm with thickening, or ≥1 DA thickening within 1 DD; now OCT 'centre-involving'.",
+   "points": [
+    "Flame haem = superficial NFL (arteriolar); dot-blot = deep; CWS = NFL infarct.",
+    "Type 1 → more PDR; type 2 → more macular oedema.",
+    "Wide-field imaging finds peripheral lesions that predict progression."
+   ],
+   "hook": "<b>4-2-1: haems in 4, beading in 2, IRMA in 1 = severe NPDR.</b>",
+   "cards": [
+    {
+     "q": "The 4-2-1 rule defines what?",
+     "a": "Severe NPDR: intraretinal haemorrhages in 4 quadrants, venous beading in 2, or IRMA in 1."
+    },
+    {
+     "q": "High-risk PDR characteristics (DRS)?",
+     "a": "NVD ≥⅓ disc area, any NVD with VH, or NVE ≥½ disc area with VH."
+    }
+   ]
+  },
+  {
+   "id": "v10-06",
+   "group": "Diabetic retinopathy",
+   "title": "Treating diabetic retinopathy",
+   "minutes": 3,
+   "tldr": "Control <b>glucose, BP, lipids</b>. <b>Centre-involving DMO</b>: anti-VEGF (load 3–6 monthly, then PRN/treat-and-extend) — gains maintained &gt;5 y; laser for non-centre CSME or as adjunct. <b>PDR</b>: <b>PRP</b> (thousands of burns outside the arcades) halves severe visual loss; anti-VEGF alternative/adjunct. Severe NPDR: PRP if poor follow-up/control (esp. type 2). <b>Vitrectomy</b>: non-clearing VH, <b>tractional RD threatening the macula</b>, combined TRD/RRD; pre-op anti-VEGF ~2 wk reduces bleeding.",
+   "points": [
+    "Ischaemic maculopathy (enlarged FAZ) = poor prognosis, doesn't respond well.",
+    "Neovascular glaucoma = advanced disease."
+   ],
+   "hook": "<b>New vessels → laser the periphery; swollen centre → inject.</b>",
+   "cards": [
+    {
+     "q": "Indications for vitrectomy in PDR?",
+     "a": "Non-clearing vitreous haemorrhage, macula-threatening tractional RD, combined tractional-rhegmatogenous RD."
+    }
+   ]
+  },
+  {
+   "id": "v10-07",
+   "group": "Vascular occlusion",
+   "title": "Retinal vein occlusion",
+   "minutes": 3,
+   "tldr": "Sudden painless blur, &gt;50 y; risks HTN, diabetes, lipids, <b>glaucoma/raised IOP</b>, hyperviscosity. <b>CRVO</b>: haemorrhages in all 4 quadrants ('blood and thunder'), tortuous veins, disc swelling. <b>BRVO</b>: sector at an <b>AV crossing</b> (usually superotemporal). <b>Macular oedema</b> → <b>anti-VEGF</b> (ranibizumab/aflibercept) or <b>dexamethasone implant (Ozurdex)</b>; grid laser helps BRVO not CRVO. <b>Ischaemic CRVO</b> (~⅓; VA &lt;6/60, RAPD, &gt;10 DA non-perfusion) → half get <b>NVI/NVA → neovascular glaucoma</b> ('90-day glaucoma') → PRP ± anti-VEGF. BRVO with &gt;5 DA ischaemia → NVE in 40% → sector PRP.",
+   "points": [],
+   "hook": "<b>Ischaemic CRVO: watch the iris for 3 months (100-day glaucoma).</b>",
+   "cards": [
+    {
+     "q": "Features of ischaemic CRVO?",
+     "a": "VA worse than 6/60, RAPD, &gt;10 disc areas of capillary non-perfusion on FFA, many CWS/haemorrhages."
+    },
+    {
+     "q": "Why check IOP in vein occlusion?",
+     "a": "Glaucoma/ocular hypertension is a risk factor (and NVG a complication)."
+    }
+   ]
+  },
+  {
+   "id": "v10-08",
+   "group": "Vascular occlusion",
+   "title": "Retinal artery occlusion & macroaneurysm",
+   "minutes": 3,
+   "tldr": "<b>CRAO</b>: sudden profound painless loss (CF–LP in 90%), RAPD at once, pale swollen retina with <b>cherry-red spot</b>, box-carring; ~25% have a <b>cilioretinal artery</b> sparing the centre. Fades in 4–6 wk to pale disc. <b>Emergency: exclude GCA</b> (ESR/CRP, steroids) and treat as stroke (carotid Doppler, echo, risk factors). Attempts: ocular massage, paracentesis, IOP-lowering, vasodilators, thrombolysis — little proven. <b>BRAO</b>: field defect, often embolic (Hollenhorst). <b>Macroaneurysm</b>: elderly hypertensive women, superotemporal arteriole, <b>'hourglass' multilevel haemorrhage</b>; usually self-thromboses; laser if exudate threatens fovea.",
+   "points": [
+    "OCT: acute inner retinal hyperreflective thickening → later inner retinal thinning."
+   ],
+   "hook": "<b>Old patient + CRAO = ask about jaw claudication before anything else.</b>",
+   "cards": [
+    {
+     "q": "Why does CRAO cause a cherry-red spot?",
+     "a": "The thin foveola lets the normal choroid show through, surrounded by opaque infarcted inner retina."
+    },
+    {
+     "q": "Classic haemorrhage pattern of retinal arterial macroaneurysm?",
+     "a": "Multilevel ('hourglass') — sub-ILM/preretinal, intraretinal and subretinal at once."
+    }
+   ]
+  },
+  {
+   "id": "v10-09",
+   "group": "Retinal detachment",
+   "title": "Rhegmatogenous RD",
+   "minutes": 3,
+   "tldr": "Break + traction + liquid vitreous. <b>Horseshoe tear</b> (PVD traction; superotemporal), <b>round hole</b> (lattice), <b>dialysis</b> (blunt trauma, inferotemporal, young). Risks: <b>myopia, lattice, cataract surgery, trauma</b>, fellow-eye RD. Symptoms: flashes, floaters, <b>curtain</b>. Surgery: <b>pneumatic retinopexy</b> (single small superior break, no PVR), <b>scleral buckle</b> (92–94%; young phakic, dialysis), <b>vitrectomy</b> (superior/posterior/multiple breaks, VH, PVR, pseudophakic) with gas/oil. <b>Macula-on = urgent</b>; macula-off: delay ≤1 week doesn't worsen outcome.",
+   "points": [
+    "Buckle complications: refractive change (myopic shift), diplopia, extrusion.",
+    "Vitrectomy with gas/oil accelerates cataract; posturing needed."
+   ],
+   "hook": "<b>Macula on? Operate today. Macula off? Within the week.</b>",
+   "cards": [
+    {
+     "q": "Where are retinal dialyses typically found?",
+     "a": "Inferotemporally (often after blunt trauma in young patients)."
+    },
+    {
+     "q": "Criteria for pneumatic retinopexy?",
+     "a": "Single (or close) small break in the superior two-thirds, minimal SRF, no PVR or significant traction."
+    }
+   ]
+  },
+  {
+   "id": "v10-10",
+   "group": "Retinal detachment",
+   "title": "Tractional & exudative RD, peripheral degenerations",
+   "minutes": 3,
+   "tldr": "<b>Tractional</b>: PDR, PVR, ROP, trauma; <b>concave</b>, immobile, doesn't reach ora; vitrectomy + membrane removal. <b>Exudative</b>: no break, shifting fluid, smooth convex; VKH, posterior scleritis, tumours, CSCR, Coats → treat cause. <b>Lattice</b>: 6–10% of people, myopes, white lines + pigment, firm adhesion at margins; found in 20–30% of RDs but rarely needs prophylaxis. <b>Retinoschisis</b> vs RD: schisis = <b>absolute scotoma</b>, smooth dome, no pigment cells, no demarcation line, laser 'whitens'; RD = relative scotoma, corrugated, <b>tobacco dust</b>, demarcation line if chronic. Paving-stone, white-without-pressure = benign.",
+   "points": [
+    "Reticular schisis with inner + outer holes → full-thickness RD → treat."
+   ],
+   "hook": "<b>Tobacco dust in the vitreous = there's a break somewhere.</b>",
+   "cards": [
+    {
+     "q": "Visual field difference between retinoschisis and RD?",
+     "a": "Schisis gives an absolute scotoma; RD gives a relative scotoma."
+    }
+   ]
+  },
+  {
+   "id": "v10-11",
+   "group": "Macula",
+   "title": "Macular hole, ERM & traumatic maculopathy",
+   "minutes": 3,
+   "tldr": "<b>Macular hole</b>: elderly women, idiopathic tangential vitreous traction; central scotoma, <b>Watzke-Allen</b> broken beam. Gass stages 1 (impending yellow spot) → 2 (&lt;400 µm FT) → 3 (&gt;400 µm) → 4 (with PVD). Rx: <b>vitrectomy + ILM peel (dyes) + gas</b>, face-down; ≥90% close. <b>ERM</b>: cellophane sheen, striae, pseudohole; peel if distortion. Trauma: <b>commotio retinae</b> (Berlin oedema), <b>choroidal rupture</b> (crescent concentric to disc → late CNV), <b>Purtscher</b> (crush/pancreatitis; white patches + haemorrhages), <b>Terson</b> (SAH → VH), <b>solar retinopathy</b>.",
+   "points": [],
+   "hook": "<b>Broken slit beam = full-thickness hole.</b>",
+   "cards": [
+    {
+     "q": "What is Terson syndrome?",
+     "a": "Intraocular (vitreous/preretinal) haemorrhage associated with subarachnoid haemorrhage/raised ICP."
+    },
+    {
+     "q": "Late complication of choroidal rupture?",
+     "a": "Choroidal neovascularisation."
+    }
+   ]
+  },
+  {
+   "id": "v10-12",
+   "group": "Macula",
+   "title": "CSCR, CME & angioid streaks",
+   "minutes": 3,
+   "tldr": "<b>CSCR</b>: young/middle-aged men, <b>type A, stress, steroids</b> (any route); serous macular detachment, micropsia, hyperopic shift. FFA: <b>smokestack</b> or ink-blot leak; ICG choroidal hyperpermeability. 80% resolve in 6 months; chronic → <b>half-dose PDT</b>, micropulse, laser if extrafoveal leak. <b>CME</b>: petaloid FFA, honeycomb OCT; causes uveitis, DR, RVO, ERM, drugs, RP; <b>Irvine-Gass</b> after cataract (peaks 4–12 wk) → topical NSAID + steroid, then periocular/intravitreal triamcinolone. <b>Angioid streaks</b>: Bruch's cracks radiating from disc — <b>PXE</b> (ABCC6), <b>Paget</b>, Ehlers-Danlos, <b>sickle</b> ('PEPSi'); CNV → anti-VEGF; avoid trauma (choroidal rupture).",
+   "points": [],
+   "hook": "<b>Stressed young man + steroids + blister at macula = CSCR — stop the steroid.</b>",
+   "cards": [
+    {
+     "q": "Classic FFA sign of CSCR?",
+     "a": "Smokestack (or ink-blot) leak into a serous detachment."
+    },
+    {
+     "q": "Systemic associations of angioid streaks?",
+     "a": "Pseudoxanthoma elasticum, Paget disease, Ehlers-Danlos, sickle cell/haemoglobinopathies."
+    }
+   ]
+  },
+  {
+   "id": "v10-13",
+   "group": "Inflammatory chorioretinopathies",
+   "title": "White dot syndromes",
+   "minutes": 3,
+   "tldr": "<b>POHS</b>: histo spots + peripapillary scarring, no vitritis, CNV → anti-VEGF. <b>APMPPE</b>: young adults post-viral, bilateral grey placoid lesions; FFA <b>early block, late stain</b>; recovers; may have CNS vasculitis. <b>Serpiginous</b>: older men, <b>peripapillary snake-like</b> spreading atrophy, recurrent contiguous; exclude TB; immunosuppress. <b>Birdshot</b>: <b>HLA-A29</b>, cream ovoid spots, vasculitis, CME; ERG to monitor; needs steroid-sparing therapy. <b>MEWDS</b>: young women, unilateral, transient dots, enlarged blind spot, self-limits. <b>AMN</b>: wedge-shaped red-brown parafoveal lesions, persisting scotomas. <b>AZOOR</b>: field loss with little to see.",
+   "points": [],
+   "hook": "<b>Birdshot = A29; Serpiginous snakes from the disc; MEWDS melts away.</b>",
+   "cards": [
+    {
+     "q": "HLA association of birdshot chorioretinopathy?",
+     "a": "HLA-A29."
+    },
+    {
+     "q": "FFA pattern of APMPPE lesions?",
+     "a": "Early hypofluorescence (blockage) with late hyperfluorescence (staining)."
+    }
+   ]
+  },
+  {
+   "id": "v10-14",
+   "group": "Dystrophies",
+   "title": "Macular dystrophies",
+   "minutes": 3,
+   "tldr": "<b>X-linked retinoschisis</b> (RS1, Müller cells): boys, <b>spoke-wheel foveal schisis</b>, peripheral schisis 50%; FFA no leak (≠ CME); <b>negative ERG</b> (b &lt; a). <b>Cone/cone-rod dystrophy</b>: photophobia, poor colour, falling VA; bull's-eye; ERG cones lost (exclude chloroquine). <b>Stargardt</b> (<b>ABCA4</b>, AR): commonest; childhood VA loss with little to see early → beaten-bronze macula + pisciform flecks; <b>dark choroid</b> on FFA, FAF crucial; avoid vitamin A supplements. <b>Best</b> (<b>BEST1</b>, AD): egg-yolk vitelliform lesion → pseudohypopyon → vitelliruptive; <b>abnormal EOG, normal ERG</b>.",
+   "points": [
+    "Enhanced S-cone (Goldmann-Favre): AR, foveal schisis + nummular pigment at arcades."
+   ],
+   "hook": "<b>Best disease: Bad EOG, Everything else fine.</b>",
+   "cards": [
+    {
+     "q": "Hallmark electrophysiology of Best disease?",
+     "a": "Abnormal EOG (reduced Arden ratio) with normal ERG."
+    },
+    {
+     "q": "ERG in X-linked retinoschisis?",
+     "a": "Negative waveform — reduced b-wave with relatively preserved a-wave."
+    }
+   ]
+  },
+  {
+   "id": "v10-15",
+   "group": "Dystrophies",
+   "title": "Retinitis pigmentosa & other degenerations",
+   "minutes": 3,
+   "tldr": "<b>RP</b> (1 in 5000): <b>nyctalopia</b> + ring scotoma → tunnel vision. Triad: <b>bone-spicules</b>, <b>attenuated arterioles</b>, <b>waxy disc pallor</b>; ERG reduced/absent (rods first). Inheritance: <b>X-linked worst</b>, AR severe, <b>AD best</b>. Complications: <b>PSC cataract</b>, <b>CME</b> (CAIs), ERM, glaucoma, keratoconus, Coats-like. Syndromic: Usher (deaf), Bardet-Biedl, Refsum, Kearns-Sayre. Avoid smoking, HCQ, phenothiazines, vigabatrin. <b>LCA</b>: blind infant, nystagmus, flat ERG; <b>RPE65 gene therapy</b> (voretigene). <b>Gyrate atrophy</b>: ↑<b>ornithine</b> (OAT), scalloped atrophy; <b>low-arginine diet</b>, B6. Fundus albipunctatus: stationary night blindness, white dots, slow dark adaptation.",
+   "points": [],
+   "hook": "<b>Can't see at night + bony spicules + thin arteries + waxy disc = RP.</b>",
+   "cards": [
+    {
+     "q": "Most common cataract in RP?",
+     "a": "Posterior subcapsular cataract."
+    },
+    {
+     "q": "Biochemical defect and diet in gyrate atrophy?",
+     "a": "Ornithine aminotransferase deficiency → hyperornithinaemia; arginine-restricted diet ± pyridoxine."
+    }
+   ]
+  },
+  {
+   "id": "v10-16",
+   "group": "Dystrophies",
+   "title": "Colour vision defects",
+   "minutes": 2,
+   "tldr": "Red and green opsin genes on <b>X</b>; blue on chromosome <b>7</b>. <b>Red-green dichromacy</b> (protan = red, deutan = green): <b>X-linked, 8% of men, 0.5% of women</b>, normal acuity. <b>Tritan</b> (blue-yellow): AD, rare — and the typical <b>acquired</b> pattern of retinal/macular disease. <b>Blue cone monochromacy</b>: X-linked, rare. <b>Rod monochromacy (achromatopsia)</b>: AR, no cones → low VA, <b>photophobia, nystagmus</b>. Acquired defects: asymmetric, affect both sexes equally.",
+   "points": [],
+   "hook": "<b>Congenital = red-green, both eyes, men. Acquired = often blue-yellow, one eye worse.</b>",
+   "cards": [
+    {
+     "q": "Prevalence of congenital red-green colour deficiency?",
+     "a": "About 8% of males and 0.5% of females (X-linked recessive)."
+    }
+   ]
+  },
+  {
+   "id": "v10-17",
+   "group": "Retinal tumours",
+   "title": "Benign retinal tumours & CHRPE",
+   "minutes": 3,
+   "tldr": "<b>Astrocytoma</b> (astrocytic hamartoma): white 'mulberry' NFL nodule; multiple/bilateral → <b>tuberous sclerosis</b>. <b>Capillary haemangioma</b> (von Hippel): red ball with <b>dilated feeder artery & draining vein</b>, exudate/RD; <b>VHL gene chr 3p</b> → screen for cerebellar haemangioblastoma, RCC, phaeo; laser/cryo small lesions. <b>Combined hamartoma</b>: grey, gliotic, tortuous vessels near disc → <b>NF2</b>. <b>CHRPE</b>: flat black lesion with lacunae (unifocal); 'bear tracks' (grouped, benign); <b>multiple bilateral pisciform lesions → Gardner/FAP</b> → colonoscopy.",
+   "points": [
+    "Retinoma: arrested retinoblastoma (calcified, translucent) — monitor for life; relatives may carry RB1.",
+    "Medulloepithelioma: child's ciliary body cystic mass ± lens coloboma, NVG."
+   ],
+   "hook": "<b>Scattered bilateral fish-tail CHRPEs = check the colon (FAP).</b>",
+   "cards": [
+    {
+     "q": "Retinal capillary haemangioma is linked to which gene/syndrome?",
+     "a": "VHL tumour suppressor gene (3p25) — von Hippel-Lindau disease."
+    },
+    {
+     "q": "Which CHRPE pattern indicates familial adenomatous polyposis?",
+     "a": "Multiple, bilateral, scattered pigmented lesions (often pisciform with depigmented tails)."
+    }
+   ]
+  },
+  {
+   "id": "v10-18",
+   "group": "Retinal tumours",
+   "title": "Retinoblastoma",
+   "minutes": 3,
+   "tldr": "Commonest primary intraocular malignancy of childhood (~1 in 15–18,000). <b>RB1 tumour suppressor, 13q14</b> (two hits). <b>Bilateral/multifocal = germline</b> → AD, ~90% penetrance, 50% risk to offspring; most unilateral = sporadic. Presents with <b>leukocoria</b> (median 12 mo bilateral, 24 mo unilateral), <b>strabismus</b>, red eye/NVG, pseudohypopyon. White calcified mass (US/CT calcium), endophytic/exophytic, <b>vitreous seeds</b>. MRI brain/orbits (<b>trilateral RB = pineoblastoma</b>). Rx: laser/cryo (small), plaque, <b>IV or intra-arterial chemo</b> + focal; intravitreal melphalan for seeds; EBRT reserved; <b>enucleation</b> for advanced — histology for optic nerve/choroid invasion.",
+   "points": [
+    "Unaffected parents of one affected child: 4–7% risk for the next child.",
+    "Germline carriers: lifelong second cancer risk (osteosarcoma), worse after radiotherapy."
+   ],
+   "hook": "<b>White pupil in a photo = retinoblastoma until proven otherwise.</b>",
+   "cards": [
+    {
+     "q": "Gene and chromosome in retinoblastoma?",
+     "a": "RB1 tumour suppressor gene on 13q14."
+    },
+    {
+     "q": "What is trilateral retinoblastoma?",
+     "a": "Bilateral retinoblastoma plus a pineoblastoma (or other midline intracranial PNET)."
+    }
+   ]
+  },
+  {
+   "id": "v10-19",
+   "group": "Retinal tumours",
+   "title": "Primary vitreoretinal lymphoma & retinal metastasis",
+   "minutes": 2,
+   "tldr": "<b>PVRL</b>: older adults, bilateral 80%, <b>vitreous cells (sheets) + yellow sub-RPE infiltrates</b>, poor steroid response — the classic <b>masquerade</b>. Usually diffuse large <b>B-cell</b>; linked to <b>primary CNS lymphoma</b> → brain MRI, LP. Diagnosis: diagnostic vitrectomy (cytology, flow, IL-10:IL-6 &gt;1, MYD88). Rx: <b>intravitreal methotrexate</b>, EBRT, systemic high-dose MTX. <b>Retinal metastasis</b>: rare (unlike choroid), pale infiltrates; = brain metastasis prognosis.",
+   "points": [],
+   "hook": "<b>Elderly 'uveitis' that won't respond to steroids = lymphoma — biopsy the vitreous.</b>",
+   "cards": [
+    {
+     "q": "Intraocular treatment for vitreoretinal lymphoma?",
+     "a": "Intravitreal methotrexate (± ocular radiotherapy), with systemic/CNS therapy as needed."
+    }
+   ]
+  }
+ ]
+}

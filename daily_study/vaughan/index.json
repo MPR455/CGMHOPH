@@ -549,7 +549,103 @@
    "num": 10,
    "title": "Retina",
    "file": "ch10.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v10-01",
+     "title": "Photoreceptors, RPE & imaging",
+     "group": "Retina basics"
+    },
+    {
+     "id": "v10-02",
+     "title": "AMD: risk, staging & dry disease",
+     "group": "AMD"
+    },
+    {
+     "id": "v10-03",
+     "title": "Neovascular AMD & anti-VEGF",
+     "group": "AMD"
+    },
+    {
+     "id": "v10-04",
+     "title": "Myopic macular degeneration",
+     "group": "AMD"
+    },
+    {
+     "id": "v10-05",
+     "title": "DR: pathology, screening & grading",
+     "group": "Diabetic retinopathy"
+    },
+    {
+     "id": "v10-06",
+     "title": "Treating diabetic retinopathy",
+     "group": "Diabetic retinopathy"
+    },
+    {
+     "id": "v10-07",
+     "title": "Retinal vein occlusion",
+     "group": "Vascular occlusion"
+    },
+    {
+     "id": "v10-08",
+     "title": "Retinal artery occlusion & macroaneurysm",
+     "group": "Vascular occlusion"
+    },
+    {
+     "id": "v10-09",
+     "title": "Rhegmatogenous RD",
+     "group": "Retinal detachment"
+    },
+    {
+     "id": "v10-10",
+     "title": "Tractional & exudative RD, peripheral degenerations",
+     "group": "Retinal detachment"
+    },
+    {
+     "id": "v10-11",
+     "title": "Macular hole, ERM & traumatic maculopathy",
+     "group": "Macula"
+    },
+    {
+     "id": "v10-12",
+     "title": "CSCR, CME & angioid streaks",
+     "group": "Macula"
+    },
+    {
+     "id": "v10-13",
+     "title": "White dot syndromes",
+     "group": "Inflammatory chorioretinopathies"
+    },
+    {
+     "id": "v10-14",
+     "title": "Macular dystrophies",
+     "group": "Dystrophies"
+    },
+    {
+     "id": "v10-15",
+     "title": "Retinitis pigmentosa & other degenerations",
+     "group": "Dystrophies"
+    },
+    {
+     "id": "v10-16",
+     "title": "Colour vision defects",
+     "group": "Dystrophies"
+    },
+    {
+     "id": "v10-17",
+     "title": "Benign retinal tumours & CHRPE",
+     "group": "Retinal tumours"
+    },
+    {
+     "id": "v10-18",
+     "title": "Retinoblastoma",
+     "group": "Retinal tumours"
+    },
+    {
+     "id": "v10-19",
+     "title": "Primary vitreoretinal lymphoma & retinal metastasis",
+     "group": "Retinal tumours"
+    }
+   ]
   },
   {
    "id": "ch11",
