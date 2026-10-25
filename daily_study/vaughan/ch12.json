@@ -1,0 +1,227 @@
+{
+ "id": "ch12",
+ "num": 12,
+ "title": "Strabismus",
+ "chunks": [
+  {
+   "id": "v12-01",
+   "group": "Basics",
+   "title": "Muscle actions & the laws",
+   "minutes": 3,
+   "tldr": "~4% of children have strabismus. <b>Tropia</b> = manifest; <b>phoria</b> = latent (only when fusion broken). Actions: MR adduct, LR abduct; <b>SR</b> elevate/intort/adduct; <b>IR</b> depress/extort/adduct; <b>SO</b> intort/depress/abduct; <b>IO</b> extort/elevate/abduct. Vertical recti act most in <b>abduction</b>; obliques in <b>adduction</b>. <b>Sherrington</b>: agonist contracts, antagonist relaxes. <b>Hering</b>: yoke muscles get equal innervation (R gaze = RLR + LMR; up-right = RSR + LIO; down-right = RIR + LSO). Infant alignment normal by 2–3 months.",
+   "points": [
+    "<b>Comitant</b> (same in all gazes) = childhood; <b>incomitant</b> = paretic/restrictive.",
+    "Secondary deviation (paretic eye fixing) &gt; primary (Hering's law overshoot).",
+    "Positive angle kappa looks exotropic; negative looks esotropic."
+   ],
+   "table": {
+    "head": [
+     "Muscle",
+     "1°",
+     "2°",
+     "3°"
+    ],
+    "rows": [
+     [
+      "SR",
+      "Elevation",
+      "Intorsion",
+      "Adduction"
+     ],
+     [
+      "IR",
+      "Depression",
+      "Extorsion",
+      "Adduction"
+     ],
+     [
+      "SO",
+      "Intorsion",
+      "Depression",
+      "Abduction"
+     ],
+     [
+      "IO",
+      "Extorsion",
+      "Elevation",
+      "Abduction"
+     ]
+    ]
+   },
+   "hook": "<b>RAD SIN: Recti ADduct; Superiors INtort.</b>",
+   "cards": [
+    {
+     "q": "State Hering's law.",
+     "a": "Yoke muscles (agonists moving both eyes the same way) receive equal and simultaneous innervation."
+    },
+    {
+     "q": "Why is secondary deviation larger than primary in a palsy?",
+     "a": "The paretic eye fixing needs extra innervation, which is also sent to its yoke muscle (Hering), causing overshoot."
+    }
+   ]
+  },
+  {
+   "id": "v12-02",
+   "group": "Basics",
+   "title": "Sensory adaptations & amblyopia",
+   "minutes": 3,
+   "tldr": "Binocular vision: corresponding points, <b>Panum's area</b>, sensory fusion, <b>stereopsis</b> (~60 arc-sec needs bifoveal fixation). Strabismus before age ~7–8 → <b>suppression</b> (facultative; esotropia elliptical, exotropia whole temporal hemiretina), <b>ARC</b> (extrafoveal point acts as fovea, binocular only), <b>amblyopia</b>, eccentric fixation (monocular). After that age → <b>diplopia</b> (confusion rarely). <b>Amblyopia</b>: VA loss beyond structural cause from abnormal input &lt;7 y — <b>strabismic</b> (esotropia worse; alternators spared), <b>anisometropic</b>, <b>deprivation</b> (cataract, ptosis).",
+   "points": [],
+   "hook": "<b>Children suppress; adults see double.</b>",
+   "cards": [
+    {
+     "q": "Difference between suppression and amblyopia?",
+     "a": "Suppression is present only under binocular viewing; amblyopia persists when the eye is tested alone."
+    },
+    {
+     "q": "Why do alternating strabismics not get amblyopia?",
+     "a": "Each eye takes turns fixing, so both visual pathways get foveal stimulation."
+    }
+   ]
+  },
+  {
+   "id": "v12-03",
+   "group": "Examination",
+   "title": "Strabismus examination",
+   "minutes": 3,
+   "tldr": "History (onset, constant/intermittent, family, prematurity, neuro). VA (age-appropriate), <b>cycloplegic refraction</b>, <b>dilated fundus</b> (RB, ONH hypoplasia, glioma can present as squint). <b>Cover test</b> → tropia (eye moves out to fix = esotropia). <b>Uncover</b> → phoria/fixation preference. <b>Alternate cover</b> → total deviation. <b>Prism + alternate cover</b> quantifies (apex toward deviation; don't stack). <b>Hirschberg</b>: ~18 PD per mm (some use 7°/mm) light reflex decentration; <b>Krimsky</b>: prism centres reflex. Ductions/versions in 9 gazes, <b>NPC</b> (≤5 cm normal), <b>AC/A</b> (~6 PD/D). Sensory: Titmus/Frisby/TNO stereo, <b>Worth 4-dot</b>, red filter.",
+   "points": [
+    "Pseudoesotropia: broad nasal bridge/epicanthus with centred light reflexes — outgrows."
+   ],
+   "hook": "<b>Cover the fixing eye — watch what the other one does.</b>",
+   "cards": [
+    {
+     "q": "On cover test, the uncovered eye moves outward to take up fixation. Diagnosis?",
+     "a": "Esotropia of that eye."
+    },
+    {
+     "q": "Normal AC/A ratio?",
+     "a": "About 6 prism dioptres per dioptre of accommodation (≈ IPD in cm)."
+    }
+   ]
+  },
+  {
+   "id": "v12-04",
+   "group": "Treatment",
+   "title": "Amblyopia treatment & non-surgical options",
+   "minutes": 3,
+   "tldr": "Treat as soon as found; best before 7–8 y; align eyes ideally by age 2. <b>Glasses first</b> (full hyperopic correction in esotropia). <b>Occlusion</b> 2–14 h/day (gold standard; full-time max ~1 week per year of age to avoid reverse amblyopia). <b>Atropine penalisation</b> of the good eye (works if good eye hyperopic/emmetropic). Maintenance tapering until 5–13 y. <b>Prisms</b> (Fresnel; ground-in ≤8–10 PD/lens), prism adaptation test. <b>Botulinum</b> into a muscle (temporary, can shift balance). <b>Orthoptic exercises</b> for convergence insufficiency.",
+   "points": [],
+   "hook": "<b>Specs → patch/atropine → then surgery.</b>",
+   "cards": [
+    {
+     "q": "When is atropine penalisation effective?",
+     "a": "When the better eye is emmetropic or hyperopic (atropine blurs its near vision)."
+    }
+   ]
+  },
+  {
+   "id": "v12-05",
+   "group": "Treatment",
+   "title": "Strabismus surgery",
+   "minutes": 2,
+   "tldr": "<b>Weaken</b>: recession (rectus), SO tenotomy/lengthening, IO myectomy/recession/<b>anterior transposition</b> (DVD). <b>Strengthen</b>: resection, tuck/plication. <b>Redirect</b>: vertical recti transposition to LR (VI palsy), vertical shift of horizontal recti for A/V patterns (MR toward apex, LR toward open end), <b>Harada-Ito</b> (anterior SO fibres → intorsion). <b>Faden</b> posterior fixation weakens in field of action only. MRs affect near more, LRs distance more. <b>Adjustable sutures</b> for adults/reoperations.",
+   "points": [],
+   "hook": "<b>Recess to weaken, resect to strengthen, transpose to redirect.</b>",
+   "cards": [
+    {
+     "q": "What does the Harada-Ito procedure correct?",
+     "a": "Excyclotorsion (e.g. bilateral SO palsy) by tightening the anterior superior oblique fibres."
+    }
+   ]
+  },
+  {
+   "id": "v12-06",
+   "group": "Esotropia",
+   "title": "Infantile & accommodative esotropia",
+   "minutes": 3,
+   "tldr": "<b>Infantile</b>: onset ≤6 mo, <b>large (≥40 PD)</b>, comitant, <b>cross-fixation</b>, little refractive error, abduction looks limited (doll's head normal); later <b>DVD</b>, IO overaction, <b>latent nystagmus</b>. Rx: amblyopia treatment, trial glasses if &gt;+3 D, then early <b>bilateral MR recession</b> (or R&amp;R). <b>Accommodative</b> (2–3 y): <b>refractive</b> — high hyperopia; <b>full cycloplegic correction straightens</b>. <b>High AC/A</b> — eso greater at near; glasses + <b>bifocals</b> (or miotics). <b>Partially accommodative</b>: operate on residual. Acquired non-accommodative: consider neuroimaging (posterior fossa).",
+   "points": [
+    "≥50% of infantile ET later develop an accommodative component."
+   ],
+   "hook": "<b>Toddler crossing more when looking at books = high AC/A → bifocals.</b>",
+   "cards": [
+    {
+     "q": "Typical age and treatment of refractive accommodative esotropia?",
+     "a": "2–3 years; full cycloplegic hyperopic spectacle correction."
+    },
+    {
+     "q": "Associated findings that develop later in infantile esotropia?",
+     "a": "Dissociated vertical deviation, inferior oblique overaction, latent/manifest-latent nystagmus."
+    }
+   ]
+  },
+  {
+   "id": "v12-07",
+   "group": "Esotropia",
+   "title": "Sixth nerve palsy",
+   "minutes": 2,
+   "tldr": "Incomitant esotropia: worse at <b>distance</b>, on <b>gaze to the affected side</b>, and with affected eye fixing; head turn toward palsy. Adults: <b>microvascular</b> (diabetes/HTN, recovers ~3 months); also raised ICP (false localising), tumour, trauma, inflammation — image if young, other signs or no recovery. Rx: occlusion/prism ± <b>botox to ipsilateral MR</b>; after 6 months: partial → MR recession + LR resection; complete → <b>vertical rectus transposition</b> (± MR botox). Children: watch for amblyopia. Other ET causes: medial wall fracture, thyroid MR, Duane.",
+   "points": [],
+   "hook": "<b>Worse at distance and toward the bad side = lateral rectus problem.</b>",
+   "cards": [
+    {
+     "q": "Surgery for complete VI palsy after 6 months?",
+     "a": "Transposition of the vertical rectus muscles toward the lateral rectus (± MR botulinum or recession)."
+    }
+   ]
+  },
+  {
+   "id": "v12-08",
+   "group": "Exotropia",
+   "title": "Exotropia",
+   "minutes": 3,
+   "tldr": "Types by distance vs near: basic, <b>divergence excess</b> (distance &gt; near), pseudo-divergence excess (+3 lens equalises), <b>convergence insufficiency</b> (near &gt; distance). <b>Intermittent XT</b>: &gt;half of exotropia, by 5 y; drifts at distance, when tired; <b>closes one eye in bright light</b>; amblyopia rare. Rx: correct refraction, minus lenses/part-time patching to delay; surgery when control deteriorates — <b>bilateral LR recession</b> (distance) or R&amp;R (near); aim slight overcorrection. <b>Constant XT</b>: infantile → <b>neuro assessment</b>; <b>sensory exotropia</b> from a poorly seeing eye (adults).",
+   "points": [],
+   "hook": "<b>Child squinting one eye in the sunshine = intermittent exotropia.</b>",
+   "cards": [
+    {
+     "q": "Classic sign of intermittent exotropia in children?",
+     "a": "Closing one eye in bright sunlight; deviation appears at distance or when tired."
+    }
+   ]
+  },
+  {
+   "id": "v12-09",
+   "group": "Vertical",
+   "title": "A/V patterns & vertical deviations",
+   "minutes": 3,
+   "tldr": "<b>V pattern</b> = more exo/less eso in upgaze (IO overaction); <b>A pattern</b> = more eso/less exo in upgaze (SO overaction). Treat oblique overaction, or shift horizontal insertions half–one tendon width. Hypertropia named by the higher eye. Causes: <b>congenital SO palsy</b> (large vertical fusional amplitudes, old photos show head tilt), <b>trauma (IV)</b>, orbital floor fracture (IR entrapment), <b>thyroid</b> (IR fibrosis), skew, MG, MS. <b>Parks 3-step</b>: which eye higher → worse in which gaze → worse with which head tilt (<b>Bielschowsky</b>). RSO palsy: R hyper, worse on left gaze, worse on <b>right tilt</b>; head tilts left. <b>Double Maddox rod</b> measures torsion (SO palsy excyclotorsion; &gt;10° suggests bilateral).",
+   "points": [
+    "Skew deviation: supranuclear, conjugate torsion (higher eye intorts) — brainstem/cerebellum."
+   ],
+   "hook": "<b>SO palsy: head tilts AWAY from the bad eye.</b>",
+   "cards": [
+    {
+     "q": "Three-step test result for right superior oblique palsy?",
+     "a": "Right hypertropia, worse on left gaze, worse on right head tilt."
+    },
+    {
+     "q": "Which overacting muscle causes a V pattern?",
+     "a": "Inferior obliques."
+    }
+   ]
+  },
+  {
+   "id": "v12-10",
+   "group": "Special forms",
+   "title": "Duane, DVD, Brown & heterophoria",
+   "minutes": 3,
+   "tldr": "<b>Duane</b>: congenital cranial dysinnervation — absent VI nucleus, LR innervated by III; <b>limited abduction</b>, <b>globe retraction + fissure narrowing on adduction</b>, up/downshoots; left eye, girls; associations Goldenhar, Klippel-Feil. Surgery for primary position deviation/head turn (MR recession, transposition). <b>DVD</b>: covered eye floats up + extorts, <b>breaks Hering's law</b>; with infantile ET; SR recession ± Faden, IO anterior transposition. <b>Brown</b>: SO tendon/trochlea restriction → <b>can't elevate in adduction</b>, positive forced duction; SO tenotomy/spacer if head posture. <b>Heterophoria</b>: treat only if symptomatic (asthenopia): refraction, plus lenses for eso, prisms (⅓–½ deviation), botox, surgery.",
+   "points": [
+    "Normal fusional vergence at distance: convergence ~14 PD, divergence ~6, vertical ~2.5."
+   ],
+   "hook": "<b>Duane: eye sinks in and the lids close when it turns in.</b>",
+   "cards": [
+    {
+     "q": "Pathogenesis of Duane retraction syndrome?",
+     "a": "Absent/hypoplastic abducens nerve with aberrant innervation of the lateral rectus by the oculomotor nerve → co-contraction on adduction."
+    },
+    {
+     "q": "Hallmark motility finding of Brown syndrome?",
+     "a": "Limited elevation in adduction with positive forced duction test (restrictive)."
+    }
+   ]
+  }
+ ]
+}
