@@ -1,0 +1,64 @@
+{
+ "id": "ch24",
+ "num": 24,
+ "title": "Low Vision",
+ "chunks": [
+  {
+   "id": "v24-01",
+   "group": "Assessment",
+   "title": "Low vision assessment",
+   "minutes": 3,
+   "tldr": "Low vision = function not correctable by ordinary specs/CLs (acuity, field, glare, contrast, colour, diplopia); still has useful vision — not 'blind'. US: &gt;6 million low vision, 1 million legally blind (≤20/200 or field ≤20°); &gt;75% over 65; AMD leading, then glaucoma, DR, cataract, optic atrophy, cornea, cortical, myopia, RP; 9% children. Start rehab early (not mid-treatment). Steps: <b>history</b> (tasks affected, expectations), exam <b>undilated</b> — re-refract (cataract myopic shift, post-trab astigmatism), <b>ETDRS logMAR chart</b> at 4 m / 2 m / 1 m (replaces 'count fingers'), dominant/preferred eye, <b>Amsler binocular then monocular</b> (dominant eye with scotoma may need occluding), <b>contrast (Mars/Pelli-Robson)</b> — best predictor of magnifier success; colour, glare. Near: single letters → graded continuous text.",
+   "points": [],
+   "hook": "<b>Contrast predicts magnifier success better than acuity.</b>",
+   "cards": [
+    {
+     "q": "Which test best predicts response to magnification in low vision?",
+     "a": "Contrast sensitivity (e.g. Mars or Pelli-Robson)."
+    },
+    {
+     "q": "Why not dilate before a low-vision assessment?",
+     "a": "Natural pupil and accommodation are needed to assess functional performance and refraction."
+    }
+   ]
+  },
+  {
+   "id": "v24-02",
+   "group": "Aids",
+   "title": "Choosing & teaching low-vision aids",
+   "minutes": 3,
+   "tldr": "Starting add ≈ <b>reciprocal of acuity</b> (6/48 or 20/160 → +8 D), modified by scotoma and contrast. Try in order: <b>spectacle</b> magnifiers (hands free; focal distance = 1/D, e.g. 10 cm at +10 D; 4–14 D with <b>base-in prisms</b> binocularly, &gt;14 D monocular), <b>hand</b> (4–68 D; shopping, labels; LED illumination), <b>stand</b> (fixed focus, good for tremor; low power allows writing), <b>dome</b> (hands free, limited power). <b>Telescopes</b>: only device focusing infinity → near; small field, shallow depth; hand-held 2–8× (signs), spectacle-mounted ≤6×. <b>Non-optical</b>: large print, writing/signature guides, pill organisers, liquid-level indicators, talking clocks, high-contrast marking. <b>Tints</b>: grey (glare), <b>amber/yellow</b> (contrast; block &lt;527 nm), AR coatings, photochromics; task lighting (warm CFL/LED). <b>Electronic</b>: CCTV 1.5–45×, reverse contrast; portable video magnifiers; text-to-speech, phones. Train, lend devices, review in 2–3 weeks.",
+   "points": [],
+   "hook": "<b>Start power = Snellen denominator ÷ numerator (20/160 → 8 D).</b>",
+   "cards": [
+    {
+     "q": "Rule-of-thumb starting magnifier power for 20/200 vision?",
+     "a": "About +10 D (reciprocal of acuity, 200/20)."
+    },
+    {
+     "q": "Why add base-in prisms to high-plus reading spectacles?",
+     "a": "To reduce the convergence demand at the short working distance and allow binocular reading (up to ~14 D)."
+    }
+   ]
+  },
+  {
+   "id": "v24-03",
+   "group": "By disorder",
+   "title": "Low vision by pattern: hazy, central, peripheral",
+   "minutes": 3,
+   "tldr": "<b>Hazy media</b> (cornea, cataract, PCO, vitreous): reduced acuity, glare, low contrast, worse with miosis; careful refraction (pinholes, stenopeic slit), lighting, AR + grey/amber tints, UV filter, large bold print, black reading slit (magnifiers may lower contrast/glare); consider surgery — aim slightly <b>myopic IOL</b> for intermediate vision. <b>Central scotoma</b> (AMD, macular hole, myopic degeneration, optic neuropathy): reading/faces lost, mobility kept; <b>eccentric viewing — preferred retinal locus (PRL)</b>, trained retinal locus (TRL) via OT/SLO, prism relocation; task-specific magnifiers. <b>Peripheral loss</b> (end-stage glaucoma, RP, PRP-treated PDR, hemianopia): reads small print but needs cane/dog; if central field &lt;7°, magnification may overshoot field → adjustable CCTV/hand magnifier; hemianopia — saccadic scanning training.",
+   "points": [],
+   "hook": "<b>Central loss = can walk, can't read. Peripheral loss = can read, can't walk.</b>",
+   "cards": [
+    {
+     "q": "What is a preferred retinal locus?",
+     "a": "An extrafoveal retinal area spontaneously used for fixation when the fovea is damaged (e.g. AMD)."
+    },
+    {
+     "q": "Why may magnification be unhelpful with a central field under 7°?",
+     "a": "The enlarged image overflows the tiny remaining field."
+    }
+   ]
+  }
+ ]
+}

@@ -1301,7 +1301,23 @@
    "num": 24,
    "title": "Low Vision",
    "file": "ch24.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v24-01",
+     "title": "Low vision assessment",
+     "group": "Assessment"
+    },
+    {
+     "id": "v24-02",
+     "title": "Choosing & teaching low-vision aids",
+     "group": "Aids"
+    },
+    {
+     "id": "v24-03",
+     "title": "Low vision by pattern: hazy, central, peripheral",
+     "group": "By disorder"
+    }
+   ]
   },
   {
    "id": "ch25",
