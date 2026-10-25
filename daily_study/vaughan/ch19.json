@@ -1,0 +1,132 @@
+{
+ "id": "ch19",
+ "num": 19,
+ "title": "Ophthalmic Trauma",
+ "chunks": [
+  {
+   "id": "v19-01",
+   "group": "Initial care",
+   "title": "Trauma assessment & chemical injury",
+   "minutes": 3,
+   "tldr": "Life first (ABC), then history: blunt vs sharp, high vs low velocity (<b>hammering metal on metal</b> → IOFB), prior eye surgery, last meal. Inspect without pressing on the globe; pupils (RAPD), VA with pinhole/near card, fields; then ophthalmology for slitlamp, IOP, fundus. <b>Chemical burn = irrigate immediately</b> (tap water on scene, saline in ED) with anaesthetic + speculum, remove particles (cement/plaster), continue until <b>neutral pH</b>. Alkali (bleach, cement, lime, cleaners) penetrates (saponification) — worse than acid (car battery; protein precipitate barrier). Severe signs: corneal haze, <b>limbal blanching (ischaemia)</b>, chemosis — a <b>white</b> eye can be the worst. Then: antibiotic, cycloplegic, steroid, <b>ascorbate (topical + oral)</b>, <b>citrate</b>, <b>oral doxycycline</b> (anti-MMP), lubricants, acetazolamide for IOP.",
+   "points": [],
+   "hook": "<b>A white eye after alkali = limbal ischaemia, not mild.</b>",
+   "cards": [
+    {
+     "q": "Why does doxycycline help after chemical burns?",
+     "a": "It inhibits matrix metalloproteinases (collagenase), reducing corneal melting, and is anti-inflammatory."
+    },
+    {
+     "q": "End point of irrigation in a chemical injury?",
+     "a": "Neutral pH (≈7) of the tear film, checked a few minutes after stopping."
+    }
+   ]
+  },
+  {
+   "id": "v19-02",
+   "group": "Open globe",
+   "title": "Open globe injury & IOFB",
+   "minutes": 3,
+   "tldr": "Full-thickness corneal/scleral defect: <b>laceration</b> (sharp/projectile; penetrating = entry only, perforating = entry + exit; ± retained object) or <b>rupture</b> (blunt; weak points — <b>behind muscle insertions (superonasal), old surgical wounds</b>, limbus, lamina). Signs: <b>peaked pupil toward wound</b>, flat AC, uveal prolapse, <b>360° haemorrhagic chemosis</b>, very soft eye, hyphaema/VH, deep lid laceration; Seidel positive. Do: <b>rigid shield (no patch/pressure)</b>, analgesia, <b>antiemetic</b>, NBM, tetanus, systemic antibiotics, <b>CT</b> for IOFB (<b>no MRI if metal</b>). Theatre ASAP under GA <b>without succinylcholine</b>; 10-0 nylon cornea, 8-0/9-0 sclera; reposit viable uvea; lens/posterior IOFB usually second stage (vitreoretinal). <b>Iron/copper/organic IOFB → remove</b> (siderosis, chalcosis, endophthalmitis).",
+   "points": [],
+   "hook": "<b>Suspected open globe: Shield, Scan, Starve, Surgery — never press.</b>",
+   "cards": [
+    {
+     "q": "Why avoid succinylcholine when repairing an open globe?",
+     "a": "It transiently raises IOP (extraocular muscle contraction), risking extrusion of intraocular contents."
+    },
+    {
+     "q": "Most common site of blunt globe rupture?",
+     "a": "Behind the rectus muscle insertions (thinnest sclera), especially superonasally, or at previous surgical wounds."
+    }
+   ]
+  },
+  {
+   "id": "v19-03",
+   "group": "Closed globe",
+   "title": "Abrasion, foreign body, SCH, lacerations & traumatic iritis",
+   "minutes": 3,
+   "tldr": "<b>Corneal abrasion</b>: fingernail, CL; pain relieved by anaesthetic drop; fluorescein stains; topical antibiotic ± patch; review. <b>Never send home with anaesthetic drops</b> (delay healing, neurotrophic ulcer). <b>Foreign body</b>: grinding/hammering; remove at slitlamp with 25–27 G needle; <b>rust ring</b> → burr; <b>vertical linear abrasions → evert upper lid</b> (subtarsal FB). Consider penetration — Seidel, dilate. <b>Subconjunctival haemorrhage</b>: &gt;270° or with chemosis → suspect occult rupture. Partial-thickness lacerations: confirm depth at slitlamp. <b>Traumatic iritis</b>: 24–48 h later, photophobia, cells/flare, <b>Vossius ring</b>; cycloplegic + steroid (ophthalmologist).",
+   "points": [],
+   "hook": "<b>Linear vertical scratches on the cornea = something under the top lid.</b>",
+   "cards": [
+    {
+     "q": "Why must patients not be given topical anaesthetic to take home?",
+     "a": "It inhibits epithelial healing, masks worsening, and causes toxic/neurotrophic keratopathy with prolonged use."
+    }
+   ]
+  },
+  {
+   "id": "v19-04",
+   "group": "Closed globe",
+   "title": "Hyphaema & angle injuries",
+   "minutes": 3,
+   "tldr": "<b>Hyphaema</b>: torn iris/ciliary vessels; layered blood (grade by height) or microhyphaema; may signal open globe. Risks: <b>raised IOP</b>, <b>rebleed (days 3–5)</b>, <b>corneal blood staining</b> (high IOP + big bleed → amblyopia in kids), <b>sickle cell</b> (sickling in AC → high IOP, optic nerve vulnerable; avoid CAIs). Rx: bed rest head up, shield, <b>topical steroid + cycloplegic</b>, IOP drops, ± oral <b>aminocaproic acid</b>; AC washout for uncontrolled IOP/staining. Concussive damage: <b>sphincter tears</b>, <b>iridodialysis</b> (root disinsertion, D-shaped pupil), <b>cyclodialysis</b> (ciliary body off spur → <b>hypotony</b>), <b>angle recession</b> (torn ciliary face → late glaucoma; gonioscopy/UBM), lens sub/luxation (phacodonesis).",
+   "points": [],
+   "hook": "<b>Black kid + hyphaema → sickle test before acetazolamide.</b>",
+   "cards": [
+    {
+     "q": "Complication of hyphaema that threatens amblyopia in young children?",
+     "a": "Corneal blood staining (with raised IOP)."
+    },
+    {
+     "q": "Which angle injury causes hypotony?",
+     "a": "Cyclodialysis cleft (aqueous drains to the suprachoroidal space)."
+    }
+   ]
+  },
+  {
+   "id": "v19-05",
+   "group": "Closed globe",
+   "title": "Posterior segment & optic nerve trauma",
+   "minutes": 2,
+   "tldr": "<b>Commotio retinae</b> (Berlin oedema): retinal whitening opposite impact within 24 h, fades over days–weeks; macula → VA loss; no treatment. <b>Choroidal rupture</b>: crescent <b>concentric to disc</b>, through Bruch's/RPE; macular → poor VA; <b>late CNV</b> (treatable). <b>Traumatic macular hole</b>: vitrectomy possible, VA often poor. <b>Traumatic VH</b>: usually with PVD; clears unless retinal tear → RD (B-scan). <b>Traumatic optic neuropathy</b>: frontal blow (indirect, optic canal), apex fracture, penetrating, gouging; RAPD; steroids controversial (CRASH), decompression unproven.",
+   "points": [],
+   "hook": "<b>Crescent scar around the disc after a blow = choroidal rupture → watch for CNV.</b>",
+   "cards": [
+    {
+     "q": "Orientation of a traumatic choroidal rupture?",
+     "a": "Crescent-shaped, concentric to the optic disc (usually temporal)."
+    }
+   ]
+  },
+  {
+   "id": "v19-06",
+   "group": "Orbit & lids",
+   "title": "Lid lacerations, blowout fractures & retrobulbar haemorrhage",
+   "minutes": 3,
+   "tldr": "<b>Lid lacerations</b>: check margin, <b>canaliculi (medial)</b>, canthi, and the globe beneath; margin/canalicular injury → ophthalmic/oculoplastic repair (align tarsus, grey line, lashes; stent canaliculus). <b>Blowout fracture</b> (floor &gt; medial wall): enophthalmos/exophthalmos, <b>infraorbital numbness (V2)</b>, diplopia (upgaze), crepitus, rim step. <b>White-eyed blowout</b> in children: <b>trapdoor IR entrapment</b> with minimal external signs, pain, <b>oculocardiac reflex</b> (bradycardia, nausea) → <b>urgent repair</b>. Others: repair in 1–2 wk if persistent diplopia or enophthalmos (&gt;2 mm, large fracture). CT orbits (neuroradiology), look for facial/skull fractures. <b>Retrobulbar haemorrhage (orbital compartment syndrome)</b>: tense proptosis, ↓VA, RAPD, high IOP, ↓motility → <b>immediate lateral canthotomy + inferior cantholysis</b>. Orbital FB: organic → remove (infection, MRI shows wood); metal often left; lead inert, copper inflammatory.",
+   "points": [],
+   "hook": "<b>Tight orbit + RAPD = cut the canthus now, scan later.</b>",
+   "cards": [
+    {
+     "q": "Why is a 'white-eyed blowout' an emergency in children?",
+     "a": "Trapdoor entrapment of the inferior rectus causes muscle ischaemia and oculocardiac reflex (bradycardia, vomiting) despite a quiet-looking eye."
+    },
+    {
+     "q": "Emergency treatment of retrobulbar haemorrhage with visual compromise?",
+     "a": "Lateral canthotomy and inferior cantholysis."
+    }
+   ]
+  },
+  {
+   "id": "v19-07",
+   "group": "Late effects",
+   "title": "Burns, UV keratitis & late sequelae",
+   "minutes": 3,
+   "tldr": "<b>Thermal lid burns</b>: lubricate/antibiotic ointment; full-thickness → cicatricial <b>ectropion/retraction</b> in days → tarsorrhaphy, grafts. <b>UV keratitis</b> (welding arc, snow, tanning beds): pain hours later, punctate staining — treat like abrasion. Late: irregular astigmatism (RGP, graft after 6 mo), <b>LSCD</b> (limbal transplant then KP/keratoprosthesis), <b>hypotony</b> (&lt;6 mmHg — leak, cyclodialysis, RD, occult rupture, inflammation → <b>phthisis</b>), <b>endophthalmitis</b> (contaminated/organic, retained FB — <b>Bacillus</b>), corneal blood staining, <b>siderosis</b> (iron: heterochromia, rust, mydriasis, ERG decline) / <b>chalcosis</b> (copper: KF ring, sunflower cataract), <b>sympathetic ophthalmia</b> (enucleate a blind ruined eye within ~10 days), monocular (corneal) vs binocular (nerve/muscle/fracture) diplopia, <b>epiphora</b> from canalicular/NLD injury (DCR/Jones tube). Team with maxillofacial, plastics, neurosurgery.",
+   "points": [],
+   "hook": "<b>Iron makes the eye go brown-green and the ERG go flat — remove it.</b>",
+   "cards": [
+    {
+     "q": "Signs of ocular siderosis?",
+     "a": "Iris heterochromia (darker), rust-coloured anterior subcapsular deposits, mydriasis, pigmentary retinopathy with progressive ERG reduction."
+    },
+    {
+     "q": "Typical organism of post-traumatic endophthalmitis after soil contamination?",
+     "a": "Bacillus cereus (rapid, devastating)."
+    }
+   ]
+  }
+ ]
+}

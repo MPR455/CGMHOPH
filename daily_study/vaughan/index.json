@@ -1086,7 +1086,43 @@
    "num": 19,
    "title": "Ophthalmic Trauma",
    "file": "ch19.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v19-01",
+     "title": "Trauma assessment & chemical injury",
+     "group": "Initial care"
+    },
+    {
+     "id": "v19-02",
+     "title": "Open globe injury & IOFB",
+     "group": "Open globe"
+    },
+    {
+     "id": "v19-03",
+     "title": "Abrasion, foreign body, SCH, lacerations & traumatic iritis",
+     "group": "Closed globe"
+    },
+    {
+     "id": "v19-04",
+     "title": "Hyphaema & angle injuries",
+     "group": "Closed globe"
+    },
+    {
+     "id": "v19-05",
+     "title": "Posterior segment & optic nerve trauma",
+     "group": "Closed globe"
+    },
+    {
+     "id": "v19-06",
+     "title": "Lid lacerations, blowout fractures & retrobulbar haemorrhage",
+     "group": "Orbit & lids"
+    },
+    {
+     "id": "v19-07",
+     "title": "Burns, UV keratitis & late sequelae",
+     "group": "Late effects"
+    }
+   ]
   },
   {
    "id": "ch20",
