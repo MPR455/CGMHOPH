@@ -410,7 +410,73 @@
    "num": 7,
    "title": "Uveal Tract & Sclera",
    "file": "ch07.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v07-01",
+     "title": "Classifying uveitis & reading the signs",
+     "group": "Uveitis basics"
+    },
+    {
+     "id": "v07-02",
+     "title": "Work-up, complications & treatment",
+     "group": "Uveitis basics"
+    },
+    {
+     "id": "v07-03",
+     "title": "HLA-B27 & JIA uveitis",
+     "group": "Anterior uveitis"
+    },
+    {
+     "id": "v07-04",
+     "title": "Fuchs heterochromic & lens-induced uveitis",
+     "group": "Anterior uveitis"
+    },
+    {
+     "id": "v07-05",
+     "title": "Intermediate uveitis & clues to posterior uveitis",
+     "group": "Intermediate & posterior"
+    },
+    {
+     "id": "v07-06",
+     "title": "Toxoplasmosis, POHS & toxocariasis",
+     "group": "Intermediate & posterior"
+    },
+    {
+     "id": "v07-07",
+     "title": "AIDS, TB, sarcoid & syphilis uveitis",
+     "group": "Panuveitis"
+    },
+    {
+     "id": "v07-08",
+     "title": "Sympathetic ophthalmia & tropical uveitis",
+     "group": "Panuveitis"
+    },
+    {
+     "id": "v07-09",
+     "title": "Benign uveal tumours",
+     "group": "Uveal tumours"
+    },
+    {
+     "id": "v07-10",
+     "title": "Uveal melanoma",
+     "group": "Uveal tumours"
+    },
+    {
+     "id": "v07-11",
+     "title": "Uveal metastasis & lymphoid lesions",
+     "group": "Uveal tumours"
+    },
+    {
+     "id": "v07-12",
+     "title": "Episcleritis vs scleritis",
+     "group": "Sclera"
+    },
+    {
+     "id": "v07-13",
+     "title": "Scleral thinning & thickening",
+     "group": "Sclera"
+    }
+   ]
   },
   {
    "id": "ch08",

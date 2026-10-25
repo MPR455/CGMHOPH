@@ -1,0 +1,304 @@
+{
+ "id": "ch07",
+ "num": 7,
+ "title": "Uveal Tract & Sclera",
+ "chunks": [
+  {
+   "id": "v07-01",
+   "group": "Uveitis basics",
+   "title": "Classifying uveitis & reading the signs",
+   "minutes": 3,
+   "tldr": "Anatomic: <b>anterior</b> (commonest; acute, unilateral, pain, photophobia, ciliary flush, small pupil), <b>intermediate</b> (vitritis, snowballs/snowbanks), <b>posterior</b> (retinitis, choroiditis, vasculitis, papillitis), <b>panuveitis</b>. Always check <b>corneal sensation</b> (low in HSV/VZV, leprosy) and <b>IOP</b> (high in HSV, VZV, CMV, toxo, syphilis, sarcoid, <b>Posner-Schlossman</b>). <b>Granulomatous</b> = mutton-fat KPs, iris nodules (<b>Koeppe</b> margin, <b>Busacca</b> stroma, Berlin angle) → infection, sarcoid, VKH, sympathetic ophthalmia, lens-induced, MS.",
+   "points": [
+    "Stellate KPs all over the endothelium: HSV, VZV, CMV, toxo, <b>Fuchs</b>, sarcoid.",
+    "Hypopyon uveitis: <b>HLA-B27</b> (West), <b>Behçet</b> (Asia).",
+    "Sectoral iris atrophy = herpetic; diffuse = Fuchs."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Non-granulomatous",
+     "Granulomatous"
+    ],
+    "rows": [
+     [
+      "Onset",
+      "Acute",
+      "Insidious"
+     ],
+     [
+      "Pain/photophobia",
+      "Marked",
+      "Mild"
+     ],
+     [
+      "KPs",
+      "Small white",
+      "Large mutton-fat"
+     ],
+     [
+      "Nodules",
+      "No",
+      "Sometimes"
+     ],
+     [
+      "Course",
+      "Acute, recurrent",
+      "Chronic"
+     ]
+    ]
+   },
+   "hook": "<b>Uveitis exam = sensation, pressure, KPs, iris, fundus — every time.</b>",
+   "cards": [
+    {
+     "q": "Koeppe vs Busacca nodules?",
+     "a": "Koeppe at the pupillary margin; Busacca in the iris stroma (both granulomatous)."
+    },
+    {
+     "q": "Uveitis causes with raised IOP?",
+     "a": "HSV, VZV, CMV, toxoplasmosis, syphilis, sarcoidosis, Posner-Schlossman."
+    }
+   ]
+  },
+  {
+   "id": "v07-02",
+   "group": "Uveitis basics",
+   "title": "Work-up, complications & treatment",
+   "minutes": 3,
+   "tldr": "First mild unilateral non-granulomatous AAU that responds → no tests. Recurrent, bilateral, granulomatous, intermediate/posterior/pan, or non-responding → test <b>syphilis</b> (VDRL/RPR + treponemal FTA-ABS), <b>TB</b> (CXR + PPD or <b>IGRA</b>), <b>sarcoid</b> (CXR, ACE, lysozyme); then tailored (HLA-B27, ANA in JIA, toxo serology). Complications: synechiae → <b>iris bombé</b>/angle closure, cataract, glaucoma, <b>CME</b>, RD (exudative = VKH, SO, posterior scleritis). Rx: <b>prednisolone acetate 1% hourly-2 hourly</b> (shake it!) + <b>cycloplegic</b> (homatropine); posterior → <b>sub-Tenon triamcinolone 40 mg</b>, intravitreal, oral prednisone 0.5–1.5 mg/kg; steroid-sparers (MTX, MMF, aza, cyclosporine, anti-TNF).",
+   "points": [
+    "Cataract surgery only after ≥3–6 months quiet, with steroid cover.",
+    "Rule out epithelial defect/open globe and herpes before steroids."
+   ],
+   "hook": "<b>Every uveitis work-up: Syphilis, TB, Sarcoid — the great imitators.</b>",
+   "cards": [
+    {
+     "q": "Three tests ordered in almost every non-trivial uveitis?",
+     "a": "Syphilis serology (treponemal + non-treponemal), TB (CXR + IGRA/PPD), sarcoid (CXR, ACE/lysozyme)."
+    },
+    {
+     "q": "Why give a cycloplegic in anterior uveitis?",
+     "a": "Relieves ciliary spasm pain and prevents posterior synechiae."
+    }
+   ]
+  },
+  {
+   "id": "v07-03",
+   "group": "Anterior uveitis",
+   "title": "HLA-B27 & JIA uveitis",
+   "minutes": 3,
+   "tldr": "<b>HLA-B27 AAU</b>: men, acute unilateral alternating, fibrin/hypopyon, non-granulomatous; HLA-B27 in ~50–90% of AAU; half develop systemic disease — <b>ankylosing spondylitis</b> (up to 50% get uveitis), reactive arthritis, IBD, psoriatic arthritis. <b>JIA</b>: girls 4–5:1, <b>oligoarticular, ANA+</b>; <b>chronic, white, painless</b> bilateral iridocyclitis found at 5–6 y by screening — <b>band keratopathy</b>, synechiae, cataract, glaucoma, CME. Rx topical steroid, then <b>MTX</b>, adalimumab; IOL often avoided.",
+   "points": [
+    "Uveitis may precede arthritis by years; knee commonest joint.",
+    "JIA kids need regular slitlamp screening because they don't complain."
+   ],
+   "hook": "<b>JIA eye is quiet and white — damage happens silently.</b>",
+   "cards": [
+    {
+     "q": "Highest-risk JIA group for uveitis?",
+     "a": "Young girls with oligoarticular (pauciarticular) JIA who are ANA positive."
+    },
+    {
+     "q": "Systemic diseases linked to HLA-B27 anterior uveitis?",
+     "a": "Ankylosing spondylitis, reactive arthritis (Reiter), inflammatory bowel disease, psoriatic arthritis."
+    }
+   ]
+  },
+  {
+   "id": "v07-04",
+   "group": "Anterior uveitis",
+   "title": "Fuchs heterochromic & lens-induced uveitis",
+   "minutes": 2,
+   "tldr": "<b>Fuchs uveitis syndrome</b>: 3rd–4th decade, unilateral, painless, white; <b>heterochromia</b> (affected eye usually lighter), diffuse stellate KPs, iris stromal atrophy, <b>no posterior synechiae</b>, angle vessels (<b>Amsler sign</b> = bleed on paracentesis), vitritis; cataract in most, glaucoma 10–15%. Don't over-treat with steroids; cataract surgery does well. <b>Lens-induced (phacoantigenic)</b>: immune reaction to leaked lens protein (hypermature cataract, trauma, retained fragments); phacolytic glaucoma — cure = remove lens material.",
+   "points": [
+    "In dark irides, Fuchs eye looks lighter; in blue irides it can paradoxically look darker."
+   ],
+   "hook": "<b>Uveitis without synechiae + heterochromia + cataract = Fuchs.</b>",
+   "cards": [
+    {
+     "q": "What is Amsler's sign?",
+     "a": "Filiform haemorrhage from fragile angle vessels during AC paracentesis/surgery in Fuchs heterochromic iridocyclitis."
+    }
+   ]
+  },
+  {
+   "id": "v07-05",
+   "group": "Intermediate & posterior",
+   "title": "Intermediate uveitis & clues to posterior uveitis",
+   "minutes": 3,
+   "tldr": "<b>Intermediate</b>: young adults, bilateral ~80%, floaters; <b>snowballs/snowbanking</b>, peripheral vasculitis; exclude <b>sarcoid, MS</b>, syphilis, TB. Vision lost from <b>CME</b> and PSC. Treat CME: topical steroid trial 3–4 wk (steroid responder?) → sub-Tenon/intravitreal triamcinolone. <b>Posterior uveitis clues</b> by age: &lt;3 y masquerades (RB, leukaemia), congenital infections; 4–15 y <b>toxo, toxocara</b>; 16–50 syphilis, TB, sarcoid, toxo, Behçet, VKH, ARN; &gt;50 add <b>lymphoma</b>, birdshot, endophthalmitis. Unilateral: toxo, toxocara, ARN, endogenous infection.",
+   "points": [
+    "Commonest retinitis (immunocompetent): <b>toxo</b>, syphilis, Behçet. Commonest choroiditis: <b>sarcoid, TB, VKH</b>.",
+    "Little vitritis: serpiginous, POHS. Heavy vitritis: toxo, bacterial endophthalmitis.",
+    "Papillitis with painful eye movements → MS; macular star → Bartonella."
+   ],
+   "hook": "<b>Snowballs in a young adult — ask about neuro symptoms (MS).</b>",
+   "cards": [
+    {
+     "q": "Most common cause of visual loss in intermediate uveitis?",
+     "a": "Cystoid macular oedema (then posterior subcapsular cataract)."
+    }
+   ]
+  },
+  {
+   "id": "v07-06",
+   "group": "Intermediate & posterior",
+   "title": "Toxoplasmosis, POHS & toxocariasis",
+   "minutes": 3,
+   "tldr": "<b>Toxo</b> (cats; oocysts, undercooked meat, congenital): fluffy white focal retinochoroiditis <b>next to an old pigmented scar</b>, dense vitritis ('headlight in fog'). Small peripheral lesion → observe. Threatening → <b>pyrimethamine</b> (75 mg load ×2 d then 25–50 mg/d) + <b>sulfadiazine</b> + folinic acid ×4–6 wk; or <b>TMP-SMX</b>, clindamycin. Oral steroids only under antimicrobial cover; <b>no periocular depot steroid</b>. <b>POHS</b> (Ohio-Mississippi): punched-out spots, peripapillary atrophy, no vitritis, CNV → anti-VEGF. <b>Toxocara</b> (pica, puppies): unilateral child, posterior pole or peripheral granuloma, chronic endophthalmitis, leukocoria; ELISA; steroids ± vitrectomy, <b>no anthelmintic</b>.",
+   "points": [
+    "Weekly FBC on pyrimethamine.",
+    "Visceral larva migrans ~2 y with eosinophilia; ocular ~7 y without."
+   ],
+   "hook": "<b>New white lesion hugging an old black scar = toxo.</b>",
+   "cards": [
+    {
+     "q": "Classic triple therapy for ocular toxoplasmosis?",
+     "a": "Pyrimethamine + sulfadiazine + folinic acid (± oral prednisolone after 24–48 h)."
+    },
+    {
+     "q": "Why avoid anthelmintics in ocular toxocariasis?",
+     "a": "Killing the larva may worsen intraocular inflammation."
+    }
+   ]
+  },
+  {
+   "id": "v07-07",
+   "group": "Panuveitis",
+   "title": "AIDS, TB, sarcoid & syphilis uveitis",
+   "minutes": 3,
+   "tldr": "<b>AIDS</b>: CD4 &lt;100 → <b>CMV retinitis</b> ('pizza-pie' haemorrhagic geographic necrosis; 30–40% pre-HAART); VZV/HSV progress faster; consider toxo, syphilis, crypto, lymphoma. <b>TB</b>: granulomatous KPs, choroidal tubercles; 4-drug therapy 6–9 months. <b>Sarcoid</b>: 25% of systemic sarcoid get uveitis; granulomatous, <b>candle-wax periphlebitis</b>, black patients; CXR hilar nodes, ACE, lysozyme, biopsy non-caseating granuloma; Heerfordt (uveoparotid), Mikulicz. <b>Syphilis</b> (secondary/tertiary): any uveitis, ground-glass placoid retinitis, papillitis; VDRL can be falsely negative late → do <b>treponemal</b> test; LP; <b>IV penicillin G 4 MU 4-hourly ×14 d</b>.",
+   "points": [
+    "Treat syphilitic uveitis as neurosyphilis."
+   ],
+   "hook": "<b>Uveitis + positive syphilis serology = neurosyphilis dosing.</b>",
+   "cards": [
+    {
+     "q": "Treatment for syphilitic uveitis?",
+     "a": "Aqueous crystalline penicillin G 4 million units IV every 4 h for 14 days (neurosyphilis regimen)."
+    },
+    {
+     "q": "Fundus sign of sarcoid vasculitis?",
+     "a": "Candle-wax drippings (periphlebitis with exudates)."
+    }
+   ]
+  },
+  {
+   "id": "v07-08",
+   "group": "Panuveitis",
+   "title": "Sympathetic ophthalmia & tropical uveitis",
+   "minutes": 3,
+   "tldr": "<b>Sympathetic ophthalmia</b>: bilateral granulomatous panuveitis 10 days–years (90% within 1 y) after <b>penetrating injury</b> (rarely surgery); exciting eye then sympathising eye; <b>Dalen-Fuchs nodules</b>, exudative RD. Prevent: enucleate a blind, badly injured eye <b>within ~10 days</b>. Treat: high-dose steroids (1–1.5 mg/kg) + steroid-sparers. <b>Leptospirosis</b>: farmers/rat urine, fever, hypopyon panuveitis + vasculitis; penicillin/doxycycline. <b>Onchocerciasis</b> (river blindness, black fly): microfilariae in AC, sclerosing keratitis, chorioretinitis; <b>ivermectin</b> + nodulectomy. <b>Cysticercosis</b>: intravitreal/subretinal cyst with scolex → vitrectomy.",
+   "points": [
+    "Untreated sympathetic ophthalmia → bilateral blindness."
+   ],
+   "hook": "<b>Injured eye blind? Remove it within 2 weeks to save the other.</b>",
+   "cards": [
+    {
+     "q": "What are Dalen-Fuchs nodules?",
+     "a": "Yellow-white deep nodules of epithelioid cells between RPE and Bruch's — seen in sympathetic ophthalmia (and VKH)."
+    },
+    {
+     "q": "Drug of choice for onchocerciasis?",
+     "a": "Ivermectin (single dose 150–200 µg/kg, repeated 6–12-monthly)."
+    }
+   ]
+  },
+  {
+   "id": "v07-09",
+   "group": "Uveal tumours",
+   "title": "Benign uveal tumours",
+   "minutes": 3,
+   "tldr": "<b>Nevus</b>: common in older whites (2–10%); flat grey-brown, feathery edge, <b>drusen</b> on surface (dormant); 95% &lt;5 mm/&lt;1 mm. <b>Melanocytoma</b>: jet-black lesion on the disc. <b>Circumscribed choroidal haemangioma</b>: orange-red dome near disc/macula, 30s–40s; ICG early fill + late washout; US high internal reflectivity; Rx <b>PDT</b>. <b>Diffuse haemangioma</b>: 'tomato-ketchup' fundus in <b>Sturge-Weber</b>, glaucoma. <b>Choroidal osteoma</b>: young women, orange-white peripapillary plate, CNV risk; bone on US/CT.",
+   "points": [
+    "Suspicious features in a pigmented lesion: thickness &gt;2 mm, <b>orange pigment</b>, <b>subretinal fluid</b>, symptoms, margin near disc, growth — 'TFSOM'."
+   ],
+   "hook": "<b>Drusen on top = old & sleepy; orange pigment + fluid = waking up.</b>",
+   "cards": [
+    {
+     "q": "ICG pattern of circumscribed choroidal haemangioma?",
+     "a": "Early intense hyperfluorescence with late 'washout' of the centre."
+    },
+    {
+     "q": "Diffuse choroidal haemangioma is a feature of which syndrome?",
+     "a": "Sturge-Weber syndrome (with facial port-wine stain)."
+    }
+   ]
+  },
+  {
+   "id": "v07-10",
+   "group": "Uveal tumours",
+   "title": "Uveal melanoma",
+   "minutes": 3,
+   "tldr": "Commonest primary adult intraocular malignancy; whites, light irides, <b>ocular melanocytosis</b>, dysplastic nevus syndrome. <b>Iris</b> (40s): nodular, vessels, pupil peaking, ectropion, angle seeding → glaucoma; best prognosis. <b>Ciliary body</b>: <b>sentinel vessels</b>, lens indentation; worst. <b>Choroid</b>: dome or <b>collar-stud/mushroom</b> (through Bruch's); US low internal reflectivity, choroidal excavation. Metastasis → <b>liver</b>. Bad prognosis: large, ciliary body, <b>epithelioid</b> cells, <b>monosomy 3</b>, <b>GEP class 2</b>. Rx: <b>plaque brachytherapy</b> (I-125/Ru-106) or proton beam; enucleation for large/disc-involving; iris → excision or plaque.",
+   "points": [
+    "<b>COMS</b>: medium tumours — I-125 plaque = enucleation for survival; pre-enucleation EBRT for large tumours no benefit.",
+    "Metastatic disease: median survival short; no adjuvant proven."
+   ],
+   "hook": "<b>Melanoma spreads to the Liver — check LFTs/imaging for life.</b>",
+   "cards": [
+    {
+     "q": "Chromosomal marker of high metastatic risk in uveal melanoma?",
+     "a": "Monosomy 3 (and GEP class 2, BAP1 loss)."
+    },
+    {
+     "q": "Key COMS finding for medium choroidal melanoma?",
+     "a": "Iodine-125 plaque brachytherapy gives the same survival as enucleation."
+    }
+   ]
+  },
+  {
+   "id": "v07-11",
+   "group": "Uveal tumours",
+   "title": "Uveal metastasis & lymphoid lesions",
+   "minutes": 2,
+   "tldr": "<b>Metastasis is the most common intraocular malignancy</b>. Sources: <b>breast</b> (women), <b>lung</b> (men), colon. Choroid: creamy-yellow plaque/dome, <b>subretinal fluid out of proportion</b>, multifocal/bilateral in ~20%, grows in weeks. Treat as brain metastasis (~20% have CNS mets): palliative EBRT/chemo; median survival ~6 months. <b>Atypical lymphoid hyperplasia</b> & <b>primary uveal lymphoma</b>: creamy diffuse choroidal infiltrates, salmon epibulbar mass; biopsy; low-dose EBRT; 20% develop systemic lymphoma (unlike vitreoretinal lymphoma, which goes to brain).",
+   "points": [],
+   "hook": "<b>Creamy choroidal mass in a woman — check the breasts.</b>",
+   "cards": [
+    {
+     "q": "Commonest primary sites for uveal metastasis?",
+     "a": "Breast in women, lung in men (then GI)."
+    }
+   ]
+  },
+  {
+   "id": "v07-12",
+   "group": "Sclera",
+   "title": "Episcleritis vs scleritis",
+   "minutes": 3,
+   "tldr": "<b>Episcleritis</b>: young women, sudden redness, mild discomfort, simple or nodular, <b>vessels blanch with phenylephrine</b> and move; self-limits 1–2 wk; tears, topical steroid, oral NSAID if recurrent. <b>Scleritis</b>: ~48 y, <b>severe boring pain</b> radiating to face/jaw, waking at night; <b>violaceous</b> deep vessels; up to 2/3 systemic disease — <b>RA</b>, <b>GPA</b>, relapsing polychondritis, PAN, SLE, IBD; infections (zoster, TB, post-surgical Pseudomonas). Types: diffuse, nodular, <b>necrotising</b> (worst), <b>scleromalacia perforans</b> (painless, RA, old women), <b>posterior</b> (choroidal folds, exudative RD, proptosis, disc swelling; <b>T-sign</b> on US).",
+   "points": [
+    "Diffuse/nodular: <b>oral NSAID</b> (indomethacin 75 mg, flurbiprofen) → oral steroid if no response in 2 wk.",
+    "Necrotising: <b>prednisolone 1 mg/kg</b>, IV methylpred, <b>cyclophosphamide</b> (GPA), rituximab/anti-TNF.",
+    "Topical steroid alone doesn't control scleritis. SINS = surgically induced necrotising scleritis."
+   ],
+   "hook": "<b>Pain that wakes you at night + purple eye = scleritis; look for vasculitis.</b>",
+   "cards": [
+    {
+     "q": "Ultrasound sign of posterior scleritis?",
+     "a": "Scleral thickening with fluid in sub-Tenon's space (T-sign)."
+    },
+    {
+     "q": "Which scleritis is painless?",
+     "a": "Scleromalacia perforans (usually long-standing RA)."
+    }
+   ]
+  },
+  {
+   "id": "v07-13",
+   "group": "Sclera",
+   "title": "Scleral thinning & thickening",
+   "minutes": 2,
+   "tldr": "<b>Ectasia</b> = sclera stretched alone; <b>staphyloma</b> = sclera + uvea bulge (anterior/ciliary/intercalary, equatorial, <b>posterior in pathological myopia</b>). Scleral coloboma inferior to disc with uveal/retinal coloboma; <b>buphthalmos</b> from infantile glaucoma. Blue sclera in OI, Ehlers-Danlos. <b>Nanophthalmos</b>: tiny eye, thick sclera, high hyperopia → <b>angle closure</b> and <b>uveal effusion</b> (risky surgery).",
+   "points": [],
+   "hook": "<b>Small eye, thick sclera = beware angle closure and effusions.</b>",
+   "cards": [
+    {
+     "q": "Two complications of nanophthalmos?",
+     "a": "Angle-closure glaucoma and uveal effusion syndrome (especially with intraocular surgery)."
+    }
+   ]
+  }
+ ]
+}
