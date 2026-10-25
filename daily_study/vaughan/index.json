@@ -181,7 +181,58 @@
    "num": 4,
    "title": "Lids & Lacrimal Apparatus",
    "file": "ch04.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v04-01",
+     "title": "Lid anatomy refresher, hordeolum & chalazion",
+     "group": "Lid inflammation"
+    },
+    {
+     "id": "v04-02",
+     "title": "Anterior & posterior blepharitis",
+     "group": "Lid inflammation"
+    },
+    {
+     "id": "v04-03",
+     "title": "Entropion, trichiasis & ectropion",
+     "group": "Lid position"
+    },
+    {
+     "id": "v04-04",
+     "title": "Epicanthus, telecanthus, chalasis & spasm",
+     "group": "Lid position"
+    },
+    {
+     "id": "v04-05",
+     "title": "Ptosis classification",
+     "group": "Ptosis"
+    },
+    {
+     "id": "v04-06",
+     "title": "Ptosis surgery",
+     "group": "Ptosis"
+    },
+    {
+     "id": "v04-07",
+     "title": "Benign lid tumours",
+     "group": "Lid tumours"
+    },
+    {
+     "id": "v04-08",
+     "title": "Malignant lid tumours",
+     "group": "Lid tumours"
+    },
+    {
+     "id": "v04-09",
+     "title": "Tear film & secretory disorders",
+     "group": "Lacrimal"
+    },
+    {
+     "id": "v04-10",
+     "title": "NLDO, dacryocystitis & canaliculitis",
+     "group": "Lacrimal"
+    }
+   ]
   },
   {
    "id": "ch05",

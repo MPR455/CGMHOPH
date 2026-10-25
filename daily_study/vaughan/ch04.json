@@ -1,0 +1,211 @@
+{
+ "id": "ch04",
+ "num": 4,
+ "title": "Lids & Lacrimal Apparatus",
+ "chunks": [
+  {
+   "id": "v04-01",
+   "group": "Lid inflammation",
+   "title": "Lid anatomy refresher, hordeolum & chalazion",
+   "minutes": 3,
+   "tldr": "Lateral canthus sits 1–2 mm higher than medial. Upper lid: septum joins levator aponeurosis; <b>preaponeurotic fat</b> behind septum is the surgical landmark; levator inserts lower third of tarsus; crease low/absent in Asian lids. <b>Hordeolum</b>: acute staph infection — <b>internal</b> (meibomian) or <b>external/stye</b> (Zeis/Moll, points to skin). Warm compresses 10–15 min several times daily; I&D if not resolving in 48 h (<b>vertical conjunctival</b> or <b>horizontal skin</b> incision). <b>Chalazion</b>: sterile lipogranuloma from blocked meibomian gland (rosacea, posterior blepharitis); may cause astigmatism.",
+   "points": [
+    "Chalazion: compresses → incision & curettage or intralesional steroid.",
+    "<b>Recurrent chalazion → biopsy</b> (sebaceous carcinoma mimic).",
+    "Systemic antibiotics only if cellulitis."
+   ],
+   "hook": "<b>Same chalazion again and again? Biopsy it.</b>",
+   "cards": [
+    {
+     "q": "Histology of a chalazion?",
+     "a": "Granulomatous (lipogranulomatous) inflammation with Langhans-type giant cells."
+    }
+   ]
+  },
+  {
+   "id": "v04-02",
+   "group": "Lid inflammation",
+   "title": "Anterior & posterior blepharitis",
+   "minutes": 3,
+   "tldr": "<b>Anterior</b>: <b>staphylococcal</b> (dry scales, red ulcerated margins, lash loss; → hordeola, chalazia, inferior punctate keratitis, <b>marginal keratitis</b>) vs <b>seborrhoeic</b> (greasy scales, Malassezia, scalp/brow seborrhoea); often mixed. Rx: <b>lid hygiene</b> (baby shampoo scrub), antistaph ointment. <b>Posterior (MGD)</b>: capped/inspissated glands, toothpaste secretions, telangiectatic rounded margins, frothy tears; linked to <b>rosacea</b>. Rx: warm compresses + expression; <b>doxycycline 50–100 mg bd</b>, azithromycin 1 g weekly ×3, topical metronidazole; brief weak steroid; preservative-free tears.",
+   "points": [
+    "Both chronic, bilateral, may coexist; predispose to recurrent conjunctivitis.",
+    "Bacterial lipases disrupt the tear film."
+   ],
+   "hook": "<b>Dry scales = staph; greasy scales = seborrhoea; plugged glands = MGD.</b>",
+   "cards": [
+    {
+     "q": "Systemic options for meibomian gland dysfunction?",
+     "a": "Oral doxycycline (50–100 mg bd) or azithromycin (1 g weekly for 3 weeks)."
+    }
+   ]
+  },
+  {
+   "id": "v04-03",
+   "group": "Lid position",
+   "title": "Entropion, trichiasis & ectropion",
+   "minutes": 4,
+   "tldr": "<b>Entropion</b>: involutional (commonest; <b>lower lid</b>; horizontal laxity + retractor disinsertion + overriding preseptal orbicularis), spastic, <b>cicatricial</b> (trachoma, OCP; upper or lower), congenital (don't confuse with <b>epiblepharon</b> — skin fold rolls lashes). Fix: lateral tightening, retractor repair, margin rotation; temporary tape/botox/Quickert sutures. Cicatricial: tarsal fracture/rotation, grafts. <b>Trichiasis</b>: epilate, electrolysis, laser, cryo. <b>Distichiasis</b>: extra lash row from meibomian orifices. <b>Ectropion</b>: involutional, <b>paralytic (VII)</b>, cicatricial (skin graft), mechanical (remove mass), congenital → tearing, exposure.",
+   "points": [
+    "Lid coloboma (upper medial) with limbal dermoid → Goldenhar; repair early if cornea at risk."
+   ],
+   "hook": "<b>In = entropion (lashes scratch); out = ectropion (eye waters).</b>",
+   "cards": [
+    {
+     "q": "Three components of involutional lower lid entropion?",
+     "a": "Horizontal lid laxity, lower lid retractor disinsertion, overriding preseptal orbicularis."
+    }
+   ]
+  },
+  {
+   "id": "v04-04",
+   "group": "Lid position",
+   "title": "Epicanthus, telecanthus, chalasis & spasm",
+   "minutes": 3,
+   "tldr": "<b>Epicanthus</b>: vertical medial skin fold → <b>pseudoesotropia</b>; tarsalis (continuous with upper fold) vs inversus (into lower lid, blepharophimosis); fades by puberty. <b>Telecanthus</b>: intercanthal distance &gt; palpebral fissure length (~30 mm); vs <b>hypertelorism</b> (wide orbits too, Crouzon). <b>Blepharochalasis</b>: young, recurrent painless lid oedema → thin 'crepe paper' skin, ptosis. <b>Dermatochalasis</b>: age-related excess skin; may block superior field → blepharoplasty. <b>Benign essential blepharospasm</b>: bilateral, women 3:1, basal ganglia circuit → <b>botulinum toxin</b>. <b>Hemifacial spasm</b>: unilateral, VII root compression by vessel → microvascular decompression or botox. Myokymia: benign lid twitch.",
+   "points": [],
+   "hook": "<b>Both eyes squeezing = blepharospasm; one side of face = hemifacial spasm.</b>",
+   "cards": [
+    {
+     "q": "Usual cause of hemifacial spasm?",
+     "a": "Vascular loop compressing the facial nerve root exit zone."
+    }
+   ]
+  },
+  {
+   "id": "v04-05",
+   "group": "Ptosis",
+   "title": "Ptosis classification",
+   "minutes": 4,
+   "tldr": "Upper lid normally sits midway between superior limbus and pupil. <b>Congenital myogenic</b>: dystrophic levator → <b>poor excursion, lid lag on downgaze</b>; 25% superior rectus weak. <b>Blepharophimosis</b> (FOXL2, AD; ptosis, telecanthus, epicanthus inversus; ovarian failure). Congenital neurogenic: III palsy, <b>Horner</b> (heterochromia; neuroblastoma), <b>Marcus Gunn jaw-wink</b> (V→levator synkinesis), CFEOM. <b>Acquired aponeurotic</b> (commonest; dehiscence, <b>high crease, good excursion</b>; trauma, surgery, contact lenses, pregnancy). Myogenic: <b>CPEO/Kearns–Sayre</b>, oculopharyngeal dystrophy (French-Canadian), myotonic dystrophy, <b>myasthenia</b>. Neurogenic: III palsy, Horner, botox. Mechanical: mass, oedema, scar. <b>Pseudoptosis</b>: dermatochalasis, contralateral retraction, hypotropia, enophthalmos.",
+   "points": [
+    "MG: fatigue on upgaze, ice test, Cogan twitch; AChR antibodies 50–70% sensitive in ocular MG; <b>single-fibre EMG 88–99%</b>; screen for <b>thymoma (~10%)</b>.",
+    "Horner: mild ptosis + lower lid elevation + miosis ± anhidrosis."
+   ],
+   "hook": "<b>High crease + good levator = aponeurotic; weak levator + lid lag = congenital.</b>",
+   "cards": [
+    {
+     "q": "Most sensitive test for ocular myasthenia?",
+     "a": "Single-fibre EMG (88–99%)."
+    },
+    {
+     "q": "Gene in blepharophimosis syndrome?",
+     "a": "FOXL2 (chromosome 3), autosomal dominant."
+    }
+   ]
+  },
+  {
+   "id": "v04-06",
+   "group": "Ptosis",
+   "title": "Ptosis surgery",
+   "minutes": 3,
+   "tldr": "Choice depends on <b>levator function</b>. Good function: <b>levator aponeurosis advancement/resection</b> (skin approach) or <b>Müller's muscle resection</b> (conjunctival); ± superior tarsectomy. <b>Poor function: frontalis sling</b> (autologous/allogeneic fascia lata, silicone, Mersilene, Gore-Tex). Caution if poor closure or <b>absent Bell's phenomenon</b> (exposure). Symmetry in all gazes only if levator works. Children: watch for <b>deprivation amblyopia</b>, astigmatism, strabismus; observe mild ptosis until 4–5 yr; operate early if amblyopia or chin-up posture. MG: treat medically first.",
+   "points": [],
+   "hook": "<b>Bad levator → borrow the brow.</b>",
+   "cards": [
+    {
+     "q": "Indication for early ptosis surgery in a child?",
+     "a": "Amblyopia (visual axis occlusion/astigmatism) or worsening chin-up head posture."
+    }
+   ]
+  },
+  {
+   "id": "v04-07",
+   "group": "Lid tumours",
+   "title": "Benign lid tumours",
+   "minutes": 4,
+   "tldr": "<b>Squamous papilloma</b> (skin tag). <b>Seborrhoeic keratosis</b> (stuck-on, warty, older adults). <b>Keratoacanthoma</b>: rapid crater with keratin plug, involutes in ~6 months; SCC variant? — excise; multiple → <b>Muir–Torre</b> (colorectal cancer). <b>Actinic keratosis</b>: scaly; up to 20% → SCC. <b>Naevi</b>: junctional → compound → intradermal (often amelanotic in adults). Adnexal: sebaceous adenoma, trichoepithelioma. <b>Capillary haemangioma</b>: appears weeks after birth, grows ~1 yr, <b>involutes</b> (30% by 3, 70–90% by 7) → treat for <b>amblyopia</b>, optic neuropathy, exposure with <b>propranolol</b> (monitor: bradycardia, hypoglycaemia, bronchospasm) or topical timolol. Port-wine stain (Sturge–Weber). <b>Lymphangioma</b>: bleeds after trauma/URTI. Choristomas: dermoid (lateral brow).",
+   "points": [],
+   "hook": "<b>Strawberry baby lid → propranolol if it threatens vision.</b>",
+   "cards": [
+    {
+     "q": "First-line systemic treatment for vision-threatening periocular capillary haemangioma?",
+     "a": "Oral propranolol (started with monitoring)."
+    }
+   ]
+  },
+  {
+   "id": "v04-08",
+   "group": "Lid tumours",
+   "title": "Malignant lid tumours",
+   "minutes": 4,
+   "tldr": "<b>BCC</b> (~90%): from pluripotent basal stem cells; <b>lower lid 65%</b>; pearly nodule, rolled edge, telangiectasia, lash loss; local invasion. Rx: biopsy → excision with margin control or <b>Mohs</b>; <b>vismodegib</b> (hedgehog inhibitor) for advanced. <b>SCC</b> (5–10%): hyperkeratotic → ulcerates; <b>lymph node spread</b>, perineural invasion. <b>Sebaceous carcinoma</b>: tarsal nodule/diffuse thickening, lash loss, <b>masquerades as recurrent chalazion/blepharitis</b>; <b>pagetoid spread</b>; oil red O; map biopsies; wide excision; Muir–Torre. <b>Melanoma</b> (1%): check preauricular/submandibular nodes. <b>Lymphoma</b>: lids often <b>T-cell</b> (mycosis fungoides). <b>Kaposi</b> (HHV-8, AIDS). Metastases: poor survival.",
+   "points": [
+    "Risks: UV, radiation, fair skin, &gt;50, immunosuppression, arsenic, xeroderma pigmentosum."
+   ],
+   "table": {
+    "head": [
+     "Tumour",
+     "Share",
+     "Key feature"
+    ],
+    "rows": [
+     [
+      "BCC",
+      "~90%",
+      "Pearly, telangiectatic, lower lid"
+     ],
+     [
+      "SCC",
+      "5–10%",
+      "Ulcerates, nodes, perineural"
+     ],
+     [
+      "Sebaceous ca",
+      "Rare",
+      "Chronic 'chalazion/blepharitis', pagetoid"
+     ],
+     [
+      "Melanoma",
+      "1%",
+      "Pigmented, nodal spread"
+     ]
+    ]
+   },
+   "hook": "<b>One-sided 'blepharitis' that won't settle = sebaceous carcinoma.</b>",
+   "cards": [
+    {
+     "q": "What is pagetoid spread?",
+     "a": "Intraepithelial spread of tumour cells (e.g. sebaceous carcinoma) into conjunctival/skin epithelium away from the main mass."
+    }
+   ]
+  },
+  {
+   "id": "v04-09",
+   "group": "Lacrimal",
+   "title": "Tear film & secretory disorders",
+   "minutes": 3,
+   "tldr": "Tear film: <b>mucin</b> (goblet cells) / <b>aqueous</b> (lacrimal + Krause/Wolfring) / <b>lipid</b> (meibomian). Reflex arc: V1 afferent → superior salivary nucleus → nervus intermedius → greater petrosal → Vidian nerve → <b>pterygopalatine ganglion</b> → zygomatic → lacrimal nerve. <b>Alacrima</b>: Riley–Day, anhidrotic ectodermal dysplasia, CPA surgery. Hypersecretion: mostly <b>reflex</b> from surface disease. <b>Crocodile tears</b> (aberrant VII after Bell's) → botox to gland. <b>Dacryoadenitis</b>: acute (children, viral — mumps, EBV; <b>S-shaped lid</b>) vs chronic &gt;1 month (sarcoid, Graves, Sjögren, SLE, <b>IgG4</b>; lymphoma mimic → biopsy).",
+   "points": [],
+   "hook": "<b>S-shaped upper lid = lacrimal gland swelling.</b>",
+   "cards": [
+    {
+     "q": "Cause of gustatory tearing ('crocodile tears')?",
+     "a": "Aberrant regeneration of the facial nerve after Bell's palsy (salivary fibres reach the lacrimal gland)."
+    }
+   ]
+  },
+  {
+   "id": "v04-10",
+   "group": "Lacrimal",
+   "title": "NLDO, dacryocystitis & canaliculitis",
+   "minutes": 4,
+   "tldr": "Pump: blink tightens orbicularis around ampulla → canaliculi shorten → negative pressure in sac. <b>Congenital NLDO</b>: imperforate <b>valve of Hasner</b>; up to 8% of newborns, 90% open by 1 month; massage; <b>probe if &gt;6 months or acute dacryocystitis</b> (75% success once), then repeat probe, turbinate infracture, silicone tubes, balloon; never probe during acute infection. <b>Adult NLDO</b>: postmenopausal women → <b>DCR</b> (external or endonasal). Acute dacryocystitis: painful swelling below medial canthal tendon → <b>systemic antibiotics</b> (orbital cellulitis risk). <b>Do DCR before elective intraocular surgery</b>. <b>Canaliculitis</b>: <b>Actinomyces</b>, pouting punctum, sulphur granules → curettage/canaliculotomy.",
+   "points": [
+    "Canalicular stenosis: viral (zoster, HSV, adeno), SJS, OCP, 5-FU, idoxuridine → stent or CDCR with <b>Jones tube</b>.",
+    "Mucocele = dilated sac from NLDO."
+   ],
+   "hook": "<b>Infected sac → no cataract surgery until DCR.</b>",
+   "cards": [
+    {
+     "q": "When is probing indicated for congenital NLDO (per Vaughan)?",
+     "a": "Persistent stenosis beyond 6 months or an episode of acute dacryocystitis (not during active infection)."
+    },
+    {
+     "q": "Commonest organism in canaliculitis?",
+     "a": "Actinomyces israelii."
+    }
+   ]
+  }
+ ]
+}
