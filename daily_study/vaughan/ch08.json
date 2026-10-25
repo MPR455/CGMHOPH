@@ -1,0 +1,122 @@
+{
+ "id": "ch08",
+ "num": 8,
+ "title": "Lens",
+ "chunks": [
+  {
+   "id": "v08-01",
+   "group": "Lens basics",
+   "title": "Lens anatomy, accommodation & presbyopia",
+   "minutes": 2,
+   "tldr": "Capsule = basement membrane; <b>equatorial epithelium divides for life</b> → new fibres pile outside, old fibres compressed into the <b>nucleus</b>; younger fibres = <b>cortex</b>. Avascular, no nerves, fed by aqueous, <b>anaerobic</b> metabolism. <b>Accommodation</b>: ciliary muscle <b>contracts → zonules relax → lens rounds up</b> → more power for near. Elasticity falls with age → <b>presbyopia</b>. Removing the lens (<b>aphakia</b>) loses over a third of the eye's power (cornea gives the rest).",
+   "points": [
+    "Examine through a dilated pupil: slitlamp, or direct ophthalmoscope at +10 for red reflex."
+   ],
+   "hook": "<b>Squeeze the muscle, slacken the strings, fatten the lens.</b>",
+   "cards": [
+    {
+     "q": "What happens to the zonules when the ciliary muscle contracts?",
+     "a": "Zonular tension relaxes, allowing the lens to become more spherical (accommodation)."
+    }
+   ]
+  },
+  {
+   "id": "v08-02",
+   "group": "Cataract",
+   "title": "Age-related cataract types",
+   "minutes": 3,
+   "tldr": "~50% at 65–74, ~70% over 75. Risk: age, UV, smoking, diabetes, steroids, trauma. <b>Nuclear sclerosis</b>: yellow-brown nucleus, <b>myopic shift ('second sight')</b>, poor colour discrimination, monocular diplopia. <b>Cortical</b>: radial spokes/clefts from the equator (cuneiform, coronary); glare depends on position. <b>Posterior subcapsular</b>: plaque in visual axis → early <b>glare and worse vision in bright light/reading</b>; also from <b>steroids</b>, inflammation, radiation, trauma. <b>Mature</b> (all opaque), <b>intumescent</b> (swollen), <b>hypermature</b> (liquefied cortex, wrinkled capsule), <b>Morgagnian</b> (nucleus sinks in liquid cortex).",
+   "points": [
+    "No drug has been shown to prevent or reverse cataract.",
+    "Surgery indication = symptoms and function, not a set acuity.",
+    "Surgery improves acuity in &gt;90%."
+   ],
+   "hook": "<b>Old patient suddenly reading without glasses = nuclear cataract myopic shift.</b>",
+   "cards": [
+    {
+     "q": "Which cataract type gives early glare and worse vision in bright light?",
+     "a": "Posterior subcapsular cataract."
+    },
+    {
+     "q": "What is a Morgagnian cataract?",
+     "a": "A hypermature cataract where the liquefied cortex lets the nucleus sink inferiorly in the capsular bag."
+    }
+   ]
+  },
+  {
+   "id": "v08-03",
+   "group": "Cataract",
+   "title": "Childhood, traumatic & secondary cataract",
+   "minutes": 3,
+   "tldr": "<b>Childhood</b>: ⅓ hereditary, ⅓ metabolic/infectious/syndromic (rubella, galactosaemia, Lowe, Down), ⅓ unknown. <b>Dense central unilateral cataract &gt;2 mm must be removed within the first ~2 months</b> or deprivation amblyopia is permanent; bilateral less urgent but operate both eyes close together. Leukocoria may be the sign; red reflex screening in nursery. <b>Traumatic</b>: blunt → <b>posterior star/rosette</b>, Vossius ring (iris pigment imprint); penetrating → rapid white lens (hammering metal on metal → IOFB). <b>Complicated</b>: uveitis, glaucoma, RP, RD → PSC. <b>Systemic/drug</b>: diabetes (snowflake), hypocalcaemia, <b>myotonic dystrophy</b> (Christmas tree), atopic, steroids, phenothiazines, amiodarone.",
+   "points": [
+    "Zonular (lamellar) congenital cataract: one layer opaque, cortex clear."
+   ],
+   "hook": "<b>Baby with a dense one-sided cataract — the clock is ticking (6–8 weeks).</b>",
+   "cards": [
+    {
+     "q": "Typical cataract after blunt trauma?",
+     "a": "Posterior subcapsular star/rosette-shaped cataract (± Vossius ring on the anterior capsule)."
+    },
+    {
+     "q": "Polychromatic 'Christmas tree' cataract suggests which disease?",
+     "a": "Myotonic dystrophy."
+    }
+   ]
+  },
+  {
+   "id": "v08-04",
+   "group": "Cataract surgery",
+   "title": "Cataract surgery & IOLs",
+   "minutes": 3,
+   "tldr": "<b>Extracapsular</b>: keep the posterior capsule. <b>Phaco</b>: 2.5–3 mm incision, <b>capsulorhexis</b>, ultrasound breaks nucleus, aspirate cortex, foldable acrylic/silicone IOL <b>in the bag</b> (best position). <b>MSICS</b>: manual sutureless small incision, nucleus delivered whole — good for dense cataracts and low-resource settings. Femtosecond laser assistance: unproven routine benefit. Capsule tear → <b>dropped nucleus</b> (vitreoretinal surgery); IOL then sulcus or AC/sutured. Post-op: antibiotic + steroid drops 4–6 wk, shield at night.",
+   "points": [
+    "Capsule tear risks: trauma, dense lens, zonular weakness (PXF), small pupil.",
+    "Multifocal IOLs give near + distance at the cost of halos/contrast."
+   ],
+   "hook": "<b>Bag is best — IOL in the capsular bag has the fewest complications.</b>",
+   "cards": [
+    {
+     "q": "What is MSICS?",
+     "a": "Manual small-incision cataract surgery: sutureless tunnel, nucleus removed intact, cortex aspirated manually — no phaco machine."
+    }
+   ]
+  },
+  {
+   "id": "v08-05",
+   "group": "Cataract surgery",
+   "title": "Complications of cataract surgery & PCO",
+   "minutes": 3,
+   "tldr": "Permanent vision-threatening complications only 2–5%. Worst: <b>suprachoroidal haemorrhage</b> (&lt;0.5%) and <b>endophthalmitis</b> (~0.1%) → <b>vitreous tap + intravitreal antibiotics</b> (vancomycin + ceftazidime), vitrectomy if severe. Others: RD, <b>CME (Irvine-Gass)</b>, glaucoma, corneal oedema (pseudophakic bullous keratopathy), ptosis. <b>Posterior capsule opacification</b> ~10%: Elschnig pearls/fibrosis → <b>Nd:YAG capsulotomy</b>; risks IOP spike (check at ~3 h), IOL pitting, CME, RD.",
+   "points": [
+    "Childhood surgery: primary posterior capsulotomy + anterior vitrectomy because PCO is near-universal; correct with CL or IOL (power hard to predict); glaucoma common long-term."
+   ],
+   "hook": "<b>Painful red eye days after phaco = endophthalmitis until proven otherwise — tap and inject.</b>",
+   "cards": [
+    {
+     "q": "Treatment of posterior capsule opacification?",
+     "a": "Nd:YAG laser posterior capsulotomy."
+    },
+    {
+     "q": "Most important first management of suspected post-cataract endophthalmitis?",
+     "a": "Vitreous tap for microscopy/culture and intravitreal antibiotics (vancomycin + ceftazidime)."
+    }
+   ]
+  },
+  {
+   "id": "v08-06",
+   "group": "Ectopia lentis",
+   "title": "Dislocated lens",
+   "minutes": 2,
+   "tldr": "<b>Hereditary</b> (bilateral): <b>Marfan</b> (up & out, zonules stretched), <b>homocystinuria</b> (down & in, zonules disintegrate), <b>Weill-Marchesani</b> (small spherical lens, short stature), isolated familial. <b>Traumatic</b>: contusion. Signs: <b>iridodonesis</b>, phacodonesis, lens edge visible in pupil, deep/uneven AC; monocular diplopia, astigmatism. Complications: uveitis, glaucoma (pupil block, lens in AC). Leave alone if quiet and clear; else pars plana lensectomy/phaco with capsular tension ring or hooks.",
+   "points": [],
+   "hook": "<b>Marfan looks up at the stars; homocystinuria looks down at the floor.</b>",
+   "cards": [
+    {
+     "q": "Direction of lens dislocation in Marfan vs homocystinuria?",
+     "a": "Marfan: superotemporal (up & out). Homocystinuria: inferonasal (down & in)."
+    }
+   ]
+  }
+ ]
+}

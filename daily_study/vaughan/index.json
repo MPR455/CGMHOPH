@@ -483,7 +483,38 @@
    "num": 8,
    "title": "Lens",
    "file": "ch08.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v08-01",
+     "title": "Lens anatomy, accommodation & presbyopia",
+     "group": "Lens basics"
+    },
+    {
+     "id": "v08-02",
+     "title": "Age-related cataract types",
+     "group": "Cataract"
+    },
+    {
+     "id": "v08-03",
+     "title": "Childhood, traumatic & secondary cataract",
+     "group": "Cataract"
+    },
+    {
+     "id": "v08-04",
+     "title": "Cataract surgery & IOLs",
+     "group": "Cataract surgery"
+    },
+    {
+     "id": "v08-05",
+     "title": "Complications of cataract surgery & PCO",
+     "group": "Cataract surgery"
+    },
+    {
+     "id": "v08-06",
+     "title": "Dislocated lens",
+     "group": "Ectopia lentis"
+    }
+   ]
   },
   {
    "id": "ch09",
