@@ -1,0 +1,170 @@
+{
+ "id": "ch13",
+ "num": 13,
+ "title": "Orbit",
+ "chunks": [
+  {
+   "id": "v13-01",
+   "group": "Basics",
+   "title": "Proptosis, orbital syndromes & imaging",
+   "minutes": 3,
+   "tldr": "Rigid walls → mass pushes eye <b>forward</b>. <b>Axial</b> proptosis = intraconal; <b>non-axial</b> = extraconal. Bilateral → systemic (thyroid). <b>Pulsating</b>: CCF, AV malformation, sphenoid wing dysplasia (NF1). <b>Worse with Valsalva/head down</b>: orbital varix. Intermittent: mucocele. Measure with <b>Hertel</b>. <b>Pseudoproptosis</b>: high myopia, buphthalmos, lid retraction, contralateral enophthalmos. Optic neuropathy shows first as <b>RAPD + colour loss</b>. <b>SOF syndrome</b>: III, IV, VI + V1. <b>Orbital apex</b>: + optic nerve. <b>Cavernous sinus</b>: III, IV, VI + V1/V2, vision spared. CT for bone/trauma; MRI for soft tissue (no metal FB), preferred in kids; FNA biopsy &gt;75% diagnostic.",
+   "points": [],
+   "hook": "<b>Apex = SOF + optic nerve.</b>",
+   "cards": [
+    {
+     "q": "Orbital apex syndrome vs superior orbital fissure syndrome?",
+     "a": "Both affect III, IV, VI and V1; apex syndrome also involves the optic nerve (vision loss)."
+    },
+    {
+     "q": "Proptosis that increases with Valsalva suggests?",
+     "a": "Orbital venous varix (or bony defect)."
+    }
+   ]
+  },
+  {
+   "id": "v13-02",
+   "group": "Inflammatory",
+   "title": "Thyroid eye disease: features",
+   "minutes": 3,
+   "tldr": "Autoimmune: TSH-receptor antibodies activate <b>orbital fibroblasts</b> → GAGs swell muscles, adipogenesis, fibrosis. Can be hyper-, eu- or hypothyroid; <b>smoking</b> and <b>radioiodine</b> worsen; linked to <b>myasthenia</b>. <b>Commonest cause of uni/bilateral proptosis in adults</b>. Signs: <b>upper lid retraction</b> (Dalrymple), <b>lid lag</b> (von Graefe), lagophthalmos, exposure, <b>SLK</b>. Muscles: <b>IR &gt; MR</b> &gt; SR &gt; LR ('I'M SLow'); tendons spared (fusiform on CT); upgaze diplopia, IOP rise on upgaze. <b>Compressive optic neuropathy</b> at a crowded apex — may occur <b>without much proptosis</b>; RAPD, colour, VA. Ptosis in TED → think coexistent MG. Severe in 5–10%.",
+   "points": [],
+   "hook": "<b>I'M SLow: Inferior, Medial, Superior, Lateral.</b>",
+   "cards": [
+    {
+     "q": "Most commonly enlarged muscle in thyroid eye disease?",
+     "a": "Inferior rectus (then medial)."
+    },
+    {
+     "q": "Earliest signs of dysthyroid optic neuropathy?",
+     "a": "RAPD and reduced colour vision, before acuity drops."
+    }
+   ]
+  },
+  {
+   "id": "v13-03",
+   "group": "Inflammatory",
+   "title": "Thyroid eye disease: management",
+   "minutes": 3,
+   "tldr": "Team with endocrinology; avoid hypothyroidism; <b>stop smoking</b>; RAI risk (~15% new/worse TED) reduced by <b>oral steroid cover</b>; avoid RAI in active smokers. Grade with <b>CAS</b>. Mild: lubricants, <b>selenium</b> (mild active). Moderate-severe active: <b>IV methylprednisolone pulses</b> (better than oral), <b>rituximab</b>, radiotherapy (not with diabetic retinopathy), (now teprotumumab). Emergencies — <b>optic neuropathy</b> or severe exposure: high-dose IV steroid → <b>orbital decompression</b>. Inactive and stable ≥6 months → rehabilitative surgery in order: <b>decompression → strabismus (recess tight IR/MR) → lids</b>.",
+   "points": [],
+   "hook": "<b>Fix the order: Bones, then Muscles, then Lids.</b>",
+   "cards": [
+    {
+     "q": "Correct sequence of rehabilitative surgery in TED?",
+     "a": "Orbital decompression, then strabismus surgery, then eyelid surgery."
+    }
+   ]
+  },
+  {
+   "id": "v13-04",
+   "group": "Inflammatory",
+   "title": "Non-specific orbital inflammation",
+   "minutes": 2,
+   "tldr": "Idiopathic, usually <b>unilateral, rapid, painful</b>: lid/conjunctival oedema, proptosis, diplopia. Children: often bilateral with uveitis, disc oedema, eosinophilia. Can target one structure: <b>myositis</b> (tendon involved, unlike TED), <b>dacryoadenitis</b>, apex, perineuritis; may spread to cavernous sinus (Tolosa-Hunt). DDx: TED, <b>lymphoma</b>, sarcoid, GPA, <b>IgG4-related disease</b>, infection. Rx: <b>oral steroids</b> (dramatic response); recurrent → steroid-sparing (MTX, cyclophosphamide, infliximab), ± radiotherapy; biopsy if atypical/non-responding.",
+   "points": [],
+   "hook": "<b>Painful + rapid + steroid-responsive = NSOI; slow + painless = think lymphoma.</b>",
+   "cards": [
+    {
+     "q": "How does orbital myositis differ from TED muscle enlargement on CT?",
+     "a": "Myositis involves the tendon insertion; TED spares the tendon (fusiform belly enlargement)."
+    }
+   ]
+  },
+  {
+   "id": "v13-05",
+   "group": "Infection",
+   "title": "Orbital vs preseptal cellulitis",
+   "minutes": 3,
+   "tldr": "<b>Orbital (postseptal)</b>: commonest cause of <b>proptosis in children</b>; usually from <b>ethmoid sinusitis</b>. Bugs: S aureus (incl. <b>MRSA</b>), Strep anginosus/pneumoniae/pyogenes; Hib rare now; anaerobes in adults. Signs: fever, <b>proptosis, chemosis, painful restricted movement</b>, ± RAPD. Risks: optic nerve compression, <b>cavernous sinus thrombosis</b>, intracranial abscess. Rx: cultures + <b>IV 3rd-gen cephalosporin + vancomycin</b> (+ metronidazole/clindamycin for anaerobes); CT/MRI; ENT; nasal decongestants. <b>Subperiosteal abscess</b>: observe if &lt;9 y, medial, small, vision fine; otherwise drain + FESS. <b>Preseptal</b>: lid only — no proptosis, normal motility; oral co-amoxiclav, watch closely.",
+   "points": [
+    "Cavernous sinus thrombosis: bilateral signs, V dysfunction, sick patient."
+   ],
+   "hook": "<b>Can it move without pain, no proptosis? Preseptal. Otherwise — orbital, admit.</b>",
+   "cards": [
+    {
+     "q": "Commonest source of orbital cellulitis in children?",
+     "a": "Ethmoid sinusitis spreading through the lamina papyracea."
+    },
+    {
+     "q": "Signs separating orbital from preseptal cellulitis?",
+     "a": "Proptosis, chemosis, painful/restricted eye movements, reduced vision/RAPD."
+    }
+   ]
+  },
+  {
+   "id": "v13-06",
+   "group": "Infection",
+   "title": "Invasive fungal sinusitis (mucormycosis)",
+   "minutes": 2,
+   "tldr": "Immunocompromised: <b>diabetic ketoacidosis → Mucorales (Rhizopus, Mucor)</b> in 80%; <b>neutropenia → Aspergillus</b> in 80%. <b>Angioinvasion → necrosis</b>: periorbital oedema, ptosis, ophthalmoplegia, visual loss, proptosis, CNS decline. <b>Black eschar on nasal mucosa/palate</b>; smear shows broad non-septate (Mucor) or septate (Aspergillus) hyphae. Death in days without treatment. Rx: correct immune problem/acidosis, <b>IV amphotericin B</b> (± posaconazole/caspofungin), aggressive <b>debridement</b>, possibly local amphotericin or exenteration.",
+   "points": [],
+   "hook": "<b>DKA + black palate + frozen eye = mucor — emergency.</b>",
+   "cards": [
+    {
+     "q": "Typical organism of rhino-orbital fungal infection in DKA?",
+     "a": "Mucorales (Rhizopus/Mucor) — zygomycosis."
+    }
+   ]
+  },
+  {
+   "id": "v13-07",
+   "group": "Cysts & vascular",
+   "title": "Dermoids, mucoceles, meningoceles & vascular lesions",
+   "minutes": 3,
+   "tldr": "<b>Dermoid/epidermoid</b>: choristoma at a suture — commonly <b>lateral brow (frontozygomatic)</b>; deep ones superotemporal, adult; CT bony scalloping; <b>excise intact</b> (rupture → granulomatous inflammation). <b>Mucocele</b>: frontal/ethmoid → non-axial proptosis (down-out); sphenoid → optic neuropathy; ENT marsupialisation. <b>Meningocele/encephalocele</b>: superomedial, enlarges with Valsalva. <b>Varix</b>: intermittent proptosis on Valsalva/bending, bleeds; embolise. <b>CCF</b>: <b>direct high-flow</b> (trauma, ICA aneurysm) — pulsating proptosis, bruit, chemosis, corkscrew vessels, high IOP, ophthalmoplegia; <b>indirect dural low-flow</b> (elderly women, spontaneous) — red eye mistaken for conjunctivitis. Doppler shows arterialised <b>SOV</b>; catheter angiography gold standard; embolise.",
+   "points": [],
+   "hook": "<b>'Conjunctivitis' that never goes, with corkscrew vessels and high IOP = dural CCF.</b>",
+   "cards": [
+    {
+     "q": "Most common location of a periorbital dermoid cyst?",
+     "a": "Superotemporal, at the frontozygomatic suture."
+    },
+    {
+     "q": "Doppler finding in carotid-cavernous fistula?",
+     "a": "Reversed, arterialised flow in a dilated superior ophthalmic vein."
+    }
+   ]
+  },
+  {
+   "id": "v13-08",
+   "group": "Tumours",
+   "title": "Vascular & paediatric orbital tumours",
+   "minutes": 3,
+   "tldr": "<b>Capillary (infantile) haemangioma</b>: commonest benign orbital tumour in children; 90% by 6 months, grows year 1, involutes over years; strawberry (superficial) or blue (deep); risks <b>amblyopia</b> (occlusion, astigmatism), strabismus. Rx <b>oral propranolol</b> (monitor HR, BP, glucose), steroids, surgery if refractory. <b>Cavernous 'haemangioma'</b> (venous malformation): commonest benign adult orbital tumour, women, <b>intraconal</b> → axial proptosis, hyperopia, choroidal folds; excise. <b>Lymphangioma</b>: kids, swells with URTIs, <b>chocolate cyst</b> bleeds; sclerotherapy. <b>Rhabdomyosarcoma</b>: commonest <b>primary orbital malignancy in children</b>, &lt;10 y, rapid, <b>superonasal</b>; biopsy, chemo + RT; survival &gt;90%.",
+   "points": [],
+   "hook": "<b>Child with eye pushed down and out over weeks = rhabdomyosarcoma — biopsy now.</b>",
+   "cards": [
+    {
+     "q": "First-line treatment of a vision-threatening infantile periocular haemangioma?",
+     "a": "Oral propranolol."
+    },
+    {
+     "q": "Most common primary orbital malignancy of childhood?",
+     "a": "Rhabdomyosarcoma (embryonal), typically superonasal."
+    }
+   ]
+  },
+  {
+   "id": "v13-09",
+   "group": "Tumours",
+   "title": "NF1, optic glioma, lacrimal gland & lymphoma",
+   "minutes": 3,
+   "tldr": "<b>NF1</b> (17q, AD): <b>plexiform neurofibroma</b> ('bag of worms', S-shaped lid), Lisch nodules, café-au-lait, sphenoid wing dysplasia (pulsating proptosis), optic glioma in ~15%. <b>Optic nerve glioma</b>: 75% &lt;10 y, 30% NF1; pilocytic astrocytoma; anterior ones indolent; observe vs chemo/RT. <b>Lacrimal gland mass</b>: 50% inflammatory/lymphoid, 50% epithelial (half malignant). <b>Pleomorphic adenoma</b>: painless, slow → <b>excise whole, don't biopsy</b>. <b>Adenoid cystic carcinoma</b>: <b>pain</b> (perineural), bone erosion, poor prognosis. <b>Lymphoma</b> (MALT): elderly, painless, <b>salmon patch</b>, moulds to globe without bone erosion; 50% systemic → staging; orbital → RT. <b>Metastases</b>: breast, lung, prostate, melanoma; kids <b>neuroblastoma</b> (periorbital ecchymosis).",
+   "points": [
+    "LCH: lytic orbital roof lesion in a child; curettage/steroid."
+   ],
+   "hook": "<b>Painless lacrimal lump = take it out whole; painful lacrimal lump = adenoid cystic.</b>",
+   "cards": [
+    {
+     "q": "Why shouldn't a suspected pleomorphic adenoma be biopsied?",
+     "a": "Capsule breach causes recurrence and malignant transformation — excise en bloc."
+    },
+    {
+     "q": "Child with bilateral periorbital ecchymosis and proptosis — think?",
+     "a": "Metastatic neuroblastoma."
+    }
+   ]
+  }
+ ]
+}
