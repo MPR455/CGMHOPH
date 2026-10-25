@@ -1,0 +1,170 @@
+{
+ "id": "ch22",
+ "num": 22,
+ "title": "Ophthalmic Therapeutics",
+ "chunks": [
+  {
+   "id": "v22-01",
+   "group": "Anaesthetics & dilators",
+   "title": "Topical & local anaesthetics",
+   "minutes": 2,
+   "tldr": "<b>Topical</b>: proparacaine 0.5% (onset 20 s, least irritating — best for culture scrapes), tetracaine 0.5% (stings, 15–20 min), benoxinate 0.4% + fluorescein (tonometry), lidocaine 3.5% gel, cocaine. <b>Never prescribe for home use</b>. <b>Injectable</b>: short — lidocaine (fast, 1–2 h; max 4.5 mg/kg plain, 7 mg/kg with adrenaline), mepivacaine (lidocaine allergy), ropivacaine; long — <b>bupivacaine</b> (6–10 h; max 150 mg ≈ 20 mL 0.75%), levobupivacaine. Adrenaline ≤1:200,000 (arrhythmia). <b>Hyaluronidase</b> speeds spread (peribulbar). Peribulbar/sub-Tenon 5–10 mL (max 15). <b>Intracameral</b> anaesthetic/mydriatic must be <b>preservative-free</b>.",
+   "points": [],
+   "hook": "<b>Proparacaine for Precise scrapes; Tetracaine Tingles.</b>",
+   "cards": [
+    {
+     "q": "Maximum safe dose of plain lidocaine?",
+     "a": "About 4.5 mg/kg (7 mg/kg with adrenaline)."
+    }
+   ]
+  },
+  {
+   "id": "v22-02",
+   "group": "Anaesthetics & dilators",
+   "title": "Mydriatics & cycloplegics",
+   "minutes": 3,
+   "tldr": "<b>Phenylephrine</b> (α-agonist, mydriasis only): 2.5%/10%; <b>avoid 10% in neonates, cardiac patients, MAOI/TCA/reserpine/guanethidine</b>. Antimuscarinics (dilate + cycloplegia), shortest → longest: <b>tropicamide</b> (peak 20–25 min, recovery 5–6 h; weak cycloplegia — fundus exam) &lt; <b>cyclopentolate</b> (&lt;24 h; refraction; neurotoxic in kids — hallucinations, ataxia) &lt; <b>homatropine</b> (36–48 h; uveitis) &lt; <b>scopolamine/hyoscine</b> (3–5 days; confusion in elderly) &lt; <b>atropine</b> (up to 2 weeks; refraction in ET/dark irides, uveitis; toxicity — hot, dry, flushed, tachycardic, delirious). Cyclomydril (cyclopentolate 0.2% + phenylephrine 1%) for premature infants; Mydrasert insert; <b>Mydrane</b> intracameral (phenylephrine + tropicamide + lidocaine). Caution in narrow angles.",
+   "points": [],
+   "hook": "<b>Duration ladder: Tropicamide → Cyclopentolate → Homatropine → Scopolamine → Atropine.</b>",
+   "cards": [
+    {
+     "q": "Which cycloplegic lasts up to two weeks?",
+     "a": "Atropine."
+    },
+    {
+     "q": "Why avoid phenylephrine 10% in some patients?",
+     "a": "Systemic vasopressor effects — hypertension/arrhythmia, especially in neonates, cardiac patients, or those on TCAs, MAOIs, reserpine or guanethidine."
+    }
+   ]
+  },
+  {
+   "id": "v22-03",
+   "group": "Glaucoma drugs",
+   "title": "Glaucoma drug formulary",
+   "minutes": 3,
+   "tldr": "<b>PGAs</b> (nightly): latanoprost 0.005%, travoprost 0.004%, bimatoprost 0.03%, tafluprost 0.0015% (PF); unoprostone bd — ↑uveoscleral; iris darkening, lashes, periorbital fat atrophy, hyperaemia, CME/uveitis. <b>β-blockers</b>: timolol 0.25/0.5% (gel once daily), levobunolol, carteolol, metipranolol; betaxolol (β1, weaker). <b>α2</b>: apraclonidine 1% around laser (0.5% short-term; tachyphylaxis, lid retraction, blanching); brimonidine 0.2% (allergy, dry mouth; minimal CVS). <b>Topical CAI</b>: dorzolamide 2%, brinzolamide 1% (tds alone, bd add-on; bitter taste). <b>Cholinergics</b>: pilocarpine 1–4% (avoid in uveitis), carbachol; intracameral miochol/miostat. Combos: Cosopt, Combigan, Simbrinza, Xalacom, Duotrav, Ganfort. <b>Acetazolamide</b> 125–250 mg qds / SR 250–500 mg / 500 mg IV (max 1 g/d; IIH up to 4 g) — K⁺ loss, acidosis, stones, paraesthesia, SJS; methazolamide (HLA-B*59 SJS in Han Chinese). <b>Osmotics</b>: oral glycerol 1–1.5 g/kg, isosorbide 1.5 g/kg (no sugar), IV mannitol 1.5–2 g/kg (fluid overload), urea.",
+   "points": [],
+   "hook": "<b>Glycerol raises sugar; isosorbide doesn't; mannitol floods the heart.</b>",
+   "cards": [
+    {
+     "q": "Which α2-agonist is mainly used to prevent IOP spikes after anterior segment laser?",
+     "a": "Apraclonidine 1%."
+    },
+    {
+     "q": "Osmotic agent preferred in diabetics?",
+     "a": "Oral isosorbide (no calories or glucose rise)."
+    }
+   ]
+  },
+  {
+   "id": "v22-04",
+   "group": "Anti-inflammatory",
+   "title": "Steroids, NSAIDs & anti-allergy drops",
+   "minutes": 3,
+   "tldr": "<b>Topical steroid potency</b>: prednisolone 4× hydrocortisone, dexamethasone/betamethasone 25×; options: prednisolone acetate 1% (shake), dexamethasone 0.1%, FML, rimexolone, <b>loteprednol</b> (less IOP rise). Risks: <b>microbial/HSV keratitis</b>, steroid glaucoma, PSC cataract → ophthalmologist only. Steroid-antibiotic combos only when both truly indicated. <b>NSAIDs</b>: oral indomethacin/flurbiprofen/ibuprofen first-line for non-necrotising scleritis; topical diclofenac, flurbiprofen (pre-op miosis prevention), ketorolac (allergy, post-op; Omidria intracameral with phenylephrine), nepafenac, bromfenac (post-op inflammation, CME). <b>Allergy</b>: antihistamines (emedastine, levocabastine), mast-cell stabilisers (cromolyn, lodoxamide, nedocromil, pemirolast — slow onset), dual (olopatadine, ketotifen, epinastine, azelastine, bepotastine, alcaftadine); OTC decongestants (naphazoline, tetrahydrozoline) → rebound. <b>Ciclosporin 0.05%</b> bd (dry eye, VKC/AKC, grafts); tacrolimus ointment.",
+   "points": [],
+   "hook": "<b>Steroid drop = check pressure, check for herpes.</b>",
+   "cards": [
+    {
+     "q": "Relative potency of dexamethasone vs hydrocortisone?",
+     "a": "About 25 times (prednisolone about 4 times)."
+    },
+    {
+     "q": "Topical NSAID used to prevent intraoperative miosis?",
+     "a": "Flurbiprofen (or diclofenac/ketorolac)."
+    }
+   ]
+  },
+  {
+   "id": "v22-05",
+   "group": "Anti-infectives",
+   "title": "Antibacterials",
+   "minutes": 3,
+   "tldr": "Topical sulfonamides (cheap, broad, low allergy). Avoid topical use of key systemic antibiotics where possible (resistance, sensitisation). <b>Fluoroquinolones</b> (cipro, oflox, levo 1.5%, moxi, gati, besifloxacin) = first choice for ulcers; keratitis regimen hourly by day + 2-hourly night ×48 h then taper. <b>Fortified</b>: gentamicin/tobramycin 1.5% (tobra better for strep & Pseudomonas), cefuroxime/cefazolin 5%, ceftazidime 5%, amikacin 2.5%. Chloramphenicol (broad; rare aplastic anaemia), fusidic acid bd (staph), azithromycin 1%, erythromycin ointment (neonatal prophylaxis), tetracycline (chlamydia), bacitracin (G+), polymyxin B (G–, combined with trimethoprim/bacitracin), <b>neomycin</b> (contact allergy 5%). Propamidine (Acanthamoeba). <b>Intracameral cefuroxime 1 mg</b> after cataract surgery.",
+   "points": [],
+   "hook": "<b>Neomycin + red itchy lids = contact allergy.</b>",
+   "cards": [
+    {
+     "q": "Prophylactic intracameral antibiotic and dose at the end of cataract surgery?",
+     "a": "Cefuroxime 1 mg in 0.1 mL."
+    },
+    {
+     "q": "Which aminoglycoside is better for streptococci and Pseudomonas keratitis?",
+     "a": "Tobramycin."
+    }
+   ]
+  },
+  {
+   "id": "v22-06",
+   "group": "Anti-infectives",
+   "title": "Intravitreal & antifungal/antiviral doses",
+   "minutes": 3,
+   "tldr": "<b>Endophthalmitis (intravitreal, 0.1 mL, preservative-free)</b>: <b>vancomycin 1 mg</b> + <b>ceftazidime 2.25 mg</b> (or amikacin 0.4 mg); antifungals <b>amphotericin 5–10 µg</b>, <b>voriconazole 0.1 mg</b>; antivirals <b>ganciclovir 2 mg</b> (or 4.5 mg implant), <b>foscarnet 1.2–2.4 mg</b>; clindamycin 1 mg (toxo). Systemic adds benefit for endogenous/traumatic, not post-surgical. <b>Topical antifungals</b>: <b>natamycin 5%</b> (first choice keratitis), amphotericin 0.1–0.5%, voriconazole 1%, other azoles (compounded). <b>Antivirals</b>: acyclovir oral 800 mg 5×/d HZO; 400–800 mg 3–5×/d HSV; ganciclovir gel 0.15% 5×/d ×1 wk then tds; trifluridine 1% 9×/d; famciclovir 500 mg tds (HZO); valaciclovir 1 g tds HZO, 1–2 g tds ARN; valganciclovir 900 mg bd ×21 d induction then od (CMV).",
+   "points": [],
+   "hook": "<b>Vanc 1, Ceftaz 2.25 — the endophthalmitis pair.</b>",
+   "cards": [
+    {
+     "q": "Intravitreal doses for bacterial endophthalmitis?",
+     "a": "Vancomycin 1 mg/0.1 mL plus ceftazidime 2.25 mg/0.1 mL (or amikacin 0.4 mg)."
+    },
+    {
+     "q": "Intravitreal amphotericin B dose?",
+     "a": "5–10 µg in 0.1 mL."
+    }
+   ]
+  },
+  {
+   "id": "v22-07",
+   "group": "Other agents",
+   "title": "Dyes, lubricants, hypertonic & anti-VEGF",
+   "minutes": 2,
+   "tldr": "<b>Fluorescein</b>: 1–2% drops/strips (defects, tonometry, CL fit), 10% IV (FFA). <b>ICG</b> IV (choroid). <b>Lissamine green</b> (devitalised cells, gentler) and <b>rose bengal</b> (stings). Lubricants: HPMC, carboxymethylcellulose, hyaluronate, PVA, carbomers, castor oil, paraffin; preservative-free for frequent use. <b>Hypertonic</b>: 5% NaCl drops/ointment, anhydrous glycerin (corneal oedema). <b>Anti-VEGF intravitreal</b>: aflibercept 2 mg/0.05 mL, bevacizumab 1.25 mg/0.05 mL (off-label), ranibizumab 0.5 mg/0.05 mL, pegaptanib 0.3 mg.",
+   "points": [],
+   "hook": "<b>Lissamine = rose bengal without the sting.</b>",
+   "cards": [
+    {
+     "q": "Standard intravitreal doses of ranibizumab and aflibercept?",
+     "a": "Ranibizumab 0.5 mg/0.05 mL; aflibercept 2 mg/0.05 mL (bevacizumab 1.25 mg/0.05 mL)."
+    }
+   ]
+  },
+  {
+   "id": "v22-08",
+   "group": "Side effects",
+   "title": "Systemic drugs that harm the eye",
+   "minutes": 3,
+   "tldr": "<b>IFIS</b> (floppy iris): <b>tamsulosin</b>, alfuzosin, doxazosin, terazosin, silodosin, finasteride, also antipsychotics (risperidone, quetiapine, chlorpromazine), labetalol, donepezil. <b>Angle closure</b>: anticholinergics, adrenergics, TCAs, SSRIs (paroxetine), <b>topiramate/acetazolamide/sulfonamides/zonisamide</b> (ciliary effusion + myopic shift). <b>Optic neuropathy</b>: ethambutol, isoniazid, linezolid, amiodarone, disulfiram, chloramphenicol, cisplatin, docetaxel, PDE5 (NAION). <b>Retinopathy</b>: chloroquine/HCQ (bull's eye), thioridazine, tamoxifen (crystals), desferrioxamine, digoxin (yellow vision), quinine, interferon, linezolid. <b>Vortex keratopathy</b>: amiodarone, HCQ, indomethacin. <b>IIH</b>: tetracyclines, isotretinoin/vit A, levonorgestrel, nalidixic acid. <b>Field loss</b>: <b>vigabatrin</b> (monitor). Nystagmus/ocular motor: phenytoin, carbamazepine, lithium (downbeat), barbiturates. Steroids → glaucoma, PSC. Bisphosphonates → scleritis/uveitis. Sildenafil → blue tinge. Clofazimine crystals; phenothiazine pigment; warfarin in pregnancy → fetal anomalies.",
+   "points": [],
+   "hook": "<b>Ask every cataract patient about tamsulosin.</b>",
+   "cards": [
+    {
+     "q": "Mechanism of topiramate-induced angle closure?",
+     "a": "Ciliochoroidal effusion rotating the ciliary body forward (with myopic shift) — treat with stopping drug, cycloplegics, steroids; not iridotomy."
+    },
+    {
+     "q": "Drug causing concentric visual field constriction requiring monitoring?",
+     "a": "Vigabatrin."
+    }
+   ]
+  },
+  {
+   "id": "v22-09",
+   "group": "Side effects",
+   "title": "Systemic & local effects of eye drops; how to instil",
+   "minutes": 3,
+   "tldr": "<b>Topical β-blockers</b>: ~80% absorbed via nasal mucosa → <b>bypasses liver first-pass</b>; infant levels up to 6× oral; poor CYP2D6 metabolisers (8% whites, 24% blacks) at risk — bronchospasm, bradycardia/heart block, depression, impotence, MG worsening. Take cardiorespiratory history. Others: anticholinergics (delirium), phenylephrine (hypertension, arrhythmia, SAH), pilocarpine (cholinergic — sweating, GI, bronchospasm), long-acting anticholinesterases, chloramphenicol (marrow), steroids (Cushing). Local: anaesthetic abuse, preservative (<b>BAK</b>) keratopathy & <b>pseudopemphigoid</b> (also pilocarpine, timolol, antivirals), neomycin allergy, PGA changes, apraclonidine/brimonidine follicular reactions. <b>Technique</b>: one drop into pulled-down lower fornix, look up, avoid tip contact; close eyes; <b>punctal occlusion ≥2 min</b>; wait 10 min between drugs; ointment last. Report to the National Registry of Drug-Induced Ocular Side Effects.",
+   "points": [],
+   "hook": "<b>Press the inner corner for two minutes — less in the blood, more in the eye.</b>",
+   "cards": [
+    {
+     "q": "Why are topical β-blockers more dangerous systemically than expected?",
+     "a": "Absorption through nasal mucosa delivers drug directly to the circulation, avoiding hepatic first-pass metabolism."
+    },
+    {
+     "q": "How long to wait between different eye drops?",
+     "a": "About 10 minutes (ointment last)."
+    }
+   ]
+  }
+ ]
+}

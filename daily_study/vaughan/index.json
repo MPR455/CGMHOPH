@@ -1210,7 +1210,53 @@
    "num": 22,
    "title": "Ophthalmic Therapeutics",
    "file": "ch22.json",
-   "chunks": []
+   "chunks": [
+    {
+     "id": "v22-01",
+     "title": "Topical & local anaesthetics",
+     "group": "Anaesthetics & dilators"
+    },
+    {
+     "id": "v22-02",
+     "title": "Mydriatics & cycloplegics",
+     "group": "Anaesthetics & dilators"
+    },
+    {
+     "id": "v22-03",
+     "title": "Glaucoma drug formulary",
+     "group": "Glaucoma drugs"
+    },
+    {
+     "id": "v22-04",
+     "title": "Steroids, NSAIDs & anti-allergy drops",
+     "group": "Anti-inflammatory"
+    },
+    {
+     "id": "v22-05",
+     "title": "Antibacterials",
+     "group": "Anti-infectives"
+    },
+    {
+     "id": "v22-06",
+     "title": "Intravitreal & antifungal/antiviral doses",
+     "group": "Anti-infectives"
+    },
+    {
+     "id": "v22-07",
+     "title": "Dyes, lubricants, hypertonic & anti-VEGF",
+     "group": "Other agents"
+    },
+    {
+     "id": "v22-08",
+     "title": "Systemic drugs that harm the eye",
+     "group": "Side effects"
+    },
+    {
+     "id": "v22-09",
+     "title": "Systemic & local effects of eye drops; how to instil",
+     "group": "Side effects"
+    }
+   ]
   },
   {
    "id": "ch23",
