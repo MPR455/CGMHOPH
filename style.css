@@ -100,6 +100,9 @@ dialog::backdrop{background:rgba(20,30,40,.45)}
 .erow .n{color:var(--sub);min-width:26px;text-align:right}
 #anki-card img{max-width:100%;height:auto;border-radius:6px}
 #anki-card hr{border:none;border-top:1px solid var(--line);margin:12px 0}
+body.theme-dark #anki-card,body.theme-black #anki-card{--anki-card-ink:var(--ink)}
+#anki-card .cloze{--anki-card-ink:var(--acc)}
+body.theme-dark #anki-card a,body.theme-black #anki-card a{--anki-card-ink:var(--acc);color:var(--acc) !important}
 kbd{background:#eef1f5;border:1px solid #ccd4dd;border-bottom-width:2px;border-radius:4px;padding:0 5px;font-size:11.5px;font-family:var(--mono)}
 
 /* brand / menu / themes */

@@ -112,6 +112,9 @@ dialog::backdrop{background:rgba(20,30,40,.45)}
 .erow .n{color:var(--sub);min-width:26px;text-align:right}
 #anki-card img{max-width:100%;height:auto;border-radius:6px}
 #anki-card hr{border:none;border-top:1px solid var(--line);margin:12px 0}
+body.theme-dark #anki-card,body.theme-black #anki-card{--anki-card-ink:var(--ink)}
+#anki-card .cloze{--anki-card-ink:var(--acc)}
+body.theme-dark #anki-card a,body.theme-black #anki-card a{--anki-card-ink:var(--acc);color:var(--acc) !important}
 kbd{background:#eef1f5;border:1px solid #ccd4dd;border-bottom-width:2px;border-radius:4px;padding:0 5px;font-size:11.5px;font-family:var(--mono)}
 
 /* brand / menu / themes */
@@ -2555,10 +2558,24 @@ function ankiRenderCard(){
   var cont=document.getElementById('anki-card'); if(!cont||!ankiCards.length) return;
   var card=ankiCards[ankiOrder[ankiPos]];
   cont.innerHTML = ankiShow ? card.back : card.front;
+  ankiAdaptTextColors(cont);
   var rv=document.getElementById('anki-reveal'); rv.textContent= ankiShow?'Answer shown':'Show answer'; rv.disabled=ankiShow;
   document.getElementById('anki-count').textContent='Card '+(ankiPos+1)+' of '+ankiOrder.length+(card.model?'  ·  '+card.model:'');
   ankiResolveMedia(cont);
   ankiHighlightBrowse();
+}
+function ankiAdaptTextColors(cont){
+  // Imported neutral ink follows the theme; retain source colours in light themes.
+  cont.querySelectorAll('[style],font[color]').forEach(function(el){
+    var source=el.style.color||el.getAttribute('color');
+    if(!source||source.indexOf('var(')>=0) return;
+    var computed=getComputedStyle(el).color;
+    if(!/^rgba?\(/.test(computed)) return;
+    var channels=computed.match(/[\d.]+/g).map(Number);
+    if(channels.length>3&&channels[3]===0) return; // Preserve deliberately hidden text.
+    if(Math.max.apply(null,channels.slice(0,3))-Math.min.apply(null,channels.slice(0,3))>24) return;
+    el.style.setProperty('color','var(--anki-card-ink, '+source+')',el.style.getPropertyPriority('color'));
+  });
 }
 function ankiResolveMedia(cont){
   if(!ankiZip) return;
