@@ -183,6 +183,26 @@ dialog.aki::backdrop{background:rgba(0,0,0,.55)}
 .aki-cand-pct{flex:0 0 auto;font-weight:900;font-variant-numeric:tabular-nums}
 .aki-bar{position:absolute;left:0;bottom:0;height:5px;background:var(--acc)}
 .aki-note{margin-top:14px;font-size:12px;color:var(--sub)}
+dialog.aki.aki-wide{width:min(1060px,calc(100vw - 24px))}
+.aki-modes{display:grid;grid-template-columns:1fr 1fr;gap:0;margin:0 0 12px;border:3px solid var(--ink)}
+.aki-mode{min-height:52px;padding:0 12px;border:0;background:var(--card);color:var(--ink);font-size:18px;font-weight:900}
+.aki-mode+.aki-mode{border-left:3px solid var(--ink)}
+.aki-mode[aria-pressed=true]{background:var(--ink);color:var(--bg)}
+.aki-pick-layout{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(260px,1fr);gap:18px;align-items:start}
+.aki-pick-side{position:sticky;top:76px}
+.aki-pick-side .aki-lead{margin-top:0}
+.aki-group{margin-top:14px}
+.aki-group h3{margin:0 0 8px;padding:6px 0;font-size:16px;font-weight:900;border-bottom:3px solid var(--ink)}
+.aki-pick-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:6px}
+.aki-pick{--aki-c:var(--line);display:flex;align-items:center;gap:10px;min-width:0;min-height:52px;padding:6px 10px;border:3px solid var(--line);border-left:10px solid var(--aki-c);background:var(--card);color:var(--ink);text-align:left;font-size:15px;font-weight:800;line-height:1.25;overflow-wrap:anywhere}
+.aki-pick:hover{border-color:var(--ink);border-left-color:var(--aki-c)}
+.aki-pick[data-state=yes]{--aki-c:#2e7d32;background:var(--chip);border-color:#2e7d32}
+.aki-pick[data-state=no]{--aki-c:#c8102e;border-color:#c8102e;text-decoration:line-through;text-decoration-thickness:2px}
+.aki-check{flex:0 0 28px;height:28px;display:flex;align-items:center;justify-content:center;border:3px solid var(--aki-c);color:var(--aki-c);font-size:16px;font-weight:900}
+.aki-pick[data-state=off] .aki-check{border-color:var(--line)}
+.aki-pick[data-state=yes] .aki-check,.aki-pick[data-state=no] .aki-check{background:var(--aki-c);color:#fff}
+.aki-empty{padding:12px 0;font-size:15px;color:var(--sub)}
+@media(max-width:760px){.aki-pick-layout{grid-template-columns:1fr}.aki-pick-side{position:static;order:-1}.aki-pick-grid{grid-template-columns:repeat(auto-fill,minmax(140px,1fr))}.aki-mode{font-size:16px}}
 @media(max-width:620px){.aki-q{font-size:20px}.aki-ans{font-size:17px;min-height:54px}.aki-guess-name{font-size:22px}}
 .proc-meta{display:flex;flex-wrap:wrap;gap:5px;margin-top:7px}
 .proc-pill{display:inline-flex;align-items:center;border-radius:999px;padding:3px 8px;font-size:10.5px;font-weight:800;line-height:1.2;border:1px solid transparent}
@@ -1763,7 +1783,8 @@ var AKI_HX = [
   ["autoimmune","Is there an autoimmune or inflammatory systemic disease?",/rheumatoid|lupus|sarcoid|spondyl|hla-b27|autoimmune|vasculitis|inflammatory bowel|psoria/],
   ["immuno","Is the patient immunocompromised?",/\bhiv\b|immunocomp|immunosupp|transplant|chemotherapy/],
   ["neuro","Are there other neurological symptoms (weakness, numbness, speech)?",/neurolog|weakness|numbness|ataxia|hemipar|dysarthri/],
-  ["gca","Is there jaw claudication or scalp tenderness?",/jaw claudication|scalp tender/]
+  ["gca","Is there jaw claudication or scalp tenderness?",/jaw claudication|scalp tender/],
+  ["chemical","Was it a chemical splash or a burn?",/chemical|alkali|thermal|superglue|cyanoacrylate|welding|splash/]
 ];
 var AKI_EX = [
   ["iop","On examination, is the IOP raised?",/iop[^.;]{0,50}(raised|elevated|high|>\s?2\d|\b[3-8]\d\b)|raised iop|elevated iop|ocular hypertension/],
@@ -1788,14 +1809,130 @@ var AKI_ANSWERS = [["Yes",1,"#2e7d32"],["Probably",0.75,"#5f8f2a"],["Don't know"
 var AKI_PRIOR = [1, 0.35, 0.7, 1.5, 3, 5];
 /* P(answer yes): listed symptom category, text mention, not mentioned. */
 var AKI_P = [0.25, 0.7, 0.9];
-var AKI = {features:null, scope:'all', history:[], rejected:[], guessId:null, sinceGuess:0};
+/* Checklist mode: short labels for every question above, grouped like a history and exam. */
+var AKI_GROUPS = [
+  ["Symptoms",[["cat:Red eye","Red eye"],["cat:Eye pain","Eye pain"],["painless","Painless"],["cat:Itchy or allergic eye","Itching"],["cat:Watery eye","Watering"],["cat:Dry or gritty eye","Gritty / FB sensation"],["cat:Discharge or crusty eyelids","Discharge / crusting"],["photophobia","Photophobia"],["cat:Blurred or gradually reduced vision","Blurred vision"],["cat:Sudden vision loss","Sudden vision loss"],["cat:Distorted vision","Distortion"],["cat:Flashes and floaters","Flashes / floaters"],["cat:Reduced peripheral or field of vision","Field loss"],["cat:Night vision problems","Night blindness"],["halos","Haloes / glare"],["cat:Double vision","Double vision"],["cat:Headache with visual symptoms","Headache"],["nausea","Nausea / vomiting"]]],
+  ["Lids, orbit & appearance",[["cat:Eyelid lump or swelling","Lid lump / swelling"],["cat:Eyelid malposition","Ptosis / lid malposition"],["cat:Bulging or protruding eye","Proptosis"],["cat:Growth or lesion on the eye or lid","Visible growth / lesion"],["cat:Abnormal pupil size or shape","Abnormal pupil"],["cat:Squint or eye turn in children","Squint / eye turn"],["cat:Abnormal or wobbling eye movements","Nystagmus"],["cat:Poor vision or unusual appearance noticed in a baby or child","Parent noticed in child"]]],
+  ["Onset & context",[["sudden","Sudden onset"],["gradual","Gradual onset"],["bilateral","Both eyes"],["cat:Injury or chemical exposure","Injury / trauma"],["chemical","Chemical / thermal"],["surgery","Recent surgery / injection"],["cat:Contact lens problems","Contact lens wearer"],["cat:No symptoms, found on routine check","Found on routine check"]]],
+  ["Patient",[["child","Child / infant"],["older","Over 50"],["family","Family history"],["diabetes","Diabetes"],["autoimmune","Autoimmune disease"],["immuno","Immunocompromised"],["neuro","Neurological symptoms"],["gca","Jaw claudication / scalp tenderness"]]],
+  ["Examination",[["iop","Raised IOP"],["ac","AC cells / hypopyon"],["stain","Fluorescein staining"],["infiltrate","Corneal infiltrate / ulcer"],["follicles","Follicles / papillae"],["flush","Ciliary flush / scleral injection"],["lens","Lens opacity / subluxation"],["vitreous","Vitreous cells / haemorrhage"],["detach","Retinal detachment / tear"],["macula","Macular fluid / lesion"],["rhaem","Retinal haemorrhages"],["chorio","Chorioretinal lesions / retinitis"],["pigment","Retinal pigment change"],["discswell","Disc swelling"],["discpale","Disc pallor / cupping"],["rapd","RAPD"],["motility","Restricted motility"]]]
+];
+/* Key findings of common ER presentations, from typical clinical features. The one-line
+   Symptoms text often leaves these out, so they are added as strong evidence. */
+var AKI_ALIAS = {red:"cat:Red eye",pain:"cat:Eye pain",itch:"cat:Itchy or allergic eye",water:"cat:Watery eye",gritty:"cat:Dry or gritty eye",discharge:"cat:Discharge or crusty eyelids",blur:"cat:Blurred or gradually reduced vision",svl:"cat:Sudden vision loss",distort:"cat:Distorted vision",flash:"cat:Flashes and floaters",field:"cat:Reduced peripheral or field of vision",diplo:"cat:Double vision",headache:"cat:Headache with visual symptoms",lidlump:"cat:Eyelid lump or swelling",ptosis:"cat:Eyelid malposition",proptosis:"cat:Bulging or protruding eye",lesion:"cat:Growth or lesion on the eye or lid",pupil:"cat:Abnormal pupil size or shape",injury:"cat:Injury or chemical exposure",cl:"cat:Contact lens problems",routine:"cat:No symptoms, found on routine check"};
+var AKI_KEY = {
+  "d190-rhegmatogenous-retinal-detachment-rrd":"flash field sudden painless blur svl detach vitreous older",
+  "d187-acute-posterior-vitreous-detachment-pvd":"flash sudden painless older vitreous",
+  "d188-retinal-tears-horseshoe-u-tear-operculat":"flash sudden painless vitreous detach",
+  "d189-lattice-degeneration-and-other-predispos":"routine painless",
+  "d196-vitreous-haemorrhage":"svl flash sudden painless blur diabetes vitreous",
+  "d192-exudative-serous-retinal-detachment":"field blur painless detach autoimmune",
+  "d75-acute-angle-closure-crisis-aacc":"pain red headache nausea halos blur sudden older iop flush ac",
+  "d81-neovascular-glaucoma-nvg":"pain red blur iop diabetes flush",
+  "d67-ocular-hypertension-oht":"routine iop painless",
+  "d82-posner-schlossman-syndrome-glaucomatocyc":"iop halos blur ac",
+  "d86-lens-induced-glaucomas-phacomorphic-phac":"pain red blur iop older lens sudden",
+  "d84-uveitic-inflammatory-glaucoma-general":"iop ac red pain blur",
+  "d78-malignant-glaucoma-aqueous-misdirection-":"surgery iop pain blur",
+  "d18-corneal-abrasion":"pain gritty water photophobia injury sudden stain red",
+  "d353-corneal-abrasion":"pain gritty water photophobia injury sudden stain red",
+  "d19-recurrent-corneal-erosion-syndrome-rces":"pain sudden water gritty photophobia stain",
+  "d21-corneal-foreign-body-with-rust-ring":"gritty pain water red injury sudden stain",
+  "d354-corneal-and-conjunctival-foreign-body":"gritty pain water red injury sudden stain",
+  "d0-aqueous-deficient-dry-eye-disease-adde":"gritty red water bilateral gradual older stain",
+  "d1-meibomian-gland-dysfunction-evaporative-":"gritty red bilateral gradual discharge",
+  "d356-ultraviolet-photokeratitis-and-welding-k":"pain gritty water photophobia bilateral sudden stain red",
+  "d5-filamentary-keratitis":"gritty pain stain",
+  "d3-exposure-keratopathy-lagophthalmos":"gritty red water stain ptosis",
+  "d326-lagophthalmos-and-exposure-keratopathy":"gritty red water stain ptosis",
+  "d320-trichiasis-and-distichiasis":"gritty water red stain ptosis",
+  "d9-bacterial-keratitis":"pain red discharge photophobia blur cl sudden infiltrate stain ac",
+  "d10-fungal-keratitis-filamentary-and-yeast":"pain red blur injury infiltrate stain ac photophobia",
+  "d14-acanthamoeba-keratitis":"pain red photophobia cl infiltrate stain blur",
+  "d16-contact-lens-related-microbial-keratitis":"cl pain red photophobia infiltrate stain discharge",
+  "d11-herpes-simplex-epithelial-dendritic-geog":"red water gritty photophobia blur stain pain",
+  "d12-herpes-simplex-stromal-keratitis-necroti":"red blur pain photophobia infiltrate ac",
+  "d13-herpes-zoster-ophthalmicus-hzo":"pain red lidlump lesion older immuno stain ac headache",
+  "d15-microsporidial-keratoconjunctivitis-and-":"red gritty water photophobia stain",
+  "d34-bacterial-conjunctivitis-simple-and-hype":"red discharge gritty sudden bilateral",
+  "d35-viral-adenoviral-conjunctivitis-includin":"red water gritty bilateral follicles sudden discharge",
+  "d37-allergic-conjunctivitis-seasonal-sac-per":"itch red water bilateral follicles lidlump",
+  "d47-subconjunctival-haemorrhage":"red painless sudden older",
+  "d114-idiopathic-acute-anterior-uveitis-aau":"red pain photophobia blur ac flush sudden",
+  "d115-hla-human-leukocyte-antigen-b27-associat":"red pain photophobia blur ac flush sudden autoimmune",
+  "d119-herpetic-anterior-uveitis-hsv-vzv-varice":"red pain photophobia blur ac iop",
+  "d42-stevens-johnson-syndrome-toxic-epidermal":"red pain gritty discharge bilateral sudden stain",
+  "d150-proliferative-diabetic-retinopathy-pdr-i":"diabetes flash svl painless vitreous rhaem",
+  "d151-diabetic-macular-oedema-centre-involving":"diabetes blur distort gradual macula painless",
+  "d157-central-retinal-artery-occlusion-crao":"svl sudden painless older rapd blur",
+  "d156-branch-retinal-artery-occlusion-brao":"sudden painless field older",
+  "d154-central-retinal-vein-occlusion-crvo-non-":"blur sudden painless older rhaem macula discswell rapd",
+  "d153-branch-retinal-vein-occlusion-brvo":"blur field painless older rhaem macula sudden",
+  "d165-purtscher-and-purtscher-like-retinopathy":"sudden painless injury rhaem",
+  "d166-retinopathy-of-blood-and-lipid-disorders":"rhaem bilateral painless",
+  "d169-neovascular-wet-amd-age-related-macular-":"distort blur older sudden painless macula rhaem",
+  "d170-massive-submacular-haemorrhage-in-amd-in":"svl older painless macula rhaem sudden",
+  "d171-polypoidal-choroidal-vasculopathy-pcv-an":"distort blur painless macula rhaem",
+  "d173-acute-central-serous-chorioretinopathy-c":"distort blur painless sudden macula",
+  "d174-chronic-cscr-central-serous-chorioretino":"blur distort gradual macula pigment",
+  "d159-hypertensive-retinopathy-choroidopathy-a":"headache blur bilateral painless rhaem discswell",
+  "d239-typical-demyelinating-optic-neuritis-ms-":"blur pain sudden rapd neuro",
+  "d240-mog-antibody-associated-optic-neuritis-m":"blur pain sudden rapd bilateral discswell",
+  "d241-nmosd-aqp4-antibody-optic-neuritis":"blur svl sudden rapd bilateral neuro",
+  "d245-idiopathic-intracranial-hypertension-pap":"headache nausea blur bilateral discswell diplo",
+  "d242-non-arteritic-anterior-ischaemic-optic-n":"svl sudden painless older field discswell rapd diabetes",
+  "d243-arteritic-aion-anterior-ischaemic-optic-":"svl sudden older gca painless discswell rapd headache",
+  "d281-migraine-with-visual-aura-and-acephalgic":"headache flash field nausea sudden",
+  "d279-retrochiasmal-lesions-and-homonymous-hem":"field neuro sudden older",
+  "d282-functional-non-organic-visual-loss":"blur field",
+  "d264-third-nerve-palsy-pupil-involving-vs-pup":"diplo ptosis pupil sudden headache motility diabetes older",
+  "d265-fourth-nerve-trochlear-palsy":"diplo sudden injury motility",
+  "d266-sixth-nerve-abducens-palsy":"diplo sudden motility diabetes older headache",
+  "d271-ocular-myasthenia-gravis":"diplo ptosis motility autoimmune",
+  "d274-thyroid-related-restrictive-myopathy":"diplo proptosis motility autoimmune",
+  "d259-horner-syndrome-oculosympathetic-paresis":"ptosis pupil",
+  "d260-adie-tonic-pupil":"pupil blur",
+  "d262-pharmacologic-anticholinergic-mydriasis":"pupil sudden",
+  "d371-orbital-blow-out-fracture":"injury diplo lidlump motility sudden pain",
+  "d372-orbital-compartment-syndrome-and-retrobu":"injury proptosis pain svl iop rapd motility lidlump sudden",
+  "d374-traumatic-optic-neuropathy-in-the-trauma":"injury svl rapd sudden",
+  "d319-hordeolum-stye":"lidlump pain red sudden",
+  "d318-chalazion-meibomian-cyst":"lidlump painless gradual",
+  "d312-paediatric-conjunctivitis-and-preseptal-":"lidlump red child pain",
+  "d346-orbital-cellulitis-and-subperiosteal-abs":"proptosis lidlump pain red motility diplo sudden",
+  "d350-canaliculitis-and-dacryocystitis":"discharge water lidlump red pain",
+  "d333-thyroid-eye-disease-active-phase":"proptosis red lidlump gritty diplo autoimmune motility bilateral",
+  "d334-thyroid-eye-disease-inactive-fibrotic-ph":"proptosis diplo bilateral",
+  "d335-idiopathic-orbital-inflammatory-disease-":"pain proptosis lidlump red motility sudden",
+  "d336-dacryoadenitis":"lidlump pain red",
+  "d357-chemical-burn-alkali-and-acid-roper-hall":"injury chemical pain red water sudden stain photophobia blur",
+  "d358-thermal-burn-of-the-ocular-surface-and-a":"injury chemical pain red stain sudden",
+  "d359-traumatic-hyphaema":"injury blur pain sudden iop ac",
+  "d355-traumatic-iritis-traumatic-anterior-uvei":"injury pain photophobia red ac",
+  "d360-traumatic-mydriasis-sphincter-tears-and-":"injury pupil",
+  "d364-commotio-retinae-berlin-oedema":"injury blur painless",
+  "d367-open-globe-injury-penetrating-perforatin":"injury pain blur sudden red pupil",
+  "d368-intraocular-foreign-body-siderosis-and-c":"injury blur red pain",
+  "d369-post-traumatic-endophthalmitis":"injury pain red blur ac vitreous",
+  "d138-endogenous-endophthalmitis-bacterial-and":"pain red blur immuno diabetes ac vitreous flash",
+  "d373-eyelid-and-canalicular-laceration":"injury lidlump water",
+  "d175-cystoid-macular-oedema-irvine-gass-syndr":"blur distort surgery painless macula",
+  "d33-corneal-graft-rejection-epithelial-subep":"surgery red pain photophobia blur ac",
+  "d112-iol-intraocular-lens-dislocation-and-dec":"surgery blur diplo painless lens",
+  "d363-lens-subluxation-and-dislocation":"blur injury diplo lens",
+  "d97-nuclear-sclerotic-cataract":"blur gradual halos older painless lens",
+  "d104-posterior-capsule-opacification-pco-afte":"surgery blur halos gradual painless",
+  "d113-refractive-surprise-after-cataract-surge":"surgery blur painless"
+};
+/* history holds every answer, from either mode: ticking a finding adds a = 1, ticking it again sets a = 0. */
+var AKI = {features:null, mode:'pick', scope:'all', history:[], rejected:[], guessId:null, sinceGuess:0};
 
 function akiPlain(s){ return searchableText(s).replace(/\*\*/g,'').toLowerCase(); }
 /* True when the pattern appears without a nearby negation ("no", "without", "unlike" ...). */
 function akiMentions(re, text){
   var g = new RegExp(re.source, 'g'), m;
   while((m = g.exec(text))){
-    if(!/(no|not|without|absent|absence of|unlike|rather than|non|never|denies)[^.;:]{0,25}$/.test(text.slice(Math.max(0, m.index - 30), m.index))) return true;
+    if(!/\b(no|not|without|absent|absence of|unlike|rather than|non|never|denies)\b[^.;:]{0,25}$/.test(text.slice(Math.max(0, m.index - 30), m.index))) return true;
     if(!m[0].length) g.lastIndex++;
   }
   return false;
@@ -1819,6 +1956,11 @@ function akiBuild(){
       if(on === 1 && f.id === 'cat:Eye pain' && /painless/.test(hx)) on = 0;
       if(on) has[f.id] = on;
     });
+    (AKI_KEY[d.id] || '').split(' ').forEach(function(k){ if(k) has[AKI_ALIAS[k] || k] = 2; });
+    /* Unless described as painful, a disease is compatible with "painless"; unless
+       paediatric, with "over 50". Both stay weak so they barely move the ranking. */
+    if(!has['cat:Eye pain'] && !has.painless) has.painless = 1;
+    if(!has.older && d.h2 !== 'Paediatric Ophthalmology & Strabismus' && !/congenital|infantile|childhood|juvenile|paediatric|neonat/i.test(d.t)) has.older = 1;
     d._aki = has;
   });
   AKI.features = feats;
@@ -1858,7 +2000,7 @@ function akiOpen(){
     dlg.addEventListener('click', akiClick);
     dlg.addEventListener('keydown', function(e){
       var n = parseInt(e.key, 10);
-      if(n >= 1 && n <= 5 && !AKI.guessId){ var b = dlg.querySelector('[data-aki-a="' + (n-1) + '"]'); if(b){ e.preventDefault(); b.click(); } }
+      if(AKI.mode === 'ask' && n >= 1 && n <= 5 && !AKI.guessId){ var b = dlg.querySelector('[data-aki-a="' + (n-1) + '"]'); if(b){ e.preventDefault(); b.click(); } }
     });
   }
   if(!AKI.history.length && !AKI.rejected.length) AKI.scope = MODE === 'erconsult' ? 'er' : 'all';
@@ -1866,6 +2008,53 @@ function akiOpen(){
   if(!dlg.open) dlg.showModal();
 }
 function akiRestart(){ AKI.history = []; AKI.rejected = []; AKI.guessId = null; AKI.sinceGuess = 0; akiRender(); }
+function akiAnswerOf(f){
+  for(var i = 0; i < AKI.history.length; i++) if(AKI.history[i].f === f) return AKI.history[i];
+  return null;
+}
+/* Tap cycle: off -> present -> absent -> off. A "Don't know" from the question mode counts as off. */
+function akiToggle(f){
+  var h = akiAnswerOf(f);
+  if(!h) AKI.history.push({f:f, a:1});
+  else if(h.a > 0.5) h.a = 0;
+  else AKI.history.splice(AKI.history.indexOf(h), 1);
+  AKI.guessId = null; AKI.rejected = [];
+}
+function akiCandidatesHtml(scores, n, title){
+  /* Some diseases have two records (e.g. corneal abrasion under Cornea and Trauma); list each name once. */
+  var seen = {};
+  var top = scores.filter(function(x){ var k = x.d.t.toLowerCase(); if(seen[k]) return false; seen[k] = 1; return true; }).slice(0,n);
+  return '<div class="aki-lead"><div class="aki-lead-title">' + title + '</div>' + top.map(function(x){
+    var p = Math.max(1, Math.round(x.s * 100));
+    return '<button class="aki-cand" data-aki="open" data-id="' + escapeAttr(x.d.id) + '"><span class="aki-cand-name">' + x.d.t + '</span><span class="aki-cand-pct">' + p + '%</span><span class="aki-bar" style="width:' + Math.min(100, p) + '%"></span></button>';
+  }).join('') + '</div>';
+}
+function akiPickHtml(scores){
+  var picked = AKI.history.filter(function(h){ return h.a !== 0.5; }).length;
+  var html = '<div class="aki-pick-layout"><div class="aki-pick-list">' +
+    '<div class="aki-step">Tap once = present &#10003;, twice = absent &#10007;, three times = clear. Untapped findings are ignored.</div>';
+  AKI_GROUPS.forEach(function(g){
+    html += '<section class="aki-group"><h3>' + g[0] + '</h3><div class="aki-pick-grid">';
+    g[1].forEach(function(item){
+      var h = akiAnswerOf(item[0]);
+      var state = !h || h.a === 0.5 ? 'off' : (h.a > 0.5 ? 'yes' : 'no');
+      var mark = state === 'yes' ? '&#10003;' : (state === 'no' ? '&#10007;' : '');
+      var spoken = state === 'yes' ? ', present' : (state === 'no' ? ', absent' : '');
+      html += '<button class="aki-pick" data-aki="pick" data-aki-f="' + escapeAttr(item[0]) + '" data-state="' + state + '" aria-label="' + escapeAttr(item[1] + spoken) + '"><span class="aki-check" aria-hidden="true">' + mark + '</span>' + item[1] + '</button>';
+    });
+    html += '</div></section>';
+  });
+  html += '</div><div class="aki-pick-side">';
+  if(picked){
+    html += akiCandidatesHtml(scores, window.innerWidth <= 760 ? 5 : 10, 'Differential diagnosis &middot; ' + picked + ' finding' + (picked === 1 ? '' : 's'));
+  } else {
+    html += '<div class="aki-lead"><div class="aki-lead-title">Differential diagnosis</div><div class="aki-empty">Tick the patient&rsquo;s findings to build a ranked differential.</div></div>';
+  }
+  html += '<div class="aki-tools">' +
+    '<button class="aki-tool aki-primary" data-aki="mode" data-aki-mode="ask">🧞 Ask me to narrow it down</button>' +
+    '<button class="aki-tool" data-aki="restart"' + (AKI.history.length ? '' : ' disabled') + '>Clear all</button></div></div></div>';
+  return html;
+}
 function akiClick(e){
   var el = e.target.closest ? e.target.closest('[data-aki]') : null;
   var dlg = document.getElementById('aki');
@@ -1883,25 +2072,42 @@ function akiClick(e){
     akiRender();
   }
   else if(act === 'restart'){ akiRestart(); }
-  else if(act === 'scope'){ AKI.scope = el.getAttribute('data-aki-scope'); akiRestart(); }
+  else if(act === 'pick'){ akiToggle(el.getAttribute('data-aki-f')); akiRender(); akiRefocus(el); }
+  else if(act === 'mode'){ AKI.mode = el.getAttribute('data-aki-mode'); AKI.guessId = null; AKI.sinceGuess = 0; akiRender(); }
+  else if(act === 'scope'){ AKI.scope = el.getAttribute('data-aki-scope'); AKI.rejected = []; AKI.guessId = null; AKI.sinceGuess = 0; akiRender(); }
   else if(act === 'guessnow'){ AKI.guessId = akiScores()[0].d.id; akiRender(); }
   else if(act === 'wrong'){ AKI.rejected.push(AKI.guessId); AKI.guessId = null; AKI.sinceGuess = 0; akiRender(); }
   else if(act === 'open'){ dlg.close(); goToDisease(el.getAttribute('data-id')); }
   else if(act === 'close'){ dlg.close(); }
 }
+/* Re-rendering replaces the buttons, so keep keyboard focus on the finding just toggled. */
+function akiRefocus(el){
+  var f = el.getAttribute('data-aki-f');
+  var again = document.querySelector('#aki [data-aki="pick"][data-aki-f="' + f.replace(/"/g, '\\"') + '"]');
+  if(again) again.focus();
+}
 function akiRender(){
   var dlg = document.getElementById('aki');
   var scores = akiScores();
   var qn = AKI.history.length;
+  dlg.classList.toggle('aki-wide', AKI.mode === 'pick');
+  var html = '<div class="aki-head"><h2 id="aki-title">🧞 Differential diagnosis</h2><button class="aki-x" data-aki="close" aria-label="Close">✕</button></div><div class="aki-body">';
+  html += '<div class="aki-modes" role="group" aria-label="Mode">' +
+    '<button class="aki-mode" data-aki="mode" data-aki-mode="pick" aria-pressed="' + (AKI.mode === 'pick') + '">☑ Pick findings</button>' +
+    '<button class="aki-mode" data-aki="mode" data-aki-mode="ask" aria-pressed="' + (AKI.mode === 'ask') + '">🧞 Ask me</button></div>';
+  html += '<div class="aki-scope" role="group" aria-label="Candidate diseases">' +
+    '<button class="aki-chip" data-aki="scope" data-aki-scope="all" aria-pressed="' + (AKI.scope === 'all') + '">All diseases (' + DATA.length + ')</button>' +
+    '<button class="aki-chip" data-aki="scope" data-aki-scope="er" aria-pressed="' + (AKI.scope === 'er') + '">ER consult (' + ER_DISEASES.length + ')</button></div>';
+  if(AKI.mode === 'pick'){
+    html += akiPickHtml(scores) + '<div class="aki-note">A teaching aid built from this page\'s records, not a diagnosis.</div></div>';
+    dlg.innerHTML = html;
+    return;
+  }
   var next = AKI.guessId ? null : akiNextFeature(scores);
   if(!AKI.guessId && scores.length && ((qn >= 6 && AKI.sinceGuess >= 3 && scores[0].s >= 0.6) || (qn >= 25 && AKI.sinceGuess >= 3) || (!next && qn))){
     AKI.guessId = scores[0].d.id;
   }
   var poolN = akiPool().length;
-  var html = '<div class="aki-head"><h2 id="aki-title">🧞 Differential diagnosis</h2><button class="aki-x" data-aki="close" aria-label="Close">✕</button></div><div class="aki-body">';
-  html += '<div class="aki-scope" role="group" aria-label="Candidate diseases">' +
-    '<button class="aki-chip" data-aki="scope" data-aki-scope="all" aria-pressed="' + (AKI.scope === 'all') + '">All diseases (' + DATA.length + ')</button>' +
-    '<button class="aki-chip" data-aki="scope" data-aki-scope="er" aria-pressed="' + (AKI.scope === 'er') + '">ER consult (' + ER_DISEASES.length + ')</button></div>';
   if(!scores.length){
     html += '<div class="aki-q">I have run out of diseases to suggest.</div>';
   } else if(AKI.guessId){
@@ -1923,12 +2129,7 @@ function akiRender(){
     '<button class="aki-tool" data-aki="back"' + (qn || AKI.guessId ? '' : ' disabled') + '>&larr; Back</button>' +
     '<button class="aki-tool" data-aki="restart">Restart</button>' +
     (AKI.guessId || !scores.length ? '' : '<button class="aki-tool aki-primary" data-aki="guessnow"' + (qn ? '' : ' disabled') + '>Guess now</button>') + '</div>';
-  if(qn && scores.length){
-    html += '<div class="aki-lead"><div class="aki-lead-title">Differential diagnosis</div>' + scores.slice(0,5).map(function(x){
-      var p = Math.max(1, Math.round(x.s * 100));
-      return '<button class="aki-cand" data-aki="open" data-id="' + escapeAttr(x.d.id) + '"><span class="aki-cand-name">' + x.d.t + '</span><span class="aki-cand-pct">' + p + '%</span><span class="aki-bar" style="width:' + Math.min(100, p) + '%"></span></button>';
-    }).join('') + '</div>';
-  }
+  if(qn && scores.length) html += akiCandidatesHtml(scores, 5, 'Differential diagnosis');
   html += '<div class="aki-note">A teaching aid built from this page\'s records, not a diagnosis. Keys 1&ndash;5 answer.</div></div>';
   dlg.innerHTML = html;
 }
