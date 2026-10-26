@@ -3359,6 +3359,7 @@ function buildVF(){
 applySavedTheme(); applyBanner(); buildMenu(); buildMobileTabs(); npLoad(); applyFab(); buildQuickTpl(); ankiInitManifest(); if(ACCESS_LOCK_ENABLED){ ["builder","progress","bank","anki"].forEach(function(id){ document.getElementById("tab-"+id).classList.add("locked"); }); }
 buildExamGrid(); buildFundSelects(); buildScenarioSelects(); buildDenyChips(); buildPlanChips(); fillCatSelect(); renderBank(); setAllNormal(); buildGuides();
 var requestedTab=new URLSearchParams(window.location.search).get('tab');if(requestedTab&&document.getElementById('tab-'+requestedTab))showTab(requestedTab);
+var requestedBankQ=new URLSearchParams(window.location.search).get('bankq');if(requestedBankQ){document.getElementById('k-search').value=requestedBankQ;renderBank();}
 document.getElementById('o-eom').addEventListener('change', function(){ document.getElementById('eombox').style.display = document.getElementById('o-eom').checked ? 'block':'none'; renderPreview(); });
 document.getElementById('o-fundus').addEventListener('change', function(){ document.getElementById('fundusbox').style.display = document.getElementById('o-fundus').checked ? 'block':'none'; renderPreview(); });
 </script>

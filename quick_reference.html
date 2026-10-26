@@ -138,6 +138,52 @@ body.theme-black .usedfor-chip:hover{color:#000}
 .proc-subgroup{margin:0 0 22px}
 .proc-subgroup-title{display:flex;align-items:baseline;gap:8px;font-size:14px;font-weight:800;color:var(--acc2);margin:0 0 8px;padding-bottom:6px;border-bottom:1px solid var(--line)}
 .proc-subgroup-count{font-size:11px;font-weight:600;color:var(--sub)}
+/* ER consult: bank diagnoses grouped by presenting symptom */
+.er-bank-link{margin-left:auto;font-size:11.5px;font-weight:700;color:var(--acc);text-decoration:none;white-space:nowrap}
+.er-bank-link:hover{text-decoration:underline}
+.er-links{display:flex;flex-wrap:wrap;gap:8px;margin:-6px 0 16px}
+.er-links a{border:1px solid var(--line);background:var(--card);color:var(--acc);border-radius:999px;padding:6px 12px;font-size:12px;font-weight:700;text-decoration:none}
+.er-links a:hover{border-color:var(--acc);background:var(--chip)}
+.er-nolink{font-size:12px;color:var(--sub);margin:0 0 4px}
+/* Differential diagnosis popup: kiosk-style buttons, matching the ORNGLOCK order tab */
+.aki-launch{min-height:40px;padding:0 14px;border:3px solid var(--ink);border-radius:0;background:var(--ink);color:var(--bg);font:inherit;font-size:14px;font-weight:800;white-space:nowrap;cursor:pointer}
+.aki-launch:hover{background:#c8102e;border-color:#c8102e;color:#fff}
+dialog.aki{width:min(640px,calc(100vw - 24px));max-height:calc(100dvh - 32px);padding:0;border:4px solid var(--ink);border-radius:0;background:var(--card);color:var(--ink)}
+dialog.aki::backdrop{background:rgba(0,0,0,.55)}
+.aki *{border-radius:0}
+.aki button{font-family:inherit;cursor:pointer}
+.aki button:focus-visible{outline:4px solid var(--acc);outline-offset:2px}
+.aki-head{position:sticky;top:0;z-index:1;display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 12px;border-bottom:3px solid var(--ink);background:var(--card)}
+.aki-head h2{margin:0;font-size:22px;font-weight:900}
+.aki-x{min-width:48px;min-height:48px;border:3px solid var(--ink);background:var(--card);color:var(--ink);font-size:20px;font-weight:900}
+.aki-x:hover{background:var(--ink);color:var(--bg)}
+.aki-body{padding:14px 16px 16px}
+.aki-scope{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px}
+.aki-chip{min-height:44px;padding:0 14px;border:3px solid var(--ink);background:var(--card);color:var(--ink);font-size:15px;font-weight:800}
+.aki-chip[aria-pressed=true]{background:var(--ink);color:var(--bg)}
+.aki-step{font-size:13px;font-weight:800;letter-spacing:.04em;color:var(--sub)}
+.aki-q{margin:6px 0 14px;font-size:24px;font-weight:900;line-height:1.3}
+.aki-answers{display:flex;flex-direction:column;gap:8px}
+.aki-ans{display:flex;align-items:center;gap:14px;min-height:58px;padding:8px 14px;border:3px solid var(--line);border-left:10px solid var(--aki-c);background:var(--card);color:var(--ink);text-align:left;font-size:19px;font-weight:800}
+.aki-ans:hover{border-color:var(--ink);border-left-color:var(--aki-c);background:var(--chip)}
+.aki-key{flex:0 0 36px;height:36px;display:flex;align-items:center;justify-content:center;border:3px solid var(--aki-c);color:var(--aki-c);font-size:17px;font-weight:900}
+.aki-ans:hover .aki-key{background:var(--aki-c);color:#fff}
+.aki-guess-name{margin:6px 0 4px;font-size:26px;font-weight:900;line-height:1.25}
+.aki-guess-sub{margin:0 0 14px;font-size:14px;color:var(--sub)}
+.aki-tools{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.aki-tool{min-height:48px;padding:0 16px;border:3px solid var(--ink);background:var(--card);color:var(--ink);font-size:16px;font-weight:800}
+.aki-tool:hover:not(:disabled){background:var(--ink);color:var(--bg)}
+.aki-tool:disabled{opacity:.4;cursor:not-allowed}
+.aki-primary{background:#c8102e;border-color:#c8102e;color:#fff}
+.aki-primary:hover:not(:disabled){background:var(--ink);border-color:var(--ink)}
+.aki-lead{margin-top:18px}
+.aki-lead-title{margin:0 0 8px;padding:6px 0;font-size:16px;font-weight:900;border-bottom:3px solid var(--ink)}
+.aki-cand{position:relative;display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;min-height:46px;margin:0 0 6px;padding:8px 12px 12px;border:3px solid var(--line);background:var(--card);color:var(--ink);text-align:left;font-size:15px;font-weight:700;overflow:hidden}
+.aki-cand:hover{border-color:var(--ink)}
+.aki-cand-pct{flex:0 0 auto;font-weight:900;font-variant-numeric:tabular-nums}
+.aki-bar{position:absolute;left:0;bottom:0;height:5px;background:var(--acc)}
+.aki-note{margin-top:14px;font-size:12px;color:var(--sub)}
+@media(max-width:620px){.aki-q{font-size:20px}.aki-ans{font-size:17px;min-height:54px}.aki-guess-name{font-size:22px}}
 .proc-meta{display:flex;flex-wrap:wrap;gap:5px;margin-top:7px}
 .proc-pill{display:inline-flex;align-items:center;border-radius:999px;padding:3px 8px;font-size:10.5px;font-weight:800;line-height:1.2;border:1px solid transparent}
 .proc-rank{background:#e8edf3;color:#405061;border-color:#d4dce4}
@@ -253,6 +299,7 @@ header{flex-wrap:wrap;row-gap:6px}
 <div class="opd-wrap">
   <div class="opd-topbar">
     <input id="opd-search" class="opd-search" type="text" placeholder="Search by name, symptom, or any text in the entries...">
+    <button class="aki-launch" type="button" onclick="akiOpen()" title="Answer a few questions and get a differential diagnosis">🧞 Differential diagnosis</button>
     <div class="opd-fontctl">
       <button onclick="setFont(-1.25)" title="Smaller text">A-</button>
       <button onclick="document.documentElement.style.setProperty('--opd-fs','14.5px');try{localStorage.setItem('opd_fs',14.5);}catch(e){}" title="Reset text size">A</button>
@@ -266,6 +313,7 @@ header{flex-wrap:wrap;row-gap:6px}
 <script src="assets/quick_reference_procedure_steps_zh.js"></script>
 <script src="assets/quick_reference_teaching_zh.js"></script>
 <script src="assets/quick_reference_symptoms_en.js"></script>
+<script src="consult_template/manifest.js"></script>
 <script>
 function setTheme(t){document.body.classList.remove("theme-macaroon","theme-dark","theme-black");if(t==="macaroon"||t==="dark"||t==="black")document.body.classList.add("theme-"+t);try{localStorage.setItem("cgmh_theme",t);}catch(e){}markDots();}
 function markDots(){var m=document.body.className.match(/theme-(\w+)/);var cur=m?m[1]:"default";document.querySelectorAll(".theme-dot").forEach(function(d){d.classList.toggle("sel",d.dataset.theme===cur);});}
@@ -857,6 +905,153 @@ EMERGENT_CAT_ORDER.forEach(function(cat){
 });
 var EMERGENT_DISEASES = EMERGENT_IDS.map(function(id){ return BYID[id]; }).filter(Boolean);
 
+/* ER consult view. Each group lists the diagnoses used in the consult note
+   template bank (consult_template/manifest.js) for that ER presentation, linked
+   to the existing disease records. A diagnosis may appear in several groups. */
+var ER_CAT_ORDER = [
+  "Red eye",
+  "Eye pain or foreign-body sensation",
+  "Painful eye with high IOP or headache",
+  "Flashes and floaters",
+  "Sudden or blurred vision loss",
+  "Visual disturbance, field defect or headache",
+  "Diplopia or abnormal pupil",
+  "Eyelid swelling, lump or discharge",
+  "Proptosis or orbital swelling",
+  "Chemical or thermal exposure",
+  "Eye trauma",
+  "After eye surgery"
+];
+var ER_CAT_ICON = {
+  "Red eye":"🔴",
+  "Eye pain or foreign-body sensation":"🩹",
+  "Painful eye with high IOP or headache":"🔺",
+  "Flashes and floaters":"✨",
+  "Sudden or blurred vision loss":"⚡",
+  "Visual disturbance, field defect or headache":"🧠",
+  "Diplopia or abnormal pupil":"👀",
+  "Eyelid swelling, lump or discharge":"💧",
+  "Proptosis or orbital swelling":"👁",
+  "Chemical or thermal exposure":"🧪",
+  "Eye trauma":"💥",
+  "After eye surgery":"🏥"
+};
+var ER_GROUPS = {
+  "Red eye":[
+    ["Acute conjunctivitis",["d34-bacterial-conjunctivitis-simple-and-hype","d35-viral-adenoviral-conjunctivitis-includin"]],
+    ["Epidemic keratoconjunctivitis",["d35-viral-adenoviral-conjunctivitis-includin"]],
+    ["Allergic conjunctivitis / Chemosis",["d37-allergic-conjunctivitis-seasonal-sac-per"]],
+    ["Subconjunctival hemorrhage",["d47-subconjunctival-haemorrhage"]],
+    ["Anterior uveitis",["d114-idiopathic-acute-anterior-uveitis-aau","d115-hla-human-leukocyte-antigen-b27-associat","d119-herpetic-anterior-uveitis-hsv-vzv-varice"]],
+    ["Herpes zoster ophthalmic assessment",["d13-herpes-zoster-ophthalmicus-hzo"]],
+    ["Herpetic keratitis / Endotheliitis",["d11-herpes-simplex-epithelial-dendritic-geog","d12-herpes-simplex-stromal-keratitis-necroti"]],
+    ["Corneal ulcer / Infectious keratitis",["d9-bacterial-keratitis","d10-fungal-keratitis-filamentary-and-yeast","d14-acanthamoeba-keratitis","d16-contact-lens-related-microbial-keratitis"]],
+    ["SJS / TEN ocular assessment",["d42-stevens-johnson-syndrome-toxic-epidermal"]]
+  ],
+  "Eye pain or foreign-body sensation":[
+    ["Corneal epithelial defect / Abrasion",["d18-corneal-abrasion","d19-recurrent-corneal-erosion-syndrome-rces"]],
+    ["Superficial punctate keratitis / SPK",["d0-aqueous-deficient-dry-eye-disease-adde","d1-meibomian-gland-dysfunction-evaporative-","d356-ultraviolet-photokeratitis-and-welding-k"]],
+    ["Dry eye / SPK",["d0-aqueous-deficient-dry-eye-disease-adde","d1-meibomian-gland-dysfunction-evaporative-"]],
+    ["Filamentary keratitis",["d5-filamentary-keratitis"]],
+    ["Exposure keratitis",["d3-exposure-keratopathy-lagophthalmos","d326-lagophthalmos-and-exposure-keratopathy"]],
+    ["Surface foreign body / Rust ring",["d21-corneal-foreign-body-with-rust-ring","d354-corneal-and-conjunctival-foreign-body"]],
+    ["Corneal ulcer / Infectious keratitis",["d9-bacterial-keratitis","d10-fungal-keratitis-filamentary-and-yeast","d14-acanthamoeba-keratitis","d16-contact-lens-related-microbial-keratitis"]],
+    ["Suspected microsporidia keratitis",["d15-microsporidial-keratoconjunctivitis-and-"]],
+    ["Trichiasis / Conjunctival cyst",["d320-trichiasis-and-distichiasis"]]
+  ],
+  "Painful eye with high IOP or headache":[
+    ["Acute angle closure",["d75-acute-angle-closure-crisis-aacc"]],
+    ["Elevated IOP / Ocular hypertension",["d67-ocular-hypertension-oht","d82-posner-schlossman-syndrome-glaucomatocyc","d85-steroid-induced-corticosteroid-response-"]],
+    ["Neovascular glaucoma",["d81-neovascular-glaucoma-nvg"]],
+    ["Secondary angle closure",["d86-lens-induced-glaucomas-phacomorphic-phac","d78-malignant-glaucoma-aqueous-misdirection-"]],
+    ["Uveitic glaucoma",["d84-uveitic-inflammatory-glaucoma-general"]]
+  ],
+  "Flashes and floaters":[
+    ["Vitreous degeneration / PVD",["d187-acute-posterior-vitreous-detachment-pvd"]],
+    ["Retinal break / Tear",["d188-retinal-tears-horseshoe-u-tear-operculat","d189-lattice-degeneration-and-other-predispos"]],
+    ["Retinal detachment",["d190-rhegmatogenous-retinal-detachment-rrd"]],
+    ["Vitreous hemorrhage",["d196-vitreous-haemorrhage"]]
+  ],
+  "Sudden or blurred vision loss":[
+    ["Retinal detachment",["d190-rhegmatogenous-retinal-detachment-rrd","d192-exudative-serous-retinal-detachment"]],
+    ["Vitreous hemorrhage",["d196-vitreous-haemorrhage","d150-proliferative-diabetic-retinopathy-pdr-i"]],
+    ["Retinal artery occlusion",["d157-central-retinal-artery-occlusion-crao","d156-branch-retinal-artery-occlusion-brao"]],
+    ["Retinal vein occlusion",["d154-central-retinal-vein-occlusion-crvo-non-","d153-branch-retinal-vein-occlusion-brvo"]],
+    ["Retinal hemorrhage",["d165-purtscher-and-purtscher-like-retinopathy","d166-retinopathy-of-blood-and-lipid-disorders"]],
+    ["Maculopathy / Macular hemorrhage",["d169-neovascular-wet-amd-age-related-macular-","d170-massive-submacular-haemorrhage-in-amd-in","d171-polypoidal-choroidal-vasculopathy-pcv-an"]],
+    ["CSCR / Suspected CSCR",["d173-acute-central-serous-chorioretinopathy-c","d174-chronic-cscr-central-serous-chorioretino"]],
+    ["Diabetic retinopathy",["d150-proliferative-diabetic-retinopathy-pdr-i","d151-diabetic-macular-oedema-centre-involving"]],
+    ["Hypertensive retinopathy",["d159-hypertensive-retinopathy-choroidopathy-a"]],
+    ["Suspected optic neuritis",["d239-typical-demyelinating-optic-neuritis-ms-","d240-mog-antibody-associated-optic-neuritis-m","d241-nmosd-aqp4-antibody-optic-neuritis"]],
+    ["Endophthalmitis",["d138-endogenous-endophthalmitis-bacterial-and","d369-post-traumatic-endophthalmitis"]]
+  ],
+  "Visual disturbance, field defect or headache":[
+    ["Subjective visual disturbance / Pain",["d281-migraine-with-visual-aura-and-acephalgic","d279-retrochiasmal-lesions-and-homonymous-hem","d282-functional-non-organic-visual-loss"]],
+    ["Migraine / Transient visual disturbance",["d281-migraine-with-visual-aura-and-acephalgic"]],
+    ["Disc edema / Papilledema",["d245-idiopathic-intracranial-hypertension-pap","d242-non-arteritic-anterior-ischaemic-optic-n","d243-arteritic-aion-anterior-ischaemic-optic-"]],
+    ["Suspected optic neuritis",["d239-typical-demyelinating-optic-neuritis-ms-","d240-mog-antibody-associated-optic-neuritis-m","d241-nmosd-aqp4-antibody-optic-neuritis"]]
+  ],
+  "Diplopia or abnormal pupil":[
+    ["Diplopia",["d264-third-nerve-palsy-pupil-involving-vs-pup","d265-fourth-nerve-trochlear-palsy","d266-sixth-nerve-abducens-palsy","d271-ocular-myasthenia-gravis","d274-thyroid-related-restrictive-myopathy"]],
+    ["Anisocoria / Pupil assessment",["d259-horner-syndrome-oculosympathetic-paresis","d260-adie-tonic-pupil","d262-pharmacologic-anticholinergic-mydriasis","d264-third-nerve-palsy-pupil-involving-vs-pup"]],
+    ["Blunt injury with orbital fracture",["d371-orbital-blow-out-fracture"]]
+  ],
+  "Eyelid swelling, lump or discharge":[
+    ["Hordeolum / Chalazion",["d319-hordeolum-stye","d318-chalazion-meibomian-cyst"]],
+    ["Preseptal cellulitis",["d312-paediatric-conjunctivitis-and-preseptal-","d346-orbital-cellulitis-and-subperiosteal-abs"]],
+    ["Orbital cellulitis",["d346-orbital-cellulitis-and-subperiosteal-abs"]],
+    ["Canaliculitis",["d350-canaliculitis-and-dacryocystitis"]],
+    ["Dacryocystitis",["d350-canaliculitis-and-dacryocystitis"]],
+    ["Acute conjunctivitis",["d34-bacterial-conjunctivitis-simple-and-hype","d35-viral-adenoviral-conjunctivitis-includin"]],
+    ["Allergic conjunctivitis / Chemosis",["d37-allergic-conjunctivitis-seasonal-sac-per"]]
+  ],
+  "Proptosis or orbital swelling":[
+    ["Thyroid eye disease",["d333-thyroid-eye-disease-active-phase","d334-thyroid-eye-disease-inactive-fibrotic-ph"]],
+    ["Dysthyroid optic neuropathy",["d333-thyroid-eye-disease-active-phase"]],
+    ["Orbital inflammation / Proptosis",["d335-idiopathic-orbital-inflammatory-disease-","d336-dacryoadenitis"]],
+    ["Orbital cellulitis",["d346-orbital-cellulitis-and-subperiosteal-abs"]]
+  ],
+  "Chemical or thermal exposure":[
+    ["Chemical injury",["d357-chemical-burn-alkali-and-acid-roper-hall"]],
+    ["Thermal injury",["d358-thermal-burn-of-the-ocular-surface-and-a"]],
+    ["Superglue exposure",["d18-corneal-abrasion"]]
+  ],
+  "Eye trauma":[
+    ["Blunt ocular / Orbital injury",["d359-traumatic-hyphaema","d355-traumatic-iritis-traumatic-anterior-uvei","d360-traumatic-mydriasis-sphincter-tears-and-","d364-commotio-retinae-berlin-oedema","d372-orbital-compartment-syndrome-and-retrobu","d374-traumatic-optic-neuropathy-in-the-trauma"]],
+    ["Blunt injury with orbital fracture",["d371-orbital-blow-out-fracture","d372-orbital-compartment-syndrome-and-retrobu"]],
+    ["Hyphema / Microhyphema",["d359-traumatic-hyphaema"]],
+    ["Open globe injury",["d367-open-globe-injury-penetrating-perforatin","d368-intraocular-foreign-body-siderosis-and-c","d369-post-traumatic-endophthalmitis"]],
+    ["Eyelid / Conjunctival laceration",["d373-eyelid-and-canalicular-laceration"]],
+    ["Corneal epithelial defect / Abrasion",["d353-corneal-abrasion"]],
+    ["Surface foreign body / Rust ring",["d354-corneal-and-conjunctival-foreign-body"]]
+  ],
+  "After eye surgery":[
+    ["Postoperative inflammation / Assessment",["d175-cystoid-macular-oedema-irvine-gass-syndr","d33-corneal-graft-rejection-epithelial-subep"]],
+    ["Postoperative wound leak / oozing",[]],
+    ["IOL dislocation / Zonular dialysis",["d112-iol-intraocular-lens-dislocation-and-dec","d363-lens-subluxation-and-dislocation"]],
+    ["Cataract / Post-cataract assessment",["d97-nuclear-sclerotic-cataract","d104-posterior-capsule-opacification-pco-afte","d113-refractive-surprise-after-cataract-surge"]],
+    ["Endophthalmitis",["d138-endogenous-endophthalmitis-bacterial-and","d369-post-traumatic-endophthalmitis"]]
+  ]
+};
+var ER_BANK_COUNT = {};
+(window.CGMH_CONSULT_MANIFEST || []).forEach(function(t){
+  if(t && t.diagnosis) ER_BANK_COUNT[t.diagnosis] = (ER_BANK_COUNT[t.diagnosis] || 0) + 1;
+});
+var ER_BANK_URL = "/CGMHOPH/index.html?tab=bank&bankq=";
+var BYERCAT = {};
+var ER_IDS = [];
+ER_CAT_ORDER.forEach(function(cat){
+  var ids = [];
+  (ER_GROUPS[cat] || []).forEach(function(g){
+    g[1].forEach(function(id){
+      if(ids.indexOf(id) < 0) ids.push(id);
+      if(ER_IDS.indexOf(id) < 0) ER_IDS.push(id);
+    });
+  });
+  BYERCAT[cat] = ids.map(function(id){ return BYID[id]; }).filter(Boolean);
+});
+var ER_DISEASES = ER_IDS.map(function(id){ return BYID[id]; }).filter(Boolean);
+
 var BYPROCCAT = {};
 PROC_CAT_ORDER.forEach(function(c){BYPROCCAT[c]=[];});
 PROCS.forEach(function(p){ if(!BYPROCCAT[p.h2])BYPROCCAT[p.h2]=[]; BYPROCCAT[p.h2].push(p); });
@@ -967,6 +1162,7 @@ function prevSort(a,b){
 }
 
 var MODES = [
+  {key:"erconsult", label:"ER consult", icon:"🏥"},
   {key:"symptoms", label:"Symptoms", icon:"🩺"},
   {key:"diseases", label:"Diseases", icon:"📋"},
   {key:"emergent", label:"Emergent", icon:"🚨"},
@@ -1147,7 +1343,7 @@ function detailTabs(){ return curDetailKind === 'proc' ? PROC_TABS : TABS; }
 function normaliseDetailNavigation(){
   if(DETAIL_NAV_IDS.indexOf(curDetailId) >= 0) return;
   var fallback = curDetailKind === 'proc' ? PROCS.slice() :
-    (MODE === 'ird' ? IRD_DISEASES.slice() : (MODE === 'emergent' ? EMERGENT_DISEASES.slice() : DATA.slice()));
+    (MODE === 'ird' ? IRD_DISEASES.slice() : (MODE === 'emergent' ? EMERGENT_DISEASES.slice() : (MODE === 'erconsult' ? ER_DISEASES.slice() : DATA.slice())));
   fallback.sort(function(a,b){ return a.t.localeCompare(b.t); });
   DETAIL_NAV_IDS = fallback.map(function(item){ return item.id; });
 }
@@ -1197,6 +1393,7 @@ function currentCatMeta(){
   if(MODE === "symptoms") return {order: CAT_ORDER, icon: CAT_ICON, by: BYCAT};
   if(MODE === "diseases") return {order: DIS_H2_ORDER, icon: DIS_H2_ICON, by: BYDISH2};
   if(MODE === "emergent") return {order: EMERGENT_CAT_ORDER, icon: EMERGENT_CAT_ICON, by: BYEMERGCAT};
+  if(MODE === "erconsult") return {order: ER_CAT_ORDER, icon: ER_CAT_ICON, by: BYERCAT};
   if(MODE === "ird"){
     if(IRD_BROWSE === "symptom") return {order: IRD_SYMPTOM_ORDER, icon: CAT_ICON, by: IRD_BY_SYMPTOM};
     if(IRD_BROWSE === "onset") return {order: IRD_ONSET_ORDER, icon: IRD_ONSET_ICON, by: IRD_BY_ONSET};
@@ -1235,10 +1432,12 @@ function renderCrumb(){
 function renderCategoryGrid(){
   var meta = currentCatMeta();
   var irdBrowseLabel = IRD_BROWSE === 'symptom' ? 'presenting symptom' : (IRD_BROWSE === 'onset' ? 'age at onset' : 'inheritance pattern');
-  var browseLabel = MODE === 'symptoms' ? 'symptom' :
-    (MODE === 'emergent' ? 'emergency presentation' : (MODE === 'diseases' ? 'disease category' : (MODE === 'ird' ? irdBrowseLabel : 'procedure category')));
-  var emergencyNote = MODE === 'emergent' ? '<div class="opd-h2sub">Grouped by presenting symptom or injury mechanism. A disease may appear in more than one group; some are emergent only when the red-flag feature in the record is present.</div>' : '';
-  var html = (MODE === 'ird' ? renderIrdBrowseTabs() : '') + '<div class="opd-h1">Browse by ' + browseLabel + '</div>' + emergencyNote + (MODE === 'intervention' || MODE === 'emergent' ? '' : sexBiasLegendHtml()) + '<div class="cat-grid">';
+  var browseLabel = MODE === 'symptoms' ? 'symptom' : (MODE === 'erconsult' ? 'ER presenting symptom' :
+    (MODE === 'emergent' ? 'emergency presentation' : (MODE === 'diseases' ? 'disease category' : (MODE === 'ird' ? irdBrowseLabel : 'procedure category'))));
+  var emergencyNote = MODE === 'emergent' ? '<div class="opd-h2sub">Grouped by presenting symptom or injury mechanism. A disease may appear in more than one group; some are emergent only when the red-flag feature in the record is present.</div>' :
+    (MODE === 'erconsult' ? '<div class="opd-h2sub">Diagnoses seen in ER consults, from the consult note template bank, grouped by presenting symptom. A diagnosis may appear in more than one group.</div>' +
+      '<div class="er-links"><a href="/CGMHOPH/index.html?tab=builder">📝 Consult note builder</a><a href="/CGMHOPH/index.html?tab=bank">🗂 Template bank</a></div>' : '');
+  var html = (MODE === 'ird' ? renderIrdBrowseTabs() : '') + '<div class="opd-h1">Browse by ' + browseLabel + '</div>' + emergencyNote + (MODE === 'intervention' || MODE === 'emergent' || MODE === 'erconsult' ? '' : sexBiasLegendHtml()) + '<div class="cat-grid">';
   meta.order.forEach(function(c){
     var n = (meta.by[c] || []).length;
     var icon = meta.icon[c] || '•';
@@ -1251,10 +1450,10 @@ function renderCategoryGrid(){
 
 function renderTopicSection(){
   var list = (MODE === 'intervention') ? PROCS.slice() :
-    (MODE === 'ird' ? IRD_DISEASES.slice() : (MODE === 'emergent' ? EMERGENT_DISEASES.slice() : DATA.slice()));
+    (MODE === 'ird' ? IRD_DISEASES.slice() : (MODE === 'emergent' ? EMERGENT_DISEASES.slice() : (MODE === 'erconsult' ? ER_DISEASES.slice() : DATA.slice())));
   list.sort(function(a,b){ return a.t.localeCompare(b.t); });
   DETAIL_NAV_IDS = list.map(function(item){ return item.id; });
-  var label = (MODE === 'intervention') ? 'procedures' : (MODE === 'ird' ? 'inherited retinal diseases' : (MODE === 'emergent' ? 'emergent diseases' : 'diseases'));
+  var label = (MODE === 'intervention') ? 'procedures' : (MODE === 'ird' ? 'inherited retinal diseases' : (MODE === 'emergent' ? 'emergent diseases' : (MODE === 'erconsult' ? 'ER consult diseases' : 'diseases')));
   var html = '<button class="topic-toggle" data-action="toggletopics">' + (topicOpen ? 'Hide' : 'Browse all ' + list.length + ' ' + label + ' A-Z') + '</button>';
   html += '<div class="topic-list' + (topicOpen ? ' open' : '') + '">';
   list.forEach(function(item){
@@ -1298,6 +1497,29 @@ function renderItemGrid(cat){
     });
     DETAIL_NAV_IDS = displayedProcIds;
     return html;
+  }
+  if(MODE === 'erconsult'){
+    var erHtml = '<div class="opd-h1">' + (ER_CAT_ICON[cat]||'') + ' ' + cat + '</div>' +
+      '<div class="opd-h2sub">Grouped by template bank diagnosis. Open a record for its symptoms, criteria and treatment, or open the matching ER consult templates.</div>';
+    var erShown = [];
+    (ER_GROUPS[cat] || []).forEach(function(g){
+      var n = ER_BANK_COUNT[g[0]];
+      var diseases = g[1].map(function(id){ return BYID[id]; }).filter(Boolean);
+      diseases.forEach(function(d){ if(erShown.indexOf(d.id) < 0) erShown.push(d.id); });
+      erHtml += '<section class="proc-subgroup"><div class="proc-subgroup-title">' + escapeHtml(g[0]) +
+        (n ? '<span class="proc-subgroup-count">' + n + ' ER template' + (n === 1 ? '' : 's') + '</span>' : '') +
+        '<a class="er-bank-link" href="' + ER_BANK_URL + encodeURIComponent(g[0]) + '" target="_blank" rel="noopener">Open in template bank &rarr;</a></div>';
+      if(diseases.length){
+        erHtml += '<div class="dis-grid">';
+        diseases.forEach(function(d){ erHtml += diseaseTileHtml(d,d.h2 + ' &middot; ' + d.h3,false); });
+        erHtml += '</div>';
+      } else {
+        erHtml += '<div class="er-nolink">No matching disease record; see the template bank.</div>';
+      }
+      erHtml += '</section>';
+    });
+    DETAIL_NAV_IDS = erShown;
+    return erHtml;
   }
   var srcBy = MODE === 'diseases' ? BYDISH2 : (MODE === 'emergent' ? BYEMERGCAT : BYCAT);
   var list = (srcBy[cat] || []).slice().sort(MODE === 'emergent' ? function(a,b){ return a.t.localeCompare(b.t); } : prevSort);
@@ -1366,10 +1588,10 @@ function renderSearchResults(q){
     html += '</div>';
     return html;
   }
-  var diseaseSearchSource = MODE === 'ird' ? IRD_DISEASES : (MODE === 'emergent' ? EMERGENT_DISEASES : DATA);
-  var list = diseaseSearchSource.filter(function(d){ return matchesQuery(d, ql, DIS_SEARCH_FIELDS); }).sort((MODE === 'ird' || MODE === 'emergent') ? function(a,b){ return a.t.localeCompare(b.t); } : prevSort);
+  var diseaseSearchSource = MODE === 'ird' ? IRD_DISEASES : (MODE === 'emergent' ? EMERGENT_DISEASES : (MODE === 'erconsult' ? ER_DISEASES : DATA));
+  var list = diseaseSearchSource.filter(function(d){ return matchesQuery(d, ql, DIS_SEARCH_FIELDS); }).sort((MODE === 'ird' || MODE === 'emergent' || MODE === 'erconsult') ? function(a,b){ return a.t.localeCompare(b.t); } : prevSort);
   DETAIL_NAV_IDS = list.map(function(d){ return d.id; });
-  var html = '<div class="opd-h1">Search results for &ldquo;' + escapeHtml(q) + '&rdquo; (' + list.length + ')</div>' + (MODE === 'emergent' ? '' : sexBiasLegendHtml());
+  var html = '<div class="opd-h1">Search results for &ldquo;' + escapeHtml(q) + '&rdquo; (' + list.length + ')</div>' + (MODE === 'emergent' || MODE === 'erconsult' ? '' : sexBiasLegendHtml());
   if(list.length === 0){ html += '<div class="nomatch">No diseases match that text.</div>'; return html; }
   html += '<div class="dis-grid">';
   list.forEach(function(d){
@@ -1495,6 +1717,221 @@ document.getElementById('opd-nav-left').addEventListener('click', function(e){
 });
 
 document.getElementById('opd-search').addEventListener('input', function(e){ doSearch(e.target.value); });
+
+/* Differential diagnosis: an Akinator-style popup. Each question is a feature read
+   from the existing records (symptom categories, then keywords in the Symptoms,
+   Prevalence and Criteria text). Answers update a prevalence-weighted score for
+   every candidate; the next question is the one that best splits what is left. */
+var AKI_HX = [
+  ["cat:Red eye","Is the eye red?",/\bred eye|redness|injection\b|hyperaemi|ciliary flush/],
+  ["cat:Eye pain","Is the eye painful?",/\bpain(?!less)|painful|\bache\b|aching/],
+  ["cat:Itchy or allergic eye","Is itching a main complaint?",/itch/],
+  ["cat:Watery eye","Is the eye watering?",/\btearing|watering|epiphora|lacrimation/],
+  ["cat:Dry or gritty eye","Does it feel dry, gritty or like something is in the eye?",/gritty|foreign[- ]body sensation|dryness|burning/],
+  ["cat:Discharge or crusty eyelids","Is there discharge or crusting of the lids?",/discharge|crust|purulent/],
+  ["cat:Blurred or gradually reduced vision","Is vision blurred or reduced?",/blur|reduced (visual )?acuity|reduced vision|decreased vision|visual loss|vision loss/],
+  ["cat:Sudden vision loss","Was there sudden loss of vision?",/sudden[^.;]{0,40}(vision|visual|loss|blind)|abrupt[^.;]{0,30}(vision|visual|loss)/],
+  ["cat:Distorted vision","Are straight lines distorted (metamorphopsia)?",/distort|metamorphops|wavy/],
+  ["cat:Flashes and floaters","Are there flashes or new floaters?",/flash|floater|photopsi/],
+  ["cat:Double vision","Is there double vision?",/diplopia|double vision/],
+  ["cat:Eyelid lump or swelling","Is there an eyelid lump or swelling?",/(lid|eyelid|periorbital|periocular)[^.;]{0,20}(swelling|lump|oedema|mass|nodule)/],
+  ["cat:Eyelid malposition","Is the eyelid drooping or turned in or out?",/ptosis|droop|entropion|ectropion/],
+  ["cat:Squint or eye turn in children","Is there a squint or eye turn?",/squint|strabism|esotropia|exotropia|eye turn/],
+  ["cat:Poor vision or unusual appearance noticed in a baby or child","Did a parent notice poor vision or an unusual eye appearance in a baby or child?",null],
+  ["cat:Bulging or protruding eye","Is the eye bulging (proptosis)?",/proptosis|exophthalm|bulging/],
+  ["cat:Injury or chemical exposure","Was there an injury or chemical exposure?",/trauma|injur|chemical|splash|blow to/],
+  ["cat:Headache with visual symptoms","Is there a headache?",/headache/],
+  ["cat:Abnormal pupil size or shape","Is a pupil abnormal in size or shape?",/anisocoria|pupil/],
+  ["cat:Abnormal or wobbling eye movements","Are there wobbling or abnormal eye movements?",/nystagmus|oscillops/],
+  ["cat:Growth or lesion on the eye or lid","Is there a visible growth or lesion on the eye or lid?",/growth|tumou?r|lesion|mass/],
+  ["cat:Night vision problems","Is night vision poor?",/night blind|nyctalop|dark adaptation/],
+  ["cat:Reduced peripheral or field of vision","Is the side (peripheral) vision reduced?",/field (loss|defect)|peripheral vision|hemianop|scotoma|tunnel/],
+  ["cat:No symptoms, found on routine check","Was it found on a routine check, with no symptoms?",/asymptomatic|incidental/],
+  ["cat:Contact lens problems","Does the patient wear contact lenses?",/contact lens/],
+  ["sudden","Did it start suddenly, over hours to days?",/sudden|acute|abrupt|hours|rapid onset/],
+  ["gradual","Has it come on gradually, over months or years?",/gradual|progressive|slowly|insidious|over (months|years)/],
+  ["painless","Is it painless?",/painless/],
+  ["bilateral","Are both eyes affected?",/bilateral|both eyes/],
+  ["child","Is the patient a child or infant?",/child|infan|baby|neonat|paediatric|congenital|juvenile/],
+  ["older","Is the patient over 50?",/elderly|older (adults|patients|people)|over (the )?age (of )?[4-8]\d|over [4-8]\d|>\s?[4-8]\d|age-related|peak (age|incidence)[^.;]{0,12}[5-8]\d|aged? [5-8]\d|after (age )?[4-8]\d/],
+  ["surgery","Has the eye had recent surgery or an injection?",/post-?operative|after (cataract |intraocular |eye |refractive )?surgery|following surgery|intravitreal injection|graft/],
+  ["photophobia","Is there light sensitivity (photophobia)?",/photophobi|light sensitiv/],
+  ["halos","Are there haloes or glare around lights?",/halo|glare/],
+  ["nausea","Is there nausea or vomiting?",/nausea|vomit/],
+  ["family","Is there a family history of eye disease?",/family history|inherit|autosomal|x-linked|hereditary/],
+  ["diabetes","Does the patient have diabetes?",/diabet/],
+  ["autoimmune","Is there an autoimmune or inflammatory systemic disease?",/rheumatoid|lupus|sarcoid|spondyl|hla-b27|autoimmune|vasculitis|inflammatory bowel|psoria/],
+  ["immuno","Is the patient immunocompromised?",/\bhiv\b|immunocomp|immunosupp|transplant|chemotherapy/],
+  ["neuro","Are there other neurological symptoms (weakness, numbness, speech)?",/neurolog|weakness|numbness|ataxia|hemipar|dysarthri/],
+  ["gca","Is there jaw claudication or scalp tenderness?",/jaw claudication|scalp tender/]
+];
+var AKI_EX = [
+  ["iop","On examination, is the IOP raised?",/iop[^.;]{0,50}(raised|elevated|high|>\s?2\d|\b[3-8]\d\b)|raised iop|elevated iop|ocular hypertension/],
+  ["ac","Are there AC cells, flare or hypopyon?",/anterior chamber\)? cells|ac cells|ac \(anterior chamber\) cells|hypopyon|flare/],
+  ["stain","Does the cornea stain with fluorescein?",/fluorescein (stain|uptake|dye)|stains? with fluorescein|(corneal|epithelial|punctate) stain|epithelial defect|dendrit/],
+  ["infiltrate","Is there a corneal infiltrate, ulcer or opacity?",/infiltrat|stromal (opacity|haze)|ulcer|corneal opacit/],
+  ["follicles","Are there conjunctival follicles or papillae?",/follic|papillae/],
+  ["flush","Is there ciliary flush or deep scleral injection?",/ciliary flush|circumcorneal|scleral (injection|oedema)|violaceous/],
+  ["lens","Is there a lens opacity or abnormal lens position?",/lens opacit|cataract|subluxat|phacodonesis/],
+  ["vitreous","Are there vitreous cells, haze or haemorrhage?",/vitreous (cells|haze|haemorrhage)|vitritis|snowball|tobacco dust/],
+  ["detach","Is the retina detached or is there a retinal tear?",/detach|retinal tear|horseshoe/],
+  ["macula","Is there macular fluid, oedema or a macular lesion?",/macular (oedema|fluid|hole|lesion|atrophy)|subretinal fluid|intraretinal fluid/],
+  ["rhaem","Are there retinal haemorrhages?",/retinal haemorrhag|flame|blot haemorrhag|dot[- ]and[- ]blot|intraretinal haemorrhag/],
+  ["chorio","Are there chorioretinal lesions, white spots or retinitis?",/chorioretinal|white dots|placoid|choroiditis|retinitis|retinochoroiditis/],
+  ["pigment","Is there retinal pigment change (e.g. bone spicules)?",/bone[- ]spicule|pigment (clump|migration|mottling)|pigmentary/],
+  ["discswell","Is the optic disc swollen?",/disc (swelling|oedema|edema)|papilloedema|swollen disc|optic disc oedema/],
+  ["discpale","Is the optic disc pale or cupped?",/pallor|optic atrophy|cupping|cup-to-disc|c\/d/],
+  ["rapd","Is there a relative afferent pupillary defect (RAPD)?",/rapd|afferent pupillary defect/],
+  ["motility","Is eye movement restricted?",/restrict|ophthalmoplegia|limitation of|motility/]
+];
+var AKI_ANSWERS = [["Yes",1,"#2e7d32"],["Probably",0.75,"#5f8f2a"],["Don't know",0.5,"var(--sub)"],["Probably not",0.25,"#9a6700"],["No",0,"#c8102e"]];
+var AKI_PRIOR = [1, 0.35, 0.7, 1.5, 3, 5];
+/* P(answer yes): listed symptom category, text mention, not mentioned. */
+var AKI_P = [0.25, 0.7, 0.9];
+var AKI = {features:null, scope:'all', history:[], rejected:[], guessId:null, sinceGuess:0};
+
+function akiPlain(s){ return searchableText(s).replace(/\*\*/g,'').toLowerCase(); }
+/* True when the pattern appears without a nearby negation ("no", "without", "unlike" ...). */
+function akiMentions(re, text){
+  var g = new RegExp(re.source, 'g'), m;
+  while((m = g.exec(text))){
+    if(!/(no|not|without|absent|absence of|unlike|rather than|non|never|denies)[^.;:]{0,25}$/.test(text.slice(Math.max(0, m.index - 30), m.index))) return true;
+    if(!m[0].length) g.lastIndex++;
+  }
+  return false;
+}
+function akiBuild(){
+  if(AKI.features) return;
+  var feats = AKI_HX.map(function(f){ return {id:f[0], q:f[1], re:f[2], hx:true}; })
+    .concat(AKI_EX.map(function(f){ return {id:f[0], q:f[1], re:f[2], hx:false}; }));
+  DATA.forEach(function(d){
+    var hx = akiPlain(d.t + ' ' + d.symptom + ' ' + (d.laterality || '') + ' ' + d.h2 + ' ' + d.h3);
+    var pv = akiPlain(d.prevalence);
+    var ex = akiPlain(d.criteria);
+    var has = {};
+    /* 2 = listed in the record's symptom categories, 1 = found in its text. */
+    feats.forEach(function(f){
+      var on = 0;
+      if(f.id.indexOf('cat:') === 0 && (d.cats || []).indexOf(f.id.slice(4)) >= 0) on = 2;
+      if(!on && f.re) on = (f.hx ? (akiMentions(f.re, hx) || (/^(child|older|family|surgery|diabetes|autoimmune|immuno)$/.test(f.id) && akiMentions(f.re, pv))) : akiMentions(f.re, ex)) ? 1 : 0;
+      /* Visible signs described under Criteria also count as weaker history evidence. */
+      if(!on && f.hx && f.re && /^cat:(Red eye|Eye pain|Watery eye|Discharge|Eyelid lump|Bulging|Double vision|Eyelid malposition)|^(photophobia|bilateral)$/.test(f.id) && akiMentions(f.re, ex)) on = 1;
+      if(on === 1 && f.id === 'cat:Eye pain' && /painless/.test(hx)) on = 0;
+      if(on) has[f.id] = on;
+    });
+    d._aki = has;
+  });
+  AKI.features = feats;
+}
+function akiPool(){ return AKI.scope === 'er' ? ER_DISEASES : DATA; }
+function akiScores(){
+  var pool = akiPool(), scores = [], total = 0;
+  pool.forEach(function(d){
+    if(AKI.rejected.indexOf(d.id) >= 0) return;
+    var s = AKI_PRIOR[d.prevTier || 0] || 1;
+    AKI.history.forEach(function(h){
+      var p = AKI_P[d._aki[h.f] || 0];
+      s *= h.a * p + (1 - h.a) * (1 - p);
+    });
+    scores.push({d:d, s:s}); total += s;
+  });
+  scores.forEach(function(x){ x.s = total ? x.s / total : 0; });
+  return scores.sort(function(a,b){ return b.s - a.s; });
+}
+function akiNextFeature(scores){
+  var asked = {}; AKI.history.forEach(function(h){ asked[h.f] = 1; });
+  var best = null, bestGap = 2;
+  AKI.features.forEach(function(f){
+    if(asked[f.id] || (!f.hx && AKI.history.length < 5)) return;
+    var w = 0; scores.forEach(function(x){ if(x.d._aki[f.id]) w += x.s; });
+    var gap = Math.abs(0.5 - w);
+    if(w > 0.02 && w < 0.98 && gap < bestGap){ bestGap = gap; best = f; }
+  });
+  return best;
+}
+function akiOpen(){
+  akiBuild();
+  var dlg = document.getElementById('aki');
+  if(!dlg){
+    dlg = document.createElement('dialog'); dlg.id = 'aki'; dlg.className = 'aki'; dlg.setAttribute('aria-labelledby','aki-title');
+    document.body.appendChild(dlg);
+    dlg.addEventListener('click', akiClick);
+    dlg.addEventListener('keydown', function(e){
+      var n = parseInt(e.key, 10);
+      if(n >= 1 && n <= 5 && !AKI.guessId){ var b = dlg.querySelector('[data-aki-a="' + (n-1) + '"]'); if(b){ e.preventDefault(); b.click(); } }
+    });
+  }
+  if(!AKI.history.length && !AKI.rejected.length) AKI.scope = MODE === 'erconsult' ? 'er' : 'all';
+  akiRender();
+  if(!dlg.open) dlg.showModal();
+}
+function akiRestart(){ AKI.history = []; AKI.rejected = []; AKI.guessId = null; AKI.sinceGuess = 0; akiRender(); }
+function akiClick(e){
+  var el = e.target.closest ? e.target.closest('[data-aki]') : null;
+  var dlg = document.getElementById('aki');
+  if(e.target === dlg){ dlg.close(); return; }
+  if(!el) return;
+  var act = el.getAttribute('data-aki');
+  if(act === 'answer'){
+    AKI.history.push({f:el.getAttribute('data-aki-f'), a:AKI_ANSWERS[+el.getAttribute('data-aki-a')][1]});
+    AKI.sinceGuess++;
+    akiRender();
+  }
+  else if(act === 'back'){
+    if(AKI.guessId){ AKI.guessId = null; AKI.sinceGuess = 0; }
+    else if(AKI.history.length){ AKI.history.pop(); }
+    akiRender();
+  }
+  else if(act === 'restart'){ akiRestart(); }
+  else if(act === 'scope'){ AKI.scope = el.getAttribute('data-aki-scope'); akiRestart(); }
+  else if(act === 'guessnow'){ AKI.guessId = akiScores()[0].d.id; akiRender(); }
+  else if(act === 'wrong'){ AKI.rejected.push(AKI.guessId); AKI.guessId = null; AKI.sinceGuess = 0; akiRender(); }
+  else if(act === 'open'){ dlg.close(); goToDisease(el.getAttribute('data-id')); }
+  else if(act === 'close'){ dlg.close(); }
+}
+function akiRender(){
+  var dlg = document.getElementById('aki');
+  var scores = akiScores();
+  var qn = AKI.history.length;
+  var next = AKI.guessId ? null : akiNextFeature(scores);
+  if(!AKI.guessId && scores.length && ((qn >= 6 && AKI.sinceGuess >= 3 && scores[0].s >= 0.6) || (qn >= 25 && AKI.sinceGuess >= 3) || (!next && qn))){
+    AKI.guessId = scores[0].d.id;
+  }
+  var poolN = akiPool().length;
+  var html = '<div class="aki-head"><h2 id="aki-title">🧞 Differential diagnosis</h2><button class="aki-x" data-aki="close" aria-label="Close">✕</button></div><div class="aki-body">';
+  html += '<div class="aki-scope" role="group" aria-label="Candidate diseases">' +
+    '<button class="aki-chip" data-aki="scope" data-aki-scope="all" aria-pressed="' + (AKI.scope === 'all') + '">All diseases (' + DATA.length + ')</button>' +
+    '<button class="aki-chip" data-aki="scope" data-aki-scope="er" aria-pressed="' + (AKI.scope === 'er') + '">ER consult (' + ER_DISEASES.length + ')</button></div>';
+  if(!scores.length){
+    html += '<div class="aki-q">I have run out of diseases to suggest.</div>';
+  } else if(AKI.guessId){
+    var g = BYID[AKI.guessId];
+    var pct = Math.round((scores.filter(function(x){ return x.d.id === g.id; })[0] || {s:0}).s * 100);
+    html += '<div class="aki-step">After ' + qn + ' question' + (qn === 1 ? '' : 's') + ', I think it is&hellip;</div>' +
+      '<div class="aki-guess-name">' + g.t + '</div><div class="aki-guess-sub">' + g.h2 + ' &rsaquo; ' + g.h3 + ' &middot; ' + pct + '% of my confidence</div>' +
+      '<div class="aki-answers">' +
+      '<button class="aki-ans" style="--aki-c:#2e7d32" data-aki="open" data-id="' + escapeAttr(g.id) + '"><span class="aki-key">✓</span>Yes, open the record</button>' +
+      '<button class="aki-ans" style="--aki-c:#c8102e" data-aki="wrong"><span class="aki-key">✗</span>No, keep asking</button></div>';
+  } else {
+    html += '<div class="aki-step">Question ' + (qn + 1) + ' &middot; ' + scores.length + ' of ' + poolN + ' diseases still possible</div>' +
+      '<div class="aki-q">' + escapeHtml(next.q) + '</div><div class="aki-answers">' +
+      AKI_ANSWERS.map(function(a, i){
+        return '<button class="aki-ans" style="--aki-c:' + a[2] + '" data-aki="answer" data-aki-f="' + escapeAttr(next.id) + '" data-aki-a="' + i + '"><span class="aki-key">' + (i + 1) + '</span>' + a[0] + '</button>';
+      }).join('') + '</div>';
+  }
+  html += '<div class="aki-tools">' +
+    '<button class="aki-tool" data-aki="back"' + (qn || AKI.guessId ? '' : ' disabled') + '>&larr; Back</button>' +
+    '<button class="aki-tool" data-aki="restart">Restart</button>' +
+    (AKI.guessId || !scores.length ? '' : '<button class="aki-tool aki-primary" data-aki="guessnow"' + (qn ? '' : ' disabled') + '>Guess now</button>') + '</div>';
+  if(qn && scores.length){
+    html += '<div class="aki-lead"><div class="aki-lead-title">Differential diagnosis</div>' + scores.slice(0,5).map(function(x){
+      var p = Math.max(1, Math.round(x.s * 100));
+      return '<button class="aki-cand" data-aki="open" data-id="' + escapeAttr(x.d.id) + '"><span class="aki-cand-name">' + x.d.t + '</span><span class="aki-cand-pct">' + p + '%</span><span class="aki-bar" style="width:' + Math.min(100, p) + '%"></span></button>';
+    }).join('') + '</div>';
+  }
+  html += '<div class="aki-note">A teaching aid built from this page\'s records, not a diagnosis. Keys 1&ndash;5 answer.</div></div>';
+  dlg.innerHTML = html;
+}
 
 renderNav();
 render();
