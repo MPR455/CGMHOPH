@@ -374,6 +374,7 @@ body.theme-dark .pn-badge.preop,body.theme-black .pn-badge.preop{background:#3a2
 }
 </style>
 <link rel="stylesheet" href="consult_template/consult.css">
+<link rel="stylesheet" href="ophmed/ophmed.css">
 </head>
 <body>
 <header>
@@ -712,9 +713,11 @@ body.theme-dark .pn-badge.preop,body.theme-black .pn-badge.preop{background:#3a2
 
 <!-- ============ OPH MED TAB ============ -->
 <div class="tab" id="tab-ophmed">
+<div id="om"></div>
+<details class="om-ref" id="om-ref" style="max-width:1100px;margin:26px auto 0"><summary>📚 Reference tables &amp; topics — Taiwan formulary, glaucoma therapy, drug toxicity…</summary>
 <div style="max-width:920px;margin:0 auto">
-  <div style="display:flex;gap:8px;margin-bottom:10px">
-    <input type="text" id="ophmed-search" placeholder="Search drug, class, effect…" oninput="ophmedFilter()" style="flex:1">
+  <div style="display:flex;gap:8px;margin:8px 0 10px">
+    <input type="text" id="ophmed-search" placeholder="Filter reference tables…" oninput="ophmedFilter()" style="flex:1">
   </div>
   <div id="ophmed-list">
 <details class="subguide"><summary>Taiwan formulary — drops & oral drugs</summary><div class="sgbody"><h3>A. Topical medications (eye drops / ointments)</h3>
@@ -2074,6 +2077,7 @@ chronic recurrent VKH</strong>.</p>
   </div>
   <div class="small" id="ophmed-none" style="display:none;margin-top:8px">No matches.</div>
 </div>
+</details>
 </div>
 
 <!-- ============ PGY TAB ============ -->
@@ -3366,5 +3370,8 @@ document.getElementById('o-fundus').addEventListener('change', function(){ docum
 <script src="progress_template/custom_templates.js"></script>
 <script src="progress_template/treatment_plan_templates.js"></script>
 <script src="progress_note.js"></script>
+<script src="ophmed/ophmed_drugs.js"></script>
+<script src="ophmed/ophmed_data.js"></script>
+<script src="ophmed/ophmed.js"></script>
 </body>
 </html>
